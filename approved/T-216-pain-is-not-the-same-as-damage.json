@@ -1,0 +1,69 @@
+{
+  "id": "T-216",
+  "service": "physio",
+  "topic": "Pain is not the same as damage",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Hurt doesn't always mean harm",
+      "sub": "Why pain is a protective alarm, not a damage report."
+    },
+    {
+      "kind": "body",
+      "title": "Pain is a protector",
+      "body": "Pain is your nervous system's way of protecting you. It's produced by the brain using many inputs, not just the state of your tissues. It's always real, but it isn't a direct measure of injury."
+    },
+    {
+      "kind": "body",
+      "title": "Why the alarm gets sensitive",
+      "body": "When pain hangs around, the system can become more sensitive, like a smoke alarm that goes off when you make toast. Stress, poor sleep and worry can all turn the volume up."
+    },
+    {
+      "kind": "body",
+      "title": "Scans don't tell the whole story",
+      "body": "Plenty of people without pain have disc bulges or joint changes on scans, and some people with a lot of pain have clear scans. The picture and the pain often don't match."
+    },
+    {
+      "kind": "body",
+      "title": "Moving is usually safe",
+      "body": "For most persistent pain, some discomfort during exercise is OK and doesn't mean you're doing harm. Start small, build up gradually and check how you feel the next day."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "New pain after a significant injury, numbness or weakness, pain with fever or unexplained weight loss, or pain that's steadily getting worse is worth a proper assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want to understand your pain?",
+      "body": "Our Sydney CBD physios take time to explain what's going on and build a plan to help you move with more confidence. Book online — link in bio."
+    }
+  ],
+  "caption": "If it hurts, does that mean something's damaged? Not always.\n\nPain is your nervous system's protection alarm. It's always real, but it's shaped by many things, including sleep, stress and past experiences, not just what's happening in your tissues. When pain lingers, the alarm can get more sensitive, like a smoke detector that goes off for toast.\n\nThat's why scan findings and pain levels often don't match, and why gradual movement is usually safe even when it's a bit uncomfortable.\n\nNew pain after an injury, numbness, weakness or pain that keeps getting worse is worth an assessment.\n\nOur Sydney CBD and Chatswood physios can help you make sense of it. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#painscience",
+    "#chronicpain",
+    "#persistentpain",
+    "#backpain",
+    "#painmanagement",
+    "#painrelief",
+    "#exerciseismedicine",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Hurt doesn't always mean harm",
+    "body": "Pain is a protective alarm. With persistent pain, gradual movement is usually safe even when it's a bit uncomfortable."
+  },
+  "scheduled_date": "2026-11-03",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "T-201",
+  "service": "physio",
+  "topic": "Jumper's knee: pain below the kneecap (patellar tendinopathy)",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Jumper's knee: load it, don't lose it",
+      "sub": "Pain just below the kneecap when you jump, squat or take the stairs?"
+    },
+    {
+      "kind": "body",
+      "title": "Meet jumper's knee",
+      "body": "Patellar tendinopathy is irritation of the tendon just below the kneecap. It's common in basketball, volleyball and netball, and usually flares when jumping load climbs faster than the tendon can adapt."
+    },
+    {
+      "kind": "body",
+      "title": "Rest calms it, load rebuilds it",
+      "body": "Stopping completely often settles the pain, but it tends to return once you're back on court. Tendons usually respond to gradual, planned loading, so adjust your training rather than stopping everything."
+    },
+    {
+      "kind": "body",
+      "title": "Use a 0 to 10 pain scale",
+      "body": "Pain up to about 3 or 4 out of 10 during exercise is usually acceptable, as long as it settles by the next morning. If it's worse the next day, ease off a little."
+    },
+    {
+      "kind": "body",
+      "title": "Holds first, jumps last",
+      "body": "Rehab often starts with holds, like a wall sit or leg press hold, then moves to slow squats, and later to jumping and landing. Progress over weeks to months is normal."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Sudden pain with a pop, quick swelling, the knee giving way, trouble straightening your leg, or pain that stops you walking normally are worth an assessment rather than waiting."
+    },
+    {
+      "kind": "cta",
+      "headline": "Tendon grumbling at training?",
+      "body": "Our Chatswood physios assess how your knee handles load, then build a step-by-step plan back to jumping and sport. Book online — link in bio."
+    }
+  ],
+  "caption": "Pain just below the kneecap every time you jump, squat or take the stairs?\n\nThat's often patellar tendinopathy, also called jumper's knee. It usually shows up when jumping or squatting load increases faster than the tendon can adapt, like a new season, extra training or a switch to harder courts.\n\nRest tends to calm it down, but it often comes back once you return to sport. What usually helps more is adjusting your training and rebuilding tendon capacity gradually: holds, then slow strength work, then jumping and landing. Mild discomfort that settles by the next morning is usually OK.\n\nA pop, rapid swelling, the knee giving way or trouble straightening it are worth getting checked sooner.\n\nOur Chatswood and Sydney CBD physios see this heaps. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#jumpersknee",
+    "#patellartendinopathy",
+    "#kneepain",
+    "#tendinopathy",
+    "#basketball",
+    "#netball",
+    "#volleyball",
+    "#sportsinjury",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Knee sore below the kneecap?",
+    "body": "Pain up to 3 or 4 out of 10 that settles by morning is usually OK. Worse the next day? Ease off a little."
+  },
+  "scheduled_date": "2026-10-28",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

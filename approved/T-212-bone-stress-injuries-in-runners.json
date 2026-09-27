@@ -1,0 +1,69 @@
+{
+  "id": "T-212",
+  "service": "physio",
+  "topic": "Bone stress injuries in runners",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Bone pain that builds as you run",
+      "sub": "Bone stress injuries in runners: what they are and how to respond."
+    },
+    {
+      "kind": "body",
+      "title": "Bone adapts, just slowly",
+      "body": "Bone gets stronger with running, but it adapts more slowly than muscle. When training jumps faster than bone can keep up, a bone stress injury can develop, ranging from a reaction to a fracture."
+    },
+    {
+      "kind": "body",
+      "title": "Common signs to notice",
+      "body": "Pain that builds during a run instead of warming up, one spot on the bone that's tender to press, pain when hopping, or an ache that lingers after running are common signs."
+    },
+    {
+      "kind": "body",
+      "title": "Common contributors",
+      "body": "Sudden jumps in mileage or speed work, harder surfaces, too little recovery, and not eating enough to match your training can all contribute. Often it's several things at once."
+    },
+    {
+      "kind": "body",
+      "title": "This one needs a real break",
+      "body": "Unlike some niggles, bone stress usually needs a genuine reduction in running. Cycling or swimming can often continue, and a gradual return is planned once things settle."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain in one spot on the bone, pain with hopping, or pain at night or at rest is worth assessing. Your physio or GP may arrange imaging if a bone stress injury is suspected."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a steady return to running?",
+      "body": "Our Sydney CBD physios assess your pain and your training load, then plan a gradual, structured return to running. Book online — link in bio."
+    }
+  ],
+  "caption": "Shin or foot pain that gets worse as you run, not better?\n\nThat pattern is worth paying attention to. Bone adapts to running more slowly than muscle does, and if training ramps up faster than bone can keep up, a bone stress injury can develop.\n\nCommon contributors include sudden jumps in mileage or speed, harder surfaces, not enough recovery and not eating enough for the training you're doing. Unlike many niggles, bone stress usually needs a genuine break from running, though cycling or swimming can often continue.\n\nPain in one spot on the bone, pain when hopping or pain at rest is worth an assessment.\n\nOur Sydney CBD and Chatswood physios can help plan a steady return. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#runninginjury",
+    "#stressfracture",
+    "#bonestress",
+    "#shinpain",
+    "#footpain",
+    "#running",
+    "#runners",
+    "#sydneyrunners",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Bone pain building as you run?",
+    "body": "Pain in one spot, pain when hopping or pain at rest is worth an assessment."
+  },
+  "scheduled_date": "2026-10-31",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

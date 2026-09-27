@@ -1,0 +1,69 @@
+{
+  "id": "T-219",
+  "service": "physio",
+  "topic": "Pacing for persistent pain: avoiding boom and bust",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Big day, then three days on the couch?",
+      "sub": "That's boom and bust. Pacing can help you break the cycle."
+    },
+    {
+      "kind": "body",
+      "title": "What boom and bust looks like",
+      "body": "On a good day you do everything: the garden, the gym, the lot. Pain flares, so you rest for days and lose fitness. Then the next good day starts the whole cycle again."
+    },
+    {
+      "kind": "body",
+      "title": "Step 1: find your baseline",
+      "body": "Pick an activity, like walking. Work out how much you can do on a good day and on a bad day without a big flare. Start at a little less than the bad-day amount."
+    },
+    {
+      "kind": "body",
+      "title": "Step 2: follow the plan, not pain",
+      "body": "Stick to your planned amount on good days too. Stop when you reach it, even if you feel fine. Break bigger jobs into chunks, with short rests in between."
+    },
+    {
+      "kind": "body",
+      "title": "Step 3: build up slowly",
+      "body": "Every week or two, increase by a small amount. Around 10% is a common guide. Expect some ups and downs. A mild flare means hold steady, not start again from scratch."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "New or different pain, numbness or weakness, pain with fever or unexplained weight loss, or flares that keep getting worse despite pacing are worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a pacing plan?",
+      "body": "Our Chatswood physios help you set a baseline, plan your week and build activity back up gradually. Book online — link in bio."
+    }
+  ],
+  "caption": "Great day, big effort, then three days paying for it?\n\nThat pattern is called boom and bust, and it's really common with persistent pain. The good days push too far, the flare forces rest, fitness drops and the cycle starts again.\n\nPacing breaks it. Find a baseline you can manage on a bad day, start just under it, and stick to the plan on good days too. Split bigger jobs into chunks. Then build up by small amounts every week or two. A mild flare means hold steady, not start over.\n\nNew pain, numbness or weakness is worth getting checked.\n\nOur Chatswood and Sydney CBD physios can help you set up a plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#chronicpain",
+    "#persistentpain",
+    "#pacing",
+    "#painmanagement",
+    "#fatigue",
+    "#activitypacing",
+    "#flareup",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Stuck in boom and bust?",
+    "body": "Find what you can do on a bad day, start just under it, and stick to it on good days too."
+  },
+  "scheduled_date": "2026-11-04",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

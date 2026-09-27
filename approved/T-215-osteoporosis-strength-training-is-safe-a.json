@@ -1,0 +1,70 @@
+{
+  "id": "T-215",
+  "service": "physio",
+  "topic": "Osteoporosis: strength training is safe and helpful",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Osteoporosis? You can still lift weights",
+      "sub": "Guidelines now support strength and impact training for most people with low bone density."
+    },
+    {
+      "kind": "body",
+      "title": "Bones respond to load",
+      "body": "Bone is living tissue that adapts to the forces placed on it. Current guidelines support progressive strength and impact exercise for most people with osteoporosis or low bone density."
+    },
+    {
+      "kind": "body",
+      "title": "Why walking alone falls short",
+      "body": "Walking is great for general health, but on its own it often isn't enough load to strengthen bone. Research suggests supervised, progressive resistance training is generally safe and can help."
+    },
+    {
+      "kind": "body",
+      "title": "What a program often includes",
+      "body": "Strength work like squats, deadlift variations and step-ups, building to moderate or heavier loads. Impact work such as heel drops or small jumps. And balance training to help reduce falls."
+    },
+    {
+      "kind": "body",
+      "title": "Start guided, build gradually",
+      "body": "A physio can check your history, teach technique and start at a load that suits you, then progress it over weeks. Two or three sessions a week is a common target."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Sudden back pain after a minor bump or lift, noticeable loss of height, a fall with pain, or hip or groin pain when walking should be assessed by your GP or physio."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want to train with confidence?",
+      "body": "Our Chatswood physios build strength programs for bone health, matched to your history and goals. Book online — link in bio."
+    }
+  ],
+  "caption": "Diagnosed with osteoporosis and told to take it easy?\n\nCurrent guidelines now say the opposite for most people. Bone adapts to the load placed on it, and research suggests supervised, progressive strength training is generally safe and can help bone health.\n\nWalking is great, but on its own it often isn't enough. A program usually includes strength work like squats and step-ups, some impact such as heel drops, and balance training to help reduce falls. Starting with guidance and building gradually is the key.\n\nSudden back pain after a minor bump or lift, or a fall with pain, should be checked.\n\nOur Chatswood and Sydney CBD physios can help you get started. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#osteoporosis",
+    "#bonehealth",
+    "#osteopenia",
+    "#strengthtraining",
+    "#resistancetraining",
+    "#healthyageing",
+    "#fallsprevention",
+    "#womenshealth",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Osteoporosis and lifting?",
+    "body": "For most people, guided, progressive strength training is safe and helpful for bone health."
+  },
+  "scheduled_date": "2026-11-02",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

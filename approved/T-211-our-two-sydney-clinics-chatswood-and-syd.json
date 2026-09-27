@@ -1,0 +1,69 @@
+{
+  "id": "T-211",
+  "service": "clinic",
+  "topic": "Our two Sydney clinics: Chatswood and Sydney CBD",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Two clinics, one team",
+      "sub": "Chatswood and the Sydney CBD, both a short walk from the train."
+    },
+    {
+      "kind": "body",
+      "title": "Chatswood",
+      "body": "Level 1, 38B Albert Ave, Chatswood. We're a short walk from Chatswood station, which is handy if you live on the North Shore, work nearby or travel in by train."
+    },
+    {
+      "kind": "body",
+      "title": "Sydney CBD",
+      "body": "Suite 1102, 99 York St, Sydney. We're a short walk from Wynyard station, which suits people fitting an appointment around a working day in the city."
+    },
+    {
+      "kind": "body",
+      "title": "One team across both",
+      "body": "Our physiotherapists, chiropractors, clinical Pilates team and remedial massage therapists work as one team. We talk to each other and refer between services when that suits your goals."
+    },
+    {
+      "kind": "body",
+      "title": "Ways to pay and claim",
+      "body": "Claim on the spot with HICAPS if your extras cover includes the service. We also see people under Medicare's GP chronic condition management plan, NSW WorkCover, NSW CTP, NDIS and DVA."
+    },
+    {
+      "kind": "body",
+      "title": "Booking is simple",
+      "body": "Book online via the link in bio, choose the clinic that suits you, then pick a practitioner and time. Bring any referrals, claim details and scans to your first visit."
+    },
+    {
+      "kind": "cta",
+      "headline": "Which clinic suits you?",
+      "body": "Chatswood or Sydney CBD, same team approach. Book online — link in bio."
+    }
+  ],
+  "caption": "Two Sydney clinics, one team.\n\nHybrid Physiotherapy has a clinic in Chatswood at Level 1, 38B Albert Ave, a short walk from Chatswood station, and one in the city at Suite 1102, 99 York St, a short walk from Wynyard station.\n\nOur physiotherapists, chiropractors, clinical Pilates team and remedial massage therapists work together and refer between each other when it suits your goals.\n\nYou can claim on the spot with HICAPS if your extras cover includes the service. We also see people under Medicare's GP chronic condition management plan, NSW WorkCover, NSW CTP, NDIS and DVA. Bring any referrals, claim numbers and scans to your first visit.\n\nBook online via the link in bio and choose the clinic that suits you.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#sydneyphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#lowernorthshore",
+    "#wynyard",
+    "#alliedhealth",
+    "#sydneyhealth"
+  ],
+  "story": {
+    "headline": "Two clinics, one team",
+    "body": "Chatswood: 38B Albert Ave, near Chatswood station. Sydney CBD: 99 York St, near Wynyard station."
+  },
+  "scheduled_date": "2026-10-31",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "T-218",
+  "service": "chiro",
+  "topic": "Woke up with a stiff neck (wry neck)",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Woke up and can't turn your head?",
+      "sub": "Wry neck is common and usually settles within days to a week or so."
+    },
+    {
+      "kind": "body",
+      "title": "What wry neck usually is",
+      "body": "Acute wry neck is sudden neck pain and stiffness, often noticed on waking, with the head held slightly to one side. It's common, and it usually settles well without anything serious going on."
+    },
+    {
+      "kind": "body",
+      "title": "Keep it gently moving",
+      "body": "Small, comfortable movements every hour or so, turning, tilting and nodding within easy range, usually help more than holding it still. Aim for movement, not stretching into pain."
+    },
+    {
+      "kind": "body",
+      "title": "Warmth and comfort help",
+      "body": "A heat pack for 15 to 20 minutes can help muscles ease off. Use a pillow that keeps your neck level, and carry on with normal activity as comfort allows."
+    },
+    {
+      "kind": "body",
+      "title": "Where chiropractic care fits",
+      "body": "A chiropractor can assess your neck and may use gentle mobilisation, soft tissue work or an adjustment where appropriate, alongside simple exercises to keep things moving between visits."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Neck pain after a fall or accident, fever, a severe headache, pins and needles or weakness in the arm, dizziness, or trouble swallowing need prompt medical attention first."
+    },
+    {
+      "kind": "cta",
+      "headline": "Neck stuck on one side?",
+      "body": "Our chiropractors assess your neck, explain what's going on and give you simple ways to keep it moving. Book online — link in bio."
+    }
+  ],
+  "caption": "Woke up with your head stuck to one side?\n\nThat's often acute wry neck. It's sudden, it's sore and it's very common, and it usually settles within days to a week or so.\n\nGentle movement tends to help more than keeping it still: small turns, tilts and nods within a comfortable range every hour or so. A heat pack and a level pillow can help too. Our chiropractors may use gentle mobilisation, soft tissue work or an adjustment where appropriate, alongside simple exercises.\n\nNeck pain after a fall or accident, fever, a severe headache or arm weakness needs prompt medical attention first.\n\nBook a chiropractic visit at Hybrid Physiotherapy online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#chiro",
+    "#wryneck",
+    "#stiffneck",
+    "#neckpain",
+    "#neckstiffness",
+    "#spinehealth",
+    "#sleep",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Neck stuck this morning?",
+    "body": "Small, comfortable turns, tilts and nods every hour usually help more than keeping it still."
+  },
+  "scheduled_date": "2026-11-03",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

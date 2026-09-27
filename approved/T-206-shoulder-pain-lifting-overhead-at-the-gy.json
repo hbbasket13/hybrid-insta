@@ -1,0 +1,69 @@
+{
+  "id": "T-206",
+  "service": "physio",
+  "topic": "Shoulder pain lifting overhead at the gym",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Shoulder pinches on overhead press?",
+      "sub": "A few training tweaks often let you keep lifting while it settles."
+    },
+    {
+      "kind": "body",
+      "title": "Usually a load issue",
+      "body": "Shoulder pain with pressing overhead is common in gym-goers. It often follows a jump in weight, sets or training days, rather than one bad rep or a structural problem."
+    },
+    {
+      "kind": "body",
+      "title": "Modify, don't necessarily stop",
+      "body": "Try a lighter weight, a slightly shorter range, or swap to a landmine press or incline press for a while. Keep the movements that feel OK so you can keep training."
+    },
+    {
+      "kind": "body",
+      "title": "Train the upper back and cuff",
+      "body": "Rows, face pulls and side-lying or banded external rotations build the muscles that support overhead work. Two or three sessions a week is a reasonable start for most lifters."
+    },
+    {
+      "kind": "body",
+      "title": "Rebuild overhead gradually",
+      "body": "Return to overhead pressing with lighter loads and more reps first. Use the next-day check: if the shoulder feels OK tomorrow, progress a little. If not, hold steady."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Sudden weakness after a fall or heavy lift, a shoulder that feels unstable or slips, night pain that keeps building, or tingling down the arm is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep pressing, just smarter",
+      "body": "Our Sydney CBD physios look at your shoulder, your program and your technique, then plan a gradual path back to overhead lifting. Book online — link in bio."
+    }
+  ],
+  "caption": "Overhead press starting to pinch at the top?\n\nShoulder pain with overhead lifting is common, and it usually follows a jump in load, sets or training days rather than one bad rep. Most of the time you don't need to stop training altogether.\n\nTry lighter weights or a shorter range, or swap to a landmine or incline press for a few weeks. Add rows, face pulls and external rotations to build support. Then bring overhead work back gradually, checking how the shoulder feels the next day.\n\nSudden weakness, a shoulder that feels unstable, or pins and needles down the arm are worth getting checked.\n\nOur Sydney CBD and Chatswood physios work with lifters every week. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#shoulderpain",
+    "#shoulderinjury",
+    "#overheadpress",
+    "#gyminjury",
+    "#strengthtraining",
+    "#weightlifting",
+    "#rotatorcuff",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Overhead press pinching?",
+    "body": "Drop the load, shorten the range, add rows and face pulls. Build back up using the next-day check."
+  },
+  "scheduled_date": "2026-10-29",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

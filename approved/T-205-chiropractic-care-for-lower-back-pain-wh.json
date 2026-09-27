@@ -1,0 +1,68 @@
+{
+  "id": "T-205",
+  "service": "chiro",
+  "topic": "Chiropractic care for lower back pain: what guidelines say",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Back pain: what do guidelines recommend?",
+      "sub": "Where chiropractic care fits, and what matters just as much."
+    },
+    {
+      "kind": "body",
+      "title": "Staying active comes first",
+      "body": "Current guidelines for lower back pain start with reassurance and staying active. Gentle walking and normal daily activity, adjusted to comfort, usually help more than bed rest."
+    },
+    {
+      "kind": "body",
+      "title": "Manual therapy is an option",
+      "body": "Guidelines list spinal manipulation and mobilisation as options for some people, usually alongside exercise and advice. It can help with pain and movement in the short term, rather than as a stand-alone plan."
+    },
+    {
+      "kind": "body",
+      "title": "Scans often aren't needed",
+      "body": "For most lower back pain without warning signs, guidelines don't recommend routine X-rays or MRI. Scans often show changes that are just as common in people who have no pain at all."
+    },
+    {
+      "kind": "body",
+      "title": "Exercise carries the long game",
+      "body": "Strength and movement work, such as walking, Pilates-style exercise or a gym program, is recommended for back pain that lingers. The type matters less than finding one you'll keep doing."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Numbness around the groin, changes in bladder or bowel control, leg weakness, fever, unexplained weight loss, or pain after a significant fall need prompt medical attention."
+    },
+    {
+      "kind": "cta",
+      "headline": "Sore back, not sure where to start?",
+      "body": "Our chiropractors combine hands-on care with exercise and advice, and refer to our physios when that suits you better. Book online — link in bio."
+    }
+  ],
+  "caption": "What do back pain guidelines actually say about chiropractic care?\n\nThey start with the basics: reassurance and staying active. Most lower back pain settles, and gentle movement usually helps more than bed rest. Routine scans generally aren't recommended unless there are warning signs.\n\nSpinal manipulation and mobilisation are listed as options for some people, usually alongside exercise and advice rather than on their own. Longer term, regular exercise you enjoy tends to carry the most weight.\n\nNumbness around the groin, bladder or bowel changes, leg weakness or fever need prompt medical attention.\n\nOur chiropractors at Hybrid Physiotherapy work alongside our physios and Pilates team. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#chiro",
+    "#backpain",
+    "#lowerbackpain",
+    "#lowbackpain",
+    "#spinehealth",
+    "#stayactive",
+    "#exercise",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "What guidelines say on back pain",
+    "body": "Stay active, skip routine scans, and treat hands-on care as one tool alongside exercise."
+  },
+  "scheduled_date": "2026-10-29",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

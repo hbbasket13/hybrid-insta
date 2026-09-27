@@ -1,0 +1,69 @@
+{
+  "id": "T-204",
+  "service": "physio",
+  "topic": "Hip osteoarthritis: exercise comes first",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Stiff, achy hip in the mornings?",
+      "sub": "Hip osteoarthritis is common, and exercise is usually the first thing to try."
+    },
+    {
+      "kind": "body",
+      "title": "Hip OA is very common",
+      "body": "Osteoarthritis is a common change in the hip joint as we get older. It often shows up as a groin or front-of-hip ache, stiffness after sitting, and trouble putting on socks or shoes."
+    },
+    {
+      "kind": "body",
+      "title": "Exercise is first-line care",
+      "body": "Current guidelines recommend exercise and education as first-line care for hip osteoarthritis, whatever the X-ray shows. Strength and movement can help with pain and daily function for many people."
+    },
+    {
+      "kind": "body",
+      "title": "Four moves to start with",
+      "body": "Sit to stand from a chair, bridges, side-lying leg lifts and step-ups. Two or three sessions a week, building gradually over time, is a reasonable place to begin for most people."
+    },
+    {
+      "kind": "body",
+      "title": "Keep walking, adjust the dose",
+      "body": "Walking, cycling and swimming are usually fine. Some ache during activity is OK if it settles within a day. If it doesn't, shorten the distance or slow the pace rather than stopping."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Hip pain after a fall, being unable to take weight, a hot swollen joint, fever, or pain that wakes you every night and keeps building should be checked by your GP promptly."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a plan for your hip?",
+      "body": "Our Sydney CBD physios assess how your hip moves and build a strength program that fits your week. Book online — link in bio."
+    }
+  ],
+  "caption": "Hip stiff first thing, or after sitting through a long meeting?\n\nHip osteoarthritis is very common, and it often shows up as a groin ache, stiffness after sitting or trouble with socks and shoes. The good news: current guidelines put exercise and education first, whatever your X-ray looks like.\n\nSimple strength work like sit to stands, bridges and step-ups, two or three times a week, is a good starting point. Keep walking, cycling or swimming, and adjust the distance or pace if the ache hangs around past the next day.\n\nA hip that can't take weight, a hot swollen joint or pain after a fall should be checked by your GP.\n\nOur Sydney CBD and Chatswood physios can help you get started. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#hippain",
+    "#hiparthritis",
+    "#osteoarthritis",
+    "#arthritis",
+    "#strengthtraining",
+    "#exerciseismedicine",
+    "#healthyageing",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Stiff hip in the morning?",
+    "body": "Try sit to stands, bridges and step-ups two or three times a week. Build gradually."
+  },
+  "scheduled_date": "2026-10-29",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

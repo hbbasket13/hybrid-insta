@@ -1,0 +1,69 @@
+{
+  "id": "T-209",
+  "service": "physio",
+  "topic": "Carpal tunnel: tingling hands at night",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Hands tingling in the middle of the night?",
+      "sub": "Carpal tunnel symptoms are common, and simple changes often help."
+    },
+    {
+      "kind": "body",
+      "title": "What carpal tunnel involves",
+      "body": "The median nerve passes through a narrow tunnel at the wrist. When it's irritated, you may notice pins and needles in the thumb, index and middle fingers, often worse at night."
+    },
+    {
+      "kind": "body",
+      "title": "Why nights are often worse",
+      "body": "Many people sleep with their wrists curled and bent, which can increase pressure in the tunnel. Shaking the hand out usually eases it for a while, which is something lots of people describe."
+    },
+    {
+      "kind": "body",
+      "title": "Keep the wrist straight at night",
+      "body": "A wrist splint that keeps the wrist straight overnight is a common first step and can help night symptoms. Keeping your arms off and away from the pillow may help too."
+    },
+    {
+      "kind": "body",
+      "title": "Adjust your daytime load",
+      "body": "Take short breaks from sustained gripping, tool use and phone scrolling. Keep your wrist level on the keyboard and mouse. Gentle nerve and tendon gliding exercises may also help."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Constant numbness, weakness in the thumb, dropping things, wasting at the base of the thumb, or symptoms with neck pain are worth an assessment soon rather than waiting it out."
+    },
+    {
+      "kind": "cta",
+      "headline": "Tired of tingling hands?",
+      "body": "Our Chatswood physios assess your wrist, neck and daily habits, then build a plan to help settle symptoms. Book online — link in bio."
+    }
+  ],
+  "caption": "Waking up at 3am shaking the pins and needles out of your hand?\n\nTingling in the thumb, index and middle fingers, especially at night, is often linked to irritation of the median nerve at the wrist, known as carpal tunnel syndrome.\n\nMany people sleep with their wrists bent, which can increase pressure there. A splint that keeps the wrist straight overnight is a common first step. During the day, break up sustained gripping and scrolling, keep your wrist level at the desk, and try gentle nerve gliding exercises.\n\nConstant numbness, thumb weakness or dropping things are worth an assessment soon.\n\nOur Chatswood and Sydney CBD physios can help you work out what's going on. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#carpaltunnel",
+    "#carpaltunnelsyndrome",
+    "#handpain",
+    "#wristpain",
+    "#pinsandneedles",
+    "#numbhands",
+    "#deskjob",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Tingling hands at night?",
+    "body": "Try keeping your wrist straight overnight. Constant numbness or thumb weakness? Get it checked."
+  },
+  "scheduled_date": "2026-10-30",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
