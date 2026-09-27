@@ -1,0 +1,69 @@
+{
+  "id": "T-367",
+  "service": "pilates",
+  "topic": "Pilates for tradies",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Tradie? Your body is the main tool",
+      "sub": "How clinical Pilates builds the strength a day on site asks for."
+    },
+    {
+      "kind": "body",
+      "title": "Site work is repetitive load",
+      "body": "Kneeling, lifting, reaching overhead and twisting in tight spaces, often for hours. Most tradie niggles come from doing a lot of the same thing without enough built-up capacity for it."
+    },
+    {
+      "kind": "body",
+      "title": "Strength for awkward positions",
+      "body": "Gym machines train neat, stable movements. Pilates trains control through odd angles, like lifting from a twisted position or holding a half squat while you work under a sink."
+    },
+    {
+      "kind": "body",
+      "title": "Hips and mid-back share the load",
+      "body": "When your hips and upper back move well, your lower back does less of the twisting. Rotation and hip mobility work are usually a big part of a tradie's program."
+    },
+    {
+      "kind": "body",
+      "title": "Small sessions that fit the week",
+      "body": "One or two sessions a week plus ten minutes of home exercises is a realistic start. The home moves need no gear and can be done before you head to site."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain with leg numbness or weakness, pain after a fall from a ladder or height, or a niggle that keeps building week after week is worth a proper assessment first."
+    },
+    {
+      "kind": "cta",
+      "headline": "Built for the job you do",
+      "body": "Our Pilates team starts with an assessment, then builds a program around the work you actually do. Book online via the link in bio."
+    }
+  ],
+  "caption": "Tradie? Your body is the main tool on site, and it deserves some maintenance too.\n\nKneeling, lifting, reaching overhead and twisting in tight spaces all add up. Most niggles we see in tradies come from repeating the same tasks without enough strength and control built up for them.\n\nClinical Pilates trains control in awkward positions, gets your hips and mid-back sharing the load, and keeps sessions short enough to fit around a busy week. The summer break is a handy time to start.\n\nOur Pilates team at Hybrid Physiotherapy begins with an assessment and builds a program around your actual job. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#tradie",
+    "#tradies",
+    "#tradielife",
+    "#backpain",
+    "#strengthtraining",
+    "#injuryprevention",
+    "#sydney",
+    "#sydneypilates",
+    "#northshore",
+    "#sydneytradies",
+    "#reformerpilates",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Tradie back feeling the week?",
+    "body": "Before site tomorrow: ten slow bridges and ten side-lying leg lifts each side. No gear, five minutes."
+  },
+  "scheduled_date": "2026-12-19",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

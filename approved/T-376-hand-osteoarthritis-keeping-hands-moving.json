@@ -1,0 +1,69 @@
+{
+  "id": "T-376",
+  "service": "physio",
+  "topic": "Hand osteoarthritis: keeping hands moving",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Stiff, achy hands in the morning?",
+      "sub": "Hand osteoarthritis is common. Movement and strength usually help."
+    },
+    {
+      "kind": "body",
+      "title": "What's going on",
+      "body": "Osteoarthritis in the hands often affects the finger joints and the base of the thumb. Stiffness in the morning, aching after use and knobbly joints are common. It varies a lot between people."
+    },
+    {
+      "kind": "body",
+      "title": "Move them every day",
+      "body": "Gentle range exercises help: make a loose fist, then spread your fingers wide. Touch your thumb to each fingertip. Ten slow reps, a few times a day, often ease stiffness."
+    },
+    {
+      "kind": "body",
+      "title": "Warm up first",
+      "body": "Many people find their hands move more easily after warmth. Try the exercises after a warm shower, or with your hands resting in a bowl of warm water for a few minutes first."
+    },
+    {
+      "kind": "body",
+      "title": "Strength is part of it",
+      "body": "Squeezing a soft ball, pinching putty and lifting light objects build grip strength. Stronger muscles can help support the joints through daily tasks like opening jars."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Sudden swelling, redness and heat in a joint, a joint that's changing shape quickly, or pain that stops you doing daily tasks are worth getting assessed by your GP or physio."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep your hands working for you",
+      "body": "Our Sydney CBD and Chatswood physios assess your hands and build a simple exercise plan, including tips for easier daily tasks. Book online via the link in bio."
+    }
+  ],
+  "caption": "Hands stiff and achy first thing in the morning?\n\nOsteoarthritis in the hands is really common, especially in the finger joints and the base of the thumb. The good news is that regular movement and strength work are often a big help.\n\nTry making a loose fist then spreading your fingers wide, and touching your thumb to each fingertip. Warm water first can make it easier. Squeezing a soft ball or putty builds grip strength for jars, keys and shopping bags. Sudden redness, heat or swelling is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can build your plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#handosteoarthritis",
+    "#osteoarthritis",
+    "#arthritis",
+    "#handpain",
+    "#thumbpain",
+    "#handexercises",
+    "#gripstrength",
+    "#healthyageing",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Stiff hands in the morning?",
+    "body": "Warm water, then ten slow fists and finger spreads. Touch your thumb to each fingertip. Repeat a few times a day."
+  },
+  "scheduled_date": "2026-12-23",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

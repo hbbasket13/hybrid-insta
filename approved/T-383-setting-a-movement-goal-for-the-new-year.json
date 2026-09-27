@@ -1,0 +1,69 @@
+{
+  "id": "T-383",
+  "service": "clinic",
+  "topic": "Setting a movement goal for the new year",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "New year, one movement goal",
+      "sub": "Skip the big resolution. Here's how to set one you'll keep."
+    },
+    {
+      "kind": "body",
+      "title": "Make it specific",
+      "body": "'Get fit' is hard to act on. 'Walk 30 minutes before work on weekdays' or 'two strength sessions a week' tells you exactly what to do and when you've done it."
+    },
+    {
+      "kind": "body",
+      "title": "Link it to something you care about",
+      "body": "Goals stick better with a reason behind them: keeping up with the kids, hiking a favourite track, or carrying the shopping in one trip. Write that reason down."
+    },
+    {
+      "kind": "body",
+      "title": "Start smaller than you think",
+      "body": "Pick a starting level you could do on a busy week. Once it feels routine, add a little. Most people do better with small, steady steps than a big start."
+    },
+    {
+      "kind": "body",
+      "title": "Plan for the tricky weeks",
+      "body": "Travel, work deadlines and sick kids happen. Decide ahead what your minimum version looks like, like ten minutes instead of forty, so the habit survives."
+    },
+    {
+      "kind": "body",
+      "title": "Check in every month",
+      "body": "Take a minute at the end of each month to review. What went well? What got in the way? Adjust the goal rather than giving up on it."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want help setting your goal?",
+      "body": "Our team can help you set a realistic goal and plan the steps, whatever your starting point. Book online via the link in bio."
+    }
+  ],
+  "caption": "Skip the giant resolution this year. One clear movement goal goes further. ✨\n\nSpecific beats vague: 'two strength sessions a week' is easier to act on than 'get fit'. Link it to something you care about, like keeping up with the kids or hiking a favourite track.\n\nStart smaller than you think, decide what your minimum version looks like for busy weeks, and check in at the end of each month to adjust. Small, steady steps usually beat a big start that fades by February.\n\nWhether it's physio, chiro, clinical Pilates or remedial massage, our team at Hybrid Physiotherapy can help you plan it. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#newyear",
+    "#newyeargoals",
+    "#movementgoals",
+    "#healthyhabits",
+    "#fitnessgoals",
+    "#movemore",
+    "#sydney",
+    "#northshore",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "One movement goal for 2027",
+    "body": "Make it specific, start small, and decide your ten-minute version for busy weeks."
+  },
+  "scheduled_date": "2026-12-29",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

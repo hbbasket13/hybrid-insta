@@ -1,0 +1,69 @@
+{
+  "id": "T-380",
+  "service": "physio",
+  "topic": "Coming back after a holiday break: ease in",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Back to training after the break?",
+      "sub": "Two weeks off? Ease in so the first week doesn't set you back."
+    },
+    {
+      "kind": "body",
+      "title": "You've lost less than you think",
+      "body": "A couple of weeks off usually costs very little strength or fitness. What changes is how your tissues tolerate load, so the first sessions back can feel harder than expected."
+    },
+    {
+      "kind": "body",
+      "title": "Start at about half",
+      "body": "For the first week, try roughly half your usual volume: fewer sets, shorter runs or lighter weights. Then build up over two to three weeks if you pull up well."
+    },
+    {
+      "kind": "body",
+      "title": "Use the next-morning test",
+      "body": "Mild soreness that eases within a day or two is normal. Soreness that's worse the next morning, or lasts longer, is a sign to hold at that level before adding more."
+    },
+    {
+      "kind": "body",
+      "title": "Mind the resolution rush",
+      "body": "New year motivation is great, but adding extra sessions and intensity in the same week is a common cause of niggles. Change one thing at a time."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain that changes how you move, swelling, pain that builds during a session, or a niggle that keeps coming back is worth an assessment before you push on."
+    },
+    {
+      "kind": "cta",
+      "headline": "Build back without the setback",
+      "body": "Our Sydney CBD and Chatswood physios can help you plan a return to training and manage any niggles along the way. Book online via the link in bio."
+    }
+  ],
+  "caption": "Back to training after the holiday break? Ease in and you'll get there faster.\n\nTwo weeks off usually costs very little fitness. What changes is how your body tolerates load, which is why the first sessions back can bite.\n\nTry starting at about half your usual volume, then build over two to three weeks. Use the next-morning test: mild soreness that eases is fine, soreness that's worse is a cue to hold. And resist changing everything at once in the new year rush.\n\nIf a niggle crops up, our Sydney CBD and Chatswood physios can help you plan the return. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#backtotraining",
+    "#newyear",
+    "#returntosport",
+    "#loadmanagement",
+    "#injuryprevention",
+    "#running",
+    "#gymlife",
+    "#sportsphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Back after the break?",
+    "body": "Start at half your usual volume this week. Use the next-morning test before adding more."
+  },
+  "scheduled_date": "2026-12-28",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

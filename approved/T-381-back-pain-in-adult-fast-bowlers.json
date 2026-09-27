@@ -1,0 +1,69 @@
+{
+  "id": "T-381",
+  "service": "physio",
+  "topic": "Back pain in adult fast bowlers",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Fast bowler with a sore back?",
+      "sub": "Adult quicks load their backs hard. Here's how to manage it."
+    },
+    {
+      "kind": "body",
+      "title": "Why fast bowling loads the back",
+      "body": "Bowling combines bending, side bending and twisting at speed, with big forces through the front leg on landing. Repeated overs add up, especially early in the season."
+    },
+    {
+      "kind": "body",
+      "title": "Watch your overs",
+      "body": "Sudden jumps in bowling load are a common trigger. Build your overs gradually across the pre-season and track how many you bowl in training and games each week."
+    },
+    {
+      "kind": "body",
+      "title": "Strength off the pitch",
+      "body": "Trunk strength, hip and glute strength and single-leg control help your body handle the load. Two short gym sessions a week can make a real difference over a season."
+    },
+    {
+      "kind": "body",
+      "title": "Action matters too",
+      "body": "Some actions put more twist through the lower back. A coach and physio can look at your run-up, delivery stride and landing together without rebuilding your whole action."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain that's worse when you arch or twist, pain that lingers after bowling, leg pain or numbness, or pain at night is worth an assessment before your next spell."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep bowling through summer",
+      "body": "Our Chatswood and Sydney CBD physios assess your back, strength and bowling load, then build a plan for the season. Book online via the link in bio."
+    }
+  ],
+  "caption": "Fast bowler whose back grumbles after a long spell? 🏏\n\nBowling fast combines bending, side bending and twisting at speed, plus big landing forces. Adult quicks in weekend comps often jump straight into big overs, and backs notice.\n\nA few things help: build overs gradually and track them, do two short strength sessions a week for trunk, hips and single-leg control, and have your action checked by a coach and physio together. Pain that's worse with arching, leg symptoms or pain at night is worth getting assessed.\n\nOur Chatswood and Sydney CBD physios can help plan your season. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#cricket",
+    "#fastbowling",
+    "#fastbowler",
+    "#backpain",
+    "#lowerbackpain",
+    "#sportsinjury",
+    "#sportsphysio",
+    "#cricketinjury",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Bowling this weekend?",
+    "body": "Count your overs this week and next. Sudden jumps in load are a common trigger for sore backs."
+  },
+  "scheduled_date": "2026-12-28",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

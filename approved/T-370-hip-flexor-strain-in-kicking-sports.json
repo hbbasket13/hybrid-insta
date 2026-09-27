@@ -1,0 +1,70 @@
+{
+  "id": "T-370",
+  "service": "physio",
+  "topic": "Hip flexor strain in kicking sports",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Front of hip grabs when you kick?",
+      "sub": "A hip flexor strain is common in kicking sports. Here's the road back."
+    },
+    {
+      "kind": "body",
+      "title": "Where it usually happens",
+      "body": "Kicking, sprinting and quick changes of direction load the hip flexors hard, especially when you're tired late in a game. Pain at the front of the hip or top of the thigh is typical."
+    },
+    {
+      "kind": "body",
+      "title": "Keep moving, but adjust",
+      "body": "Complete rest usually slows things down. Walking, cycling or swimming within comfort keep you fit while the strain settles. Pain up to a mild, settling level is usually okay."
+    },
+    {
+      "kind": "body",
+      "title": "Load it back up gradually",
+      "body": "Start with gentle holds like lifting your knee against your hand, then progress to marching, lunges and resisted knee drives. Strength before speed is a good rule."
+    },
+    {
+      "kind": "body",
+      "title": "Kicking comes last",
+      "body": "Build from passing short to long, then shooting, then full-speed kicks. Most people move up a step when the previous one feels easy the next morning."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A pop with sudden pain, trouble walking, a lump or bruising, or groin pain that keeps coming back is worth an assessment rather than playing through it."
+    },
+    {
+      "kind": "cta",
+      "headline": "Back on the pitch, step by step",
+      "body": "Our Sydney CBD and Chatswood physios assess the hip, then build a return-to-kicking plan around your sport and season. Book online via the link in bio."
+    }
+  ],
+  "caption": "Front of your hip grabbing every time you kick or sprint?\n\nSoccer, footy, touch and Oztag all put big demands on the hip flexors, especially late in a game. A strain usually shows up as pain at the front of the hip or top of the thigh.\n\nMost people do better staying active within comfort, then building strength gradually: gentle holds, then marching and lunges, then resisted drives. Kicking comes last, starting short and slow. A pop, bruising or trouble walking is worth getting assessed.\n\nSummer comps are a good time to get on top of it. Our Sydney CBD and Chatswood physios can build your plan. Book online via the link in bio. ⚽\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#hipflexor",
+    "#hipflexorstrain",
+    "#hippain",
+    "#groinpain",
+    "#soccer",
+    "#football",
+    "#afl",
+    "#sportsinjury",
+    "#sportsphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Hip grabs when you kick?",
+    "body": "Swap kicking for a few days of walking or cycling, then start gentle knee lifts against your hand."
+  },
+  "scheduled_date": "2026-12-21",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
