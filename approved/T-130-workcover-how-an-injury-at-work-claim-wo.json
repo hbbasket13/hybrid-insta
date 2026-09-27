@@ -1,0 +1,68 @@
+{
+  "id": "T-130",
+  "service": "clinic",
+  "topic": "WorkCover: how an injury-at-work claim works with us",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Hurt at work? Here's how WorkCover works",
+      "sub": "The steps in plain English, from injury to your first appointment."
+    },
+    {
+      "kind": "body",
+      "title": "Step 1: tell your employer",
+      "body": "Report the injury to your employer as soon as you reasonably can, and make sure it's recorded. Once a claim is lodged, the insurer will usually give you a claim number."
+    },
+    {
+      "kind": "body",
+      "title": "Step 2: see your GP",
+      "body": "Your GP assesses the injury and completes a certificate of capacity. It outlines what work you can do for now, and your GP may refer you to physio or other treatment."
+    },
+    {
+      "kind": "body",
+      "title": "Step 3: bring the details",
+      "body": "At your first visit, bring your claim number, the insurer's name, your case manager's contact details and your certificate. If the claim is still being set up, call us and we'll talk it through."
+    },
+    {
+      "kind": "body",
+      "title": "What we do behind the scenes",
+      "body": "We liaise with your case manager or insurer, send progress reports and help plan a safe return to work. Approval of treatment sits with the insurer, so we keep you in the loop along the way."
+    },
+    {
+      "kind": "body",
+      "title": "Focus on getting back to work",
+      "body": "Treatment usually centres on the tasks your job needs, like lifting, sitting, reaching or standing. Suitable duties and a gradual return often help recovery rather than slow it down."
+    },
+    {
+      "kind": "cta",
+      "headline": "Have a claim number? Book in",
+      "body": "Hybrid Physiotherapy works with WorkCover claims in NSW and Queensland. Let us know it's a work injury when you book, and bring your claim details."
+    }
+  ],
+  "caption": "Injured at work and not sure what happens next? Here's the short version.\n\nFirst, report the injury to your employer and make sure it's recorded. Next, see your GP, who completes a certificate of capacity and may refer you for treatment. Once the claim is lodged, you'll usually get a claim number from the insurer. The details differ a little between NSW and Queensland, but the steps are similar.\n\nAt your first visit, bring your claim number, insurer and case manager details, and your certificate. We liaise with your case manager or insurer and send progress reports. Treatment approval sits with the insurer, and we'll keep you in the loop.\n\nTell us it's a work injury when you book. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#workcover",
+    "#workinjury",
+    "#injuredatwork",
+    "#returntowork",
+    "#workplaceinjury",
+    "#physiotherapy",
+    "#physio",
+    "#injuryrehab",
+    "#sydneyphysio",
+    "#brisbanephysio",
+    "#sydney",
+    "#brisbane",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Work injury? Bring your claim number",
+    "body": "Report it to your employer, see your GP for a certificate, then bring your claim and case manager details to your first visit."
+  },
+  "scheduled_date": "2026-10-09",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

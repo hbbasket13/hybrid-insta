@@ -1,0 +1,68 @@
+{
+  "id": "T-133",
+  "service": "remedial",
+  "topic": "Massage and recovery for weekend warriors",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Sore Monday after a big Saturday?",
+      "sub": "Where massage fits in weekend recovery, and what matters more."
+    },
+    {
+      "kind": "body",
+      "title": "Soreness after sport is normal",
+      "body": "Muscle soreness that peaks a day or two after unusual effort is common and usually settles within a few days. It's a sign you've done more than your body is used to, not an injury."
+    },
+    {
+      "kind": "body",
+      "title": "Where massage can help",
+      "body": "Research suggests massage can reduce how sore you feel and help you feel more relaxed after hard exercise. It's a handy recovery tool, but it won't replace consistent training."
+    },
+    {
+      "kind": "body",
+      "title": "Timing your massage",
+      "body": "A lighter session a day or two after your game or long ride often feels good. Leave deeper work until the soreness has eased, and skip it right before a big event."
+    },
+    {
+      "kind": "body",
+      "title": "What matters more than massage",
+      "body": "Sleep, a decent meal with protein, fluids and some easy movement the next day. And train a little midweek, so Saturday isn't the only time your body works hard."
+    },
+    {
+      "kind": "body",
+      "title": "When it's more than soreness",
+      "body": "Sharp pain during the activity, swelling, bruising, pain that isn't easing after a few days, or trouble bearing weight usually needs a physio assessment rather than a massage."
+    },
+    {
+      "kind": "cta",
+      "headline": "Recovery that fits your weekend",
+      "body": "Our remedial massage therapists at Hybrid Physiotherapy tailor pressure to how you're feeling, and our physios are on hand if something needs a closer look."
+    }
+  ],
+  "caption": "Big game on Saturday, walking down stairs sideways on Monday?\n\nThat muscle soreness is common after unusual effort and usually settles within a few days. Research suggests massage can ease how sore you feel and help you relax after hard exercise. A lighter session a day or two later often feels good, with deeper work saved until the soreness eases.\n\nMassage is a handy extra, but sleep, a decent meal with protein, fluids and some easy movement the next day matter more. A bit of midweek training helps too, so Saturday isn't the only time your body works hard.\n\nSharp pain, swelling, bruising or trouble bearing weight is worth a physio assessment instead. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#massagetherapy",
+    "#weekendwarrior",
+    "#musclerecovery",
+    "#recovery",
+    "#doms",
+    "#weekendsport",
+    "#sydneymassage",
+    "#sydneyremedialmassage",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#activelife"
+  ],
+  "story": {
+    "headline": "Weekend warrior recovery",
+    "body": "Sleep, protein, fluids and easy movement come first. A lighter massage a day or two later is a nice extra."
+  },
+  "scheduled_date": "2026-10-10",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

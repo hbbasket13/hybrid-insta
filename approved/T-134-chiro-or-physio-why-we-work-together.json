@@ -1,0 +1,68 @@
+{
+  "id": "T-134",
+  "service": "chiro",
+  "topic": "Chiro or physio? Why we work together",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Chiro or physio? Honestly, often both",
+      "sub": "Why our chiropractors and physios work side by side."
+    },
+    {
+      "kind": "body",
+      "title": "There's a lot of overlap",
+      "body": "Chiropractors and physiotherapists both assess muscles, joints and movement, and both use hands-on treatment and exercise. The differences are more about training background and preferred tools."
+    },
+    {
+      "kind": "body",
+      "title": "What chiro sessions often include",
+      "body": "An assessment, spinal and joint adjustments or mobilisation, soft tissue work and home exercises. Adjustments are one tool that can help people move more comfortably, used alongside activity and advice."
+    },
+    {
+      "kind": "body",
+      "title": "What physio sessions often include",
+      "body": "An assessment, hands-on treatment and a strong focus on progressive exercise and rehab, from recovering after an injury through to getting back to sport or work."
+    },
+    {
+      "kind": "body",
+      "title": "Why working together helps",
+      "body": "Under one roof, we can refer between each other, share notes with your consent and blend approaches. You might see a chiropractor for a stiff back and a physio for your running program."
+    },
+    {
+      "kind": "body",
+      "title": "How to choose where to start",
+      "body": "Start with whoever you feel comfortable with. If our team thinks another practitioner would suit your situation better, we'll tell you honestly and help organise it for you."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure who to book?",
+      "body": "Call Hybrid Physiotherapy and tell us what's going on. We'll suggest a chiropractor or physio to start with, and work together from there."
+    }
+  ],
+  "caption": "\"Should I see a chiro or a physio?\" We get asked this a lot.\n\nThe honest answer: there's plenty of overlap. Both assess muscles, joints and movement, and both use hands-on care and exercise. Chiropractors often use adjustments and mobilisation as one tool alongside exercise and advice. Physios tend to lean into progressive rehab, from injury recovery through to sport and work.\n\nBecause we're under one roof, our chiropractors and physios refer between each other, share notes with your consent and blend approaches where it helps. Plenty of people see both at different stages.\n\nNot sure where to start? Tell us what's going on and we'll point you to the right practitioner. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#physiotherapy",
+    "#physio",
+    "#sydneychiro",
+    "#sydneychiropractor",
+    "#sydneyphysio",
+    "#alliedhealth",
+    "#multidisciplinary",
+    "#backpain",
+    "#neckpain",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Chiro or physio?",
+    "body": "Often both. Our chiropractors and physios work under one roof and refer between each other when it helps."
+  },
+  "scheduled_date": "2026-10-10",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

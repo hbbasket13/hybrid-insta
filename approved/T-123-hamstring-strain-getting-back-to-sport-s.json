@@ -1,0 +1,69 @@
+{
+  "id": "T-123",
+  "service": "physio",
+  "topic": "Hamstring strain: getting back to sport safely",
+  "location_tag": "Milton",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Hamstring strain: the road back to sport",
+      "sub": "What a sensible return usually looks like, stage by stage."
+    },
+    {
+      "kind": "body",
+      "title": "First few days: calm, not still",
+      "body": "Ease off sprinting and hard stretching, but keep walking as comfort allows. Gentle movement and light muscle activation early on usually help more than complete rest or strapping yourself to the couch."
+    },
+    {
+      "kind": "body",
+      "title": "Strength is the main event",
+      "body": "Progress from bridges and isometric holds to exercises that load the hamstring at longer lengths, like Romanian deadlifts and slider curls. Research suggests eccentric work such as Nordics can reduce repeat strains."
+    },
+    {
+      "kind": "body",
+      "title": "Build running back gradually",
+      "body": "Start with easy jogging, then strides, then faster running over a couple of weeks. Increase one thing at a time: speed, distance or change of direction. A mild ache that settles overnight is usually fine."
+    },
+    {
+      "kind": "body",
+      "title": "Signs you're ready to play",
+      "body": "Strength close to the other leg, sprinting at top speed without hesitation, and getting through full training sessions. Feeling fine walking around is not the same as being ready to sprint."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A loud pop, large bruising, pain right up near the sitting bone, or real trouble walking deserve a prompt assessment. Most strains don't need a scan, but these features are worth a proper look."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a plan for match day?",
+      "body": "Our Milton and Sunnybank physios assess the strain, set a staged return and test your strength and speed before you're back on the field."
+    }
+  ],
+  "caption": "Felt that grab in the back of your thigh mid-sprint? Here's what the road back usually looks like.\n\nMost hamstring strains respond well to a staged plan. Keep walking early on, then build strength, with exercises that load the hamstring at longer lengths doing a lot of the heavy lifting. Running comes back gradually: easy jogging, strides, then faster efforts, changing one thing at a time.\n\nBeing ready to play means strength close to the other leg and sprinting flat out without hesitation, not just walking comfortably. A loud pop, large bruising, pain near the sitting bone or trouble walking are worth a prompt assessment.\n\nOur Milton and Sunnybank physios can map out your return and test you before match day. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sportsphysio",
+    "#hamstringstrain",
+    "#hamstringinjury",
+    "#sportsinjury",
+    "#returntosport",
+    "#injuryrehab",
+    "#miltonphysio",
+    "#sunnybankphysio",
+    "#brisbanephysio",
+    "#milton",
+    "#brisbane",
+    "#hybridphysiotherapy",
+    "#strengthtraining"
+  ],
+  "story": {
+    "headline": "Hamstring strain? Build, don't rush",
+    "body": "Early walking, progressive strength, then gradual running. Ready means sprinting flat out without hesitation, not just walking comfortably."
+  },
+  "scheduled_date": "2026-10-07",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "T-127",
+  "service": "chiro",
+  "topic": "Pillows and sleep position for a sore neck",
+  "location_tag": "Milton",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Which pillow for a sore neck?",
+      "sub": "There's no magic pillow. Here's what usually matters more."
+    },
+    {
+      "kind": "body",
+      "title": "Aim for a neutral neck",
+      "body": "Whatever your position, your head should sit roughly in line with your spine, not propped up or dropping down. The right pillow height fills the gap between your head and the mattress."
+    },
+    {
+      "kind": "body",
+      "title": "If you sleep on your side",
+      "body": "You'll usually need a firmer, higher pillow to fill the space above your shoulder. Hugging a pillow in front of you can stop you rolling forward and twisting your neck through the night."
+    },
+    {
+      "kind": "body",
+      "title": "If you sleep on your back",
+      "body": "A thinner pillow usually works, so your chin isn't pushed down towards your chest. A small rolled towel inside the pillowcase can gently support the natural curve of your neck."
+    },
+    {
+      "kind": "body",
+      "title": "Tummy sleeping and sore necks",
+      "body": "Lying on your front means turning your head fully to one side for hours, which often aggravates a sore neck. Try a very flat pillow, or gradually train yourself into side lying instead."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Neck pain with pins and needles or weakness in the arm, severe headaches, dizziness, fever, or pain after a fall or car accident should be checked by a health practitioner promptly."
+    },
+    {
+      "kind": "cta",
+      "headline": "Still waking up with a stiff neck?",
+      "body": "Our chiropractors at Hybrid Physiotherapy assess your neck and sleep setup, and combine hands-on care with simple exercises you can do at home."
+    }
+  ],
+  "caption": "Spent a small fortune on pillows and your neck still hates you in the morning?\n\nThere's no single perfect pillow. What matters is keeping your head roughly in line with your spine for your sleep position. Side sleepers usually need a firmer, higher pillow to fill the gap above the shoulder. Back sleepers often do better with a thinner one, maybe with a rolled towel inside the pillowcase. Tummy sleeping twists the neck for hours, so a very flat pillow or gradually shifting to your side can help.\n\nNeck pain with arm pins and needles or weakness, severe headaches, dizziness or pain after a fall or accident should be checked promptly.\n\nOur chiropractors can look at your neck and your sleep setup together. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#brisbanechiro",
+    "#brisbanechiropractor",
+    "#neckpain",
+    "#stiffneck",
+    "#pillow",
+    "#sleepposition",
+    "#sleepbetter",
+    "#neckhealth",
+    "#brisbane",
+    "#hybridphysiotherapy",
+    "#wellbeing"
+  ],
+  "story": {
+    "headline": "Pillow height matters most",
+    "body": "Side sleepers: firmer and higher. Back sleepers: thinner. Tummy sleepers: very flat, or ease into side lying."
+  },
+  "scheduled_date": "2026-10-08",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

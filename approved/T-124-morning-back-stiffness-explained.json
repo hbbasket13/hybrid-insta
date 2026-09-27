@@ -1,0 +1,68 @@
+{
+  "id": "T-124",
+  "service": "chiro",
+  "topic": "Morning back stiffness explained",
+  "location_tag": "Sunnybank",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Why is your back stiffest at 7am?",
+      "sub": "Morning stiffness is common. Here's what's usually going on."
+    },
+    {
+      "kind": "body",
+      "title": "Overnight, you barely move",
+      "body": "Lying fairly still for hours means your joints and muscles haven't been loaded much. Discs also take on a little fluid overnight. It's usually normal for things to feel tight for the first little while."
+    },
+    {
+      "kind": "body",
+      "title": "Why it eases as you move",
+      "body": "Movement warms tissues up and gets circulation going. That's why most people feel looser after a shower and a walk. Stiffness that settles within half an hour is typically the common, mechanical kind."
+    },
+    {
+      "kind": "body",
+      "title": "Try a gentle wake-up routine",
+      "body": "Before getting up, do some slow knee rocks side to side and a few pelvic tilts. Then a warm shower and a five-minute walk. Go easy on heavy lifting or deep bending in the first hour."
+    },
+    {
+      "kind": "body",
+      "title": "Where chiro fits in",
+      "body": "Our chiropractors may use joint mobilisation or adjustments to help you move more comfortably, alongside exercises and advice on sleep and activity. Adjustments are one tool, not the whole plan."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Stiffness that lasts well over 30 minutes most mornings, eases with exercise rather than rest, wakes you in the second half of the night, or comes with fever or weight loss deserves a GP check."
+    },
+    {
+      "kind": "cta",
+      "headline": "Tired of stiff mornings?",
+      "body": "Chat to our chiropractors at Hybrid Physiotherapy. We'll assess how your back moves and give you a simple routine to start your day."
+    }
+  ],
+  "caption": "Shuffling to the kettle like you've aged 30 years overnight?\n\nMorning back stiffness is really common. You've barely moved for hours and your discs take on a little fluid overnight, so things often feel tight until you get going. Most people loosen up within half an hour of moving, and a warm shower and a short walk usually help.\n\nTry slow knee rocks and pelvic tilts before you get out of bed, and go easy on heavy lifting for the first hour. Stiffness that lasts well beyond 30 minutes, eases with exercise rather than rest, or wakes you in the early hours is worth a GP check.\n\nOur chiropractors combine hands-on care with simple exercises to help you move more comfortably. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#brisbanechiro",
+    "#brisbanechiropractor",
+    "#backpain",
+    "#morningstiffness",
+    "#lowerbackpain",
+    "#stiffback",
+    "#morningroutine",
+    "#brisbane",
+    "#hybridphysiotherapy",
+    "#keepmoving",
+    "#backhealth"
+  ],
+  "story": {
+    "headline": "Stiff back every morning?",
+    "body": "Knee rocks and pelvic tilts in bed, then a warm shower and a short walk. Most stiffness eases within half an hour."
+  },
+  "scheduled_date": "2026-10-07",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

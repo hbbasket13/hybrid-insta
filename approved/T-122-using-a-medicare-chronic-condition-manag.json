@@ -1,0 +1,68 @@
+{
+  "id": "T-122",
+  "service": "clinic",
+  "topic": "Using a Medicare chronic condition management plan for physio",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Can Medicare help pay for physio?",
+      "sub": "How a GP chronic condition management plan works, step by step."
+    },
+    {
+      "kind": "body",
+      "title": "The plan has a new name",
+      "body": "What used to be called an EPC or CDM plan is now the GP chronic condition management plan. It's for people with an ongoing health condition, and your GP decides whether you're eligible."
+    },
+    {
+      "kind": "body",
+      "title": "Step 1: talk to your GP",
+      "body": "Your GP needs to set up the plan and refer you to allied health like physio. Mention you'd like physio included when you book, as it can take a longer appointment. We can't create the plan ourselves."
+    },
+    {
+      "kind": "body",
+      "title": "What you can claim",
+      "body": "The plan can give a Medicare rebate for up to five allied health visits per calendar year. That's the total across services such as physio, chiro and others, not five of each."
+    },
+    {
+      "kind": "body",
+      "title": "Expect a gap fee",
+      "body": "The rebate usually doesn't cover the full fee, so there's generally a gap to pay on the day. Ask our front desk about it before your first visit so there are no surprises."
+    },
+    {
+      "kind": "body",
+      "title": "Making five visits count",
+      "body": "Use them for a thorough assessment, a clear home program and check-ins to progress it. Many people spread their visits across the year rather than using them all in one month."
+    },
+    {
+      "kind": "cta",
+      "headline": "Got your plan? Bring the referral",
+      "body": "Bring your GP referral and Medicare card to your first visit at Hybrid Physiotherapy. We'll assess, set goals and help you plan how to use your visits."
+    }
+  ],
+  "caption": "Did you know Medicare may help with the cost of physio?\n\nIf you have an ongoing health condition, your GP may set up a chronic condition management plan (what used to be called an EPC or CDM plan). It can give a Medicare rebate for up to five allied health visits per calendar year, shared across services like physio and chiro.\n\nA few things to know: your GP needs to set it up and refer you, we can't create it ourselves, and there's usually a gap fee because the rebate doesn't cover the full cost. Ask our front desk about the gap before your first visit.\n\nBring your referral and Medicare card, and we'll help you make those visits count. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#medicare",
+    "#physiotherapy",
+    "#physio",
+    "#alliedhealth",
+    "#chronicpain",
+    "#gpreferral",
+    "#healthcareaustralia",
+    "#sydneyphysio",
+    "#brisbanephysio",
+    "#sydney",
+    "#brisbane",
+    "#hybridphysiotherapy",
+    "#chiropractic"
+  ],
+  "story": {
+    "headline": "Medicare and physio: the basics",
+    "body": "Your GP sets up the plan. Up to five allied health visits a year can get a rebate, usually with a gap fee."
+  },
+  "scheduled_date": "2026-10-06",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
