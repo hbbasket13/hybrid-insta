@@ -1,8 +1,12 @@
 name: Daily publish
 
+# 3 runs a day, Monday–Saturday Sydney time. Each run publishes ONE due post from approved/.
+# UTC times → Sydney: AEDT (Oct–Apr) 07:30 / 12:00 / 18:30, AEST (Apr–Oct) 06:30 / 11:00 / 17:30.
 on:
   schedule:
-    - cron: "30 21 * * 0,1,2,3,4"   # Mon–Fri 07:30 AEST (previous day 21:30 UTC). Adjust after daylight saving if you care about the exact hour.
+    - cron: "30 20 * * 0-5"   # Sydney Mon–Sat morning
+    - cron: "0 1 * * 1-6"     # Sydney Mon–Sat midday
+    - cron: "30 7 * * 1-6"    # Sydney Mon–Sat evening
   workflow_dispatch:
     inputs:
       dry_run:
@@ -29,6 +33,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Publish next approved post
         env:
+          TZ: Australia/Sydney
           IG_API: ${{ vars.IG_API || 'instagram' }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
@@ -45,5 +50,7 @@ jobs:
           git config user.name "insta-bot"
           git config user.email "insta-bot@users.noreply.github.com"
           git add -A
-          git diff --cached --quiet || git commit -m "Published $(date -u +%F)"
+          git diff --cached --quiet && exit 0
+          git commit -m "Published $(date -u +%F-%H%M)"
+          git pull --rebase origin main
           git push
