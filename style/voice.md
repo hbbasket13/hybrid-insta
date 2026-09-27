@@ -1,6 +1,6 @@
 # Hybrid Physiotherapy — Instagram voice guide
 
-**Who we're talking to:** working adults 25–55 in Sydney (Chatswood, CBD) and Brisbane (Milton, Sunnybank). Office workers, parents, weekend runners, gym-goers, people with recurring niggles. Many are comparing clinics and want to feel that we know what we're doing and won't waste their time.
+**Who we're talking to:** working adults 25–55 in Sydney, near our two clinics in Chatswood and the Sydney CBD. Office workers, parents, weekend runners, gym-goers, people with recurring niggles. Many are comparing clinics and want to feel that we know what we're doing and won't waste their time.
 
 **How we sound**
 - Like a knowledgeable friend who happens to be a physio. Direct, warm, a bit dry. Never salesy, never preachy.
@@ -17,7 +17,7 @@
 **Caption**
 - First line = hook (it's what shows before "more").
 - 80–150 words. 2–4 short paragraphs. One CTA. Disclaimer last.
-- 12–18 hashtags mixing: service (#physiotherapy #chiropractic #clinicalpilates #remedialmassage), local (#chatswoodphysio #sydneycbdphysio #miltonphysio #sunnybankphysio #brisbanephysio #sydneyphysio), topic (#backpain #neckpain #runninginjury etc.).
+- 12–18 hashtags mixing: service (#physiotherapy #chiropractic #clinicalpilates #remedialmassage), local (#chatswoodphysio #sydneycbdphysio #sydneyphysio #northshore #sydney) — Sydney only, never Brisbane, topic (#backpain #neckpain #runninginjury etc.).
 
 **Words we like:** settle, build up, load, capacity, gradually, most people, a good starting point, get it checked.
 **Words we avoid:** damage, wear and tear, degenerating, crooked, out of alignment, weak core (as a cause), fix, cure, guaranteed.
