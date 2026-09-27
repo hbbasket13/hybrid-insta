@@ -1,0 +1,69 @@
+{
+  "id": "T-245",
+  "service": "clinic",
+  "topic": "Keeping your home exercises going between visits",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Home exercises keep slipping?",
+      "sub": "Five ways to keep your program going between appointments."
+    },
+    {
+      "kind": "body",
+      "title": "Attach it to a daily habit",
+      "body": "Link your exercises to something you already do, like brushing your teeth or waiting for the kettle. A set cue is far more reliable than hoping to find time later."
+    },
+    {
+      "kind": "body",
+      "title": "Ask for fewer exercises",
+      "body": "Three exercises you actually do beat eight you skip. It's completely fine to ask your practitioner to trim the list to the ones that matter most right now."
+    },
+    {
+      "kind": "body",
+      "title": "Film it during your session",
+      "body": "Ask to record a quick video of each exercise on your phone during your visit. It saves guessing about sets, positions and how it should feel at home."
+    },
+    {
+      "kind": "body",
+      "title": "Track it somewhere visible",
+      "body": "A tick on the calendar, a note on the fridge or a simple phone reminder all help. Bring your tally to your next visit so the plan can be adjusted."
+    },
+    {
+      "kind": "body",
+      "title": "Tell us if it's not working",
+      "body": "If an exercise hurts more, feels too easy or just doesn't fit your week, say so. Programs are meant to change as you do, and small tweaks are normal."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a plan you'll stick to?",
+      "body": "Our physios, chiropractors and Pilates team build short, realistic home programs around your week. Book online via the link in bio."
+    }
+  ],
+  "caption": "The exercises that help are the ones you actually do.\n\nMost home programs don't stall because they're wrong. They stall because life gets busy. A few small changes can help: attach your exercises to something you already do each day, ask for a shorter list, and film each exercise during your session so you're not guessing at home.\n\nKeep a simple tally on the calendar or fridge and bring it to your next visit. If something hurts more, feels too easy or doesn't fit your week, tell your practitioner. Programs are meant to change.\n\nOur team at Hybrid Physiotherapy builds home programs you can realistically keep up. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#homeexercise",
+    "#exerciseprogram",
+    "#rehab",
+    "#habits",
+    "#consistency",
+    "#healthyhabits",
+    "#movemore",
+    "#sydney",
+    "#sydneyphysio",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Home exercises slipping?",
+    "body": "Tie them to something you do every day, like the morning kettle. Three you do beat eight you skip."
+  },
+  "scheduled_date": "2026-11-13",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

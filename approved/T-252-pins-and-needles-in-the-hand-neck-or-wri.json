@@ -1,0 +1,69 @@
+{
+  "id": "T-252",
+  "service": "physio",
+  "topic": "Pins and needles in the hand: neck or wrist?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Tingly hand: neck or wrist?",
+      "sub": "Where the pins and needles show up can offer useful clues."
+    },
+    {
+      "kind": "body",
+      "title": "Two common sources",
+      "body": "Tingling in the hand can come from a nerve irritated at the wrist, as in carpal tunnel, or near the neck, where the nerves to the arm start. Sometimes both play a part."
+    },
+    {
+      "kind": "body",
+      "title": "Clues that point to the wrist",
+      "body": "Tingling in the thumb, index and middle fingers, symptoms that wake you at night, and relief from shaking your hand out are common wrist-related patterns."
+    },
+    {
+      "kind": "body",
+      "title": "Clues that point to the neck",
+      "body": "Neck pain, symptoms that travel from the shoulder down the arm, or tingling that changes when you move your head can suggest the neck is involved."
+    },
+    {
+      "kind": "body",
+      "title": "What helps in the meantime",
+      "body": "Avoid long periods with your wrist bent, take regular breaks from gripping, and keep your neck moving through a comfortable range. Your physio can test which area is sensitive."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Weakness in the hand, dropping things, symptoms in both hands, changes in walking or balance, or bladder changes need prompt medical review. Ongoing tingling deserves an assessment too."
+    },
+    {
+      "kind": "cta",
+      "headline": "Tingling that won't settle?",
+      "body": "Our Sydney CBD and Chatswood physios test your neck, shoulder and wrist to work out where it's coming from. Book online via the link in bio."
+    }
+  ],
+  "caption": "Pins and needles in your hand: is it your neck or your wrist?\n\nBoth are common sources. Tingling in the thumb and first two fingers that wakes you at night often points towards the wrist. Neck pain, or symptoms that travel down the arm and change with head movement, can suggest the neck is involved. Sometimes it's a bit of both.\n\nIn the meantime, avoid long periods with your wrist bent and keep your neck moving comfortably. Hand weakness, dropping things, symptoms in both hands or changes to walking or balance need prompt medical review.\n\nOur Sydney CBD physios can test where it's coming from. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#pinsandneedles",
+    "#carpaltunnel",
+    "#neckpain",
+    "#nervepain",
+    "#handpain",
+    "#wristpain",
+    "#deskjob",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Tingly fingers at night?",
+    "body": "Try not to sleep with your wrist bent. If it keeps happening, get it assessed."
+  },
+  "scheduled_date": "2026-11-17",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "T-242",
+  "service": "chiro",
+  "topic": "How many chiropractic sessions will I need?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "How many chiro sessions will I need?",
+      "sub": "The honest answer is 'it depends'. Here's what it depends on."
+    },
+    {
+      "kind": "body",
+      "title": "It depends on a few things",
+      "body": "How long it's been going on, how much it affects your day, your sleep, stress and activity levels all play a part. Two people with the same sore back can need quite different plans."
+    },
+    {
+      "kind": "body",
+      "title": "Recent niggles often settle sooner",
+      "body": "A stiff neck from a bad night or a back that flared after gardening often improves within a handful of visits, especially when you stay active in between."
+    },
+    {
+      "kind": "body",
+      "title": "Longer-standing pain takes more time",
+      "body": "If it's been around for months, the focus shifts to building capacity with exercise and daily habits. Visits usually spread out as you get more confident managing it yourself."
+    },
+    {
+      "kind": "body",
+      "title": "Ask for a plan with check-ins",
+      "body": "A clear plan has goals and review points, so you both know whether things are improving. It's reasonable to ask what you're aiming for and when progress will be reassessed."
+    },
+    {
+      "kind": "body",
+      "title": "Adjustments are one tool",
+      "body": "Adjustments can help you move more comfortably, but exercise and staying active do much of the heavy lifting. What you do between visits often shapes how many visits you need."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a clear plan from day one?",
+      "body": "Our chiropractors assess, explain what they find and map out a plan with regular review points. Book online via the link in bio."
+    }
+  ],
+  "caption": "How many chiro sessions will I need? It's one of the first questions people ask, and a fair one.\n\nThe honest answer depends on how long the problem has been around, how much it affects your day, and things like sleep, stress and activity. Recent niggles often settle within a handful of visits. Longer-standing pain usually takes longer, with visits spreading out as you build strength and confidence.\n\nWhatever the timeframe, you should know what the goals are and when progress will be reviewed. Adjustments are one helpful tool, used alongside exercise and staying active.\n\nOur chiropractors at Hybrid Physiotherapy will talk you through a realistic plan at your first visit. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#chiro",
+    "#chiropracticcare",
+    "#sydneychiro",
+    "#sydneychiropractor",
+    "#sydney",
+    "#northshore",
+    "#backpain",
+    "#neckpain",
+    "#stayactive",
+    "#treatmentplan",
+    "#hybridphysiotherapy",
+    "#movementismedicine"
+  ],
+  "story": {
+    "headline": "How many chiro visits?",
+    "body": "It depends on how long it's been there and what you do between visits. Ask for goals and review points."
+  },
+  "scheduled_date": "2026-11-12",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

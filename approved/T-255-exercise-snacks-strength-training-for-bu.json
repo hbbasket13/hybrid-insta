@@ -1,0 +1,70 @@
+{
+  "id": "T-255",
+  "service": "physio",
+  "topic": "Exercise snacks: strength training for busy people",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Strength training in five-minute bites",
+      "sub": "Exercise snacks for busy people, from our Chatswood physios."
+    },
+    {
+      "kind": "body",
+      "title": "What's an exercise snack?",
+      "body": "A short burst of strength work, a few minutes at a time, sprinkled through your day. Research suggests these small bouts still add up and can build strength over time."
+    },
+    {
+      "kind": "body",
+      "title": "Aim for two days a week",
+      "body": "Australia's physical activity guidelines recommend muscle-strengthening activities on at least two days each week. Snacks are a practical way to get there without a gym."
+    },
+    {
+      "kind": "body",
+      "title": "Five snack ideas",
+      "body": "Ten squats while the kettle boils, a few flights of stairs, wall push-ups, calf raises while brushing your teeth, and a sixty-second plank or bridge before bed."
+    },
+    {
+      "kind": "body",
+      "title": "Make it slightly hard",
+      "body": "Each snack should feel moderately challenging by the last few reps. When it gets easy, slow the movement down, add reps, or hold a backpack or water bottles."
+    },
+    {
+      "kind": "body",
+      "title": "Start small and build",
+      "body": "If you're returning after a break or managing a niggle, begin with one or two snacks a day and build up gradually. Mild muscle soreness the next day is normal."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want snacks that suit your body?",
+      "body": "Our Chatswood and Sydney CBD physios can build a short strength routine around your schedule, niggles and goals. Book online via the link in bio."
+    }
+  ],
+  "caption": "No time for the gym? Your strength training can happen while the kettle boils.\n\nExercise snacks are short bursts of strength work, a few minutes at a time, spread through your day. Australia's physical activity guidelines recommend muscle-strengthening activities on at least two days a week, and snacks are a practical way to get there.\n\nTry squats, stair climbs, wall push-ups, calf raises or a short plank. Make the last few reps feel moderately hard, and build up gradually if you're coming back from a break or managing a niggle.\n\nOur Chatswood physios can put together a routine that suits your body and your week. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#exercisesnacks",
+    "#strengthtraining",
+    "#homeworkout",
+    "#busylife",
+    "#workingparents",
+    "#movemore",
+    "#healthyhabits",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Kettle on?",
+    "body": "Do ten squats while it boils. That's your first exercise snack of the day."
+  },
+  "scheduled_date": "2026-11-18",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

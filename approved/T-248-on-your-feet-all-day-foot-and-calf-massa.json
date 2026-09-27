@@ -1,0 +1,69 @@
+{
+  "id": "T-248",
+  "service": "remedial",
+  "topic": "On your feet all day: foot and calf massage",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "On your feet all shift?",
+      "sub": "What foot and calf massage can and can't do for tired legs."
+    },
+    {
+      "kind": "body",
+      "title": "Why your legs feel heavy",
+      "body": "Standing for hours keeps your calves and foot muscles working with little rest. By the end of a shift, many people notice tightness, aching arches and heavy legs."
+    },
+    {
+      "kind": "body",
+      "title": "What massage can do",
+      "body": "Remedial massage to the calves and feet can ease that tight, achy feeling and help you move more comfortably. It's often a nice short-term relief rather than a long-term plan on its own."
+    },
+    {
+      "kind": "body",
+      "title": "Try this at home",
+      "body": "Roll the sole of each foot over a ball for a minute, then do slow calf raises. Easy movement often feels better than sitting completely still after a long shift."
+    },
+    {
+      "kind": "body",
+      "title": "Shoes and small breaks help",
+      "body": "Cushioned, supportive shoes, changing position when you can and gentle calf stretches on your breaks all help spread the load across your day, so your legs aren't doing it all at once."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "One calf that's swollen, hot, red or painful, especially after a long flight or surgery, needs urgent medical attention. Heel pain that lingers is worth a physio assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Give your legs a reset",
+      "body": "Our remedial massage therapists work on calves, feet and anything else that's been working hard. Claim on the spot with HICAPS if your extras cover includes it."
+    }
+  ],
+  "caption": "Nurse, chef, teacher, retail? If you're on your feet all shift, your calves are working overtime.\n\nHours of standing leave many people with tight calves, aching arches and heavy legs. Remedial massage to the feet and calves can ease that feeling and help you move more comfortably. It works well alongside supportive shoes, small position changes and a bit of calf strength work.\n\nOne calf that's swollen, hot, red or painful needs urgent medical attention, especially after a long flight or surgery.\n\nOur remedial massage therapists at Hybrid Physiotherapy can tailor a session to your feet and legs. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#sydneymassage",
+    "#sydneyremedialmassage",
+    "#sydney",
+    "#northshore",
+    "#footmassage",
+    "#calfmassage",
+    "#tiredlegs",
+    "#shiftwork",
+    "#nurselife",
+    "#hospitalitylife",
+    "#footpain",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Legs heavy after your shift?",
+    "body": "Roll your foot over a ball for a minute each side, then do ten slow calf raises."
+  },
+  "scheduled_date": "2026-11-14",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

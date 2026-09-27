@@ -1,0 +1,70 @@
+{
+  "id": "T-258",
+  "service": "physio",
+  "topic": "Warm-ups that actually help weekend sport",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Your warm-up: more than a few stretches",
+      "sub": "A quick routine that actually prepares you for Saturday sport."
+    },
+    {
+      "kind": "body",
+      "title": "Why warm-ups matter",
+      "body": "Research suggests structured warm-ups can reduce some sport injuries, especially in team sports. They also help you feel ready from the first whistle rather than ten minutes in."
+    },
+    {
+      "kind": "body",
+      "title": "Start easy and build",
+      "body": "Begin with three to five minutes of light jogging, skipping or cycling. Gradually lift the pace so your heart rate climbs and your muscles feel warm."
+    },
+    {
+      "kind": "body",
+      "title": "Move, don't hold",
+      "body": "Swap long static stretches for dynamic moves like leg swings, walking lunges, hip openers and arm circles. They prepare your muscles through the ranges you'll actually use."
+    },
+    {
+      "kind": "body",
+      "title": "Finish at game speed",
+      "body": "Add a few short sprints, jumps, changes of direction or practice shots at close to game speed. Your body is then ready for what the game actually asks of it."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A sudden pop, fast swelling, pain that stops you putting weight through a leg, or a joint that gives way is worth assessing rather than strapping up and playing on."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep your weekend game going",
+      "body": "Our Sydney CBD and Chatswood physios can tailor a warm-up to your sport and your history of niggles. Book online via the link in bio."
+    }
+  ],
+  "caption": "A few quick hamstring stretches in the car park isn't really a warm-up.\n\nResearch suggests structured warm-ups can reduce some sport injuries, particularly in team sports. A simple version: three to five minutes of easy jogging, then dynamic moves like leg swings, walking lunges and arm circles, then a few short efforts at close to game speed.\n\nIt takes about ten minutes and means you're ready from the first whistle. A sudden pop, fast swelling or a joint that gives way is worth getting assessed rather than playing on.\n\nOur Sydney CBD physios can tailor a warm-up to your sport. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sportsphysio",
+    "#warmup",
+    "#sportsinjury",
+    "#weekendwarrior",
+    "#injuryprevention",
+    "#football",
+    "#netball",
+    "#touchfootball",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Game this weekend?",
+    "body": "Five minutes easy, five minutes dynamic, then a few game-speed efforts. Leave the long stretches for later."
+  },
+  "scheduled_date": "2026-11-19",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "T-249",
+  "service": "physio",
+  "topic": "Dizziness when rolling over in bed (BPPV): physio can help",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Room spins when you roll over?",
+      "sub": "One common cause responds well to physio. Here's what it involves."
+    },
+    {
+      "kind": "body",
+      "title": "Meet BPPV",
+      "body": "Benign paroxysmal positional vertigo happens when tiny crystals in the inner ear drift into one of the balance canals. Certain head movements then trigger a brief, intense spin."
+    },
+    {
+      "kind": "body",
+      "title": "The typical pattern",
+      "body": "Spinning that lasts under a minute, set off by rolling over, lying down, sitting up or looking up, is a common BPPV pattern. Feeling a bit off between spells is common too."
+    },
+    {
+      "kind": "body",
+      "title": "What physio involves",
+      "body": "Your physio uses specific positional tests to see which canal is involved, then guides your head through a series of positions to move the crystals back. It's gentle, if a bit dizzy."
+    },
+    {
+      "kind": "body",
+      "title": "What to expect afterwards",
+      "body": "Many people notice a clear improvement within one to a few sessions. Your physio may give you movements to do at home and explain what to do if it comes back."
+    },
+    {
+      "kind": "body",
+      "title": "When to get urgent help",
+      "body": "Dizziness with a sudden severe headache, slurred speech, facial droop, weakness, double vision or trouble walking needs emergency care, so call 000. Constant dizziness or hearing changes need a GP review."
+    },
+    {
+      "kind": "cta",
+      "headline": "Spinning in bed? Let's check",
+      "body": "Our Chatswood and Sydney CBD physios assess dizziness carefully and treat BPPV with repositioning techniques. Book online via the link in bio."
+    }
+  ],
+  "caption": "Does the room spin when you roll over in bed or look up at a high shelf?\n\nOne common cause is BPPV, where tiny crystals in the inner ear drift into a balance canal. The spin is usually brief, under a minute, and set off by particular head movements. Physios test for it with specific positions, then guide your head through a sequence to move the crystals back. Many people improve within one to a few sessions.\n\nDizziness with a sudden severe headache, slurred speech, facial droop, weakness or trouble walking needs emergency care. Call 000.\n\nOur Chatswood physios assess and treat positional dizziness. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#vertigo",
+    "#bppv",
+    "#dizziness",
+    "#vestibular",
+    "#vestibularphysio",
+    "#vestibularrehab",
+    "#balance",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Dizzy when you roll over?",
+    "body": "Brief spins with head movement can be BPPV, which physios can assess and treat. Sudden severe symptoms: call 000."
+  },
+  "scheduled_date": "2026-11-16",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "T-256",
+  "service": "clinic",
+  "topic": "How long until I feel better? Setting realistic expectations",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "How long until this feels better?",
+      "sub": "Realistic timeframes, and what can speed things up or slow them down."
+    },
+    {
+      "kind": "body",
+      "title": "Recent niggles often settle sooner",
+      "body": "Many recent strains and flare-ups ease noticeably within days to a few weeks, especially when you stay gently active. Improvement is usually gradual rather than overnight."
+    },
+    {
+      "kind": "body",
+      "title": "Tendons and joints need patience",
+      "body": "Tendon pain and longer-standing joint issues usually respond over weeks to months. Tendons adapt to load slowly, so steady progress matters more than quick wins."
+    },
+    {
+      "kind": "body",
+      "title": "Progress isn't a straight line",
+      "body": "Good days and bad days are normal. A flare-up doesn't mean you're back at square one. Look at the trend over a few weeks rather than day to day."
+    },
+    {
+      "kind": "body",
+      "title": "What shapes your recovery",
+      "body": "Sleep, stress, general activity, how consistently you do your exercises and your confidence moving all play a part. These are often as important as the treatment itself."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "If things are getting steadily worse, pain is severe at night, or you notice new numbness or weakness, let your practitioner or GP know rather than waiting it out."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a realistic timeline?",
+      "body": "We explain what's likely, set goals with you and review progress along the way. Book online via the link in bio."
+    }
+  ],
+  "caption": "'How long until this feels better?' is one of the most common questions we hear.\n\nThe honest answer depends on what's going on. Many recent strains and flare-ups ease within days to a few weeks. Tendon pain and longer-standing joint issues usually take weeks to months, because tendons adapt to load slowly.\n\nProgress rarely runs in a straight line, and a bad day doesn't erase a good week. Sleep, stress, activity and consistency with your exercises all shape recovery. If things are steadily getting worse or you notice new numbness or weakness, let your practitioner or GP know.\n\nAt Hybrid Physiotherapy, we set goals with you and review them along the way. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#recovery",
+    "#rehab",
+    "#injuryrecovery",
+    "#painscience",
+    "#movemore",
+    "#sydney",
+    "#sydneyphysio",
+    "#northshore",
+    "#hybridphysiotherapy",
+    "#healthyhabits"
+  ],
+  "story": {
+    "headline": "How long will it take?",
+    "body": "Recent niggles often ease in weeks. Tendons take longer. Watch the trend, not the day."
+  },
+  "scheduled_date": "2026-11-18",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "T-260",
+  "service": "chiro",
+  "topic": "Commuting with a heavy backpack in the CBD",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Heavy backpack on the CBD commute?",
+      "sub": "Small changes that make the walk to the office easier."
+    },
+    {
+      "kind": "body",
+      "title": "Weight isn't the enemy",
+      "body": "Carrying a backpack is normal and your body can adapt. Trouble tends to start when the bag is very heavy, slung over one shoulder, or carried a long way every day."
+    },
+    {
+      "kind": "body",
+      "title": "Wear both straps",
+      "body": "Using both straps spreads the load evenly. Tighten them so the bag sits close to your back, with the bottom around your waist rather than bouncing lower down."
+    },
+    {
+      "kind": "body",
+      "title": "Lighten the daily load",
+      "body": "Leave the charger, spare shoes and second water bottle at work if you can. Pack the heaviest items closest to your back so the bag pulls on you less."
+    },
+    {
+      "kind": "body",
+      "title": "Build the capacity to carry",
+      "body": "Rows, farmer's carries and upper back work two or three times a week help your body handle the load. A stronger back often notices the commute a lot less."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain spreading down an arm or leg, pins and needles, numbness or weakness, or pain that keeps building despite lightening the load is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Commute leaving you sore?",
+      "body": "Our chiropractors assess your back and shoulders, use hands-on care where helpful and give you simple exercises. Book online via the link in bio."
+    }
+  ],
+  "caption": "Laptop, charger, lunch, gym gear, spare shoes. Sound like your backpack?\n\nCarrying a bag is normal, and your body can adapt to it. Trouble tends to start when it's very heavy, worn over one shoulder, or carried a long way every day. Use both straps, keep the bag snug against your back and leave what you can at work.\n\nStrength work for your upper back, like rows and farmer's carries, helps your body handle the load. Pain spreading down an arm or leg, pins and needles or weakness is worth an assessment.\n\nOur chiropractors at Hybrid Physiotherapy can check your back and shoulders and give you simple exercises. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#chiro",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#backpack",
+    "#commute",
+    "#backpain",
+    "#neckpain",
+    "#shoulderpain",
+    "#upperback",
+    "#officeworker",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Backpack feeling heavy?",
+    "body": "Both straps, snug to your back, heaviest items closest to you. Leave the spare shoes at work."
+  },
+  "scheduled_date": "2026-11-19",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
