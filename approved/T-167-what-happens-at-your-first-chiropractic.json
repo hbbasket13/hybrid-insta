@@ -1,0 +1,68 @@
+{
+  "id": "T-167",
+  "service": "chiro",
+  "topic": "What happens at your first chiropractic visit",
+  "location_tag": "Milton",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "What a first chiro visit looks like",
+      "sub": "What happens, how long it takes and what to bring."
+    },
+    {
+      "kind": "body",
+      "title": "Step 1: a proper chat",
+      "body": "Your chiropractor asks about your symptoms, how they started, your health history and your goals. Bring any recent scans or reports. The first visit usually takes a bit longer than follow-ups."
+    },
+    {
+      "kind": "body",
+      "title": "Step 2: an assessment",
+      "body": "They'll look at how you move, check joint range and muscle strength, and may test reflexes and sensation. This also helps pick up anything that needs a different kind of care."
+    },
+    {
+      "kind": "body",
+      "title": "Step 3: a plan you agree on",
+      "body": "You'll get a clear explanation of what's likely going on and a suggested plan. It may include hands-on care, soft tissue work and exercises. Ask questions, and you can say no to anything."
+    },
+    {
+      "kind": "body",
+      "title": "About adjustments",
+      "body": "Adjustments are one tool, not the whole plan. Your chiropractor will explain what's involved and ask for your consent first. If you'd prefer gentler techniques, just say so."
+    },
+    {
+      "kind": "body",
+      "title": "Some soreness afterwards is common",
+      "body": "Mild stiffness or achiness for a day or so is common after a first session. Keep moving gently. If anything feels unusual or keeps getting worse, contact the clinic."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready for your first visit?",
+      "body": "Our chiropractors combine hands-on care with exercise and advice, and refer to our physios or Pilates team when that suits you better. Book online — link in bio."
+    }
+  ],
+  "caption": "Never seen a chiropractor before? Here's what actually happens.\n\nYour first visit starts with a proper chat about your symptoms, health history and goals, followed by an assessment of how you move, joint range, strength and sometimes reflexes and sensation. Bring any recent scans or reports.\n\nThen you'll get a clear explanation and a suggested plan, which may include hands-on care, soft tissue work and exercises. Adjustments are one tool, not the whole plan, and your chiropractor will always ask for your consent first. Mild stiffness for a day or so afterwards is common.\n\nOur chiropractors at Hybrid Physiotherapy work alongside our physios and Pilates team. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#firstvisit",
+    "#chiropracticcare",
+    "#backpain",
+    "#neckpain",
+    "#alliedhealth",
+    "#sydneychiro",
+    "#sydney",
+    "#brisbanechiro",
+    "#brisbane",
+    "#hybridphysiotherapy",
+    "#whattoexpect"
+  ],
+  "story": {
+    "headline": "First chiro visit, demystified",
+    "body": "A chat, an assessment, then a plan you agree on. Adjustments are one tool, and only with your consent."
+  },
+  "scheduled_date": "2026-10-23",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

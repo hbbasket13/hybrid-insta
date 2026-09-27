@@ -1,0 +1,68 @@
+{
+  "id": "T-163",
+  "service": "clinic",
+  "topic": "DVA clients: seeing us with your DVA card",
+  "location_tag": "Milton",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Got a DVA card? Here's how it works",
+      "sub": "What to bring and what happens at your first visit."
+    },
+    {
+      "kind": "body",
+      "title": "Which card do you have?",
+      "body": "A Gold Card generally covers all your clinically needed health care. A White Card usually covers treatment for your accepted, service-related conditions. If you're unsure, DVA can confirm what's included."
+    },
+    {
+      "kind": "body",
+      "title": "Get a referral first",
+      "body": "For allied health services under DVA, you'll usually need a referral from your GP, specialist or hospital doctor. Ask them to note which service you need, such as physiotherapy or chiropractic."
+    },
+    {
+      "kind": "body",
+      "title": "What to bring on the day",
+      "body": "Your DVA card, your referral, a list of your current conditions and medications, and any recent scans or reports. Comfortable clothes help too, so we can see how you move."
+    },
+    {
+      "kind": "body",
+      "title": "What we handle for you",
+      "body": "We lodge claims through DVA's system and keep your GP in the loop with progress reports, so there's usually less paperwork on your end. Your plan is built around your goals."
+    },
+    {
+      "kind": "body",
+      "title": "Which services can you use?",
+      "body": "DVA can fund a range of allied health services, including physiotherapy and chiropractic, when clinically needed. What's covered depends on your card and referral, so check with us or DVA before booking."
+    },
+    {
+      "kind": "cta",
+      "headline": "Questions before you book?",
+      "body": "Give the clinic a call and we'll talk you through referrals and what to bring. Or book online — link in bio."
+    }
+  ],
+  "caption": "Veterans and DVA card holders: here's how seeing us works.\n\nA Gold Card generally covers all your clinically needed health care, while a White Card usually covers your accepted, service-related conditions. For allied health under DVA, you'll usually need a referral from your GP, specialist or hospital doctor first.\n\nOn the day, bring your DVA card, your referral, a list of your conditions and medications, and any recent scans. We lodge claims through DVA's system and keep your GP updated, so there's less paperwork for you.\n\nWhat's covered depends on your card and referral, so if you're unsure, ask us or DVA before booking.\n\nOur team at Hybrid Physiotherapy is happy to talk you through it. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#dva",
+    "#veterans",
+    "#veteranshealth",
+    "#dvagoldcard",
+    "#dvawhitecard",
+    "#alliedhealth",
+    "#physiotherapy",
+    "#chiropractic",
+    "#sydney",
+    "#brisbane",
+    "#sydneyphysio",
+    "#brisbanephysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "DVA card holders, welcome",
+    "body": "Get a referral from your GP, bring your card and any reports. We handle the DVA claim for you."
+  },
+  "scheduled_date": "2026-10-22",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

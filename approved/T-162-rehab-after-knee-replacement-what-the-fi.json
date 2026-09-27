@@ -1,0 +1,69 @@
+{
+  "id": "T-162",
+  "service": "physio",
+  "topic": "Rehab after knee replacement: what the first 12 weeks look like",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Your first 12 weeks with a new knee",
+      "sub": "A rough guide to what rehab usually looks like."
+    },
+    {
+      "kind": "body",
+      "title": "Weeks 0 to 2: early movement",
+      "body": "Most people are up walking with an aid soon after surgery. The focus is gently bending and straightening the knee, managing swelling, and short, frequent walks around the house."
+    },
+    {
+      "kind": "body",
+      "title": "Weeks 2 to 6: build the bend",
+      "body": "Stitches or clips usually come out and exercises progress. Working on knee bend and getting it fully straight matters now. Swelling and stiffness are normal and often worse by evening."
+    },
+    {
+      "kind": "body",
+      "title": "Weeks 6 to 12: getting stronger",
+      "body": "Many people move from a stick to walking unaided, tackle stairs more normally, and start an exercise bike or hydrotherapy if cleared. Thigh and hip strength become the main focus."
+    },
+    {
+      "kind": "body",
+      "title": "Recovery keeps going after 12 weeks",
+      "body": "Some swelling and stiffness can linger for months, and that's common. Many people keep improving for a year or more, so steady, regular exercise pays off well beyond the early stage."
+    },
+    {
+      "kind": "body",
+      "title": "When to call your surgeon or GP",
+      "body": "Increasing redness, heat or discharge around the wound, fever, calf pain or swelling, or a sharp jump in pain. Sudden shortness of breath needs urgent care, so call 000."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want help with the next stage?",
+      "body": "Our Sydney CBD and Chatswood physios progress your rehab in line with your surgeon's guidelines, with clear goals for each stage. Book online — link in bio."
+    }
+  ],
+  "caption": "New knee? Here's roughly what the first 12 weeks look like.\n\nWeeks 0 to 2 are about gentle bending and straightening, managing swelling and short, frequent walks. Weeks 2 to 6 build the bend, and getting the knee fully straight matters. From about week 6, many people move off the stick, manage stairs more normally and focus on thigh and hip strength.\n\nEveryone's timeline is a little different, and swelling and stiffness can hang around for months. Many people keep improving for a year or more.\n\nCall your surgeon or GP about increasing wound redness or discharge, fever, or calf pain or swelling. Sudden shortness of breath needs urgent care, so call 000.\n\nOur Sydney CBD and Chatswood physios can guide each stage with you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneereplacement",
+    "#kneerehab",
+    "#totalkneereplacement",
+    "#postoprehab",
+    "#kneestrength",
+    "#rehab",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydney",
+    "#chatswood",
+    "#physio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "New knee: the 12-week roadmap",
+    "body": "Weeks 0-2 move gently, 2-6 build the bend, 6-12 get stronger. Progress keeps going well beyond that."
+  },
+  "scheduled_date": "2026-10-22",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

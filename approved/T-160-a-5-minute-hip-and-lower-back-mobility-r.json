@@ -1,0 +1,69 @@
+{
+  "id": "T-160",
+  "service": "chiro",
+  "topic": "A 5-minute hip and lower back mobility routine",
+  "location_tag": "Sunnybank",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Five minutes, five moves, looser hips",
+      "sub": "A simple routine for stiff hips and a tight lower back."
+    },
+    {
+      "kind": "body",
+      "title": "1 minute: cat-cow",
+      "body": "On hands and knees, slowly round your back up, then let it dip down as you look forward. Move within a comfortable range and breathe steadily. About eight slow rounds is plenty."
+    },
+    {
+      "kind": "body",
+      "title": "1 minute: knee rocks",
+      "body": "Lie on your back, knees bent, feet flat. Let both knees drop gently to one side, then the other, keeping your shoulders relaxed on the floor. It's an easy way to ease morning stiffness."
+    },
+    {
+      "kind": "body",
+      "title": "1 minute: half-kneeling hip stretch",
+      "body": "Kneel on one knee with the other foot forward. Tuck your tailbone slightly and shift forward until you feel a stretch at the front of the hip. Thirty seconds each side."
+    },
+    {
+      "kind": "body",
+      "title": "2 minutes: glute stretch and rest",
+      "body": "Lying down, cross one ankle over the other knee and draw your legs towards you for 30 seconds each side. Finish in child's pose, breathing slowly into your lower back for a minute."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Get assessed if pain spreads down a leg with pins and needles or weakness, or if you notice numbness around the groin, bladder or bowel changes, fever, or pain after a fall."
+    },
+    {
+      "kind": "cta",
+      "headline": "Stiff most mornings?",
+      "body": "Our chiropractors assess how your hips and back move, may use hands-on care alongside exercise, and send you home with a routine that suits you. Book online — link in bio."
+    }
+  ],
+  "caption": "Five minutes. Five moves. Looser hips and a happier lower back.\n\nStiffness through the hips and lower back is common, especially after long days sitting or a big weekend. Try this: one minute of cat-cow, one minute of knee rocks, a minute of half-kneeling hip stretches, then a glute stretch and a minute in child's pose. Move gently and within comfort.\n\nGet assessed if pain spreads down a leg with pins and needles or weakness, or if you notice numbness around the groin, bladder or bowel changes, fever, or pain after a fall.\n\nOur chiropractors at Hybrid Physiotherapy combine hands-on care with exercise and can tailor a routine to how you move. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#hipmobility",
+    "#lowerbackpain",
+    "#mobilityroutine",
+    "#backpain",
+    "#stretching",
+    "#morningroutine",
+    "#brisbanechiro",
+    "#brisbane",
+    "#sydneychiro",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#keepmoving"
+  ],
+  "story": {
+    "headline": "Five-minute hip and back reset",
+    "body": "Cat-cow, knee rocks, hip stretch, glute stretch, child's pose. Gentle, within comfort, most mornings."
+  },
+  "scheduled_date": "2026-10-21",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

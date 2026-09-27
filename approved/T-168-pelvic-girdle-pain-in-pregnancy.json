@@ -1,0 +1,69 @@
+{
+  "id": "T-168",
+  "service": "physio",
+  "topic": "Pelvic girdle pain in pregnancy",
+  "location_tag": "Sunnybank",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Why pregnancy can make your pelvis ache",
+      "sub": "What pelvic girdle pain is and simple ways to ease it."
+    },
+    {
+      "kind": "body",
+      "title": "What it feels like",
+      "body": "Pelvic girdle pain often shows up at the front over the pubic bone, at the back near the dimples, or both. Rolling over in bed, stairs and standing on one leg can be tricky."
+    },
+    {
+      "kind": "body",
+      "title": "Keep your knees together",
+      "body": "Get in and out of the car with your knees together, swinging both legs in at once. In bed, roll with your knees together, and try a pillow between your knees at night."
+    },
+    {
+      "kind": "body",
+      "title": "Pace, don't stop",
+      "body": "Staying active usually helps. Break up long walks, take stairs one step at a time, avoid wide steps or straddling positions, and sit down to put on pants and shoes."
+    },
+    {
+      "kind": "body",
+      "title": "Treatment can help",
+      "body": "Physiotherapy often includes exercises for the hips and trunk, advice on daily tasks, hands-on care and sometimes a support belt. For most people, it eases after the baby arrives."
+    },
+    {
+      "kind": "body",
+      "title": "When to check with your care team",
+      "body": "Contact your midwife or doctor promptly for bleeding, fever, contractions, reduced baby movements, or severe, constant pain that doesn't change with position. These are uncommon, but always worth checking."
+    },
+    {
+      "kind": "cta",
+      "headline": "Get support this pregnancy",
+      "body": "Our Sunnybank and Milton physios assess what's aggravating your pelvis and give practical strategies for work, sleep and getting around. Book online — link in bio."
+    }
+  ],
+  "caption": "Pubic bone aching every time you roll over in bed? Pelvic girdle pain is really common in pregnancy.\n\nIt can show up at the front, the back or both, and often flares with stairs, getting out of the car or standing on one leg. Simple changes help: keep your knees together when you get in and out of the car or roll in bed, take stairs one step at a time, and sit down to get dressed. Staying active, at a pace that suits you, usually helps.\n\nContact your midwife or doctor promptly for bleeding, fever, contractions, reduced baby movements or severe, constant pain.\n\nOur Sunnybank and Milton physios can help you manage it through each trimester. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#pelvicgirdlepain",
+    "#pregnancy",
+    "#pregnancypain",
+    "#pubicpain",
+    "#womenshealthphysio",
+    "#antenatalcare",
+    "#brisbanephysio",
+    "#sunnybankphysio",
+    "#miltonphysio",
+    "#brisbane",
+    "#sunnybank",
+    "#physio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Pelvic pain in pregnancy?",
+    "body": "Keep your knees together getting out of the car and rolling in bed. Stairs one at a time. It's common and manageable."
+  },
+  "scheduled_date": "2026-10-24",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

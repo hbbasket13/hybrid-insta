@@ -1,0 +1,69 @@
+{
+  "id": "T-172",
+  "service": "clinic",
+  "topic": "Physio, chiro, Pilates and massage under one roof: how we refer",
+  "location_tag": "Sunnybank",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Physio, chiro, Pilates or massage?",
+      "sub": "How we decide who's right for you, and when we refer."
+    },
+    {
+      "kind": "body",
+      "title": "Start with whoever suits you",
+      "body": "There's no wrong door. Book with a physio, chiropractor, our Pilates team or a remedial massage therapist, and they'll assess you and let you know if someone else may help."
+    },
+    {
+      "kind": "body",
+      "title": "How the roles differ",
+      "body": "Physios and chiropractors assess and treat pain and injuries. Clinical Pilates builds strength and control through guided exercise. Remedial massage eases tight muscles and helps you feel more comfortable."
+    },
+    {
+      "kind": "body",
+      "title": "When we refer in-house",
+      "body": "If progress stalls, your goals change, or another approach suits you better, we'll suggest it and explain why. You're always free to choose, and there's no pressure to add sessions."
+    },
+    {
+      "kind": "body",
+      "title": "Shared notes, one plan",
+      "body": "With your consent, our practitioners share notes so you don't have to repeat your story. Your plan stays consistent, whether you see one person or combine a couple of services."
+    },
+    {
+      "kind": "body",
+      "title": "And when we refer out",
+      "body": "Sometimes you need your GP, imaging or a specialist opinion. We'll tell you clearly when that's the case and write to your GP so everyone is on the same page."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure where to start?",
+      "body": "Book with any of our practitioners or call the clinic, and we'll point you in the right direction. Book online — link in bio."
+    }
+  ],
+  "caption": "Physio, chiro, Pilates or massage? You don't have to work it out alone.\n\nAt Hybrid Physiotherapy, there's no wrong door. Whoever you book with will assess you, and if another practitioner may suit you better, they'll explain why. Physios and chiropractors assess and treat pain and injuries, clinical Pilates builds strength and control, and remedial massage eases tight muscles.\n\nWith your consent, we share notes so you don't have to repeat your story, and your plan stays consistent across services. There's never pressure to add sessions. When you need your GP, imaging or a specialist, we'll say so clearly and keep your GP in the loop.\n\nNot sure where to start? Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#alliedhealth",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#multidisciplinary",
+    "#teamcare",
+    "#sydney",
+    "#brisbane",
+    "#sydneyphysio",
+    "#brisbanephysio",
+    "#sydneychiro",
+    "#brisbanechiro",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Not sure who to see?",
+    "body": "There's no wrong door. Book with anyone on our team and we'll point you to the right person."
+  },
+  "scheduled_date": "2026-10-26",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

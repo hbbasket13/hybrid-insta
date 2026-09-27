@@ -1,0 +1,68 @@
+{
+  "id": "T-169",
+  "service": "pilates",
+  "topic": "Starting Pilates over 50",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Over 50 and new to Pilates?",
+      "sub": "Five common questions, answered before your first session."
+    },
+    {
+      "kind": "body",
+      "title": "Do I need to be flexible?",
+      "body": "No. Pilates builds flexibility and control over time, and exercises are adapted to where you are now. Stiff hips, tight hamstrings and creaky knees are all very workable starting points."
+    },
+    {
+      "kind": "body",
+      "title": "Is it OK with sore joints?",
+      "body": "Usually, yes. Clinical Pilates starts with an assessment, so exercises can be adjusted around sore knees, backs or shoulders. Let us know about past injuries, operations or health conditions."
+    },
+    {
+      "kind": "body",
+      "title": "Is it only about the core?",
+      "body": "Not at all. Good programs include leg strength, balance and upper body work, which matter more as we get older. Current guidelines recommend strength training for adults of all ages."
+    },
+    {
+      "kind": "body",
+      "title": "How often should I go?",
+      "body": "Once or twice a week is a good starting point. Consistency counts for more than intensity, so pick a time that fits your routine and build up gradually over a few months."
+    },
+    {
+      "kind": "body",
+      "title": "Can I claim it?",
+      "body": "Health fund cover for clinical Pilates depends on your fund and policy, so check with your fund before you start. If you're covered, you may be able to claim on the spot with HICAPS."
+    },
+    {
+      "kind": "cta",
+      "headline": "Start at your own pace",
+      "body": "Our Pilates team begins with a one-on-one assessment, then builds a program for your body and your goals. Book online — link in bio."
+    }
+  ],
+  "caption": "Thinking about Pilates but worried you're too stiff, too sore or too late? You're not.\n\nYou don't need to be flexible to start. Clinical Pilates begins with an assessment, so exercises can be adapted around sore knees, backs or shoulders. Good programs go well beyond the core, with leg strength, balance and upper body work that matter more as we get older.\n\nOnce or twice a week is a good starting point, and consistency counts for more than intensity. Health fund cover for clinical Pilates depends on your fund and policy, so check with your fund before you start.\n\nOur Pilates team at Hybrid Physiotherapy works with plenty of first-timers. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#pilatesover50",
+    "#healthyageing",
+    "#activeageing",
+    "#strengthtraining",
+    "#balance",
+    "#pilatesforbeginners",
+    "#reformerpilates",
+    "#sydneypilates",
+    "#sydney",
+    "#brisbane",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Starting Pilates after 50?",
+    "body": "No flexibility needed. Start with an assessment, go once or twice a week, and build up gradually."
+  },
+  "scheduled_date": "2026-10-24",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
