@@ -20,6 +20,9 @@ TOPICS_CSV = ROOT / "topics.csv"
 
 TOPIC_FIELDS = ["id", "service", "format", "topic", "angle", "location_tag", "status"]
 
+for _d in (DRAFTS, APPROVED, POSTED, ASSETS, REELS):
+    _d.mkdir(parents=True, exist_ok=True)
+
 
 def load_json(path: Path) -> dict:
     with open(path, encoding="utf-8") as f:
