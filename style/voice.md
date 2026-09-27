@@ -21,3 +21,5 @@
 
 **Words we like:** settle, build up, load, capacity, gradually, most people, a good starting point, get it checked.
 **Words we avoid:** damage, wear and tear, degenerating, crooked, out of alignment, weak core (as a cause), fix, cure, guaranteed.
+
+**Topics we don't cover (removed by the clinic — never write these again):** why scan reports sound scarier than they are; claiming clinical Pilates on your health fund; claiming remedial massage with HICAPS; NDIS participants: what we offer; DVA clients / seeing us with a DVA card; how private health extras rebates work; private vs small group clinical Pilates.
