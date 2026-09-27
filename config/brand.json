@@ -6,7 +6,6 @@
   "website": "hybridphysio.com.au",
   "booking_url": "https://hybridphysio.com.au/onlinebooking/",
   "phone_nsw": "02 9419 5866",
-  "phone_qld": "07 3190 9747",
   "fonts": {
     "heading": "Plus Jakarta Sans",
     "body": "Inter",
@@ -23,11 +22,17 @@
     "accent_teal": "#1BB0CE"
   },
   "locations": [
-    {"tag": "Chatswood", "line": "Chatswood · Level 1, 38B Albert Ave", "state": "NSW"},
-    {"tag": "Sydney CBD", "line": "Sydney CBD · Suite 1102, 99 York St", "state": "NSW"},
-    {"tag": "Milton", "line": "Milton · Suite 4/12 Park Rd", "state": "QLD"},
-    {"tag": "Sunnybank", "line": "Sunnybank · 106 Station Rd", "state": "QLD"}
+    {
+      "tag": "Chatswood",
+      "line": "Chatswood · Level 1, 38B Albert Ave",
+      "state": "NSW"
+    },
+    {
+      "tag": "Sydney CBD",
+      "line": "Sydney CBD · Suite 1102, 99 York St",
+      "state": "NSW"
+    }
   ],
-  "footer_line": "Sydney · Brisbane  |  HICAPS · Medicare · NDIS · DVA · WorkCover · CTP",
+  "footer_line": "Chatswood · Sydney CBD  |  HICAPS · Medicare · NDIS · DVA · WorkCover · CTP",
   "disclaimer": "General information only — not a substitute for an individual assessment."
 }
