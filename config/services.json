@@ -1,0 +1,77 @@
+{
+  "physio": {
+    "label": "Physiotherapy",
+    "accent": "#1E6B4E",
+    "accent_soft": "#DCEDE4",
+    "voice": "Confident, practical physio who explains the 'why' in plain English. Talks about load, tissue capacity, movement and reassurance rather than 'damage'.",
+    "topic_hints": [
+      "desk-worker neck/shoulder pain and what actually helps",
+      "3 signs your back pain is (probably) not serious",
+      "running injuries: shin splints, plantar heel pain, ITB",
+      "ankle sprain: why 'just rest it' is outdated advice",
+      "rotator cuff pain myths",
+      "tendon pain (Achilles, patellar, gluteal) and why complete rest backfires",
+      "what to expect at your first physio visit",
+      "knee osteoarthritis: exercise vs scans",
+      "headaches that come from the neck",
+      "sciatica vs 'normal' back pain"
+    ]
+  },
+  "chiro": {
+    "label": "Chiropractic",
+    "accent": "#2F6F8F",
+    "accent_soft": "#DDEAF2",
+    "voice": "Calm, evidence-informed chiropractor. Focus on posture habits, mobility, spinal stiffness, headaches and how manual therapy fits alongside exercise. No 'subluxation' or 'alignment cures everything' language.",
+    "topic_hints": [
+      "stiff upper back from sitting: 3 daily mobility drills",
+      "what an adjustment actually does (and doesn't do)",
+      "tech neck: is it real?",
+      "when to see a chiro vs a physio (spoiler: we work together)",
+      "morning back stiffness explained",
+      "sleep position and neck pain"
+    ]
+  },
+  "pilates": {
+    "label": "Clinical Pilates",
+    "accent": "#6B5B95",
+    "accent_soft": "#E9E4F2",
+    "voice": "Encouraging exercise physio/Pilates instructor. Emphasise supervised, individualised, reformer-based rehab — not a fitness class.",
+    "topic_hints": [
+      "clinical Pilates vs studio Pilates: what's the difference",
+      "Pilates for lower back pain: what the research says",
+      "returning to exercise after pregnancy",
+      "core strength myths",
+      "Pilates for office workers with tight hips",
+      "can I claim clinical Pilates on my health fund?"
+    ]
+  },
+  "remedial": {
+    "label": "Remedial Massage",
+    "accent": "#B3673A",
+    "accent_soft": "#F4E6DC",
+    "voice": "Warm, down-to-earth remedial massage therapist. Explain what remedial massage is for, how it complements physio/chiro, and set realistic expectations.",
+    "topic_hints": [
+      "remedial vs relaxation massage: which one do you need",
+      "post-massage soreness: normal or not?",
+      "massage for tension headaches",
+      "how often should you get a massage?",
+      "massage and recovery for weekend warriors",
+      "can I claim remedial massage with HICAPS?"
+    ]
+  },
+  "clinic": {
+    "label": "Hybrid Physio",
+    "accent": "#1E6B4E",
+    "accent_soft": "#DCEDE4",
+    "voice": "Friendly front-desk voice of the clinic. Practical, logistical, welcoming.",
+    "topic_hints": [
+      "how to use a Medicare EPC / Chronic Disease Management plan with us",
+      "what to bring to your first appointment",
+      "WorkCover and CTP claims: how it works at our clinic",
+      "NDIS participants: what we offer",
+      "our team: physio, chiro, Pilates and massage under one roof",
+      "on-the-spot HICAPS claims explained",
+      "which service is right for my problem? a simple guide"
+    ]
+  }
+}

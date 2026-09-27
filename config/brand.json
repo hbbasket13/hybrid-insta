@@ -1,0 +1,33 @@
+{
+  "clinic_name": "Hybrid Physiotherapy",
+  "logo_text": "HYBRID",
+  "logo_sub": "PHYSIOTHERAPY",
+  "handle": "@hybrid_physio_sydney",
+  "website": "hybridphysio.com.au",
+  "booking_url": "https://hybridphysio.com.au/onlinebooking/",
+  "phone_nsw": "02 9419 5866",
+  "phone_qld": "07 3190 9747",
+  "fonts": {
+    "heading": "Plus Jakarta Sans",
+    "body": "Inter",
+    "google_fonts_url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap"
+  },
+  "colors": {
+    "primary": "#1E6B4E",
+    "primary_dark": "#134634",
+    "primary_light": "#E6F2EC",
+    "ink": "#14201B",
+    "muted": "#5B6B63",
+    "paper": "#FAFBF9",
+    "white": "#FFFFFF",
+    "accent_teal": "#1BB0CE"
+  },
+  "locations": [
+    {"tag": "Chatswood", "line": "Chatswood · Level 1, 38B Albert Ave", "state": "NSW"},
+    {"tag": "Sydney CBD", "line": "Sydney CBD · Suite 1102, 99 York St", "state": "NSW"},
+    {"tag": "Milton", "line": "Milton · Suite 4/12 Park Rd", "state": "QLD"},
+    {"tag": "Sunnybank", "line": "Sunnybank · 106 Station Rd", "state": "QLD"}
+  ],
+  "footer_line": "Sydney · Brisbane  |  HICAPS · Medicare · NDIS · DVA · WorkCover · CTP",
+  "disclaimer": "General information only — not a substitute for an individual assessment."
+}

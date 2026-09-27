@@ -1,0 +1,15 @@
+id,service,format,topic,angle,location_tag,status
+T-001,physio,carousel,Desk-worker neck and shoulder pain,Why the problem is usually not posture itself but staying still — and 3 things that help more than a new chair,Sydney CBD,pending
+T-002,clinic,carousel,What to bring to your first appointment,Practical checklist: referral if any; health fund card; shorts; list of meds; what happens in the first 40 minutes,Chatswood,pending
+T-003,physio,carousel,Ankle sprain: why "just rest it" is outdated,Early loading; when to get an X-ray (Ottawa rules in plain language); why balance work prevents re-sprains,Milton,pending
+T-004,chiro,carousel,Stiff upper back from sitting,3 mobility drills you can do at your desk; what an adjustment can and can't do,Sunnybank,pending
+T-005,pilates,carousel,Clinical Pilates vs studio Pilates,Supervised and individualised vs group fitness; who it's for; health fund claiming,Chatswood,pending
+T-006,remedial,carousel,Remedial vs relaxation massage,How to know which you need; what a remedial session actually involves; HICAPS,Sydney CBD,pending
+T-007,physio,carousel,3 signs your back pain is probably not serious,Reassurance-first; the few red flags that do need checking; why scans are rarely step one,Milton,pending
+T-008,clinic,carousel,Using a Medicare EPC plan for physio,How the Chronic Disease Management plan works; up to 5 sessions per calendar year; ask your GP; gap fees explained honestly,Sunnybank,pending
+T-009,physio,carousel,Achilles tendon pain in runners,Why complete rest backfires; isometrics as a starting point; gradual return,Chatswood,pending
+T-010,chiro,carousel,Headaches that start in the neck,Cervicogenic headache in plain English; how physio and chiro assess it; simple self-checks,Sydney CBD,pending
+T-011,pilates,carousel,Returning to exercise after pregnancy,Realistic timeline; pelvic floor and abdominal separation check first; how clinical Pilates fits,Milton,pending
+T-012,remedial,carousel,Post-massage soreness: normal or not,What's expected in the 24–48 hours after; hydration myth; when to let your therapist know,Sunnybank,pending
+T-013,physio,reel_script,Desk stretch that actually helps neck pain,15-second demo of a seated thoracic rotation; hook on the pain point; practitioner on camera,Chatswood,pending
+T-014,clinic,reel_script,Which service is right for me?,Fast 20-second explainer: physio vs chiro vs Pilates vs massage for common problems,Sydney CBD,pending

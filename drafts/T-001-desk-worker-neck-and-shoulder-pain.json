@@ -1,0 +1,71 @@
+{
+  "id": "T-001",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Desk-worker neck and shoulder pain",
+  "location_tag": "Sydney CBD",
+  "created": "2026-09-27",
+  "scheduled_date": null,
+  "status": "draft",
+  "review_warnings": [],
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Neck sore by 3pm every day?",
+      "sub": "It's probably not your posture. Here's what actually helps."
+    },
+    {
+      "kind": "body",
+      "title": "The real culprit: staying still",
+      "body": "Your neck can handle almost any position for a while. What it doesn't love is the same position for hours. Sitting 'perfectly' for eight hours still leaves you stiff."
+    },
+    {
+      "kind": "body",
+      "title": "Move every 30 to 45 minutes",
+      "body": "Stand up, roll your shoulders, look over each shoulder, take a sip of water. Thirty seconds is enough. A timer beats good intentions."
+    },
+    {
+      "kind": "body",
+      "title": "Raise the screen, not your chin",
+      "body": "If your screen sits below eye level, your head drifts forward and your neck muscles work overtime. A stack of books under the laptop is a fine start."
+    },
+    {
+      "kind": "body",
+      "title": "Build the tolerance, not just the fix",
+      "body": "Simple strengthening for the neck and upper back twice a week makes a desk day feel shorter. Most people notice a difference within a few weeks."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain spreading down the arm, pins and needles, weakness in the hand, or headaches that keep building are worth an assessment rather than a guess."
+    },
+    {
+      "kind": "cta",
+      "headline": "Sick of the 3pm neck?",
+      "body": "Our physios assess how you sit, move and load your neck, then give you a short plan you'll actually stick to. Chatswood and Sydney CBD."
+    }
+  ],
+  "caption": "Neck sore by 3pm every day? It's probably not your posture. 🪑\n\nNecks cope with most positions for a while. What they struggle with is the same position for hours on end. That's why the 'sit up straight' advice rarely fixes anything on its own.\n\nWhat tends to help: moving every 30 to 45 minutes, getting your screen up to eye level, and a couple of short strengthening sessions a week so your neck can handle a full day. Pain spreading into the arm, pins and needles, or headaches that keep building are worth getting assessed.\n\nOur Sydney CBD and Chatswood physios see this every single week. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#neckpain",
+    "#deskjob",
+    "#officeworker",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#posture",
+    "#ergonomics",
+    "#shoulderpain",
+    "#physio",
+    "#hybridphysiotherapy",
+    "#movemore",
+    "#workfromhome"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why desk-related neck pain is caused by staying still rather than posture, with practical tips and when to get assessed.",
+  "story": {
+    "headline": "Neck sore by 3pm?",
+    "body": "Set a 30-minute timer. Stand, roll your shoulders, look over each shoulder. Thirty seconds beats a new chair."
+  }
+}
