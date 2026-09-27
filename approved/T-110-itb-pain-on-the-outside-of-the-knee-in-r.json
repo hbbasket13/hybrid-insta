@@ -1,0 +1,69 @@
+{
+  "id": "T-110",
+  "service": "physio",
+  "topic": "ITB pain on the outside of the knee in runners",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Outside-of-knee pain on longer runs?",
+      "sub": "ITB pain often kicks in at the same point each run. Here's why."
+    },
+    {
+      "kind": "body",
+      "title": "What it usually is",
+      "body": "Iliotibial band pain is felt on the outside of the knee. It often starts a set distance into a run and can get sharp enough to stop you, then eases with rest."
+    },
+    {
+      "kind": "body",
+      "title": "Why rolling isn't the answer",
+      "body": "The ITB is very strong connective tissue, so you can't really stretch or roll it longer. Rolling may feel good short term, but load changes and strength work usually matter more."
+    },
+    {
+      "kind": "body",
+      "title": "Common triggers",
+      "body": "A quick jump in distance, lots of downhill running, running the same direction on a cambered road or track, or bunching hard sessions together. Look back at your last month of training."
+    },
+    {
+      "kind": "body",
+      "title": "What to try",
+      "body": "Cut back distance for a while, skip downhills and stick to flat surfaces. Add hip strength work like side planks and single-leg squats, then build distance gradually once runs feel comfortable."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Swelling in the knee, locking or giving way, pain after a twist or fall, or pain that's there even when you're resting. These suggest something else may be going on."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a return-to-run plan?",
+      "body": "Our Sydney CBD and Chatswood physios assess your hips, knees and running pattern, then build a plan that fits your training."
+    }
+  ],
+  "caption": "Knee pain on the outside that shows up at the same kilometre every run? That's a classic ITB pattern.\n\nIliotibial band pain usually follows a change in training: more distance, more downhills or running the same way round a cambered track. The band itself is very strong tissue, so rolling or stretching it won't make it longer, even if it feels nice.\n\nWhat usually helps is easing distance for a while, sticking to flat routes and building hip strength, then increasing distance gradually.\n\nSwelling, locking or pain after a twist needs a proper look.\n\nOur Sydney CBD and Chatswood physios can help you get back on the road. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#itbandsyndrome",
+    "#itbpain",
+    "#kneepain",
+    "#runninginjury",
+    "#runners",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydney",
+    "#sydneyrunners",
+    "#sportsphysio",
+    "#physio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "ITB pain? Rolling won't lengthen it",
+    "body": "Ease distance, stay on flat routes and build hip strength. Then add kilometres back gradually."
+  },
+  "scheduled_date": "2026-10-01",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

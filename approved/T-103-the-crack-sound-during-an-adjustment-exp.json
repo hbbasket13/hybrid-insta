@@ -1,0 +1,68 @@
+{
+  "id": "T-103",
+  "service": "chiro",
+  "topic": "The 'crack' sound during an adjustment explained",
+  "location_tag": "Milton",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "What's that crack during an adjustment?",
+      "sub": "Spoiler: it isn't bones grinding or anything popping back in."
+    },
+    {
+      "kind": "body",
+      "title": "It's usually a gas bubble",
+      "body": "Joints are surrounded by fluid. When a joint is stretched quickly, pressure drops and a gas bubble forms in that fluid. That rapid change is what most researchers think makes the pop."
+    },
+    {
+      "kind": "body",
+      "title": "It isn't bones moving back",
+      "body": "The sound doesn't mean a bone was out of place and has been put back. Joints don't slip out with everyday posture, and nothing is being realigned when you hear it."
+    },
+    {
+      "kind": "body",
+      "title": "No crack doesn't mean no effect",
+      "body": "Some adjustments are quiet. Research suggests the sound isn't what makes an adjustment feel helpful, so chasing a louder pop isn't the goal. How you move afterwards matters more."
+    },
+    {
+      "kind": "body",
+      "title": "Is cracking your own neck OK?",
+      "body": "An occasional self-crack is common and usually harmless. If you feel the urge constantly, that area is often stiff or tired, and regular movement and strength work tend to help more."
+    },
+    {
+      "kind": "body",
+      "title": "Adjustments are one tool",
+      "body": "Our chiropractors combine hands-on treatment with exercise, advice and gradual loading. If you'd rather not be adjusted, just say so. There are gentler options, and you stay in control."
+    },
+    {
+      "kind": "cta",
+      "headline": "Curious, but a bit nervous?",
+      "body": "Our chiropractors at Hybrid Physiotherapy explain every step before they start, and you can ask questions at any point. Book online via the link in bio."
+    }
+  ],
+  "caption": "That loud crack during an adjustment? It's not what most people think.\n\nJoints sit in a pocket of fluid. When a joint is stretched quickly, pressure drops and a gas bubble forms, and that change is widely thought to cause the sound. It doesn't mean a bone was out and has been put back in.\n\nSome adjustments make no noise at all, and research suggests the sound isn't what makes treatment feel helpful. At Hybrid Physiotherapy, adjustments are one tool our chiropractors use alongside exercise, advice and gradual loading, and gentler options are always available if you prefer.\n\nGot questions before your first visit? Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#chiro",
+    "#chiropracticcare",
+    "#brisbanechiro",
+    "#brisbanechiropractor",
+    "#brisbane",
+    "#jointhealth",
+    "#neckpain",
+    "#backpain",
+    "#mobility",
+    "#movemore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Why do joints crack?",
+    "body": "Usually a gas bubble forming in joint fluid as pressure drops. Not bones going back in, and the noise isn't the goal."
+  },
+  "scheduled_date": "2026-09-29",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

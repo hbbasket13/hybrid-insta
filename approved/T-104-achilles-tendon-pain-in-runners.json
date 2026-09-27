@@ -1,0 +1,69 @@
+{
+  "id": "T-104",
+  "service": "physio",
+  "topic": "Achilles tendon pain in runners",
+  "location_tag": "Sunnybank",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Achilles grumbling on your runs?",
+      "sub": "Tendons love load, just not sudden spikes of it."
+    },
+    {
+      "kind": "body",
+      "title": "Why tendons get cranky",
+      "body": "Achilles pain in runners often follows a change: more kilometres, extra hills, speed work or new shoes. The tendon hasn't had time to adapt to the new load, so it lets you know."
+    },
+    {
+      "kind": "body",
+      "title": "Rest alone rarely sorts it",
+      "body": "Tendons often calm down during rest, then flare again when you return. What usually helps is loading them progressively with strength work so they can handle running again."
+    },
+    {
+      "kind": "body",
+      "title": "Start with calf raises",
+      "body": "Slow calf raises off a step, both legs and then single leg, are a common starting point. Some discomfort during exercise is often okay if it settles by the next morning."
+    },
+    {
+      "kind": "body",
+      "title": "Use the morning check",
+      "body": "Stiffness first thing is a handy guide. If it's worse the morning after a run, scale back a bit. If it's the same or better, you can usually keep building gradually."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A sudden pop, or a feeling like you were kicked in the back of the leg, trouble walking or rising onto your toes, or major swelling. These need a prompt assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep running while it settles",
+      "body": "Our Sunnybank and Milton physios assess your tendon and training, then build a strength and running plan that suits your week."
+    }
+  ],
+  "caption": "Achilles sore after your runs? Resting it probably won't be enough on its own.\n\nAchilles pain in runners often follows a change in load: more kilometres, hills, speed work or new shoes. Tendons often calm down with rest, then flare again when you go back, because they haven't been built up to cope.\n\nWhat usually helps is progressive loading. Slow calf raises off a step are a common place to start, and your morning stiffness is a useful guide to whether you're doing too much. Many runners can keep running at a reduced level while this happens.\n\nA sudden pop or trouble rising onto your toes needs a prompt check.\n\nOur Sunnybank and Milton physios can help you plan it. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#achillespain",
+    "#achillestendon",
+    "#runninginjury",
+    "#runners",
+    "#tendinopathy",
+    "#brisbanephysio",
+    "#sunnybankphysio",
+    "#miltonphysio",
+    "#brisbane",
+    "#sunnybank",
+    "#sportsphysio",
+    "#runbrisbane",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Achilles pain? Load it, gradually",
+    "body": "Tendons usually respond to progressive strength work, not just rest. Use morning stiffness to guide how much you run."
+  },
+  "scheduled_date": "2026-09-29",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

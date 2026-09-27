@@ -1,0 +1,68 @@
+{
+  "id": "T-118",
+  "service": "chiro",
+  "topic": "Tech neck: is it real?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Tech neck: real or overhyped?",
+      "sub": "What looking at your phone does, and doesn't, do to your neck."
+    },
+    {
+      "kind": "body",
+      "title": "The honest answer",
+      "body": "Research hasn't shown that phone posture on its own causes neck pain. But long stretches in any one position can leave your neck stiff, tired and achy by the end of the day."
+    },
+    {
+      "kind": "body",
+      "title": "Posture isn't the villain",
+      "body": "There's no single perfect posture. The problem is usually staying still for too long. Your next position is often the most helpful one, so change it up regularly through the day."
+    },
+    {
+      "kind": "body",
+      "title": "Try the 30-minute reset",
+      "body": "Every half hour, roll your shoulders, turn your head side to side and look up at the ceiling. Hold your phone a little higher and set your screen at eye level."
+    },
+    {
+      "kind": "body",
+      "title": "Build a stronger neck",
+      "body": "Simple exercises like chin tucks and shoulder blade squeezes, plus general strength work, help your neck tolerate long days. Regular movement usually helps more than holding a rigid posture."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Neck pain with pins and needles or weakness in the arms, dizziness, severe headaches, or pain after a fall or car accident. These need a proper assessment first."
+    },
+    {
+      "kind": "cta",
+      "headline": "Stiff neck from desk days?",
+      "body": "Our chiropractors at Hybrid Physiotherapy combine hands-on care with exercise and desk advice. Book online via the link in bio."
+    }
+  ],
+  "caption": "Is 'tech neck' real? Sort of, but not in the scary way you've heard.\n\nResearch hasn't shown that looking at your phone on its own causes neck pain. What does tend to leave necks stiff and achy is staying in any one position for too long. There's no perfect posture, and your next position is often the most helpful one.\n\nTry a quick reset every 30 minutes: shoulder rolls, head turns and a look up at the ceiling. Add simple neck and upper back strength work to help you handle long days.\n\nOur chiropractors at Hybrid Physiotherapy use hands-on care alongside exercise and practical desk advice. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#chiro",
+    "#techneck",
+    "#neckpain",
+    "#deskworker",
+    "#officeworker",
+    "#posture",
+    "#ergonomics",
+    "#workfromhome",
+    "#sydneychiro",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Tech neck: move, don't freeze",
+    "body": "No perfect posture. Change position often, reset every 30 minutes and build neck strength."
+  },
+  "scheduled_date": "2026-10-05",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

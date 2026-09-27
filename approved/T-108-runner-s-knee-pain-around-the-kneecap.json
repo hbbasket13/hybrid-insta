@@ -1,0 +1,69 @@
+{
+  "id": "T-108",
+  "service": "physio",
+  "topic": "Runner's knee: pain around the kneecap",
+  "location_tag": "Sunnybank",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Knee aching after runs or stairs?",
+      "sub": "Pain around the kneecap is common in runners, and very manageable."
+    },
+    {
+      "kind": "body",
+      "title": "Meet runner's knee",
+      "body": "Patellofemoral pain is an ache around or behind the kneecap. It often flares with stairs, squats, hills or sitting for a long time with bent knees, like at the movies."
+    },
+    {
+      "kind": "body",
+      "title": "It's usually a load issue",
+      "body": "It usually shows up when running or training increases faster than the knee can adapt. Scans often look normal, and it doesn't mean your knee is wearing out."
+    },
+    {
+      "kind": "body",
+      "title": "Tweak your training",
+      "body": "Drop the hills and speed work for a bit, shorten your runs and slightly increase your step rate. Keep pain while running mild, and make sure it settles within a day."
+    },
+    {
+      "kind": "body",
+      "title": "Strengthen hips and thighs",
+      "body": "Research suggests hip and thigh strengthening is one of the most helpful approaches. Try wall sits, step-ups and side-lying leg raises, building up gradually over several weeks."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Swelling after a twist, a knee that locks or gives way, trouble fully bending or straightening it, or pain that keeps you up at night. These deserve a proper look."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep your knees in the game",
+      "body": "Our Sunnybank and Milton physios assess your knee, strength and running, then build a plan to get you back on track."
+    }
+  ],
+  "caption": "Knee ache on the stairs or after a long run? Let's talk runner's knee.\n\nPain around the kneecap is one of the most common running niggles. It usually appears when training ramps up faster than the knee can adapt, and it doesn't mean your knee is wearing out.\n\nA few changes often help: ease off hills and speed work, shorten runs for a while, and lift your step rate slightly. Add hip and thigh strength work like wall sits and step-ups, and build gradually.\n\nSwelling, locking, giving way or night pain is worth getting checked.\n\nOur Sunnybank and Milton physios can assess your knee and running and set up a plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#runnersknee",
+    "#patellofemoralpain",
+    "#runninginjury",
+    "#runners",
+    "#brisbanephysio",
+    "#sunnybankphysio",
+    "#miltonphysio",
+    "#brisbane",
+    "#sunnybank",
+    "#sportsphysio",
+    "#strengthtraining",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Runner's knee: tweak and strengthen",
+    "body": "Ease off hills, shorten runs and build hip and thigh strength. Most people settle with a gradual plan."
+  },
+  "scheduled_date": "2026-10-01",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

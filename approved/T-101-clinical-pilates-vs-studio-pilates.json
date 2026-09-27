@@ -1,0 +1,69 @@
+{
+  "id": "T-101",
+  "service": "pilates",
+  "topic": "Clinical Pilates vs studio Pilates",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Clinical Pilates or studio Pilates?",
+      "sub": "Both are useful. They're just built for different jobs."
+    },
+    {
+      "kind": "body",
+      "title": "Studio Pilates: group fitness",
+      "body": "Studio classes are run by trained instructors and are a solid way to build strength, control and fitness. They suit people without a current injury who want a regular, social workout."
+    },
+    {
+      "kind": "body",
+      "title": "Clinical Pilates: rehab first",
+      "body": "Clinical Pilates is run by a physiotherapist or trained clinician. It starts with an assessment, and exercises are chosen and progressed around your injury, pain history or goals, often one-on-one or in small groups."
+    },
+    {
+      "kind": "body",
+      "title": "Who clinical Pilates often suits",
+      "body": "People coming back from an injury, managing a recurring back or neck niggle, recovering after pregnancy, or told to strengthen something specific but unsure where to start."
+    },
+    {
+      "kind": "body",
+      "title": "Can you do both?",
+      "body": "Yes, and heaps of people do. A common path is a block of clinical sessions to build confidence and control, then a gradual move into studio classes once things feel steady."
+    },
+    {
+      "kind": "body",
+      "title": "What about health fund cover?",
+      "body": "Whether your extras cover includes clinical Pilates depends on your fund and your policy. Check with your fund before you start, and ask what they need to see on the receipt."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure which one fits?",
+      "body": "Our Pilates team starts with an assessment, then builds sessions around your body and goals. Book online via the link in bio."
+    }
+  ],
+  "caption": "Clinical Pilates or studio Pilates: which one is right for you right now?\n\nStudio classes are group fitness, run by trained instructors, and they're a great way to get stronger if nothing is currently bothering you. Clinical Pilates starts with an assessment and is run by a physio or trained clinician, with exercises chosen and progressed around your injury, pain history or goals.\n\nLots of people do both: a block of clinical sessions to build confidence, then a gradual move into studio classes. Health fund cover for clinical Pilates depends on your fund and policy, so check with your fund before you start.\n\nOur Pilates team at Hybrid Physiotherapy can help you work out where to begin. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#physiotherapy",
+    "#pilatesforrehab",
+    "#reformerpilates",
+    "#injuryrehab",
+    "#backpain",
+    "#sydney",
+    "#sydneypilates",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#movemore",
+    "#strengthtraining",
+    "#pilateslife"
+  ],
+  "story": {
+    "headline": "Clinical or studio Pilates?",
+    "body": "Studio is group fitness. Clinical starts with an assessment and is built around your injury or goals. Many people do both."
+  },
+  "scheduled_date": "2026-09-28",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

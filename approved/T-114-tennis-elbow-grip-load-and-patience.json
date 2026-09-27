@@ -1,0 +1,69 @@
+{
+  "id": "T-114",
+  "service": "physio",
+  "topic": "Tennis elbow: grip, load and patience",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Tennis elbow? You don't need to play",
+      "sub": "Grip, load and patience: how outer elbow pain usually settles."
+    },
+    {
+      "kind": "body",
+      "title": "What it usually is",
+      "body": "Lateral elbow pain comes from the tendons that attach on the outside of the elbow. It's common in people who grip a lot: mouse users, tradies, gym-goers and, yes, tennis players."
+    },
+    {
+      "kind": "body",
+      "title": "Grip is the giveaway",
+      "body": "Pain gripping a kettle, opening jars or shaking hands is typical. Use a lighter grip where you can, lift with your palm facing up, and take regular micro-breaks from the mouse."
+    },
+    {
+      "kind": "body",
+      "title": "Load it, don't baby it",
+      "body": "Tendons respond to gradual loading. Slow wrist exercises with a light dumbbell or band are a common starting point. Mild discomfort that settles by the next day is usually okay."
+    },
+    {
+      "kind": "body",
+      "title": "Patience is part of the plan",
+      "body": "Tennis elbow is often slow to settle and can take months. Research suggests steady, progressive exercise helps most people improve over time, so stick with it even when progress feels slow."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain after a fall or a big lift, swelling or a clunk in the joint, numbness or tingling into the hand, or weakness when gripping. These are worth a proper assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Get a grip on elbow pain",
+      "body": "Our Sydney CBD and Chatswood physios check your elbow, neck and workload, then build a loading program and practical desk tips."
+    }
+  ],
+  "caption": "You don't have to play tennis to get tennis elbow. A mouse, a tool or the gym is a far more common trigger.\n\nOuter elbow pain comes from the tendons on the outside of the elbow, and gripping is usually what sets it off. Small changes help: a lighter grip, lifting with your palm up and micro-breaks at the desk.\n\nTendons respond to gradual loading, so slow wrist exercises are a common starting point. It can take months to settle, and steady, progressive work usually wins out.\n\nNumbness into the hand or pain after a fall is worth checking.\n\nOur Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#tenniselbow",
+    "#elbowpain",
+    "#lateralelbowpain",
+    "#tendinopathy",
+    "#deskworker",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydney",
+    "#sydneycbd",
+    "#physio",
+    "#gripstrength",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Tennis elbow: grip less, load more",
+    "body": "Lighter grip, micro-breaks and slow wrist exercises. It takes patience, but most people improve."
+  },
+  "scheduled_date": "2026-10-03",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

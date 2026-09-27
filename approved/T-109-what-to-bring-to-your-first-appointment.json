@@ -1,0 +1,69 @@
+{
+  "id": "T-109",
+  "service": "clinic",
+  "topic": "What to bring to your first appointment",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Your first visit: what to bring",
+      "sub": "A quick checklist so your first appointment runs smoothly."
+    },
+    {
+      "kind": "body",
+      "title": "1. Your health fund card",
+      "body": "If your extras cover includes the service, you can usually claim on the spot through HICAPS. Bring the physical card or have your digital card ready on your phone."
+    },
+    {
+      "kind": "body",
+      "title": "2. Referrals or claim details",
+      "body": "Coming under a GP chronic condition management plan? Bring the referral. For WorkCover, CTP, NDIS or DVA, bring your claim number and case manager or insurer details, and we liaise from there."
+    },
+    {
+      "kind": "body",
+      "title": "3. Scans and reports",
+      "body": "Bring any imaging reports, surgery letters or specialist notes you have. They're handy background, although most of the assessment is about how you move and what you tell us."
+    },
+    {
+      "kind": "body",
+      "title": "4. Clothes you can move in",
+      "body": "Wear something comfy. Shorts for knee, hip or ankle problems, and a singlet or loose top for shoulder or neck issues. It helps us see and assess the area properly."
+    },
+    {
+      "kind": "body",
+      "title": "5. Your questions",
+      "body": "Jot down when it started, what makes it better or worse and what you want to get back to. Your goals shape the plan, so no question is too small."
+    },
+    {
+      "kind": "cta",
+      "headline": "All set for your first visit?",
+      "body": "Arriving a few minutes early leaves time for paperwork. Book online via the link in bio, or call the clinic with any questions."
+    }
+  ],
+  "caption": "First appointment coming up? Here's what to bring so nothing slows you down.\n\nYour health fund card, so you can claim on the spot with HICAPS if your extras cover includes the service. If you're coming under a GP chronic condition management plan, bring the referral. It can give a Medicare rebate for up to 5 allied health visits per calendar year, and there's usually a gap fee.\n\nFor WorkCover, CTP, NDIS or DVA, bring your claim number and case manager or insurer details. Add any scan reports, comfy clothes and a list of questions.\n\nOur physiotherapists, chiropractors, Pilates team and remedial massage therapists work under one roof at Hybrid Physiotherapy. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#alliedhealth",
+    "#firstappointment",
+    "#healthfund",
+    "#hicaps",
+    "#sydney",
+    "#brisbane",
+    "#sydneyphysio",
+    "#brisbanephysio",
+    "#physio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "First visit checklist",
+    "body": "Health fund card, referral or claim number, any scan reports, comfy clothes and your questions."
+  },
+  "scheduled_date": "2026-10-01",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

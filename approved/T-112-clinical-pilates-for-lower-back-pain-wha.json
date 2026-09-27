@@ -1,0 +1,68 @@
+{
+  "id": "T-112",
+  "service": "pilates",
+  "topic": "Clinical Pilates for lower back pain: what the research suggests",
+  "location_tag": "Sunnybank",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Can Pilates help lower back pain?",
+      "sub": "What the research suggests, minus the hype."
+    },
+    {
+      "kind": "body",
+      "title": "What the research suggests",
+      "body": "Current guidelines recommend exercise as a first-line approach for persistent lower back pain. Research suggests Pilates-based exercise can help reduce pain and improve function, much like other well-designed exercise."
+    },
+    {
+      "kind": "body",
+      "title": "No single type wins",
+      "body": "Studies generally don't show one exercise style clearly ahead of the others. The type you enjoy and keep doing, progressed sensibly, often matters more than the name on the class."
+    },
+    {
+      "kind": "body",
+      "title": "It's not about a weak core",
+      "body": "Back pain isn't simply caused by a weak core. Pilates can help by building strength, confidence and comfortable movement, so everyday tasks feel less threatening to your back."
+    },
+    {
+      "kind": "body",
+      "title": "Why clinical matters here",
+      "body": "Clinical Pilates starts with an assessment, and exercises are adapted to your symptoms and goals. That can make it easier to start if you're worried about flaring things up."
+    },
+    {
+      "kind": "body",
+      "title": "Get a medical check first if",
+      "body": "Back pain comes with numbness around the groin, bladder or bowel changes, leg weakness that's getting worse, fever or unexplained weight loss. These need checking before any exercise program."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want to try it safely?",
+      "body": "Our Pilates team at Hybrid Physiotherapy assesses first, then builds sessions around your back. Cover depends on your policy, so check with your fund."
+    }
+  ],
+  "caption": "Does Pilates actually help lower back pain? Here's the honest version.\n\nCurrent guidelines recommend exercise as a first-line approach for persistent back pain, and research suggests Pilates-based exercise can help reduce pain and improve function. It isn't magic, though. Studies generally show similar benefits from other well-designed exercise, so the type you enjoy and stick with matters most.\n\nClinical Pilates starts with an assessment and adapts exercises to your symptoms, which can make it easier to begin if you're nervous about a flare-up. Health fund cover depends on your fund and policy, so check with your fund.\n\nOur Pilates team at Hybrid Physiotherapy can help you start. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#pilatesforbackpain",
+    "#lowerbackpain",
+    "#backpain",
+    "#physiotherapy",
+    "#brisbane",
+    "#brisbanepilates",
+    "#exerciseismedicine",
+    "#reformerpilates",
+    "#painscience",
+    "#movemore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Pilates for back pain?",
+    "body": "Research suggests it can help, much like other good exercise. The one you'll keep doing matters most."
+  },
+  "scheduled_date": "2026-10-02",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

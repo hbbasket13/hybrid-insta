@@ -1,0 +1,69 @@
+{
+  "id": "T-105",
+  "service": "physio",
+  "topic": "Shin splints: it's a load problem",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Shin splints are a load problem",
+      "sub": "Why your shins complain and how to build them back up."
+    },
+    {
+      "kind": "body",
+      "title": "What's usually going on",
+      "body": "Shin splints, or medial tibial stress syndrome, is pain along the inner edge of the shin. It often shows up when running load rises faster than bone and muscle can adapt."
+    },
+    {
+      "kind": "body",
+      "title": "Common triggers",
+      "body": "A jump in weekly kilometres, returning after a break, more hard surfaces or extra sessions squeezed in before an event. Shoes often matter less than people think; the training pattern usually matters more."
+    },
+    {
+      "kind": "body",
+      "title": "Adjust, don't necessarily stop",
+      "body": "Cutting back volume or intensity is often enough. Cycling, swimming or walking can keep fitness ticking over while the shins settle. Aim for runs that feel no worse the next day."
+    },
+    {
+      "kind": "body",
+      "title": "Build capacity",
+      "body": "Calf raises, single-leg balance and hip strength work help your legs share the load. When you return, add distance gradually and avoid ramping up speed and volume at the same time."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain in one small spot on the bone, pain at rest or at night, or pain that makes you limp. These can point to a bone stress injury, so get assessed before running again."
+    },
+    {
+      "kind": "cta",
+      "headline": "Get back to running with a plan",
+      "body": "Our Chatswood and Sydney CBD physios look at your training, strength and running, then build a return plan you can actually follow."
+    }
+  ],
+  "caption": "Sore shins every time you up your kilometres? That's a clue.\n\nShin splints usually show up when running load rises faster than your bones and muscles can adapt: a jump in distance, a return after a break or a rush of extra sessions before an event.\n\nThe good news is you often don't have to stop completely. Trim volume or intensity, cross-train with cycling or swimming, and build calf and hip strength. Then add distance gradually, and don't lift speed and volume at the same time.\n\nPain in one small spot on the bone, pain at night or a limp needs checking before you run again.\n\nOur Chatswood and Sydney CBD physios can help you plan your return. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#shinsplints",
+    "#runninginjury",
+    "#runners",
+    "#sportsphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydney",
+    "#physio",
+    "#runningtips",
+    "#loadmanagement",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Shin splints? Check your training",
+    "body": "Usually load outpacing adaptation. Trim volume, cross-train, build calf strength, then return gradually."
+  },
+  "scheduled_date": "2026-09-30",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "T-107",
+  "service": "physio",
+  "topic": "Heel pain with the first steps in the morning (plantar heel pain)",
+  "location_tag": "Milton",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Those first steps out of bed hurt?",
+      "sub": "Morning heel pain is common, and it usually settles with the right load."
+    },
+    {
+      "kind": "body",
+      "title": "What's often behind it",
+      "body": "Plantar heel pain involves the thick tissue under the foot where it attaches to the heel. That first-step pain after rest is a classic pattern, and it often eases once you get moving."
+    },
+    {
+      "kind": "body",
+      "title": "Common contributors",
+      "body": "More time on your feet, a jump in walking or running, a change in footwear or stiff calves. It's common in runners and in people who stand for long shifts at work."
+    },
+    {
+      "kind": "body",
+      "title": "Things to try today",
+      "body": "Supportive shoes around the house, a gentle calf and foot stretch before your first steps, and rolling your arch over a bottle. Ease back a little on activities that make it flare."
+    },
+    {
+      "kind": "body",
+      "title": "Strength is the long game",
+      "body": "Slow heel raises with your toes on a rolled towel are a common starting exercise. Build them gradually over weeks. Research suggests strength work plus load changes helps most people improve."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain after a fall or a jump, noticeable swelling, numbness or tingling in the foot, heel pain at night, or pain in both heels along with other joint pain. Worth a proper assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Give your heels a plan",
+      "body": "Our Milton and Sunnybank physios check your foot, calf and loading, then set up an exercise program and footwear tips to help."
+    }
+  ],
+  "caption": "If your first steps out of bed feel like walking on a stone, you're not alone.\n\nMorning heel pain, often called plantar heel pain, involves the tissue under your foot where it attaches to the heel. It's common in runners and people who stand all day, and it often follows a jump in activity or a change in shoes.\n\nThings that usually help: supportive footwear around the house, a gentle calf stretch before you get up, and gradually building strength with slow heel raises. It can take a while, but most people improve.\n\nNumbness, swelling, night pain or pain after a fall is worth checking.\n\nOur Milton and Sunnybank physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#heelpain",
+    "#plantarfasciitis",
+    "#plantarheelpain",
+    "#footpain",
+    "#runninginjury",
+    "#brisbanephysio",
+    "#miltonphysio",
+    "#sunnybankphysio",
+    "#brisbane",
+    "#milton",
+    "#physio",
+    "#footcare",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "First-step heel pain?",
+    "body": "Supportive shoes, a calf stretch before getting up and slow heel raises are a good starting point."
+  },
+  "scheduled_date": "2026-09-30",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

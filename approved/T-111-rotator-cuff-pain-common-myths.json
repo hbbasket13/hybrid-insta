@@ -1,0 +1,69 @@
+{
+  "id": "T-111",
+  "service": "physio",
+  "topic": "Rotator cuff pain: common myths",
+  "location_tag": "Milton",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Rotator cuff pain: 4 myths to drop",
+      "sub": "What current guidelines actually say about sore shoulders."
+    },
+    {
+      "kind": "body",
+      "title": "Myth: the scan tells all",
+      "body": "Plenty of people without shoulder pain have rotator cuff changes on scans, and they become more common as we age. A scan finding doesn't always explain your pain or decide your plan."
+    },
+    {
+      "kind": "body",
+      "title": "Myth: rest it until it's gone",
+      "body": "Complete rest often leaves the shoulder stiffer and weaker. Keeping it moving within a comfortable range, and gradually loading it, usually helps more than keeping it still."
+    },
+    {
+      "kind": "body",
+      "title": "Myth: rehab must be painless",
+      "body": "Some discomfort during rehab exercises is often okay. A common guide is pain that stays mild and settles within a day. Your physio can help you find the right level for you."
+    },
+    {
+      "kind": "body",
+      "title": "Myth: avoid overhead forever",
+      "body": "Avoiding overhead movement for good can make it harder to return. Most people can gradually work back to reaching, lifting and overhead sport with a graded plan, starting lower and building up."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Sudden weakness after a fall or heavy lift, being unable to lift your arm, severe night pain, a misshapen shoulder, or pins and needles down the arm. Get these looked at promptly."
+    },
+    {
+      "kind": "cta",
+      "headline": "Get your shoulder moving again",
+      "body": "Our Milton and Sunnybank physios assess your shoulder and build a strength program that fits your work, gym or sport."
+    }
+  ],
+  "caption": "Sore shoulder and a scan that says 'rotator cuff'? Time to bust a few myths.\n\nRotator cuff changes are common on scans, even in people with no pain, so a scan rarely tells the whole story. Full rest often leaves the shoulder stiffer and weaker. Some discomfort during rehab is usually okay if it settles within a day. And most people can gradually get back to overhead work and sport.\n\nCurrent guidelines put exercise and gradual loading at the centre of rotator cuff care.\n\nSudden weakness after a fall, being unable to lift your arm or severe night pain needs a prompt check.\n\nOur Milton and Sunnybank physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#shoulderpain",
+    "#rotatorcuff",
+    "#rotatorcuffinjury",
+    "#shoulderrehab",
+    "#brisbanephysio",
+    "#miltonphysio",
+    "#sunnybankphysio",
+    "#brisbane",
+    "#milton",
+    "#physio",
+    "#strengthtraining",
+    "#gymlife",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Rotator cuff myths, busted",
+    "body": "Scans don't tell the whole story, rest often stiffens things up, and most people get back overhead gradually."
+  },
+  "scheduled_date": "2026-10-02",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

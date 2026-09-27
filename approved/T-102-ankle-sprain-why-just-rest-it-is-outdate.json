@@ -1,0 +1,69 @@
+{
+  "id": "T-102",
+  "service": "physio",
+  "topic": "Ankle sprain: why 'just rest it' is outdated",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Rolled your ankle? Don't just rest it",
+      "sub": "Current guidelines favour early, gentle movement over weeks on the couch."
+    },
+    {
+      "kind": "body",
+      "title": "Why the advice changed",
+      "body": "Older advice was to rest a sprained ankle until it felt normal. Current guidelines suggest protected, early movement usually helps ligaments recover and reduces stiffness and the chance of another sprain."
+    },
+    {
+      "kind": "body",
+      "title": "The first few days",
+      "body": "Protect it, elevate it when you can and use compression if it helps the swelling. Walk as comfortably as you can, using a brace or crutches only if you genuinely need them."
+    },
+    {
+      "kind": "body",
+      "title": "Days 3 to 14: get it moving",
+      "body": "Trace the alphabet with your toes, do gentle calf raises and practise standing on the injured leg near a bench. Mild discomfort is usually fine; sharp or worsening pain means ease off."
+    },
+    {
+      "kind": "body",
+      "title": "Balance is the missing piece",
+      "body": "Many people stop once the swelling goes, but balance and strength often lag behind. Research suggests balance training can reduce the chance of another sprain, so keep it going for weeks."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "You can't take four steps on it, there's tenderness right on the ankle bones, the foot looks misshapen, it's numb, or swelling isn't settling after a few days. Worth a prompt assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Get a plan for your ankle",
+      "body": "Our Sydney CBD and Chatswood physios check the ankle, flag anything that needs imaging and map out your return to walking, running or sport."
+    }
+  ],
+  "caption": "Rolled your ankle? The old 'just rest it' advice is out of date.\n\nCurrent guidelines suggest that protected, early movement usually helps a sprained ankle recover better than weeks of rest. In the first few days, protect and elevate it, then start gentle movement: toe alphabets, calf raises and standing balance near a bench.\n\nThe step most people skip is balance training. Research suggests it can lower the chance of rolling the same ankle again, so keep going after the swelling settles.\n\nGet it checked promptly if you can't take four steps, the ankle bones are tender to touch, the foot looks misshapen or swelling isn't settling.\n\nOur Sydney CBD and Chatswood physios can assess it and plan your return to sport. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#anklesprain",
+    "#sprainedankle",
+    "#anklerehab",
+    "#sportsinjury",
+    "#sportsphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydney",
+    "#sydneycbd",
+    "#physio",
+    "#injuryrehab",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Sprained ankle? Keep it moving",
+    "body": "Protect it early, then gentle movement and balance work. Rest alone often leaves it stiff and more likely to roll again."
+  },
+  "scheduled_date": "2026-09-29",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

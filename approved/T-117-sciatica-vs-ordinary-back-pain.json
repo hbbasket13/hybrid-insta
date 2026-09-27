@@ -1,0 +1,69 @@
+{
+  "id": "T-117",
+  "service": "physio",
+  "topic": "Sciatica vs ordinary back pain",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Sciatica or ordinary back pain?",
+      "sub": "Where the pain travels gives useful clues. Here's how they usually differ."
+    },
+    {
+      "kind": "body",
+      "title": "Ordinary back pain",
+      "body": "It usually sits across the lower back and maybe into the buttock. It often changes with position and movement, and most episodes settle over days to weeks when you stay active."
+    },
+    {
+      "kind": "body",
+      "title": "What sciatica usually feels like",
+      "body": "Pain that travels down the leg, often below the knee, sometimes with pins and needles or numbness. The leg can hurt more than the back. It comes from an irritated nerve root."
+    },
+    {
+      "kind": "body",
+      "title": "Both usually improve",
+      "body": "Sciatica can be more intense and take longer, often weeks to a few months. Still, most people improve with time, movement and conservative care. Staying gently active helps in both cases."
+    },
+    {
+      "kind": "body",
+      "title": "What helps in the meantime",
+      "body": "Short walks, changing position often and gentle movements you can tolerate. Avoid long stretches of bed rest. Your physio can suggest positions and exercises that ease leg symptoms."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Numbness around the groin, changes in bladder or bowel control, leg weakness that's getting worse, or symptoms in both legs. These need urgent medical attention, so seek help straight away."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure which you've got?",
+      "body": "Our Chatswood and Sydney CBD physios assess your back and legs, explain what's going on and set up a plan to keep you moving."
+    }
+  ],
+  "caption": "Pain in your back, or pain running down your leg? The difference matters.\n\nOrdinary back pain usually stays in the lower back and buttock and changes with position. Sciatica usually travels down the leg, often past the knee, sometimes with pins and needles or numbness, and the leg can hurt more than the back.\n\nBoth usually improve. Sciatica can take longer, but most people get better with time, movement and conservative care. Short walks and regular position changes tend to help more than bed rest.\n\nNumbness around the groin, bladder or bowel changes or worsening leg weakness needs urgent medical attention.\n\nOur Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sciatica",
+    "#backpain",
+    "#lowerbackpain",
+    "#nervepain",
+    "#legpain",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydney",
+    "#physio",
+    "#painscience",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Back pain or sciatica?",
+    "body": "Back pain stays in the back. Sciatica travels down the leg. Both usually improve with movement and time."
+  },
+  "scheduled_date": "2026-10-05",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

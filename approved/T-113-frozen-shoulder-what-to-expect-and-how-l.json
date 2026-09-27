@@ -1,0 +1,68 @@
+{
+  "id": "T-113",
+  "service": "physio",
+  "topic": "Frozen shoulder: what to expect and how long it lasts",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Frozen shoulder: what to expect",
+      "sub": "It's slow and frustrating, but most people do get their movement back."
+    },
+    {
+      "kind": "body",
+      "title": "What it is",
+      "body": "Frozen shoulder is when the capsule around the shoulder joint becomes inflamed and tight. Movement gets painful and very limited in several directions. It's most common between about 40 and 60."
+    },
+    {
+      "kind": "body",
+      "title": "Stage 1: the painful phase",
+      "body": "Pain builds, often worse at night, and movement starts to tighten. This phase can last several months. Gentle movement within comfort, heat, pillow support and pacing can help you cope."
+    },
+    {
+      "kind": "body",
+      "title": "Stage 2: the stiff phase",
+      "body": "Pain often eases, but the shoulder stays tight. Reaching overhead or behind your back is hard. Regular gentle stretching and strength work help you keep function while it runs its course."
+    },
+    {
+      "kind": "body",
+      "title": "Stage 3: the thaw",
+      "body": "Movement gradually returns. The whole process often takes many months, sometimes a year or two. Most people get back most of their movement, even if progress feels slow."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Shoulder pain after a fall, sudden loss of strength, fever, pain that's quickly getting worse, or arm pain with chest pain or breathlessness. That last one needs urgent medical care."
+    },
+    {
+      "kind": "cta",
+      "headline": "Stuck in the stiff stage?",
+      "body": "Our Chatswood and Sydney CBD physios assess your shoulder, explain what stage it seems to be in and guide exercises that keep you moving."
+    }
+  ],
+  "caption": "Frozen shoulder is one of the slowest shoulder problems to settle. Here's what to expect.\n\nIt usually moves through three stages. First, a painful phase where movement starts to tighten and nights can be rough. Then a stiff phase, where pain eases but reaching overhead or behind your back is hard. Finally, a thaw, where movement gradually returns.\n\nThe whole process often takes many months and sometimes a year or two, but most people get back most of their movement. Gentle, regular exercise helps you keep function along the way.\n\nOur Chatswood and Sydney CBD physios can guide you through each stage. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#frozenshoulder",
+    "#adhesivecapsulitis",
+    "#shoulderpain",
+    "#shoulderrehab",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydney",
+    "#physio",
+    "#mobility",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Frozen shoulder, stage by stage",
+    "body": "Painful, then stiff, then a slow thaw. It can take many months, but most people regain most movement."
+  },
+  "scheduled_date": "2026-10-02",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

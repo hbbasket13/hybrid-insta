@@ -1,0 +1,69 @@
+{
+  "id": "T-116",
+  "service": "physio",
+  "topic": "Knee osteoarthritis: why exercise beats another scan",
+  "location_tag": "Sunnybank",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Knee arthritis: why exercise comes first",
+      "sub": "Current guidelines put exercise and education ahead of repeat imaging."
+    },
+    {
+      "kind": "body",
+      "title": "Scans rarely change the plan",
+      "body": "X-ray changes and pain often don't match well. Plenty of people with arthritis on imaging have little pain, and the reverse. Another scan usually won't change what helps day to day."
+    },
+    {
+      "kind": "body",
+      "title": "Exercise is first-line",
+      "body": "Current guidelines recommend exercise and education as the first-line approach for knee osteoarthritis. Strength work and regular activity can help reduce pain and improve how well you get around."
+    },
+    {
+      "kind": "body",
+      "title": "Moving is good for joints",
+      "body": "Joints are designed to be loaded. Research suggests appropriate activity is safe for knees with arthritis, and cartilage responds well to movement. Resting too much often makes stiffness worse."
+    },
+    {
+      "kind": "body",
+      "title": "A simple place to start",
+      "body": "Sit-to-stands from a chair, step-ups on the bottom stair and regular walking are a good starting point. Some discomfort is usually okay if it settles within a day."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A hot, very swollen knee, fever, a knee that suddenly locks or gives way, or pain after a fall or twist. These need a prompt assessment rather than a home program."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a plan for your knees?",
+      "body": "Our Sunnybank and Milton physios assess your knees and build a strength program that fits your life and goals."
+    }
+  ],
+  "caption": "Knee arthritis? Another scan probably won't change much. Exercise often will.\n\nImaging and pain often don't line up, and current guidelines recommend exercise and education as the first-line approach for knee osteoarthritis. Joints are built to be loaded, and moving regularly usually helps more than resting.\n\nStart simple: sit-to-stands, step-ups and regular walks, with some discomfort being okay if it settles within a day.\n\nIf you have a chronic condition, ask your GP about a chronic condition management plan. It can give a Medicare rebate for up to 5 allied health visits per calendar year, and there's usually a gap fee.\n\nOur Sunnybank and Milton physios can build your program. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneeosteoarthritis",
+    "#osteoarthritis",
+    "#kneepain",
+    "#arthritis",
+    "#exerciseismedicine",
+    "#brisbanephysio",
+    "#sunnybankphysio",
+    "#miltonphysio",
+    "#brisbane",
+    "#sunnybank",
+    "#strengthtraining",
+    "#healthyageing",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Knee arthritis: move more",
+    "body": "Guidelines put exercise first. Try sit-to-stands, step-ups and regular walks, building up gradually."
+  },
+  "scheduled_date": "2026-10-03",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
