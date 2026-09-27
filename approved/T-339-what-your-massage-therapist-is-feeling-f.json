@@ -1,0 +1,67 @@
+{
+  "id": "T-339",
+  "service": "remedial",
+  "topic": "What your massage therapist is feeling for",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "What are those hands actually checking?",
+      "sub": "What your remedial massage therapist is feeling for during a session."
+    },
+    {
+      "kind": "body",
+      "title": "Texture and tone",
+      "body": "Therapists feel whether muscles are soft, firm or guarded, often comparing one side with the other. It's a guide to where to spend time, not proof that something is wrong."
+    },
+    {
+      "kind": "body",
+      "title": "Tender spots",
+      "body": "Sensitive, knotty-feeling spots are common and often ease with steady pressure. Your feedback matters here, because tenderness partly reflects how sensitive your nervous system is that day."
+    },
+    {
+      "kind": "body",
+      "title": "How you react",
+      "body": "Tensing up, holding your breath or pulling away tells your therapist to ease off. Good massage works with your body, so speaking up about pressure is always welcome."
+    },
+    {
+      "kind": "body",
+      "title": "Warmth and swelling",
+      "body": "Areas that feel warm, puffy or unusually sensitive can be a reason to go gently, work elsewhere or suggest you see a physio or GP before more massage."
+    },
+    {
+      "kind": "body",
+      "title": "It's not a diagnosis",
+      "body": "What a therapist feels is useful information, but it doesn't replace a proper assessment. If something needs further checking, they'll suggest seeing a physio, chiropractor or your GP."
+    },
+    {
+      "kind": "cta",
+      "headline": "Curious what your therapist notices?",
+      "body": "Our remedial massage therapists at Hybrid Physiotherapy explain what they find as they go and suggest simple things to try at home. Book online, link in bio."
+    }
+  ],
+  "caption": "Ever wondered what your massage therapist is actually feeling for?\n\nIt's a mix of things: how firm or guarded the muscles feel, where the tender spots are, and how you react to pressure. Comparing one side with the other helps them decide where to spend time.\n\nWarmth, swelling or unusual sensitivity can be a reason to go gently or suggest a check with a physio or GP first. And while what they feel is useful, it's not a diagnosis.\n\nYour feedback matters just as much as their hands, so speak up about pressure any time.\n\nOur remedial massage therapists at Hybrid Physiotherapy are happy to explain as they go. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#massagetherapist",
+    "#musclepain",
+    "#tightmuscles",
+    "#bodyawareness",
+    "#recovery",
+    "#selfcare",
+    "#sydney",
+    "#sydneymassage",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "What's your therapist feeling for?",
+    "body": "Muscle tone, tender spots and how you react. Speak up about pressure any time."
+  },
+  "scheduled_date": "2026-12-09",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

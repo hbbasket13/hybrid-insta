@@ -1,0 +1,69 @@
+{
+  "id": "T-342",
+  "service": "clinic",
+  "topic": "Why we ask about sleep, stress and work",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Why we ask about more than your back",
+      "sub": "Sleep, stress and work shape how pain behaves. Here's why they matter."
+    },
+    {
+      "kind": "body",
+      "title": "Sleep changes pain sensitivity",
+      "body": "Research suggests poor sleep can make the nervous system more sensitive, so the same activity may hurt more after a bad night. That's useful to know when planning your exercises and load."
+    },
+    {
+      "kind": "body",
+      "title": "Stress turns up the volume",
+      "body": "Busy seasons, deadlines and big life changes can raise muscle tension and make pain feel louder. It's not 'all in your head'. It's how the body and brain work together."
+    },
+    {
+      "kind": "body",
+      "title": "Work shapes the daily load",
+      "body": "Hours at a desk, driving, lifting or standing all change what your body handles each day. Knowing your routine helps us suggest exercises and changes that fit real life."
+    },
+    {
+      "kind": "body",
+      "title": "It shapes your plan",
+      "body": "If sleep is patchy or work is flat out, we might start with shorter exercises, adjust expectations or build in more movement breaks. The plan is built around you, not a template."
+    },
+    {
+      "kind": "body",
+      "title": "Share what you're comfortable with",
+      "body": "You never have to share more than you want to. Even a rough picture helps, and if something falls outside what we do, we'll suggest checking in with your GP."
+    },
+    {
+      "kind": "cta",
+      "headline": "A plan built around your life",
+      "body": "Our team at Hybrid Physiotherapy looks at the whole picture, not just the sore spot. Book online, link in bio."
+    }
+  ],
+  "caption": "\"Why is my physio asking how I'm sleeping?\" Fair question.\n\nPain is shaped by more than tissues. Research suggests a run of poor sleep can make the nervous system more sensitive, and stress can turn up muscle tension and how loud pain feels. Your work sets the daily load your body handles too.\n\nKnowing a bit about your sleep, stress and routine helps us build a plan that fits real life, not an ideal week you'll never have. You only share what you're comfortable with.\n\nOur team at Hybrid Physiotherapy looks at the whole picture. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#painscience",
+    "#persistentpain",
+    "#sleep",
+    "#stress",
+    "#worklife",
+    "#backpain",
+    "#sydney",
+    "#sydneyphysio",
+    "#northshore"
+  ],
+  "story": {
+    "headline": "Why we ask about sleep",
+    "body": "Sleep, stress and work all shape how pain behaves. Knowing them helps us build a plan that fits your life."
+  },
+  "scheduled_date": "2026-12-10",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

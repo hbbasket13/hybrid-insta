@@ -1,0 +1,67 @@
+{
+  "id": "T-343",
+  "service": "remedial",
+  "topic": "Health conditions to mention before your massage",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Tell your massage therapist this first",
+      "sub": "The health details that change how your session is planned."
+    },
+    {
+      "kind": "body",
+      "title": "Heart, circulation and medications",
+      "body": "Heart conditions, blood pressure changes, a history of blood clots or medications that affect clotting all change how firm the pressure should be and which areas are worked."
+    },
+    {
+      "kind": "body",
+      "title": "Recent injuries or surgery",
+      "body": "Fresh sprains, strains, fractures, recent operations or new scars need care around the area. Your therapist may work around it, adjust the approach or suggest seeing a physio first."
+    },
+    {
+      "kind": "body",
+      "title": "Pregnancy",
+      "body": "Pregnancy changes positioning and technique, and some areas are worked more gently. Let your therapist know how many weeks along you are and any advice from your midwife, obstetrician or GP."
+    },
+    {
+      "kind": "body",
+      "title": "Skin and feeling unwell",
+      "body": "Rashes, cuts, cold sores, skin infections or feeling unwell with a fever are reasons to reschedule or leave an area alone. It looks after you and the next client too."
+    },
+    {
+      "kind": "body",
+      "title": "Other conditions worth mentioning",
+      "body": "Diabetes, osteoporosis, cancer treatment, varicose veins, numbness or anything your GP is monitoring. It's kept confidential and simply helps your therapist plan a safe, comfortable session."
+    },
+    {
+      "kind": "cta",
+      "headline": "Let us plan around you",
+      "body": "Our remedial massage therapists at Hybrid Physiotherapy read your health form, ask a few questions and tailor the session to suit. Book online, link in bio."
+    }
+  ],
+  "caption": "That health form before your massage isn't just paperwork. It shapes your whole session.\n\nHeart conditions, a history of blood clots, medications that affect clotting, recent injuries or surgery, pregnancy, diabetes and osteoporosis can all change the pressure, positioning and areas your therapist chooses.\n\nSkin infections, cold sores or feeling unwell with a fever are good reasons to move your appointment. It looks after you and the next person on the table.\n\nEverything you share is kept confidential. The more your therapist knows, the more comfortable and suitable the session can be.\n\nOur remedial massage therapists at Hybrid Physiotherapy are happy to talk it through. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#massagetherapist",
+    "#massagesafety",
+    "#healthhistory",
+    "#pregnancymassage",
+    "#selfcare",
+    "#recovery",
+    "#sydney",
+    "#sydneymassage",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Before your massage",
+    "body": "Mention heart issues, clots, recent injuries, pregnancy or feeling unwell. It helps us plan a safe session."
+  },
+  "scheduled_date": "2026-12-10",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

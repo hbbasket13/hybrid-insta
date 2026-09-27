@@ -1,0 +1,68 @@
+{
+  "id": "T-330",
+  "service": "clinic",
+  "topic": "Keeping a simple pain diary",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Can't remember what set it off?",
+      "sub": "A simple pain diary helps you and your practitioner spot patterns."
+    },
+    {
+      "kind": "body",
+      "title": "Keep it short",
+      "body": "One line a day is enough: a pain score out of 10, what you did, how you slept and anything that helped. A notes app on your phone works fine. You're after patterns, not a novel."
+    },
+    {
+      "kind": "body",
+      "title": "Track activity, not just pain",
+      "body": "Write down walks, gym sessions, long drives or big desk days. Pain often lags a day behind, so seeing Tuesday's gardening next to Wednesday's flare-up can be really useful."
+    },
+    {
+      "kind": "body",
+      "title": "Note the wins too",
+      "body": "Record what went well, like a longer walk, a pain-light morning or a full night's sleep. Progress can feel slow when you only notice bad days, and the wins help your team adjust the plan."
+    },
+    {
+      "kind": "body",
+      "title": "Look at weeks, not days",
+      "body": "One rough day doesn't mean you're going backwards. Look over a week or two. Is it easier in the morning? Worse after sitting? Linked to stress or poor sleep? That's the useful stuff."
+    },
+    {
+      "kind": "body",
+      "title": "Bring it to your appointment",
+      "body": "A quick scroll through your diary gives your physio, chiropractor or massage therapist much more to work with than 'it's been up and down'. It helps each session feel more focused."
+    },
+    {
+      "kind": "cta",
+      "headline": "Start your diary tonight",
+      "body": "Our team at Hybrid Physiotherapy can help you make sense of the patterns and adjust your plan around them. Book online, link in bio."
+    }
+  ],
+  "caption": "\"It's been up and down\" is the most common answer we hear. A pain diary gives us far more to go on.\n\nKeep it simple: one line a day with a pain score, what you did, how you slept and what helped. Pain often shows up a day after the activity that stirred it, so writing things down makes the links easier to spot.\n\nLook at the bigger picture over a week or two rather than judging a single bad day, and jot down the wins too. They're easy to forget.\n\nBring your notes to your next session with our team at Hybrid Physiotherapy. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#remedialmassage",
+    "#clinicalpilates",
+    "#paindiary",
+    "#persistentpain",
+    "#chronicpain",
+    "#selfmanagement",
+    "#healthhabits",
+    "#sydney",
+    "#sydneyphysio",
+    "#northshore"
+  ],
+  "story": {
+    "headline": "Try a one-line pain diary",
+    "body": "Each night note a pain score, what you did, how you slept and what helped. Patterns show up fast."
+  },
+  "scheduled_date": "2026-12-05",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
