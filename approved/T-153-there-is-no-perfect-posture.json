@@ -1,0 +1,69 @@
+{
+  "id": "T-153",
+  "service": "physio",
+  "topic": "There is no perfect posture",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "There's no such thing as perfect posture",
+      "sub": "Why your next position matters more than your current one."
+    },
+    {
+      "kind": "body",
+      "title": "Myth: bad posture causes pain",
+      "body": "Research suggests there's no strong link between how people sit or stand and whether they get back or neck pain. People with all kinds of posture live without pain, and the reverse is true too."
+    },
+    {
+      "kind": "body",
+      "title": "Fact: staying still is the issue",
+      "body": "Holding any position for hours, even a textbook one, tends to get uncomfortable. Your body likes variety, so changing position regularly usually helps more than holding one 'correct' shape."
+    },
+    {
+      "kind": "body",
+      "title": "Slouching isn't dangerous",
+      "body": "Slumping on the couch or leaning on your desk is not harming your spine. If it feels comfortable, it's fine. If it starts to ache, treat that as a friendly nudge to move."
+    },
+    {
+      "kind": "body",
+      "title": "Try the 30-minute nudge",
+      "body": "Set a gentle reminder every 30 minutes to shift position, stand, stretch or refill your water. Mix sitting, standing and moving through the day instead of chasing one ideal pose."
+    },
+    {
+      "kind": "body",
+      "title": "Strength beats straightness",
+      "body": "Building general strength and fitness helps your body tolerate long days at a desk. Regular walks, a couple of strength sessions a week and activities you enjoy go a long way."
+    },
+    {
+      "kind": "cta",
+      "headline": "Desk days leaving you sore?",
+      "body": "Our Chatswood and Sydney CBD physios can look at what's actually driving your pain and help you build a simple plan that fits your workday."
+    }
+  ],
+  "caption": "Sitting up straight all day won't protect your back. Here's why.\n\nResearch suggests there's no strong link between posture and back or neck pain. Plenty of people with 'bad' posture have no pain, and plenty with 'good' posture do. What does tend to bother us is staying in one position for too long, even a textbook one.\n\nSo slouching on the couch is fine. If it starts to ache, take that as a nudge to move. Set a 30-minute reminder to shift, stand or walk, and build general strength and fitness so your body handles long desk days more easily.\n\nOur Chatswood and Sydney CBD physios can look at what's actually driving your pain. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#posture",
+    "#posturemyths",
+    "#backpain",
+    "#neckpain",
+    "#deskjob",
+    "#officeworker",
+    "#painscience",
+    "#movemore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Perfect posture is a myth",
+    "body": "Your next position matters more than your current one. Move every 30 minutes and build general strength."
+  },
+  "scheduled_date": "2026-10-19",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

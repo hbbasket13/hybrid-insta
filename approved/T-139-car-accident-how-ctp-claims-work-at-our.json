@@ -1,0 +1,69 @@
+{
+  "id": "T-139",
+  "service": "clinic",
+  "topic": "Car accident? How CTP claims work at our clinic",
+  "location_tag": "Milton",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Car accident? Here's how CTP works",
+      "sub": "What to bring, who to contact and what happens at your first visit."
+    },
+    {
+      "kind": "body",
+      "title": "Step 1: get checked medically",
+      "body": "After any crash, see your GP, or go to the emergency department if you're worried. Severe neck pain, numbness, weakness, confusion or a bad headache need prompt medical attention before anything else."
+    },
+    {
+      "kind": "body",
+      "title": "Step 2: lodge your CTP claim",
+      "body": "CTP claims go through a compulsory third party insurer, and each state has its own process and time limits. Your GP, the insurer or your state's CTP regulator can explain the steps for you."
+    },
+    {
+      "kind": "body",
+      "title": "Step 3: bring your claim number",
+      "body": "When you book, let us know it's a CTP claim. Bring your claim number, insurer details and any GP referral or certificate. It saves time and keeps the paperwork moving."
+    },
+    {
+      "kind": "body",
+      "title": "What we handle for you",
+      "body": "Once your claim is accepted, we liaise with your insurer or case manager, send the reports they request and keep your treatment documented. The insurer decides what is approved, not us."
+    },
+    {
+      "kind": "body",
+      "title": "What recovery usually looks like",
+      "body": "Most people recover well from common crash injuries like whiplash. Treatment usually focuses on staying gently active, restoring movement and gradually building back to work, driving and exercise."
+    },
+    {
+      "kind": "cta",
+      "headline": "Questions about your CTP claim?",
+      "body": "Call or book online and mention it's a CTP claim. Our team can talk you through what to bring and what happens at your first visit."
+    }
+  ],
+  "caption": "Been in a car accident and not sure how CTP works? Here's the short version.\n\nFirst, get checked by your GP, or go to the emergency department if you have severe neck pain, numbness, weakness, confusion or a bad headache. Then lodge your claim with the CTP insurer. Each state has its own process and time limits, so your GP, the insurer or your state's CTP regulator can guide you.\n\nWhen you book with us, mention it's a CTP claim and bring your claim number, insurer details and any GP paperwork. Once the claim is accepted, we liaise with your insurer or case manager and send the reports they need. Approval decisions sit with the insurer.\n\nMost people recover well from common crash injuries with gentle activity and a gradual plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#ctp",
+    "#ctpclaim",
+    "#caraccident",
+    "#whiplash",
+    "#motorvehicleaccident",
+    "#injuryrecovery",
+    "#neckpain",
+    "#physiotherapy",
+    "#chiropractic",
+    "#alliedhealth",
+    "#brisbane",
+    "#brisbanephysio",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Car accident? CTP in three steps",
+    "body": "See your GP, lodge your claim, then bring your claim number to your first visit. We liaise with your insurer from there."
+  },
+  "scheduled_date": "2026-10-13",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

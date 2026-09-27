@@ -1,0 +1,70 @@
+{
+  "id": "T-155",
+  "service": "clinic",
+  "topic": "Which service is right for my problem? A simple guide",
+  "location_tag": "Milton",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Physio, chiro, Pilates or massage?",
+      "sub": "A simple guide to where to start, and why it's not a big decision."
+    },
+    {
+      "kind": "body",
+      "title": "Physio: injuries and rehab",
+      "body": "Physiotherapists assess and treat injuries, pain and movement problems, from sprains and sore backs to rehab after surgery. Expect a thorough assessment, hands-on care where useful and a clear exercise plan."
+    },
+    {
+      "kind": "body",
+      "title": "Chiro: spine, neck and joints",
+      "body": "Chiropractors assess and treat back, neck and joint problems. Care may include adjustments, soft tissue work and exercise, with adjustments used as one tool among several rather than the whole plan."
+    },
+    {
+      "kind": "body",
+      "title": "Clinical Pilates: build strength",
+      "body": "Clinical Pilates is supervised exercise on reformers and mats, tailored after an assessment. It suits people returning from injury or surgery, managing ongoing pain or wanting to build strength and control."
+    },
+    {
+      "kind": "body",
+      "title": "Remedial massage: ease tension",
+      "body": "Remedial massage therapists work on tight, tender muscles and stiffness. It can help you feel looser and move more comfortably, and works well alongside exercise rather than replacing it."
+    },
+    {
+      "kind": "body",
+      "title": "Still unsure? That's fine",
+      "body": "Many problems can be helped by more than one approach. Our practitioners work under one roof and refer to each other, so if a different service suits you better, we'll point you there."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure where to start?",
+      "body": "Call or message us with a quick description of what's going on, and our team will suggest a sensible place to start."
+    }
+  ],
+  "caption": "Physio, chiro, clinical Pilates or remedial massage? Here's a quick way to choose.\n\nPhysiotherapy suits injuries, pain and rehab, with a thorough assessment and an exercise plan. Chiropractic care focuses on back, neck and joint problems, using adjustments as one tool alongside soft tissue work and exercise. Clinical Pilates is supervised, tailored exercise for building strength and control. Remedial massage eases tight, tender muscles and works well alongside exercise.\n\nHonestly, it's not a big decision. Many problems respond to more than one approach, and because our physiotherapists, chiropractors, Pilates team and remedial massage therapists work under one roof, we refer between each other when something else suits you better.\n\nBook online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#pilates",
+    "#massagetherapy",
+    "#alliedhealth",
+    "#backpain",
+    "#neckpain",
+    "#sportsinjury",
+    "#injuryrehab",
+    "#brisbane",
+    "#brisbanephysio",
+    "#brisbanechiro",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Which service is right for you?",
+    "body": "Physio for injuries and rehab, chiro for spine and joints, Pilates for strength, massage for tension. We refer between them."
+  },
+  "scheduled_date": "2026-10-19",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

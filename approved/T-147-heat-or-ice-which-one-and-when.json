@@ -1,0 +1,69 @@
+{
+  "id": "T-147",
+  "service": "physio",
+  "topic": "Heat or ice: which one and when",
+  "location_tag": "Milton",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Heat or ice? A simple way to choose",
+      "sub": "Neither is magic, but each has a place. Here's when to use which."
+    },
+    {
+      "kind": "body",
+      "title": "Ice: fresh knocks and sprains",
+      "body": "For a new sprain or bump in the first couple of days, a cold pack can take the edge off pain. Wrap it in a cloth and keep it to about 10 to 15 minutes at a time."
+    },
+    {
+      "kind": "body",
+      "title": "Heat: stiff and achy muscles",
+      "body": "For stiffness, ongoing back or neck ache, or tight muscles, warmth often feels more soothing. A heat pack or warm shower before moving can make it easier to get going."
+    },
+    {
+      "kind": "body",
+      "title": "Honestly, pick what feels good",
+      "body": "Current guidelines suggest neither heat nor ice speeds healing much on its own. They're comfort tools. If one helps you move more easily, that's a good enough reason to use it."
+    },
+    {
+      "kind": "body",
+      "title": "Movement does the heavy lifting",
+      "body": "Whatever you choose, pair it with gentle movement within comfort. Walking, easy range of motion exercises and a gradual return to normal activity usually matter more than the pack itself."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Get checked if you can't take weight on the injured limb, there's major swelling or an odd shape, numbness or colour change, or pain after a heavy fall. Avoid heat or ice on numb skin."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure what you've done?",
+      "body": "Our Milton and Sunnybank physios can assess it, explain what's going on and give you a clear plan for the next few weeks."
+    }
+  ],
+  "caption": "Heat or ice? The honest answer: it matters less than you think.\n\nAs a rough guide, ice suits fresh knocks and sprains in the first couple of days. Wrap it and keep it to 10 to 15 minutes. Heat tends to suit stiffness, ongoing aches and tight muscles, especially before you get moving.\n\nCurrent guidelines suggest neither one speeds healing much on its own. They're comfort tools, so use whichever helps you move more easily, and pair it with gentle movement and a gradual return to normal activity.\n\nGet checked if you can't take weight on the limb, there's major swelling or an odd shape, or numbness or colour change. Skip heat or ice on numb skin.\n\nOur Milton and Sunnybank physios can help you work out a plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#miltonphysio",
+    "#sunnybankphysio",
+    "#brisbanephysio",
+    "#milton",
+    "#brisbane",
+    "#heatorice",
+    "#icepack",
+    "#sprainedankle",
+    "#backpain",
+    "#sportsinjury",
+    "#injuryrecovery",
+    "#physiotips",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Heat or ice?",
+    "body": "Ice for fresh knocks, heat for stiffness. Both are comfort tools, so pick what helps you move and keep moving."
+  },
+  "scheduled_date": "2026-10-16",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

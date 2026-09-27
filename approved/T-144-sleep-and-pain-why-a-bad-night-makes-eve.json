@@ -1,0 +1,69 @@
+{
+  "id": "T-144",
+  "service": "physio",
+  "topic": "Sleep and pain: why a bad night makes everything hurt more",
+  "location_tag": "Sunnybank",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Slept badly? That's why everything hurts",
+      "sub": "Sleep and pain feed each other. Here's how to break the loop."
+    },
+    {
+      "kind": "body",
+      "title": "Sleep changes how pain feels",
+      "body": "Research suggests even one poor night can make the nervous system more sensitive, so the same sore back or knee feels louder the next day. It's not in your head, and it's not new damage."
+    },
+    {
+      "kind": "body",
+      "title": "Pain and sleep feed each other",
+      "body": "Pain makes it harder to sleep, and poor sleep turns pain up. The good news is that improving either side of that loop, even a little, often helps the other side too."
+    },
+    {
+      "kind": "body",
+      "title": "Protect a steady routine",
+      "body": "Aim for a similar bedtime and wake time most days, get daylight early, and keep caffeine to the morning. A wind-down routine without screens for the last half hour can help too."
+    },
+    {
+      "kind": "body",
+      "title": "Get comfortable, not perfect",
+      "body": "There's no single right sleeping position. Use pillows to support sore spots, like one between the knees for side sleepers or under the knees on your back. Choose whatever lets you settle."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "See your GP if pain wakes you every night and doesn't ease with changing position, comes with fever, sweats or weight loss, or if snoring, gasping or ongoing insomnia are wearing you down."
+    },
+    {
+      "kind": "cta",
+      "headline": "Pain keeping you up at night?",
+      "body": "Our Sunnybank and Milton physios can assess what's driving your pain, help you move with more confidence and build a plan that works alongside better sleep."
+    }
+  ],
+  "caption": "Ever noticed your back hurts more after a rough night? You're not imagining it.\n\nResearch suggests poor sleep can make the nervous system more sensitive, so the same niggle feels louder the next day. Pain then makes sleep harder, and round it goes. The good news: nudging either side of the loop often helps the other.\n\nTry a steady bedtime and wake time, morning daylight, caffeine before lunch and a screen-free wind-down. Use pillows to get comfortable rather than chasing a perfect position.\n\nSee your GP if pain wakes you every night and doesn't change with position, comes with fever or weight loss, or if snoring or ongoing insomnia are wearing you down.\n\nOur Sunnybank and Milton physios can help with the pain side of the loop. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sunnybankphysio",
+    "#miltonphysio",
+    "#brisbanephysio",
+    "#sunnybank",
+    "#brisbane",
+    "#sleep",
+    "#sleepandpain",
+    "#sleephygiene",
+    "#chronicpain",
+    "#persistentpain",
+    "#painscience",
+    "#backpain",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Bad sleep, louder pain",
+    "body": "Poor sleep can turn pain up. A steady routine, morning light and comfy pillow support can help break the loop."
+  },
+  "scheduled_date": "2026-10-15",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

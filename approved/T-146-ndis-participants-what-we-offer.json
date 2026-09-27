@@ -1,0 +1,69 @@
+{
+  "id": "T-146",
+  "service": "clinic",
+  "topic": "NDIS participants: what we offer",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "NDIS participants: how we can help",
+      "sub": "What we offer and how the booking side works."
+    },
+    {
+      "kind": "body",
+      "title": "What we can help with",
+      "body": "Our physiotherapists can help with mobility, strength, balance, pain and day-to-day function, working towards the goals in your plan. Home exercises are tailored so you can keep progressing between visits."
+    },
+    {
+      "kind": "body",
+      "title": "Tell us how your plan is managed",
+      "body": "Self-managed, plan-managed and NDIA-managed plans work a little differently. Let us know which one you have when you book, so we can check how billing will work for you."
+    },
+    {
+      "kind": "body",
+      "title": "What to bring to your first visit",
+      "body": "Bring your NDIS number, plan manager or support coordinator details, and any reports or goals from your plan. If a carer or support worker usually comes along, they're very welcome."
+    },
+    {
+      "kind": "body",
+      "title": "Working with your support team",
+      "body": "With your consent, we liaise with your support coordinator, plan manager and other providers, and write reports describing your progress and needs. Funding decisions rest with the NDIA, not us."
+    },
+    {
+      "kind": "body",
+      "title": "Sessions built around your goals",
+      "body": "Sessions focus on things that matter to you, like getting in and out of the car, walking further or managing stairs. Progress is measured against your goals, not a generic checklist."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want to talk it through first?",
+      "body": "Call or email us before booking. Our team can explain how sessions work, what to bring and how billing fits with your plan."
+    }
+  ],
+  "caption": "On the NDIS and wondering how physio fits into your plan?\n\nOur physiotherapists work on mobility, strength, balance, pain and everyday tasks, always tied back to the goals in your plan. Think getting in and out of the car, walking further or managing stairs at home.\n\nWhen you book, tell us how your plan is managed (self, plan or NDIA-managed) and bring your NDIS number, plan manager or support coordinator details and any relevant reports. Carers and support workers are welcome at sessions.\n\nWith your consent, we liaise with your support team and write progress reports. Funding decisions rest with the NDIA.\n\nWant to chat first? Call or email us, or book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#ndis",
+    "#ndisparticipant",
+    "#ndisphysio",
+    "#ndissupport",
+    "#disabilitysupport",
+    "#physiotherapy",
+    "#alliedhealth",
+    "#mobility",
+    "#balance",
+    "#accessibility",
+    "#supportcoordinator",
+    "#sydney",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "On the NDIS?",
+    "body": "Tell us how your plan is managed, bring your NDIS number and goals, and we'll work with your support team."
+  },
+  "scheduled_date": "2026-10-15",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

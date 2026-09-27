@@ -1,0 +1,69 @@
+{
+  "id": "T-148",
+  "service": "pilates",
+  "topic": "Pilates for runners",
+  "location_tag": "Sunnybank",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Runner? Here's what Pilates adds",
+      "sub": "Strength and control for the bits running doesn't train much."
+    },
+    {
+      "kind": "body",
+      "title": "Running is repetitive loading",
+      "body": "Every run is thousands of similar steps. Most running niggles come from doing more than your body is ready for, so building strength and capacity alongside your running makes a lot of sense."
+    },
+    {
+      "kind": "body",
+      "title": "Single-leg strength and control",
+      "body": "Running is basically hopping from one leg to the other. Reformer and mat work for hips, glutes and calves helps you control each landing, especially as you tire late in a run."
+    },
+    {
+      "kind": "body",
+      "title": "Trunk control, not a rigid core",
+      "body": "You don't need a rock-hard core to run well. Pilates trains your trunk to stay steady while your arms and legs move, which is exactly what running asks of it. Breathing gets trained too."
+    },
+    {
+      "kind": "body",
+      "title": "Fitting it into your week",
+      "body": "One or two sessions a week is a good starting point. Slot them on easy days or rest days, and avoid a hard session the day before a long run or race."
+    },
+    {
+      "kind": "body",
+      "title": "Clinical Pilates, not a class",
+      "body": "Our Pilates team assesses how you move and your running history, then builds a program you can progress. Health fund cover for clinical Pilates varies, so check with your fund."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want to run with more strength?",
+      "body": "Book a clinical Pilates assessment at Hybrid Physiotherapy. Bring your running goals and we'll build a program around your training."
+    }
+  ],
+  "caption": "Running more but not training anything else? Pilates can fill some gaps.\n\nMost running niggles come from doing more than your body is ready for. Building strength and capacity alongside your running helps. Pilates targets single-leg control through the hips, glutes and calves, and trains your trunk to stay steady while your arms and legs move. No rock-hard core needed.\n\nOne or two sessions a week is a good starting point. Put them on easy or rest days, and keep hard sessions away from the day before a long run or race.\n\nOur Pilates team starts with an assessment of how you move and your running history. Health fund cover for clinical Pilates varies, so check with your fund. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#pilatesforrunners",
+    "#runners",
+    "#running",
+    "#runningtips",
+    "#runninginjury",
+    "#strengthforrunners",
+    "#trailrunning",
+    "#brisbane",
+    "#brisbanepilates",
+    "#brisbanerunners",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Pilates for runners",
+    "body": "Single-leg strength, trunk control and one or two sessions a week on easy days. A good complement to your running."
+  },
+  "scheduled_date": "2026-10-16",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "T-150",
+  "service": "physio",
+  "topic": "Your flare-up plan: what to do in the first 48 hours",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Your 48-hour flare-up plan",
+      "sub": "A simple timeline so you're not guessing when pain spikes."
+    },
+    {
+      "kind": "body",
+      "title": "First: flare-ups are common",
+      "body": "A flare-up is a spike in pain, and it's not usually a sign of new damage. Most settle within a few days, especially if you keep moving gently and try not to panic."
+    },
+    {
+      "kind": "body",
+      "title": "Hours 0 to 12: calm it down",
+      "body": "Ease off whatever set it off, but avoid lying in bed all day. Try comfortable positions, slow breathing, and heat or ice if it helps. Short walks around the house count."
+    },
+    {
+      "kind": "body",
+      "title": "Hours 12 to 24: little and often",
+      "body": "Do short bouts of gentle movement often, like a few minutes of walking every hour or easy range of motion exercises. Aim for movement that feels okay rather than pushing through sharp pain."
+    },
+    {
+      "kind": "body",
+      "title": "Hours 24 to 48: build back up",
+      "body": "Start reintroducing normal tasks at a reduced dose, like shorter desk blocks or half your usual walk. Most people notice things easing by now, even if it's not all the way there."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Get checked if pain is severe and not easing after a couple of days, spreads down a limb with numbness or weakness, or comes with fever, unexplained weight loss, or bladder or bowel changes."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a flare-up plan of your own?",
+      "body": "Our Sydney CBD and Chatswood physios can build a personal flare-up plan with you, so you know exactly what to do next time."
+    }
+  ],
+  "caption": "Flare-ups feel less scary when you already know what to do.\n\nA flare-up is a spike in pain, usually not new damage, and most settle within a few days. In the first 12 hours, ease off whatever set it off but avoid bed rest: comfortable positions, slow breathing, heat or ice if it helps. From 12 to 24 hours, move little and often. From 24 to 48 hours, bring normal tasks back at a reduced dose.\n\nGet checked if pain is severe and not easing, spreads down a limb with numbness or weakness, or comes with fever, weight loss, or bladder or bowel changes.\n\nOur Sydney CBD and Chatswood physios can write a flare-up plan tailored to you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#flareup",
+    "#backpain",
+    "#neckpain",
+    "#chronicpain",
+    "#persistentpain",
+    "#painmanagement",
+    "#painscience",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Flare-up? Follow the 48-hour plan",
+    "body": "Calm it down, move little and often, then build back up. Most flare-ups settle within a few days."
+  },
+  "scheduled_date": "2026-10-17",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
