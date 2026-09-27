@@ -1,0 +1,68 @@
+{
+  "id": "T-346",
+  "service": "chiro",
+  "topic": "What your chiropractor checks before an adjustment",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Before the adjustment: what we check",
+      "sub": "Why your first chiro visit starts with questions, not a quick click."
+    },
+    {
+      "kind": "body",
+      "title": "Your story comes first",
+      "body": "Expect questions about when the pain started, what eases it, what makes it worse, your work, your sport and your general health. It shapes everything that follows, so share the details."
+    },
+    {
+      "kind": "body",
+      "title": "Screening for red flags",
+      "body": "Your chiropractor will ask about things like unexplained weight loss, fever, numbness, bladder or bowel changes and recent trauma. Most people have none of these, but checking is part of safe care."
+    },
+    {
+      "kind": "body",
+      "title": "Movement and nerve checks",
+      "body": "You'll usually be asked to bend, turn and move. Reflex, strength and sensation checks help show whether nerves are involved and which areas are stiff or sensitive."
+    },
+    {
+      "kind": "body",
+      "title": "Is an adjustment right today?",
+      "body": "Adjustments aren't right for everyone or every visit. Depending on what's found, your chiropractor may use soft tissue work, mobilisation or exercise instead, or refer you to your GP or a physio."
+    },
+    {
+      "kind": "body",
+      "title": "You can always say no",
+      "body": "Your chiropractor should explain what they plan to do and why, then ask for your consent. If you'd prefer a gentler technique, or no adjustment at all, just say so."
+    },
+    {
+      "kind": "cta",
+      "headline": "Curious what an assessment involves?",
+      "body": "Our chiropractors assess before they treat and explain your options in plain English, with exercise as part of the plan. Book online via the link in bio."
+    }
+  ],
+  "caption": "Ever wondered why your chiropractor asks so many questions before doing anything?\n\nA good adjustment starts well before anyone touches your spine. Your history, a few screening questions and some simple movement and nerve checks help your chiropractor decide what's likely going on and what's appropriate for you.\n\nSometimes that means an adjustment. Sometimes it means soft tissue work, mobilisation, exercises, or a referral to your GP or one of our physios. And you're always welcome to ask questions or say no to any technique.\n\nAt Hybrid Physiotherapy, our chiropractors work alongside physios, Pilates instructors and remedial massage therapists under one roof. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#chiropracticcare",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#backpain",
+    "#neckpain",
+    "#lowbackpain",
+    "#firstvisit",
+    "#alliedhealth",
+    "#hybridphysiotherapy",
+    "#movementhealth"
+  ],
+  "story": {
+    "headline": "What happens before an adjustment?",
+    "body": "History, safety questions and movement checks come first. You can always ask questions or choose a gentler option."
+  },
+  "scheduled_date": "2026-12-11",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

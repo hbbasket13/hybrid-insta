@@ -1,0 +1,68 @@
+{
+  "id": "T-359",
+  "service": "chiro",
+  "topic": "Carrying luggage through airports: back-friendly travel",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Airport lugging leaving your back sore?",
+      "sub": "Easy ways to handle suitcases, carry-ons and overhead lockers this summer."
+    },
+    {
+      "kind": "body",
+      "title": "Four wheels beat two",
+      "body": "Spinner cases roll beside you, so you can push rather than drag a bag behind with a twisted arm. Swap hands every so often so one side isn't doing all the work."
+    },
+    {
+      "kind": "body",
+      "title": "Lift from the carousel calmly",
+      "body": "Wait until your bag comes close, step towards it, bend your knees and use the handle. Pull it towards you before lifting, rather than yanking it off at arm's length."
+    },
+    {
+      "kind": "body",
+      "title": "Overhead lockers in two steps",
+      "body": "Lift your carry-on to the seat back or armrest first, then up into the locker. Keep it close to your body and face the locker rather than twisting."
+    },
+    {
+      "kind": "body",
+      "title": "Pack lighter where you can",
+      "body": "Every kilo counts when you lift a bag five or six times per trip. Heavy items packed at the wheel end keep the case balanced and easier to tip and roll."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain after travel that spreads down a leg, comes with numbness or weakness, or isn't easing a few days after you get home is worth getting assessed."
+    },
+    {
+      "kind": "cta",
+      "headline": "Home with a stiff back?",
+      "body": "Our chiropractors assess how your back moves and combine hands-on care with simple exercises. Book online via the link in bio."
+    }
+  ],
+  "caption": "Holiday starts, back starts complaining somewhere between the check-in queue and the overhead locker. ✈️\n\nAirports ask your back to do a lot of lifting in awkward spots: bags off the carousel, cases into the car, carry-ons above your head, often after a long wait or a long flight.\n\nA few habits help: pick four wheels over two, step towards the carousel instead of reaching, lift your carry-on in two stages, and pack heavy things at the wheel end. Walking the terminal instead of sitting at the gate helps too.\n\nIf you land with a back that won't loosen up, our chiropractors at Hybrid Physiotherapy can take a look. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#travel",
+    "#traveltips",
+    "#holidaytravel",
+    "#backpain",
+    "#lowbackpain",
+    "#liftingtips",
+    "#summerholidays",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Flying this summer?",
+    "body": "Lift your carry-on to the armrest first, then into the locker. Your back will thank you."
+  },
+  "scheduled_date": "2026-12-17",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

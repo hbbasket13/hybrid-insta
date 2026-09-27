@@ -1,0 +1,68 @@
+{
+  "id": "T-360",
+  "service": "physio",
+  "topic": "The sit-to-stand test: a quick leg strength check",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Can you stand up 5 times, no hands?",
+      "sub": "A simple chair test that tells you a lot about your legs."
+    },
+    {
+      "kind": "body",
+      "title": "How to do the test",
+      "body": "Use a firm chair against a wall. Sit with your arms crossed over your chest. Stand up fully and sit back down five times as quickly as you safely can, and time it."
+    },
+    {
+      "kind": "body",
+      "title": "What your time can suggest",
+      "body": "A quicker time usually means stronger, more powerful legs. A slower time, or needing your hands, suggests your legs could use some training. It's a check-in, not a diagnosis."
+    },
+    {
+      "kind": "body",
+      "title": "Stay safe while you test",
+      "body": "Have someone nearby if your balance isn't great, and skip it if you feel dizzy or have a very sore knee or hip. Stop straight away if anything feels sharp."
+    },
+    {
+      "kind": "body",
+      "title": "Turn the test into training",
+      "body": "Sit-to-stands are also a great exercise. Try three sets of 8 to 10 on most days. Make it harder with a lower chair, a slower lowering or holding a weight."
+    },
+    {
+      "kind": "body",
+      "title": "Retest every month",
+      "body": "Write down your time and repeat the test every four weeks. Watching it improve is motivating, and a slower time is useful information to share with your physio."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want to build stronger legs?",
+      "body": "Our Sydney CBD and Chatswood physios can run a full strength check and set up a program that suits you. Book online via the link in bio."
+    }
+  ],
+  "caption": "Quick challenge: can you stand up from a chair five times without using your hands?\n\nThe five-times sit-to-stand is a simple way to check in on your leg strength. Firm chair against a wall, arms crossed, stand up fully and sit down five times as quickly as you safely can.\n\nA slow time or needing your hands isn't a verdict. It just means your legs would probably enjoy some training, and the test itself is a great exercise. Do a few sets most days, then retest every month to see your progress.\n\nOur Sydney CBD physios can run a fuller strength assessment and build a plan around you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sittostand",
+    "#legstrength",
+    "#strengthtraining",
+    "#healthyageing",
+    "#fallsprevention",
+    "#homeworkout",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Five sit-to-stands, no hands",
+    "body": "Firm chair, arms crossed, time it. Then retest in a month and see what changes."
+  },
+  "scheduled_date": "2026-12-17",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

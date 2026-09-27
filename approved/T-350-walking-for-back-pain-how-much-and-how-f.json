@@ -1,0 +1,68 @@
+{
+  "id": "T-350",
+  "service": "physio",
+  "topic": "Walking for back pain: how much and how fast",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Back pain? Let's talk walking",
+      "sub": "How far, how fast and how often, in plain terms."
+    },
+    {
+      "kind": "body",
+      "title": "Why walking often helps",
+      "body": "Walking gently moves your spine, gets blood flowing and can help calm sensitive tissues. Current guidelines encourage staying active with back pain, and walking is one of the easiest ways to do it."
+    },
+    {
+      "kind": "body",
+      "title": "Start where it feels OK",
+      "body": "Find a distance or time you can walk with only mild, manageable discomfort. For some people that's five minutes, for others it's thirty. That's your starting point, not a failure."
+    },
+    {
+      "kind": "body",
+      "title": "Short and often beats one long walk",
+      "body": "Two or three 10-minute walks spread through the day are often easier than one 30-minute effort. Add a few minutes every few days if your back is handling it well."
+    },
+    {
+      "kind": "body",
+      "title": "Pace: relaxed but purposeful",
+      "body": "A natural pace with your arms swinging often feels easier on a sore back than a slow, stiff shuffle. You should still be able to talk. Speed can build as you improve."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Numbness around the groin, bladder or bowel changes, leg weakness, fever or unexplained weight loss need prompt medical attention. Back pain that isn't easing after a few weeks is worth assessing."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a walking plan for your back?",
+      "body": "Our Sydney CBD and Chatswood physios can map out a walking and exercise plan that suits your back and your week. Book online via the link in bio."
+    }
+  ],
+  "caption": "Told to 'keep walking' with back pain, but nobody said how much?\n\nWalking is one of the simplest ways to stay active with a sore back. The trick is finding your starting point: a time or distance you can manage with only mild discomfort, even if that's five minutes.\n\nFrom there, short and frequent walks usually beat one long one. Add a few minutes every few days, keep a relaxed pace with your arms swinging, and in the summer heat aim for early mornings or evenings.\n\nOur Sydney CBD physios can build a walking and exercise plan around your back and your routine. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#backpain",
+    "#lowbackpain",
+    "#walking",
+    "#walkingforhealth",
+    "#stayactive",
+    "#backpainrelief",
+    "#sydneywalks",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Walking with a sore back?",
+    "body": "Find a time you can manage comfortably, then try two or three short walks a day. Build slowly."
+  },
+  "scheduled_date": "2026-12-14",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "T-354",
+  "service": "chiro",
+  "topic": "Is it normal to feel sore after an adjustment?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "A bit sore after your adjustment?",
+      "sub": "What's common, how long it lasts and when to get in touch."
+    },
+    {
+      "kind": "body",
+      "title": "Mild soreness is common",
+      "body": "Some people feel achy or stiff for a day or so after an adjustment, a bit like after a new workout. It usually settles on its own within 24 to 48 hours."
+    },
+    {
+      "kind": "body",
+      "title": "Why it happens",
+      "body": "Joints and muscles that haven't moved much for a while are being asked to do something different. Your nervous system may respond with some short-term sensitivity, especially after a first visit."
+    },
+    {
+      "kind": "body",
+      "title": "What helps in the meantime",
+      "body": "Keep moving gently, go for a walk and try heat if it feels good. Avoid long periods in one position, and do your home exercises at an easy level."
+    },
+    {
+      "kind": "body",
+      "title": "Tell your chiropractor",
+      "body": "Let your chiropractor know how you felt after the last visit. They can change the technique, use gentler options, or focus more on exercise and soft tissue work next time."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Soreness that keeps building after 48 hours, new numbness or weakness, a severe headache, dizziness or vision changes need prompt attention. Contact your chiropractor or GP, or call 000 in an emergency."
+    },
+    {
+      "kind": "cta",
+      "headline": "Questions about your last visit?",
+      "body": "Our chiropractors explain what to expect around each session, and adjust care to how you respond. Book online via the link in bio."
+    }
+  ],
+  "caption": "Felt a bit stiff the day after your chiro visit? You're not the only one.\n\nMild soreness after an adjustment is fairly common, especially after a first visit. It often feels like the ache after a new workout and usually settles within a day or two.\n\nGentle movement, a walk and a bit of heat tend to help more than resting on the couch. And let your chiropractor know how you felt, because it helps them tailor the next session. Anything that keeps building, or new numbness, weakness, dizziness or a severe headache, needs prompt attention.\n\nAt Hybrid Physiotherapy our chiropractors walk you through what to expect. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#chiropracticcare",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#chiroadjustment",
+    "#backpain",
+    "#neckpain",
+    "#aftercare",
+    "#spinecare",
+    "#alliedhealth",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Sore after an adjustment?",
+    "body": "Mild stiffness for a day or two is common. Keep moving gently and tell your chiropractor next visit."
+  },
+  "scheduled_date": "2026-12-15",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

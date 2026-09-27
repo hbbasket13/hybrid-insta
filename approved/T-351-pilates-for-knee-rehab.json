@@ -1,0 +1,68 @@
+{
+  "id": "T-351",
+  "service": "pilates",
+  "topic": "Pilates for knee rehab",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Knee rehab: where Pilates fits in",
+      "sub": "Building strength around a sore or recovering knee, one spring at a time."
+    },
+    {
+      "kind": "body",
+      "title": "It builds on your rehab plan",
+      "body": "Pilates for a knee is most useful as part of a bigger rehab plan. If you've had surgery, your surgeon's protocol and your physio set the rules, and your Pilates sessions follow them."
+    },
+    {
+      "kind": "body",
+      "title": "Load without the impact",
+      "body": "Footwork on the reformer lets you press through your legs while lying down, with springs setting the load. It's a handy way to build quad and calf strength before more impact."
+    },
+    {
+      "kind": "body",
+      "title": "Hips and ankles matter too",
+      "body": "Knees often work harder when the hips and ankles aren't pulling their weight. Bridges, side-lying leg work and calf raises train the whole leg, not just the knee."
+    },
+    {
+      "kind": "body",
+      "title": "Control on one leg",
+      "body": "Single-leg work, like single-leg presses or slow step-downs, helps the knee cope with real life: stairs, getting out of the car and changing direction. Slow and steady beats fast and wobbly."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A knee that swells quickly, locks, gives way, or becomes hot and red is worth reviewing with your physio or GP before you continue your program."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want your knee working with you again?",
+      "body": "Our Pilates team assesses your knee, works within any surgeon or physio guidelines and progresses you gradually. Book online via the link in bio."
+    }
+  ],
+  "caption": "Knee feeling better, but not quite trustworthy on the stairs yet?\n\nThat in-between stage is where clinical Pilates can be useful. Reformer footwork lets you build leg strength with springs setting the load, and the program can work the hips and ankles too, since they share the job with your knee.\n\nSingle-leg control comes next, so the knee is ready for stairs, uneven ground and getting in and out of the car. If you've had surgery, your surgeon's protocol and your physio's plan always come first.\n\nOur Pilates team at Hybrid Physiotherapy works alongside our physios. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#kneerehab",
+    "#kneepain",
+    "#kneestrength",
+    "#pilatesforrehab",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#rehab",
+    "#strongknees",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Knee rehab next step?",
+    "body": "Reformer footwork builds leg strength with springs setting the load. Always within your physio or surgeon's plan."
+  },
+  "scheduled_date": "2026-12-14",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

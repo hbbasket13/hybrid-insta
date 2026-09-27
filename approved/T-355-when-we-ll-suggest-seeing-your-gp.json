@@ -1,0 +1,68 @@
+{
+  "id": "T-355",
+  "service": "clinic",
+  "topic": "When we'll suggest seeing your GP",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "When we'll send you to your GP",
+      "sub": "Good care includes knowing when something needs a doctor as well."
+    },
+    {
+      "kind": "body",
+      "title": "We work alongside your GP",
+      "body": "Physios, chiropractors and remedial massage therapists see lots of aches and pains that settle with movement and time. Some situations need a doctor as well, and we'll say so clearly."
+    },
+    {
+      "kind": "body",
+      "title": "Signs that need medical input",
+      "body": "Fever with back pain, unexplained weight loss, night pain that doesn't ease in any position, or feeling generally unwell alongside pain are reasons we'll ask you to see your GP."
+    },
+    {
+      "kind": "body",
+      "title": "Nerve changes worth acting on",
+      "body": "Numbness around the groin, bladder or bowel changes, or leg weakness that's getting worse need urgent medical care. We'll direct you to your GP or the emergency department straight away."
+    },
+    {
+      "kind": "body",
+      "title": "When progress stalls",
+      "body": "If you're doing the work and things aren't improving over several weeks, a GP review can look at other factors, consider tests if appropriate, and talk through other options with you."
+    },
+    {
+      "kind": "body",
+      "title": "It's not a brush-off",
+      "body": "Suggesting a GP visit doesn't mean we're stepping away. With your consent we can write to your GP, keep treating when it's appropriate and work together on your plan."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure who to see first?",
+      "body": "Our team will assess you, explain what we find and point you to your GP whenever that's the right next step. Book online via the link in bio."
+    }
+  ],
+  "caption": "Why would a physio or chiropractor tell you to go and see your GP?\n\nMost aches and pains we see settle well with the right movement, load and time. But part of a good assessment is recognising when something needs a doctor's input as well, like fever, unexplained weight loss, nerve changes or pain that doesn't ease in any position.\n\nSometimes it's simply that progress has stalled and a GP review can look at the bigger picture. It's never a brush-off. We can stay involved, share notes with your consent and work as a team.\n\nAt Hybrid Physiotherapy, our team is always happy to talk through next steps. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#remedialmassage",
+    "#alliedhealth",
+    "#gp",
+    "#teamcare",
+    "#healthcare",
+    "#sydneyphysio",
+    "#sydney",
+    "#northshore",
+    "#backpain",
+    "#safecare"
+  ],
+  "story": {
+    "headline": "When we'll suggest your GP",
+    "body": "Fever, weight loss, nerve changes or stalled progress. It's teamwork, not a brush-off."
+  },
+  "scheduled_date": "2026-12-15",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

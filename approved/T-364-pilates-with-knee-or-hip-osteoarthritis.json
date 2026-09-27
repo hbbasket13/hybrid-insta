@@ -1,0 +1,68 @@
+{
+  "id": "T-364",
+  "service": "pilates",
+  "topic": "Pilates with knee or hip osteoarthritis",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Pilates with an arthritic knee or hip?",
+      "sub": "Why moving the joint is usually part of the answer, not the problem."
+    },
+    {
+      "kind": "body",
+      "title": "Joints like to move",
+      "body": "Current guidelines recommend exercise as a first-line approach for knee and hip osteoarthritis. Regular movement can help ease stiffness and pain, and keep you doing the things you enjoy."
+    },
+    {
+      "kind": "body",
+      "title": "Why Pilates suits many people",
+      "body": "Reformer springs let you start with support and less body weight, then build up gradually. Many exercises are done lying or sitting, which can suit sore or stiff days."
+    },
+    {
+      "kind": "body",
+      "title": "Strength around the joint",
+      "body": "Strong quads, glutes and calves help share the load around an arthritic knee or hip. Footwork, bridges, side-lying leg work and supported squats are common starting points."
+    },
+    {
+      "kind": "body",
+      "title": "Some ache is OK",
+      "body": "Mild discomfort during exercise that settles within a day is usually fine. If pain is much worse the next morning, your instructor can reduce the load and progress more gradually."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A joint that becomes hot, red and very swollen, locks or gives way, or pain that keeps you awake at night is worth reviewing with your physio or GP."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keen to keep your joints moving?",
+      "body": "Our Pilates team assesses your joints and goals, then tailors sessions so you can build strength with confidence. Book online via the link in bio."
+    }
+  ],
+  "caption": "Told you have osteoarthritis in your knee or hip and now worried about exercising?\n\nCurrent guidelines put exercise at the front of the queue for knee and hip osteoarthritis. Moving and strengthening the muscles around the joint can help ease stiffness and keep you doing what you enjoy.\n\nClinical Pilates is a comfortable way in for many people. Springs can support you at first, lots of exercises start lying or sitting, and the load builds gradually. A mild ache that settles within a day is usually fine. Much worse the next morning means scale back, not stop.\n\nOur Pilates team at Hybrid Physiotherapy tailors every program. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#osteoarthritis",
+    "#kneeosteoarthritis",
+    "#hiposteoarthritis",
+    "#arthritis",
+    "#jointhealth",
+    "#healthyageing",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Arthritic knee or hip?",
+    "body": "Exercise is a first-line approach. A mild ache that settles within a day is usually fine."
+  },
+  "scheduled_date": "2026-12-18",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
