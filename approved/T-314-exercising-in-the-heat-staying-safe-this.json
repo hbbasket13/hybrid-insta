@@ -1,0 +1,69 @@
+{
+  "id": "T-314",
+  "service": "physio",
+  "topic": "Exercising in the heat: staying safe this summer",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Training in the heat? Adjust the plan",
+      "sub": "Simple ways to keep exercising safely through a hot Sydney summer."
+    },
+    {
+      "kind": "body",
+      "title": "Shift the clock",
+      "body": "Early morning or evening sessions are usually cooler. On very hot days, swap a hard outdoor session for an easier one, or move it somewhere air-conditioned."
+    },
+    {
+      "kind": "body",
+      "title": "Slow down on purpose",
+      "body": "Heart rate climbs faster in the heat, so the same pace feels harder. Run or ride by effort rather than pace, and expect your times to drop for a while."
+    },
+    {
+      "kind": "body",
+      "title": "Acclimatise over a couple of weeks",
+      "body": "Your body usually adapts to heat over roughly one to two weeks of regular, shorter sessions. Build duration gradually rather than starting with your longest effort."
+    },
+    {
+      "kind": "body",
+      "title": "Drink before you're parched",
+      "body": "Start sessions well hydrated and sip regularly on longer efforts. For long, very sweaty sessions, electrolytes can help. Light, loose clothing and a hat help too."
+    },
+    {
+      "kind": "body",
+      "title": "When to stop and get help",
+      "body": "Stop if you feel dizzy, nauseous or confused, stop sweating, or get a headache that keeps building. Cool down in the shade. Confusion or collapse is an emergency, so call 000."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep training through summer",
+      "body": "Our Sydney CBD and Chatswood physios can adjust your training plan around the heat and any niggles. Book online, link in bio."
+    }
+  ],
+  "caption": "Summer training in Sydney means planning around the heat. ☀️\n\nThe same pace feels harder when it's hot, because your heart rate climbs faster. Most people adapt over one to two weeks of regular, shorter sessions, so build up gradually rather than starting with your longest effort.\n\nA few simple changes help: train early or late, go by effort instead of pace, start well hydrated and sip regularly, and wear light, loose clothing and a hat. Stop if you feel dizzy, nauseous or get a headache that keeps building. Confusion or collapse is an emergency, so call 000.\n\nOur Sydney CBD and Chatswood physios can adjust your program around the heat and any niggles. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#summertraining",
+    "#exercise",
+    "#heatsafety",
+    "#running",
+    "#cycling",
+    "#hydration",
+    "#fitness",
+    "#sydneysummer",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Hot day? Train smarter",
+    "body": "Train early or late, go by effort not pace, and stop if you feel dizzy or unwell."
+  },
+  "scheduled_date": "2026-11-30",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

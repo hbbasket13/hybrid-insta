@@ -1,0 +1,68 @@
+{
+  "id": "T-322",
+  "service": "chiro",
+  "topic": "Lower back pain when standing still",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Standing still is harder than walking",
+      "sub": "Why queues and events make your lower back ache, and what helps."
+    },
+    {
+      "kind": "body",
+      "title": "Why standing still grumbles",
+      "body": "Standing in one spot keeps the same muscles and joints loaded without a break. Many people find walking feels fine, but queues, events or cooking tire the lower back quickly."
+    },
+    {
+      "kind": "body",
+      "title": "Shift your weight often",
+      "body": "Move from one foot to the other, rock gently forward and back, or take a few steps whenever you can. Small, regular movements share the load around your back and hips."
+    },
+    {
+      "kind": "body",
+      "title": "Use a step or ledge",
+      "body": "Resting one foot on a low step, rail or ledge changes the position of your pelvis and lower back. Swap feet every few minutes, whether you're at a bench or in the kitchen."
+    },
+    {
+      "kind": "body",
+      "title": "Build standing endurance",
+      "body": "Glute bridges, side planks and hip hinges strengthen the muscles that support you when standing. A few sessions a week can make long stretches on your feet more comfortable."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Leg pain, numbness or heaviness that comes on with standing or walking and eases with sitting, or back pain that keeps worsening, is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Back aching in every queue?",
+      "body": "Our chiropractors look at how your back and hips are moving and combine hands-on care with exercises. Book online, link in bio."
+    }
+  ],
+  "caption": "Fine on a long walk, but your lower back aches after ten minutes in a queue? There's a reason for that.\n\nStanding still keeps the same muscles and joints loaded without a break. With Christmas shopping, carols and end-of-year events coming up, that's a lot of standing around. 🎄\n\nKeep shifting your weight, rock gently or take a few steps when you can, and rest one foot on a low step or ledge, swapping every few minutes. Longer term, glute bridges, side planks and hip hinges build standing endurance. Leg pain or numbness that comes on with standing and eases with sitting is worth an assessment.\n\nOur chiropractors at Hybrid Physiotherapy can look at how your back and hips are moving. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#lowerbackpain",
+    "#backpain",
+    "#standing",
+    "#onyourfeet",
+    "#christmasshopping",
+    "#glutes",
+    "#spinehealth",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Back sore in the queue?",
+    "body": "Shift your weight, rest one foot on a low ledge and swap every few minutes."
+  },
+  "scheduled_date": "2026-12-02",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

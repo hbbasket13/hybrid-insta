@@ -1,0 +1,68 @@
+{
+  "id": "T-303",
+  "service": "remedial",
+  "topic": "Sports massage vs remedial massage: what's the difference?",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Sports massage vs remedial, explained",
+      "sub": "Two names, plenty of overlap. Here's how to pick what to book."
+    },
+    {
+      "kind": "body",
+      "title": "Remedial massage: assessment first",
+      "body": "Remedial massage starts with questions and a look at how you move. Your therapist then targets specific tight or sore areas, adjusting the approach to what they find on the day."
+    },
+    {
+      "kind": "body",
+      "title": "Sports massage: built around training",
+      "body": "Sports massage is usually shaped by your training cycle. It may be brisker before an event and slower during a recovery week, focusing on the muscles your sport loads most."
+    },
+    {
+      "kind": "body",
+      "title": "The overlap is big",
+      "body": "Many techniques are the same: soft tissue work, trigger point pressure and stretching. The real difference is the reason for the session, so tell your therapist what you want from it."
+    },
+    {
+      "kind": "body",
+      "title": "A quick way to choose",
+      "body": "Got a specific niggle, like a sore neck or tight hip? Remedial is a good starting point. Deep in a training block with heavy legs? A sports-focused session may suit better."
+    },
+    {
+      "kind": "body",
+      "title": "Keep expectations realistic",
+      "body": "Massage can help you feel looser and recover more comfortably. It works well alongside strength, sleep and sensible load, rather than replacing rehab when something keeps coming back."
+    },
+    {
+      "kind": "cta",
+      "headline": "Tell us what you're training for",
+      "body": "Our remedial massage therapists tailor each session to your goals and your sport. Mention it when you book online, link in bio."
+    }
+  ],
+  "caption": "Sports massage or remedial massage? The honest answer: there's plenty of overlap.\n\nRemedial massage starts with an assessment and targets specific areas that are tight or sore. Sports massage is usually shaped around your training, with brisker work before events and slower, more thorough work in recovery weeks. The techniques are often the same. The reason for the session is what changes.\n\nIf you have a specific niggle, remedial is a good starting point. If you're in a heavy training block, a sports-focused session may suit. Either way, massage works well alongside strength work, sleep and sensible training load.\n\nOur remedial massage therapists at Hybrid Physiotherapy tailor each session to you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#massagetherapy",
+    "#recovery",
+    "#sportsrecovery",
+    "#runners",
+    "#triathlon",
+    "#softtissue",
+    "#muscletension",
+    "#sydneymassage",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Sports or remedial massage?",
+    "body": "Specific niggle? Start with remedial. Heavy training block? Ask for a sports-focused session. Either way, tell your therapist your goal."
+  },
+  "scheduled_date": "2026-10-12",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

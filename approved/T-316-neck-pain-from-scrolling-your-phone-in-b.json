@@ -1,0 +1,68 @@
+{
+  "id": "T-316",
+  "service": "chiro",
+  "topic": "Neck pain from scrolling your phone in bed",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Scrolling in bed, stiff neck by morning?",
+      "sub": "Phone habits at night can load your neck. Small changes help."
+    },
+    {
+      "kind": "body",
+      "title": "It's the long hold, not the phone",
+      "body": "Lying propped on a pillow with your chin tucked towards a screen holds your neck in one position for ages. Necks tolerate most positions, just not hours of the same one."
+    },
+    {
+      "kind": "body",
+      "title": "Bring the phone up to you",
+      "body": "Lie on your side with the phone at eye level, or sit up with a pillow behind your back. Keeping your head closer to neutral eases the load on your neck."
+    },
+    {
+      "kind": "body",
+      "title": "Set a scroll limit",
+      "body": "A timer or app limit helps you notice how long you've been in one position. Changing position every ten minutes or so is usually enough to take the edge off."
+    },
+    {
+      "kind": "body",
+      "title": "Loosen up in the morning",
+      "body": "Gentle chin nods, slow head turns and shoulder rolls before you get out of bed can ease morning stiffness. Most neck stiffness settles within a few days with movement."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Neck pain with pins and needles or weakness in the arm, severe headaches, dizziness, or pain that keeps building instead of settling is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Neck not settling?",
+      "body": "Our chiropractors assess how your neck is moving, then combine hands-on care with simple exercises and habit changes. Book online, link in bio."
+    }
+  ],
+  "caption": "Late-night scrolling, stiff neck by morning? You're definitely not alone. 📱\n\nThe phone isn't the problem on its own. It's lying propped on a pillow with your chin tucked down for a long stretch. Necks cope with most positions, just not the same one for hours.\n\nTry lifting the phone to eye level, lying on your side or sitting up with a pillow behind you, and changing position every ten minutes or so. In the morning, a few gentle chin nods and slow head turns before getting up can help. Pins and needles or weakness in the arm, dizziness or pain that keeps building is worth getting assessed.\n\nOur chiropractors at Hybrid Physiotherapy can help if your neck isn't settling. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#neckpain",
+    "#stiffneck",
+    "#screentime",
+    "#technology",
+    "#sleep",
+    "#posture",
+    "#healthyhabits",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Scrolling in bed tonight?",
+    "body": "Lift the phone to eye level and change position every ten minutes. Your neck will thank you."
+  },
+  "scheduled_date": "2026-11-30",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

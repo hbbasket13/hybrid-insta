@@ -1,0 +1,69 @@
+{
+  "id": "T-310",
+  "service": "chiro",
+  "topic": "Sleeping in a different bed on holiday",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Holiday bed, not-so-holiday back",
+      "sub": "Why a different mattress can leave you stiff, and what helps."
+    },
+    {
+      "kind": "body",
+      "title": "New surfaces take adjusting to",
+      "body": "A firmer or softer mattress and unfamiliar pillows change how your neck and back are supported. Stiffness for the first night or two is common and usually eases once you're moving."
+    },
+    {
+      "kind": "body",
+      "title": "Pack your own pillow",
+      "body": "If your neck is fussy, bring the pillow you already sleep well on. A rolled towel to adjust the height of a hotel pillow is a handy backup if luggage space is tight."
+    },
+    {
+      "kind": "body",
+      "title": "Tweak the setup you've got",
+      "body": "Bed too soft? A pillow under or between your knees can make lying more comfortable. Too firm? A folded blanket under your hips and shoulders can ease the pressure points."
+    },
+    {
+      "kind": "body",
+      "title": "Move before you judge the day",
+      "body": "Morning stiffness often loosens with gentle movement. A short walk, knee rocks and a few slow neck turns before breakfast usually help more than lying in longer."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain that keeps worsening, spreads down an arm or leg with numbness, or comes with fever or feeling unwell is worth checking with a health professional rather than waiting it out."
+    },
+    {
+      "kind": "cta",
+      "headline": "Still stiff once you're home?",
+      "body": "Our chiropractors assess how your back and neck are moving and combine hands-on care with simple exercises. Book online, link in bio."
+    }
+  ],
+  "caption": "Holiday bed, not-so-holiday back? A new mattress can take a night or two to get used to.\n\nSofter or firmer beds and unfamiliar pillows change how your neck and back are supported, so a bit of stiffness early in a trip is common. It usually eases once you're up and moving.\n\nA few easy tweaks: pack your own pillow if your neck is fussy, put a pillow under or between your knees on a soft bed, and start the day with a short walk and some gentle knee rocks instead of lying in. Pain that keeps worsening or spreads down an arm or leg is worth getting checked.\n\nOur chiropractors at Hybrid Physiotherapy can help if the stiffness follows you home. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#neckpain",
+    "#travel",
+    "#holidays",
+    "#summerholidays",
+    "#sleep",
+    "#pillow",
+    "#mattress",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Sleeping away this summer?",
+    "body": "Pack your own pillow, move gently each morning and give yourself a night or two to adjust."
+  },
+  "scheduled_date": "2026-11-27",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

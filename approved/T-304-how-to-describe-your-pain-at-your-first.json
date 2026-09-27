@@ -1,0 +1,68 @@
+{
+  "id": "T-304",
+  "service": "clinic",
+  "topic": "How to describe your pain at your first appointment",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Hard to explain your pain? Try this",
+      "sub": "Five details that help your practitioner understand what's going on."
+    },
+    {
+      "kind": "body",
+      "title": "Where it is, and where it spreads",
+      "body": "Point to the spot and trace where it travels, if it does. Pain that stays in one area and pain that runs down an arm or leg can point to different things."
+    },
+    {
+      "kind": "body",
+      "title": "What it feels like",
+      "body": "Words like dull, sharp, burning, aching, throbbing or tingling all give useful clues. There's no wrong answer, so use your own words, even if they sound a bit odd."
+    },
+    {
+      "kind": "body",
+      "title": "What makes it better or worse",
+      "body": "Notice what eases it and what stirs it up. Morning versus evening, sitting versus walking, and how it behaves after exercise all help shape your plan."
+    },
+    {
+      "kind": "body",
+      "title": "How it started and changed",
+      "body": "Was there a clear moment, like a lift or a fall, or did it creep in? Is it improving, steady or building? A quick timeline in your phone makes this easy."
+    },
+    {
+      "kind": "body",
+      "title": "What you want to get back to",
+      "body": "Tell us what matters most, whether that's sleeping through, lifting your kids or finishing a 10km run. Goals help your practitioner choose what to work on first."
+    },
+    {
+      "kind": "cta",
+      "headline": "Jot it down before you come",
+      "body": "Our team at Hybrid Physiotherapy will ask about all of this, so a few notes beforehand make the session smoother. Book online, link in bio."
+    }
+  ],
+  "caption": "Ever sat in an appointment and blanked on how to describe your pain?\n\nIt's really common. A few simple details make a big difference: where it is and whether it spreads, what it feels like, what makes it better or worse, how it started, and what you'd like to get back to doing.\n\nWords like dull, sharp, burning or tingling are all useful, and there are no wrong answers. A quick note in your phone the day before saves you trying to remember everything on the spot. 📝\n\nOur team at Hybrid Physiotherapy will walk you through these questions anyway, but a bit of prep means more time for the useful stuff. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#remedialmassage",
+    "#clinicalpilates",
+    "#painmanagement",
+    "#persistentpain",
+    "#backpain",
+    "#neckpain",
+    "#firstappointment",
+    "#healthtips",
+    "#sydney",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Describe your pain in five parts",
+    "body": "Where it is, what it feels like, what changes it, how it started, and what you want back."
+  },
+  "scheduled_date": "2026-10-15",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "T-305",
+  "service": "clinic",
+  "topic": "Questions worth asking your practitioner",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Five questions to ask your practitioner",
+      "sub": "Good questions make your plan clearer and easier to stick to."
+    },
+    {
+      "kind": "body",
+      "title": "What do you think is going on?",
+      "body": "Ask for a plain-English explanation of what's likely driving your symptoms. If a term sounds like jargon, ask what it means. Understanding the why makes the exercises make sense."
+    },
+    {
+      "kind": "body",
+      "title": "What should I do, and avoid?",
+      "body": "Ask which activities are fine to keep doing and which to ease back on for now. Most people can stay more active than they expect with a few sensible changes."
+    },
+    {
+      "kind": "body",
+      "title": "How will we measure progress?",
+      "body": "Ask what markers you'll track, like walking distance, sleep, strength or a specific movement. Clear markers make progress easier to see, even when pain goes up and down."
+    },
+    {
+      "kind": "body",
+      "title": "What's a realistic timeframe?",
+      "body": "Every body is different, but your practitioner can usually give a rough guide and explain what might speed things up or slow them down. Ask when you'll review the plan together."
+    },
+    {
+      "kind": "body",
+      "title": "What if it flares up?",
+      "body": "Flare-ups are common and usually settle. Ask what to do if symptoms spike, which exercises to scale back, and when it's worth getting in touch rather than waiting."
+    },
+    {
+      "kind": "cta",
+      "headline": "Bring your questions along",
+      "body": "Our team at Hybrid Physiotherapy welcomes questions at every visit. Write them in your phone before you arrive. Book online, link in bio."
+    }
+  ],
+  "caption": "The right questions can make your treatment plan far easier to follow.\n\nIt's easy to nod along in an appointment and think of your questions on the drive home. Try asking these five: What do you think is going on? What should I keep doing, and what should I ease back on? How will we measure progress? What's a realistic timeframe? What should I do if it flares up?\n\nThe answers help you understand the why behind your exercises, spot progress on bumpy days and feel more in control between visits.\n\nOur practitioners at Hybrid Physiotherapy are always happy to explain. Pop your questions in your phone and book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#remedialmassage",
+    "#clinicalpilates",
+    "#patienteducation",
+    "#healthtips",
+    "#rehab",
+    "#backpain",
+    "#neckpain",
+    "#sportsinjury",
+    "#sydney",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Questions to ask at your visit",
+    "body": "What's going on? What should I avoid? How do we track progress? What if it flares up?"
+  },
+  "scheduled_date": "2026-10-22",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

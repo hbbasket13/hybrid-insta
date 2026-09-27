@@ -1,0 +1,68 @@
+{
+  "id": "T-306",
+  "service": "clinic",
+  "topic": "Getting the most from your appointment time",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Make every minute of your visit count",
+      "sub": "Small habits that turn a session into real progress."
+    },
+    {
+      "kind": "body",
+      "title": "Arrive a few minutes early",
+      "body": "It gives you time to settle, fill in any forms and change if you need to. Rushing in flustered means the first part of the session goes on catching your breath."
+    },
+    {
+      "kind": "body",
+      "title": "Wear clothes you can move in",
+      "body": "Shorts or loose pants and a singlet or T-shirt make it easier to assess and treat the area. For Pilates sessions, comfortable activewear you can bend and stretch in works well."
+    },
+    {
+      "kind": "body",
+      "title": "Share what happened since last time",
+      "body": "Tell your practitioner how the exercises went, what felt harder or easier, and any flare-ups. This quick update helps them adjust the plan rather than repeat the last session."
+    },
+    {
+      "kind": "body",
+      "title": "Practise, don't just watch",
+      "body": "Ask to run through your exercises in the session so technique can be checked. Filming a quick video on your phone helps you remember the details at home."
+    },
+    {
+      "kind": "body",
+      "title": "Leave with a clear next step",
+      "body": "Before you go, check you know your two or three priorities for the week and when your next review is. A short note on your phone keeps it all in one place."
+    },
+    {
+      "kind": "cta",
+      "headline": "Make your next session count",
+      "body": "Our team at Hybrid Physiotherapy shapes each session around your goals and your feedback. Book online, link in bio."
+    }
+  ],
+  "caption": "Want more out of your appointment time? A few small habits go a long way.\n\nArrive a few minutes early so you're settled, and wear clothes that make it easy to move and to reach the area being treated. Then start with a quick update: how the exercises went, what felt easier or harder, and any flare-ups since last time.\n\nAsk to practise your exercises in the session rather than just watching, and film a short clip on your phone to jog your memory. Before you leave, make sure you know your top two or three priorities for the week.\n\nOur team at Hybrid Physiotherapy builds every session around your feedback. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#remedialmassage",
+    "#clinicalpilates",
+    "#healthtips",
+    "#rehab",
+    "#homeexercise",
+    "#patienteducation",
+    "#movemore",
+    "#sydney",
+    "#sydneyphysio",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Get more from your session",
+    "body": "Arrive early, wear clothes you can move in, share what changed, practise your exercises and leave with a next step."
+  },
+  "scheduled_date": "2026-11-10",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

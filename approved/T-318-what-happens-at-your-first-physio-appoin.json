@@ -1,0 +1,68 @@
+{
+  "id": "T-318",
+  "service": "clinic",
+  "topic": "What happens at your first physio appointment",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "First physio visit: what really happens",
+      "sub": "A step-by-step look, from the first question to your home plan."
+    },
+    {
+      "kind": "body",
+      "title": "Step 1: your story",
+      "body": "Your physio asks about your symptoms, how they started, your health history and what you'd like to get back to. This conversation often guides everything else in the session."
+    },
+    {
+      "kind": "body",
+      "title": "Step 2: movement and testing",
+      "body": "Next comes a look at how you move. Expect range of motion, strength and specific tests, all explained as you go. You can pause or ask questions at any point."
+    },
+    {
+      "kind": "body",
+      "title": "Step 3: what's likely going on",
+      "body": "Your physio gives a plain-English explanation of what's likely contributing to your symptoms, and whether anything needs a referral back to your GP or for imaging."
+    },
+    {
+      "kind": "body",
+      "title": "Step 4: treatment starts",
+      "body": "Most first sessions include some treatment, which may be hands-on work, exercise, advice on daily activities, or a mix. It's tailored to you and what you're comfortable with."
+    },
+    {
+      "kind": "body",
+      "title": "Step 5: your plan",
+      "body": "You'll leave with a few key exercises or strategies and a rough plan for the coming weeks. Ask about anything that isn't clear before you head out the door."
+    },
+    {
+      "kind": "cta",
+      "headline": "Start with a proper assessment",
+      "body": "Our team at Hybrid Physiotherapy takes the time to listen, assess and explain. Wear comfortable clothes and bring any scans. Book online, link in bio."
+    }
+  ],
+  "caption": "Booked your first physio appointment and not sure what happens once you walk in? Here's the usual flow.\n\nIt starts with your story: your symptoms, how they began, your health history and what you want to get back to. Then your physio looks at how you move, with range, strength and specific tests explained as you go.\n\nNext comes a plain-English explanation of what's likely going on, followed by some treatment, which might be hands-on work, exercise, advice or a mix. You'll leave with a few key exercises and a rough plan for the coming weeks.\n\nOur team at Hybrid Physiotherapy takes the time to listen and explain. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#physiotherapist",
+    "#firstappointment",
+    "#backpain",
+    "#neckpain",
+    "#sportsinjury",
+    "#rehab",
+    "#healthtips",
+    "#sydneyphysio",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "First physio visit soon?",
+    "body": "Expect questions, movement testing, a clear explanation, some treatment and a plan to take home."
+  },
+  "scheduled_date": "2026-12-01",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
