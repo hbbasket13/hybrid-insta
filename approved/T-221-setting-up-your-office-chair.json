@@ -1,0 +1,68 @@
+{
+  "id": "T-221",
+  "service": "chiro",
+  "topic": "Setting up your office chair",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Your office chair, set up in 5 minutes",
+      "sub": "Five quick adjustments. No new chair required."
+    },
+    {
+      "kind": "body",
+      "title": "Start with seat height",
+      "body": "Feet flat on the floor, knees roughly level with or just below your hips. If your desk is too high for that, raise the chair and add a footrest or a sturdy box."
+    },
+    {
+      "kind": "body",
+      "title": "Sit right back in the seat",
+      "body": "Scoot your hips to the back of the seat so the backrest can do some of the work. Leave a gap of two to three fingers between the seat edge and the back of your knees."
+    },
+    {
+      "kind": "body",
+      "title": "Find your lower back support",
+      "body": "Set the lumbar support so it sits in the small of your back. No lumbar adjustment? A rolled-up hand towel behind your lower back works surprisingly well and costs nothing."
+    },
+    {
+      "kind": "body",
+      "title": "Bring the armrests down",
+      "body": "Armrests set too high hitch your shoulders up towards your ears. Lower them, or take them off, so your elbows rest at about desk height with your shoulders relaxed."
+    },
+    {
+      "kind": "body",
+      "title": "Then get out of it",
+      "body": "Even a well set-up chair gets uncomfortable after a couple of hours. Stand for calls, walk to refill your water and change position often. Variety matters more than any setting."
+    },
+    {
+      "kind": "cta",
+      "headline": "Still sore after the tweaks?",
+      "body": "Our chiropractors look at how you sit, move and work, then combine hands-on care with simple exercises you can do at your desk. Book online — link in bio."
+    }
+  ],
+  "caption": "Five minutes with your office chair can make your workday feel a lot shorter.\n\nStart with the seat height so your feet are flat and your knees sit about level with your hips. Sit right back so the backrest supports you, set the lumbar support into the small of your back (a rolled towel works too), and drop the armrests so your shoulders can relax.\n\nThen remember the part most people skip: no chair is comfortable for eight hours straight. Standing for calls and short walking breaks usually do more than any adjustment lever.\n\nIf your back or neck is still grumbling, our chiropractors can assess how you sit and move and build a plan that includes exercise. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#officechair",
+    "#ergonomics",
+    "#deskjob",
+    "#backpain",
+    "#neckpain",
+    "#workfromhome",
+    "#officeworker",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Five-minute chair check",
+    "body": "Feet flat, hips right back, towel in the small of your back, armrests down. Then stand up every half hour."
+  },
+  "scheduled_date": "2026-11-04",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

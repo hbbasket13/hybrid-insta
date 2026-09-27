@@ -1,0 +1,68 @@
+{
+  "id": "T-226",
+  "service": "pilates",
+  "topic": "Pilates and bone health",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Bones love load. Where Pilates fits",
+      "sub": "How clinical Pilates can be part of a bone-friendly week."
+    },
+    {
+      "kind": "body",
+      "title": "Bones respond to load",
+      "body": "Bone is living tissue that adapts to the forces placed on it. Current guidelines suggest regular resistance and weight-bearing exercise, progressed gradually, supports bone health."
+    },
+    {
+      "kind": "body",
+      "title": "Where Pilates fits",
+      "body": "Reformer springs let you add resistance in small steps, which suits people new to strength work. Standing and single-leg exercises add weight-bearing and balance challenges."
+    },
+    {
+      "kind": "body",
+      "title": "Balance matters too",
+      "body": "Better balance and leg strength can lower the chance of a fall. Clinical Pilates often includes standing work, step-ups and controlled single-leg exercises for exactly this reason."
+    },
+    {
+      "kind": "body",
+      "title": "Pair it with other loading",
+      "body": "Pilates works well alongside walking, stair climbing and heavier strength training. Most people benefit from a mix across the week rather than relying on one type of exercise."
+    },
+    {
+      "kind": "body",
+      "title": "Tell us about your bones",
+      "body": "If you've been told you have low bone density or osteoporosis, let us know. Some movements, like loaded deep forward bending, may be modified. Talk to your GP about medical management."
+    },
+    {
+      "kind": "cta",
+      "headline": "Start with an assessment",
+      "body": "Our clinical Pilates team assesses your strength, balance and history, then builds a program around you. Health fund cover varies, so check with your fund. Book online — link in bio."
+    }
+  ],
+  "caption": "Your bones are more adaptable than most people think.\n\nBone responds to load. Current guidelines suggest regular resistance and weight-bearing exercise, built up gradually, supports bone health. Clinical Pilates can be one useful part of that picture: reformer springs let you add resistance in small steps, and standing and single-leg work challenges balance and leg strength.\n\nIt works well as part of a mix, alongside walking, stairs and other strength training. If you've been told you have low bone density, let us know so exercises can be chosen to suit you, and keep your GP in the loop.\n\nOur clinical Pilates team at Hybrid Physiotherapy can get you started. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#bonehealth",
+    "#osteoporosis",
+    "#strengthtraining",
+    "#balance",
+    "#healthyageing",
+    "#fallsprevention",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Bones respond to load",
+    "body": "Mix walking, stairs and strength work through the week. Reformer springs make resistance easy to build gradually."
+  },
+  "scheduled_date": "2026-11-06",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "T-229",
+  "service": "chiro",
+  "topic": "Is it your hip or your back?",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Is it your hip or your back?",
+      "sub": "They share muscles and nerves, so it's easy to mix them up."
+    },
+    {
+      "kind": "body",
+      "title": "Why they're easy to confuse",
+      "body": "The hip and lower back sit close together and share muscles and nerve supply. Pain from one can be felt around the other, so where it hurts doesn't always tell you where it's from."
+    },
+    {
+      "kind": "body",
+      "title": "Clues that lean towards the hip",
+      "body": "Pain in the groin or front of the hip, stiffness putting on socks, and discomfort turning the leg inwards often point towards the hip joint itself."
+    },
+    {
+      "kind": "body",
+      "title": "Clues that lean towards the back",
+      "body": "Pain that changes with bending or long sitting, spreads into the buttock, or comes with lower back stiffness often involves the back. Plenty of people have a bit of both."
+    },
+    {
+      "kind": "body",
+      "title": "How a chiro narrows it down",
+      "body": "Your chiropractor tests how the hip and back each move and respond to load. That guides a plan that may include hands-on care, adjustments and specific exercises."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Numbness, leg weakness, changes to bladder or bowel control, fever, or pain after a fall should be seen by a GP promptly rather than waiting it out."
+    },
+    {
+      "kind": "cta",
+      "headline": "Stop guessing where it's from",
+      "body": "Our chiropractors assess your hip and back together, and work alongside our physios when rehab is needed. Book online — link in bio."
+    }
+  ],
+  "caption": "Hip pain or back pain? Honestly, it can be hard to tell.\n\nThe hip and lower back share muscles and nerve supply, so pain from one is often felt in the other. Groin pain and trouble putting on socks tend to lean towards the hip. Pain that changes with bending or sitting and spreads into the buttock often involves the back. Many people have a bit of both.\n\nA proper assessment tests each area so the plan targets the right thing. Numbness, weakness or bladder and bowel changes need prompt medical attention.\n\nOur chiropractors combine hands-on care with exercise and work closely with our physios. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#hippain",
+    "#backpain",
+    "#lowerbackpain",
+    "#sciatica",
+    "#buttockpain",
+    "#mobility",
+    "#alliedhealth",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Hip or back?",
+    "body": "Groin pain and sock trouble lean hip. Pain with bending that spreads to the buttock leans back. Often both."
+  },
+  "scheduled_date": "2026-11-07",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

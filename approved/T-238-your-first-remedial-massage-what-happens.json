@@ -1,0 +1,68 @@
+{
+  "id": "T-238",
+  "service": "remedial",
+  "topic": "Your first remedial massage: what happens",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Booked your first remedial massage?",
+      "sub": "Here's how a session usually runs, from start to finish."
+    },
+    {
+      "kind": "body",
+      "title": "Before: a quick health check",
+      "body": "Expect a short form and some questions about your health, injuries and what you'd like help with. Mention pregnancy, recent surgery, medications or any skin conditions."
+    },
+    {
+      "kind": "body",
+      "title": "You're in control of draping",
+      "body": "You only undress to your comfort level. Your therapist leaves the room while you get on the table, and you stay covered with towels except for the area being worked on."
+    },
+    {
+      "kind": "body",
+      "title": "Pressure you can adjust",
+      "body": "Remedial massage can be firm, but it shouldn't make you hold your breath. Your therapist will check in, and you can ask for lighter or firmer pressure at any time."
+    },
+    {
+      "kind": "body",
+      "title": "Afterwards: what's normal",
+      "body": "You might feel loose, a little tired, or mildly sore for a day or two. Drink some water, keep moving gently, and tell your therapist how you pulled up next time."
+    },
+    {
+      "kind": "body",
+      "title": "Bring your health fund card",
+      "body": "If your extras cover includes remedial massage, you can claim on the spot with HICAPS and pay only the gap. It's worth checking your policy's limits beforehand."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready for your first session?",
+      "body": "Our remedial massage therapists tailor each session to what you need and explain what they're doing as they go. Book online — link in bio."
+    }
+  ],
+  "caption": "First remedial massage coming up? Here's what to expect, so nothing feels awkward.\n\nYou'll start with a short chat and a health form. Mention any injuries, pregnancy, recent surgery or skin conditions. You only undress to your comfort level and stay draped with towels throughout.\n\nPressure is always adjustable. Firm is fine, breath-holding isn't, so speak up anytime. Afterwards you might feel loose, a bit tired or mildly sore for a day or two, which is common. If your extras cover includes remedial massage, bring your card to claim with HICAPS.\n\nOur remedial massage therapists at Hybrid Physiotherapy are happy to answer questions. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#remedialmassagetherapist",
+    "#firstmassage",
+    "#massage",
+    "#hicaps",
+    "#healthfund",
+    "#selfcare",
+    "#sydneymassage",
+    "#sydney",
+    "#northshore",
+    "#musclerecovery",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "First remedial massage?",
+    "body": "Expect a quick health chat, towels throughout, and pressure you can change anytime. Bring your health fund card."
+  },
+  "scheduled_date": "2026-11-11",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

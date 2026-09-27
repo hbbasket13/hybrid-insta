@@ -1,0 +1,69 @@
+{
+  "id": "T-234",
+  "service": "physio",
+  "topic": "Knee pain when kneeling: tradies and gardeners",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Knees sore from kneeling all day?",
+      "sub": "For tradies, tilers, gardeners and anyone working low to the ground."
+    },
+    {
+      "kind": "body",
+      "title": "Why kneeling bothers knees",
+      "body": "Kneeling puts pressure through the front of the knee, where a small fluid-filled sac called a bursa and the patellar tendon sit. Hours of it can leave them irritated."
+    },
+    {
+      "kind": "body",
+      "title": "Pads are worth it",
+      "body": "Good-quality knee pads or a thick kneeling mat spread the pressure. Check the fit, because pads that slip leave the kneecap exposed. Replace them once the foam flattens."
+    },
+    {
+      "kind": "body",
+      "title": "Change position often",
+      "body": "Alternate between kneeling on one knee, squatting, sitting on a low stool and standing. Aim to switch every 10 to 15 minutes so no single spot takes all the load."
+    },
+    {
+      "kind": "body",
+      "title": "Strong thighs help",
+      "body": "Strengthening the quads and hips helps your knees handle getting up and down all day. Sit-to-stands, step-ups and wall sits a few times a week are a good starting point."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A hot, red or very swollen knee, fever, locking, giving way, or pain after a knock that doesn't settle is worth a prompt check with your GP or physio."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep your knees on the job",
+      "body": "Our Sydney CBD and Chatswood physios assess your knees and work demands, then build a practical plan. Hurt at work? Bring your claim number."
+    }
+  ],
+  "caption": "Tradies, tilers and keen gardeners: how are your knees holding up?\n\nKneeling for hours puts steady pressure on the front of the knee, and it's a common source of soreness. Good knee pads that stay put, a thick mat, and switching between kneeling, squatting and a low stool every 10 to 15 minutes all help spread the load.\n\nStronger quads and hips make getting up and down easier too. A hot, red or very swollen knee, locking or giving way should be checked promptly.\n\nOur Sydney CBD and Chatswood physios can help, including with NSW WorkCover claims. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#kneepain",
+    "#tradies",
+    "#tradielife",
+    "#gardening",
+    "#kneepads",
+    "#workcover",
+    "#workplacehealth",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Kneeling all day?",
+    "body": "Use pads that stay put and switch position every 10 to 15 minutes: kneel, squat, stool, stand."
+  },
+  "scheduled_date": "2026-11-10",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

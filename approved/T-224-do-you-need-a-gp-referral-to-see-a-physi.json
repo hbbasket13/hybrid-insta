@@ -1,0 +1,68 @@
+{
+  "id": "T-224",
+  "service": "clinic",
+  "topic": "Do you need a GP referral to see a physio?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Need a GP referral to see a physio?",
+      "sub": "Short answer: usually not. Here's when you do."
+    },
+    {
+      "kind": "body",
+      "title": "Private visits: no referral needed",
+      "body": "Physiotherapists are first-contact practitioners in Australia, so you can book directly. If your extras cover includes physio, you can claim on the spot with HICAPS."
+    },
+    {
+      "kind": "body",
+      "title": "Medicare plan: yes, via your GP",
+      "body": "Medicare's GP chronic condition management plan can give a rebate for up to 5 allied health visits per calendar year. Your GP needs to set it up, and there's usually a gap fee."
+    },
+    {
+      "kind": "body",
+      "title": "WorkCover and CTP claims",
+      "body": "For a NSW work injury or motor vehicle injury, you'll usually see your GP first for a certificate. Bring your claim number and we liaise with your insurer or case manager."
+    },
+    {
+      "kind": "body",
+      "title": "DVA clients",
+      "body": "If you have a DVA card, you'll usually need a referral from your GP or treating doctor before your first visit. Bring your card and the referral with you on the day."
+    },
+    {
+      "kind": "body",
+      "title": "Not sure which applies?",
+      "body": "Send us a message or give us a call before you book. It's much easier to sort out paperwork beforehand than to find out something is missing on the day."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready when you are",
+      "body": "Most people can book straight in. Ask us if you're claiming through Medicare, WorkCover, CTP or DVA. Book online — link in bio."
+    }
+  ],
+  "caption": "Do you need a GP referral to see a physio? For most people, no.\n\nPhysiotherapists are first-contact practitioners in Australia, so you can book a private appointment directly and claim with HICAPS if your extras cover includes physio.\n\nA referral does matter in a few situations. Medicare's GP chronic condition management plan (what used to be called an EPC or CDM plan) is set up by your GP and can give a rebate for up to 5 allied health visits per calendar year, usually with a gap fee. WorkCover, CTP and DVA claims usually need your GP involved too.\n\nNot sure which applies to you? Ask us before your visit, or book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#sydney",
+    "#northshore",
+    "#gpreferral",
+    "#medicare",
+    "#healthfund",
+    "#hicaps",
+    "#workcover",
+    "#dva",
+    "#alliedhealth",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "GP referral for physio?",
+    "body": "Not for private visits. Usually yes for Medicare plans, WorkCover, CTP and DVA. Ask us if unsure."
+  },
+  "scheduled_date": "2026-11-05",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

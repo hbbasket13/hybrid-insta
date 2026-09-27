@@ -1,0 +1,68 @@
+{
+  "id": "T-236",
+  "service": "pilates",
+  "topic": "Private vs small group clinical Pilates",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "One-on-one or small group Pilates?",
+      "sub": "Both have a place. Here's how to choose what suits you."
+    },
+    {
+      "kind": "body",
+      "title": "Everyone starts with an assessment",
+      "body": "Before either option, a clinical Pilates assessment looks at your history, goals and how you move. That shapes your program, whether you train one-on-one or in a small group."
+    },
+    {
+      "kind": "body",
+      "title": "When private sessions suit",
+      "body": "Private sessions often suit people with a recent injury, after surgery, in a flare-up, or brand new to the equipment. You get full attention and a program that adjusts each session."
+    },
+    {
+      "kind": "body",
+      "title": "When small groups suit",
+      "body": "Small groups often suit people who know their program and want to keep building. Sessions are still supervised and exercises individualised, but you share the room with a few others."
+    },
+    {
+      "kind": "body",
+      "title": "Many people do both",
+      "body": "A common path is a few private sessions to learn the basics, then moving into a small group, with a private check-in when something changes or a new goal comes up."
+    },
+    {
+      "kind": "body",
+      "title": "Check your health fund",
+      "body": "Cover for clinical Pilates depends on your fund and policy, and it may differ between private and group sessions. Check with your fund before you start."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure where to start?",
+      "body": "Book a clinical Pilates assessment and our Pilates team will suggest the format that suits your goals. Book online — link in bio."
+    }
+  ],
+  "caption": "Private or small group clinical Pilates? It's one of the most common questions we get.\n\nPrivate sessions often suit people with a recent injury, after surgery, in a flare-up or brand new to the reformer. You get full attention and your program changes as you do.\n\nSmall groups often suit people who know their program and want to keep progressing. It's still supervised and still individualised, just with a few others in the room. Plenty of people start private and move into groups.\n\nCover depends on your fund and policy, so check with your fund. Our clinical Pilates team can help you choose. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#privatepilates",
+    "#grouppilates",
+    "#pilatesinstructor",
+    "#rehab",
+    "#strengthtraining",
+    "#healthfund",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "Private or small group?",
+    "body": "Private suits new injuries and beginners. Small groups suit people building on a program they know."
+  },
+  "scheduled_date": "2026-11-10",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

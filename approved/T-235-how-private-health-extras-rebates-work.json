@@ -1,0 +1,68 @@
+{
+  "id": "T-235",
+  "service": "clinic",
+  "topic": "How private health extras rebates work",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Extras cover, explained without the jargon",
+      "sub": "How health fund rebates for physio, chiro, Pilates and massage work."
+    },
+    {
+      "kind": "body",
+      "title": "What extras cover is",
+      "body": "Extras, or ancillary, cover is the part of private health insurance that helps with services outside hospital, like physio, chiro and remedial massage. What's included depends on your policy."
+    },
+    {
+      "kind": "body",
+      "title": "You pay, the fund rebates",
+      "body": "Your fund pays a set amount towards each eligible visit, and you pay the difference, known as the gap. Rebate amounts vary between funds and between policies."
+    },
+    {
+      "kind": "body",
+      "title": "Annual limits apply",
+      "body": "Most policies cap how much you can claim for each service per year. Some limits are shared across several services, so physio and massage might draw from one pool."
+    },
+    {
+      "kind": "body",
+      "title": "Claim on the spot with HICAPS",
+      "body": "If your extras cover includes the service, bring your health fund card and we can process the claim with HICAPS at the end of your visit. You just pay the gap."
+    },
+    {
+      "kind": "body",
+      "title": "Questions to ask your fund",
+      "body": "Which services are covered? What's the rebate per visit? What's my annual limit, and is it shared? Are there waiting periods? Is clinical Pilates covered on my policy?"
+    },
+    {
+      "kind": "cta",
+      "headline": "Know your cover, then book",
+      "body": "Bring your health fund card and we'll claim with HICAPS on the day. Book online — link in bio."
+    }
+  ],
+  "caption": "Paying for extras cover but not sure what it actually covers? You're not alone.\n\nExtras cover helps pay for services like physio, chiro and remedial massage. Your fund pays a set rebate per visit and you pay the gap. Most policies have annual limits, and some share one limit across several services.\n\nIf your cover includes the service, we can claim on the spot with HICAPS, so you only pay the gap on the day. Clinical Pilates cover depends on your fund and policy, so check with your fund.\n\nA quick call to your fund before your first visit saves surprises. When you're ready, book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#healthfund",
+    "#privatehealthinsurance",
+    "#extrascover",
+    "#hicaps",
+    "#physiotherapy",
+    "#chiropractic",
+    "#remedialmassage",
+    "#clinicalpilates",
+    "#sydneyphysio",
+    "#sydney",
+    "#northshore",
+    "#alliedhealth",
+    "#hybridphysiotherapy"
+  ],
+  "story": {
+    "headline": "What does your extras cover?",
+    "body": "Ask your fund: which services, rebate per visit, annual limit, and waiting periods. Then bring your card."
+  },
+  "scheduled_date": "2026-11-10",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

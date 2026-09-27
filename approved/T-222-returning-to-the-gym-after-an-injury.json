@@ -1,0 +1,69 @@
+{
+  "id": "T-222",
+  "service": "physio",
+  "topic": "Returning to the gym after an injury",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Your comeback plan for the gym",
+      "sub": "Start lighter, build steadily and let the next day guide you."
+    },
+    {
+      "kind": "body",
+      "title": "Start at about half",
+      "body": "A common starting point is roughly half your usual weights and volume for the first week or two. It should feel easy. You're testing how the injured area responds, not proving anything."
+    },
+    {
+      "kind": "body",
+      "title": "Use the 24-hour check",
+      "body": "Mild discomfort during a session is often fine. What matters more is the next morning. If pain or stiffness is clearly worse than usual after 24 hours, drop back a step."
+    },
+    {
+      "kind": "body",
+      "title": "Change one thing at a time",
+      "body": "Add weight, sets or sessions, but not all three in the same week. Small, steady increases make it much easier to see what your body is ready for."
+    },
+    {
+      "kind": "body",
+      "title": "Train around it, not through it",
+      "body": "Sore shoulder? Legs and trunk can still work hard. Cranky knee? Upper body sessions and swimming often feel fine. Staying active keeps your fitness and confidence ticking over."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Swelling that keeps coming back, a joint that gives way, pain that builds week to week, or numbness and tingling are worth an assessment before you push on."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a plan back to your lifts?",
+      "body": "Our Sydney CBD and Chatswood physios assess the injury and how you train, then map out a return that fits your program. Book online — link in bio."
+    }
+  ],
+  "caption": "Coming back to the gym after an injury? Ego is usually the first thing to leave at the door.\n\nMost people do well starting at about half their usual weights and volume, then building up gradually. Mild discomfort during a set is often fine; the next-morning check tells you more. If things are clearly worse 24 hours later, drop back a step.\n\nChange one variable at a time, and keep training the parts of you that aren't injured. Swelling that keeps returning, a joint that gives way or numbness and tingling are worth getting checked.\n\nOur Sydney CBD and Chatswood physios can build a return-to-lifting plan around your goals. Book online via the link in bio. 🏋️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sportsphysio",
+    "#injuryrehab",
+    "#gymlife",
+    "#strengthtraining",
+    "#returntosport",
+    "#loadmanagement",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "story": {
+    "headline": "Back at the gym after injury?",
+    "body": "Start at about half your usual load. Judge it by how you feel the next morning, not during the set."
+  },
+  "scheduled_date": "2026-11-05",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
