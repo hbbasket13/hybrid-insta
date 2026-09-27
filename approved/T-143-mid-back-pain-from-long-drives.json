@@ -2,7 +2,7 @@
   "id": "T-143",
   "service": "chiro",
   "topic": "Mid-back pain from long drives",
-  "location_tag": "Milton",
+  "location_tag": "Chatswood",
   "slides": [
     {
       "kind": "cover",
@@ -52,9 +52,9 @@
     "#driving",
     "#commute",
     "#mobility",
-    "#brisbane",
-    "#brisbanechiro",
-    "#queensland",
+    "#sydney",
+    "#sydneychiro",
+    "#nsw",
     "#hybridphysiotherapy"
   ],
   "story": {

@@ -2,7 +2,7 @@
   "id": "T-128",
   "service": "remedial",
   "topic": "How often should you get a remedial massage?",
-  "location_tag": "Sunnybank",
+  "location_tag": "Sydney CBD",
   "slides": [
     {
       "kind": "cover",
@@ -50,9 +50,9 @@
     "#musclerelief",
     "#selfcare",
     "#healthfund",
-    "#brisbanemassage",
-    "#brisbaneremedialmassage",
-    "#brisbane",
+    "#sydneymassage",
+    "#sydneyremedialmassage",
+    "#sydney",
     "#hybridphysiotherapy",
     "#recovery"
   ],

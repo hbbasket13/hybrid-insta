@@ -2,7 +2,7 @@
   "id": "T-148",
   "service": "pilates",
   "topic": "Pilates for runners",
-  "location_tag": "Sunnybank",
+  "location_tag": "Sydney CBD",
   "slides": [
     {
       "kind": "cover",
@@ -52,9 +52,9 @@
     "#runninginjury",
     "#strengthforrunners",
     "#trailrunning",
-    "#brisbane",
-    "#brisbanepilates",
-    "#brisbanerunners",
+    "#sydney",
+    "#sydneypilates",
+    "#sydneyrunners",
     "#hybridphysiotherapy"
   ],
   "story": {

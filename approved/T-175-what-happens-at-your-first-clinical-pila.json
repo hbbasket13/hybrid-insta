@@ -2,7 +2,7 @@
   "id": "T-175",
   "service": "pilates",
   "topic": "What happens at your first clinical Pilates assessment",
-  "location_tag": "Milton",
+  "location_tag": "Chatswood",
   "slides": [
     {
       "kind": "cover",
@@ -50,8 +50,7 @@
     "#firstsession",
     "#corestrength",
     "#rehab",
-    "#brisbanepilates",
-    "#brisbane",
+    "#sydneypilates",
     "#sydney",
     "#hybridphysiotherapy",
     "#whattoexpect"

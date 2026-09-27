@@ -2,7 +2,7 @@
   "id": "T-140",
   "service": "chiro",
   "topic": "Tension headaches and a tight upper back",
-  "location_tag": "Sunnybank",
+  "location_tag": "Sydney CBD",
   "slides": [
     {
       "kind": "cover",
@@ -51,8 +51,6 @@
     "#neckpain",
     "#desklife",
     "#officeworker",
-    "#brisbane",
-    "#brisbanechiro",
     "#sydney",
     "#sydneychiro",
     "#hybridphysiotherapy"

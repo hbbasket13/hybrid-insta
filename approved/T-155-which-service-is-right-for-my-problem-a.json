@@ -2,7 +2,7 @@
   "id": "T-155",
   "service": "clinic",
   "topic": "Which service is right for my problem? A simple guide",
-  "location_tag": "Milton",
+  "location_tag": "Chatswood",
   "slides": [
     {
       "kind": "cover",
@@ -53,9 +53,9 @@
     "#neckpain",
     "#sportsinjury",
     "#injuryrehab",
-    "#brisbane",
-    "#brisbanephysio",
-    "#brisbanechiro",
+    "#sydney",
+    "#sydneyphysio",
+    "#sydneychiro",
     "#hybridphysiotherapy"
   ],
   "story": {

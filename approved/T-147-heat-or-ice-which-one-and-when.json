@@ -2,7 +2,7 @@
   "id": "T-147",
   "service": "physio",
   "topic": "Heat or ice: which one and when",
-  "location_tag": "Milton",
+  "location_tag": "Chatswood",
   "slides": [
     {
       "kind": "cover",
@@ -37,17 +37,17 @@
     {
       "kind": "cta",
       "headline": "Not sure what you've done?",
-      "body": "Our Milton and Sunnybank physios can assess it, explain what's going on and give you a clear plan for the next few weeks."
+      "body": "Our Chatswood and Sydney CBD physios can assess it, explain what's going on and give you a clear plan for the next few weeks."
     }
   ],
-  "caption": "Heat or ice? The honest answer: it matters less than you think.\n\nAs a rough guide, ice suits fresh knocks and sprains in the first couple of days. Wrap it and keep it to 10 to 15 minutes. Heat tends to suit stiffness, ongoing aches and tight muscles, especially before you get moving.\n\nCurrent guidelines suggest neither one speeds healing much on its own. They're comfort tools, so use whichever helps you move more easily, and pair it with gentle movement and a gradual return to normal activity.\n\nGet checked if you can't take weight on the limb, there's major swelling or an odd shape, or numbness or colour change. Skip heat or ice on numb skin.\n\nOur Milton and Sunnybank physios can help you work out a plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "caption": "Heat or ice? The honest answer: it matters less than you think.\n\nAs a rough guide, ice suits fresh knocks and sprains in the first couple of days. Wrap it and keep it to 10 to 15 minutes. Heat tends to suit stiffness, ongoing aches and tight muscles, especially before you get moving.\n\nCurrent guidelines suggest neither one speeds healing much on its own. They're comfort tools, so use whichever helps you move more easily, and pair it with gentle movement and a gradual return to normal activity.\n\nGet checked if you can't take weight on the limb, there's major swelling or an odd shape, or numbness or colour change. Skip heat or ice on numb skin.\n\nOur Chatswood and Sydney CBD physios can help you work out a plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
   "hashtags": [
     "#physiotherapy",
-    "#miltonphysio",
-    "#sunnybankphysio",
-    "#brisbanephysio",
-    "#milton",
-    "#brisbane",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydney",
     "#heatorice",
     "#icepack",
     "#sprainedankle",

@@ -2,7 +2,7 @@
   "id": "T-163",
   "service": "clinic",
   "topic": "DVA clients: seeing us with your DVA card",
-  "location_tag": "Milton",
+  "location_tag": "Chatswood",
   "slides": [
     {
       "kind": "cover",
@@ -51,10 +51,9 @@
     "#physiotherapy",
     "#chiropractic",
     "#sydney",
-    "#brisbane",
     "#sydneyphysio",
-    "#brisbanephysio",
-    "#hybridphysiotherapy"
+    "#hybridphysiotherapy",
+    "#chatswood"
   ],
   "story": {
     "headline": "DVA card holders, welcome",

@@ -2,7 +2,7 @@
   "id": "T-172",
   "service": "clinic",
   "topic": "Physio, chiro, Pilates and massage under one roof: how we refer",
-  "location_tag": "Sunnybank",
+  "location_tag": "Sydney CBD",
   "slides": [
     {
       "kind": "cover",
@@ -50,12 +50,10 @@
     "#multidisciplinary",
     "#teamcare",
     "#sydney",
-    "#brisbane",
     "#sydneyphysio",
-    "#brisbanephysio",
     "#sydneychiro",
-    "#brisbanechiro",
-    "#hybridphysiotherapy"
+    "#hybridphysiotherapy",
+    "#chatswood"
   ],
   "story": {
     "headline": "Not sure who to see?",

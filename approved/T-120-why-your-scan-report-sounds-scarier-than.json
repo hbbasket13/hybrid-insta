@@ -2,7 +2,7 @@
   "id": "T-120",
   "service": "physio",
   "topic": "Why your scan report sounds scarier than it is",
-  "location_tag": "Sunnybank",
+  "location_tag": "Sydney CBD",
   "slides": [
     {
       "kind": "cover",
@@ -37,10 +37,10 @@
     {
       "kind": "cta",
       "headline": "Bring the report, we'll talk it through",
-      "body": "Our Sunnybank and Milton physios explain what your scan does and doesn't mean, then build a plan around how you move. Book online, link in bio."
+      "body": "Our Chatswood and Sydney CBD physios explain what your scan does and doesn't mean, then build a plan around how you move. Book online, link in bio."
     }
   ],
-  "caption": "Read your scan report and felt your stomach drop? You're not alone.\n\nScan reports are written by radiologists for other clinicians. They list everything visible, in precise language, and words like \"degenerative\", \"bulge\" or \"tear\" sound far worse than they usually are. Research suggests many of these findings are common in people with no pain at all, and they become more common with age.\n\nWhat usually matters more is how your pain behaves, what you can do, and your sleep, stress and activity levels. A few things do need prompt review: worsening leg weakness, numbness around the groin, bladder or bowel changes, fever or unexplained weight loss.\n\nOur Sunnybank and Milton physios can go through your report with you in plain English and build a plan around how you move. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "caption": "Read your scan report and felt your stomach drop? You're not alone.\n\nScan reports are written by radiologists for other clinicians. They list everything visible, in precise language, and words like \"degenerative\", \"bulge\" or \"tear\" sound far worse than they usually are. Research suggests many of these findings are common in people with no pain at all, and they become more common with age.\n\nWhat usually matters more is how your pain behaves, what you can do, and your sleep, stress and activity levels. A few things do need prompt review: worsening leg weakness, numbness around the groin, bladder or bowel changes, fever or unexplained weight loss.\n\nOur Chatswood and Sydney CBD physios can go through your report with you in plain English and build a plan around how you move. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
   "hashtags": [
     "#physiotherapy",
     "#physio",
@@ -49,11 +49,11 @@
     "#painscience",
     "#discbulge",
     "#lowerbackpain",
-    "#sunnybankphysio",
-    "#miltonphysio",
-    "#brisbanephysio",
-    "#sunnybank",
-    "#brisbane",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydney",
     "#hybridphysiotherapy",
     "#keepmoving"
   ],

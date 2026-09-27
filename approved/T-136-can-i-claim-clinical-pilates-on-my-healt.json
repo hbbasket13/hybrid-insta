@@ -2,7 +2,7 @@
   "id": "T-136",
   "service": "pilates",
   "topic": "Can I claim clinical Pilates on my health fund?",
-  "location_tag": "Sunnybank",
+  "location_tag": "Sydney CBD",
   "slides": [
     {
       "kind": "cover",
@@ -50,8 +50,8 @@
     "#extrascover",
     "#hicaps",
     "#pilatesforbackpain",
-    "#brisbanepilates",
-    "#brisbane",
+    "#sydneypilates",
+    "#sydney",
     "#hybridphysiotherapy",
     "#strengthtraining",
     "#movemore"

@@ -2,7 +2,7 @@
   "id": "T-004",
   "service": "chiro",
   "topic": "Stiff upper back from sitting",
-  "location_tag": "Sunnybank",
+  "location_tag": "Sydney CBD",
   "slides": [
     {
       "kind": "cover",
@@ -48,14 +48,12 @@
     "#thoracicspine",
     "#deskjob",
     "#officeworker",
-    "#brisbanechiro",
-    "#brisbane",
+    "#sydneychiro",
+    "#sydney",
     "#mobility",
     "#posture",
     "#hybridphysiotherapy",
-    "#movemore",
-    "#sydney",
-    "#sydneychiro"
+    "#movemore"
   ],
   "story": {
     "headline": "Upper back locked up?",
