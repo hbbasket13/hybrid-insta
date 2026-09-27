@@ -13,6 +13,8 @@ on:
       - "config/brand.json"
       - "config/services.json"
       - "scripts/sydney_only.py"
+      - "scripts/remove_excluded.py"
+      - "config/excluded_topics.json"
   workflow_dispatch:
     inputs:
       all:
@@ -46,6 +48,8 @@ jobs:
         run: python scripts/import_batch.py
       - name: Keep posts Sydney-only
         run: python scripts/sydney_only.py
+      - name: Remove excluded topics
+        run: python scripts/remove_excluded.py
       - name: Render
         run: |
           if [ "${{ github.event.inputs.all }}" = "true" ] || git diff --name-only HEAD~1 HEAD | grep -qE '^(templates/|config/|scripts/sydney_only.py)'; then
