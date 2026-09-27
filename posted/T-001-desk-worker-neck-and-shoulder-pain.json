@@ -6,7 +6,7 @@
   "location_tag": "Sydney CBD",
   "created": "2026-09-27",
   "scheduled_date": null,
-  "status": "draft",
+  "status": "posted",
   "review_warnings": [],
   "slides": [
     {
@@ -67,5 +67,11 @@
   "story": {
     "headline": "Neck sore by 3pm?",
     "body": "Set a 30-minute timer. Stand, roll your shoulders, look over each shoulder. Thirty seconds beats a new chair."
+  },
+  "posted": {
+    "date": "2026-09-27",
+    "media_id": "18146535748561601",
+    "permalink": "https://www.instagram.com/p/DdyFo2wm1ir/",
+    "story_id": "18102602507460430"
   }
 }
