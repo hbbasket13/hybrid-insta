@@ -1,0 +1,69 @@
+{
+  "id": "T-270",
+  "service": "physio",
+  "topic": "Knee pain on long bike rides",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Knees aching after the 60km mark?",
+      "sub": "Common reasons knees grumble on long rides, and what to check first."
+    },
+    {
+      "kind": "body",
+      "title": "Start with saddle height",
+      "body": "A saddle that's too low often loads the front of the knee. Too high can irritate the back or sides as you reach for the pedals. Small changes of a few millimetres can matter."
+    },
+    {
+      "kind": "body",
+      "title": "Check cleats and foot position",
+      "body": "If your cleats point your feet in a way that doesn't suit you, your knees can track awkwardly for thousands of pedal strokes. A professional bike fit can help here."
+    },
+    {
+      "kind": "body",
+      "title": "Build distance gradually",
+      "body": "A sudden jump in weekly kilometres or climbing is a common trigger. Increase one thing at a time, like distance or hills, and give your knees a few weeks to catch up."
+    },
+    {
+      "kind": "body",
+      "title": "Strength off the bike helps",
+      "body": "Squats, step-ups and hip strength work twice a week can help your legs cope with long rides. Cycling alone doesn't always build that capacity, especially for bigger climbs."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Knee swelling, locking, giving way, or pain that stays after rides and disrupts your sleep or walking is worth an assessment rather than more saddle tweaks."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want to ride longer with happier knees?",
+      "body": "Our Sydney CBD and Chatswood physios look at your riding load, strength and symptoms, then build a plan to keep you on the bike."
+    }
+  ],
+  "caption": "Knees fine for the first hour, then grumbling by the end of the long ride? That's a common pattern.\n\nA few usual suspects: saddle height, cleat and foot position, and big jumps in distance or climbing. Small bike changes and a gradual build in kilometres often help. Strength work off the bike, like squats and step-ups, can also help your knees cope with longer rides.\n\nSwelling, locking, giving way, or pain that lingers and disrupts your sleep or walking is worth an assessment rather than more tinkering.\n\nOur Sydney CBD physios work with plenty of riders and can help you get more from your weekend kilometres. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#cycling",
+    "#kneepain",
+    "#cyclinginjury",
+    "#bikefit",
+    "#roadcycling",
+    "#sydneycycling",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sportsphysio",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "story": {
+    "headline": "Knees grumbling on long rides?",
+    "body": "Check saddle height first. Then build distance gradually and add some off-bike strength work."
+  },
+  "scheduled_date": "2026-11-24",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

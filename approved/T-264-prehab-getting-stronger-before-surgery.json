@@ -1,0 +1,69 @@
+{
+  "id": "T-264",
+  "service": "physio",
+  "topic": "Prehab: getting stronger before surgery",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Surgery booked? Start training for it now",
+      "sub": "Prehab: using the weeks before surgery to build strength and confidence."
+    },
+    {
+      "kind": "body",
+      "title": "What prehab actually means",
+      "body": "Prehab is exercise and preparation in the weeks before a planned operation. It's about going in as strong and confident as you can, so the early rehab steps feel more familiar."
+    },
+    {
+      "kind": "body",
+      "title": "Stronger in, often easier out",
+      "body": "Research suggests people who build strength and fitness before some joint operations often find early recovery more manageable. Your surgical team's advice always comes first."
+    },
+    {
+      "kind": "body",
+      "title": "Learn your rehab exercises early",
+      "body": "Practising your first post-op exercises now, while you feel well, means fewer surprises later. Knowing the movements makes it easier to start them when you're sore and tired."
+    },
+    {
+      "kind": "body",
+      "title": "Set up your home in advance",
+      "body": "Think about stairs, the shower, the car and where things are stored. Moving essentials to waist height and practising with crutches, if you'll need them, can make coming home smoother."
+    },
+    {
+      "kind": "body",
+      "title": "Keep your surgeon in the loop",
+      "body": "Check with your surgical team before starting anything new, and follow any limits they set. Tell your physio about pain that is changing quickly, new swelling or feeling unwell."
+    },
+    {
+      "kind": "cta",
+      "headline": "Getting ready for an operation?",
+      "body": "Our Sydney CBD and Chatswood physios build a prehab plan around your procedure, your surgeon's advice and your daily life."
+    }
+  ],
+  "caption": "The weeks before a planned operation can be some of the most useful weeks of your rehab.\n\nPrehab means building strength, fitness and confidence before surgery. Research suggests people who do this before some joint operations often find early recovery more manageable. It's also a chance to learn your first rehab exercises while you feel well, and to set up your home for the first days back.\n\nYour surgical team's advice always comes first, so check with them before starting anything new and follow any limits they give you.\n\nOur Sydney CBD physios can build a prehab plan around your procedure and your life. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#prehab",
+    "#prehabilitation",
+    "#surgeryprep",
+    "#kneereplacement",
+    "#hipreplacement",
+    "#strengthtraining",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#physio",
+    "#hybridphysiotherapy",
+    "#rehab"
+  ],
+  "story": {
+    "headline": "Surgery on the calendar?",
+    "body": "Use the weeks before to build strength and learn your first rehab exercises. Check with your surgical team first."
+  },
+  "scheduled_date": "2026-11-21",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

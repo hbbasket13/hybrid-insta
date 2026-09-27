@@ -1,0 +1,68 @@
+{
+  "id": "T-266",
+  "service": "clinic",
+  "topic": "How to book online in under a minute",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Booking with us takes about a minute",
+      "sub": "A quick walkthrough of booking online, step by step."
+    },
+    {
+      "kind": "body",
+      "title": "Step 1: tap the link in bio",
+      "body": "Head to @hybrid_physio_sydney and tap the booking link. It opens our online booking page, where you can see available times without needing to call or wait on hold."
+    },
+    {
+      "kind": "body",
+      "title": "Step 2: choose your clinic",
+      "body": "Pick Chatswood (Level 1, 38B Albert Ave) or Sydney CBD (Suite 1102, 99 York St). Choose whichever is easier to get to from home or work."
+    },
+    {
+      "kind": "body",
+      "title": "Step 3: pick service and visit type",
+      "body": "Choose physio, chiro, clinical Pilates or remedial massage, then an initial or follow-up appointment. If it's your first visit for this problem, an initial appointment is usually the right pick."
+    },
+    {
+      "kind": "body",
+      "title": "Step 4: pick a time and confirm",
+      "body": "Choose a practitioner and time that suit you, add your details and confirm. You'll receive a confirmation with the time and address, so it's easy to find again."
+    },
+    {
+      "kind": "body",
+      "title": "Not sure which service to choose?",
+      "body": "That's common. Give the clinic a call or send us a message and our admin team can help you work out where to start. We refer between services when that helps."
+    },
+    {
+      "kind": "cta",
+      "headline": "Your next visit, one minute away",
+      "body": "Tap the link in bio, choose your clinic and service, then pick a time. Chatswood and Sydney CBD."
+    }
+  ],
+  "caption": "Booking an appointment shouldn't take longer than the appointment reminder.\n\nHere's the quick version: tap the link in our bio, choose Chatswood or Sydney CBD, pick physio, chiro, clinical Pilates or remedial massage, then an initial or follow-up visit. Choose a time that suits, add your details and confirm. You'll get a confirmation with the time and address.\n\nIf it's your first visit for a new problem, an initial appointment is usually the right choice. Not sure which service fits? Give the clinic a call or send us a message and our admin team will help you work it out.\n\nBook online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#bookonline",
+    "#sydney",
+    "#sydneycbd",
+    "#chatswood",
+    "#northshore",
+    "#sydneyphysio",
+    "#alliedhealth",
+    "#healthcaresydney"
+  ],
+  "story": {
+    "headline": "Booking takes about a minute",
+    "body": "Tap the link in bio, choose your clinic and service, pick a time and confirm."
+  },
+  "scheduled_date": "2026-11-21",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

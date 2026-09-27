@@ -1,0 +1,69 @@
+{
+  "id": "T-278",
+  "service": "clinic",
+  "topic": "New to Hybrid Physiotherapy? What to expect from your team",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "New here? Meet the team behind you",
+      "sub": "Physio, chiro, clinical Pilates and remedial massage under one roof."
+    },
+    {
+      "kind": "body",
+      "title": "Physiotherapists",
+      "body": "Our physios assess how you move, explain what's likely going on and build an exercise-based plan. Hands-on treatment is used where it helps, alongside the exercises you do between visits."
+    },
+    {
+      "kind": "body",
+      "title": "Chiropractors",
+      "body": "Our chiropractors assess your spine and joints and use hands-on care, including adjustments where appropriate, as one tool alongside exercise and practical advice for everyday life."
+    },
+    {
+      "kind": "body",
+      "title": "Clinical Pilates team",
+      "body": "Our Pilates team runs supervised programs on the reformer and mat, tailored to your body and goals. It's a common next step as you build strength after an injury."
+    },
+    {
+      "kind": "body",
+      "title": "Remedial massage therapists",
+      "body": "Our remedial massage therapists work on muscle tension and tightness. Massage can complement your active rehab and help you feel more comfortable as you get moving."
+    },
+    {
+      "kind": "body",
+      "title": "We refer between each other",
+      "body": "If another service suits your problem better, or would help alongside your current care, we'll suggest it. You'll get a joined-up plan instead of starting from scratch."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready for your first visit?",
+      "body": "Choose the service that fits, or ask our admin team where to start. Chatswood and Sydney CBD."
+    }
+  ],
+  "caption": "New to Hybrid Physiotherapy? Here's who you'll meet.\n\nWe have physiotherapists, chiropractors, a clinical Pilates team and remedial massage therapists working together. Physios build exercise-based plans, chiros use hands-on care alongside exercise, our Pilates team runs tailored reformer and mat programs, and our remedial massage therapists help with muscle tension.\n\nThe big advantage is that we talk to each other. If another service would help, we'll suggest it, so you get one joined-up plan instead of starting over somewhere else.\n\nNot sure where to start? Our admin team can point you in the right direction. We accept private, HICAPS, Medicare, NDIS, DVA, WorkCover and CTP funding. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#alliedhealth",
+    "#meettheteam",
+    "#newpatient",
+    "#sydney",
+    "#northshore",
+    "#sydneycbd",
+    "#chatswood",
+    "#multidisciplinary",
+    "#healthcaresydney"
+  ],
+  "story": {
+    "headline": "New to Hybrid Physiotherapy?",
+    "body": "Physio, chiro, clinical Pilates and remedial massage under one roof, working together on one plan."
+  },
+  "scheduled_date": "2026-11-26",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

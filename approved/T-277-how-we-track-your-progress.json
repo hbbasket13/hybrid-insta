@@ -1,0 +1,69 @@
+{
+  "id": "T-277",
+  "service": "clinic",
+  "topic": "How we track your progress",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "How do you know you're getting better?",
+      "sub": "The ways our team measures progress, so it's not just a feeling."
+    },
+    {
+      "kind": "body",
+      "title": "We start with your goals",
+      "body": "At your first visit we ask what matters to you. Walking the dog, lifting your kids, running 10km or sitting through a meeting. Those goals guide what we measure."
+    },
+    {
+      "kind": "body",
+      "title": "Simple, repeatable tests",
+      "body": "Your practitioner may measure strength, range of movement, balance or how many reps you can do. Repeating the same tests every few weeks shows real change."
+    },
+    {
+      "kind": "body",
+      "title": "Short questionnaires",
+      "body": "For some problems we use brief questionnaires about how pain affects your daily life. Scores over time can show progress even when pain goes up and down."
+    },
+    {
+      "kind": "body",
+      "title": "Your day-to-day matters too",
+      "body": "We'll ask what you can do now that you couldn't before. Sleep, work, exercise and confidence all count, not just the pain number on a given day."
+    },
+    {
+      "kind": "body",
+      "title": "Adjusting the plan together",
+      "body": "If progress stalls, we review the plan with you. That might mean changing exercises, adjusting the load, adding another service or referring you back to your GP."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a clear picture of progress?",
+      "body": "Our physios, chiropractors, Pilates team and remedial massage therapists set goals with you and check in on them regularly."
+    }
+  ],
+  "caption": "Getting better isn't always a straight line. That's why we measure progress rather than guessing.\n\nIt starts with your goals: walking the dog, lifting your kids, running again or getting through a workday. From there, your practitioner may use simple repeatable tests like strength, range of movement or balance, and short questionnaires about how pain affects your daily life.\n\nThese measures can show progress even when pain goes up and down. If things stall, we review the plan together, which might mean changing exercises, adding another service or referring you to your GP.\n\nAt Hybrid Physiotherapy, you'll know where you stand. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#progress",
+    "#goalsetting",
+    "#rehab",
+    "#outcomemeasures",
+    "#sydney",
+    "#northshore",
+    "#sydneycbd",
+    "#chatswood",
+    "#alliedhealth"
+  ],
+  "story": {
+    "headline": "How we measure your progress",
+    "body": "Your goals, repeatable tests and short questionnaires. So progress is something you can see, not just feel."
+  },
+  "scheduled_date": "2026-11-26",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

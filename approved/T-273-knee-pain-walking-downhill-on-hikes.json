@@ -1,0 +1,69 @@
+{
+  "id": "T-273",
+  "service": "physio",
+  "topic": "Knee pain walking downhill on hikes",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Uphill is fine, downhill hurts your knees?",
+      "sub": "Why descents load your knees more, and how to make them kinder."
+    },
+    {
+      "kind": "body",
+      "title": "Why downhill feels harder",
+      "body": "Walking down, your thigh muscles work as brakes while they lengthen. That loads the front of the knee more than climbing. Tired legs late in a hike make it harder still."
+    },
+    {
+      "kind": "body",
+      "title": "Shorter steps, softer knees",
+      "body": "Take smaller steps on descents and keep a slight bend in your knees. Zigzag down steep sections where the track allows, rather than heading straight down."
+    },
+    {
+      "kind": "body",
+      "title": "Walking poles can help",
+      "body": "Poles can share some of the load through your arms on the way down. Lengthen them a little for descents so you're not leaning too far forward."
+    },
+    {
+      "kind": "body",
+      "title": "Train the brakes at home",
+      "body": "Slow step-downs from a low step, split squats and wall sits can help your legs cope with descents. Build up over several weeks before a big hike."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Knee swelling, locking, giving way, or pain that lasts for days after a hike or affects everyday walking and stairs is worth an assessment rather than a guess."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want your knees ready for the trails?",
+      "body": "Our Chatswood and Sydney CBD physios assess how your knees handle load and build a plan around your hiking goals."
+    }
+  ],
+  "caption": "Legs fine on the way up, knees complaining on the way down? Descents are often the harder part.\n\nGoing downhill, your thigh muscles work as brakes, which loads the front of the knee more than climbing does. Shorter steps, a slight knee bend, zigzagging down steep sections and walking poles can all help share the load.\n\nAt home, slow step-downs, split squats and wall sits can help build capacity for long descents. Swelling, locking, giving way, or pain that lasts for days after a hike is worth getting assessed.\n\nOur Chatswood physios can help you plan for your next trail. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#hiking",
+    "#kneepain",
+    "#bushwalking",
+    "#hikingtips",
+    "#trailwalking",
+    "#kneestrength",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#northshore",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "story": {
+    "headline": "Knees sore on the way down?",
+    "body": "Shorten your steps, keep a slight knee bend and zigzag on steep sections. Poles help too."
+  },
+  "scheduled_date": "2026-11-25",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

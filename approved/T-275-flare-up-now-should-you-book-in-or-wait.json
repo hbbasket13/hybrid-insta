@@ -1,0 +1,69 @@
+{
+  "id": "T-275",
+  "service": "clinic",
+  "topic": "Flare-up now: should you book in or wait it out?",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Flare-up today: book in or wait?",
+      "sub": "A simple way to decide what to do when a familiar pain comes back."
+    },
+    {
+      "kind": "body",
+      "title": "Familiar and settling? Try a plan",
+      "body": "If it feels like past flare-ups and is slowly easing, a few days of gentle movement, heat and your usual exercises is often a reasonable start. Keep an eye on the trend."
+    },
+    {
+      "kind": "body",
+      "title": "Not easing after a week or so?",
+      "body": "If it's not improving, or it keeps stopping you from working, sleeping or exercising, an assessment can help you get a plan rather than just waiting it out."
+    },
+    {
+      "kind": "body",
+      "title": "Different from usual? Book in",
+      "body": "New symptoms, pain in a new spot, or a flare-up after a fall or knock is worth getting assessed so you know what you're dealing with."
+    },
+    {
+      "kind": "body",
+      "title": "Needs urgent medical care",
+      "body": "Numbness around the groin, bladder or bowel changes, spreading weakness, chest pain, fever or feeling very unwell need your GP or emergency department, not a wait-and-see approach."
+    },
+    {
+      "kind": "body",
+      "title": "You don't have to wait for bad",
+      "body": "You don't need to be at your worst to book. Many people find an early check helps them get back to normal activity with more confidence."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure which way to go?",
+      "body": "Our physios, chiropractors, Pilates team and remedial massage therapists work together at Hybrid Physiotherapy to help you through a flare-up."
+    }
+  ],
+  "caption": "Familiar pain back again? Here's a simple way to decide whether to book in or wait a few days.\n\nIf it feels like past flare-ups and is slowly easing, gentle movement, heat and your usual exercises are often a reasonable first step. If it isn't improving after a week or so, it feels different from usual, or it follows a fall, an assessment can help.\n\nNumbness around the groin, bladder or bowel changes, spreading weakness, chest pain or feeling very unwell need your GP or emergency department.\n\nYou don't need to be at your worst to book. At Hybrid Physiotherapy, our team works together to help you through a flare-up. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#flareup",
+    "#backpain",
+    "#neckpain",
+    "#painmanagement",
+    "#sydney",
+    "#northshore",
+    "#sydneycbd",
+    "#chatswood",
+    "#alliedhealth"
+  ],
+  "story": {
+    "headline": "Flare-up: book or wait?",
+    "body": "Familiar and easing? Try a few days of gentle movement. Different, worse or not settling? Book in."
+  },
+  "scheduled_date": "2026-11-25",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "T-261",
+  "service": "physio",
+  "topic": "How to choose running shoes",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Shoe wall giving you decision fatigue?",
+      "sub": "A physio's short list for choosing running shoes without the guesswork."
+    },
+    {
+      "kind": "body",
+      "title": "Comfort is a solid first filter",
+      "body": "Research suggests the shoe that feels comfortable from the first few steps is a sensible pick for most runners. If it pinches, rubs or feels odd in the shop, it won't improve on the road."
+    },
+    {
+      "kind": "body",
+      "title": "Match the shoe to your running",
+      "body": "Think about where and how much you run. Trails, treadmill, long weekend runs or short fast sessions can each suit a slightly different shoe. Buy for the running you actually do."
+    },
+    {
+      "kind": "body",
+      "title": "Change shoes gradually",
+      "body": "Swapping to a very different shoe, like much lower drop or far less cushioning, changes the load on your calves and feet. Mix old and new pairs for a few weeks while you adjust."
+    },
+    {
+      "kind": "body",
+      "title": "Watch the mileage, not the calendar",
+      "body": "Most shoes feel flatter after several hundred kilometres. A rough log in your running app helps. Rotating two pairs can also spread the wear and give you a spare for wet days."
+    },
+    {
+      "kind": "body",
+      "title": "When shoes aren't the answer",
+      "body": "If pain keeps coming back, builds during runs or makes you limp afterwards, new shoes are rarely the whole story. Training load, strength and recovery usually matter more. That's worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Niggle that new shoes haven't settled?",
+      "body": "Our Chatswood and Sydney CBD physios look at your load, strength and running history, then build a plan to keep you running."
+    }
+  ],
+  "caption": "No shoe will make you injury-proof. But the right one can make running feel a lot better.\n\nA good starting point is comfort: current research suggests the shoe that feels comfortable from the first few steps is a sensible choice for most runners. Match it to the running you actually do, and if you're switching to something very different, ease in over a few weeks so your calves and feet can adjust.\n\nIf a niggle keeps coming back, it's usually about training load, strength and recovery rather than the shoe itself. That's where our Chatswood physios can help, looking at the whole picture rather than just your feet.\n\nBook online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#runningshoes",
+    "#running",
+    "#runningtips",
+    "#runninginjury",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#northshore",
+    "#sydneyrunners",
+    "#physio",
+    "#hybridphysiotherapy",
+    "#runnersofsydney"
+  ],
+  "story": {
+    "headline": "Choosing new running shoes?",
+    "body": "Start with comfort. If it feels odd in the shop, it won't improve on the road. Change styles gradually."
+  },
+  "scheduled_date": "2026-11-20",
+  "format": "carousel",
+  "created": "2026-09-27",
+  "status": "approved",
+  "review_warnings": []
+}
