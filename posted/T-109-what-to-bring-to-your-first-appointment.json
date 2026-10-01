@@ -62,6 +62,12 @@
   "scheduled_date": "2026-10-01",
   "format": "carousel",
   "created": "2026-09-27",
-  "status": "approved",
-  "review_warnings": []
+  "status": "posted",
+  "review_warnings": [],
+  "posted": {
+    "date": "2026-10-01",
+    "media_id": "18148046338588331",
+    "permalink": "https://www.instagram.com/p/Dd8VAyclfiM/",
+    "story_id": "17960400639230687"
+  }
 }
