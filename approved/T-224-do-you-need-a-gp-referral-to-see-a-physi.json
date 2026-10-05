@@ -12,7 +12,7 @@
     {
       "kind": "body",
       "title": "Private visits: no referral needed",
-      "body": "Physiotherapists are first-contact practitioners in Australia, so you can book directly. If your extras cover includes physio, you can claim on the spot with HICAPS."
+      "body": "Physiotherapists are first-contact practitioners in Australia, so you can book directly."
     },
     {
       "kind": "body",
@@ -40,7 +40,7 @@
       "body": "Most people can book straight in. Ask us if you're claiming through Medicare, WorkCover, CTP or DVA. Book online — link in bio."
     }
   ],
-  "caption": "Do you need a GP referral to see a physio? For most people, no.\n\nPhysiotherapists are first-contact practitioners in Australia, so you can book a private appointment directly and claim with HICAPS if your extras cover includes physio.\n\nA referral does matter in a few situations. Medicare's GP chronic condition management plan (what used to be called an EPC or CDM plan) is set up by your GP and can give a rebate for up to 5 allied health visits per calendar year, usually with a gap fee. WorkCover, CTP and DVA claims usually need your GP involved too.\n\nNot sure which applies to you? Ask us before your visit, or book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "caption": "Do you need a GP referral to see a physio? For most people, no.\n\nPhysiotherapists are first-contact practitioners in Australia, so you can book a private appointment directly.\n\nA referral does matter in a few situations. Medicare's GP chronic condition management plan (what used to be called an EPC or CDM plan) is set up by your GP and can give a rebate for up to 5 allied health visits per calendar year, usually with a gap fee. WorkCover, CTP and DVA claims usually need your GP involved too.\n\nNot sure which applies to you? Ask us before your visit, or book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
   "hashtags": [
     "#physiotherapy",
     "#physio",
@@ -49,12 +49,11 @@
     "#northshore",
     "#gpreferral",
     "#medicare",
-    "#healthfund",
-    "#hicaps",
     "#workcover",
     "#dva",
     "#alliedhealth",
-    "#hybridphysiotherapy"
+    "#hybridphysiotherapy",
+    "#sydneycbd"
   ],
   "story": {
     "headline": "GP referral for physio?",
