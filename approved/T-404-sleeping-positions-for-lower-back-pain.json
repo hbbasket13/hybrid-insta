@@ -1,0 +1,70 @@
+{
+  "id": "T-404",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sleeping positions for lower back pain",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Lower back sore in bed? Try these",
+      "sub": "Small tweaks to how you lie that many people find easier."
+    },
+    {
+      "kind": "body",
+      "title": "There's no single right position",
+      "body": "Comfort is the guide. Most people do better trying a few small changes than forcing one 'correct' posture. You'll also shift around during the night, which is normal and helpful for a sore back."
+    },
+    {
+      "kind": "body",
+      "title": "On your side: pillow between knees",
+      "body": "Bend your hips and knees slightly and put a pillow between your knees. It stops the top leg dropping forward and twisting your lower back. A rolled towel at your waist can help on a soft mattress."
+    },
+    {
+      "kind": "body",
+      "title": "On your back: pillow under knees",
+      "body": "A pillow or two under your knees eases the stretch on the lower back for many people. Keep your head pillow fairly thin so your neck stays comfortable too."
+    },
+    {
+      "kind": "body",
+      "title": "Roll, then sit up",
+      "body": "Getting out of bed can be the sorest bit. Bend your knees, roll onto your side, drop your legs over the edge and push up with your arms. Move slowly and keep breathing."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Night pain that doesn't change with any position, fever, unexplained weight loss, numbness around the groin, or changes to bladder or bowel control need prompt medical attention."
+    },
+    {
+      "kind": "cta",
+      "headline": "Nights still rough with your back?",
+      "body": "Our Chatswood and Sydney CBD physios can look at what's driving your back pain and help you sleep and move more comfortably. Book online — link in bio."
+    }
+  ],
+  "caption": "Lower back sore in bed? A few small tweaks can make a big difference.\n\nThere isn't one correct sleeping position. Comfort is the guide, and shifting around during the night is normal. On your side, try a pillow between your knees so your top leg doesn't twist your back. On your back, try a pillow or two under your knees.\n\nGetting up is often the sorest part, so bend your knees, roll to your side, swing your legs over and push up with your arms.\n\nNight pain that doesn't ease with any position, fever, numbness around the groin or changes to bladder or bowel control needs prompt medical attention.\n\nOur Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#lowerbackpain",
+    "#backpain",
+    "#sleep",
+    "#sleepposition",
+    "#sleeptips",
+    "#backpainrelief",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on sleeping positions that many people with lower back pain find easier, how to get out of bed more comfortably and when to get back pain checked.",
+  "story": {
+    "headline": "Back sore in bed?",
+    "body": "Side sleeper? Pillow between your knees. Back sleeper? Pillow under your knees. Try it tonight."
+  },
+  "scheduled_date": "2027-01-06",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

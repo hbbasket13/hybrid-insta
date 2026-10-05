@@ -1,0 +1,69 @@
+{
+  "id": "T-386",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Rolling out of bed with a sore back",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Getting out of bed is the worst part?",
+      "sub": "A smoother way up, plus why mornings often feel stiffer."
+    },
+    {
+      "kind": "body",
+      "title": "Try the log roll",
+      "body": "Bend your knees and roll onto your side as one unit. Then lower your legs off the edge while you push up with your arms. Your back has far less twisting to manage."
+    },
+    {
+      "kind": "body",
+      "title": "Warm up before you get up",
+      "body": "Lying on your back, rock your bent knees gently side to side ten times, then hug each knee in turn. A minute of easy movement often takes the edge off that first sit-up."
+    },
+    {
+      "kind": "body",
+      "title": "Why mornings feel stiffer",
+      "body": "After hours of lying still, your back usually feels stiffer than it will by mid-morning. Most people loosen up within 30 to 60 minutes of moving around, which is a reassuring sign."
+    },
+    {
+      "kind": "body",
+      "title": "Keep the first hour gentle",
+      "body": "Save heavy lifting, long bending and big gym sessions for later in the morning. A short walk, a warm shower and supported sitting at breakfast usually make the start of the day easier."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain that wakes you and doesn't ease with moving, numbness around the groin, changes to bladder or bowel control, leg weakness or fever deserve a prompt check with your GP."
+    },
+    {
+      "kind": "cta",
+      "headline": "Mornings harder than they should be?",
+      "body": "Our chiropractors look at how your back moves and loads, then combine hands-on care with simple exercises you can do at home. Book online via the link in bio."
+    }
+  ],
+  "caption": "Is rolling out of bed the hardest part of your day?\n\nA sore back often feels its stiffest first thing, after hours of lying still. The good news: most people loosen up within the first hour of moving.\n\nTwo things worth trying tomorrow morning. Rock your bent knees side to side for a minute before you move. Then log roll: knees bent, roll onto your side as one unit, legs over the edge, push up with your arms. Keep heavy lifting for later in the day.\n\nPain that wakes you and doesn't ease with movement, numbness around the groin, bladder or bowel changes, leg weakness or fever are worth a prompt GP visit.\n\nOur chiropractors combine hands-on care with simple exercises. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydneychiropractor",
+    "#sydney",
+    "#northshore",
+    "#backpain",
+    "#lowerbackpain",
+    "#morningstiffness",
+    "#stiffback",
+    "#mobility",
+    "#sleep",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy showing an easier way to get out of bed with a sore back, a gentle warm-up, why mornings feel stiffer and when to get checked.",
+  "story": {
+    "headline": "Back sore getting out of bed?",
+    "body": "Rock your knees side to side for a minute. Then roll onto your side and push up with your arms."
+  },
+  "scheduled_date": "2026-12-15",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

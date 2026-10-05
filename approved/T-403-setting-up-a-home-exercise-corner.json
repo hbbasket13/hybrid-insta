@@ -1,0 +1,70 @@
+{
+  "id": "T-403",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Setting up a home exercise corner",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "A corner, a mat and five minutes",
+      "sub": "Set up a small home exercise space you'll actually use this year."
+    },
+    {
+      "kind": "body",
+      "title": "Pick a spot you walk past",
+      "body": "Next to the kettle, beside the bed or in front of the TV. Visible beats hidden. If you have to dig the mat out of a cupboard first, it becomes much easier to skip."
+    },
+    {
+      "kind": "body",
+      "title": "Five things cover most programs",
+      "body": "A mat, a resistance band, a sturdy chair or step, a couple of light weights (a backpack with books works) and a clear patch of wall. Pricey equipment isn't required."
+    },
+    {
+      "kind": "body",
+      "title": "Make it ready to go",
+      "body": "Leave the mat rolled beside the spot, hang the band on a hook and stick your exercise sheet at eye level. Fewer steps between you and starting makes a surprising difference."
+    },
+    {
+      "kind": "body",
+      "title": "Anchor it to a habit",
+      "body": "Pair your exercises with something you already do: after the morning coffee, while dinner's in the oven. Two short sessions you actually do beat one long session you keep putting off."
+    },
+    {
+      "kind": "body",
+      "title": "Make it safe first",
+      "body": "Clear trip hazards, use a non-slip surface, put the chair against a wall and check any door anchor is secure. If an exercise causes sharp or increasing pain, stop and ask your practitioner."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want exercises for your corner?",
+      "body": "Our team at Hybrid Physiotherapy can build a short home program around the space and gear you already have. Book online — link in bio."
+    }
+  ],
+  "caption": "A corner, a mat and five minutes. That's a home gym.\n\nHome exercises are much easier to do when the setup is already waiting for you. Pick a spot you walk past every day, keep the gear visible and stick your exercise sheet at eye level.\n\nMost home programs only need a mat, a resistance band, a sturdy chair, a couple of light weights (a backpack with books works) and some wall space. Pair your session with a habit you already have, like the morning coffee, and keep it short.\n\nClear trip hazards and stop any exercise that causes sharp or increasing pain.\n\nWant a program built for your space? Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#homeexercise",
+    "#homeworkout",
+    "#exerciseathome",
+    "#physiotherapy",
+    "#clinicalpilates",
+    "#habits",
+    "#newyear",
+    "#movemore",
+    "#strengthtraining",
+    "#rehab",
+    "#sydneyphysio",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on setting up a small home exercise corner: choosing a spot, simple equipment, keeping it ready, building a habit and staying safe.",
+  "story": {
+    "headline": "Set up your corner today",
+    "body": "Mat down, band on a hook, exercise sheet at eye level. Then do one exercise."
+  },
+  "scheduled_date": "2027-01-06",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

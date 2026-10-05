@@ -1,0 +1,71 @@
+{
+  "id": "T-392",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Water exercise for sore joints",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Sore joints? Try exercising in the pool",
+      "sub": "Water exercise can be a comfortable way to stay strong this summer."
+    },
+    {
+      "kind": "body",
+      "title": "Why the pool feels kinder",
+      "body": "Water supports part of your body weight, so hips, knees and ankles take less load. The buoyancy and gentle resistance often make it easier to move through a bigger range."
+    },
+    {
+      "kind": "body",
+      "title": "You don't need to swim",
+      "body": "Walking laps in waist-deep water, side steps, knee lifts and heel raises at the edge all count. Water aerobics or hydrotherapy classes are good options if you prefer a group."
+    },
+    {
+      "kind": "body",
+      "title": "Use the water as resistance",
+      "body": "Moving faster through water makes it harder. Slow, controlled arm and leg movements suit early sessions, and quicker ones build strength and fitness as your confidence grows."
+    },
+    {
+      "kind": "body",
+      "title": "Pair it with land work",
+      "body": "Pool sessions are a helpful option, and current guidelines still recommend strength work on land for joints and bones. Many people do one or two of each a week."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A joint that's hot, red and swollen, pain after a fall or twist, a knee that locks or gives way, or pain that keeps worsening rather than settling is worth getting assessed."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a plan for the pool?",
+      "body": "Our Chatswood and Sydney CBD physios assess your joints and write a simple water and land program you can follow. Book online via the link in bio."
+    }
+  ],
+  "caption": "Knees or hips grumbling on hot summer walks? The pool might be your friend.\n\nWater supports part of your body weight, so sore joints often tolerate movement there more comfortably. You don't need to swim: walking laps, side steps, knee lifts and heel raises at the pool edge all count, and water aerobics classes are a good option too.\n\nMoving faster through the water adds resistance as you get stronger. Pair pool sessions with some strength work on land, since current guidelines recommend both for joint health.\n\nA hot, red, swollen joint or a knee that locks or gives way is worth getting assessed.\n\nOur Chatswood and Sydney CBD physios can build a water and land plan around your joints. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#hydrotherapy",
+    "#waterexercise",
+    "#aquaaerobics",
+    "#osteoarthritis",
+    "#kneepain",
+    "#hippain",
+    "#jointpain",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy about water exercise for sore joints, covering why the pool helps, simple exercises, using water resistance, pairing with land strength work and when to get assessed.",
+  "story": {
+    "headline": "Sore knees or hips?",
+    "body": "Try ten minutes of walking laps in waist-deep water. No swimming needed."
+  },
+  "scheduled_date": "2026-12-31",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

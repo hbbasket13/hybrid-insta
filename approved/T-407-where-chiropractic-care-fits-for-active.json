@@ -1,0 +1,70 @@
+{
+  "id": "T-407",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Where chiropractic care fits for active people",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Training hard? Where a chiro fits in",
+      "sub": "One useful tool in the kit, not the whole plan."
+    },
+    {
+      "kind": "body",
+      "title": "When stiffness blocks training",
+      "body": "A stiff mid-back that limits your overhead press, or a locked-up neck that makes shoulder checks on the bike awkward, can often feel easier with hands-on care in the short term."
+    },
+    {
+      "kind": "body",
+      "title": "Adjustments open a window",
+      "body": "An adjustment or mobilisation often eases stiffness for a while. That window is the time to move: the exercises you do afterwards help you hold onto the change."
+    },
+    {
+      "kind": "body",
+      "title": "Training load still leads",
+      "body": "Most training niggles come from doing a bit too much, too soon. Your chiropractor should ask about your training week, not just your spine, and help you adjust volume where needed."
+    },
+    {
+      "kind": "body",
+      "title": "Part of a bigger team",
+      "body": "At Hybrid Physiotherapy our chiropractors work alongside physios, Pilates and remedial massage. If strength work or rehab suits you better, we'll say so and refer in-house."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain after a fall or collision, pins and needles, numbness or weakness in an arm or leg, or night pain that doesn't ease with rest needs a thorough assessment first."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep training, move more freely",
+      "body": "Our chiropractors assess how you move, talk through your training and use adjustments alongside exercise where it fits. Book online — link in bio."
+    }
+  ],
+  "caption": "Training hard and feeling stiff? Here's where chiropractic care fits.\n\nFor active people, adjustments and mobilisation are one tool, not the whole plan. They can ease stiffness in the short term and make movement feel easier, which is the perfect time to do the exercises that help you keep that range.\n\nMost training niggles still come back to load: how much, how often, how fast you've ramped up. A good chiropractor will ask about your week, not just your spine, and refer you to our physios, Pilates team or remedial massage therapists when that suits you better.\n\nPins and needles, weakness, or pain after a fall are worth assessing before you keep training. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydneychiropractor",
+    "#sydney",
+    "#northshore",
+    "#activelifestyle",
+    "#trainingtips",
+    "#backpain",
+    "#neckpain",
+    "#mobility",
+    "#strengthtraining",
+    "#hybridphysiotherapy",
+    "#sydneyfitness"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining where chiropractic care fits for active people: easing stiffness, using the window for exercise, managing training load and when to get checked.",
+  "story": {
+    "headline": "Chiro for active people",
+    "body": "Adjustments can ease stiffness. Exercise afterwards helps you keep the range. Use both."
+  },
+  "scheduled_date": "2027-01-07",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

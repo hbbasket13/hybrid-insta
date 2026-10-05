@@ -1,0 +1,70 @@
+{
+  "id": "T-412",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hip pain in young active adults (hip impingement)",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Pinch in the front of your hip?",
+      "sub": "Common in active adults, and often managed well with exercise."
+    },
+    {
+      "kind": "body",
+      "title": "What impingement means",
+      "body": "In some people, the shape of the hip means the ball and socket meet a little earlier in deep bending. Lots of people have these shapes with no pain; symptoms usually relate to load and irritation."
+    },
+    {
+      "kind": "body",
+      "title": "What people often notice",
+      "body": "A pinch or ache in the groin with deep squats, sitting low for long periods, getting out of the car or pulling the knee to the chest. It can feel stiff after sport."
+    },
+    {
+      "kind": "body",
+      "title": "Calm it, don't stop everything",
+      "body": "For now, reduce the positions that pinch: sit a little higher, limit very deep squats and lunges, and keep walking, cycling or swimming if they feel okay."
+    },
+    {
+      "kind": "body",
+      "title": "Strength does the heavy lifting",
+      "body": "Current guidelines support exercise therapy as a first step for most people. Hip, glute and trunk strength, plus control in deeper positions, often helps people return to sport over time."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Hip pain after a fall, pain at rest or at night that keeps building, a locking or catching hip, or a limp that won't settle are worth getting assessed."
+    },
+    {
+      "kind": "cta",
+      "headline": "Get your hip moving well again",
+      "body": "Our Chatswood physios assess your hip, back and how you move in your sport, then build a gradual plan. Book online — link in bio."
+    }
+  ],
+  "caption": "That pinch at the front of your hip when you squat deep or sit low? You're not alone.\n\nHip impingement is common in young, active adults. Some hip shapes mean the joint meets a little earlier in deep bending, but plenty of people have those shapes and no pain. Symptoms usually relate to load and irritation, which is good news, because load can be adjusted.\n\nIn the short term, ease off the positions that pinch and keep doing what feels okay. Longer term, current guidelines support exercise therapy first: hip, glute and trunk strength plus control in deeper ranges. A locking hip, night pain or a limp that won't settle is worth getting checked.\n\nOur Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#hippain",
+    "#hipimpingement",
+    "#groinpain",
+    "#fai",
+    "#sportsphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#northshore",
+    "#strengthtraining",
+    "#physio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining hip impingement in young active adults, common symptoms, short-term changes, exercise-first rehab and when to get hip pain checked.",
+  "story": {
+    "headline": "Hip pinch when you squat?",
+    "body": "Sit a little higher and keep moving. Strength work is usually the first step."
+  },
+  "scheduled_date": "2027-01-09",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

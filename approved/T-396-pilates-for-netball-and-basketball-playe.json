@@ -1,0 +1,70 @@
+{
+  "id": "T-396",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for netball and basketball players",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Jump, land, cut, repeat. Ready for it?",
+      "sub": "Netball and basketball ask a lot of your legs. Pilates can help them cope."
+    },
+    {
+      "kind": "body",
+      "title": "Court sports are landing sports",
+      "body": "A single game can involve hundreds of landings, sudden stops and quick changes of direction. Your ankles, knees and hips absorb that load, so control on one leg matters as much as fitness."
+    },
+    {
+      "kind": "body",
+      "title": "Single-leg control on the reformer",
+      "body": "Springs let you practise single-leg squats, lunges and jump-board work with adjustable load. You can slow the movement down, watch where your knee travels and build control before adding speed."
+    },
+    {
+      "kind": "body",
+      "title": "Trunk control for contact",
+      "body": "Reaching for a pass or getting bumped mid-air tests your trunk. Side planks, rotation work and reaching while balancing train you to stay steady when the game gets messy."
+    },
+    {
+      "kind": "body",
+      "title": "Calves and ankles that keep up",
+      "body": "Heel raises off the footbar, single-leg rises and slow lowering build calves and ankles that can handle repeated jumping. Most players feel the difference late in a game first."
+    },
+    {
+      "kind": "body",
+      "title": "Fitting it into your season",
+      "body": "Pre-season, two sessions a week is a good starting point; in season, one is often enough to maintain. If you have a current injury, get it assessed before loading it up."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want steadier landings this season?",
+      "body": "Our Pilates team starts with an assessment of how you land, balance and move, then builds a program around your sport and training week. Book online — link in bio."
+    }
+  ],
+  "caption": "Netball or basketball on the calendar this year? Your landings deserve some training too. 🏀\n\nCourt sports are full of jumps, stops and sharp changes of direction. That's a lot of load through your ankles, knees and hips, and control on one leg is a big part of handling it.\n\nClinical Pilates lets you practise single-leg squats, lunges and jump-board work with springs you can adjust, so you build control first and speed later. Trunk work for contact and calf strength for the final quarter round it out.\n\nPre-season, two sessions a week is a good starting point. In season, one session often keeps things ticking over alongside team training.\n\nBook online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#netball",
+    "#basketball",
+    "#netballer",
+    "#courtsports",
+    "#injuryprevention",
+    "#sportsperformance",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy",
+    "#strengthtraining"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on how clinical Pilates can help netball and basketball players build landing control, trunk stability and calf strength for the season.",
+  "story": {
+    "headline": "Netball or basketball this season?",
+    "body": "Try 3 sets of 10 slow single-leg heel raises each side. Control the lowering. Your final quarter will thank you."
+  },
+  "scheduled_date": "2027-01-02",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

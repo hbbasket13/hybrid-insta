@@ -1,0 +1,70 @@
+{
+  "id": "T-389",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Swimming for back pain: is it a good choice?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Can swimming help a sore back?",
+      "sub": "Often, yes. Here's how to make your laps work for your back."
+    },
+    {
+      "kind": "body",
+      "title": "Why water often feels good",
+      "body": "Water takes some of your body weight and lets you move without impact. Many people with back pain find they can stay active in the pool when running or long walks feel harder."
+    },
+    {
+      "kind": "body",
+      "title": "Freestyle: roll, don't lift",
+      "body": "Lifting your head high to breathe can arch your lower back. Try rolling your whole body to breathe instead, or use a centre-mount snorkel while you build up your laps."
+    },
+    {
+      "kind": "body",
+      "title": "Breaststroke can grumble",
+      "body": "Breaststroke often arches the lower back and the kick twists the knees. If it aggravates things, mix in backstroke, freestyle or easy deep-water jogging with a float belt."
+    },
+    {
+      "kind": "body",
+      "title": "Build up gradually",
+      "body": "Start with 15 to 20 minutes two or three times a week, with rest breaks at the wall. Add a few minutes each week if your back feels the same or better the next day."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain that wakes you and doesn't ease with moving, numbness around the groin, changes to bladder or bowel control, leg weakness or fever deserve a prompt check with your GP."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want laps that suit your back?",
+      "body": "Our Sydney CBD and Chatswood physios assess your back and build a plan that can include the pool, walking and strength work. Book online via the link in bio."
+    }
+  ],
+  "caption": "Is swimming a good idea when your back is sore? Often, yes.\n\nWater takes some of your weight and removes impact, so many people find the pool is a comfortable way to stay active while their back settles.\n\nA few tweaks help. In freestyle, roll your body to breathe rather than lifting your head. If breaststroke grumbles, swap in backstroke or deep-water jogging. Start with 15 to 20 minutes a few times a week and build up if your back feels the same or better the next day.\n\nSwimming works well alongside strength work and walking, not instead of them. Numbness around the groin, bladder or bowel changes, leg weakness or fever need a prompt GP check.\n\nOur Sydney CBD and Chatswood physios can help you plan your laps. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#backpain",
+    "#lowerbackpain",
+    "#swimming",
+    "#swimmingpool",
+    "#oceanpool",
+    "#exerciseforbackpain",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydney",
+    "#summerfitness",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining whether swimming suits back pain, with stroke tips, how to build up laps and when to get assessed.",
+  "story": {
+    "headline": "Swimming with a sore back?",
+    "body": "Roll to breathe in freestyle instead of lifting your head. Start with 15 to 20 minutes and build up."
+  },
+  "scheduled_date": "2026-12-30",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

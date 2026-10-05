@@ -1,0 +1,70 @@
+{
+  "id": "T-401",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What evidence-based care means at our clinic",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "What 'evidence-based' means in practice",
+      "sub": "Research, your practitioner's experience and what matters to you, together."
+    },
+    {
+      "kind": "body",
+      "title": "Three parts, not one",
+      "body": "Evidence-based care blends current research, your practitioner's clinical experience, and your goals and preferences. Research alone doesn't know you play netball on Tuesdays or work ten-hour days."
+    },
+    {
+      "kind": "body",
+      "title": "Active care usually comes first",
+      "body": "For many muscle and joint problems, current guidelines put exercise, education and a gradual return to activity first. Hands-on treatment can help you move more comfortably as part of that plan."
+    },
+    {
+      "kind": "body",
+      "title": "Honest when evidence is thin",
+      "body": "Some treatments have stronger support than others. We'll explain what's known, what's uncertain and why we're suggesting something, so you can make an informed choice about your care."
+    },
+    {
+      "kind": "body",
+      "title": "We measure, then adjust",
+      "body": "Strength tests, range of movement, questionnaires or how far you can walk give us something to track. If progress stalls, we change the plan or refer on rather than repeat the same session."
+    },
+    {
+      "kind": "body",
+      "title": "Referring when it fits",
+      "body": "Sometimes the right next step is your GP, a specialist or another practitioner on our team. With physio, chiro, Pilates and remedial massage under one roof, we can share one plan."
+    },
+    {
+      "kind": "cta",
+      "headline": "Care you can ask questions about",
+      "body": "Our team at Hybrid Physiotherapy will explain the reasoning behind your plan and keep it focused on your goals. Book online — link in bio."
+    }
+  ],
+  "caption": "'Evidence-based' gets used a lot. Here's what it looks like in a real appointment.\n\nIt's three things working together: current research, your practitioner's clinical experience, and your own goals and preferences. A plan that ignores any one of those usually doesn't stick.\n\nIn practice, that means active care like exercise and education usually comes first, with hands-on treatment as a helpful add-on. It means being upfront when the evidence for something is thin. And it means measuring progress, then changing the plan or referring on if things aren't moving.\n\nQuestions about why we're suggesting something are always welcome. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#evidencebasedpractice",
+    "#evidencebased",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#alliedhealth",
+    "#patientcentredcare",
+    "#sydneyphysio",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy",
+    "#exerciseismedicine",
+    "#healthcare"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining what evidence-based care means at the clinic: research, clinical experience and patient goals, active care first, honest communication, measuring progress and referring on.",
+  "story": {
+    "headline": "What does evidence-based mean?",
+    "body": "Research, experience and your goals, together. Ask us why we're suggesting anything. We'll explain."
+  },
+  "scheduled_date": "2027-01-05",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

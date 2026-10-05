@@ -1,0 +1,70 @@
+{
+  "id": "T-399",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Twisting sports and a stiff mid-back",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Can't rotate like you used to?",
+      "sub": "Golf, tennis, cricket or paddling: why your mid-back matters when you twist."
+    },
+    {
+      "kind": "body",
+      "title": "Your mid-back is built to turn",
+      "body": "The thoracic spine, between your shoulders and lower ribs, is designed to rotate. When desk days stiffen it up, the lower back and shoulders often end up doing more of the turning."
+    },
+    {
+      "kind": "body",
+      "title": "Try a quick rotation check",
+      "body": "Sit on a chair, cross your arms over your chest and slowly turn each way. If one side feels noticeably shorter or tighter, that's a useful clue to bring along, not a diagnosis."
+    },
+    {
+      "kind": "body",
+      "title": "Two drills for a freer twist",
+      "body": "Try side-lying open books and, on all fours, thread one arm under your body. Eight slow reps each side most days is a good starting point. Breathe out as you turn."
+    },
+    {
+      "kind": "body",
+      "title": "Where an adjustment fits",
+      "body": "A chiropractor may use adjustments or mobilisation to help your mid-back feel looser in the short term. It's one tool, and the change tends to hold better when paired with mobility and strength work."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Mid-back pain with chest pain or shortness of breath, fever, unexplained weight loss, pain after a fall, or night pain that doesn't ease with any position needs prompt medical review."
+    },
+    {
+      "kind": "cta",
+      "headline": "Stiff twist holding back your game?",
+      "body": "Our chiropractors at Hybrid Physiotherapy assess how you rotate, then combine hands-on care with exercises for your sport. Book online — link in bio."
+    }
+  ],
+  "caption": "Can't rotate like you used to? Your mid-back might be part of the story.\n\nGolf, tennis, cricket and paddling all rely on rotation, and the thoracic spine between your shoulder blades is built to provide a good chunk of it. After long desk days it often stiffens, and the lower back and shoulders pick up the slack.\n\nA quick check: sit, cross your arms and turn each way. If one side feels shorter, try open books and thread-the-needle most days. Chiropractic adjustments can help it feel looser in the short term, and the change tends to stick better with regular movement and strength work.\n\nChest pain, breathlessness, fever or pain after a fall needs prompt medical review.\n\nBook online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#midbackpain",
+    "#thoracicspine",
+    "#mobility",
+    "#golf",
+    "#tennis",
+    "#cricket",
+    "#sportsinjury",
+    "#backpain",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on why a stiff mid-back affects twisting sports, with a simple rotation check, two mobility drills, where chiropractic adjustments fit and red flags.",
+  "story": {
+    "headline": "Stiff when you twist?",
+    "body": "Try 8 slow open books each side today. Breathe out as you turn. Notice which side feels shorter."
+  },
+  "scheduled_date": "2027-01-04",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

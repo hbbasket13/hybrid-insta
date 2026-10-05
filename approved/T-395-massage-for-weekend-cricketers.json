@@ -1,0 +1,70 @@
+{
+  "id": "T-395",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for weekend cricketers",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Long day in the field? Your body knows",
+      "sub": "Where massage fits for weekend cricketers, from bowlers to keepers."
+    },
+    {
+      "kind": "body",
+      "title": "Bowlers: back, hips and trunk",
+      "body": "Bowling loads the lower back, trunk and hips heavily. Massage can ease tightness through the glutes, back and sides after a long spell, alongside the strength work that helps you bowl."
+    },
+    {
+      "kind": "body",
+      "title": "Keepers: hips and thighs",
+      "body": "Hours of squatting behind the stumps leave hips, quads and calves tired. Massage on a rest day plus some hip mobility can help the next match feel easier on your legs."
+    },
+    {
+      "kind": "body",
+      "title": "Fielders: shoulders and hamstrings",
+      "body": "Throwing from the boundary and sprinting between the wickets load the shoulders and hamstrings. A focused session can help these areas feel looser between weekends."
+    },
+    {
+      "kind": "body",
+      "title": "Book it for the right day",
+      "body": "Lighter massage a day or two after the match tends to suit most players. Leave deeper work for midweek so your legs feel fresh by Saturday's first ball."
+    },
+    {
+      "kind": "body",
+      "title": "Massage is part of the plan",
+      "body": "Massage complements warm-ups, strength work and hydration in the heat. Sharp pain, swelling or a back that's worse each week is worth a physio assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Cricket legs feeling every over?",
+      "body": "Our remedial massage therapists tailor each session to your role on the field and refer to our physios when needed. Book online via the link in bio."
+    }
+  ],
+  "caption": "Six hours in the field on a 35-degree Saturday? Your body keeps score. 🏏\n\nWeekend cricket asks different things of different players. Bowlers load the back, trunk and hips. Keepers spend hours in a squat. Fielders throw and sprint after long periods of standing still.\n\nRemedial massage can help tired, tight areas feel looser between matches. Lighter work a day or two after the game tends to suit most players, with deeper sessions kept for midweek. It works alongside warm-ups, strength training and staying hydrated in the heat.\n\nSharp pain, swelling or a back that's getting worse each week is worth a physio assessment.\n\nOur remedial massage therapists tailor each session to your role. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#massagetherapy",
+    "#cricket",
+    "#weekendcricket",
+    "#clubcricket",
+    "#grassrootscricket",
+    "#fastbowling",
+    "#wicketkeeper",
+    "#sydney",
+    "#sydneycricket",
+    "#sydneymassage",
+    "#recovery",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on remedial massage for weekend cricketers, covering bowlers, keepers and fielders, when to book and when a niggle needs a physio.",
+  "story": {
+    "headline": "Cricket this weekend?",
+    "body": "Book lighter massage a day or two after the match. Keep deeper work for midweek."
+  },
+  "scheduled_date": "2027-01-02",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "T-400",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Running your first 5km: a beginner's build-up",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Never run? Your first 5km starts here",
+      "sub": "A gentle walk-run build-up most beginners can start this week."
+    },
+    {
+      "kind": "body",
+      "title": "Start with walk-run intervals",
+      "body": "Try one minute of easy jogging and two minutes of walking, repeated eight times, three days a week with rest days between. Jog at a pace where you could still chat. Slow is the point."
+    },
+    {
+      "kind": "body",
+      "title": "Add a little each week",
+      "body": "Progress one thing at a time: a bit more jogging or one more interval. If a week felt hard, repeat it. Many beginners take around eight to ten weeks to run 5km without stopping."
+    },
+    {
+      "kind": "body",
+      "title": "Strength twice a week",
+      "body": "Calf raises, squats, step-ups and bridges help your legs handle the load of running. Ten to fifteen minutes twice a week is enough to start, and it often makes runs feel easier."
+    },
+    {
+      "kind": "body",
+      "title": "Summer running sense",
+      "body": "Run early or late, carry water and pick shaded routes. Heat makes the same pace feel harder, so slow down on hot days rather than pushing through. Walking breaks are part of the plan."
+    },
+    {
+      "kind": "body",
+      "title": "Soreness rules and red flags",
+      "body": "Mild aches that settle within a day are usually fine. Pain that makes you limp, builds as you run, or sits in one spot on a bone and lingers is worth a physio check."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a build-up made for you?",
+      "body": "Our Chatswood and Sydney CBD physios can check your strength, running and history, then map out a build-up that suits your week. Book online — link in bio."
+    }
+  ],
+  "caption": "Never run before? Your first 5km is closer than you think. 🏃\n\nThe trick is starting slower than feels necessary. Try one minute of easy jogging and two minutes of walking, eight times over, three days a week. Add a little each week, and repeat any week that felt tough. Many beginners take around eight to ten weeks to get there.\n\nTwo short strength sessions a week, with calf raises, squats, step-ups and bridges, help your legs cope. In summer, run early or late, carry water and slow down on hot days.\n\nMild aches that settle within a day are usually fine. Limping, pain that builds as you run or pain in one spot on a bone is worth getting checked by our Chatswood or Sydney CBD physios. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#running",
+    "#beginnerrunner",
+    "#couchto5k",
+    "#5k",
+    "#runninginjury",
+    "#runningtips",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#northshore",
+    "#hybridphysiotherapy",
+    "#newyeargoals"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy giving beginners a walk-run build-up to their first 5km, with strength tips, summer running advice and when soreness is worth a physio check.",
+  "story": {
+    "headline": "First 5km this year?",
+    "body": "Start with 1 minute jogging, 2 minutes walking, 8 times. Three days a week. Slow is the point."
+  },
+  "scheduled_date": "2027-01-05",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

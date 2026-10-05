@@ -1,0 +1,70 @@
+{
+  "id": "T-408",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "'No pain, no gain': the deep massage myth",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Does a massage have to hurt to work?",
+      "sub": "Short answer: no. Here's what the right pressure usually feels like."
+    },
+    {
+      "kind": "body",
+      "title": "Myth: more pain, more benefit",
+      "body": "Research suggests much of massage's effect comes through the nervous system, helping you relax and feel less guarded. Pressure that makes you hold your breath can keep muscles on alert instead."
+    },
+    {
+      "kind": "body",
+      "title": "Aim for good discomfort",
+      "body": "Many therapists use a simple scale. Around 5 to 7 out of 10, where you can still breathe slowly and let your body soften, is a sensible zone for most people."
+    },
+    {
+      "kind": "body",
+      "title": "Bruises aren't a badge",
+      "body": "A little tenderness the next day can be normal. Bruising, sharp pain or feeling worse for several days usually means the pressure was more than your body needed."
+    },
+    {
+      "kind": "body",
+      "title": "Firm doesn't mean forceful",
+      "body": "Deep work can be slow and sustained rather than hard. Sinking in gradually gives your body time to adapt, so your therapist reaches deeper layers without you bracing against them."
+    },
+    {
+      "kind": "body",
+      "title": "Then go and move",
+      "body": "Massage complements active rehab rather than replacing it. Gentle movement afterwards, like a walk or your physio exercises, helps you make the most of that looser feeling."
+    },
+    {
+      "kind": "cta",
+      "headline": "Pressure that works with you",
+      "body": "Our remedial massage therapists tailor pressure to you and check in as they go. Book online — link in bio."
+    }
+  ],
+  "caption": "Does a massage have to hurt to work? Usually, no.\n\n'No pain, no gain' sticks around in massage, but research suggests a lot of the benefit comes from helping your nervous system settle. If you're gripping the table and holding your breath, your muscles are more likely to guard than let go.\n\nA useful guide: around 5 to 7 out of 10, where you can still breathe slowly. Firm work can be slow and sustained rather than forceful. Some tenderness the next day is common; bruising or feeling worse for days is a sign to dial it back.\n\nOur remedial massage therapists adjust pressure to you and pair treatment with simple movement. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#deeptissuemassage",
+    "#massagemyths",
+    "#sydneymassage",
+    "#sydneyremedialmassage",
+    "#sydney",
+    "#northshore",
+    "#recovery",
+    "#musclerecovery",
+    "#selfcare",
+    "#wellbeing",
+    "#hybridphysiotherapy",
+    "#remedialmassagetherapist"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy busting the myth that massage has to hurt to work, with a pressure guide and tips for getting more from a remedial massage.",
+  "story": {
+    "headline": "Massage shouldn't make you hold your breath",
+    "body": "Aim for 5 to 7 out of 10, breathing slowly. Firm can be slow, not forceful."
+  },
+  "scheduled_date": "2027-01-07",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

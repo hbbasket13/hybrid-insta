@@ -1,0 +1,70 @@
+{
+  "id": "T-390",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for rowers and paddlers",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Rower or paddler? Train beyond the boat",
+      "sub": "Pilates builds the control that long sessions on the water ask for."
+    },
+    {
+      "kind": "body",
+      "title": "Hips first, back second",
+      "body": "Rowing asks for lots of hip bend at the catch. When the hips are stiff, the lower back often picks up the slack. Reformer footwork and hip mobility work help share the load."
+    },
+    {
+      "kind": "body",
+      "title": "Rotate from the middle",
+      "body": "Kayakers, outrigger and dragon boat paddlers drive each stroke through rotation. Mid-back and trunk work helps you turn from your ribcage rather than cranking through your shoulders or lower back."
+    },
+    {
+      "kind": "body",
+      "title": "Shoulders that last the distance",
+      "body": "Long sessions ask a lot of the muscles around your shoulder blades. Spring-loaded arm work trains them to keep controlling the shoulder late in a race or a long paddle."
+    },
+    {
+      "kind": "body",
+      "title": "Fit it around the water",
+      "body": "One or two sessions a week, ideally on lighter training days, is a good starting point. Keep the focus on control and endurance rather than chasing fatigue before a big row."
+    },
+    {
+      "kind": "body",
+      "title": "Niggles worth a check",
+      "body": "Sharp rib pain when rowing or breathing deeply, back pain that builds week to week, or a shoulder that aches at night is worth an assessment before adding more training."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready to train off the water?",
+      "body": "Our Pilates team starts with an assessment, then builds a program around your boat, your season and your body. Book online via the link in bio."
+    }
+  ],
+  "caption": "Rowers and paddlers spend hours repeating the same stroke. Pilates helps your body keep up. 🚣\n\nRowing asks for a lot of hip bend at the catch, while kayak, outrigger and dragon boat paddling drive power through trunk rotation. When hips are stiff or the mid-back doesn't turn much, the lower back and shoulders often end up doing extra work.\n\nClinical Pilates targets those gaps: hip mobility, rotation through the ribcage and endurance for the muscles around your shoulder blades. One or two sessions a week on lighter training days is a good starting point.\n\nSharp rib pain or a back that grumbles more each week deserves an assessment first.\n\nOur Pilates team can build a program around your season. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#rowing",
+    "#kayaking",
+    "#outrigger",
+    "#dragonboat",
+    "#paddling",
+    "#sydney",
+    "#sydneypilates",
+    "#northshore",
+    "#crosstraining",
+    "#hybridphysiotherapy",
+    "#core"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining how clinical Pilates supports rowers and paddlers through hip mobility, trunk rotation and shoulder endurance, plus niggles worth checking.",
+  "story": {
+    "headline": "Rower or paddler?",
+    "body": "Add one Pilates session on a lighter training day. Focus on hips, rotation and shoulder blade control."
+  },
+  "scheduled_date": "2026-12-30",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

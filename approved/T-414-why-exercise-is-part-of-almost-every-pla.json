@@ -1,0 +1,70 @@
+{
+  "id": "T-414",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Why exercise is part of almost every plan",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Why we keep giving you exercises",
+      "sub": "Hands-on care helps. Here's why movement does the heavy lifting."
+    },
+    {
+      "kind": "body",
+      "title": "Your body adapts to load",
+      "body": "Muscles, tendons and bones respond to what you ask of them. Gradual, well-chosen exercise builds capacity, so everyday tasks and sport use up less of your reserve."
+    },
+    {
+      "kind": "body",
+      "title": "Hands-on care opens a window",
+      "body": "Treatment from a physio, chiropractor or remedial massage therapist can ease pain and stiffness in the short term. Exercise helps you use that window and keep improving."
+    },
+    {
+      "kind": "body",
+      "title": "Guidelines put it first",
+      "body": "Current guidelines for back pain, knee and hip osteoarthritis and many tendon problems recommend exercise and education as first-line care, with other treatment as a helpful add-on."
+    },
+    {
+      "kind": "body",
+      "title": "Small and specific wins",
+      "body": "Three exercises you actually do usually help more than ten you skip. A good plan fits into your day, has clear doses and changes as you get stronger."
+    },
+    {
+      "kind": "body",
+      "title": "Not just for injuries",
+      "body": "Regular exercise also supports sleep, mood, energy and long-term health. Once a niggle settles, many people keep a short routine going as a simple maintenance habit."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready to start moving?",
+      "body": "At Hybrid Physiotherapy, our team builds exercise into your plan, whoever you see. Book online — link in bio."
+    }
+  ],
+  "caption": "Ever wondered why you leave every appointment with homework?\n\nIt's not busywork. Muscles, tendons and bones adapt to the load you give them, and current guidelines for back pain, arthritis and many tendon problems put exercise and education first. Hands-on treatment can ease pain and stiffness for a while; exercise is what helps you build on it.\n\nThe trick is keeping it small and specific. Three exercises that fit into your day usually help more than ten you never get to. As people settle back into work routines this January, it's a great time to rebuild the habit.\n\nWhether you see a physio, chiropractor, Pilates instructor or remedial massage therapist, our team will build movement into your plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#exerciseismedicine",
+    "#homeexercise",
+    "#strengthtraining",
+    "#rehab",
+    "#movemore",
+    "#newyear",
+    "#sydney",
+    "#northshore",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why exercise is part of almost every treatment plan, from how the body adapts to load to keeping a small, specific routine.",
+  "story": {
+    "headline": "Why the homework?",
+    "body": "Hands-on care eases things for a while. Exercise helps you build on it. Keep it to three."
+  },
+  "scheduled_date": "2027-01-09",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

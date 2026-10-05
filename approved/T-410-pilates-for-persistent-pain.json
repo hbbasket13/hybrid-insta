@@ -1,0 +1,70 @@
+{
+  "id": "T-410",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for persistent pain",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Living with pain that hangs around?",
+      "sub": "How clinical Pilates can help you move with more confidence."
+    },
+    {
+      "kind": "body",
+      "title": "Pain isn't only about tissue",
+      "body": "With persistent pain, the nervous system often becomes more protective, so movement can hurt even after tissues have healed. That pain is real, and it can change with the right approach."
+    },
+    {
+      "kind": "body",
+      "title": "Start below the flare-up line",
+      "body": "A good program begins with movements you can do comfortably, even if they feel too easy. Building from small wins helps your body relearn that moving is okay."
+    },
+    {
+      "kind": "body",
+      "title": "Springs that can support you",
+      "body": "Reformer springs can assist as well as resist, so you can explore ranges that feel daunting on the floor. Your instructor adjusts the support as your confidence grows."
+    },
+    {
+      "kind": "body",
+      "title": "Expect ups and downs",
+      "body": "A flare-up isn't a sign you've gone backwards. It usually means easing off for a few days, then building again. Small, regular sessions often help more than big, irregular ones."
+    },
+    {
+      "kind": "body",
+      "title": "Part of a bigger plan",
+      "body": "Pilates works well alongside physio, sleep, stress management and activities you enjoy. Our Pilates team and physios share notes so your plan stays joined up."
+    },
+    {
+      "kind": "cta",
+      "headline": "Move with more confidence",
+      "body": "Start with a clinical Pilates assessment. Our Pilates team listens to your history and builds sessions at your pace. Book online — link in bio."
+    }
+  ],
+  "caption": "Pain that hangs around for months can make every movement feel like a risk.\n\nWith persistent pain, the nervous system often turns up its protection, so things can hurt even after tissues have healed. Clinical Pilates can help by starting below your flare-up line, using reformer springs for support, and building gradually so your body relearns that moving is okay.\n\nExpect ups and downs along the way. Flare-ups usually mean easing back for a few days, not starting over. New, changing or worsening symptoms are always worth checking with your GP or physio.\n\nOur Pilates team works closely with our physios to keep your plan joined up. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#persistentpain",
+    "#chronicpain",
+    "#painscience",
+    "#backpain",
+    "#movementismedicine",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#rehab",
+    "#hybridphysiotherapy",
+    "#pilatesforrehab"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining how clinical Pilates can help people with persistent pain move with more confidence, starting gently and building gradually.",
+  "story": {
+    "headline": "Persistent pain and Pilates",
+    "body": "Start below your flare-up line. Small wins, built steadily, help movement feel okay again."
+  },
+  "scheduled_date": "2027-01-08",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

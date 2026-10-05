@@ -1,0 +1,71 @@
+{
+  "id": "T-394",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "New to the gym this year: your first four weeks",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "New gym membership? Your first four weeks",
+      "sub": "A week-by-week plan to build up without burning out."
+    },
+    {
+      "kind": "body",
+      "title": "Week 1: learn the moves",
+      "body": "Two or three full-body sessions with light weights. Practise squats, hinges, pushes, pulls and carries. Finish feeling like you could have done more, not flattened."
+    },
+    {
+      "kind": "body",
+      "title": "Week 2: expect some soreness",
+      "body": "Muscle soreness a day or two after training is common when you're new. It usually eases within a few days, and gentle movement tends to help more than complete rest."
+    },
+    {
+      "kind": "body",
+      "title": "Week 3: add a little load",
+      "body": "If every rep of a set feels easy, add a small amount of weight or a couple of reps. Small, steady increases are kinder on tendons and joints than big jumps."
+    },
+    {
+      "kind": "body",
+      "title": "Week 4: check in with yourself",
+      "body": "Are you sleeping okay, recovering between sessions and enjoying it? If so, keep building. If everything aches, ease back a little rather than giving up altogether."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Sharp pain during a lift, pain that lingers more than a few days, joint swelling, or pins and needles down an arm or leg is worth a physio assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Starting the gym this year?",
+      "body": "Our Chatswood and Sydney CBD physios can check your movement, work around old injuries and help you build a plan. Book online via the link in bio."
+    }
+  ],
+  "caption": "Signed up to a gym for the new year? The first month matters most.\n\nMost new starters go too hard in week one, feel wrecked, and quietly stop going. A gradual start tends to stick.\n\nWeek 1: two or three full-body sessions with light weights. Week 2: expect some muscle soreness, which usually settles within a few days. Week 3: if a set feels easy, add a little weight or a couple of reps. Week 4: check your sleep, recovery and enjoyment, then keep building.\n\nSharp pain during a lift, lingering pain or pins and needles down a limb is worth getting assessed.\n\nOur Chatswood and Sydney CBD physios can help you start strong and work around old niggles. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#gym",
+    "#gymbeginner",
+    "#newyearnewgoals",
+    "#strengthtraining",
+    "#weighttraining",
+    "#beginnerworkout",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydney",
+    "#injuryprevention",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy laying out a week-by-week plan for the first four weeks at the gym, plus signs that are worth a physio assessment.",
+  "story": {
+    "headline": "New to the gym?",
+    "body": "Week one: light weights, two or three sessions. Finish feeling like you could do more."
+  },
+  "scheduled_date": "2027-01-02",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

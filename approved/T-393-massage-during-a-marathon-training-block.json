@@ -1,0 +1,69 @@
+{
+  "id": "T-393",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage during a marathon training block",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Marathon block: where massage fits in",
+      "sub": "Big kilometres, tired legs. A realistic look at massage in training."
+    },
+    {
+      "kind": "body",
+      "title": "What massage can help with",
+      "body": "Many runners find massage eases muscle tightness and helps them feel looser between hard sessions. It's a helpful extra, while your plan, sleep and food do most of the recovery work."
+    },
+    {
+      "kind": "body",
+      "title": "Time it around key sessions",
+      "body": "Book lighter massage after a long run or on an easy day. Leave a day or two before speed work or your long run so your legs don't feel heavy when it counts."
+    },
+    {
+      "kind": "body",
+      "title": "Keep the pressure sensible",
+      "body": "Very deep pressure in a big training week can leave you sore. Tell your remedial massage therapist where you are in your block so they can adjust the depth to suit."
+    },
+    {
+      "kind": "body",
+      "title": "Strength still does the heavy lifting",
+      "body": "Calf, quad and glute strength help your legs cope with rising kilometres. Massage complements the strength work and gradual build in your plan; it doesn't replace them."
+    },
+    {
+      "kind": "body",
+      "title": "Tell us about niggles",
+      "body": "Bone pain that builds as you run, pain that changes your stride, or a niggle that's worse each week is worth a physio assessment rather than another massage."
+    },
+    {
+      "kind": "cta",
+      "headline": "Training for a 2027 marathon?",
+      "body": "Our remedial massage therapists work around your training plan and loop in our physios if a niggle needs more. Book online via the link in bio."
+    }
+  ],
+  "caption": "Marathon training block underway? Here's where massage fits. 🏃\n\nMany runners find regular massage helps tight calves and quads feel looser as the kilometres climb. It's a useful extra, but sleep, food, strength work and a sensible build do most of the recovery.\n\nTiming matters: lighter work after long runs or on easy days, and a day or two of space before key sessions. Let your remedial massage therapist know where you are in your block so the pressure suits.\n\nBone pain that builds as you run or a niggle that changes your stride is worth a physio assessment instead.\n\nOur remedial massage therapists can work around your training plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#massagetherapy",
+    "#marathontraining",
+    "#marathon",
+    "#running",
+    "#runners",
+    "#runnerslife",
+    "#sydneyrunners",
+    "#sydney",
+    "#sydneymassage",
+    "#recovery",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on using remedial massage during a marathon training block, covering timing, pressure, strength work and when a niggle needs a physio.",
+  "story": {
+    "headline": "Marathon block underway?",
+    "body": "Book lighter massage on easy days. Leave a day or two before your long run or speed session."
+  },
+  "scheduled_date": "2026-12-31",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

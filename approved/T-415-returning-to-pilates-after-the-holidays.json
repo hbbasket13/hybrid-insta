@@ -1,0 +1,68 @@
+{
+  "id": "T-415",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Returning to Pilates after the holidays",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Back on the reformer this January?",
+      "sub": "A few weeks off is fine. Here's how to ease back in."
+    },
+    {
+      "kind": "body",
+      "title": "You haven't lost it all",
+      "body": "Most people keep much of their strength and control over a few weeks off. It may feel harder for a session or two, but it usually returns faster than it took to build."
+    },
+    {
+      "kind": "body",
+      "title": "Drop a spring or a few reps",
+      "body": "For your first week or two, go a little lighter or do fewer reps than before the break. Finishing a session feeling you had more in the tank is the goal."
+    },
+    {
+      "kind": "body",
+      "title": "Start with the foundations",
+      "body": "Footwork, bridging and breathing patterns help your body reconnect with the reformer. Your instructor can scale back to basics before bringing in your harder exercises again."
+    },
+    {
+      "kind": "body",
+      "title": "Expect a little soreness",
+      "body": "Mild muscle soreness a day or two after your first session back is common. It usually eases within a few days and fades as you settle back into rhythm."
+    },
+    {
+      "kind": "body",
+      "title": "Tell us what changed",
+      "body": "New niggle, a holiday tweak, or a busier year ahead? Let our Pilates team know so your program suits where you are now, not where you left off in December."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ease back in, steadily",
+      "body": "Our Pilates team will review your program and map out your first few weeks back. Book online — link in bio."
+    }
+  ],
+  "caption": "Back on the reformer after the break and feeling a bit rusty? Totally normal.\n\nA few weeks of summer holidays rarely undo your progress. Most people find strength and control come back faster than they took to build. The key is easing in: drop a spring or a few reps, start with foundations like footwork and bridging, and leave each session feeling you had more to give.\n\nSome mild soreness after your first class back is common and usually settles within a few days. If you picked up a new niggle over the holidays, tell your instructor so your program can be adjusted.\n\nOur Pilates team can review your program and plan your first few weeks back. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#pilatesinstructor",
+    "#backtopilates",
+    "#newyear",
+    "#newyearnewroutine",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#strength",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on returning to Pilates after the holidays: what you keep, going lighter, starting with foundations, expected soreness and telling your instructor what changed.",
+  "story": {
+    "headline": "Back to Pilates this week?",
+    "body": "Drop a spring, start with footwork, and leave a little in the tank."
+  },
+  "scheduled_date": "2027-01-11",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

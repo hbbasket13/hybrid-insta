@@ -1,0 +1,70 @@
+{
+  "id": "T-406",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Calf raises done right",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Your calf raises might be too easy",
+      "sub": "Most people rush them. Here's how to make every rep count."
+    },
+    {
+      "kind": "body",
+      "title": "Slow down the lowering",
+      "body": "Take about one second up, a short pause at the top, then three seconds down. The lowering phase carries a lot of the useful load, and rushing it skips the work."
+    },
+    {
+      "kind": "body",
+      "title": "Go all the way up",
+      "body": "Rise as high as you can through the big-toe side of your foot, rather than rolling out to the little toes. Half reps feel busy but leave strength on the table."
+    },
+    {
+      "kind": "body",
+      "title": "Do them bent and straight",
+      "body": "Straight-knee raises mostly load the bigger calf muscle. Bent-knee raises bias the soleus underneath, which does heaps of work when you run. Most good plans include both."
+    },
+    {
+      "kind": "body",
+      "title": "Two legs, one leg, then weight",
+      "body": "When slow single-leg sets of 15 to 20 start to feel easy, add a step for extra range or hold a dumbbell. Build up a little each week rather than jumping ahead."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A sudden sharp pain or pop at the back of the leg, trouble rising onto your toes, or calf swelling and warmth with no clear cause are worth getting assessed promptly."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want calves ready for summer?",
+      "body": "Our Chatswood and Sydney CBD physios check your strength, range and sport, then set a calf program you can do at home. Book online — link in bio."
+    }
+  ],
+  "caption": "Your calf raises might be too easy to do much good.\n\nCalf raises are in almost every running and Achilles program, but they're often done fast, half-height and on autopilot. A few small changes make them far more useful: slow the lowering, rise all the way up, include bent-knee and straight-knee versions, and progress from two legs to one leg to added weight.\n\nWith summer running and beach walks in full swing, it's a good time to give your calves some attention. A sudden pop, trouble rising onto your toes or unexplained calf swelling deserve an assessment rather than more reps.\n\nOur Chatswood and Sydney CBD physios can tailor your calf program to your sport and goals. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#calfraises",
+    "#calfstrength",
+    "#achilles",
+    "#runningtips",
+    "#runnersofsydney",
+    "#strengthtraining",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#northshore",
+    "#physio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy showing how to do calf raises well: slow lowering, full height, bent and straight knee versions, progressions and when to get calf pain checked.",
+  "story": {
+    "headline": "Calf raises: slow it down",
+    "body": "Next set, try one second up, a pause, then three seconds down. Feel the difference?"
+  },
+  "scheduled_date": "2027-01-07",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

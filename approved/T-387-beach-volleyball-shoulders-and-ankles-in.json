@@ -1,0 +1,70 @@
+{
+  "id": "T-387",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Beach volleyball: shoulders and ankles in the sand",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Spiking on sand this summer?",
+      "sub": "Shoulders and ankles work harder on sand. Here's how to prepare."
+    },
+    {
+      "kind": "body",
+      "title": "Sand makes every step harder",
+      "body": "Soft sand shifts under your feet, so calves, ankles and hips work harder with every jump. Keep sessions shorter for the first few weeks and build up as your legs adapt."
+    },
+    {
+      "kind": "body",
+      "title": "Ankles: train the wobble",
+      "body": "Single-leg balance, calf raises and small hops on firm ground a few times a week help ankles cope with uneven sand. A rolled ankle often settles well with early, gradual loading."
+    },
+    {
+      "kind": "body",
+      "title": "Shoulders: build the back side",
+      "body": "Spiking and serving load the back of the shoulder heavily. Band rotations, rows and controlled overhead work twice a week help your shoulder handle a full day of hitting."
+    },
+    {
+      "kind": "body",
+      "title": "Warm up on the sand",
+      "body": "Five minutes of jogging, side shuffles, arm circles and a few easy hits before the first game. Check the sand isn't scorching before going barefoot, and keep water handy."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "An ankle you can't put weight on, a shoulder that feels unstable or slips out, swelling that keeps building, or pain that isn't settling after a week or two is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keen to play all summer?",
+      "body": "Our Sydney CBD and Chatswood physios assess your shoulders and ankles and build a short plan around your season. Book online via the link in bio."
+    }
+  ],
+  "caption": "Beach volleyball season is here, and sand asks a lot of your body. 🏐\n\nSoft sand shifts with every step, so your calves and ankles work overtime, and spiking and serving load the back of the shoulder with every rally.\n\nA few simple habits go a long way: shorter sessions while your legs adapt, single-leg balance and calf raises for your ankles, band rotations and rows for your shoulders, and a proper warm-up on the sand before the first game.\n\nAn ankle you can't stand on, a shoulder that feels unstable, or swelling that keeps building is worth getting assessed.\n\nOur Sydney CBD and Chatswood physios can help you stay on the court all summer. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#beachvolleyball",
+    "#volleyball",
+    "#sportsphysio",
+    "#anklesprain",
+    "#shoulderpain",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydney",
+    "#summersport",
+    "#injuryprevention",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy with tips to prepare shoulders and ankles for beach volleyball, including balance work, shoulder strength, warming up on sand and when to get assessed.",
+  "story": {
+    "headline": "Playing beach volleyball?",
+    "body": "Try 30 seconds of single-leg balance on each side before you hit the sand. Your ankles will thank you."
+  },
+  "scheduled_date": "2026-12-19",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

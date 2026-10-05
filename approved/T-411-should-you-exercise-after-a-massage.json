@@ -1,0 +1,69 @@
+{
+  "id": "T-411",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Should you exercise after a massage?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Gym after a massage: yes or no?",
+      "sub": "It depends on the session and what you're training."
+    },
+    {
+      "kind": "body",
+      "title": "Light movement: usually yes",
+      "body": "A walk, easy cycling or your physio exercises after a massage is generally fine and can help you enjoy that looser feeling. Gentle movement is a good habit here."
+    },
+    {
+      "kind": "body",
+      "title": "Heavy or explosive: maybe wait",
+      "body": "After deep work on a muscle group, some people feel a bit heavy or less springy for a few hours. Many save max lifts, sprints or races for the next day."
+    },
+    {
+      "kind": "body",
+      "title": "Plan around big sessions",
+      "body": "Got a key session this week? Book your massage after it, or a day or two before. That way you're recovering, not testing legs that feel a little different."
+    },
+    {
+      "kind": "body",
+      "title": "Check in the next morning",
+      "body": "Feeling tender for a day is common after firm work. If a spot is still sore when you warm up, drop the intensity and give it another day before going hard."
+    },
+    {
+      "kind": "body",
+      "title": "Massage supports, training builds",
+      "body": "Massage complements active rehab rather than replacing it. Strength and conditioning are still what build capacity over time, so keep your usual training going with sensible timing."
+    },
+    {
+      "kind": "cta",
+      "headline": "Book your massage around training",
+      "body": "Our remedial massage therapists ask about your training week and tailor pressure and timing to suit. Book online — link in bio."
+    }
+  ],
+  "caption": "Massage today, training tonight: good idea or not?\n\nLight movement after a massage is usually fine and can feel great. A walk, an easy spin or your rehab exercises are all reasonable. Heavy lifting, sprints or a race are a different story: after deep work, some people feel heavy or flat for a few hours, so many save the big efforts for the next day.\n\nIf you have a key session or event coming up in the new year, book your massage after it or a day or two before. Massage supports your recovery, while training is still what builds capacity.\n\nOur remedial massage therapists can plan pressure and timing around your week. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#massagetherapy",
+    "#recovery",
+    "#musclerecovery",
+    "#trainingtips",
+    "#gymlife",
+    "#runnersofsydney",
+    "#sydneymassage",
+    "#sydneyremedialmassage",
+    "#sydney",
+    "#sydneyfitness",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on whether to exercise after a massage, covering light movement, heavy sessions, timing around key workouts and checking in the next day.",
+  "story": {
+    "headline": "Training after a massage?",
+    "body": "Light movement: usually fine. Big lifts or sprints: many save them for tomorrow."
+  },
+  "scheduled_date": "2027-01-08",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

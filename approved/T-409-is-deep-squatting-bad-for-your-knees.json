@@ -1,0 +1,70 @@
+{
+  "id": "T-409",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Is deep squatting bad for your knees?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Deep squats and your knees, explained",
+      "sub": "Old gym rules, meet current research."
+    },
+    {
+      "kind": "body",
+      "title": "Knees past toes is normal",
+      "body": "Your knees travel past your toes when you walk downstairs, sit down or pick something up. Research suggests healthy knees usually tolerate deep squats well when load is built up gradually."
+    },
+    {
+      "kind": "body",
+      "title": "Depth is a skill to build",
+      "body": "Squatting deeper shares load between your knees and hips. If depth feels uncomfortable, that's usually a cue to build range and strength over time, rather than avoid it forever."
+    },
+    {
+      "kind": "body",
+      "title": "Find your comfortable depth",
+      "body": "Squat to a box or bench at a height that feels okay, then lower it a little every week or two. Heels on a small wedge can help if your ankles feel stiff."
+    },
+    {
+      "kind": "body",
+      "title": "Let symptoms guide the load",
+      "body": "Mild discomfort that settles within a day is usually okay. Pain that builds rep to rep, or a puffier knee the next morning, means ease the load and progress more slowly."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Locking, giving way, swelling after a twist, or pain that stops you squatting at all is worth assessing rather than training through. A clear plan usually beats guessing."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want to squat with confidence?",
+      "body": "Our Sydney CBD and Chatswood physios look at your knees, hips and ankles, then build a squat progression around your goals. Book online — link in bio."
+    }
+  ],
+  "caption": "Is deep squatting bad for your knees? For most people, no.\n\nThe old 'never let your knees go past your toes' rule doesn't match how we move. You do it every time you walk downstairs. Current research suggests healthy knees generally handle deep squats well when the load is built up gradually.\n\nStart with a box at a comfortable height and lower it bit by bit. Mild discomfort that settles within a day is usually fine; pain that builds rep to rep, or swelling the next morning, means ease off. Locking, giving way or swelling after a twist is worth getting assessed.\n\nOur Sydney CBD and Chatswood physios can build a squat progression around your goals. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#squats",
+    "#kneepain",
+    "#kneehealth",
+    "#strengthtraining",
+    "#gymtips",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#physio",
+    "#hybridphysiotherapy",
+    "#mobility"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining that deep squats are usually fine for healthy knees, how to build depth gradually and when knee symptoms are worth checking.",
+  "story": {
+    "headline": "Knees past toes? Usually fine",
+    "body": "Squat to a box that feels okay. Lower it a little every week or two."
+  },
+  "scheduled_date": "2027-01-08",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}
