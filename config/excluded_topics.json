@@ -1,6 +1,16 @@
 {
   "note": "Topics the clinic owner removed. Posts with these ids are deleted on every render run, and these subjects must not be written again.",
-  "ids": ["T-120", "T-136", "T-137", "T-146", "T-163", "T-235", "T-236"],
+  "ids": [
+    "T-120",
+    "T-136",
+    "T-137",
+    "T-146",
+    "T-163",
+    "T-235",
+    "T-236",
+    "T-354",
+    "T-366"
+  ],
   "topics": [
     "Why your scan report sounds scarier than it is",
     "Can I claim clinical Pilates on my health fund?",
@@ -8,6 +18,8 @@
     "NDIS participants: what we offer",
     "DVA clients: seeing us with your DVA card",
     "How private health extras rebates work",
-    "Private vs small group clinical Pilates"
+    "Private vs small group clinical Pilates",
+    "Is it normal to feel sore after an adjustment?",
+    "Tummy gap after pregnancy (abdominal separation)"
   ]
 }
