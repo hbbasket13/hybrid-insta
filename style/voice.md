@@ -23,3 +23,5 @@
 **Words we avoid:** damage, wear and tear, degenerating, crooked, out of alignment, weak core (as a cause), fix, cure, guaranteed.
 
 **Topics we don't cover (removed by the clinic — never write these again):** why scan reports sound scarier than they are; claiming clinical Pilates on your health fund; claiming remedial massage with HICAPS; NDIS participants: what we offer; DVA clients / seeing us with a DVA card; how private health extras rebates work; private vs small group clinical Pilates.
+
+**Never mention private health insurance:** no health funds, extras cover, rebates from funds or HICAPS, in any service (Pilates included). Medicare plans, WorkCover, CTP, NDIS and DVA may be mentioned where relevant.
