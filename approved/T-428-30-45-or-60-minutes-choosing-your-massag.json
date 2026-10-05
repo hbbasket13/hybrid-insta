@@ -1,0 +1,69 @@
+{
+  "id": "T-428",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "30, 45 or 60 minutes: choosing your massage length",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "30, 45 or 60 minutes: which to book?",
+      "sub": "Match the length to the job, not the habit."
+    },
+    {
+      "kind": "body",
+      "title": "30 minutes: one area, focused",
+      "body": "Good for a single region, like tight shoulders after a desk week or calves after a run. Your therapist can spend real time there without rushing. Ideal if you're fitting it into a lunch break."
+    },
+    {
+      "kind": "body",
+      "title": "45 minutes: two connected areas",
+      "body": "Handy when things link up, like neck and upper back, or lower back and hips. There's time to work both properly plus a quick check of how they're moving together."
+    },
+    {
+      "kind": "body",
+      "title": "60 minutes: a fuller session",
+      "body": "Useful for your first visit, when several areas are bothering you, or during heavy training. It leaves room for a proper chat, assessment and work across more of the body."
+    },
+    {
+      "kind": "body",
+      "title": "Longer isn't automatically better",
+      "body": "More time on one sore spot doesn't always help more. Most people find the right length is the one they can book consistently, alongside the exercise and movement that keep them feeling good."
+    },
+    {
+      "kind": "body",
+      "title": "Not sure? Tell us the goal",
+      "body": "Say what's bothering you and what you want from the session when you book or arrive. Your therapist can suggest a length that fits, and you can always adjust next time."
+    },
+    {
+      "kind": "cta",
+      "headline": "Pick a length, we'll plan it",
+      "body": "Our remedial massage therapists tailor each session to your goal and time. Book online — link in bio."
+    }
+  ],
+  "caption": "Staring at the booking screen wondering whether to pick 30, 45 or 60 minutes?\n\nA quick guide: 30 minutes suits one focused area, like tight shoulders or post-run calves. 45 minutes works well for two connected areas, such as neck and upper back. 60 minutes is useful for a first visit, several areas at once, or a heavy training block.\n\nLonger isn't automatically better. The right length is usually the one you can book consistently, paired with the movement and exercise that keep you feeling good between sessions. If you're unsure, tell your therapist your goal and they can suggest a fit.\n\nOur remedial massage therapists at Hybrid Physiotherapy plan each session around you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#massage",
+    "#sydneymassage",
+    "#sydney",
+    "#northshore",
+    "#musclerecovery",
+    "#deskworker",
+    "#runnersofinstagram",
+    "#tightshoulders",
+    "#selfcare",
+    "#hybridphysiotherapy",
+    "#recovery"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining when to choose a 30, 45 or 60 minute remedial massage, and why consistency matters more than length.",
+  "story": {
+    "headline": "30, 45 or 60 minutes?",
+    "body": "One area: 30. Two connected areas: 45. First visit or several areas: 60. Not sure? Tell us your goal."
+  },
+  "scheduled_date": "2027-01-15",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

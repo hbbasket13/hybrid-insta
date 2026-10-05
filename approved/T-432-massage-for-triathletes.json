@@ -1,0 +1,70 @@
+{
+  "id": "T-432",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for triathletes",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Swim, bike, run: where massage fits",
+      "sub": "Three sports, three sets of tight spots. Plan your recovery."
+    },
+    {
+      "kind": "body",
+      "title": "Three sports, different demands",
+      "body": "Swimming loads the shoulders, upper back and lats. Cycling works the quads, hip flexors and neck. Running hits the calves, hamstrings and feet. Your therapist can spread the work to match your week."
+    },
+    {
+      "kind": "body",
+      "title": "Time it around key sessions",
+      "body": "Most triathletes find a firmer session works well early in a recovery week, and a lighter one in the days before a race. Avoid trying deep work for the first time right before an event."
+    },
+    {
+      "kind": "body",
+      "title": "Focus on what's carrying load",
+      "body": "If the pool block is heavy, shoulders and upper back may need more attention. During a big run phase, calves and feet. Tell your therapist what your training looks like this week."
+    },
+    {
+      "kind": "body",
+      "title": "Massage supports, training builds",
+      "body": "Massage can help you feel looser and recover more comfortably, but strength work, sleep, fuelling and sensible load progressions do most of the heavy lifting for performance and resilience."
+    },
+    {
+      "kind": "body",
+      "title": "When to see a physio instead",
+      "body": "Pain that's sharp, localised to a bone, getting worse each session, or changing how you swim, ride or run is worth a physio assessment rather than more massage."
+    },
+    {
+      "kind": "cta",
+      "headline": "Building toward a race?",
+      "body": "Our remedial massage therapists plan sessions around your training block and race calendar. Book online — link in bio."
+    }
+  ],
+  "caption": "Swim, bike, run, repeat. Summer race season asks a lot of your body.\n\nEach discipline loads something different: shoulders and upper back from the pool, quads, hip flexors and neck from the bike, calves, hamstrings and feet from running. Remedial massage can be planned around whichever block you're in, with firmer work in recovery weeks and lighter sessions close to race day.\n\nMassage is a support act. Strength work, sleep, fuelling and sensible load progressions do most of the work. Sharp, localised or worsening pain is worth a physio assessment instead.\n\nOur remedial massage therapists at Hybrid Physiotherapy can tailor sessions to your training. Book online via the link in bio. 🏊\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#triathlon",
+    "#triathlete",
+    "#sportsmassage",
+    "#swimbikerun",
+    "#sydneymassage",
+    "#sydney",
+    "#northshore",
+    "#triathlontraining",
+    "#musclerecovery",
+    "#endurancesport",
+    "#hybridphysiotherapy",
+    "#massagetherapy",
+    "#recovery"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining how remedial massage fits into triathlon training across swimming, cycling and running, plus when to see a physio instead.",
+  "story": {
+    "headline": "Triathlon block underway?",
+    "body": "Tell your therapist this week's focus: pool, bike or run. We'll spread the work to match what's carrying load."
+  },
+  "scheduled_date": "2027-01-16",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

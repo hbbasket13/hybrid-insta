@@ -1,0 +1,70 @@
+{
+  "id": "T-430",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Nordic walking with poles",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Why some walkers carry two poles",
+      "sub": "Nordic walking: more muscles, same footpath."
+    },
+    {
+      "kind": "body",
+      "title": "What Nordic walking is",
+      "body": "You walk with two specially designed poles, planting each one behind you and pushing back as you stride. It turns a regular walk into a light full-body session using your arms, shoulders and trunk."
+    },
+    {
+      "kind": "body",
+      "title": "Who it often suits",
+      "body": "People easing back after knee or hip niggles, those with back pain who like walking, and anyone wanting a bit more effort without running. Many people say the poles help them feel steadier too."
+    },
+    {
+      "kind": "body",
+      "title": "Getting the poles right",
+      "body": "Standing with the pole tip beside your foot, your elbow should sit near a right angle. Plant the pole level with your opposite heel and push back, keeping your grip relaxed."
+    },
+    {
+      "kind": "body",
+      "title": "Start shorter than you think",
+      "body": "Your shoulders and upper back may feel it at first. Begin with 15 to 20 minutes on flat ground, early morning or evening to dodge the summer heat, and build up gradually."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Joint pain that builds walk after walk, a swollen knee or ankle, chest discomfort or unusual breathlessness are worth getting checked by your GP or physio before adding more."
+    },
+    {
+      "kind": "cta",
+      "headline": "Curious about Nordic walking?",
+      "body": "Our Chatswood and Sydney CBD physios can check your technique and pole height, then build it into your plan. Book online — link in bio."
+    }
+  ],
+  "caption": "Seen walkers carrying two poles around the park and wondered what the point is?\n\nNordic walking uses specially designed poles that you plant behind you and push back on. It brings your arms, shoulders and trunk into a regular walk, and many people say it helps them feel steadier. It often suits people easing back from knee, hip or back niggles.\n\nSet the poles so your elbow sits near a right angle, keep your grip relaxed, and start with 15 to 20 minutes on flat ground. In January heat, early mornings or evenings are kinder. Joint pain that builds, swelling or unusual breathlessness are worth getting checked.\n\nOur Chatswood physios can help you get started. Book online via the link in bio. 🚶\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#nordicwalking",
+    "#walking",
+    "#walkingforhealth",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#northshore",
+    "#kneepain",
+    "#backpain",
+    "#physio",
+    "#hybridphysiotherapy",
+    "#activeageing"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining Nordic walking, who it suits, how to set pole height, how to start in summer, and when to get checked.",
+  "story": {
+    "headline": "Try Nordic walking",
+    "body": "Elbow near a right angle, pole tip by your foot. Start with 15 to 20 flat minutes in the cool of the morning."
+  },
+  "scheduled_date": "2027-01-16",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "T-440",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for carers who lift",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "You care for others. Who cares for you?",
+      "sub": "Lifting and helping someone every day takes a toll. Some ideas to help."
+    },
+    {
+      "kind": "body",
+      "title": "Where carers usually feel it",
+      "body": "Helping someone in and out of bed, the car or the shower loads the lower back, shoulders and forearms. Tension often builds up quietly over weeks."
+    },
+    {
+      "kind": "body",
+      "title": "Massage as part of your routine",
+      "body": "Remedial massage can ease muscle tightness and help you feel less wound up. Many carers find a regular session easier to keep than a one-off."
+    },
+    {
+      "kind": "body",
+      "title": "Small habits that help each day",
+      "body": "Get close before you lift, bend your knees, turn with your feet and use aids like slide sheets when you can. Ask for a hand with the heavier transfers."
+    },
+    {
+      "kind": "body",
+      "title": "Keep realistic expectations",
+      "body": "Massage can help you feel better, but it complements staying active, strength work and good lifting habits. Our physios can help with the strength side if needed."
+    },
+    {
+      "kind": "body",
+      "title": "When to see a physio",
+      "body": "Back pain spreading into the leg, pins and needles, pain that is building week to week, or pain after a sudden awkward lift is worth a physio assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Time to look after yourself?",
+      "body": "Our remedial massage therapists tailor each session to the areas that take the load in your caring role, at Hybrid Physiotherapy. Book online — link in bio."
+    }
+  ],
+  "caption": "Caring for someone is hard work, and your back and shoulders often feel it first.\n\nHelping a partner, parent or child with transfers, showers and car trips loads your lower back, shoulders and forearms every day. Tension tends to build quietly until it's hard to ignore.\n\nRegular remedial massage can help ease that tightness, and works well alongside strength work and lifting habits like getting close, bending your knees and using slide sheets. Pain into the leg, tingling or pain after an awkward lift is worth a physio check.\n\nOur remedial massage therapists at Hybrid Physiotherapy are here for carers too. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#carers",
+    "#carer",
+    "#caregiver",
+    "#backpain",
+    "#shouldertension",
+    "#selfcare",
+    "#manualhandling",
+    "#sydney",
+    "#sydneymassage",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on remedial massage for carers who lift, covering where tension builds, daily lifting habits, realistic expectations and when to see a physio.",
+  "story": {
+    "headline": "Carers need care too",
+    "body": "Get close, bend your knees and turn with your feet. Small habits make daily lifting easier on your back."
+  },
+  "scheduled_date": "2027-01-20",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

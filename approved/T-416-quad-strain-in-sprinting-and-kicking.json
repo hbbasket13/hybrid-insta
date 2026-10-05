@@ -1,0 +1,70 @@
+{
+  "id": "T-416",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Quad strain in sprinting and kicking",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Felt a grab in your thigh mid-sprint?",
+      "sub": "Quad strains are common in summer sport. Here's how they usually settle."
+    },
+    {
+      "kind": "body",
+      "title": "Why the front of the thigh goes",
+      "body": "Sprinting, kicking and sudden changes of pace ask the quads to lengthen and contract hard at once. A strain often shows up as a sharp grab, then tightness and pain on stretching."
+    },
+    {
+      "kind": "body",
+      "title": "The first few days: keep it calm",
+      "body": "Walk within comfort, avoid stretching hard into the pain, and skip sprinting or kicking for now. Gentle movement usually helps more than complete rest or pushing through."
+    },
+    {
+      "kind": "body",
+      "title": "Load it early, but gradually",
+      "body": "Light exercises like isometric holds, bridges and partial squats can start once walking feels easier. The aim is to build strength without flaring it up the next day."
+    },
+    {
+      "kind": "body",
+      "title": "Kicking and sprinting come last",
+      "body": "Running builds from jogging to strides before full sprints. Kicking starts with short, light passes. Rushing this stage is one common reason strains come back."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A pop with heavy bruising, a visible dent in the thigh, trouble walking, or pain that keeps getting worse is worth an assessment sooner rather than later."
+    },
+    {
+      "kind": "cta",
+      "headline": "Thigh still grabbing on sprints?",
+      "body": "Our Chatswood and Sydney CBD physios can assess your strain and plan the steps back to running and kicking. Book online — link in bio."
+    }
+  ],
+  "caption": "Felt a sudden grab in the front of your thigh mid-sprint or mid-kick?\n\nQuad strains are common in summer touch, futsal and footy training. They usually show up as a sharp pull, then tightness and pain when you stretch or sprint.\n\nWhat tends to help: walking within comfort early, avoiding hard stretching into the pain, then starting gentle strength work like isometric holds and partial squats. Running builds back from jogging to strides before full sprints, and kicking returns last, starting with light passes.\n\nA pop with heavy bruising, a dent in the muscle, or trouble walking is worth getting checked sooner.\n\nOur Chatswood physios can map out your return to sport. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#quadstrain",
+    "#thighinjury",
+    "#sportsinjury",
+    "#sprinting",
+    "#footy",
+    "#touchfootball",
+    "#sportsphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneyphysio",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on quad strains from sprinting and kicking: why they happen, the first few days, gradual loading, returning to sprinting and kicking, and when to get checked.",
+  "story": {
+    "headline": "Thigh grab mid-sprint?",
+    "body": "Walk within comfort and skip hard stretching for now. Gentle strength first, sprints and kicks last."
+  },
+  "scheduled_date": "2027-01-11",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

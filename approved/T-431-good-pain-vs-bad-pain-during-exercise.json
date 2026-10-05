@@ -1,0 +1,70 @@
+{
+  "id": "T-431",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Good pain vs bad pain during exercise",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Is this ache okay or not?",
+      "sub": "A simple traffic-light guide for exercise pain."
+    },
+    {
+      "kind": "body",
+      "title": "Some discomfort is expected",
+      "body": "When you load muscles and tendons, a bit of ache is common, especially when starting something new. It doesn't mean you're hurting yourself. Your body is adapting to a new demand."
+    },
+    {
+      "kind": "body",
+      "title": "Green light: keep going",
+      "body": "An ache up to about 3 out of 10 that stays steady during exercise and settles by the next morning is usually fine. Carry on with the plan and progress gradually."
+    },
+    {
+      "kind": "body",
+      "title": "Amber light: adjust the dose",
+      "body": "Pain climbing to 4 or 5 out of 10, or lingering into the next day, is a cue to tweak something. Reduce the weight, range or reps for a session or two, then build back."
+    },
+    {
+      "kind": "body",
+      "title": "Red light: stop and check",
+      "body": "Sharp or stabbing pain, pain that changes how you move, swelling, giving way, or numbness and tingling means stop that exercise and get it assessed before going again."
+    },
+    {
+      "kind": "body",
+      "title": "Track it for a week",
+      "body": "Jot down your pain score during the session and the next morning. Patterns show up quickly, and they help your practitioner adjust your program with much more precision."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure where your pain sits?",
+      "body": "Our team can assess what's going on and set the right dose for you. Book online — link in bio."
+    }
+  ],
+  "caption": "Back in the gym this January and not sure if that ache is okay?\n\nSome discomfort during exercise is normal, especially when you start something new. A simple traffic light helps. Green: an ache up to about 3 out of 10 that settles by the next morning, keep going. Amber: pain climbing to 4 or 5, or lingering into the next day, adjust the weight, range or reps. Red: sharp pain, swelling, giving way, or numbness and tingling, stop and get it checked.\n\nTry logging your pain during a session and the next morning for a week. It makes patterns obvious.\n\nOur team at Hybrid Physiotherapy can help you set the right dose. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#exercisepain",
+    "#painscience",
+    "#strengthtraining",
+    "#gymlife",
+    "#newyearfitness",
+    "#sydneyphysio",
+    "#sydney",
+    "#northshore",
+    "#injuryprevention",
+    "#loadmanagement",
+    "#hybridphysiotherapy",
+    "#rehab",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy using a green, amber and red traffic-light guide to tell normal exercise discomfort from pain that needs adjusting or assessment.",
+  "story": {
+    "headline": "Exercise ache: green or red?",
+    "body": "Up to 3 out of 10 that settles overnight is usually fine. Sharp pain, swelling or tingling means stop and check."
+  },
+  "scheduled_date": "2027-01-16",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

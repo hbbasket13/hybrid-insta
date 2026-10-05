@@ -1,0 +1,70 @@
+{
+  "id": "T-425",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Ankles that keep rolling: rebuilding stability",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Why does that ankle keep rolling?",
+      "sub": "Repeat sprains are common. Rebuilding balance and strength usually helps."
+    },
+    {
+      "kind": "body",
+      "title": "Why it happens again",
+      "body": "After a sprain, the ankle can lose some strength and some of its sense of position. If rehab stops when the pain does, the ankle may not react as quickly next time."
+    },
+    {
+      "kind": "body",
+      "title": "Balance is trainable",
+      "body": "Start by standing on one leg for 30 seconds. Then try it with your eyes closed, on a cushion, or while turning your head. Do it while brushing your teeth."
+    },
+    {
+      "kind": "body",
+      "title": "Strengthen the calf and sides",
+      "body": "Single-leg calf raises and resistance band work for the outside of the ankle build support. A few sets most days, built up over several weeks, is a good starting point for most people."
+    },
+    {
+      "kind": "body",
+      "title": "Add hops and direction changes",
+      "body": "Once balance and strength feel solid, small hops, side-to-side jumps and soft landing drills help prepare the ankle for sport, uneven paths and summer beach runs."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Not being able to put weight on it, bony tenderness, a sense the ankle gives way often, or swelling that won't settle is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Tired of rolling the same ankle?",
+      "body": "Our Sydney CBD and Chatswood physios assess your balance, strength and hop control, then build a stability program. Book online — link in bio."
+    }
+  ],
+  "caption": "Rolled the same ankle again? It's a really common pattern.\n\nAfter a sprain, the ankle can lose some strength and some of its sense of where it is. If rehab stops as soon as the pain fades, it may not react as quickly when you step on an uneven path or land awkwardly.\n\nThe good news is that balance and strength are trainable. Start with single-leg balance while brushing your teeth, add single-leg calf raises and band work, then progress to hops and side-to-side drills over several weeks.\n\nTrouble taking weight, bony tenderness or frequent giving way are worth getting checked.\n\nOur Sydney CBD physios can build a stability program that fits your sport and your week. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#anklesprain",
+    "#rolledankle",
+    "#anklestability",
+    "#balance",
+    "#sportsinjury",
+    "#injuryprevention",
+    "#sportsphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on ankles that keep rolling: why repeat sprains happen, balance training, strength work, hops and direction changes, and when to get checked.",
+  "story": {
+    "headline": "Same ankle, rolled again?",
+    "body": "Stand on one leg while you brush your teeth. Balance is trainable, and it's a good place to start."
+  },
+  "scheduled_date": "2027-01-14",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

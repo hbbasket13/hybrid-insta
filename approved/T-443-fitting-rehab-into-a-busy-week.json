@@ -1,0 +1,70 @@
+{
+  "id": "T-443",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Fitting rehab into a busy week",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Back at work and rehab's slipped?",
+      "sub": "How to keep your exercises going in a full week."
+    },
+    {
+      "kind": "body",
+      "title": "Shorter sessions still count",
+      "body": "Ten focused minutes most days often beats one long session you keep skipping. Ask your practitioner which two or three exercises matter most right now."
+    },
+    {
+      "kind": "body",
+      "title": "Stack exercises onto habits",
+      "body": "Do calf raises while the kettle boils, a few squats before your shower, or a stretch after brushing your teeth. Linking exercises to daily routines makes them easier to remember."
+    },
+    {
+      "kind": "body",
+      "title": "Plan your week on Sunday",
+      "body": "Pop rehab into your calendar like a meeting. Choose specific days and times, and have a short version ready for the days that get away from you."
+    },
+    {
+      "kind": "body",
+      "title": "Make it easy to start",
+      "body": "Keep a band near your desk or a mat by the bed. Removing small barriers makes it much more likely that you'll actually do the exercises."
+    },
+    {
+      "kind": "body",
+      "title": "Tell us what's realistic",
+      "body": "If your program doesn't fit your life, tell our team. We'd rather adjust it to something you can stick with than give you a plan you can't keep up."
+    },
+    {
+      "kind": "cta",
+      "headline": "Need a plan that fits?",
+      "body": "Our team at Hybrid Physiotherapy builds rehab around your schedule, with programs you can do at home, at work or at the gym. Book online — link in bio."
+    }
+  ],
+  "caption": "Back at work after the summer break and your rehab exercises have quietly disappeared?\n\nMost people find it hard to keep exercises going once the week fills up. The good news is that short, regular sessions usually work better than long ones you keep putting off.\n\nTry stacking exercises onto things you already do, booking rehab into your calendar like a meeting, keeping a band at your desk, and having a short version ready for busy days. If your program doesn't fit your life, let us know so we can adjust it.\n\nOur team at Hybrid Physiotherapy is happy to help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#rehab",
+    "#homeexercise",
+    "#exerciseprogram",
+    "#busylife",
+    "#backtowork",
+    "#habits",
+    "#healthyhabits",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#sydneyphysio",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy with practical tips for fitting rehab exercises into a busy working week, including short sessions, habit stacking and planning ahead.",
+  "story": {
+    "headline": "Rehab in a busy week",
+    "body": "Do your calf raises while the kettle boils. Small habits keep rehab going."
+  },
+  "scheduled_date": "2027-01-21",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

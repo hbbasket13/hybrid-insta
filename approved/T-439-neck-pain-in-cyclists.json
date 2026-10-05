@@ -1,0 +1,70 @@
+{
+  "id": "T-439",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Neck pain in cyclists",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Neck stiff after every long ride?",
+      "sub": "Holding your head up on the bike is real work. Here's how to help."
+    },
+    {
+      "kind": "body",
+      "title": "Why cyclists' necks get sore",
+      "body": "On the bike your neck holds your head up and back for hours so you can see the road. The lower the position, the harder those muscles work."
+    },
+    {
+      "kind": "body",
+      "title": "Check your bike set-up",
+      "body": "A reach that's too long or bars that are too low can add strain. Small changes like a shorter stem or raising the bars often make long rides more comfortable."
+    },
+    {
+      "kind": "body",
+      "title": "Change position during the ride",
+      "body": "Move between the hoods, tops and drops, sit up on quiet stretches and gently turn your head side to side. Small changes help your neck share the load."
+    },
+    {
+      "kind": "body",
+      "title": "Strengthen off the bike",
+      "body": "Chin tucks, rows and upper back work twice a week can build capacity for longer rides. Most people notice a difference within a few weeks."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain spreading into the arm, pins and needles, hand weakness, headaches that keep building, or any neck pain after a crash are worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want rides that feel easier?",
+      "body": "Our Sydney CBD physios look at your neck, upper back and how you sit on the bike, then build a plan to suit your riding. Book online — link in bio."
+    }
+  ],
+  "caption": "Neck stiff and achy after every long ride? You're not alone.\n\nOn the bike your neck holds your head up to see the road for hours, and a low or stretched-out position makes those muscles work even harder.\n\nThings to try: check your reach and bar height, change hand positions regularly, sit up on quiet stretches, and add simple neck and upper back strengthening off the bike. Pain into the arm, pins and needles, headaches that build, or neck pain after a crash are worth getting assessed.\n\nOur Sydney CBD and Chatswood physios work with heaps of riders. Book online via the link in bio. 🚴\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#neckpain",
+    "#cycling",
+    "#cyclist",
+    "#roadcycling",
+    "#bikefit",
+    "#sydneycycling",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#sportsphysio"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on neck pain in cyclists, covering why it happens, bike set-up, changing position, strengthening and when to get assessed.",
+  "story": {
+    "headline": "Neck sore on the bike?",
+    "body": "Swap hand positions every few kilometres and sit up on quiet stretches. Your neck will thank you."
+  },
+  "scheduled_date": "2027-01-20",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "T-423",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Heat, ice and massage: what pairs well",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Heat pack before massage, or ice after?",
+      "sub": "How to pair heat, cold and massage so they work together."
+    },
+    {
+      "kind": "body",
+      "title": "Warmth before often helps",
+      "body": "A warm shower or heat pack before a remedial massage can help tight muscles feel easier to work on. Many people find they relax into the session faster."
+    },
+    {
+      "kind": "body",
+      "title": "After: go with what feels good",
+      "body": "Most people simply enjoy a warm shower after a massage. Ice isn't usually needed unless an area feels hot or irritated. Neither is essential for the massage to be useful."
+    },
+    {
+      "kind": "body",
+      "title": "Fresh injury? Skip deep massage",
+      "body": "In the first couple of days after a knock or sprain, cold and gentle movement tend to suit better than firm massage on the area. Your therapist can work elsewhere instead."
+    },
+    {
+      "kind": "body",
+      "title": "Cold plunges and recovery",
+      "body": "Ice baths are popular in summer. They can feel refreshing, but research suggests they don't add much for most people's day-to-day recovery. Use them if you enjoy them."
+    },
+    {
+      "kind": "body",
+      "title": "Movement ties it together",
+      "body": "Heat, cold and massage can all ease how muscles feel for a while. Regular movement and strength work are what help that relief stick between sessions."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a plan for recovery?",
+      "body": "Our remedial massage therapists can tailor your session and suggest simple heat, cold and movement ideas to use at home. Book online — link in bio."
+    }
+  ],
+  "caption": "Heat pack before your massage, ice afterwards, or neither?\n\nHere's a simple way to think about it. Warmth before a remedial massage, like a warm shower or heat pack, often helps tight muscles relax so the session feels easier. Afterwards, go with what feels good. Most people just enjoy a warm shower, and ice usually isn't needed.\n\nThe exception is a fresh knock or sprain. For the first couple of days, gentle movement and cold tend to suit better than deep massage on that spot.\n\nCold plunges are everywhere this summer. Enjoy them if you like them, but they aren't essential for recovery.\n\nOur remedial massage therapists at Hybrid Physiotherapy can tailor your session to how your body feels on the day. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#heatorice",
+    "#heatpack",
+    "#icebath",
+    "#coldplunge",
+    "#recovery",
+    "#musclerecovery",
+    "#sportsmassage",
+    "#selfcare",
+    "#sydneymassage",
+    "#sydney",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on pairing heat, ice and remedial massage: warmth before, what to do after, fresh injuries, cold plunges and why movement matters most.",
+  "story": {
+    "headline": "Heat or ice with your massage?",
+    "body": "Warmth before often helps you relax into it. Afterwards, do what feels good. Fresh injury? Go gentle."
+  },
+  "scheduled_date": "2027-01-13",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

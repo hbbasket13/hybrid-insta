@@ -1,0 +1,70 @@
+{
+  "id": "T-419",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain at the back of the heel from shoes",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "New shoes rubbing the back of your heel?",
+      "sub": "When the heel counter becomes the problem, and what usually helps."
+    },
+    {
+      "kind": "body",
+      "title": "Pressure is often the trigger",
+      "body": "A stiff or high heel counter can press on the back of the heel and the base of the Achilles. Work shoes, new sneakers and summer sandals with a back strap are common culprits."
+    },
+    {
+      "kind": "body",
+      "title": "Change the shoes first",
+      "body": "Swap to shoes with a softer or lower back for a week or two. Some people cut a small notch in the heel tab of old runners, or pad around the sore spot."
+    },
+    {
+      "kind": "body",
+      "title": "Try a small heel raise",
+      "body": "A heel lift or shoes with a slightly higher heel can take some pressure off the base of the Achilles. It's often a helpful short-term step while things settle."
+    },
+    {
+      "kind": "body",
+      "title": "Skip deep stretches off a step",
+      "body": "Dropping your heel off a step can squeeze the sore area. Calf raises on flat ground are usually a better starting point, building up gradually over a few weeks."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A lump that keeps growing, redness and heat, swelling after a fall, or pain that stops you walking normally is worth a proper assessment by a physio."
+    },
+    {
+      "kind": "cta",
+      "headline": "Heel still sore after the swap?",
+      "body": "Our Sydney CBD and Chatswood physios look at your shoes, your calves and your load, then help you plan what comes next. Book online — link in bio."
+    }
+  ],
+  "caption": "New work shoes giving the back of your heel a hard time?\n\nA firm or high heel counter can press on the back of the heel and the base of the Achilles, especially when the shoes are new or you've switched from thongs and sandals to office shoes.\n\nWhat often helps: swapping to shoes with a softer or lower back for a while, padding around the sore spot, and trying a small heel lift. Deep calf stretches off a step can squeeze the area, so flat-ground calf raises built up over a few weeks are usually a better start.\n\nA growing lump, redness and heat, or pain that changes how you walk is worth an assessment.\n\nOur Sydney CBD physios can help you work out the next step. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#heelpain",
+    "#achilles",
+    "#achillestendon",
+    "#footpain",
+    "#shoes",
+    "#officeshoes",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy",
+    "#footcare"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on pain at the back of the heel from shoes: heel counter pressure, changing shoes, heel lifts, avoiding deep step stretches and when to get checked.",
+  "story": {
+    "headline": "Shoes biting your heel?",
+    "body": "Try a softer-backed shoe for a week and swap step stretches for calf raises on flat ground."
+  },
+  "scheduled_date": "2027-01-12",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

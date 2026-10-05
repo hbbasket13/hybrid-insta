@@ -1,0 +1,70 @@
+{
+  "id": "T-435",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Why a sneeze can set off back pain",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "One sneeze and your back seized?",
+      "sub": "Why it happens, and what usually helps next."
+    },
+    {
+      "kind": "body",
+      "title": "Why a sneeze can do it",
+      "body": "A sneeze is a fast, forceful contraction of your trunk muscles, often while you're slightly bent or twisted. If your back is already tired, stiff or sensitive, that sudden load can trigger a spasm."
+    },
+    {
+      "kind": "body",
+      "title": "It's usually the last straw",
+      "body": "The sneeze is often the trigger rather than the whole story. Long sitting, poor sleep, a busy week or a lot of lifting can leave your back more sensitive beforehand."
+    },
+    {
+      "kind": "body",
+      "title": "What tends to help early",
+      "body": "Keep gently moving within comfort, try short walks, and change positions often. Heat can ease muscle guarding. Most acute back pain settles noticeably over days to a few weeks."
+    },
+    {
+      "kind": "body",
+      "title": "Brace for the next one",
+      "body": "Feel a sneeze coming? Stand tall, soften your knees, and put a hand on a bench or wall. Avoiding a bent, twisted position can make the next sneeze far less dramatic."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain spreading down a leg with numbness or weakness, saddle numbness, bladder or bowel changes, or pain with fever or unexplained weight loss need prompt medical attention."
+    },
+    {
+      "kind": "cta",
+      "headline": "Back caught out by a sneeze?",
+      "body": "Our chiropractors assess what's going on and combine hands-on care with movement you can do at home. Book online — link in bio."
+    }
+  ],
+  "caption": "Summer hay fever, one big sneeze, and suddenly your back has locked up?\n\nA sneeze is a fast, forceful contraction of your trunk muscles, often while you're slightly bent or twisted. If your back is already tired or sensitive from long sitting, poor sleep or a busy week, that sudden load can set off a spasm.\n\nEarly on, gentle movement, short walks and heat often help, and most acute back pain settles over days to a few weeks. Next time, stand tall and soften your knees when a sneeze is coming. Leg numbness or weakness, saddle numbness or bladder changes need prompt attention.\n\nOur chiropractors at Hybrid Physiotherapy pair adjustments with exercise and practical advice. Book online via the link in bio. 🤧\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#backpain",
+    "#lowbackpain",
+    "#backspasm",
+    "#hayfever",
+    "#sneeze",
+    "#acutebackpain",
+    "#hybridphysiotherapy",
+    "#backhealth",
+    "#movementismedicine"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why a sneeze can trigger back pain, what usually helps early, how to brace for the next sneeze, and when to seek prompt care.",
+  "story": {
+    "headline": "Back locked after a sneeze?",
+    "body": "Keep gently moving, try short walks and heat. Next time, stand tall and soften your knees."
+  },
+  "scheduled_date": "2027-01-18",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

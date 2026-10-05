@@ -1,0 +1,70 @@
+{
+  "id": "T-442",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Rowing machine technique for a happy back",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Rowing machine leaving your back sore?",
+      "sub": "Technique tweaks that make the erg kinder to your back."
+    },
+    {
+      "kind": "body",
+      "title": "Legs, body, arms",
+      "body": "The drive should start with a strong leg push, then a hinge back from the hips, then the arms finish. Pulling with your arms first puts more strain on your back."
+    },
+    {
+      "kind": "body",
+      "title": "Hinge, don't slump",
+      "body": "Keep a tall chest and tip from the hips rather than rounding through the lower back. Imagine sitting up proud, especially when you're tired late in a session."
+    },
+    {
+      "kind": "body",
+      "title": "Lower the damper setting",
+      "body": "A high damper feels heavier, not better, and can tire your back sooner. Most people do well around the middle setting, which lets you focus on smooth, powerful strokes."
+    },
+    {
+      "kind": "body",
+      "title": "Build volume gradually",
+      "body": "Jumping into long sessions after the break is a common trigger. Start with shorter pieces and add five minutes each week as your back adapts."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain spreading into the leg, pins and needles, numbness, or pain that keeps building despite rest is worth an assessment rather than pushing through."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a smoother stroke?",
+      "body": "Our Chatswood physios can watch your technique, check how your back and hips move, and help you build up safely. Book online — link in bio."
+    }
+  ],
+  "caption": "Back feeling sore after a few sessions on the rowing machine?\n\nThe erg is a great full-body workout, but technique matters. Most back flare-ups come from pulling with the arms first, slumping through the lower back, cranking the damper up or doing too much too soon.\n\nTry this: legs, then body, then arms on the drive, hinge from the hips with a tall chest, keep the damper around the middle, and add about five minutes each week. Pain spreading into the leg, numbness or pain that keeps building is worth getting checked.\n\nOur Chatswood and Sydney CBD physios can help you row with confidence. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#rowingmachine",
+    "#erg",
+    "#indoorrowing",
+    "#backpain",
+    "#lowbackpain",
+    "#gymtips",
+    "#technique",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneyphysio",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on rowing machine technique for a happier back, covering stroke sequence, hip hinge, damper setting, building volume and when to get assessed.",
+  "story": {
+    "headline": "Rowing machine tip",
+    "body": "Legs, body, arms on the drive. Then arms, body, legs on the way back."
+  },
+  "scheduled_date": "2027-01-21",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

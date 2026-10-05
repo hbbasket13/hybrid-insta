@@ -1,0 +1,70 @@
+{
+  "id": "T-424",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Hot-desking at a new office: a quick setup",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Hot-desking? A two-minute setup",
+      "sub": "New desk every day? Here's a quick routine to make it yours."
+    },
+    {
+      "kind": "body",
+      "title": "Chair first, always",
+      "body": "Raise or lower the seat so your feet sit flat and your hips are level with or a little above your knees. Slide back so the backrest supports you."
+    },
+    {
+      "kind": "body",
+      "title": "Then the screen",
+      "body": "Bring the monitor about an arm's length away with the top near eye level. If you're on a laptop, use a riser and a spare keyboard if the office has them."
+    },
+    {
+      "kind": "body",
+      "title": "Keyboard and mouse close",
+      "body": "Pull them in so your elbows rest near your sides. Reaching forward all day loads the shoulders and upper back more than most people notice."
+    },
+    {
+      "kind": "body",
+      "title": "Pack a small kit",
+      "body": "A compact laptop stand and a lumbar cushion fit in most bags. Having your own setup ready makes it far easier to get comfortable at any desk."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back or neck pain that spreads into a limb, pins and needles, numbness, or pain that keeps building over a couple of weeks is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Back stiff from the shuffle?",
+      "body": "Our chiropractors assess how your spine moves and pair hands-on care with exercise and desk tips that suit how you work. Book online — link in bio."
+    }
+  ],
+  "caption": "New office, new desk every morning? Hot-desking doesn't have to mean a stiff back by Friday.\n\nGive yourself two minutes when you sit down. Chair first: feet flat, hips level with or slightly above your knees, back against the backrest. Then the screen: an arm's length away with the top near eye level. Pull your keyboard and mouse close so your elbows rest by your sides.\n\nA compact laptop stand and a lumbar cushion in your bag make it easy to get comfortable anywhere. And no setup replaces getting up regularly.\n\nPain spreading into an arm or leg, pins and needles or numbness are worth getting checked.\n\nOur chiropractors at Hybrid Physiotherapy combine hands-on care with practical desk tips. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#hotdesking",
+    "#officelife",
+    "#deskjob",
+    "#ergonomics",
+    "#workstation",
+    "#backpain",
+    "#neckpain",
+    "#backtowork",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy with a quick hot-desking setup: adjusting the chair, screen position, keyboard and mouse, packing a small kit and when to get checked.",
+  "story": {
+    "headline": "Hot-desking this year?",
+    "body": "Chair first, then screen at eye level, then keyboard close. Two minutes each morning makes any desk yours."
+  },
+  "scheduled_date": "2027-01-14",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

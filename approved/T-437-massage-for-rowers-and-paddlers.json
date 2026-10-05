@@ -1,0 +1,70 @@
+{
+  "id": "T-437",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for rowers and paddlers",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Your stroke rate is up. Your back knows.",
+      "sub": "Rowers and paddlers: where massage fits into your training week."
+    },
+    {
+      "kind": "body",
+      "title": "Where paddlers usually tighten",
+      "body": "Lats, forearms, upper back, hip flexors and the muscles along the spine take most of the load. A remedial massage therapist can work through these areas based on how your sessions feel."
+    },
+    {
+      "kind": "body",
+      "title": "Timing it around sessions",
+      "body": "Most paddlers prefer deeper work a day or two before a hard session, not the morning of a race. Lighter work after a big block can help you feel looser."
+    },
+    {
+      "kind": "body",
+      "title": "What massage can and can't do",
+      "body": "Massage can ease tightness and help you feel recovered. It won't replace sleep, food, a sensible training load or strength work. Think of it as one part of recovery."
+    },
+    {
+      "kind": "body",
+      "title": "Forearms and grip need love too",
+      "body": "Long sessions with a tight grip can leave forearms pumped and sore. Gentle forearm work plus loosening your grip on the handle or shaft often helps a lot."
+    },
+    {
+      "kind": "body",
+      "title": "When to see a physio instead",
+      "body": "Sharp rib pain, pain that's getting worse each session, or pins and needles in the hands are worth a physio assessment rather than just massage."
+    },
+    {
+      "kind": "cta",
+      "headline": "Heavy training block ahead?",
+      "body": "Our remedial massage therapists tailor each session to the muscles your sport loads most, at Hybrid Physiotherapy. Book online — link in bio."
+    }
+  ],
+  "caption": "Rowing or paddling more this summer? Your lats and forearms are probably feeling it. 🚣\n\nPaddle sports load the back, lats, forearms and hip flexors over thousands of strokes. Remedial massage can help ease that tightness and leave you feeling more ready for the next session.\n\nA few tips: schedule deeper work a day or two before hard sessions, keep your grip relaxed, and treat massage as one piece of recovery alongside sleep, food and strength work. Sharp rib pain, worsening pain or tingling hands are worth a physio assessment.\n\nOur remedial massage therapists see heaps of rowers and paddlers at Hybrid Physiotherapy. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#rowing",
+    "#paddling",
+    "#kayaking",
+    "#outrigger",
+    "#dragonboat",
+    "#rowinglife",
+    "#recovery",
+    "#sydney",
+    "#sydneymassage",
+    "#sydneyrowing",
+    "#hybridphysiotherapy",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on remedial massage for rowers and paddlers, covering common tight areas, timing around training, realistic expectations and when to see a physio.",
+  "story": {
+    "headline": "Paddlers: loosen that grip",
+    "body": "A relaxed grip on the handle or shaft can ease pumped, sore forearms. Try it next session."
+  },
+  "scheduled_date": "2027-01-19",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

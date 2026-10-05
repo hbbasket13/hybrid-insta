@@ -1,0 +1,71 @@
+{
+  "id": "T-418",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Back to work after the break: five body checks",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Back at work? Run these five checks",
+      "sub": "A quick audit for your body in your first week back."
+    },
+    {
+      "kind": "body",
+      "title": "1. How's your desk set up?",
+      "body": "Screen at eye level, feet on the floor, keyboard close enough that your elbows rest by your sides. If things got moved over the break, a five-minute reset is worth it."
+    },
+    {
+      "kind": "body",
+      "title": "2. How often do you move?",
+      "body": "Holidays usually mean more walking and less sitting. Back at work, that flips overnight. Aim to stand or walk every 30 to 45 minutes, even briefly."
+    },
+    {
+      "kind": "body",
+      "title": "3. How's your commute?",
+      "body": "Heavy laptop bag on one shoulder? Long drive with the seat reclined? Small changes like a backpack or a lumbar roll can make the first weeks feel easier."
+    },
+    {
+      "kind": "body",
+      "title": "4. Any holiday niggles hanging on?",
+      "body": "A sore knee from beach walks or a stiff back from the long drive home often settles. If it's still there after a couple of weeks, it's worth getting it looked at."
+    },
+    {
+      "kind": "body",
+      "title": "5. Is exercise in the calendar?",
+      "body": "Book it in like a meeting. Two or three short sessions a week is a good starting point, and much easier to keep than an ambitious plan you drop by February."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a hand with your checks?",
+      "body": "Our team of physios, chiropractors, Pilates instructors and remedial massage therapists can help you start the year moving well. Book online — link in bio."
+    }
+  ],
+  "caption": "First week back at work? Give your body the same once-over you give your inbox. 💼\n\nThe switch from holiday mode to desk mode happens overnight. More sitting, less walking, a different commute and maybe a niggle you picked up over the break.\n\nFive quick checks: reset your desk so the screen is at eye level, move every 30 to 45 minutes, look at how you carry your bag or set up your car seat, notice any holiday niggles that haven't settled after a couple of weeks, and book exercise into your calendar like a meeting.\n\nPhysio, chiro, clinical Pilates and remedial massage all sit under one roof at Hybrid Physiotherapy, so our team can point you to the right starting place. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#backtowork",
+    "#newyear",
+    "#officeworker",
+    "#deskjob",
+    "#ergonomics",
+    "#workplacehealth",
+    "#movemore",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#sydney",
+    "#northshore",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy with five body checks for returning to work after the summer break: desk setup, moving often, commute, lingering niggles and scheduling exercise.",
+  "story": {
+    "headline": "Five checks for your first week",
+    "body": "Desk set up? Moving every 30 to 45 minutes? Commute sorted? Niggles settling? Exercise booked in?"
+  },
+  "scheduled_date": "2027-01-12",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

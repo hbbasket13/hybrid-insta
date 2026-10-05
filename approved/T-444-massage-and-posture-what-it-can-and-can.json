@@ -1,0 +1,69 @@
+{
+  "id": "T-444",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage and posture: what it can and can't change",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Can massage change your posture?",
+      "sub": "An honest look at what massage does and doesn't do."
+    },
+    {
+      "kind": "body",
+      "title": "What massage can do",
+      "body": "Massage can ease muscle tension, help you feel less stiff and make moving more comfortable. Many people find it helps them relax and sleep better after a long week."
+    },
+    {
+      "kind": "body",
+      "title": "What it doesn't change",
+      "body": "Massage doesn't reshape your spine or change how you stand for good. Your resting posture is mostly habit, comfort and the shape your body naturally has."
+    },
+    {
+      "kind": "body",
+      "title": "Posture isn't the enemy",
+      "body": "Research suggests there's no single correct posture for everyone. Staying in any one position for too long is usually the bigger issue, so changing position often through the day matters most."
+    },
+    {
+      "kind": "body",
+      "title": "Pair it with movement",
+      "body": "Massage works well alongside regular movement breaks and strength work for your upper back and shoulders. That combination often helps long desk days feel easier and less stiff by the end of the week."
+    },
+    {
+      "kind": "body",
+      "title": "When to see a physio",
+      "body": "Pain spreading into the arm, pins and needles in the hands, headaches that keep building, or neck and back pain that isn't settling after a few weeks is worth a physio assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Shoulders feeling tight lately?",
+      "body": "Our remedial massage therapists work on the tension your desk or daily routine builds, at Hybrid Physiotherapy. Book online — link in bio."
+    }
+  ],
+  "caption": "Can massage change your posture? Honestly, not on its own.\n\nRemedial massage can ease muscle tension, help you feel less stiff and make moving more comfortable. What it doesn't do is reshape your spine or change how you naturally stand.\n\nResearch suggests there's no single correct posture anyway. The bigger issue is usually staying in one position for too long. Massage works well alongside movement breaks and strength work for your upper back and shoulders. Pain into the arm, pins and needles or building headaches are worth a physio check.\n\nOur remedial massage therapists at Hybrid Physiotherapy can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#posture",
+    "#postureawareness",
+    "#deskjob",
+    "#officeworker",
+    "#neckpain",
+    "#shouldertension",
+    "#upperback",
+    "#sydney",
+    "#sydneymassage",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on what remedial massage can and can't change about posture, with realistic expectations and tips to pair massage with movement.",
+  "story": {
+    "headline": "Massage and posture",
+    "body": "Massage eases tension. Changing position often and building strength does the rest."
+  },
+  "scheduled_date": "2027-01-21",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

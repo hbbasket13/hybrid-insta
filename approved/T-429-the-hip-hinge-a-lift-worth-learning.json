@@ -1,0 +1,70 @@
+{
+  "id": "T-429",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "The hip hinge: a lift worth learning",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "One movement that makes lifting easier",
+      "sub": "The hip hinge, broken down step by step."
+    },
+    {
+      "kind": "body",
+      "title": "What a hip hinge actually is",
+      "body": "Hinging means bending mainly from the hips, pushing them back while your chest tips forward. It's the pattern behind picking up a box, lifting a suitcase or getting the washing out of the basket."
+    },
+    {
+      "kind": "body",
+      "title": "Try the dowel drill",
+      "body": "Hold a broomstick along your back, touching your head, upper back and tailbone. Push your hips back with soft knees. If the stick stays in contact at all three points, you're hinging."
+    },
+    {
+      "kind": "body",
+      "title": "Feel it in your hamstrings",
+      "body": "As you hinge, you should feel a stretch building in the back of your thighs. Stop there, then squeeze your glutes and stand tall. Most people only need a modest depth to start."
+    },
+    {
+      "kind": "body",
+      "title": "Your back can still round a bit",
+      "body": "Spines are built to bend, and a little rounding is normal. The hinge simply shares the load with your hips and legs, which can make lifting feel easier, especially when you're tired."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain with leg pain, numbness or weakness, or pain that stops you lifting everyday objects is worth an assessment rather than pushing through drills on your own."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want help with your lifting?",
+      "body": "Our chiropractors assess how you bend and lift, then pair hands-on care with simple drills like this. Book online — link in bio."
+    }
+  ],
+  "caption": "Back to the office, back to lugging laptops and groceries? The hip hinge is worth ten minutes of practice.\n\nA hinge means bending mainly from the hips, pushing them back while your chest tips forward. Try the dowel drill: broomstick along your spine touching head, upper back and tailbone, soft knees, hips back. Feel the stretch in your hamstrings, then squeeze your glutes to stand.\n\nYour back is allowed to round a little. The hinge just shares the load with your hips and legs. If bending brings leg pain, numbness or weakness, get it checked first.\n\nOur chiropractors at Hybrid Physiotherapy use adjustments as one tool alongside exercise and movement coaching. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#hiphinge",
+    "#liftingtechnique",
+    "#backpain",
+    "#lowbackpain",
+    "#movementcoaching",
+    "#hybridphysiotherapy",
+    "#strengthtraining",
+    "#deadlift",
+    "#backhealth"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining the hip hinge, a broomstick drill to practise it, what to feel, and when back pain is worth getting assessed.",
+  "story": {
+    "headline": "Learn the hip hinge",
+    "body": "Broomstick along your back, touching head, upper back and tailbone. Push hips back, feel your hamstrings, stand tall. Repeat ten times."
+  },
+  "scheduled_date": "2027-01-15",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

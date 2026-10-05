@@ -1,0 +1,70 @@
+{
+  "id": "T-433",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "The 'slipped disc' myth",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Discs don't actually slip out",
+      "sub": "Why the 'slipped disc' idea causes more worry than it should."
+    },
+    {
+      "kind": "body",
+      "title": "Discs are firmly attached",
+      "body": "Spinal discs are tough, fibrous structures anchored to the bones above and below. They can bulge or irritate nearby nerves, but they can't slide out of place like a dropped plate."
+    },
+    {
+      "kind": "body",
+      "title": "Bulges often settle",
+      "body": "Research suggests disc bulges and herniations often shrink or settle over time as the body reabsorbs them. Most people with disc-related back or leg pain improve without needing anything invasive."
+    },
+    {
+      "kind": "body",
+      "title": "The word can make it worse",
+      "body": "Believing something has 'slipped out' often leads to fear of bending and moving. That guarding tends to make backs stiffer and more sensitive, which can slow the recovery down."
+    },
+    {
+      "kind": "body",
+      "title": "What usually helps",
+      "body": "Staying gently active, walking, short bouts of comfortable movement through the day, and gradually building strength. Your physio can find positions that ease symptoms and set a realistic plan."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Numbness in the saddle area, changes to bladder or bowel control, or leg weakness that keeps getting worse need urgent medical attention. Ongoing leg pain or pins and needles is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Back pain worrying you?",
+      "body": "Our Sydney CBD and Chatswood physios explain what's likely going on and build a plan to get you moving. Book online — link in bio."
+    }
+  ],
+  "caption": "Ever been told you've 'slipped a disc'? Here's the thing: discs don't actually slip.\n\nSpinal discs are firmly attached to the bones above and below. They can bulge and irritate nearby nerves, but they don't slide out of place. Research suggests many bulges settle over time, and most people with disc-related pain improve with time and the right movement.\n\nThe 'slipped' idea often makes people scared to bend, which can leave backs stiffer and more sensitive. Gentle activity, walking and gradual strength usually help. Saddle numbness, bladder or bowel changes, or worsening leg weakness need urgent attention.\n\nOur Sydney CBD physios can help you make sense of it. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#backpain",
+    "#slippeddisc",
+    "#discbulge",
+    "#sciatica",
+    "#lowbackpain",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswoodphysio",
+    "#painscience",
+    "#physio",
+    "#hybridphysiotherapy",
+    "#backhealth"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why discs don't slip, how disc bulges often settle, why fear can slow recovery, what usually helps and when to get checked.",
+  "story": {
+    "headline": "Discs don't slip",
+    "body": "They're firmly attached and bulges often settle. Gentle walking and movement usually help more than staying still."
+  },
+  "scheduled_date": "2027-01-18",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

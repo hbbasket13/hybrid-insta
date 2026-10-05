@@ -1,0 +1,70 @@
+{
+  "id": "T-422",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Gaming marathons: your neck and back",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Gaming all weekend? Your neck noticed",
+      "sub": "Long sessions are fine. Staying frozen for hours is the tricky part."
+    },
+    {
+      "kind": "body",
+      "title": "It's the stillness, not the game",
+      "body": "Hours in one position, head forward, shoulders up and wrists busy, can leave the neck and back stiff. Any posture held for too long tends to get uncomfortable."
+    },
+    {
+      "kind": "body",
+      "title": "Use the natural breaks",
+      "body": "Loading screens, respawns and the end of a match are perfect cues. Stand up, look over each shoulder, reach your arms overhead. Thirty seconds adds up across a session."
+    },
+    {
+      "kind": "body",
+      "title": "Bring the screen to you",
+      "body": "Sit back in your chair with the screen at eye level and an arm's length away. If you game from the couch, a cushion behind your lower back and the controller resting on a pillow helps."
+    },
+    {
+      "kind": "body",
+      "title": "Balance it with movement",
+      "body": "A walk, a gym session or a swim on gaming days gives your back and neck a different load. Most people find they stiffen up less when they move more overall."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain spreading into an arm or leg, pins and needles, numbness, or stiffness that isn't easing after a few days of moving more is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Neck stiff after the session?",
+      "body": "Our chiropractors assess how your neck and back move, using hands-on care alongside exercise and practical setup tips. Book online — link in bio."
+    }
+  ],
+  "caption": "Gaming marathon over the weekend and your neck is paying for it? 🎮\n\nLong sessions themselves aren't the problem. It's the hours spent frozen in one position, head drifting forward and shoulders creeping up, that tends to leave the neck and back stiff.\n\nA few easy changes: use loading screens and respawns as cues to stand, look over each shoulder and reach overhead. Keep the screen at eye level and about an arm's length away. On the couch, support your lower back and rest the controller on a pillow. And balance gaming days with a walk, swim or gym session.\n\nPain into an arm or leg, pins and needles or numbness are worth getting checked.\n\nOur chiropractors at Hybrid Physiotherapy combine hands-on care with exercise. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#gaming",
+    "#gamer",
+    "#gamingsetup",
+    "#neckpain",
+    "#backpain",
+    "#stiffneck",
+    "#ergonomics",
+    "#movemore",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on gaming and neck and back stiffness: why stillness is the issue, using in-game breaks, screen setup, balancing with exercise and when to get checked.",
+  "story": {
+    "headline": "Gaming marathon planned?",
+    "body": "Every loading screen, stand up and look over each shoulder. Thirty seconds at a time adds up."
+  },
+  "scheduled_date": "2027-01-13",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

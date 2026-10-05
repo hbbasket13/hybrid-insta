@@ -1,0 +1,70 @@
+{
+  "id": "T-426",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates when you have sciatica",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Sciatica flaring? Pilates can still fit",
+      "sub": "Gentle, well-chosen movement often helps more than lying still."
+    },
+    {
+      "kind": "body",
+      "title": "Movement usually beats bed rest",
+      "body": "Current guidelines suggest staying gently active with sciatica. Most people settle over weeks to months, and calm, controlled movement can help your nerve and back feel less sensitive along the way."
+    },
+    {
+      "kind": "body",
+      "title": "Start with what feels easy",
+      "body": "Early sessions often focus on breathing, gentle pelvic tilts and supported positions like lying on your back with knees bent. The aim is to find movement your leg tolerates today."
+    },
+    {
+      "kind": "body",
+      "title": "Expect the plan to change",
+      "body": "Some days you'll do more, some days less. Your instructor adjusts springs, range and positions as symptoms shift, and gradually builds strength through the hips, trunk and legs."
+    },
+    {
+      "kind": "body",
+      "title": "A mild ache is usually okay",
+      "body": "Feeling your leg a little during a session is often fine if it settles within a day. Sharper, spreading pain or new numbness means we ease off and change the exercise."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked first",
+      "body": "Numbness around the groin or saddle area, changes to bladder or bowel control, or weakness that keeps getting worse need prompt medical attention before any exercise program."
+    },
+    {
+      "kind": "cta",
+      "headline": "Sciatica and Pilates, done carefully",
+      "body": "Our Pilates team checks how your leg and back respond, then builds a gentle program around it. Book online — link in bio."
+    }
+  ],
+  "caption": "Sciatica flaring and wondering if Pilates is off the table? Usually it isn't.\n\nCurrent guidelines suggest staying gently active with sciatica, and most people settle over weeks to months. Clinical Pilates can be a calm way to keep moving while your leg is sensitive, starting with breathing, supported positions and small, controlled movements.\n\nExpect the plan to change day to day. A mild ache that settles within a day is often fine. Sharper or spreading pain, or new numbness, is a cue to ease off and adjust. Numbness in the saddle area, bladder or bowel changes, or worsening weakness need prompt medical attention.\n\nOur Pilates team at Hybrid Physiotherapy works alongside our physios so the program matches where you're at. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#sciatica",
+    "#backpain",
+    "#legpain",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#reformerpilates",
+    "#pilatesforbackpain",
+    "#nervepain",
+    "#hybridphysiotherapy",
+    "#movementismedicine",
+    "#lowbackpain"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining how clinical Pilates can be adapted for sciatica, what early sessions look like, how to read mild symptoms, and when to seek medical attention first.",
+  "story": {
+    "headline": "Sciatica? Keep gently moving",
+    "body": "Try lying on your back, knees bent, slow pelvic tilts for one minute. Easy, small and calm is the goal."
+  },
+  "scheduled_date": "2027-01-14",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

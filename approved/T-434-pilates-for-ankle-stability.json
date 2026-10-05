@@ -1,0 +1,69 @@
+{
+  "id": "T-434",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for ankle stability",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Ankles rolling more than they should?",
+      "sub": "How Pilates can help build steadier ankles."
+    },
+    {
+      "kind": "body",
+      "title": "Why ankles feel unsteady",
+      "body": "After a sprain or two, ankles can lose some strength and some of their sense of position. That's often why they feel wobbly on uneven ground, even once the pain has gone."
+    },
+    {
+      "kind": "body",
+      "title": "Footwork on the reformer",
+      "body": "Pressing through the balls of your feet, heels and arches against spring resistance builds calf and foot strength. Your instructor watches that your knee and ankle stay lined up as you work."
+    },
+    {
+      "kind": "body",
+      "title": "Slow heel raises and lowers",
+      "body": "Rising up and lowering down over three to four seconds, first on two feet then one, builds control through the range. Holding a bar or wall at first is completely fine."
+    },
+    {
+      "kind": "body",
+      "title": "Balance, then add a challenge",
+      "body": "Single-leg standing, then eyes closed, a cushion underfoot, or arm movements. Short, regular practice tends to work well. A minute or two a day is a good starting point."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Ankles that keep giving way, swelling that returns after activity, clicking with pain, or pain you can't put weight on after a twist are worth a physio assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Steadier ankles, step by step",
+      "body": "Our Pilates team builds strength and balance work around your ankle and goals. Book online — link in bio."
+    }
+  ],
+  "caption": "Ankles rolling on bushwalks or the sand this summer? Strength and balance can help.\n\nAfter a sprain or two, ankles can lose some strength and some sense of where they are. Clinical Pilates works on both: reformer footwork for calf and foot strength, slow heel raises for control, and balance drills that get progressively harder.\n\nTry this today: stand on one leg near a bench for 30 seconds, then repeat with eyes closed if that's easy. A minute or two a day is a good start. Ankles that keep giving way, recurrent swelling, or pain taking weight after a twist are worth a physio assessment.\n\nOur Pilates team at Hybrid Physiotherapy can tailor a program for you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#anklestability",
+    "#anklesprain",
+    "#balancetraining",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#footstrength",
+    "#injuryprevention",
+    "#hybridphysiotherapy",
+    "#anklerehab"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why ankles feel unsteady after sprains and how clinical Pilates footwork, heel raises and balance work can help, plus when to get checked.",
+  "story": {
+    "headline": "Wobbly ankles?",
+    "body": "Stand on one leg for 30 seconds. Easy? Close your eyes. A minute a day is a solid start."
+  },
+  "scheduled_date": "2027-01-18",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

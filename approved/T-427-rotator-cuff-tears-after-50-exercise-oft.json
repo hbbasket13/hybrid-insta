@@ -1,0 +1,70 @@
+{
+  "id": "T-427",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Rotator cuff tears after 50: exercise often comes first",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Told you have a rotator cuff tear?",
+      "sub": "After 50, a tear is common and exercise is often the first step."
+    },
+    {
+      "kind": "body",
+      "title": "Tears are common with age",
+      "body": "Research suggests many people over 50 have some rotator cuff tearing without any pain at all. So a tear on its own doesn't always explain your sore shoulder or decide what happens next."
+    },
+    {
+      "kind": "body",
+      "title": "Why exercise usually comes first",
+      "body": "For many age-related tears, current guidelines recommend a structured exercise program as a first option. Strengthening the muscles around the shoulder often improves pain and function over a few months."
+    },
+    {
+      "kind": "body",
+      "title": "What the program looks like",
+      "body": "Usually it starts with gentle range and isometric holds, then builds to band and weight work for the cuff, shoulder blade and upper back. Two to three sessions a week is a common rhythm."
+    },
+    {
+      "kind": "body",
+      "title": "Give it a fair trial",
+      "body": "Shoulders tend to improve slowly. Many programs run around three months before progress is judged properly. Tracking things like reaching overhead or sleeping on that side shows change better than daily pain."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked sooner",
+      "body": "A sudden loss of strength after a fall or heavy lift, being unable to lift your arm at all, or a hot, swollen shoulder should be assessed promptly by your physio or GP."
+    },
+    {
+      "kind": "cta",
+      "headline": "Your shoulder, built back up",
+      "body": "Our physios assess your strength and range, then set a progressive program you can do at home or the gym. Book online — link in bio."
+    }
+  ],
+  "caption": "Told you have a rotator cuff tear and wondering what now?\n\nAfter 50, some rotator cuff tearing is common, even in people with no pain. For many age-related tears, current guidelines suggest starting with a structured exercise program, and many people see meaningful improvement in pain and everyday function.\n\nA typical plan starts gently, then builds strength through the cuff, shoulder blade and upper back two to three times a week. Give it a fair trial of around three months, and track real tasks like reaching overhead. A sudden loss of strength after a fall or being unable to lift your arm is worth a prompt check.\n\nOur Sydney CBD and Chatswood physios can walk you through it. Book online via the link in bio. 💪\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#rotatorcuff",
+    "#shoulderpain",
+    "#rotatorcufftear",
+    "#over50",
+    "#strengthtraining",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswoodphysio",
+    "#shoulderrehab",
+    "#physio",
+    "#hybridphysiotherapy",
+    "#healthyageing"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining that rotator cuff tears are common after 50, why exercise is often the first option, what a program looks like, and when to get assessed promptly.",
+  "story": {
+    "headline": "Shoulder tear after 50?",
+    "body": "Exercise is often the first step. Give a structured program around three months and track what you can reach."
+  },
+  "scheduled_date": "2027-01-15",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

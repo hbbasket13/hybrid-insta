@@ -1,0 +1,70 @@
+{
+  "id": "T-441",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "'My pelvis is out': a common myth",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Told your pelvis is 'out'?",
+      "sub": "Pelvises don't pop out of place. Here's what's more likely going on."
+    },
+    {
+      "kind": "body",
+      "title": "Your pelvis is very stable",
+      "body": "The sacroiliac joints are held by some of the strongest ligaments in the body. They move only a few millimetres, so a pelvis slipping 'out' in daily life is very unlikely."
+    },
+    {
+      "kind": "body",
+      "title": "Small differences are normal",
+      "body": "Most people have small differences from side to side in their pelvis and legs. Research suggests these differences usually don't match up with who has pain."
+    },
+    {
+      "kind": "body",
+      "title": "So what is the pain?",
+      "body": "Pain around the pelvis or lower back is often sensitive joints, muscles or tendons that have been overloaded. It usually settles with the right mix of movement and load."
+    },
+    {
+      "kind": "body",
+      "title": "Where adjustments fit in",
+      "body": "Our chiropractors may use adjustments or soft tissue work to ease pain and help you move. They're one tool, used alongside exercise, not a way to put anything back."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain after a fall or accident, pain in pregnancy, numbness, leg weakness, fever with back pain, or changes to bladder or bowel control are worth an assessment promptly."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a clearer explanation?",
+      "body": "Our chiropractors at Hybrid Physiotherapy assess how you move, explain what's going on and give you exercises to keep you moving. Book online — link in bio."
+    }
+  ],
+  "caption": "Ever been told your pelvis is 'out'? It's one of the most common myths we hear.\n\nYour sacroiliac joints are held by very strong ligaments and only move a few millimetres. Small side-to-side differences are normal and usually don't explain who gets pain.\n\nPain around the pelvis is more often sensitive, overloaded tissues that settle with movement and gradual loading. Adjustments can be a useful tool to ease pain and help you move, alongside exercise. Pain after a fall, in pregnancy, or with numbness, weakness or bladder changes is worth getting checked.\n\nOur chiropractors at Hybrid Physiotherapy are happy to explain it all. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#chiro",
+    "#pelvicpain",
+    "#sijoint",
+    "#lowbackpain",
+    "#backpain",
+    "#mythbusting",
+    "#painscience",
+    "#sydneychiro",
+    "#sydneychiropractor",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why the idea of a pelvis being 'out' is a myth, what pelvic pain usually is, where adjustments fit and when to get assessed.",
+  "story": {
+    "headline": "Is your pelvis really 'out'?",
+    "body": "Your pelvis is held by very strong ligaments. Pain there usually settles with movement and gradual loading."
+  },
+  "scheduled_date": "2027-01-20",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

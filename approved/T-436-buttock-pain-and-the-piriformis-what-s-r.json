@@ -1,0 +1,70 @@
+{
+  "id": "T-436",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Buttock pain and the piriformis: what's really going on",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "A pain in the backside after the break?",
+      "sub": "Sore buttock, maybe a tight piriformis. Here's the fuller picture."
+    },
+    {
+      "kind": "body",
+      "title": "Piriformis gets blamed a lot",
+      "body": "The piriformis is a small muscle deep in the buttock. It often gets the blame for buttock pain, but the gluteal tendons, the hip joint and the lower back can all refer pain there too."
+    },
+    {
+      "kind": "body",
+      "title": "Sitting is a common trigger",
+      "body": "Long drives, low couches and back-to-back meetings can all load the buttock. If it grumbles after sitting, try standing up every 30 minutes and avoid sitting on a wallet or phone."
+    },
+    {
+      "kind": "body",
+      "title": "Stretching isn't the whole answer",
+      "body": "A gentle stretch can feel good for a while, but most people do better when they also build strength. Bridges, side-lying leg lifts and step-ups are a good starting point."
+    },
+    {
+      "kind": "body",
+      "title": "Ease back into running and hills",
+      "body": "If the pain started after a big summer of walking or running, trim hills, stairs and pace for a couple of weeks, then build up gradually rather than stopping completely."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain spreading below the knee, pins and needles, numbness, leg weakness, or changes to bladder or bowel control are worth an assessment promptly rather than waiting it out."
+    },
+    {
+      "kind": "cta",
+      "headline": "Buttock pain still lingering?",
+      "body": "Our Chatswood physios check your hip, back and glutes to find where the pain comes from, then build a plan to load it up. Book online — link in bio."
+    }
+  ],
+  "caption": "Sore buttock that flares when you sit? The piriformis might not be the whole story.\n\nThe piriformis often gets the blame, but buttock pain can also come from the gluteal tendons, the hip joint or the lower back. That's why stretching alone often only helps for a while.\n\nWhat usually helps: breaking up long sitting, taking the wallet out of your back pocket, easing off hills and stairs for a bit, and building hip strength with bridges and step-ups. Pain below the knee, numbness, weakness or bladder and bowel changes are worth getting checked promptly.\n\nOur Chatswood and Sydney CBD physios can help you work out what's going on. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#buttockpain",
+    "#piriformis",
+    "#hippain",
+    "#glutes",
+    "#sciatica",
+    "#lowbackpain",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneyphysio",
+    "#northshore",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining that buttock pain blamed on the piriformis can come from several structures, with tips on sitting, strengthening and when to get assessed.",
+  "story": {
+    "headline": "Sore buttock when you sit?",
+    "body": "Stand up every 30 minutes and take the wallet out of your back pocket. Small changes add up."
+  },
+  "scheduled_date": "2027-01-19",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "T-421",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "First week back at the desk: ease your neck in",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Eight-hour desk days again? Ease in",
+      "sub": "Your neck had weeks off screens. Give it a few days to catch up."
+    },
+    {
+      "kind": "body",
+      "title": "Why week one can feel rough",
+      "body": "Over the break, your neck moved more and sat still less. Jumping straight back into long screen days asks a lot. Some stiffness in the first week is common and usually settles."
+    },
+    {
+      "kind": "body",
+      "title": "Break up the long stretches",
+      "body": "For the first week, aim for a short move every 30 minutes: look left and right, tuck your chin gently, roll your shoulders. Then stretch the gaps out as you settle."
+    },
+    {
+      "kind": "body",
+      "title": "Check your laptop height",
+      "body": "Working off a laptop on the desk pulls your gaze down. A riser or a few books, plus a separate keyboard and mouse, keeps your eyes level with the top of the screen."
+    },
+    {
+      "kind": "body",
+      "title": "Keep some holiday movement",
+      "body": "That morning walk or swim you did over the break? Keep a shorter version going before or after work. General movement often helps necks tolerate desk time better."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain running into the arm, pins and needles, hand weakness, or headaches that keep building are worth an assessment rather than waiting it out for weeks."
+    },
+    {
+      "kind": "cta",
+      "headline": "Neck not settling by week two?",
+      "body": "Our Sydney CBD and Chatswood physios can assess your neck and desk habits and give you a short, doable plan. Book online — link in bio."
+    }
+  ],
+  "caption": "First week back at the desk and your neck is already grumbling?\n\nOver the break, most people move more and sit still less. Going straight from that to eight-hour screen days asks a lot of your neck, so some stiffness in week one is common and usually settles.\n\nEase in: take a short movement break every 30 minutes for the first week, get your laptop up so your eyes sit level with the top of the screen, and keep a shorter version of that holiday walk or swim going.\n\nPain into the arm, pins and needles, hand weakness or building headaches are worth getting checked.\n\nOur Sydney CBD physios can help you settle back into desk life. Book online via the link in bio. 🖥️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#neckpain",
+    "#stiffneck",
+    "#deskjob",
+    "#officeworker",
+    "#backtowork",
+    "#ergonomics",
+    "#laptopsetup",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on easing your neck back into desk work after the summer break: why week one feels stiff, movement breaks, laptop height, keeping holiday movement and when to get checked.",
+  "story": {
+    "headline": "Back at the desk this week?",
+    "body": "Move every 30 minutes for week one and raise your laptop. Your neck needs a few days to catch up."
+  },
+  "scheduled_date": "2027-01-13",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}
