@@ -1,0 +1,70 @@
+{
+  "id": "T-447",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Posture braces: are they worth it?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Thinking of buying a posture brace?",
+      "sub": "What they can do, what they can't, and what tends to help more."
+    },
+    {
+      "kind": "body",
+      "title": "What a brace actually does",
+      "body": "Most posture braces pull your shoulders back with straps. Mainly, they act as a reminder: you feel the tug when you slump. They don't strengthen anything on their own while you wear them."
+    },
+    {
+      "kind": "body",
+      "title": "A reminder, not a long-term plan",
+      "body": "Some people find a brace handy for an hour here and there while they build new habits. Wearing one all day, every day, tends to swap one fixed position for another, and stillness is often the real issue."
+    },
+    {
+      "kind": "body",
+      "title": "Movement beats any single position",
+      "body": "Your spine usually feels better when it changes position often. Set a reminder to stand, reach overhead, turn your upper back side to side and walk to refill your water bottle through the day."
+    },
+    {
+      "kind": "body",
+      "title": "Build the muscles that hold you up",
+      "body": "Rows, band pull-aparts and upper back extensions over a rolled towel build the strength to sit and stand comfortably for longer. Twice a week is a good starting point, with chiropractic care as one helpful tool alongside."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Upper back or neck pain with arm pain, pins and needles, weakness, unexplained weight loss, or pain that wakes you at night and keeps building is worth an assessment rather than a new gadget."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a plan instead of straps?",
+      "body": "Our chiropractors look at how you sit, move and work, then combine hands-on care with simple exercises you can keep up. Book online — link in bio."
+    }
+  ],
+  "caption": "Thinking about buying a posture brace? Read this first.\n\nMost braces work as a reminder. You feel the straps tug when you slump, which can be handy for short stints while you build new habits. But they don't strengthen anything while you wear them, and wearing one all day can swap one fixed position for another.\n\nWhat tends to help more: changing position often, plus a couple of short upper back strength sessions each week. Rows, band pull-aparts and towel extensions are a good place to start. Chiropractic care can be one helpful tool alongside that.\n\nArm pain, pins and needles, weakness or pain that wakes you at night is worth getting checked. Our chiropractors are happy to help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#posture",
+    "#posturebrace",
+    "#upperbackpain",
+    "#neckpain",
+    "#deskjob",
+    "#officeworker",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy",
+    "#movemore",
+    "#ergonomics"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining what posture braces can and can't do, why regular movement and upper back strength tend to help more, and when upper back or neck pain is worth getting checked.",
+  "story": {
+    "headline": "Posture brace: worth it?",
+    "body": "Handy as a short-term reminder. For lasting comfort, move often and strengthen your upper back."
+  },
+  "scheduled_date": "2027-01-22",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

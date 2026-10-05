@@ -1,0 +1,69 @@
+{
+  "id": "T-468",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates as a base before you start the gym",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Not sure where to start at the gym?",
+      "sub": "Some people build a base first. Here's how Pilates can fit."
+    },
+    {
+      "kind": "body",
+      "title": "Why a base can help",
+      "body": "Walking into a weights room cold can feel like a lot. A few weeks of guided movement can help you learn how your body moves before adding heavier loads."
+    },
+    {
+      "kind": "body",
+      "title": "You learn the patterns early",
+      "body": "Hinging at the hips, bracing your trunk, controlling a squat. Many Pilates exercises train the same building blocks you'll use with dumbbells and barbells later."
+    },
+    {
+      "kind": "body",
+      "title": "Load you can adjust",
+      "body": "Reformer springs let you start light and add resistance gradually. That makes it easier to build confidence and control without guessing which weight to pick."
+    },
+    {
+      "kind": "body",
+      "title": "It's not either-or",
+      "body": "Pilates isn't a replacement for strength training, and you don't need to finish a set number of classes first. Plenty of people do both from week one."
+    },
+    {
+      "kind": "body",
+      "title": "A simple way to start",
+      "body": "Try one or two sessions a week for a month, then add a short gym session with a few basic lifts. Keep notes on what feels easy and what doesn't."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a steady start?",
+      "body": "Our Pilates team assesses how you move, then sets up a program to build control and strength at a pace that suits you. Book online — link in bio."
+    }
+  ],
+  "caption": "Signed up for the gym and not sure where to begin? Building a base first is one option.\n\nPilates can be a good way to learn movements you'll use later, like hinging at the hips, controlling a squat and keeping your trunk steady. Reformer springs let you start light and add load gradually.\n\nIt isn't a replacement for lifting weights, and there's no magic number of classes to finish first. Plenty of people combine Pilates with a short gym session each week and build up from there.\n\nOur clinical Pilates team at Hybrid Physiotherapy can assess how you move and help you plan your start. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#pilatessydney",
+    "#sydney",
+    "#sydneycbd",
+    "#northshore",
+    "#beginnergym",
+    "#strengthtraining",
+    "#gymbeginner",
+    "#movementmatters",
+    "#getstronger",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining how clinical Pilates can build a movement base before starting the gym, with a simple way to combine both.",
+  "story": {
+    "headline": "New to the gym?",
+    "body": "Try one or two Pilates sessions a week for a month, then add a short gym session with basic lifts."
+  },
+  "scheduled_date": "2027-02-01",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

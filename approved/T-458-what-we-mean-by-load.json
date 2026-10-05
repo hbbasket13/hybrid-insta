@@ -1,0 +1,70 @@
+{
+  "id": "T-458",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What we mean by 'load'",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "'Load': the word we keep saying",
+      "sub": "What it actually means, and why it matters for almost every niggle."
+    },
+    {
+      "kind": "body",
+      "title": "Load is what you ask of tissue",
+      "body": "Load is simply the demand you place on your body: steps, kilos, kilometres, hours at a desk, even stairs. Muscles, tendons and bones all respond to it. It isn't good or bad on its own."
+    },
+    {
+      "kind": "body",
+      "title": "Capacity is what you can handle",
+      "body": "Capacity is how much load your body copes with right now. Niggles often show up when load jumps faster than capacity can keep up, like a sudden return to running after weeks off."
+    },
+    {
+      "kind": "body",
+      "title": "Too little is a problem too",
+      "body": "Resting completely can lower capacity, so the next return feels harder. That's why most rehab keeps you doing something, just at an amount your body can handle while it settles and adapts."
+    },
+    {
+      "kind": "body",
+      "title": "Four dials you can turn",
+      "body": "You can adjust how much (volume), how hard (intensity), how often (frequency) and how long between sessions (recovery). Changing one dial at a time makes it easier to see what your body tolerates."
+    },
+    {
+      "kind": "body",
+      "title": "A simple pain guide",
+      "body": "Mild discomfort during exercise that settles by the next morning is usually acceptable. Pain that builds, lingers past 24 hours or changes how you move suggests easing back a notch."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure how much is enough?",
+      "body": "Our team at Hybrid Physiotherapy looks at what you're doing now and builds a plan that gradually lifts your capacity. Book online — link in bio."
+    }
+  ],
+  "caption": "If you've seen us for a niggle, you've probably heard us say 'load' more than once.\n\nLoad is just the demand you put on your body: steps, kilos, kilometres, hours sitting, flights of stairs. Capacity is how much of that your body handles right now. Most niggles show up when load climbs faster than capacity, and complete rest often lowers capacity too.\n\nThe good news is you have four dials to work with: how much, how hard, how often, and how much recovery in between. Turn one at a time. Mild discomfort that settles by the next morning is usually fine; pain that builds or lingers is a cue to ease back.\n\nOur team can help you find the right settings. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#loadmanagement",
+    "#rehab",
+    "#exercisetherapy",
+    "#injuryprevention",
+    "#strengthtraining",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#sportsinjury",
+    "#sydney",
+    "#sydneyphysio",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining what load and capacity mean, why too little load is also a problem, four ways to adjust it, and a simple pain guide.",
+  "story": {
+    "headline": "What does 'load' mean?",
+    "body": "It's the demand you put on your body. Niggles often appear when load jumps faster than your capacity can keep up."
+  },
+  "scheduled_date": "2027-01-28",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "T-450",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Vacuuming and mopping: easier on your back",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Vacuuming leaves your back grumbling?",
+      "sub": "Small changes to how you clean can make chores feel easier."
+    },
+    {
+      "kind": "body",
+      "title": "Bring the work closer to you",
+      "body": "Long, reaching strokes with the vacuum or mop keep your back leaning forward for ages. Shorter strokes close to your body, with your feet moving along, spread the load across your hips and legs."
+    },
+    {
+      "kind": "body",
+      "title": "Use a lunge stance, not a lean",
+      "body": "Stand with one foot in front of the other and shift your weight forward and back like a fencer. Swap your front foot every room so one side isn't doing all the work."
+    },
+    {
+      "kind": "body",
+      "title": "Adjust the handle height",
+      "body": "Most vacuum wands and mop handles adjust. Aim for a height where you can stand fairly tall with your elbows slightly bent. A handle that's too short pulls you into a stoop for the whole job."
+    },
+    {
+      "kind": "body",
+      "title": "Break the job into short stints",
+      "body": "Do one or two rooms, then stand tall, walk around or put the kettle on. Bending your back is normal and safe; it's usually the long, unbroken stints that leave it feeling stiff."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain with leg pain, numbness or weakness, or pain that keeps building over a week or two, is worth an assessment. Any change in bladder or bowel control needs a doctor straight away."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want chores to feel easier?",
+      "body": "Our chiropractors assess how your back moves and loads, then combine hands-on care with simple strength work that suits your routine. Book online — link in bio."
+    }
+  ],
+  "caption": "Is vacuuming the chore your back dreads most? 🧹\n\nIt's usually not the bending itself. It's the long, reaching strokes and the unbroken stints. A few tweaks help: take shorter strokes close to your body, use a lunge stance and walk with the vacuum, raise the handle so you can stand taller, and swap your front foot between rooms.\n\nThen break it up. One or two rooms, a quick walk or a cuppa, then keep going.\n\nLeg pain, numbness, weakness or pain that keeps building is worth an assessment, and any change in bladder or bowel control needs a doctor straight away.\n\nOur chiropractors can assess how your back moves and help you build the strength to handle everyday jobs. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#lowerbackpain",
+    "#housework",
+    "#cleaning",
+    "#vacuuming",
+    "#everydaymovement",
+    "#backcare",
+    "#movemore",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy with tips to make vacuuming and mopping easier on your back: shorter strokes, a lunge stance, the right handle height and regular breaks, plus when back pain is worth getting checked.",
+  "story": {
+    "headline": "Vacuuming hurting your back?",
+    "body": "Shorter strokes, a lunge stance and a taller handle. Then take a quick break between rooms."
+  },
+  "scheduled_date": "2027-01-23",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

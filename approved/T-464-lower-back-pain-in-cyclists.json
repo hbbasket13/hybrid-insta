@@ -1,0 +1,71 @@
+{
+  "id": "T-464",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Lower back pain in cyclists",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Lower back sore by the last climb?",
+      "sub": "Bike setup, ride load and strength off the bike all play a part."
+    },
+    {
+      "kind": "body",
+      "title": "Hours bent forward add up",
+      "body": "Cycling keeps your back in a flexed position for a long time. Most backs handle it well, but a big jump in ride time, like long summer group rides, can outpace your capacity."
+    },
+    {
+      "kind": "body",
+      "title": "Check your bike setup",
+      "body": "A saddle that's too high or low, or a reach that's too long, can make your back work harder. Small adjustments are often worth trying, ideally one change at a time."
+    },
+    {
+      "kind": "body",
+      "title": "Build up ride time gradually",
+      "body": "Add time or hills a bit at a time rather than jumping from short commutes to long weekend rides. Change hand positions on the bars, and stand on climbs now and then."
+    },
+    {
+      "kind": "body",
+      "title": "Get strong off the bike",
+      "body": "Hip, trunk and back strengthening twice a week, like bridges, side planks and deadlift variations, helps your back tolerate long rides. Most people notice a difference over several weeks."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Changes to bladder or bowel control or numbness around the groin need urgent medical care. Pain spreading down the leg, leg weakness or pain that keeps worsening at night also deserves an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ride longer, back happier",
+      "body": "Our Chatswood and Sydney CBD physios assess your back, ride load and bike position, then build a plan that fits your riding. Book online — link in bio."
+    }
+  ],
+  "caption": "Back feels fine on the flat, then starts aching by the final climb?\n\nCycling holds your back in a bent-forward position for hours. Most backs cope well, but a quick jump in ride time or a bike setup that's slightly off can tip the balance.\n\nWhat tends to help: check saddle height and reach, one change at a time; build ride time and hills gradually; change hand positions and stand on climbs now and then; and add twice-weekly hip and trunk strength work off the bike. Pain spreading down the leg, leg weakness or numbness are worth getting checked.\n\nOur Chatswood physios see plenty of riders from the North Shore. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#cycling",
+    "#cyclist",
+    "#lowerbackpain",
+    "#backpain",
+    "#roadcycling",
+    "#bikefit",
+    "#sportsphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#northshore",
+    "#sydneycycling",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on lower back pain in cyclists, covering ride load, bike setup, gradual build-up, strength off the bike and when to get it checked.",
+  "story": {
+    "headline": "Back sore on long rides?",
+    "body": "Change hand positions often, stand on a climb now and then, and add twice-weekly strength work off the bike."
+  },
+  "scheduled_date": "2027-01-30",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

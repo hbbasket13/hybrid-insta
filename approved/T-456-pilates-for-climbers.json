@@ -1,0 +1,70 @@
+{
+  "id": "T-456",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for climbers",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Strong fingers, cranky shoulders?",
+      "sub": "Where Pilates fits alongside the wall for boulderers and rope climbers."
+    },
+    {
+      "kind": "body",
+      "title": "Climbing is a whole-body pull",
+      "body": "Most climbing training targets fingers and pulling. That leaves shoulders, trunk and hips doing heaps of work without much dedicated training. Pilates gives those areas focused, controlled time under load, away from the wall."
+    },
+    {
+      "kind": "body",
+      "title": "Shoulders that stay steady overhead",
+      "body": "Long reaches and hangs ask your shoulder blades to stay controlled in awkward positions. Reformer arm work, side-lying series and slow overhead patterns build that control gradually, with springs you can adjust as you go."
+    },
+    {
+      "kind": "body",
+      "title": "Trunk tension for steep walls",
+      "body": "On overhangs, keeping your feet on the wall usually comes down to trunk tension. Reformer pikes, side planks and controlled leg work train your trunk to link arms and legs instead of letting your hips sag."
+    },
+    {
+      "kind": "body",
+      "title": "Hips that let you high-step",
+      "body": "High steps, drop knees and heel hooks need hip mobility you can actually use under load. Pilates works on active range, so you're strong at the end of the movement, not just flexible on the floor."
+    },
+    {
+      "kind": "body",
+      "title": "Balance out all that pulling",
+      "body": "Climbers pull far more than they push. Adding pressing, rotation and upper back work through Pilates can help balance things out. Most people start with one or two sessions a week around climbing days."
+    },
+    {
+      "kind": "cta",
+      "headline": "Train for the wall, off the wall",
+      "body": "Our Pilates team at Hybrid Physiotherapy starts with an assessment, then builds a program around your climbing goals and any niggles. Book online — link in bio."
+    }
+  ],
+  "caption": "Strong fingers, cranky shoulders? Plenty of climbers know the feeling.\n\nClimbing training tends to be all about fingers and pulling. Meanwhile your shoulders, trunk and hips are working hard on every reach, high step and overhang, often without much dedicated strength work of their own.\n\nClinical Pilates can fill that gap: steady shoulder control overhead, trunk tension that keeps your feet on steep walls, hip range you can use under load, and some pushing and rotation to balance all that pulling. One or two sessions a week around your climbing days is a common starting point.\n\nOur Pilates team tailors each program to your climbing and any niggles you're carrying. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#climbing",
+    "#bouldering",
+    "#rockclimbing",
+    "#climbingtraining",
+    "#shoulderhealth",
+    "#mobility",
+    "#sydney",
+    "#sydneypilates",
+    "#northshore",
+    "#sydneyclimbing",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining how clinical Pilates can support climbers with shoulder control, trunk tension, hip mobility and balancing out pulling.",
+  "story": {
+    "headline": "Climbers: train the push too",
+    "body": "Most climbing is pulling. Add some pressing, rotation and upper back work off the wall to keep your shoulders happy."
+  },
+  "scheduled_date": "2027-01-27",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

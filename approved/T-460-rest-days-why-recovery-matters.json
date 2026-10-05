@@ -1,0 +1,70 @@
+{
+  "id": "T-460",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Rest days: why recovery matters",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "No rest days since New Year?",
+      "sub": "Recovery is where your body actually adapts to all that training."
+    },
+    {
+      "kind": "body",
+      "title": "Training is the stimulus",
+      "body": "A session stresses muscles, tendons and your nervous system. The adaptation, getting stronger or fitter, mostly happens afterwards while you recover. Skip recovery for long enough and progress often stalls."
+    },
+    {
+      "kind": "body",
+      "title": "Rest doesn't mean the couch",
+      "body": "A rest day can be a walk, an easy swim, gentle mobility or a light Pilates class. Low-intensity movement keeps you moving without adding much to your overall training load."
+    },
+    {
+      "kind": "body",
+      "title": "Sleep is the big one",
+      "body": "Most adults do well with seven to nine hours. Short sleep tends to make sessions feel harder and soreness linger. A consistent bedtime is often more useful than any recovery gadget."
+    },
+    {
+      "kind": "body",
+      "title": "Signs you need more recovery",
+      "body": "Soreness that hangs around for days, heavy legs, poor sleep, irritability, dropping performance or small niggles stacking up can all suggest your recovery isn't keeping up with your training."
+    },
+    {
+      "kind": "body",
+      "title": "Plan rest like you plan sessions",
+      "body": "Most people do well with one or two lighter or rest days a week, and an easier week every month or so. Put them in your calendar so they actually happen."
+    },
+    {
+      "kind": "cta",
+      "headline": "Train hard, recover well",
+      "body": "Our team at Hybrid Physiotherapy can help you balance training and recovery, whether you need physio, Pilates or remedial massage. Book online — link in bio."
+    }
+  ],
+  "caption": "Started the year training every single day? Your body might be asking for a day off.\n\nTraining is the stimulus, but most of the adaptation happens while you recover. Skip recovery for long enough and sessions start feeling harder, soreness lingers and small niggles begin to stack up.\n\nRest doesn't have to mean the couch. A walk, an easy swim or gentle mobility all count. Sleep does a lot of the heavy lifting, so protect your seven to nine hours. Most people do well with one or two lighter days a week, plus an easier week every month or so.\n\nOur team can help you plan training and recovery that fits your goals. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#recovery",
+    "#restday",
+    "#physiotherapy",
+    "#training",
+    "#fitness",
+    "#sleep",
+    "#injuryprevention",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#gymlife",
+    "#sydney",
+    "#sydneyphysio",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why rest days matter, what active recovery looks like, the role of sleep, signs you need more recovery and how to plan rest.",
+  "story": {
+    "headline": "Rest days count as training",
+    "body": "Your body adapts while it recovers. Try a walk or gentle mobility instead of another hard session."
+  },
+  "scheduled_date": "2027-01-29",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

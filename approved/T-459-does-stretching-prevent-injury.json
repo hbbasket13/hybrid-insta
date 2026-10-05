@@ -1,0 +1,71 @@
+{
+  "id": "T-459",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Does stretching prevent injury?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Will stretching stop you getting injured?",
+      "sub": "The research is more mixed than most people expect."
+    },
+    {
+      "kind": "body",
+      "title": "The short answer: not on its own",
+      "body": "Research suggests static stretching by itself doesn't reliably reduce injury risk for most sports. It isn't harmful, and it can help you feel looser. It's just not the protective shield many of us were taught."
+    },
+    {
+      "kind": "body",
+      "title": "What has stronger support",
+      "body": "Current evidence leans towards strength training and structured warm-ups. Strengthening muscles and tendons helps them tolerate the forces of sport, which is where many common injuries come from."
+    },
+    {
+      "kind": "body",
+      "title": "Swap long holds for movement",
+      "body": "Before training, try five to ten minutes of leg swings, lunges, skips and gradually faster efforts. It raises muscle temperature and rehearses the movements you're about to do."
+    },
+    {
+      "kind": "body",
+      "title": "When stretching does make sense",
+      "body": "If your sport needs big range, like dance, gymnastics or martial arts, flexibility work matters. Stretching also suits anyone who simply enjoys it. Keep it if you like it, just pair it with strength."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Sudden pain mid-session, a pop, swelling or bruising, or tightness that keeps returning in the same spot is worth an assessment rather than more stretching."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a smarter injury plan?",
+      "body": "Our Sydney CBD and Chatswood physios look at your sport, training and history, then build a warm-up and strength plan that fits. Book online — link in bio."
+    }
+  ],
+  "caption": "Touching your toes before every run? Here's what the research actually says about stretching and injury.\n\nStatic stretching on its own doesn't seem to reliably lower injury risk for most sports. It's not harmful, and plenty of people enjoy how it feels, but it's not the shield many of us grew up believing in.\n\nWhat has stronger support is strength training and a structured, moving warm-up: leg swings, lunges, skips and some gradually faster efforts. If your sport needs big range, like dance or martial arts, flexibility work still has a clear place.\n\nNow that the working year is back in full swing, it's a good time to set up a routine that fits. Our Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#stretching",
+    "#injuryprevention",
+    "#warmup",
+    "#strengthtraining",
+    "#sportsphysio",
+    "#runners",
+    "#mobility",
+    "#fitnesstips",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining that stretching alone doesn't reliably prevent injury, what has stronger support, when stretching makes sense and when to get checked.",
+  "story": {
+    "headline": "Stretching alone won't protect you",
+    "body": "Pair it with a moving warm-up and twice-weekly strength work. That combination has much stronger research support."
+  },
+  "scheduled_date": "2027-01-28",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

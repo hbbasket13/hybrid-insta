@@ -1,0 +1,70 @@
+{
+  "id": "T-449",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for a stiff upper back",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Upper back feel like a brick wall?",
+      "sub": "How Pilates gets a stiff upper back moving in every direction."
+    },
+    {
+      "kind": "body",
+      "title": "It moves in more than one direction",
+      "body": "Your upper back bends forward, arches back, rotates and side-bends. Desk days mostly use the first one. Pilates deliberately works through all of them, which is often why it feels so good on a stiff back."
+    },
+    {
+      "kind": "body",
+      "title": "Start with wide rib breaths",
+      "body": "Your ribs attach to your upper back, so breathing can help it move. Lie on your back, hands around your lower ribs, and breathe wide into your hands for five slow breaths before you start."
+    },
+    {
+      "kind": "body",
+      "title": "Extension: small chest lifts",
+      "body": "Lying face down, lift your chest a little off the mat by lengthening through the crown of your head. Small and smooth beats big and cranky. On the reformer, the swan does a similar job with support."
+    },
+    {
+      "kind": "body",
+      "title": "Rotation: the open book",
+      "body": "Side-lying with knees bent, open your top arm across to the other side and follow it with your eyes. Let your ribs turn, not just your arm. Eight slow reps each side is a good starting point."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Upper back pain with chest pain or shortness of breath needs prompt medical attention. Pain after a fall, pain that wakes you at night, or tingling into the arms or legs is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want your upper back moving again?",
+      "body": "Our Pilates team starts with an assessment, then builds a program on the mat and reformer that suits your back and your week. Book online — link in bio."
+    }
+  ],
+  "caption": "Upper back feeling like a brick wall after a few weeks back at the desk?\n\nYour upper back is built to bend, arch, rotate and side-bend, but desk days mostly ask for one direction. Pilates works through all of them in a controlled way, which is often why a stiff upper back enjoys it.\n\nA simple start: five wide rib breaths lying on your back, a few small chest lifts lying face down, then eight slow open books each side. Keep it smooth, not forced.\n\nChest pain or breathlessness needs prompt medical care, and pain after a fall or pain that wakes you at night is worth an assessment.\n\nOur Pilates team can build a mat and reformer program around your back. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#upperback",
+    "#thoracicspine",
+    "#stiffback",
+    "#mobility",
+    "#deskjob",
+    "#officeworker",
+    "#backpain",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy showing how Pilates can help a stiff upper back move in every direction, with rib breathing, chest lifts and the open book exercise, plus when upper back pain is worth getting checked.",
+  "story": {
+    "headline": "Upper back stuck?",
+    "body": "Try five wide rib breaths, then eight slow open books each side. Small, smooth movement is a good start."
+  },
+  "scheduled_date": "2027-01-23",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

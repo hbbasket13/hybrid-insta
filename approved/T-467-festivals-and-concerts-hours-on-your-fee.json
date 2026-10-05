@@ -1,0 +1,69 @@
+{
+  "id": "T-467",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Festivals and concerts: hours on your feet",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Big gig, sore back the next day?",
+      "sub": "Standing for hours is its own workout. A few tweaks help."
+    },
+    {
+      "kind": "body",
+      "title": "Standing still is the hard part",
+      "body": "Walking spreads the load around. Standing in one spot for hours keeps the same muscles working, so backs, hips and feet often feel it most by the headline act."
+    },
+    {
+      "kind": "body",
+      "title": "Shift your weight often",
+      "body": "Rock gently heel to toe, swap which foot you lean on, or rest one foot on a step. Small changes every few minutes give tired tissues a short break."
+    },
+    {
+      "kind": "body",
+      "title": "Shoes over style",
+      "body": "Supportive, broken-in shoes with some cushioning usually beat new boots or thin sandals. Your feet are the base for everything above them on a long day."
+    },
+    {
+      "kind": "body",
+      "title": "Pack light, sit when you can",
+      "body": "A heavy bag on one shoulder adds up over hours. Use a small backpack, drink water, and take the seats or grass breaks between sets when they come up."
+    },
+    {
+      "kind": "body",
+      "title": "The day after",
+      "body": "Some stiffness after a long day out is common and usually settles within a day or two. A gentle walk often helps more than a day on the couch."
+    },
+    {
+      "kind": "cta",
+      "headline": "Still stiff days later?",
+      "body": "Our chiropractors assess your back and hips and use adjustments alongside exercises to help you move comfortably. Book online — link in bio."
+    }
+  ],
+  "caption": "Danced through the whole set, then woke up feeling it in your back and feet? You're not alone. 🎶\n\nHours of standing in one spot is surprisingly hard on the body. It's the stillness, not the dancing, that tends to make backs, hips and feet ache.\n\nShift your weight every few minutes, wear supportive shoes you've already broken in, keep your bag light and grab a seat between sets. Most next-day stiffness settles within a day or two, and a gentle walk usually helps.\n\nIf it's hanging around longer, our chiropractors at Hybrid Physiotherapy can take a look. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#festivalseason",
+    "#concert",
+    "#backpain",
+    "#lowerbackpain",
+    "#footpain",
+    "#standing",
+    "#summerinsydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy with tips for festivals and concerts: shifting weight, supportive shoes, light bags, sitting when possible and easing next-day stiffness.",
+  "story": {
+    "headline": "Long gig coming up?",
+    "body": "Wear broken-in shoes, keep your bag light, shift your weight often and sit between sets."
+  },
+  "scheduled_date": "2027-02-01",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

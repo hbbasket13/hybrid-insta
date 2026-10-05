@@ -1,0 +1,70 @@
+{
+  "id": "T-455",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Stiff neck after a cold draught: what's going on",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Did the air-con really stiffen your neck?",
+      "sub": "What's likely going on, and how to ease it."
+    },
+    {
+      "kind": "body",
+      "title": "The draught theory",
+      "body": "Lots of people blame a cold breeze or the office air-con for a stiff neck. There isn't strong evidence that cold air alone causes it, but feeling chilly can make you tense up and hold still."
+    },
+    {
+      "kind": "body",
+      "title": "More likely: stillness and tension",
+      "body": "Hunched shoulders under a vent, a long day without moving, an awkward sleeping position or a stressful week often combine. The muscles guard, the neck feels locked and turning your head catches."
+    },
+    {
+      "kind": "body",
+      "title": "Warmth and gentle movement help",
+      "body": "A warm shower or heat pack can ease the guarding. Then move within comfort: slow turns, looking up and down, and shoulder rolls, a few times every hour. Keeping it completely still rarely helps."
+    },
+    {
+      "kind": "body",
+      "title": "Rethink your desk spot",
+      "body": "If you sit right under the air-con, a light layer over your shoulders or shifting your desk can help you relax instead of bracing. Most stiff necks settle within a few days to a week."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A stiff neck with fever, headache or feeling unwell needs a doctor the same day. Pain after a fall, arm pain, pins and needles, weakness, dizziness, or no improvement after a week is worth an assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Neck still stuck after a few days?",
+      "body": "Our chiropractors assess how your neck moves, then combine gentle hands-on care with simple exercises to help it settle. Book online — link in bio."
+    }
+  ],
+  "caption": "Sitting under the air-con all day and now your neck won't turn?\n\nYou're not alone. There isn't strong evidence that a cold draught alone causes a stiff neck, but feeling chilly can make you hunch and tense up. Add a long day without moving, an awkward sleep or a stressful week, and the neck can feel locked.\n\nWhat often helps: warmth from a shower or heat pack, gentle movement every hour, and a light layer if you sit under a vent. Most stiff necks settle within a few days to a week.\n\nA stiff neck with fever, headache or feeling unwell needs a doctor the same day. Arm symptoms, dizziness or no improvement after a week are worth an assessment. Our chiropractors can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#neckpain",
+    "#stiffneck",
+    "#necktension",
+    "#airconditioning",
+    "#officelife",
+    "#deskjob",
+    "#officeworker",
+    "#movemore",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why a stiff neck after sitting under the air-con is more likely about tension and stillness than cold air, with tips on warmth, gentle movement and desk setup, plus when to get it checked.",
+  "story": {
+    "headline": "Blaming the air-con?",
+    "body": "Cold air may make you tense up, but stillness is often the bigger factor. Warmth plus gentle movement usually helps."
+  },
+  "scheduled_date": "2027-01-27",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

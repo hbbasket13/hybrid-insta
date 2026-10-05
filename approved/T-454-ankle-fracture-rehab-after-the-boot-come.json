@@ -1,0 +1,70 @@
+{
+  "id": "T-454",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Ankle fracture: rehab after the boot comes off",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Boot off, ankle feeling stiff?",
+      "sub": "What rehab after an ankle fracture often looks like, stage by stage."
+    },
+    {
+      "kind": "body",
+      "title": "Your doctor's plan comes first",
+      "body": "Every fracture and every repair is different. Your surgeon or treating doctor sets how much weight you can take and what to avoid. Good rehab works within that protocol, not around it."
+    },
+    {
+      "kind": "body",
+      "title": "Stiffness and swelling are common",
+      "body": "After weeks in a boot, most ankles feel stiff, puffy and a bit unfamiliar. Elevating your leg, gentle ankle pumps and tracing the alphabet with your toes are often a good starting point, if your doctor agrees."
+    },
+    {
+      "kind": "body",
+      "title": "Re-learning to walk evenly",
+      "body": "Many people limp out of habit once the boot is off. Short walks focusing on an even stride, rolling from heel to toe, can help. Using a crutch or stick for a while, if advised, is completely fine."
+    },
+    {
+      "kind": "body",
+      "title": "Build strength and balance gradually",
+      "body": "Calf raises, single-leg balance and step-ups are common next stages once your doctor clears them. Progress depends on your healing and your goals, so timelines vary a lot from person to person."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Contact your doctor promptly if you notice calf pain or swelling that's getting worse, redness or heat around a wound, increasing pain, or numbness in the foot. These need medical review, not just exercise."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready to rebuild that ankle?",
+      "body": "Our Chatswood and Sydney CBD physios work alongside your surgeon's or doctor's protocol to guide each stage of rehab. Book online — link in bio."
+    }
+  ],
+  "caption": "Moon boot finally off, and your ankle feels stiff, swollen and a little untrustworthy?\n\nThat's very common after a fracture. Rehab usually starts with easing stiffness and swelling, then re-learning to walk evenly, then building calf strength and balance. The pace depends on your fracture, any surgery, your healing and your goals, so it varies a lot between people.\n\nYour surgeon's or treating doctor's protocol always comes first. Good physio works within it.\n\nWorsening calf pain or swelling, redness around a wound, increasing pain or numbness in the foot need prompt medical review.\n\nOur Chatswood physios, along with our Sydney CBD team, can guide each stage in line with your doctor's plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#anklefracture",
+    "#brokenankle",
+    "#fracturerehab",
+    "#anklerehab",
+    "#moonboot",
+    "#rehab",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on ankle fracture rehab after the boot comes off: following your doctor's protocol, easing stiffness and swelling, walking evenly, building strength and balance, and signs that need medical review.",
+  "story": {
+    "headline": "Boot off? Next steps",
+    "body": "Follow your doctor's protocol, ease stiffness with gentle ankle pumps, then rebuild walking, strength and balance gradually."
+  },
+  "scheduled_date": "2027-01-27",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

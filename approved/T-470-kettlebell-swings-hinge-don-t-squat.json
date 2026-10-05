@@ -1,0 +1,70 @@
+{
+  "id": "T-470",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Kettlebell swings: hinge, don't squat",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Kettlebell swings hitting your lower back?",
+      "sub": "The swing is a hinge, not a squat. Here's the difference."
+    },
+    {
+      "kind": "body",
+      "title": "Hips back, not knees forward",
+      "body": "In a swing, your hips push back like closing a car door with your bum. Knees bend a little, shins stay fairly upright, and your chest tips forward."
+    },
+    {
+      "kind": "body",
+      "title": "The hips do the lifting",
+      "body": "Snap your hips forward and squeeze your glutes to float the bell. Your arms just guide it. If your shoulders are lifting it, the hips aren't doing their job."
+    },
+    {
+      "kind": "body",
+      "title": "Practise the hinge first",
+      "body": "Stand a foot from a wall and push your hips back to touch it. Then try a kettlebell deadlift. Once that feels smooth, add the swing."
+    },
+    {
+      "kind": "body",
+      "title": "Pick a sensible weight",
+      "body": "A bell you can control for ten crisp reps beats a heavy one you muscle up. Short sets with rest usually keep your form sharper than long, tired sets."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain that spreads into the leg, pins and needles, or pain that's getting worse rather than settling is worth getting assessed before you keep training."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a second set of eyes?",
+      "body": "Our Sydney CBD physios can watch your swing, check how your back and hips move, and set up a plan to train with confidence. Book online — link in bio."
+    }
+  ],
+  "caption": "If kettlebell swings leave your lower back sore, check whether you're hinging or squatting.\n\nA swing is a hip hinge. Hips go back, knees soften slightly, and the power comes from snapping the hips forward. Squatting the bell or lifting with your arms often shifts the work to places that don't enjoy it.\n\nPractise a wall hinge and a kettlebell deadlift first, pick a weight you can control for ten clean reps, and keep sets short. Back pain spreading into the leg or pins and needles are worth an assessment.\n\nOur Sydney CBD and Chatswood physios are happy to look at your technique. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#kettlebell",
+    "#kettlebellswing",
+    "#hiphinge",
+    "#lowerbackpain",
+    "#strengthtraining",
+    "#gymtips",
+    "#exercisetechnique",
+    "#functionalfitness",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining that a kettlebell swing is a hip hinge rather than a squat, with drills, weight selection and when to get back pain checked.",
+  "story": {
+    "headline": "Swing day?",
+    "body": "Do five wall hinges first. Hips back to the wall, chest forward, then snap the hips through."
+  },
+  "scheduled_date": "2027-02-02",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

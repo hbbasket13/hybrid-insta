@@ -1,0 +1,69 @@
+{
+  "id": "T-471",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What happens at a review appointment",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Booked a follow-up? Here's what happens",
+      "sub": "Review sessions build on your first visit. What to expect."
+    },
+    {
+      "kind": "body",
+      "title": "We check in on progress",
+      "body": "Your practitioner will ask how things have been since last time: what's easier, what's still tricky, and how you went with the exercises. Honest answers help most."
+    },
+    {
+      "kind": "body",
+      "title": "We re-test what matters",
+      "body": "The movements or tests from your first visit are usually repeated. Comparing them shows whether things are heading in the right direction and what to focus on next."
+    },
+    {
+      "kind": "body",
+      "title": "Your plan gets adjusted",
+      "body": "Exercises might progress, change or be dropped. Hands-on treatment may be part of the session too, depending on your plan and what your practitioner thinks will help."
+    },
+    {
+      "kind": "body",
+      "title": "Bring your questions",
+      "body": "Jot down anything you've noticed: activities that flare it up, exercises you weren't sure about, or goals like a run or event coming up. It keeps the session focused."
+    },
+    {
+      "kind": "body",
+      "title": "How many reviews?",
+      "body": "It depends on you and how things are tracking. Your practitioner will talk through what makes sense for your goals and progress, and you're always welcome to ask why."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready for your next session?",
+      "body": "Physio, chiro, clinical Pilates and remedial massage are all under one roof at Hybrid Physiotherapy, and our team works together on your plan. Book online — link in bio."
+    }
+  ],
+  "caption": "Wondering what actually happens at a follow-up appointment? Here's a quick look.\n\nA review usually starts with a check-in on how things have been since your last visit and how the exercises went. Your practitioner then re-tests the movements from your first session to see what's changed.\n\nFrom there, your plan gets adjusted. Exercises may progress or change, and hands-on treatment may be part of the session depending on what suits you. Bring notes on what flares things up and any goals coming up.\n\nOur team at Hybrid Physiotherapy is always happy to explain the why behind your plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#followup",
+    "#rehab",
+    "#exerciseprogram",
+    "#whattoexpect",
+    "#alliedhealth",
+    "#sydney",
+    "#northshore",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining what happens at a review appointment: progress check-in, re-testing, plan adjustments, bringing questions and how the number of reviews is decided.",
+  "story": {
+    "headline": "Follow-up coming up?",
+    "body": "Jot down what's easier, what's still tricky, and any exercise questions before you come in."
+  },
+  "scheduled_date": "2027-02-02",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "T-457",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Wrist fracture: rehab after the cast comes off",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Cast off, wrist still stiff?",
+      "sub": "What usually happens next, and how rehab fits around your doctor's plan."
+    },
+    {
+      "kind": "body",
+      "title": "Stiff and weak is expected",
+      "body": "After weeks in a cast, most wrists feel stiff, a bit swollen and weaker than you'd like. That's normal. The joint and muscles have simply been still for a while and need gradual loading again."
+    },
+    {
+      "kind": "body",
+      "title": "Your doctor's protocol comes first",
+      "body": "Every fracture is different. Your surgeon or treating doctor sets what you can do and when, especially after surgery or plates. Rehab follows their plan, and we check in with them if anything is unclear."
+    },
+    {
+      "kind": "body",
+      "title": "Start with easy daily movement",
+      "body": "Once cleared, gentle wrist bends, forearm turns and finger movements through the day are usually a good starting point. Warm water can make it feel easier. Little and often tends to beat one big session."
+    },
+    {
+      "kind": "body",
+      "title": "Build grip and load gradually",
+      "body": "Rehab then usually progresses to squeezing, light weights and eventually pushing through the hand. Everyone moves at a different pace, so progress is guided by your doctor's advice and how the wrist responds, not a calendar."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Contact your doctor or fracture clinic if you notice increasing pain or swelling, numbness or pins and needles, colour or temperature changes in the hand, or pain that seems out of proportion."
+    },
+    {
+      "kind": "cta",
+      "headline": "Get that wrist moving again",
+      "body": "Our Sydney CBD and Chatswood physios work alongside your doctor's plan to rebuild movement, grip and confidence. Bring any fracture clinic notes. Book online — link in bio."
+    }
+  ],
+  "caption": "Cast finally off, and your wrist feels like it belongs to someone else?\n\nThat stiff, slightly swollen, weak feeling is really common after a wrist fracture. The joint and muscles have been still for weeks, and they need to be reintroduced to movement and load gradually.\n\nYour surgeon or treating doctor's protocol always comes first, because every fracture and every repair is different. Within that plan, rehab usually starts with gentle movement little and often, then builds towards grip, light weights and weight-bearing at a pace that suits your wrist. Increasing pain or swelling, numbness, or colour changes in the hand are worth a call to your doctor.\n\nOur Sydney CBD physios work alongside your medical team. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#wristfracture",
+    "#brokenwrist",
+    "#fracturerehab",
+    "#wristpain",
+    "#griptraining",
+    "#rehab",
+    "#sportsinjury",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on wrist fracture rehab after the cast comes off, covering following the doctor's protocol, gentle movement, gradual grip work and when to get it checked.",
+  "story": {
+    "headline": "Cast just came off?",
+    "body": "Stiffness and weakness are expected. Follow your doctor's plan, move little and often, and let rehab build things up gradually."
+  },
+  "scheduled_date": "2027-01-28",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "T-453",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates cues decoded",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "What does 'zip up' actually mean?",
+      "sub": "Four common Pilates cues, translated into plain English."
+    },
+    {
+      "kind": "body",
+      "title": "'Zip up' or 'draw in'",
+      "body": "This means gently tightening your lower tummy, as if doing up snug jeans, at about a third of your effort. It's not about sucking in hard or holding your breath while you move."
+    },
+    {
+      "kind": "body",
+      "title": "'Soften your ribs'",
+      "body": "If your ribs flare up when your arms go overhead, this cue asks you to let them settle down towards your hips. Think of breathing out gently as your arms move, without flattening your whole back."
+    },
+    {
+      "kind": "body",
+      "title": "'Grow tall through your crown'",
+      "body": "Imagine a string lifting the top of your head, not your chin. It encourages length through your neck and spine without forcing you into a stiff, military posture you can't hold for long."
+    },
+    {
+      "kind": "body",
+      "title": "'Shoulders away from your ears'",
+      "body": "This is a light suggestion, not a hard pull down. Let your shoulder blades sit wide and relaxed on your back so your neck isn't doing the work your arms should be doing."
+    },
+    {
+      "kind": "body",
+      "title": "Cue not clicking? Ask",
+      "body": "Cues are shortcuts, and not every cue suits every body. If one doesn't make sense, tell your instructor. A different image, a light touch cue or a quick demo often helps it land."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want cues that make sense?",
+      "body": "Our Pilates team explains the why behind every exercise and tailors cues to how you move and learn. Book online — link in bio."
+    }
+  ],
+  "caption": "Ever been told to 'zip up' in Pilates and quietly wondered what that actually means?\n\nPilates cues are shortcuts, and some make more sense than others. 'Zip up' is a gentle tummy hug, about a third of your effort, with no breath holding. 'Soften your ribs' asks them to settle as your arms go overhead. 'Grow tall' means lengthening through the top of your head, not lifting your chin. 'Shoulders away from your ears' is a light suggestion, not a hard pull down.\n\nIf a cue doesn't click, say so. A different image or a quick demo often makes it land.\n\nOur Pilates team explains the why behind each exercise. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#matpilates",
+    "#pilatescues",
+    "#pilatesinstructor",
+    "#pilatesbeginner",
+    "#pilatestips",
+    "#mindbody",
+    "#corestrength",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy translating four common Pilates cues, zip up, soften your ribs, grow tall and shoulders away from your ears, into plain English, plus encouragement to ask when a cue doesn't make sense.",
+  "story": {
+    "headline": "Pilates cues, translated",
+    "body": "'Zip up' means a gentle tummy hug, about a third of your effort. No breath holding required."
+  },
+  "scheduled_date": "2027-01-25",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "T-463",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Swimmer's shoulder: training load in the pool",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Shoulder grumbling after squad sessions?",
+      "sub": "Often it's the training load in the pool, not just your stroke."
+    },
+    {
+      "kind": "body",
+      "title": "Swimming is high-rep shoulder work",
+      "body": "A single session can mean thousands of arm strokes. Shoulders usually adapt well, but a sudden jump in distance or intensity can outpace their capacity, especially at the start of a new training block."
+    },
+    {
+      "kind": "body",
+      "title": "Watch the sneaky load spikes",
+      "body": "Paddles, pull buoy sets, extra butterfly and long open water swims all add shoulder load. Introduce them gradually, and avoid stacking several increases into the same week."
+    },
+    {
+      "kind": "body",
+      "title": "Mix up the main set",
+      "body": "Kick sets, drills and some backstroke can keep you fit while giving a sore shoulder a lighter week. Breathing to both sides also helps share the load between shoulders."
+    },
+    {
+      "kind": "body",
+      "title": "Train the shoulder on land",
+      "body": "Rotator cuff and shoulder blade strengthening two or three times a week helps your shoulder tolerate pool volume. Bands, light dumbbells or cable work are a good starting point."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Night pain, weakness lifting the arm, clicking with pain, pins and needles down the arm, or pain after a fall are worth an assessment before you build up again."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep your shoulders in the pool",
+      "body": "Our Sydney CBD and Chatswood physios look at your training load, stroke and strength, then plan a gradual build. Book online — link in bio."
+    }
+  ],
+  "caption": "Shoulder starting to grumble after squad or ocean swims? Check what's changed in your training.\n\nSwimming means thousands of arm strokes every session. Most shoulders cope well, but big jumps in distance, new paddle or pull sets, or a run of long open water swims can outpace what your shoulder is ready for.\n\nA few things tend to help: add load gradually, use kick sets, drills and backstroke to lighten a sore week, breathe to both sides, and do rotator cuff and shoulder blade strength work on land. Night pain, weakness or pins and needles down the arm are worth getting assessed.\n\nOur Sydney CBD physios work with plenty of swimmers. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#swimmersshoulder",
+    "#swimming",
+    "#shoulderpain",
+    "#swimtraining",
+    "#openwaterswimming",
+    "#rotatorcuff",
+    "#sportsphysio",
+    "#injuryprevention",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyswimmers",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining swimmer's shoulder as a training load issue, with tips on load spikes, varying sets, land-based strength and when to get it checked.",
+  "story": {
+    "headline": "Sore shoulder after squad?",
+    "body": "Check your load. Paddles, pull sets and big weeks add up fast. Build gradually and train your shoulder on land."
+  },
+  "scheduled_date": "2027-01-30",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

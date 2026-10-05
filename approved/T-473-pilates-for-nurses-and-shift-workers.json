@@ -1,0 +1,70 @@
+{
+  "id": "T-473",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for nurses and shift workers",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Twelve-hour shifts, rotating rosters?",
+      "sub": "How Pilates can fit around a body that never gets a regular week."
+    },
+    {
+      "kind": "body",
+      "title": "What shifts ask of you",
+      "body": "Long hours on your feet, lifting and repositioning, bending over beds and desks, then broken sleep. The body copes better when it has the strength to match."
+    },
+    {
+      "kind": "body",
+      "title": "Build strength for the lifts",
+      "body": "Pilates exercises for the hips, trunk and upper back can help you feel more capable when bending, pushing and turning. Start light and build gradually."
+    },
+    {
+      "kind": "body",
+      "title": "Work with your roster",
+      "body": "You don't need the same day each week. Two sessions in a seven-day stretch is a good starting point, slotted in on days off or before a later start."
+    },
+    {
+      "kind": "body",
+      "title": "Go gentler after nights",
+      "body": "After a run of night shifts, a lighter session focused on mobility and breathing often suits better than a hard workout. Adjust to how you've slept."
+    },
+    {
+      "kind": "body",
+      "title": "Five minutes on shift days",
+      "body": "On busy weeks, try a short routine at home: bridges, side-lying leg lifts and a few cat-cow stretches. Something small and regular keeps the habit going."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want a plan around your roster?",
+      "body": "Our Pilates team assesses how you move and builds a program that fits around your shifts. Book online — link in bio."
+    }
+  ],
+  "caption": "Nurse, paramedic or shift worker? Your body rarely gets a regular week.\n\nLong hours on your feet, lots of bending and lifting, and broken sleep all add up. Building strength through the hips, trunk and upper back can help you feel more capable on shift.\n\nYou don't need the same class time every week. Two sessions in any seven-day stretch is a good starting point, gentler sessions after nights, and a five-minute home routine when the roster gets busy.\n\nOur clinical Pilates team at Hybrid Physiotherapy can build a program that suits your shifts. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#pilatessydney",
+    "#sydney",
+    "#northshore",
+    "#sydneycbd",
+    "#nurses",
+    "#nurselife",
+    "#shiftwork",
+    "#healthcareworkers",
+    "#backhealth",
+    "#strengthtraining",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on clinical Pilates for nurses and shift workers, covering strength for lifting, fitting sessions around a roster, gentler sessions after nights and a short home routine.",
+  "story": {
+    "headline": "Off a run of night shifts?",
+    "body": "Try a gentle routine: bridges, side-lying leg lifts and cat-cow. Five minutes is enough."
+  },
+  "scheduled_date": "2027-02-03",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

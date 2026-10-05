@@ -1,0 +1,70 @@
+{
+  "id": "T-446",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates props: ball, ring and band",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Ball, ring, band: what are they for?",
+      "sub": "The small props in Pilates each do a different job."
+    },
+    {
+      "kind": "body",
+      "title": "The small ball: feedback and support",
+      "body": "A soft, half-inflated ball can sit behind your back, between your knees or under your pelvis. It gives you something to feel against, which makes it easier to notice what's moving and what's staying steady."
+    },
+    {
+      "kind": "body",
+      "title": "The ring: a gentle squeeze target",
+      "body": "The Pilates ring (sometimes called a magic circle) adds light resistance when you press it between your hands or thighs. It's handy for waking up inner thighs, chest and arms without heavy load."
+    },
+    {
+      "kind": "body",
+      "title": "The band: resistance you can adjust",
+      "body": "Bands let you change the challenge just by shortening your grip or swapping colours. They suit shoulders, hips and ankles, and they fit in a drawer, so your home program can travel with you."
+    },
+    {
+      "kind": "body",
+      "title": "Props can make it easier, too",
+      "body": "A common myth is that props only make exercises tougher. Often they do the opposite: a ball under your head or a band assisting a roll-up can help you learn a movement well before you load it up."
+    },
+    {
+      "kind": "body",
+      "title": "Start with one prop at home",
+      "body": "Pick the prop that matches your goals, learn two or three exercises with it properly, then build up. A band and a small ball cost little and cover most home routines between sessions."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure which prop suits you?",
+      "body": "Our Pilates team can show you how to use each prop safely and build them into a program that suits your body. Book online — link in bio."
+    }
+  ],
+  "caption": "That little ball, the ring and the stretchy band in Pilates aren't just there for decoration.\n\nEach prop does a different job. The small ball gives you feedback, so you can feel what's moving and what's staying steady. The ring adds light resistance for inner thighs, chest and arms. Bands let you adjust the challenge in seconds and pack easily for a home program.\n\nAnd props don't only make exercises harder. Often they make a movement more accessible, so you can learn it well before adding load.\n\nOur Pilates team at Hybrid Physiotherapy can show you which props suit your goals and how to use them safely between sessions. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#pilatesprops",
+    "#pilatesring",
+    "#pilatesball",
+    "#resistanceband",
+    "#homeworkout",
+    "#pilatesathome",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy",
+    "#corestrength",
+    "#pilatestips"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining what the small ball, Pilates ring and resistance band each do in Pilates, how props can make exercises easier as well as harder, and how to start using one at home.",
+  "story": {
+    "headline": "Pilates props, decoded",
+    "body": "Ball for feedback, ring for a gentle squeeze, band for adjustable resistance. Each can make a move easier or harder."
+  },
+  "scheduled_date": "2027-01-22",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

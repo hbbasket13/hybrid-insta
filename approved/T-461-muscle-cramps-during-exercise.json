@@ -1,0 +1,71 @@
+{
+  "id": "T-461",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Muscle cramps during exercise",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Calf cramp mid-run again?",
+      "sub": "Why cramps happen and what tends to help, on the spot and long term."
+    },
+    {
+      "kind": "body",
+      "title": "It's not always about salt",
+      "body": "Dehydration and electrolytes often get the blame, but research suggests muscle fatigue plays a big role. Cramps tend to hit late in a session, or when you push harder or longer than usual."
+    },
+    {
+      "kind": "body",
+      "title": "On the spot: a gentle stretch",
+      "body": "Stop, then gently lengthen the cramping muscle and hold. For a calf, pull your toes towards you or lean into a wall. Most cramps ease within a minute or two."
+    },
+    {
+      "kind": "body",
+      "title": "Build the muscle's endurance",
+      "body": "If cramps keep showing up in the same muscle, strengthening it can help it cope with fatigue. Calf raises, squats or hamstring work two or three times a week is a good starting point."
+    },
+    {
+      "kind": "body",
+      "title": "Pace and fuel the session",
+      "body": "Increase distance or intensity gradually, start long efforts conservatively, and eat and drink sensibly for the conditions. Hot, humid late-summer days usually call for more fluid than you think."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "See your GP if cramps happen often at rest or overnight, or come with calf swelling, redness or warmth, weakness or numbness. A physio can help with the exercise side."
+    },
+    {
+      "kind": "cta",
+      "headline": "Stop cramps cutting sessions short",
+      "body": "Our Sydney CBD and Chatswood physios review your training and build a strength plan for the muscles that keep cramping. Book online — link in bio."
+    }
+  ],
+  "caption": "Calf locks up at the same point in every long run? You're in good company.\n\nSalt and fluids get most of the blame, but research suggests muscle fatigue is a big part of the picture. That's why cramps often arrive late in a session or when you push further than usual.\n\nIn the moment, stop and gently stretch the muscle; most cramps ease within a minute or two. Longer term, strengthening the muscle that keeps cramping, building distance gradually and fuelling sensibly on hot days tend to help. Frequent cramps at rest, or cramps with calf swelling, redness or numbness, are worth a GP visit.\n\nOur Sydney CBD physios can help with the training side. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#musclecramps",
+    "#cramp",
+    "#calfcramp",
+    "#running",
+    "#runners",
+    "#sportsphysio",
+    "#endurance",
+    "#strengthtraining",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyrunners",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why muscle cramps happen during exercise, how to ease one on the spot, how to reduce them long term and when to see a GP.",
+  "story": {
+    "headline": "Cramp hits mid-run?",
+    "body": "Stop and gently stretch the muscle. Most cramps ease in a minute or two. Recurring ones? Build that muscle's endurance."
+  },
+  "scheduled_date": "2027-01-29",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

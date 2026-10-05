@@ -1,0 +1,71 @@
+{
+  "id": "T-465",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Clicking finger (trigger finger): what helps",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Finger catching or clicking?",
+      "sub": "What trigger finger is and what tends to help in the early stages."
+    },
+    {
+      "kind": "body",
+      "title": "What's going on",
+      "body": "Trigger finger happens when a finger tendon doesn't glide smoothly through its tunnel at the base of the finger. It can catch, click or stick as you bend and straighten, often worse in the morning."
+    },
+    {
+      "kind": "body",
+      "title": "Ease off the heavy gripping",
+      "body": "Repeated hard gripping, like tools, heavy bags or long gardening sessions, can aggravate it. Padding handles, swapping hands and breaking up tasks can give the tendon less to deal with."
+    },
+    {
+      "kind": "body",
+      "title": "Keep it moving gently",
+      "body": "Gentle tendon gliding exercises, slowly moving the fingers through a few positions, can help keep things moving. Warm water in the morning often makes those first movements easier."
+    },
+    {
+      "kind": "body",
+      "title": "Splinting can help some people",
+      "body": "A small splint that rests the affected finger, often worn overnight, can reduce catching for some people. A physio can advise on fit and how long to wear it each day."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "See your GP or physio if a finger locks and won't straighten, or becomes hot, red and swollen, especially after a cut. These need prompt attention rather than home care."
+    },
+    {
+      "kind": "cta",
+      "headline": "Get your grip back on track",
+      "body": "Our Sydney CBD and Chatswood physios assess your hand, look at your daily tasks and set up a plan, including splinting if it suits. Book online — link in bio."
+    }
+  ],
+  "caption": "Finger catching or clicking when you make a fist? It might be what's often called trigger finger.\n\nIt happens when a finger tendon doesn't glide smoothly through its tunnel at the base of the finger, so it catches as you bend and straighten. Mornings are often the stiffest.\n\nEarly on, a few simple things tend to help: easing off heavy or repeated gripping, padding tool handles, breaking up long tasks, gentle finger movements in warm water, and for some people a small splint worn overnight. A finger that locks and won't straighten, or one that turns hot, red and swollen, needs prompt attention.\n\nOur Sydney CBD physios can assess your hand and set up a plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#triggerfinger",
+    "#handpain",
+    "#fingerpain",
+    "#handhealth",
+    "#grip",
+    "#tendonpain",
+    "#splint",
+    "#gardening",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining trigger finger, how to ease off gripping, gentle movement, splinting and when to get a catching finger checked.",
+  "story": {
+    "headline": "Finger clicking when you grip?",
+    "body": "Break up heavy gripping tasks, pad tool handles, and try gentle finger movements in warm water each morning."
+  },
+  "scheduled_date": "2027-01-30",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

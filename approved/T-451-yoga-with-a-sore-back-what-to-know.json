@@ -1,0 +1,70 @@
+{
+  "id": "T-451",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Yoga with a sore back: what to know",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Sore back: roll out the yoga mat?",
+      "sub": "Usually yes, with a few smart tweaks to the poses."
+    },
+    {
+      "kind": "body",
+      "title": "Gentle movement usually helps",
+      "body": "For most everyday back pain, staying active tends to help more than resting. Yoga can be a good fit because you can slow it down, shrink the range and choose poses that feel OK."
+    },
+    {
+      "kind": "body",
+      "title": "Use a simple pain rule",
+      "body": "Mild discomfort that settles within a day is usually fine. Sharp pain during a pose, or pain that's clearly worse the next morning, means scale back that pose next time rather than push through."
+    },
+    {
+      "kind": "body",
+      "title": "Swap poses, don't skip class",
+      "body": "Deep forward folds bothering you? Try them with bent knees or hands on blocks. Big backbends too much? Try a small cobra or sphinx. Child's pose with a pillow under your chest is often comfy."
+    },
+    {
+      "kind": "body",
+      "title": "Tell your teacher before class",
+      "body": "A quick word lets your instructor offer options as you go. Gentle, slow or restorative classes are often an easier starting point than hot or fast-paced flow while your back settles."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain spreading down a leg, numbness, weakness, pain after a fall, or pain that's worsening week to week is worth an assessment. Any change in bladder or bowel control needs a doctor straight away."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep your practice going",
+      "body": "Our Sydney CBD and Chatswood physios assess your back and help you adapt your yoga so you can keep moving. Book online — link in bio."
+    }
+  ],
+  "caption": "Sore back and wondering whether to skip yoga this week?\n\nFor most everyday back pain, gentle movement tends to help more than rest, and yoga is easy to adapt. Bend your knees in forward folds, use blocks, swap big backbends for a small sphinx, and try child's pose with a pillow under your chest.\n\nUse a simple rule: mild discomfort that settles within a day is usually fine. Sharp pain in a pose, or feeling clearly worse the next morning, means scale that pose back next time. Let your teacher know before class, too.\n\nLeg pain, numbness, weakness or pain that keeps worsening is worth getting checked. Our Sydney CBD physios, along with our Chatswood team, can help you adapt your practice. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#yoga",
+    "#yogaforbackpain",
+    "#yogamodifications",
+    "#backpain",
+    "#lowerbackpain",
+    "#staymoving",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on doing yoga with a sore back: why gentle movement usually helps, a simple pain rule, pose swaps, talking to your teacher, and when back pain is worth getting checked.",
+  "story": {
+    "headline": "Sore back? Yoga can still fit",
+    "body": "Bend your knees in folds, shrink the backbends and tell your teacher. Sharp pain means scale back."
+  },
+  "scheduled_date": "2027-01-25",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}

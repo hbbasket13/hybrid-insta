@@ -1,0 +1,70 @@
+{
+  "id": "T-452",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Bringing someone along to your appointment",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Bringing someone to your appointment?",
+      "sub": "Short answer: yes. Here's how to make the most of it."
+    },
+    {
+      "kind": "body",
+      "title": "Support people are welcome",
+      "body": "Partners, friends, family members or carers are welcome to come along. Having a second set of ears can make it easier to remember the plan, ask questions and feel more relaxed somewhere new."
+    },
+    {
+      "kind": "body",
+      "title": "Help with explaining things",
+      "body": "If English isn't your first language, a family member or friend can help explain your symptoms and our advice. Let us know when you book so we're ready for you both."
+    },
+    {
+      "kind": "body",
+      "title": "Agree on their role first",
+      "body": "Have a quick chat on the way in. Do you want them to take notes, help describe how things started, or simply sit with you? You're the patient, so you decide how involved they are."
+    },
+    {
+      "kind": "body",
+      "title": "You can always talk privately",
+      "body": "You can ask to speak with your practitioner on your own at any point, even if someone came with you. That's completely normal, and you never need to explain why."
+    },
+    {
+      "kind": "body",
+      "title": "Learn the exercises together",
+      "body": "If someone at home helps you with exercises or getting around, it's useful for them to see how each movement is done. Ask if they can film the demo on your phone so you both have a reference."
+    },
+    {
+      "kind": "cta",
+      "headline": "Book for you, bring your person",
+      "body": "Our team at Hybrid Physiotherapy is happy to include your support person in the conversation. Book online — link in bio."
+    }
+  ],
+  "caption": "Wondering if you can bring someone along to your appointment?\n\nPartners, friends, family members and carers are welcome. A second set of ears can help you remember the plan, ask the questions you forgot, and feel more relaxed somewhere new. If English isn't your first language, someone close to you can help explain things. Just let us know when you book.\n\nAgree on their role on the way in, whether that's taking notes or simply keeping you company. And you can always ask to talk with your practitioner on your own.\n\nIf they help you at home, ask if they can film your exercises on your phone so you both have a reference.\n\nOur team at Hybrid Physiotherapy is happy to include your support person. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#firstappointment",
+    "#patientcare",
+    "#carers",
+    "#supportperson",
+    "#alliedhealth",
+    "#healthcare",
+    "#sydneyphysio",
+    "#sydney",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining that support people are welcome at appointments, with tips on help with explaining things, agreeing on their role, speaking privately and learning exercises together.",
+  "story": {
+    "headline": "Bringing someone along?",
+    "body": "Partners, friends, family and carers are welcome. Agree on their role first, and you can always speak privately."
+  },
+  "scheduled_date": "2027-01-25",
+  "created": "2026-10-05",
+  "status": "approved",
+  "review_warnings": []
+}
