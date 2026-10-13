@@ -1,0 +1,70 @@
+{
+  "id": "T-483",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for hairdressers and barbers",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Behind the chair all day?",
+      "sub": "Hairdressers and barbers: where the load builds and what can help."
+    },
+    {
+      "kind": "body",
+      "title": "Arms up, head tilted",
+      "body": "Holding scissors, clippers and dryers near shoulder height for hours loads the shoulders, upper back and neck. Forearms and thumbs also work hard with repeated gripping and fine cutting."
+    },
+    {
+      "kind": "body",
+      "title": "Pump the chair to your height",
+      "body": "Raise or lower the client's chair so you're working around chest height, and step around them rather than leaning or reaching. Small adjustments add up over a long day."
+    },
+    {
+      "kind": "body",
+      "title": "Mini-breaks between clients",
+      "body": "Between appointments, drop your arms, roll your shoulders, shake out your hands and gently stretch your forearms. Thirty seconds each time can ease the build-up."
+    },
+    {
+      "kind": "body",
+      "title": "Where massage fits",
+      "body": "Remedial massage can ease tight shoulders, neck and forearms and help you feel looser after a busy week. It works well alongside breaks and strength work, not instead of them."
+    },
+    {
+      "kind": "body",
+      "title": "When to see a physio",
+      "body": "Numbness or tingling in the fingers, hand weakness, dropping tools, or pain that keeps building despite changes is worth a physio assessment rather than massage alone."
+    },
+    {
+      "kind": "cta",
+      "headline": "Shoulders tight after a full book?",
+      "body": "Our remedial massage therapists focus on the areas your work loads most, with physio input when needed. Book online — link in bio."
+    }
+  ],
+  "caption": "Shoulders up by your ears after a full day of cuts and colours? ✂️\n\nHairdressers and barbers spend hours with arms raised, head tilted and hands gripping. It's a lot of load on the neck, shoulders and forearms, especially in a busy week.\n\nA few things help: pump the chair so you're working near chest height, step around the client rather than reaching, and take thirty seconds between appointments to drop your arms and shake out your hands. Remedial massage can ease the tightness that builds up, alongside breaks and simple strength work.\n\nNumbness, tingling or a weakening grip is worth a physio assessment. Our remedial massage therapists at Hybrid Physiotherapy can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#hairdresser",
+    "#barber",
+    "#hairstylist",
+    "#barberlife",
+    "#salonlife",
+    "#neckpain",
+    "#shoulderpain",
+    "#workhealth",
+    "#sydney",
+    "#sydneymassage",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy for hairdressers and barbers, covering where work loads the body, chair height, mini-breaks, how remedial massage fits and when to see a physio.",
+  "story": {
+    "headline": "Hairdresser or barber?",
+    "body": "Pump the chair to chest height and take thirty seconds between clients to drop your arms and shake out your hands."
+  },
+  "scheduled_date": "2027-02-06",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

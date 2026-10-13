@@ -1,0 +1,69 @@
+{
+  "id": "T-489",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What to wear to your appointment",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "What should you wear to your appointment?",
+      "sub": "A quick guide so you can move freely and feel comfortable."
+    },
+    {
+      "kind": "body",
+      "title": "Dress for the area",
+      "body": "Knee, hip or ankle? Shorts or loose pants that roll up above the knee work well. Neck or shoulder? A singlet or loose top makes it easier to see how you move."
+    },
+    {
+      "kind": "body",
+      "title": "Comfortable beats smart",
+      "body": "Activewear or anything stretchy lets you squat, bend and reach during your assessment. Coming straight from the office? Pop a change of clothes in your bag and change when you arrive."
+    },
+    {
+      "kind": "body",
+      "title": "Bring the shoes you use",
+      "body": "Foot, knee or running niggle? Bring the shoes you train or work in. Wear patterns and fit can tell us a lot about how you load your feet and legs."
+    },
+    {
+      "kind": "body",
+      "title": "Heading to Pilates or massage?",
+      "body": "For clinical Pilates, wear activewear you can lie down and move in. For remedial massage, loose clothing is easiest. Your therapist will explain what to remove and keep you covered."
+    },
+    {
+      "kind": "body",
+      "title": "Your comfort comes first",
+      "body": "If you'd prefer to keep a layer on, just say so. Your practitioner will adapt the assessment and explain what they're doing, and why, before they start."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready for your visit?",
+      "body": "Wear something comfortable, bring the shoes you use, and our team will take it from there. Book online — link in bio."
+    }
+  ],
+  "caption": "Not sure what to wear to your appointment? Here's the short version.\n\nDress for the area that's bothering you. Shorts or loose pants for knees, hips and ankles. A singlet or loose top for necks and shoulders. Activewear works for almost everything, and a change of clothes in your bag is fine if you're coming from work.\n\nIf your foot, knee or running is the issue, bring the shoes you use most. For clinical Pilates, wear something you can lie down and move in. For remedial massage, loose clothing is easiest. If you'd rather keep a layer on, just tell us and we'll adapt.\n\nOur physios, chiropractors, Pilates team and remedial massage therapists at Hybrid Physiotherapy will take it from there. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#firstappointment",
+    "#whattowear",
+    "#activewear",
+    "#alliedhealth",
+    "#sydney",
+    "#northshore",
+    "#sydneycbd",
+    "#sydneyphysio"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on what to wear to an appointment, with tips by body area, bringing your usual shoes, clothing for Pilates and massage, and comfort options.",
+  "story": {
+    "headline": "What to wear to your visit",
+    "body": "Shorts for knees and hips, a loose top for shoulders, and bring the shoes you use most."
+  },
+  "scheduled_date": "2027-02-09",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

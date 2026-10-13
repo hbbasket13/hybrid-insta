@@ -1,0 +1,70 @@
+{
+  "id": "T-492",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Tendon pain: why rest alone rarely settles it",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Rested your tendon for weeks. Still sore?",
+      "sub": "Why tendons usually need the right load, not just time off."
+    },
+    {
+      "kind": "body",
+      "title": "Tendons respond to load",
+      "body": "Tendons adapt to the work you give them. Complete rest can ease pain for a while, but it often leaves the tendon less ready for running, lifting or stairs when you return."
+    },
+    {
+      "kind": "body",
+      "title": "Calm it, don't stop it",
+      "body": "Most people do well by reducing the aggravating activity rather than stopping everything. Keep moving within a level of discomfort that has settled by the next morning."
+    },
+    {
+      "kind": "body",
+      "title": "Start with steady holds",
+      "body": "Slow, sustained holds, like holding a calf raise at the top or a wall sit, are often a good starting point. They tend to be well tolerated and begin rebuilding capacity."
+    },
+    {
+      "kind": "body",
+      "title": "Build up gradually",
+      "body": "Over weeks, progress to slow heavy lifts, then faster, springier work like hopping. Research suggests tendons change slowly, so most programs run for months rather than days."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A sudden pop or sharp pain followed by weakness, a lot of swelling, or tendon pain that keeps getting worse despite changes is worth an assessment promptly."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready to load it well?",
+      "body": "Our Sydney CBD and Chatswood physios assess your tendon, find a starting level you can manage and progress it with you. Book online — link in bio."
+    }
+  ],
+  "caption": "Rested that sore tendon for weeks, only for it to flare the moment you go back?\n\nTendons respond to load. Rest can calm things down, but on its own it often leaves the tendon less prepared for the activity that set it off.\n\nWhat usually helps: ease back on the aggravating activity rather than stopping completely, start with steady holds, then gradually build to heavier and springier exercises. Research suggests tendons adapt slowly, so plans often run for a few months. A sudden pop with weakness or a lot of swelling is worth getting assessed promptly.\n\nOur Sydney CBD physios work through tendon programs like this every week. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#tendonpain",
+    "#tendinopathy",
+    "#achillestendon",
+    "#patellartendon",
+    "#tenniselbow",
+    "#loadmanagement",
+    "#exerciseismedicine",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why rest alone rarely settles tendon pain, with guidance on reducing load, steady holds, gradual progression and when to get assessed.",
+  "story": {
+    "headline": "Tendon still sore after rest?",
+    "body": "Try easing back rather than stopping, and use the next-morning check to guide how much you do."
+  },
+  "scheduled_date": "2027-02-10",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

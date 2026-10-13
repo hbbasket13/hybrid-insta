@@ -1,0 +1,70 @@
+{
+  "id": "T-505",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Watching weekend sport from the sidelines: back care",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Long day on the sidelines?",
+      "sub": "Back care for parents and fans at weekend sport."
+    },
+    {
+      "kind": "body",
+      "title": "Why spectating gets to your back",
+      "body": "Standing on hard ground, perching on low folding chairs, leaning on fences and hours in the car between games. It isn't strenuous, but staying in one position often leaves backs stiff."
+    },
+    {
+      "kind": "body",
+      "title": "Choose your seat with care",
+      "body": "A chair with a backrest, with hips level with or slightly above your knees, is usually kinder than a low beach chair. A folded towel on a deep seat can lift you up."
+    },
+    {
+      "kind": "body",
+      "title": "Move at every break",
+      "body": "At quarter-time or between games, walk a lap of the field, do a few gentle back bends with hands on hips, or swing your arms. Small, regular movement beats one big stretch later."
+    },
+    {
+      "kind": "body",
+      "title": "Carry smarter from the car",
+      "body": "Eskies, chairs and kit bags add up. Split loads between both hands, keep heavy things close, and step in close to the boot with bent knees rather than reaching in."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain spreading into a leg, numbness, weakness or pain that keeps building over weeks is worth an assessment. Bladder or bowel changes or numbness around the groin need urgent medical care."
+    },
+    {
+      "kind": "cta",
+      "headline": "Back stiff after game day?",
+      "body": "Our chiropractors combine hands-on care with simple movement and exercise, so game days feel easier on your back. Book online — link in bio."
+    }
+  ],
+  "caption": "Preseason is starting, which means hours on the sidelines again.\n\nSpectating isn't hard work, but standing on hard ground, perching on low folding chairs and driving between games can leave your back stiff by Sunday night.\n\nA few things help: pick a chair with a backrest and a decent height, move at every break with a walk or a few gentle back bends, and split the esky and kit bags between both hands. Step in close to the boot rather than reaching in.\n\nPain into a leg, numbness or weakness is worth an assessment, and bladder or bowel changes need urgent medical care.\n\nOur chiropractors at Hybrid Physiotherapy can help keep game days comfortable. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#lowerbackpain",
+    "#sportsparents",
+    "#weekendsport",
+    "#juniorsport",
+    "#preseason",
+    "#wintersport",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy",
+    "#movemore"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on back care while watching weekend sport, with tips on seating, moving at breaks, carrying gear and when to get assessed.",
+  "story": {
+    "headline": "Sideline season is back",
+    "body": "Bring a chair with a backrest and walk a lap at every break."
+  },
+  "scheduled_date": "2027-02-16",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "T-497",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain at the back of the knee",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Ache behind your knee?",
+      "sub": "A few common reasons, and what usually helps."
+    },
+    {
+      "kind": "body",
+      "title": "A few usual suspects",
+      "body": "Pain behind the knee often comes from the hamstring or calf tendons near the joint, a fluid-filled swelling linked to the knee (a Baker's cyst), or a recent jump in activity."
+    },
+    {
+      "kind": "body",
+      "title": "Notice what sets it off",
+      "body": "Is it worse fully straightening, deep squatting, running downhill or after long sits? Jot it down for a week. The pattern helps your physio narrow things down faster."
+    },
+    {
+      "kind": "body",
+      "title": "Ease the load, don't stop",
+      "body": "Most people settle sooner by trimming the aggravating activity rather than resting completely. Shorter runs, flatter routes and a slightly shallower squat often keep you moving while things calm."
+    },
+    {
+      "kind": "body",
+      "title": "Strength usually helps",
+      "body": "Gradual hamstring and calf strengthening, like bridges and heel raises, helps the tissues behind the knee handle more load. Start with what feels comfortable and build over a few weeks."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked promptly",
+      "body": "Calf swelling, warmth, redness or tenderness, especially after surgery, a long flight or time off your feet, needs prompt medical review with a GP or emergency department. So does a knee that locks."
+    },
+    {
+      "kind": "cta",
+      "headline": "Back-of-knee ache hanging around?",
+      "body": "Our Chatswood physios assess your knee, hips and calves, then map out a plan to build you back up. Book online — link in bio."
+    }
+  ],
+  "caption": "That ache behind your knee has a few usual suspects.\n\nPain at the back of the knee often comes from the hamstring or calf tendons, a fluid-filled swelling linked to the joint (a Baker's cyst), or simply doing more than usual, like a new running block or preseason training.\n\nWhat tends to help: noticing what sets it off, trimming that activity rather than stopping everything, and building hamstring and calf strength gradually.\n\nOne important exception. Calf swelling, warmth, redness or tenderness, especially after surgery, a long flight or time off your feet, needs prompt medical review with your GP or an emergency department. A knee that locks, gives way or swells quickly is worth getting assessed too.\n\nOur Chatswood and Sydney CBD physios can help you work out the next step. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#backofknee",
+    "#hamstrings",
+    "#calfstrength",
+    "#runninginjury",
+    "#preseason",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#northshore",
+    "#physio",
+    "#hybridphysiotherapy",
+    "#kneerehab"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on pain at the back of the knee: common causes, managing load, strength work and calf swelling or warmth as a sign needing prompt medical review.",
+  "story": {
+    "headline": "Ache behind your knee?",
+    "body": "Trim the activity, don't stop everything. Calf swelling or warmth needs prompt medical review."
+  },
+  "scheduled_date": "2027-02-12",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

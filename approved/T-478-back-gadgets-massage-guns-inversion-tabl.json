@@ -1,0 +1,70 @@
+{
+  "id": "T-478",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Back gadgets: massage guns, inversion tables and more",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Back gadgets: what they can and can't do",
+      "sub": "Massage guns, inversion tables and braces, kept in perspective."
+    },
+    {
+      "kind": "body",
+      "title": "Massage guns: short-term relief",
+      "body": "Many people find a massage gun eases tightness for a while. Keep it on muscle rather than bone, start on a low setting, and avoid the front of the neck and any numb areas."
+    },
+    {
+      "kind": "body",
+      "title": "Inversion tables: be cautious",
+      "body": "Hanging upside down isn't suitable for everyone. Blood pressure, eye, heart or other health conditions and pregnancy can all be reasons to avoid it. Check with your GP or practitioner first."
+    },
+    {
+      "kind": "body",
+      "title": "Posture braces: a reminder only",
+      "body": "A brace can act as a cue to change position, but most people don't need to wear one for hours. Moving often and building upper back strength usually matter more."
+    },
+    {
+      "kind": "body",
+      "title": "Movement does the heavy lifting",
+      "body": "No gadget replaces regular walking, strength work and staying active. Heat packs and rollers can be a handy warm-up for exercise, rather than the whole plan."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain with leg numbness or weakness, pain that keeps building over weeks, or changes to bladder or bowel control need a proper assessment, the last one promptly."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure what's worth using?",
+      "body": "Our chiropractors assess your back, talk through what you use at home and combine adjustments with exercise and practical advice. Book online — link in bio."
+    }
+  ],
+  "caption": "Got a massage gun in the cupboard and still a stiff back?\n\nBack gadgets can be handy. A massage gun or heat pack often eases tightness for a while, and a brace can remind you to change position. They tend to be most useful as a warm-up or a cue to move, not as the whole plan.\n\nInversion tables deserve extra caution. They aren't suitable for everyone, especially with blood pressure, eye or heart conditions, or during pregnancy, so check with your GP or practitioner before trying one.\n\nLeg numbness, weakness, or changes to bladder or bowel control need prompt medical attention. Our chiropractors at Hybrid Physiotherapy can help you work out where gadgets fit alongside exercise. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#backpain",
+    "#lowerbackpain",
+    "#massagegun",
+    "#inversiontable",
+    "#posture",
+    "#backhealth",
+    "#movement",
+    "#selfcare",
+    "#sydney",
+    "#sydneychiro",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy giving a balanced view of back gadgets such as massage guns, inversion tables and posture braces, with cautions and when to get back pain checked.",
+  "story": {
+    "headline": "Bought a back gadget?",
+    "body": "Use it as a warm-up for movement, not the whole plan. With inversion tables, check with your GP or practitioner first."
+  },
+  "scheduled_date": "2027-02-05",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "T-484",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Back pain in tall people: furniture that fits",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Too tall for your desk and car?",
+      "sub": "Practical tweaks when standard furniture wasn't built for your height."
+    },
+    {
+      "kind": "body",
+      "title": "Raise the desk, not your shoulders",
+      "body": "Standard desks are often low for tall people, so you end up hunched. Use desk risers or a sit-stand desk set near elbow height, and lift your screen so the top sits around eye level."
+    },
+    {
+      "kind": "body",
+      "title": "Chair depth and height matter",
+      "body": "A short seat leaves your thighs unsupported. Look for a deeper seat, raise it so your hips sit level with or a little above your knees, and add a lumbar cushion if it helps."
+    },
+    {
+      "kind": "body",
+      "title": "Car seat: back and down",
+      "body": "Slide the seat back, lower it if headroom is tight and keep the backrest fairly upright. Set the steering wheel and mirrors so you aren't craning forward on longer drives."
+    },
+    {
+      "kind": "body",
+      "title": "Low benches and sinks",
+      "body": "Bending to low benches adds up for tall people. Hinge from your hips, rest one foot on a cupboard ledge, or raise the chopping board on a sturdy box for longer tasks."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Leg numbness or weakness and pain that keeps building over weeks are worth getting assessed. Changes to bladder or bowel control need prompt medical attention."
+    },
+    {
+      "kind": "cta",
+      "headline": "Tall frame, cranky back?",
+      "body": "Our chiropractors look at how you sit, drive and work, using adjustments alongside exercise and practical setup advice. Book online — link in bio."
+    }
+  ],
+  "caption": "Tall and always folding yourself into furniture made for someone shorter?\n\nLow desks, short chair seats, cramped car seats and low kitchen benches all nudge tall people into bending and hunching for hours. Bodies are adaptable, but that steady load often shows up as a stiff, achy back.\n\nSmall changes help: desk risers or a sit-stand desk near elbow height, a screen lifted to eye level, a deeper chair seat, a car seat slid back and down, and hinging from the hips at low benches.\n\nLeg numbness, weakness or changes to bladder or bowel control need prompt attention. Our chiropractors at Hybrid Physiotherapy can look at your setup and combine adjustments with exercise. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#backpain",
+    "#lowerbackpain",
+    "#tallpeople",
+    "#tallproblems",
+    "#ergonomics",
+    "#deskjob",
+    "#posture",
+    "#officeworker",
+    "#sydney",
+    "#sydneychiro",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy with practical furniture and setup tips for tall people with back pain, covering desks, chairs, car seats and kitchen benches, plus when to get it checked.",
+  "story": {
+    "headline": "Tall and sore?",
+    "body": "Lift your screen to eye level and raise your desk to elbow height. Your back will thank you by Friday."
+  },
+  "scheduled_date": "2027-02-08",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

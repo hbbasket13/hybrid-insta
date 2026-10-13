@@ -1,0 +1,70 @@
+{
+  "id": "T-476",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Back to uni: laptops, backpacks and long lectures",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Uni's back. Is your body ready?",
+      "sub": "Laptops, backpacks and three-hour lectures: small changes that help."
+    },
+    {
+      "kind": "body",
+      "title": "Lift the laptop in the library",
+      "body": "Hunching over a laptop on a low desk for hours tends to load the neck and upper back. Prop it on a few books and plug in a cheap separate keyboard for longer study sessions."
+    },
+    {
+      "kind": "body",
+      "title": "Two straps beat one",
+      "body": "One strap is fine for a short walk. For a long trek across campus, use both straps, pack heavy items close to your back and leave behind what you won't need that day."
+    },
+    {
+      "kind": "body",
+      "title": "Break up the long lectures",
+      "body": "Two or three hours in a lecture seat is a long time to stay still. Shift position often, stand at the break and take the stairs between classes. Small movement snacks add up."
+    },
+    {
+      "kind": "body",
+      "title": "Timetable your training",
+      "body": "Exercise is often the first thing dropped when uni gets busy. Book two short strength or sport sessions into your week like a class, so they survive assignment season."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Pain spreading into an arm or leg, pins and needles, numbness, or pain that keeps building over a few weeks despite changes is worth an assessment rather than a guess."
+    },
+    {
+      "kind": "cta",
+      "headline": "Studying with a sore neck?",
+      "body": "Our Sydney CBD and Chatswood physios look at how you sit, carry and move, then build a simple plan around your timetable. Book online — link in bio."
+    }
+  ],
+  "caption": "Back at uni and already stiff by week two? 🎒\n\nFebruary brings full timetables, long lectures and hours bent over a laptop in the library. Bodies usually cope well with all of that. What they struggle with is the same position for hours, plus a heavy bag slung over one shoulder.\n\nA few small changes go a long way: lift your laptop and add a separate keyboard, use both backpack straps on longer walks, move at every lecture break, and lock two short training sessions into your timetable.\n\nPain that spreads into an arm or leg, pins and needles, or pain that keeps building is worth getting checked. Our Sydney CBD and Chatswood physios see plenty of students. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#unilife",
+    "#unistudent",
+    "#backtouni",
+    "#studytips",
+    "#neckpain",
+    "#backpain",
+    "#ergonomics",
+    "#posture",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy with practical tips for uni students on laptop setup, carrying backpacks, moving during long lectures, keeping up exercise and when to get pain checked.",
+  "story": {
+    "headline": "Back at uni this month?",
+    "body": "Lift the laptop, use both backpack straps, and stand up at every lecture break. Small changes, big difference by week five."
+  },
+  "scheduled_date": "2027-02-04",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

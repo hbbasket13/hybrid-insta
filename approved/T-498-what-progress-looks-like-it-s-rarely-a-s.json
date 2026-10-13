@@ -1,0 +1,70 @@
+{
+  "id": "T-498",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What progress looks like: it's rarely a straight line",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Two good weeks, then a bad day?",
+      "sub": "Recovery rarely runs in a straight line. That's normal."
+    },
+    {
+      "kind": "body",
+      "title": "Expect a few zigzags",
+      "body": "Most recoveries go up and down. A good week can be followed by a flare-up after a big day, poor sleep or a stressful stretch. The trend over a month matters more than any single day."
+    },
+    {
+      "kind": "body",
+      "title": "A flare-up isn't starting over",
+      "body": "Flare-ups usually settle within a few days with a short step back in load. They rarely mean you've undone your progress. Ease off a little, keep moving, then build up again."
+    },
+    {
+      "kind": "body",
+      "title": "Track more than pain",
+      "body": "Write down what you can do: stairs, sleep, how long you can sit or walk. These often improve before pain does, and show progress a pain score on a bad day can hide."
+    },
+    {
+      "kind": "body",
+      "title": "Compare with last month",
+      "body": "Compare this week with four weeks ago, not with yesterday. If you're doing more overall, you're likely on track, even if today feels flat. Bring your notes to your next appointment."
+    },
+    {
+      "kind": "body",
+      "title": "When to check in sooner",
+      "body": "If you're steadily worse over a couple of weeks, notice new symptoms like numbness or weakness, or the pain feels different from usual, let your practitioner know rather than waiting."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure you're on track?",
+      "body": "Our team reviews your progress with you and adjusts the plan when things stall or flare. Book online — link in bio."
+    }
+  ],
+  "caption": "Had two good weeks, then a rough day that made you wonder if anything's working?\n\nThat's how most recoveries look. Progress zigzags. A big day, a poor night's sleep or a stressful week can stir things up for a few days, and that usually doesn't mean you're back at square one.\n\nA few things help: track what you can do, not just how sore you are. Compare this month with last month rather than today with yesterday. After a flare-up, step back a little, keep moving, then build up again.\n\nIf you're steadily getting worse, or new symptoms like numbness or weakness turn up, check in sooner.\n\nAt Hybrid Physiotherapy our team can help you read the bigger picture. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#recovery",
+    "#rehab",
+    "#flareup",
+    "#painscience",
+    "#chronicpain",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#sydney",
+    "#sydneyhealth",
+    "#northshore",
+    "#movementismedicine"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining that recovery rarely runs in a straight line, how to handle flare-ups, track progress, and when to check in sooner.",
+  "story": {
+    "headline": "Bad day after a good week?",
+    "body": "Compare this month with last month, not today with yesterday. Most recoveries zigzag."
+  },
+  "scheduled_date": "2027-02-12",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "T-485",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates after a long break from exercise",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Years since you last exercised?",
+      "sub": "How clinical Pilates can be a steady, low-pressure way back in."
+    },
+    {
+      "kind": "body",
+      "title": "Start below what you think",
+      "body": "After a long break, early sessions should feel easy. Starting well below your old level gives joints, tendons and muscles time to adapt, and makes coming back next week more likely."
+    },
+    {
+      "kind": "body",
+      "title": "Expect some muscle soreness",
+      "body": "Mild soreness a day or two after a new session is common and usually eases within a few days. It's usually a sign your body is adapting, not that something is wrong."
+    },
+    {
+      "kind": "body",
+      "title": "Twice a week is plenty",
+      "body": "Two sessions a week is a realistic starting rhythm for most people. Add a couple of walks in between and you have a simple routine that fits around work and family."
+    },
+    {
+      "kind": "body",
+      "title": "Tell us your history",
+      "body": "Past injuries, surgeries, pregnancies, health conditions or medications that affect exercise all help shape your program. A short assessment before your first class is a good starting point."
+    },
+    {
+      "kind": "body",
+      "title": "Check with your GP first if",
+      "body": "If you have a heart or lung condition, get chest pain or dizziness with effort, or have a health condition you're unsure about, check with your GP before starting a new routine."
+    },
+    {
+      "kind": "cta",
+      "headline": "Ready to get moving again?",
+      "body": "Our Pilates team starts with an assessment and builds sessions around where you are now. Book online — link in bio."
+    }
+  ],
+  "caption": "It's been a while. That's okay.\n\nWhether it's been a year or ten, getting back into exercise is often harder in your head than in your body. The trick is starting smaller than you think you should, so you leave each session feeling like you could do more.\n\nClinical Pilates can be a steady way back in. Sessions start with an assessment, can be adjusted to your history, and build gradually. Expect some mild muscle soreness early on, which usually eases within a few days. Twice a week plus a couple of walks is a solid start.\n\nIf you have a heart or lung condition or get chest pain with effort, check with your GP first. Our Pilates team at Hybrid Physiotherapy would love to help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#pilatesforbeginners",
+    "#backtoexercise",
+    "#fitnessjourney",
+    "#startsmall",
+    "#strengthtraining",
+    "#healthyhabits",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on returning to exercise after a long break with clinical Pilates, covering starting easy, normal muscle soreness, a realistic routine and when to check with your GP.",
+  "story": {
+    "headline": "Been a while since you exercised?",
+    "body": "Start smaller than you think. Leave each session feeling like you could do more, and come back next week."
+  },
+  "scheduled_date": "2027-02-08",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

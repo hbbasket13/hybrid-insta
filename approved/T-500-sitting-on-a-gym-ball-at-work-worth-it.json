@@ -1,0 +1,70 @@
+{
+  "id": "T-500",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Sitting on a gym ball at work: worth it?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Swapped your desk chair for a ball?",
+      "sub": "Does it actually help your back? The short answer."
+    },
+    {
+      "kind": "body",
+      "title": "The idea behind it",
+      "body": "The theory is that a wobbly ball keeps your trunk muscles 'switched on'. Research suggests the difference in muscle activity is small, and most people slump on a ball once they tire."
+    },
+    {
+      "kind": "body",
+      "title": "Movement matters more than the seat",
+      "body": "What tends to help backs at work is changing position often. A ball can encourage small shifts, but so can a regular chair if you get up, walk and stretch regularly."
+    },
+    {
+      "kind": "body",
+      "title": "Like it? Use it in short bursts",
+      "body": "Try 15 to 20 minutes on the ball, then back to a supportive chair. Pump it so your hips sit slightly above your knees, feet flat, and check it's rated for your weight."
+    },
+    {
+      "kind": "body",
+      "title": "Weigh up the trade-offs",
+      "body": "Balls have no backrest or armrests, can roll away when you stand, and often sit at the wrong height for your desk. If your back aches more by afternoon, it may not suit you."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain spreading into a leg, numbness, pins and needles, or pain that keeps building over weeks, whatever you sit on, is worth an assessment rather than another seat swap."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure what suits your desk?",
+      "body": "Our chiropractors assess how your back moves and combine hands-on care with exercises and simple desk changes. Book online — link in bio."
+    }
+  ],
+  "caption": "Thinking of swapping your office chair for a gym ball?\n\nThe idea is that an unstable seat keeps your trunk working. Research suggests the extra muscle activity is small, and most people end up slumping once they get tired.\n\nWhat usually matters more for your back is how often you change position. A ball can nudge you to shift around, and some people simply enjoy it. If that's you, use it in 15 to 20 minute bursts, get the height right, and swap back to a supportive chair.\n\nPain spreading into a leg, numbness or pain that keeps building is worth an assessment, whatever you're sitting on.\n\nOur chiropractors at Hybrid Physiotherapy can look at how your back and your desk setup work together. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#deskjob",
+    "#officeworker",
+    "#ergonomics",
+    "#gymball",
+    "#sittingatwork",
+    "#movemore",
+    "#sydney",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#workhealth"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy asking whether sitting on a gym ball at work helps your back, with tips for using one and when to get assessed.",
+  "story": {
+    "headline": "Gym ball instead of a chair?",
+    "body": "Use it in 15 to 20 minute bursts. Changing position often matters more than the seat."
+  },
+  "scheduled_date": "2027-02-13",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

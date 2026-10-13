@@ -1,0 +1,70 @@
+{
+  "id": "T-496",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Single-leg strength: why Pilates trains one side at a time",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Is one leg doing all the work?",
+      "sub": "Why Pilates often trains one side at a time."
+    },
+    {
+      "kind": "body",
+      "title": "Most of life is single-leg",
+      "body": "Walking, stairs, running, stepping out of a car: you're mostly on one leg at a time. Training both legs together is useful, but it can hide a side that's quietly doing less."
+    },
+    {
+      "kind": "body",
+      "title": "Two-leg moves can hide a gap",
+      "body": "In a squat or leg press, the stronger side often takes a bit more load without you noticing. Working one side at a time shows the difference and gives the quieter side its fair share."
+    },
+    {
+      "kind": "body",
+      "title": "Balance comes along for the ride",
+      "body": "Standing on one leg asks your hip, knee and foot to work as a team. Single-leg footwork on the reformer builds strength and steadiness together, at a load you can control."
+    },
+    {
+      "kind": "body",
+      "title": "Try this at home",
+      "body": "Single-leg sit-to-stand from a high chair, 6 to 8 per side, holding a bench if needed. Lower the chair or slow the movement as it gets easier. Note which side feels harder."
+    },
+    {
+      "kind": "body",
+      "title": "Uneven isn't always a problem",
+      "body": "Small differences between sides are normal. If one leg is clearly weaker after an injury, or a knee, hip or ankle hurts during single-leg work, it's worth an assessment first."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want both legs pulling their weight?",
+      "body": "Our Pilates team checks how each side moves, then builds a program with the right single-leg work for you. Book online — link in bio."
+    }
+  ],
+  "caption": "Is one leg quietly doing more than its share?\n\nMost of what we do, from walking and stairs to running for the train, happens on one leg at a time. Two-leg exercises are useful, but the stronger side can take over without you noticing.\n\nThat's why clinical Pilates often works one side at a time. Single-leg footwork on the reformer, split stances and step-ups show up the difference between sides and build strength and balance together, at a load you can control.\n\nSmall differences are normal. A clearly weaker leg after an injury, or pain during single-leg work, is worth an assessment before you push on.\n\nWith uni and school back and winter sport preseason starting, it's a good time to even things up. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#singlelegstrength",
+    "#legstrength",
+    "#balance",
+    "#strengthtraining",
+    "#preseason",
+    "#injuryprevention",
+    "#sydneypilates",
+    "#sydney",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#pilatesforeveryone"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining why clinical Pilates trains one leg at a time, with a simple single-leg sit-to-stand to try at home.",
+  "story": {
+    "headline": "One leg doing all the work?",
+    "body": "Try 6 single-leg sit-to-stands per side from a high chair. Which side feels harder?"
+  },
+  "scheduled_date": "2027-02-12",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

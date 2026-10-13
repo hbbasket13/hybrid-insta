@@ -1,0 +1,70 @@
+{
+  "id": "T-491",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for martial artists",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Kicks, throws and a cranky lower back?",
+      "sub": "How clinical Pilates can support your martial arts training."
+    },
+    {
+      "kind": "body",
+      "title": "What martial arts ask for",
+      "body": "High kicks, sprawls, takedowns and quick pivots need hip mobility, trunk control and strength in awkward positions. Many training niggles show up where one of these runs short."
+    },
+    {
+      "kind": "body",
+      "title": "Control at end range",
+      "body": "Exercises like leg circles and side-lying leg series build strength through big hip ranges. That can help your kicks feel smoother and more controlled, not just higher."
+    },
+    {
+      "kind": "body",
+      "title": "Rotation with a steady trunk",
+      "body": "Punches and throws rely on turning through the mid-back while the trunk stays organised. Reformer rotation and spine twist work train this pattern at a controlled speed."
+    },
+    {
+      "kind": "body",
+      "title": "Balance on one leg",
+      "body": "Single-leg work on the reformer and standing leg series builds the balance you need for kicks, switches and pivots. Slow practice here often carries over to faster drills."
+    },
+    {
+      "kind": "body",
+      "title": "Pain that needs a check",
+      "body": "Deep groin or hip pain, back pain spreading into the leg, or a shoulder that feels loose after a throw is worth a physio assessment before loading it further."
+    },
+    {
+      "kind": "cta",
+      "headline": "Train with more control",
+      "body": "Our Pilates team designs sessions around your martial art, with exercises for your hips, trunk and balance on one leg. Book online — link in bio."
+    }
+  ],
+  "caption": "BJJ, karate, Muay Thai or taekwondo? Your hips and trunk do a lot of quiet work. 🥋\n\nKicks, sprawls and throws ask for strength at the end of your range, rotation through the mid-back and solid balance on one leg. Clinical Pilates can help build each of these at a controlled pace, which often carries over to faster training.\n\nThink leg circles and side-lying work for hip control, reformer rotation for your mid-back, and single-leg work for pivots. Deep groin pain, back pain spreading into the leg or a shoulder that feels loose after a throw is worth a physio assessment first.\n\nOur Pilates team at Hybrid Physiotherapy can tailor sessions to your style. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#martialarts",
+    "#bjj",
+    "#muaythai",
+    "#karate",
+    "#taekwondo",
+    "#mobility",
+    "#hipmobility",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on clinical Pilates for martial artists, covering hip control at end range, trunk rotation, single-leg balance and when to get pain checked.",
+  "story": {
+    "headline": "Martial artist?",
+    "body": "Slow single-leg balance work this week can help your kicks and pivots feel steadier."
+  },
+  "scheduled_date": "2027-02-10",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

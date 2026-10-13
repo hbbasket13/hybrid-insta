@@ -1,0 +1,70 @@
+{
+  "id": "T-486",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Ankle mobility and squat depth",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Heels lifting when you squat deep?",
+      "sub": "Your ankles might be the limit. Here's how to check and what helps."
+    },
+    {
+      "kind": "body",
+      "title": "Ankles help set your depth",
+      "body": "As you squat, your knees need to travel forward over your toes. If your ankles don't bend enough, your heels lift, your chest tips forward or you stop short. It's a common, workable limit."
+    },
+    {
+      "kind": "body",
+      "title": "Try the knee-to-wall test",
+      "body": "Kneel facing a wall with your front foot about a hand-width away. Keep the heel down and push your knee to touch the wall. Compare sides. A big difference between ankles is worth noting."
+    },
+    {
+      "kind": "body",
+      "title": "Mobilise, then use it",
+      "body": "Rock your knee forward over your toes for 10 to 15 slow reps, heel down. Then go straight into a few squats so your body practises using the new range under load."
+    },
+    {
+      "kind": "body",
+      "title": "Small tweaks while you build",
+      "body": "A slightly wider stance, toes turned out a touch, or a small plate under your heels can help you squat deeper while your ankle range builds over a few weeks."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "An ankle that has stayed stiff since an old sprain, a pinching pain at the front of the ankle when you squat, or swelling after training is worth an assessment rather than more stretching."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want deeper, steadier squats?",
+      "body": "Our physios check your ankles, hips and squat pattern, then give you a short plan to build range you can actually use. Book online — link in bio."
+    }
+  ],
+  "caption": "Heels peeling off the floor at the bottom of your squat? Check your ankles before you blame your hips. 🏋️\n\nSquatting deep needs your knees to travel forward over your toes, and that relies on ankle bend. When it runs short, your heels lift, your chest drops forward or you stop early.\n\nTry the knee-to-wall test to compare sides, rock your knee forward for a few slow reps before you squat, and use a slightly wider stance or a small plate under your heels while your range builds. Pinching at the front of the ankle or a stiff ankle since an old sprain is worth getting assessed.\n\nOur Sydney CBD and Chatswood physios look at the whole squat, not just one joint. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#squat",
+    "#anklemobility",
+    "#mobility",
+    "#strengthtraining",
+    "#gymlife",
+    "#squattechnique",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy",
+    "#legday"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining how ankle mobility affects squat depth, with a knee-to-wall test, mobility drills, squat tweaks and when to get assessed.",
+  "story": {
+    "headline": "Heels lifting in your squat?",
+    "body": "Try the knee-to-wall test on both ankles. A big difference between sides is worth noting."
+  },
+  "scheduled_date": "2027-02-08",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

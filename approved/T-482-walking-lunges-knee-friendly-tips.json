@@ -1,0 +1,70 @@
+{
+  "id": "T-482",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Walking lunges: knee-friendly tips",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Walking lunges making your knees grumble?",
+      "sub": "A few setup tweaks that often make lunges feel smoother."
+    },
+    {
+      "kind": "body",
+      "title": "Find your stride length",
+      "body": "A short, cramped step pushes the front knee well forward. A slightly longer stride shares the work with your hip. Aim for a length where you feel balanced, not stretched."
+    },
+    {
+      "kind": "body",
+      "title": "Knees past toes is okay",
+      "body": "Your knee travelling past your toes is normal for most people. If your knee is sensitive for now, a small forward lean from the hips can shift some load towards your glutes."
+    },
+    {
+      "kind": "body",
+      "title": "Control the way down",
+      "body": "Lower for two or three seconds rather than dropping onto the back knee. Slow control on the way down builds strength and tends to feel smoother for sensitive knees."
+    },
+    {
+      "kind": "body",
+      "title": "Shrink the range first",
+      "body": "If full depth is sore, stop halfway or hold a rail. Reverse lunges or split squats on the spot are often easier, then build back towards walking lunges over a few weeks."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Knee swelling, locking or giving way, or pain that lingers for days after training, is worth an assessment rather than pushing through every session and hoping it settles."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want lunges that feel solid?",
+      "body": "Our Sydney CBD and Chatswood physios can watch your lunge, tweak your setup and build a plan for your knees. Book online — link in bio."
+    }
+  ],
+  "caption": "Walking lunges on every preseason program, and your knees aren't keen?\n\nLunges are a great exercise for legs and hips, and knees are usually well able to handle them. A few tweaks often make them feel much smoother.\n\nTry a slightly longer stride, lower slowly for two or three seconds, and don't stress about your knee going past your toes. If full depth is sore, shorten the range or switch to reverse lunges or split squats on the spot, then build back up.\n\nSwelling, locking, giving way, or pain that hangs around for days is worth getting checked. Our Sydney CBD and Chatswood physios can look at your lunge and adjust your program. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#lunges",
+    "#kneepain",
+    "#legday",
+    "#preseason",
+    "#strengthtraining",
+    "#gymtips",
+    "#kneehealth",
+    "#sportsphysio",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy with knee-friendly tips for walking lunges, covering stride length, knee position, controlled lowering, reducing range and when to get knee pain checked.",
+  "story": {
+    "headline": "Lunges bugging your knees?",
+    "body": "Lower slowly for two or three seconds and try a slightly longer stride. Still sore? Swap to split squats for now."
+  },
+  "scheduled_date": "2027-02-06",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "T-504",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee clicking: when it matters",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Knees click on the stairs?",
+      "sub": "Most clicks are harmless. Here's when it's worth a look."
+    },
+    {
+      "kind": "body",
+      "title": "Noise on its own is common",
+      "body": "Many knees click, crack or grind when squatting or climbing stairs. Research suggests painless knee noises are very common and usually aren't a sign of anything harmful happening inside."
+    },
+    {
+      "kind": "body",
+      "title": "Symptoms matter more than sound",
+      "body": "A click that comes with pain, swelling or a catching feeling is different from a noisy but comfortable knee. It's what happens around the sound that tells you more."
+    },
+    {
+      "kind": "body",
+      "title": "Don't let the noise slow you",
+      "body": "Avoiding stairs or squats because of a click can leave your legs less conditioned. Most noisy knees cope well with everyday use, so keep moving and build up gradually."
+    },
+    {
+      "kind": "body",
+      "title": "Strength often helps",
+      "body": "For noisy, mildly achy knees, gradual quad, hip and calf strength work often helps them feel more confident. Sit-to-stands and step-ups are a good starting point, three times a week."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Clicking with swelling after activity, pain that's getting worse, a knee that locks or gives way, or noise that started with a twist or injury is worth a physio assessment."
+    },
+    {
+      "kind": "cta",
+      "headline": "Clicks with pain or swelling?",
+      "body": "Our Sydney CBD and Chatswood physios look at what's behind the symptoms and build a plan to strengthen your knees. Book online — link in bio."
+    }
+  ],
+  "caption": "Knees sound like bubble wrap on the stairs?\n\nYou're far from alone. Clicking, cracking and grinding are very common, and research suggests painless knee noises usually aren't a sign of anything harmful.\n\nWhat matters more is what comes with the sound. Pain, swelling after activity, catching, locking or a knee that gives way are worth getting assessed, especially if the noise started with a twist or injury.\n\nIf your knees are noisy but comfortable, keep using them. Avoiding stairs can leave your legs less conditioned. Gradual quad, hip and calf strength, like sit-to-stands and step-ups, often helps knees feel more confident.\n\nOur Sydney CBD and Chatswood physios can take a look. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#kneeclicking",
+    "#crepitus",
+    "#kneestrength",
+    "#legday",
+    "#strengthtraining",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydney",
+    "#physio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining when knee clicking matters, why painless noise is common, how strength helps and which symptoms are worth an assessment.",
+  "story": {
+    "headline": "Clicky knees?",
+    "body": "Painless noise is common. Clicks with pain, swelling, locking or giving way are worth a check."
+  },
+  "scheduled_date": "2027-02-15",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

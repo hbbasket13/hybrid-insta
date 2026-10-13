@@ -1,0 +1,70 @@
+{
+  "id": "T-480",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Mallet finger in ball sports",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Fingertip won't straighten after a catch?",
+      "sub": "Mallet finger is common in ball sports. Here's what usually happens next."
+    },
+    {
+      "kind": "body",
+      "title": "What mallet finger is",
+      "body": "A ball hitting the tip of a straight finger can injure the tendon that straightens the last joint, sometimes with a small flake of bone. The fingertip then droops and can't lift on its own."
+    },
+    {
+      "kind": "body",
+      "title": "Get it looked at early",
+      "body": "See a GP, physiotherapist or hand therapist soon after the injury rather than waiting to see if it settles. An X-ray is often used, and early splinting is usually the main treatment."
+    },
+    {
+      "kind": "body",
+      "title": "The splint stays on",
+      "body": "The fingertip is usually kept straight in a splint, day and night, for a period set by your doctor. Letting it bend can set things back, so splint changes and skin care need care."
+    },
+    {
+      "kind": "body",
+      "title": "Keep the rest of the hand moving",
+      "body": "While the tip is splinted, gently moving the other finger joints, wrist and shoulder helps limit stiffness. Your physio can show you how to clean the skin and swap splints safely."
+    },
+    {
+      "kind": "body",
+      "title": "Back to ball sports",
+      "body": "Return to play is usually gradual, often with protective taping or a splint during games for a while. Timing depends on your injury and what your doctor or surgeon advises."
+    },
+    {
+      "kind": "cta",
+      "headline": "Fingertip drooping after a game?",
+      "body": "Our Sydney CBD and Chatswood physios can assess your finger, work with your GP and guide splinting and your return to sport. Book online — link in bio."
+    }
+  ],
+  "caption": "Caught a ball on the end of your finger and now the tip won't straighten?\n\nThat's often called mallet finger. It's common in cricket, netball, basketball, touch footy and as winter sport preseason starts. The tendon that straightens the last joint is injured, sometimes with a small piece of bone.\n\nIt's worth getting it looked at early rather than waiting. Splinting is usually the main treatment, with the tip kept straight day and night for a period your doctor sets. Keeping the other joints moving helps, and return to sport is gradual, guided by your doctor or surgeon. 🏏\n\nOur Sydney CBD and Chatswood physios can assess the finger, coordinate with your GP and guide your return to play. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#malletfinger",
+    "#fingerinjury",
+    "#handinjury",
+    "#sportsinjury",
+    "#netball",
+    "#cricket",
+    "#basketball",
+    "#sportsphysio",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining mallet finger in ball sports, why early assessment and splinting matter, keeping the hand moving and a gradual return to sport guided by your doctor.",
+  "story": {
+    "headline": "Fingertip won't straighten?",
+    "body": "Mallet finger is common in ball sports. Get it looked at early, as splinting is usually the main treatment."
+  },
+  "scheduled_date": "2027-02-05",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

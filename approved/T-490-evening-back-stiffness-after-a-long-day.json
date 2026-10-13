@@ -1,0 +1,70 @@
+{
+  "id": "T-490",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Evening back stiffness after a long day",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Back stiff by dinner time?",
+      "sub": "Why long days catch up with your back, and what can help."
+    },
+    {
+      "kind": "body",
+      "title": "Why evenings feel stiffer",
+      "body": "After hours of sitting, standing or driving in similar positions, your back can feel tight and achy by evening. It's often your body asking for a change of position rather than a sign of harm."
+    },
+    {
+      "kind": "body",
+      "title": "Break up the day",
+      "body": "Change position every 30 to 45 minutes. Stand for calls, walk to refill your water and take the stairs. Varying how you load your back through the day often helps more than one long stretch at night."
+    },
+    {
+      "kind": "body",
+      "title": "Try a five-minute wind-down",
+      "body": "Try gentle knee rocks lying on your back, cat-cow on your hands and knees, and a short walk after dinner. Easy movement tends to ease stiffness more than settling straight onto the couch."
+    },
+    {
+      "kind": "body",
+      "title": "Where chiropractic can fit",
+      "body": "Our chiropractors assess how your spine and hips move, then may use hands-on techniques alongside exercises and changes to your daily habits. Adjustments are one tool, not the whole plan."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "Back pain with numbness, leg weakness, changes to bladder or bowel control, fever or unexplained weight loss needs prompt medical review. Stiffness that keeps building over weeks is worth assessing."
+    },
+    {
+      "kind": "cta",
+      "headline": "Want easier evenings?",
+      "body": "Our chiropractors look at how your back moves through a typical day and build a plan that includes movement you can do at home. Book online — link in bio."
+    }
+  ],
+  "caption": "Fine in the morning, stiff as a board by dinner? You're not alone.\n\nLong days of sitting, standing or commuting in similar positions often leave the back feeling tight by evening. Usually that's your body asking for more variety, not a sign something is wrong.\n\nSmall changes help: move every 30 to 45 minutes, stand for calls, and finish the day with five minutes of knee rocks, cat-cow and a short walk. Numbness, leg weakness, bladder or bowel changes, fever or unexplained weight loss need prompt medical review.\n\nOur chiropractors at Hybrid Physiotherapy combine hands-on care with exercises and habit changes you can keep up. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#backpain",
+    "#lowerbackpain",
+    "#stiffback",
+    "#deskjob",
+    "#officelife",
+    "#movemore",
+    "#mobility",
+    "#sydneychiro",
+    "#sydney",
+    "#sydneycbd",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on evening back stiffness after a long day, with tips for breaking up the day, a five-minute wind-down, where chiropractic fits and when to get checked.",
+  "story": {
+    "headline": "Back stiff by dinner?",
+    "body": "Five minutes of knee rocks, cat-cow and a short walk after dinner can ease end-of-day stiffness."
+  },
+  "scheduled_date": "2027-02-10",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

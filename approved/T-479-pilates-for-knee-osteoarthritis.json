@@ -1,0 +1,69 @@
+{
+  "id": "T-479",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for knee osteoarthritis",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Knee arthritis? Your first reformer weeks",
+      "sub": "What clinical Pilates can look like when your knees grumble."
+    },
+    {
+      "kind": "body",
+      "title": "It starts with a chat and checks",
+      "body": "Your first session usually starts with questions about your knees, daily activities and goals, plus a few simple movement checks. That shapes which exercises and spring settings suit you."
+    },
+    {
+      "kind": "body",
+      "title": "Footwork on the reformer",
+      "body": "Lying down and pressing the carriage away lets you strengthen thighs and hips with less body weight through the knee. Springs and range can be adjusted as you go."
+    },
+    {
+      "kind": "body",
+      "title": "Some knee feedback is normal",
+      "body": "Mild aching during or after exercise is common with knee osteoarthritis and usually settles within a day. If your knee is much worse the next morning, say so and the plan gets adjusted."
+    },
+    {
+      "kind": "body",
+      "title": "Build towards standing work",
+      "body": "Over the weeks, sessions often add standing work like step-ups, sit-to-stands and balance, so the strength carries over to stairs, walking and getting out of the car."
+    },
+    {
+      "kind": "body",
+      "title": "When to get it checked",
+      "body": "A knee that locks or gives way, becomes hot and very swollen, or pain that keeps you up at night is worth checking with a physiotherapist or GP before you start."
+    },
+    {
+      "kind": "cta",
+      "headline": "Keep your knees in the mix",
+      "body": "Our Pilates team tailors each session to your knees and goals, with physio input when you need it. Book online — link in bio."
+    }
+  ],
+  "caption": "Knee arthritis doesn't mean you have to stop exercising.\n\nCurrent guidelines put exercise at the centre of managing knee osteoarthritis. Clinical Pilates can be a comfortable way in: reformer footwork lets you build thigh and hip strength with less load through the knee, and sessions can gradually move towards standing work that helps with stairs and walking.\n\nSome mild aching during or after a session is common and usually settles within a day. A knee that is much worse the next morning just means the plan needs adjusting.\n\nLocking, giving way, a hot swollen knee or night pain are worth checking first. Our Pilates team at Hybrid Physiotherapy builds sessions around your knees. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#kneeosteoarthritis",
+    "#osteoarthritis",
+    "#kneepain",
+    "#arthritis",
+    "#strengthtraining",
+    "#healthyageing",
+    "#sydneypilates",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy describing what clinical Pilates can look like for knee osteoarthritis, from the first assessment to reformer and standing exercises, and when to get the knee checked.",
+  "story": {
+    "headline": "Knee arthritis and keen to move?",
+    "body": "Reformer footwork lets you build strength with less load through the knee. Mild aching that settles within a day is common."
+  },
+  "scheduled_date": "2027-02-05",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

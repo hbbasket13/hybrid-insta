@@ -1,0 +1,69 @@
+{
+  "id": "T-481",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Hurt doesn't always mean harm",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Sore during rehab? How to read it",
+      "sub": "Pain is a protector, not a damage meter. A simple way to judge it."
+    },
+    {
+      "kind": "body",
+      "title": "Pain is a protector",
+      "body": "Your nervous system produces pain to protect you. It responds to sleep, stress, worry and past experience as well as load on your tissues, so the volume isn't always a measure of damage."
+    },
+    {
+      "kind": "body",
+      "title": "Use a 0 to 10 guide",
+      "body": "During exercise, pain up to about 3 or 4 out of 10 that settles soon after is often acceptable in rehab. Your practitioner can set the number that suits your situation."
+    },
+    {
+      "kind": "body",
+      "title": "Check the next morning",
+      "body": "If you're back to your usual baseline by the next morning, the load was likely fine. If things are noticeably worse, ease back a step rather than stopping everything."
+    },
+    {
+      "kind": "body",
+      "title": "Adjust, don't abandon",
+      "body": "Change one thing at a time: fewer reps, less weight, a smaller range or more rest between sets. Most people keep progressing with small tweaks rather than complete rest."
+    },
+    {
+      "kind": "body",
+      "title": "When pain means get checked",
+      "body": "Sudden severe pain, new swelling, a joint giving way, numbness or weakness, fever, or night pain that doesn't ease with rest are signs to get assessed."
+    },
+    {
+      "kind": "cta",
+      "headline": "Not sure how hard to push?",
+      "body": "Our team can help you understand your pain and set clear limits for exercise and daily life. Book online — link in bio."
+    }
+  ],
+  "caption": "A twinge during exercise doesn't automatically mean you've made things worse.\n\nPain is your body's protection system, and it's influenced by sleep, stress and past experience as well as what your tissues are doing. That's why it isn't a reliable damage meter on its own.\n\nA practical approach many rehab programs use: mild pain during exercise, often up to 3 or 4 out of 10, that settles soon after is usually okay. Then check the next morning. Back to baseline? Carry on. Noticeably worse? Ease back one step instead of stopping completely.\n\nSudden severe pain, swelling, numbness, weakness or night pain are worth getting checked. Our team at Hybrid Physiotherapy can help you set limits that suit you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#painscience",
+    "#chronicpain",
+    "#rehab",
+    "#injuryrecovery",
+    "#exerciseismedicine",
+    "#pain",
+    "#movement",
+    "#strengthtraining",
+    "#sydneyphysio",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy explaining that pain during exercise doesn't always mean damage, with a 0 to 10 guide, a next-morning check, how to adjust exercise and when to get assessed.",
+  "story": {
+    "headline": "Twinge during exercise?",
+    "body": "Check the next morning. Back to baseline means the load was likely fine. Worse? Ease back one step, don't stop everything."
+  },
+  "scheduled_date": "2027-02-06",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}

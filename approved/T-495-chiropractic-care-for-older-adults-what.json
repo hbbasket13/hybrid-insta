@@ -1,0 +1,69 @@
+{
+  "id": "T-495",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Chiropractic care for older adults: what to expect",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "headline": "Seeing a chiropractor after 65?",
+      "sub": "Gentle, assessment-led care that keeps movement and exercise front and centre."
+    },
+    {
+      "kind": "body",
+      "title": "It starts with your history",
+      "body": "Your chiropractor asks about your health, medications, past injuries, bone health and what you want to keep doing. This guides which techniques suit you and which to leave out."
+    },
+    {
+      "kind": "body",
+      "title": "Gentle techniques are common",
+      "body": "Care for older adults often uses gentle options such as low-force mobilisation, soft tissue work or instrument-assisted techniques. These are chosen after assessment, and you can say no to anything."
+    },
+    {
+      "kind": "body",
+      "title": "Exercise is a big part",
+      "body": "Expect simple exercises for strength, balance and mobility to do at home. Research suggests regular exercise supports confidence on your feet and everyday tasks as we age."
+    },
+    {
+      "kind": "body",
+      "title": "Working with your GP",
+      "body": "If you have osteoporosis or another health condition, your chiropractor will adapt their approach and may liaise with your GP. Chiropractic care isn't a treatment for these conditions."
+    },
+    {
+      "kind": "body",
+      "title": "When to see your GP first",
+      "body": "New back pain after a fall, sudden severe pain, unexplained weight loss, or numbness or weakness in the legs needs medical review before any hands-on care."
+    },
+    {
+      "kind": "cta",
+      "headline": "Care that suits you",
+      "body": "Our chiropractors take time to assess you, choose gentle techniques that suit you and pair them with exercise. Book online — link in bio."
+    }
+  ],
+  "caption": "Thinking about seeing a chiropractor in your 60s, 70s or beyond? Here's what to expect.\n\nYour first visit starts with a thorough history: your health, medications, bone health, past injuries and what you'd like to keep doing. That shapes which techniques are suitable, and gentle, low-force options are common.\n\nExercise is a big part of the plan, with simple strength, balance and mobility work to do at home. If you have osteoporosis or another condition, your chiropractor adapts their approach and may liaise with your GP. New pain after a fall or leg numbness needs medical review first.\n\nOur chiropractors at Hybrid Physiotherapy take time to explain each step. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#healthyageing",
+    "#activeageing",
+    "#seniorshealth",
+    "#balance",
+    "#strengthtraining",
+    "#backpain",
+    "#mobility",
+    "#sydneychiro",
+    "#sydney",
+    "#northshore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide carousel from Hybrid Physiotherapy on what to expect from chiropractic care for older adults, covering the initial history, gentle techniques chosen after assessment, home exercise, working with your GP and when to see a GP first.",
+  "story": {
+    "headline": "Chiro in your 60s or 70s?",
+    "body": "Expect a thorough history, gentle techniques chosen after assessment, and simple exercises for strength and balance."
+  },
+  "scheduled_date": "2027-02-11",
+  "created": "2026-10-13",
+  "status": "approved",
+  "review_warnings": []
+}
