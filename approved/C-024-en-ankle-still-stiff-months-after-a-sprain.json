@@ -1,0 +1,131 @@
+{
+  "id": "C-024-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Ankle still stiff months after a sprain",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Three months on, Toto's<br>ankle is <em>still stiff</em>",
+      "sub": "Common, and usually very trainable",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's find a<br>starting point!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The pain's gone, but<br>runs feel <em>a bit blocked</em>.",
+      "char": "rabbit_tired",
+      "bubble": "It doesn't hurt..<br>so why won't<br>it bend?",
+      "bubble_type": "thought",
+      "note": "(rehab stopped the day the pain did..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto hopped over<br>to <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Toto!<br>Old ankle sprain?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep, and it still<br>feels stiff.."
+      },
+      "note": "Hybi suggested <mark>comparing both ankles</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Try the <em>knee to wall</em> test!",
+      "fact": "Foot about <em>10 cm</em> from the wall, heel down, knee forward",
+      "left": {
+        "label": "Bends well",
+        "char": "rabbit_happy",
+        "caption": "Heel stays down,<br>knee <b>touches the wall</b>"
+      },
+      "right": {
+        "label": "Stiff side",
+        "char": "rabbit_tired",
+        "caption": "Knee <em>can't reach</em><br>the wall"
+      },
+      "quip": "A big difference means<br>movement to win back!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>ankle comeback plan</b>",
+      "sub": "Morning and evening!",
+      "sections": [
+        {
+          "heading": "1. Movement, strength, balance",
+          "color": "yellow",
+          "lines": [
+            "① Knee to wall rocks: <em>10–15 slow reps</em>.",
+            "② Calf stretch off a step: <em>hold 30 sec</em>.",
+            "③ Calf raises: <em>15 reps</em>.",
+            "④ Single-leg balance: <em>30 sec</em>, compare sides."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "The ankle <em>keeps giving way</em>, or",
+            "there's sharp pain in one spot."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>not quite right</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth getting checked if",
+      "items": [
+        "It keeps giving way",
+        "Swelling hangs around",
+        "It locks or catches"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Sprained your ankle months ago and it still feels stiff? Like Toto, many people stop rehab once the pain eases, before full movement comes back.\n\nTry the knee to wall test: foot about 10 cm from the wall, heel down, bend your knee to touch it, then compare sides. A big difference suggests there's movement worth getting back.\n\nStart with slow knee to wall rocks, 10–15 reps a few times a day, then add calf raises and single-leg balance to rebuild control.\n\nAn ankle that keeps giving way, stays swollen or locks is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#anklesprain",
+    "#anklerehab",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#running",
+    "#sportsphysio",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#balancetraining"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi helps Toto the rabbit check a stiff ankle with the knee to wall test, with a movement, strength and balance plan and signs to get checked.",
+  "story": {
+    "headline": "Ankle still stiff?",
+    "body": "Try the knee to wall test<br>and compare both sides.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-22",
+  "created": "2026-10-22-6",
+  "status": "approved",
+  "review_warnings": []
+}

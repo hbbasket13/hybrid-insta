@@ -1,0 +1,131 @@
+{
+  "id": "C-030-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Your first remedial massage: what happens",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's first<br><em>remedial massage</em>",
+      "sub": "How a session usually runs, from start to finish",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "First time?<br>No stress!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The night before,<br>Mr Turtle has <em>questions</em>.",
+      "char": "turtle_sad",
+      "bubble": "Do I undress fully..?<br>What if it hurts..?",
+      "bubble_type": "thought",
+      "note": "(his list of questions fills a page..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Booking day, in the<br><b>Hybrid Physio</b> waiting room.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome!<br>Your first one?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yep.. no idea<br>what happens."
+      },
+      "note": "Hybi walked him through <mark>how a session usually runs</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Pressure</em> is yours to set",
+      "fact": "Firm is fine, but it <em>shouldn't make you hold your breath</em>",
+      "left": {
+        "label": "Speak up",
+        "char": "turtle_happy",
+        "caption": "\"A bit lighter?\"<br><b>Any time is fine</b>"
+      },
+      "right": {
+        "label": "Grit your teeth",
+        "char": "turtle_sad",
+        "caption": "Holding your breath<br><em>tenses you up</em>"
+      },
+      "quip": "You're in charge<br>of the pressure!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first-massage guide</b>",
+      "sub": "Know this and you'll relax!",
+      "sections": [
+        {
+          "heading": "1. How it usually goes",
+          "color": "yellow",
+          "lines": [
+            "① A short <em>health form</em> and a chat.",
+            "② Mention <em>pregnancy, recent surgery, meds</em>.",
+            "③ Undress to your comfort, <em>towels on</em>.",
+            "④ After: drink water, <em>keep moving gently</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>sharp pain</em> or tingling —",
+            "say so straight away."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check first <em>if you have</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get assessed first if",
+      "items": [
+        "New pain after an injury",
+        "Tingling in arms or legs",
+        "Pain that keeps worsening"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Booked your first remedial massage and not sure what to expect? Here's how a session usually runs.\n\nYou'll start with a short health form and a chat. Mention pregnancy, recent surgery, medications or skin conditions. You only undress to your comfort level and stay covered with towels except for the area being worked on.\n\nPressure can be firm, but it shouldn't make you hold your breath. Ask for lighter or firmer any time. Feeling loose, tired or a little sore for a day or two is normal.\n\nMassage works well alongside active rehab rather than instead of it. Our remedial massage therapists at Hybrid Physio look forward to meeting you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#sydneycbdmassage",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#officeworker",
+    "#musclerecovery",
+    "#massage",
+    "#selfcare"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi walks Mr Turtle through his first remedial massage, covering the health check, draping, adjusting pressure, aftercare and when to get assessed first.",
+  "story": {
+    "headline": "First remedial massage?",
+    "body": "Quick chat, towels on,<br>and speak up about pressure.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-24",
+  "created": "2026-10-24-6",
+  "status": "approved",
+  "review_warnings": []
+}

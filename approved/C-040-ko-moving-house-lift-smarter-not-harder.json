@@ -1,0 +1,131 @@
+{
+  "id": "C-040-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Moving house: lift smarter, not harder",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "루루, 이사하는 날<br><em>허리를 지키는 법</em>",
+      "sub": "이사는 하루짜리 전신 운동이에요",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "요령 있게<br>들어봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "현장 일은 자신 있는데,<br>이삿짐 <em>200박스</em>는 처음.",
+      "char": "kanga_tired",
+      "bubble": "책 박스가 왜 이렇게<br>무겁지..?",
+      "bubble_type": "thought",
+      "note": "(제일 큰 박스에 책을 다 넣었다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "이사 전날, <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "루루, 박스 싸는 법부터<br>바꿔볼까요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "저 힘은 좋은데요?<br>그냥 들면 안 돼요?"
+      },
+      "note": "하비는 <mark>힘보다 요령</mark>이라고 말했다."
+    },
+    {
+      "kind": "compare",
+      "title": "무거운 건 <em>작은 박스</em>에!",
+      "fact": "책은 작은 박스, 이불은 큰 박스 · <em>숨 참지 않을 무게</em>로",
+      "left": {
+        "label": "몸에 붙여서",
+        "char": "kanga_happy",
+        "caption": "엉덩이·무릎 굽히고<br>발로 <b>방향 돌리기</b>"
+      },
+      "right": {
+        "label": "허리로 비틀기",
+        "char": "kanga_tired",
+        "caption": "멀리 들고 비틀면<br><em>허리 부담이 커요</em>"
+      },
+      "quip": "어색한 짐은<br>카트랑 친구랑!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>이사 당일 플랜</b>",
+      "sub": "첫 박스 들기 전에!",
+      "sections": [
+        {
+          "heading": "1. 이사 날 루틴",
+          "color": "yellow",
+          "lines": [
+            "① 걷기·스쾃·몸통 돌리기 <em>5분 워밍업</em>",
+            "② 박스는 <em>몸에 바짝</em>, 발로 방향 돌리기",
+            "③ <em>1시간마다</em> 쉬고 물 마시기",
+            "④ 마지막 몇 박스일수록 천천히"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료받기",
+          "color": "purple",
+          "lines": [
+            "다리로 <em>퍼지는 통증·저림·힘 빠짐</em>,",
+            "<em>배뇨·배변 변화</em>는 바로 진료받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "일주일 지나도 <em>뻐근하다면?</em>",
+      "bubble": "사람마다 원인이 달라요.<br><b>정확한 평가</b>부터!",
+      "heading": "이럴 땐 확인받아 보세요",
+      "items": [
+        "다리로 통증이 퍼진다",
+        "저림이나 힘 빠짐",
+        "일주일째 그대로다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "현장 일엔 자신 있는 루루도 이삿짐 200박스는 처음. 이사는 하루 종일 무거운 걸 드는 전신 운동이라, 운동하듯 준비하면 좋아요.\n\n책은 작은 박스, 이불은 큰 박스에. 첫 박스 들기 전 5분 워밍업, 박스는 몸에 바짝 붙이고 허리 대신 발로 방향 돌리기. 어색한 짐은 카트와 친구 손을 빌려요.\n\n지치는 오후가 될수록 천천히! 다리로 퍼지는 통증, 저림, 힘 빠짐은 바로 확인이 필요해요.\n\n일주일이 지나도 뻐근하면 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 📦\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#이사",
+    "#허리통증",
+    "#허리건강",
+    "#들기자세",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#chiropractic",
+    "#chatswood",
+    "#movingday"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 이삿날 허리를 지키는 박스 싸기, 들기 자세 비교, 이사 당일 플랜, 확인이 필요한 신호.",
+  "story": {
+    "headline": "이삿날, 허리 지키는 요령",
+    "body": "책은 작은 박스에,<br>들 땐 몸에 바짝!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-29",
+  "created": "2026-10-29-1",
+  "status": "approved",
+  "review_warnings": []
+}

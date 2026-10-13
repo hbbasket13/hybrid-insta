@@ -1,0 +1,131 @@
+{
+  "id": "C-039-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "High hamstring pain when sitting",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's sit bone<br><em>hurts every time he sits</em>",
+      "sub": "Stretching harder might not be the answer",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's change how<br>you sit first!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The day after hill runs,<br>his office chair <em>bites back</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Maybe I just need<br>to stretch harder..?",
+      "bubble_type": "thought",
+      "note": "(so every day, a big deep hamstring stretch..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Fed up, he went to see<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Toto, hang on!<br>About that stretch.."
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Huh? Isn't<br>stretching good?"
+      },
+      "note": "Hybi explained how <mark>stretching can squash the tendon</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Deep stretches can<br><em>press on the tendon</em>",
+      "fact": "Your hamstring tendons attach to <em>your sit bone</em>",
+      "left": {
+        "label": "Gentle holds",
+        "char": "rabbit_happy",
+        "caption": "Bridges and holds help<br>the tendon <b>adapt</b>"
+      },
+      "right": {
+        "label": "Stretch harder",
+        "char": "rabbit_tired",
+        "caption": "Pressing on the bone<br>can <em>keep it sensitive</em>"
+      },
+      "quip": "Pausing deep stretches<br>for a few weeks is OK!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute tendon care</b>",
+      "sub": "Start today!",
+      "sections": [
+        {
+          "heading": "1. Sit smarter + hold",
+          "color": "yellow",
+          "lines": [
+            "① Firm chair, a <em>folded towel</em> under your thighs.",
+            "② Get up and walk every <em>30 minutes</em>.",
+            "③ Bridge hold <em>30 sec × 5</em>, once a day.",
+            "④ Pause deep hamstring stretches for now."
+          ]
+        },
+        {
+          "heading": "2. Get it checked soon if…",
+          "color": "purple",
+          "lines": [
+            "You felt a <em>pop</em> or see <em>bruising</em>, or",
+            "<em>tingling</em> runs down the leg."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to get<br><em>it looked at</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if",
+      "items": [
+        "A sudden pop or bruising",
+        "Tingling down the leg",
+        "Pain keeps getting worse"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Sore right in the sit bone every time you sit? Toto's answer was to stretch harder. That can backfire.\n\nThe hamstring tendons attach to your sit bone. Deep stretching and long sitting can press the tendon against the bone and keep it sensitive.\n\nWhat usually helps: pausing deep hamstring stretches for a few weeks, firmer chairs, getting up every 30 minutes, and gradual strength work that starts with simple holds like a 30-second bridge, 5 times.\n\nA sudden pop, bruising or tingling down the leg is worth checking soon. Our Chatswood and Sydney CBD physios can guide a loading plan. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#hamstring",
+    "#tendinopathy",
+    "#runninginjury",
+    "#runners",
+    "#sittingpain",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why high hamstring pain flares with sitting, holds versus deep stretching, a 1-minute tendon routine and signs worth getting checked.",
+  "story": {
+    "headline": "Sit bone sore? Pause the stretch.",
+    "body": "Bridge hold 30 sec × 5,<br>firm chair, towel under.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-28",
+  "created": "2026-10-28-6",
+  "status": "approved",
+  "review_warnings": []
+}

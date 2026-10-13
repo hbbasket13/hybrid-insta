@@ -1,0 +1,131 @@
+{
+  "id": "C-023-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Jaw tension, stress and neck tightness",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle, are you<br><em>clenching</em> right now?",
+      "sub": "How jaw tension, stress and a tight neck link up",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Are your teeth<br>touching?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Deadline week.<br>Even his <em>jaw</em> is tired.",
+      "char": "turtle_sad",
+      "bubble": "Why do my temples<br>and neck feel<br>so tight..?",
+      "bubble_type": "thought",
+      "note": "(waking up with a heavy jaw, too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So he went to see Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Good to see you!<br>Busy few weeks?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "My jaw and neck<br>ache together. Why?"
+      },
+      "note": "Hybi explained the <mark>jaw and neck are next-door neighbours</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Here's a <em>resting jaw</em>!",
+      "fact": "The jaw, neck and shoulders <em>share muscles and nerves</em>",
+      "left": {
+        "label": "Resting jaw",
+        "char": "turtle_happy",
+        "caption": "Lips gently closed,<br><b>teeth apart</b>"
+      },
+      "right": {
+        "label": "Clenched jaw",
+        "char": "turtle_sad",
+        "caption": "Teeth pressed together,<br><em>neck tenses too</em>"
+      },
+      "quip": "Tongue resting on<br>the roof of your mouth!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute jaw unwind</b>",
+      "sub": "Set a reminder a few times a day!",
+      "sections": [
+        {
+          "heading": "1. Ease the jaw and neck",
+          "color": "yellow",
+          "lines": [
+            "① Check: teeth touching? <em>Let them part</em>.",
+            "② Roll your shoulders back <em>5 times</em>, hourly.",
+            "③ Tuck your chin, turn side to side <em>5 times</em>.",
+            "④ Before bed: <em>slow circles</em> in front of the ear."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your jaw <em>locks</em> or eating gets hard,",
+            "or your face feels numb — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Jaw still <em>bothering you</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See your dentist or GP if",
+      "items": [
+        "Your jaw locks or catches",
+        "Chewing becomes hard",
+        "New, severe headaches"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Quick check: are your teeth touching right now? During deadline week, Mr Turtle was clenching all day without noticing.\n\nThe jaw, neck and upper shoulders share muscles and nerves, so tension in one often shows up in the others. Stress, long screen days and poor sleep can all add to it.\n\nA resting jaw looks like this: lips gently closed, teeth apart, tongue on the roof of your mouth. Hourly shoulder rolls, gentle chin tucks and slow breathing before bed can help.\n\nIf your jaw locks or eating gets hard, see your dentist or GP. Our chiropractors at Hybrid Physio can assess your neck, jaw and upper back together. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#jawtension",
+    "#jawclenching",
+    "#neckpain",
+    "#stressrelief",
+    "#chiropractor",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#officeworker",
+    "#tmj"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains to Mr Turtle how jaw clenching, stress and neck tightness connect, with a one-minute jaw unwind and signs to get checked.",
+  "story": {
+    "headline": "Teeth touching right now?",
+    "body": "Lips closed, teeth apart,<br>tongue on the roof of your mouth.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-22",
+  "created": "2026-10-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

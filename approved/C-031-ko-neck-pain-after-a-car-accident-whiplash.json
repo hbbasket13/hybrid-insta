@@ -1,0 +1,131 @@
+{
+  "id": "C-031-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Neck pain after a car accident (whiplash)",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "교통사고 다음 날,<br><em>목이 뻣뻣해졌다면</em>",
+      "sub": "흔한 것, 도움 되는 것, 확인할 때",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "차근차근<br>알아봐요."
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "가벼운 접촉사고,<br>그땐 <em>멀쩡했는데</em>..",
+      "char": "turtle_sad",
+      "bubble": "어제는 괜찮았는데<br>오늘 아침 왜<br>목이 안 돌지..?",
+      "bubble_type": "thought",
+      "note": "(하루 지나서 뻐근함이 시작됐다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "놀란 거북씨, <b>하이브리드 피지오</b>로<br>향했다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "많이 놀랐죠?<br>천천히 얘기해요."
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "늦게 아픈 건<br>큰일인가요..?"
+      },
+      "note": "하비는 <mark>늦게 오는 뻐근함은 흔하다</mark>고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>살살 움직이기</em>가 도움돼요",
+      "fact": "지침은 보통 <em>목 보호대로 쉬기</em>보다 활동 유지를 권해요",
+      "left": {
+        "label": "살살 움직이기",
+        "char": "turtle_happy",
+        "caption": "고개 돌리기,<br><b>짧은 산책</b>"
+      },
+      "right": {
+        "label": "꼼짝 않기",
+        "char": "turtle_sad",
+        "caption": "계속 고정하면<br><em>더 뻣뻣</em>해질 수 있어요"
+      },
+      "quip": "대부분 몇 주에 걸쳐<br>꾸준히 나아져요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>사고 후 목 관리</b>",
+      "sub": "편한 범위 안에서만!",
+      "sections": [
+        {
+          "heading": "1. 매일 조금씩",
+          "color": "yellow",
+          "lines": [
+            "① 고개 좌우 돌리기 <em>5회씩</em>, 하루 몇 번",
+            "② 어깨 굴리기 <em>10회</em>",
+            "③ 짧은 산책, 뭉친 곳엔 <em>따뜻한 찜질</em>",
+            "④ 운전·업무는 <em>조금씩</em> 늘리기"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기",
+          "color": "purple",
+          "lines": [
+            "<em>팔 저림·힘 빠짐</em>, 어지럼,",
+            "삼키기 힘들면 바로 병원·응급실로!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "먼저 <em>의사에게</em> 확인받기",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 바로 진료",
+      "items": [
+        "심한 목 통증",
+        "팔이 저리거나 약하다",
+        "어지럼·심한 두통"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "교통사고 뒤 그땐 괜찮았는데, 다음 날 목이 뻣뻣해졌나요? 몇 시간에서 하루 이틀 뒤에 뻐근함이 시작되는 건 흔한 일이고, 대부분 몇 주에 걸쳐 꾸준히 나아져요.\n\n먼저 심한 통증, 팔 저림·힘 빠짐, 어지럼, 삼키기 어려움이 있으면 바로 의사나 응급실로 가세요.\n\n그 외엔 보호대로 고정하기보다 편한 범위에서 고개 돌리기, 어깨 굴리기, 짧은 산책이 도움이 될 수 있어요. CTP 클레임이 있다면 클레임 번호를 챙겨오세요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#교통사고",
+    "#편타손상",
+    "#목통증",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#whiplash",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비가 거북씨에게 교통사고 뒤 늦게 오는 목 뻣뻣함, 바로 진료가 필요한 신호, 편한 범위에서 움직이는 방법을 알려주는 7장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "사고 다음 날 목이 뻣뻣?",
+    "body": "먼저 위험 신호 확인,<br>그다음 살살 움직이기.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-26",
+  "created": "2026-10-26-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-041-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Tailbone pain when sitting",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's tailbone<br><em>hurts every time he sits</em>",
+      "sub": "A tailbone story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's make sitting<br>easier!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Three meetings in a row,<br>and his tailbone <em>protests</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Standing up is<br>the worst part..!",
+      "bubble_type": "thought",
+      "note": "(perched on the edge of his chair, just coping..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On the way home, he met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Mr Turtle, is it<br>your tailbone?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yes.. but I never<br>even fell over?"
+      },
+      "note": "Hybi reassured him it <mark>sometimes appears for no clear reason</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Let your <em>sit bones</em><br>take the weight!",
+      "fact": "Leaning <em>slightly forward</em> takes pressure off the tailbone",
+      "left": {
+        "label": "Lean forward",
+        "char": "turtle_happy",
+        "caption": "Weight shared across<br>your <b>two sit bones</b>"
+      },
+      "right": {
+        "label": "Slump back",
+        "char": "turtle_sad",
+        "caption": "Weight goes <em>straight</em><br><em>onto the tailbone</em>"
+      },
+      "quip": "One good cushion<br>can make a difference!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>tailbone-friendly day</b>",
+      "sub": "Small changes, starting today!",
+      "sections": [
+        {
+          "heading": "1. Sitting and standing",
+          "color": "yellow",
+          "lines": [
+            "① Use a <em>wedge or U-shaped cushion</em> with a cut-out.",
+            "② Sit leaning <em>slightly forward</em>.",
+            "③ Stand every <em>30 minutes</em>; take calls standing.",
+            "④ Slow breathing, soften your glutes, <em>1 minute</em>."
+          ]
+        },
+        {
+          "heading": "2. See your GP promptly if…",
+          "color": "purple",
+          "lines": [
+            "You have a <em>fever</em> or <em>numbness</em>, or",
+            "<em>bladder or bowel</em> control changes."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to<br><em>get it checked</em>",
+      "bubble": "Every body is different.<br>Let's <b>assess</b> first!",
+      "heading": "Get checked promptly if",
+      "items": [
+        "Pain after a big fall",
+        "Pain keeps getting worse",
+        "Fever or numbness"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Wincing every time you sit down? Mr Turtle's tailbone flares by the third meeting of the day.\n\nTailbone pain is more common than people think. It can follow a fall onto the bottom, long hours of sitting or childbirth, and sometimes it appears with no clear trigger. It can be slow to settle, but most people improve with a few practical changes.\n\nTry a wedge or cut-out cushion, lean slightly forward so your sit bones take the weight, stand up every 30 minutes and ease tension in the muscles around it.\n\nPain after a significant fall, fever, numbness or bladder and bowel changes should be checked by your GP. Our Sydney CBD and Chatswood physios can assess the rest. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#tailbonepain",
+    "#coccyx",
+    "#sittingpain",
+    "#deskjob",
+    "#officeworker",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining common causes of tailbone pain, leaning forward versus slumping, a tailbone-friendly day and signs worth getting checked.",
+  "story": {
+    "headline": "Tailbone sore when you sit?",
+    "body": "Lean slightly forward,<br>stand every 30 minutes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-29",
+  "created": "2026-10-29-2",
+  "status": "approved",
+  "review_warnings": []
+}

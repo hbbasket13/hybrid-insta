@@ -1,0 +1,131 @@
+{
+  "id": "C-038-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Why reformer springs are great for rehab",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why reformer springs<br>are <em>great for rehab</em>",
+      "sub": "Momo meets the machine with the springs",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let me show you<br>what they do!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A sore knee has kept<br>Momo <em>off her feet</em>.",
+      "char": "cat_tired",
+      "bubble": "I want to move again..<br>but where do I start?",
+      "bubble_type": "thought",
+      "note": "(even one squat feels a bit scary right now..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Momo, ever tried<br>a reformer?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "With the springs?<br>They look scary.."
+      },
+      "note": "Hybi showed her <mark>the two jobs a spring can do</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Springs can <em>help you</em><br>or <em>challenge you</em>!",
+      "fact": "Change one spring and the load shifts <em>in small steps</em>",
+      "left": {
+        "label": "Adjust springs",
+        "char": "cat_happy",
+        "caption": "Lying down, step by step,<br>load <b>builds gradually</b>"
+      },
+      "right": {
+        "label": "Jump to weights",
+        "char": "cat_tired",
+        "caption": "Full bodyweight too soon<br><em>can be a lot</em>"
+      },
+      "quip": "Control the way back,<br>that builds strength too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>reformer first steps</b>",
+      "sub": "New to it? Start here!",
+      "sections": [
+        {
+          "heading": "1. Using springs in rehab",
+          "color": "yellow",
+          "lines": [
+            "① Learn the move lying down, <em>springs assisting</em>.",
+            "② Change <em>one spring at a time</em> to add load.",
+            "③ Return the carriage slowly, <em>over 3 seconds</em>.",
+            "④ Progress to standing work when ready."
+          ]
+        },
+        {
+          "heading": "2. Stop and tell us if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>keeps building</em> during a move, or",
+            "a joint feels <em>unstable</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Assessment<br><em>before you start</em>!",
+      "bubble": "Every body is different.<br>Let's <b>assess</b> first!",
+      "heading": "Get checked first if",
+      "items": [
+        "Recovering from surgery",
+        "Knee often swells up",
+        "Pain keeps getting worse"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo has been resting a sore knee, and the reformer springs looked a bit scary at first.\n\nHere's why they're handy in rehab. Springs can resist a movement or assist it, so early on you can practise a squat or leg press with support, then gradually take that support away. Each spring change shifts the load in a small, predictable step.\n\nMany exercises are done lying or seated, so you can train legs, hips and trunk without full bodyweight through a sore knee. And controlling the carriage on the way back builds strength through the whole range.\n\nOur Pilates team at Hybrid Physio starts with an assessment and adjusts things as you progress. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#reformerpilates",
+    "#clinicalpilates",
+    "#rehab",
+    "#kneerehab",
+    "#sydneycbd",
+    "#sydneypilates",
+    "#sydneycbdpilates",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#reformer"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining how reformer springs assist or resist, gradual loading versus jumping to weights, four first steps and signs worth getting checked.",
+  "story": {
+    "headline": "Why reformer springs help rehab",
+    "body": "Assist or resist,<br>one spring at a time.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-28",
+  "created": "2026-10-28-2",
+  "status": "approved",
+  "review_warnings": []
+}

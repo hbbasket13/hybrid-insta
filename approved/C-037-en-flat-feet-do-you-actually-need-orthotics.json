@@ -1,0 +1,131 @@
+{
+  "id": "C-037-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Flat feet: do you actually need orthotics?",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto has flat feet.<br>Does he <em>need orthotics</em>?",
+      "sub": "Arch height isn't the whole story",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's talk<br>feet!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Shopping for runners,<br>Toto hears <em>\"flat feet\"</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Wait.. can I still<br>run with flat feet..?",
+      "bubble_type": "thought",
+      "note": "(suddenly his feet seem very suspicious..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So he went to see Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey Toto!<br>Are your feet sore?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Not really..<br>but should I buy<br>orthotics?"
+      },
+      "note": "Hybi explained that <mark>arch height alone</mark> doesn't tell us much."
+    },
+    {
+      "kind": "compare",
+      "title": "Low arches are<br><em>really common</em>!",
+      "fact": "Arch height <em>on its own</em> usually doesn't predict pain",
+      "left": {
+        "label": "Foot strength",
+        "char": "rabbit_happy",
+        "caption": "Calves and feet<br><b>handle load better</b>"
+      },
+      "right": {
+        "label": "Insoles only",
+        "char": "rabbit_tired",
+        "caption": "Can help some people,<br><em>but rarely the whole plan</em>"
+      },
+      "quip": "Orthotics are one option,<br>not a must!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute foot strength</b>",
+      "sub": "Try it while you brush your teeth!",
+      "sections": [
+        {
+          "heading": "1. Feet and calves",
+          "color": "yellow",
+          "lines": [
+            "① Calf raises, <em>15 × 2 sets</em>.",
+            "② Toes long, gently lift your arch, <em>10 reps</em>.",
+            "③ Single-leg balance, <em>30 sec</em> each, 1–2× a day.",
+            "④ Replace runners once they feel flat."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "The inside of your ankle is <em>sore and swollen</em>,",
+            "or one foot has <em>recently flattened</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "These changes need<br><em>a proper look</em>",
+      "bubble": "Causes vary a lot.<br><b>Assessment</b> first!",
+      "heading": "Worth an assessment if",
+      "items": [
+        "One foot recently flattened",
+        "Swelling inside the ankle",
+        "Can't rise onto one toe"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto went shopping for new runners and walked out worried about his flat feet.\n\nHere's the thing: low arches are really common, and plenty of people with flat feet walk, run and play sport without trouble. Arch height on its own usually doesn't predict pain. If feet do hurt, orthotics or supportive shoes can help some people in the short term, but they're one option, not a must.\n\nHybi's foot routine: 15 calf raises × 2, 10 gentle arch lifts, 30 seconds of single-leg balance. Swap runners once they feel flat.\n\nOne foot that has recently flattened, or swelling on the inside of the ankle, is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#flatfeet",
+    "#orthotics",
+    "#footpain",
+    "#running",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#runners"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining that flat feet are common, foot strength versus insoles alone, a 1-minute foot routine and signs worth getting checked.",
+  "story": {
+    "headline": "Flat feet? Orthotics optional.",
+    "body": "15 calf raises × 2,<br>while you brush your teeth.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-28",
+  "created": "2026-10-28-4",
+  "status": "approved",
+  "review_warnings": []
+}

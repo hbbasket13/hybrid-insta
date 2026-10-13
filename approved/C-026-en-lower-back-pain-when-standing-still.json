@@ -1,0 +1,131 @@
+{
+  "id": "C-026-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Lower back pain when standing still",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Fine on a walk, but<br><em>sore in the queue</em>?",
+      "sub": "Why standing still can be harder than walking",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's work it<br>out, Lulu!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Tough on site, but<br><em>stiff in a queue</em>.",
+      "char": "kanga_tired",
+      "bubble": "I'm not even<br>lifting anything..<br>so why?",
+      "bubble_type": "thought",
+      "note": "(ten minutes at the barbie is enough..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On her day off, Lulu<br>visited <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "G'day Lulu!<br>What's up today?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Standing still makes<br>my lower back ache."
+      },
+      "note": "Hybi started with <mark>why standing still is tougher</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Standing still</em> is harder!",
+      "fact": "Standing still keeps <em>the same muscles and joints</em> loaded",
+      "left": {
+        "label": "Keep shifting",
+        "char": "kanga_happy",
+        "caption": "Shift weight,<br><b>prop one foot up</b>"
+      },
+      "right": {
+        "label": "Stay frozen",
+        "char": "kanga_tired",
+        "caption": "Same position,<br><em>no break at all</em>"
+      },
+      "quip": "Small, regular moves<br>share the load around!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>queue survival guide</b>",
+      "sub": "At the shops, at events, in the kitchen!",
+      "sections": [
+        {
+          "heading": "1. While you're standing",
+          "color": "yellow",
+          "lines": [
+            "① Shift your weight <em>from foot to foot</em>.",
+            "② Rock gently or <em>take a few steps</em>.",
+            "③ One foot on a low ledge, <em>swap every few min</em>.",
+            "④ Bridges and side planks, <em>2–3 times a week</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your legs <em>tingle or feel heavy</em> when",
+            "standing and ease when you sit down."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>aching</em> in line?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth getting checked if",
+      "items": [
+        "Leg pain when standing",
+        "Legs feel heavy or numb",
+        "Back pain keeps worsening"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Fine on a long walk, but your lower back aches after ten minutes in a queue? There's a reason for that.\n\nStanding still keeps the same muscles and joints loaded without a break, so it can feel harder than walking.\n\nKeep shifting your weight, rock gently or take a few steps when you can, and rest one foot on a low step or ledge, swapping every few minutes. Longer term, glute bridges, side planks and hip hinges build standing endurance.\n\nLeg pain or numbness that comes on with standing and eases when you sit is worth an assessment. Our chiropractors at Hybrid Physio can look at how your back and hips are moving. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#lowbackpain",
+    "#backpain",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#sydneycbdchiro",
+    "#tradie",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#standingdesk",
+    "#coreexercise",
+    "#chiro"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains to Lulu the kangaroo why standing still makes the lower back ache, with simple standing tips and signs to get checked.",
+  "story": {
+    "headline": "Back sore in the queue?",
+    "body": "Shift your weight, prop one foot<br>on a ledge, swap often.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-23",
+  "created": "2026-10-23-2",
+  "status": "approved",
+  "review_warnings": []
+}

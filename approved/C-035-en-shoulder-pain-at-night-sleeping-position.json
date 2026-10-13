@@ -1,0 +1,131 @@
+{
+  "id": "C-035-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Shoulder pain at night: sleeping positions that help",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why does your shoulder<br>ache <em>more at night</em>?",
+      "sub": "Sleep positions that often make it easier",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Pillows to<br>the rescue!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lights out, and Koko's<br>shoulder <em>gets louder</em>.",
+      "char": "koala_tired",
+      "bubble": "Fine all day..<br>so why only<br>at night..?",
+      "bubble_type": "thought",
+      "note": "(3am, tossing and turning again..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After a rough night, Koko<br>visited <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Koko, you look<br>exhausted!"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "How should I lie<br>so it hurts less?"
+      },
+      "note": "Hybi showed her <mark>what one pillow can change</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Support the arm</em>!",
+      "fact": "Lying down can <em>squash or stretch</em> sensitive shoulder tissues",
+      "left": {
+        "label": "Pillow support",
+        "char": "koala_happy",
+        "caption": "Pillow under the arm,<br><b>slightly out to the side</b>"
+      },
+      "right": {
+        "label": "Arm under pillow",
+        "char": "koala_tired",
+        "caption": "Tucked under your head,<br><em>raised for hours</em>"
+      },
+      "quip": "Don't let the sore arm<br>drop or fall forward!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>shoulder sleep setup</b>",
+      "sub": "Try it tonight!",
+      "sections": [
+        {
+          "heading": "1. How to lie",
+          "color": "yellow",
+          "lines": [
+            "① On your back, <em>pillow under the sore arm</em>.",
+            "② Side sleeper? Lie on the <em>good side</em>.",
+            "③ <em>Hug a pillow</em> and rest the sore arm on it.",
+            "④ Give the arm-under-pillow habit <em>a break</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain keeps <em>getting worse</em>, or",
+            "you notice pins and needles down the arm."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Nights still <em>tough</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked promptly if",
+      "items": [
+        "Night pain keeps worsening",
+        "Can't lift it after a fall",
+        "Fever or arm tingling"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Shoulder fine during the day, but grumbling once you lie down?\n\nAt night, sensitive shoulder tissues can get squashed or stretched, and there's less to distract you. Night pain is common with many shoulder problems and often eases as things settle.\n\nOn your back, rest a pillow under the sore arm so it sits slightly out from your side. If you sleep on your side, lie on the good side and hug a pillow so the sore arm doesn't fall forward. Give the arm-under-pillow habit a break for now.\n\nNight pain that keeps getting worse, or a shoulder you can't lift after a fall, is worth assessing promptly. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#shoulderpain",
+    "#sleeppositions",
+    "#nightpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#bettersleep"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi helps Koko the koala with shoulder pain at night, showing pillow-supported sleep positions, a habit to pause and signs to get checked.",
+  "story": {
+    "headline": "Shoulder sore at night?",
+    "body": "Pillow under the sore arm,<br>or hug one on your good side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-27",
+  "created": "2026-10-27-2",
+  "status": "approved",
+  "review_warnings": []
+}

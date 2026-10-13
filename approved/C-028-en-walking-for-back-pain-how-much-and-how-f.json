@@ -1,0 +1,131 @@
+{
+  "id": "C-028-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Walking for back pain: how much and how fast",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Walking with back pain:<br><em>how far, how fast?</em>",
+      "sub": "Turning \"keep walking\" into actual numbers",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's find your<br>starting point!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Told to \"keep walking\",<br>Koko did <em>a whole hour</em>.",
+      "char": "koala_tired",
+      "bubble": "Why is my back<br>worse the next day..?",
+      "bubble_type": "thought",
+      "note": "(three days on the couch followed..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko met Hybi at<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>How's the walking?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Nobody told me<br>how much to do.."
+      },
+      "note": "Hybi suggested finding <mark>Koko's own starting point</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Short and often</em> is easier",
+      "fact": "<em>10 min × 2–3</em> is often easier than one 30-minute effort",
+      "left": {
+        "label": "Short walks",
+        "char": "koala_happy",
+        "caption": "2–3 a day, add a<br><b>few minutes</b> at a time"
+      },
+      "right": {
+        "label": "One big walk",
+        "char": "koala_tired",
+        "caption": "An hour on day one,<br><em>wiped out</em> on day two"
+      },
+      "quip": "A comfy time is your<br>starting point, not a fail!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>back-friendly walking plan</b>",
+      "sub": "Start today!",
+      "sections": [
+        {
+          "heading": "1. Find it, then build it",
+          "color": "yellow",
+          "lines": [
+            "① Find a time that's only <em>mildly uncomfortable</em>.",
+            "② Split it into <em>2–3 walks</em> a day.",
+            "③ Add <em>a few minutes</em> every few days.",
+            "④ Arms swinging, <em>able to chat</em> as you go."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Leg weakness</em>, groin numbness, or",
+            "bladder or bowel changes — seek care promptly."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Walking but <em>not easing</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Weakness in the legs",
+        "Bladder or bowel changes",
+        "No change after weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Told to keep walking with back pain, but nobody said how much?\n\nWalking is one of the simplest ways to stay active with a sore back. The trick is finding your starting point: a time you can manage with only mild discomfort, even if that's five minutes.\n\nFrom there, two or three short walks a day are often easier than one long one. Add a few minutes every few days, with a relaxed pace and arms swinging. In summer, early mornings or evenings are kinder.\n\nLeg weakness or bladder and bowel changes need prompt medical care. If it isn't easing after a few weeks, our Sydney CBD and Chatswood physios can build a plan with you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#backpain",
+    "#walking",
+    "#lowbackpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#stayactive",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi helps Koko the koala plan walking with back pain: finding a starting point, short frequent walks, building gradually and signs to get checked.",
+  "story": {
+    "headline": "Walking with a sore back?",
+    "body": "Find a comfy time,<br>then 2–3 short walks a day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-24",
+  "created": "2026-10-24-4",
+  "status": "approved",
+  "review_warnings": []
+}

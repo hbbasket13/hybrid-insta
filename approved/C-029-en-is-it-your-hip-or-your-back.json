@@ -1,0 +1,131 @@
+{
+  "id": "C-029-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Is it your hip or your back?",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Is it your hip,<br>or <em>your back</em>?",
+      "sub": "Shared muscles and nerves make them easy to mix up",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's look for<br>clues together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Putting socks on gives<br>Koko <em>a twinge</em> near the hip.",
+      "char": "koala_tired",
+      "bubble": "Is this my back..<br>or my hip..?",
+      "bubble_type": "thought",
+      "note": "(an hour of googling later, still unsure..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Koko asked detective<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Where's it bugging you?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Near my bum, but<br>I can't tell where from"
+      },
+      "note": "Hybi said <mark>where it hurts may not be the source</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The <em>clues</em> differ a little",
+      "fact": "Where it hurts <em>isn't always where it's from</em>",
+      "left": {
+        "label": "Hip clues",
+        "char": "koala_happy",
+        "caption": "Groin or front-of-hip,<br><b>stiff with socks</b>"
+      },
+      "right": {
+        "label": "Back clues",
+        "char": "koala_tired",
+        "caption": "Worse bending or sitting,<br><em>spreads to the buttock</em>"
+      },
+      "quip": "Plenty of people have<br>a bit of both!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>clue notebook</b>",
+      "sub": "Jot these down before your appointment!",
+      "sections": [
+        {
+          "heading": "1. Track these",
+          "color": "yellow",
+          "lines": [
+            "① Where: <em>groin, buttock or lower back?</em>",
+            "② What sets it off: <em>socks, bending, sitting</em>.",
+            "③ Morning stiffness: <em>how many minutes?</em>",
+            "④ Bring your notes <em>to your assessment</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your leg goes <em>numb or weak</em>, or",
+            "bladder or bowel control changes — see a GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Unsure? <em>Get it checked</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> narrows it!",
+      "heading": "See a GP promptly if",
+      "items": [
+        "Leg numbness or weakness",
+        "Pain after a fall",
+        "A fever comes with it"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Pain around your hip, but you can't tell if it's the hip or your back?\n\nThey sit close together and share muscles and nerve supply, so where it hurts doesn't always tell you where it's from. Groin pain or stiffness putting on socks often leans towards the hip. Pain that changes with bending or sitting and spreads into the buttock often involves the back. Plenty of people have a bit of both.\n\nNumbness, leg weakness, bladder or bowel changes, fever or pain after a fall should be seen by a GP promptly.\n\nOur chiropractors at Hybrid Physio assess your hip and back together. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hippain",
+    "#backpain",
+    "#lowbackpain",
+    "#chiropractor",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#healthyageing",
+    "#chiro",
+    "#buttockpain"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi and Koko the koala compare clues for hip versus lower back pain, with what to track and signs to get checked.",
+  "story": {
+    "headline": "Hip or back?",
+    "body": "Note where it hurts and what<br>sets it off, then get assessed.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-24",
+  "created": "2026-10-24-2",
+  "status": "approved",
+  "review_warnings": []
+}

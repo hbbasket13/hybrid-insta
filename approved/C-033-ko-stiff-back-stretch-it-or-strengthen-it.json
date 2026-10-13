@@ -1,0 +1,131 @@
+{
+  "id": "C-033-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Stiff back: stretch it or strengthen it?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "뻣뻣한 등,<br><em>늘릴까? 키울까?</em>",
+      "sub": "보통 둘 다, 그리고 더 자주 움직이기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "둘 다 써봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "매일 밤 스트레칭은<br>열심히 하는 <em>거북씨.</em>",
+      "char": "turtle_sad",
+      "bubble": "근데 아침이면<br>또 뻣뻣해..<br>왜지?",
+      "bubble_type": "thought",
+      "note": "(스트레칭 영상만 저장 30개..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "궁금해진 거북씨,<br><b>하이브리드 피지오</b>로 갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>등이 굳었어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "스트레칭만 하면<br>되는 거 아니에요?"
+      },
+      "note": "하비는 <mark>뻣뻣함의 진짜 의미</mark>부터 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>스트레칭 + 근력</em> 콤보!",
+      "fact": "뻣뻣함은 짧아진 근육보다 <em>보호 반응</em>인 경우가 많아요",
+      "left": {
+        "label": "늘리고 키우기",
+        "char": "turtle_happy",
+        "caption": "편할 땐 스트레칭,<br><b>주 2~3번 근력</b>"
+      },
+      "right": {
+        "label": "늘리기만",
+        "char": "turtle_sad",
+        "caption": "잠깐 시원하고<br><em>금방 다시 뻣뻣</em>"
+      },
+      "quip": "스트레칭은 편하게,<br>근력은 튼튼하게!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>등 콤보 루틴</b>",
+      "sub": "아침 또는 오래 앉은 뒤!",
+      "sections": [
+        {
+          "heading": "1. 늘리고, 키우기",
+          "color": "yellow",
+          "lines": [
+            "① 무릎 안기·고양이-소 자세 <em>각 30초</em>",
+            "② 브릿지 <em>10회</em>",
+            "③ 버드독 양쪽 <em>8회씩</em>",
+            "④ 사이드 플랭크 <em>15초</em>, 주 2~3번"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기",
+          "color": "purple",
+          "lines": [
+            "<em>통증이 날카로워지거나</em>,",
+            "다리가 저리면 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>계속 뻣뻣하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>부터 해봐요!",
+      "heading": "이런 신호는 바로 진료받기",
+      "items": [
+        "열이 같이 난다",
+        "이유 없는 체중 감소",
+        "밤마다 더 심해진다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "매일 스트레칭을 하는데도 아침마다 등이 뻣뻣한가요?\n\n뻣뻣한 느낌은 근육이 짧아졌다기보다 등이 스스로를 보호하는 반응인 경우가 많아요. 스트레칭은 그 순간을 편하게 해주지만, 그것만으로는 부족할 때가 많아요.\n\n근력 운동은 앉기·들기·긴 하루를 버틸 힘을 키워줘요. 무릎 안기·고양이-소로 풀고, 브릿지·버드독·사이드 플랭크를 주 2~3번 해보세요. 손으로 하는 치료는 도움이 되는 보조 역할이에요.\n\n열, 이유 없는 체중 감소, 밤마다 심해지는 통증은 바로 진료가 필요해요. 하이브리드 피지오 카이로프랙터가 함께 계획을 세워요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리스트레칭",
+    "#등통증",
+    "#코어운동",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#카이로프랙틱",
+    "#하이브리드피지오",
+    "#직장인운동",
+    "#chiropractor",
+    "#backpain",
+    "#sydneychiro",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비가 거북씨에게 뻣뻣한 등에는 스트레칭과 근력 운동을 함께하는 게 좋은 이유, 콤보 루틴과 바로 진료가 필요한 신호를 알려주는 7장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "뻣뻣한 등, 늘릴까 키울까?",
+    "body": "보통 둘 다!<br>브릿지·버드독 주 2~3번.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-26",
+  "created": "2026-10-26-3",
+  "status": "approved",
+  "review_warnings": []
+}

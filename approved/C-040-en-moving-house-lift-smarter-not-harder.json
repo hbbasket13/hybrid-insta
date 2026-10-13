@@ -1,0 +1,131 @@
+{
+  "id": "C-040-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Moving house: lift smarter, not harder",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Moving day? Lulu learns<br>to <em>lift smarter</em>",
+      "sub": "Moving house is a full-day, full-body workout",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Smarter,<br>not harder!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Fine on site all week,<br>but <em>200 boxes</em>? New one.",
+      "char": "kanga_tired",
+      "bubble": "Why is this box<br>SO heavy..?",
+      "bubble_type": "thought",
+      "note": "(he put every single book in the biggest box..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "The day before, he caught up<br>with Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Lulu, let's start<br>with how you pack!"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "I'm pretty strong..<br>can't I just lift it?"
+      },
+      "note": "Hybi said moving day is about <mark>technique over muscle</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Heavy stuff goes in<br><em>small boxes</em>!",
+      "fact": "Books in small boxes, linen in big · <em>no breath-holding</em>",
+      "left": {
+        "label": "Keep it close",
+        "char": "kanga_happy",
+        "caption": "Bend hips and knees,<br><b>turn with your feet</b>"
+      },
+      "right": {
+        "label": "Twist and reach",
+        "char": "kanga_tired",
+        "caption": "Far out and twisting<br><em>loads up the back</em>"
+      },
+      "quip": "Awkward items?<br>Trolley and a mate!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>moving-day plan</b>",
+      "sub": "Before the first box!",
+      "sections": [
+        {
+          "heading": "1. On the day",
+          "color": "yellow",
+          "lines": [
+            "① <em>5-minute warm-up</em>: walk, squats, trunk turns.",
+            "② Box <em>close to your body</em>, pivot with your feet.",
+            "③ Break and water <em>every hour</em>.",
+            "④ Slow down for the last few loads."
+          ]
+        },
+        {
+          "heading": "2. Get prompt medical care if…",
+          "color": "purple",
+          "lines": [
+            "Pain, <em>numbness or weakness</em> spreads down a leg,",
+            "or <em>bladder or bowel</em> control changes."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still stiff<br><em>a week later</em>?",
+      "bubble": "Causes vary a lot.<br><b>Assessment</b> first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Numbness or weakness",
+        "No easing after a week"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu lifts all day on site, but 200 boxes in one day is a different beast. Moving house is basically a full day of deadlifts, so plan for it like one 📦\n\nHeavy things in small boxes, light things in big ones. Warm up for five minutes before the first load, keep boxes close and turn with your feet instead of twisting. A trolley and a mate make awkward items much easier.\n\nPace yourself too. Strains often happen late in the day when everyone is tired and rushing. Pain down a leg, numbness or weakness need prompt attention.\n\nStill stiff a week later? Our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#movinghouse",
+    "#movingday",
+    "#backpain",
+    "#liftingtechnique",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydneychiro",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#backcare"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining how to pack and lift on moving day, keeping loads close versus twisting, a moving-day plan and signs worth getting checked.",
+  "story": {
+    "headline": "Moving day? Lift smarter.",
+    "body": "Heavy items, small boxes.<br>Keep it close.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-29",
+  "created": "2026-10-29-4",
+  "status": "approved",
+  "review_warnings": []
+}

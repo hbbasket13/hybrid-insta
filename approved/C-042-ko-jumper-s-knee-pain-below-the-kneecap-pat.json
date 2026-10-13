@@ -1,0 +1,131 @@
+{
+  "id": "C-042-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Jumper's knee: pain below the kneecap (patellar tendinopathy)",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "점프할 때마다<br><em>무릎 아래가 콕</em>",
+      "sub": "토토의 점퍼스 니(슬개건) 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "쉬기보다<br>조절해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "농구 시즌 시작,<br>연습량이 <em>두 배</em>로.",
+      "char": "rabbit_tired",
+      "bubble": "계단 내려갈 때도<br>무릎 아래가 콕..!",
+      "bubble_type": "thought",
+      "note": "(2주 푹 쉬니 괜찮았는데, 다시 뛰니 또..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "결국 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "다시 코트 가니까<br>또 아프죠?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "맞아요! 쉬면 괜찮고<br>뛰면 또 아파요.."
+      },
+      "note": "하비는 <mark>쉬기만 하면 반복</mark>될 수 있다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "힘줄은 <em>조금씩 실어야</em> 강해져요",
+      "fact": "통증 <em>3~4/10</em>까지, 다음 날 아침 가라앉으면 OK",
+      "left": {
+        "label": "단계별 부하",
+        "char": "rabbit_happy",
+        "caption": "버티기→스쾃→점프<br><b>순서대로 올려요</b>"
+      },
+      "right": {
+        "label": "완전 휴식만",
+        "char": "rabbit_tired",
+        "caption": "통증은 줄어도<br><em>복귀하면 또 올 수 있어요</em>"
+      },
+      "quip": "멈추지 말고<br>양을 조절해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>무릎 힘줄 1단계</b>",
+      "sub": "점프는 마지막에!",
+      "sections": [
+        {
+          "heading": "1. 버티기부터 시작",
+          "color": "yellow",
+          "lines": [
+            "① 벽에 기대 앉기 <em>30~45초 × 5회</em>",
+            "② 하루 1번, 사이사이 <em>1~2분</em> 쉬기",
+            "③ 다음 날 아침 통증으로 양 조절",
+            "④ 괜찮으면 천천히 스쾃 → 점프 순서로"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인받기",
+          "color": "purple",
+          "lines": [
+            "<em>'뚝' 소리</em>와 함께 붓거나,",
+            "무릎이 <em>꺾이거나 펴지지 않으면</em> 확인!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>기다리지 말기</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 땐 진료가 먼저예요",
+      "items": [
+        "갑자기 붓는다",
+        "무릎이 꺾인다",
+        "걷기가 힘들다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "농구 시즌이 시작되고 연습량이 두 배가 된 토토. 점프하거나 계단을 내려갈 때 무릎 바로 아래가 콕 아파요. 점프 부하가 힘줄이 적응하는 속도보다 빨리 늘 때 흔히 생기는 점퍼스 니(슬개건 힘줄 통증)일 수 있어요.\n\n쉬면 가라앉지만 복귀하면 다시 오는 경우가 많아요. 보통은 훈련량을 조절하면서 버티기 → 천천히 스쾃 → 점프 순서로 힘줄을 다시 길러요. 운동 중 3~4/10 정도의 통증이 다음 날 아침 가라앉으면 대부분 괜찮아요.\n\n'뚝' 소리, 갑자기 붓기, 무릎이 꺾이는 느낌은 빨리 확인받아요. 채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🏀\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#점퍼스니",
+    "#슬개건",
+    "#무릎통증",
+    "#농구",
+    "#스포츠재활",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#jumpersknee",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 점퍼스 니가 생기는 이유, 단계별 부하와 완전 휴식 비교, 버티기 운동 1단계, 확인이 필요한 신호.",
+  "story": {
+    "headline": "점프할 때 무릎 아래가 콕?",
+    "body": "벽에 기대 앉기 30~45초,<br>점프는 마지막에!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-29",
+  "created": "2026-10-29-3",
+  "status": "approved",
+  "review_warnings": []
+}

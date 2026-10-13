@@ -1,0 +1,131 @@
+{
+  "id": "C-025-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain is not the same as damage",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Does hurt always<br>mean <em>harm</em>?",
+      "sub": "Pain is a protective alarm, not a damage report",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Not always!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every twinge in his back<br>makes Mr Turtle <em>panic</em>.",
+      "char": "turtle_sad",
+      "bubble": "What if something's<br>really broken..?",
+      "bubble_type": "thought",
+      "note": "(so he's stopped moving altogether..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "He finally came to see<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "So glad you came!<br>Been worried?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "If it hurts, I should<br>stop moving, right?"
+      },
+      "note": "Hybi explained that <mark>pain is a protective alarm</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Like a <em>touchy smoke alarm</em>",
+      "fact": "Lingering pain can act like an alarm that <em>goes off for toast</em>",
+      "left": {
+        "label": "Move a little",
+        "char": "turtle_happy",
+        "caption": "Start small,<br><b>build up gradually</b>"
+      },
+      "right": {
+        "label": "Stop everything",
+        "char": "turtle_sad",
+        "caption": "Avoiding movement can<br><em>turn the volume up</em>"
+      },
+      "quip": "Pain is always real, but<br>it isn't a damage meter!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>turn-the-alarm-down plan</b>",
+      "sub": "Start small, starting today!",
+      "sections": [
+        {
+          "heading": "1. Build up gently",
+          "color": "yellow",
+          "lines": [
+            "① Pick a <em>small movement</em> that feels OK.",
+            "② Some discomfort is <em>usually fine</em>.",
+            "③ Check how you feel <em>the next day</em>.",
+            "④ Sleep and stress can turn the volume up too."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You notice <em>numbness or weakness</em>,",
+            "or pain keeps getting steadily worse."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>worried</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "New pain after a big injury",
+        "Numbness or weakness",
+        "Fever or weight loss"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "If it hurts, does that mean something's damaged? Not always.\n\nPain is your nervous system's protection alarm. It's always real, but it's shaped by many things, including sleep, stress and worry, not just what's happening in your tissues. When pain lingers, the alarm can get more sensitive, like a smoke detector that goes off for toast. That's why scan findings and pain levels often don't match.\n\nFor most persistent pain, starting small and building up gradually is usually safe, even if it's a bit uncomfortable.\n\nNumbness, weakness or pain that keeps getting worse is worth an assessment. Our Sydney CBD and Chatswood physios can help you make sense of it. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#painscience",
+    "#persistentpain",
+    "#backpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#movementismedicine"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains to Mr Turtle that pain is a protective alarm rather than a damage report, with a gradual movement plan and signs to get checked.",
+  "story": {
+    "headline": "Hurt doesn't always mean harm",
+    "body": "Pain is a protective alarm.<br>Start small, build gradually.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-23",
+  "created": "2026-10-23-4",
+  "status": "approved",
+  "review_warnings": []
+}

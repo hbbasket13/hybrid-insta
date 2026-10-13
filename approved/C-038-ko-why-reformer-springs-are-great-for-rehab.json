@@ -1,0 +1,131 @@
+{
+  "id": "C-038-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Why reformer springs are great for rehab",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "리포머 스프링,<br><em>왜 재활에 좋을까?</em>",
+      "sub": "모모가 궁금했던 기구 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "스프링의 비밀,<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "무릎이 아파서<br>운동을 <em>쉬고 있는</em> 모모.",
+      "char": "cat_tired",
+      "bubble": "다시 움직이고 싶은데<br>어디서부터..?",
+      "bubble_type": "thought",
+      "note": "(스쾃 한 번에도 겁이 나는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "모모, 리포머<br>타 본 적 있어요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "저 스프링이요?<br>무서워 보여요.."
+      },
+      "note": "하비는 <mark>스프링의 두 얼굴</mark>을 보여주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "스프링은 <em>돕기도, 버티기도!</em>",
+      "fact": "스프링 하나 바꾸면 무게가 <em>조금씩</em> 바뀌어요",
+      "left": {
+        "label": "스프링 조절",
+        "char": "cat_happy",
+        "caption": "누워서, 조금씩<br><b>단계별로 올려요</b>"
+      },
+      "right": {
+        "label": "급한 중량",
+        "char": "cat_tired",
+        "caption": "체중 그대로 버티면<br><em>부담이 클 수 있어요</em>"
+      },
+      "quip": "돌아올 때도 천천히,<br>그게 근력이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>리포머 첫걸음</b>",
+      "sub": "처음이라면 이렇게!",
+      "sections": [
+        {
+          "heading": "1. 스프링 활용 4단계",
+          "color": "yellow",
+          "lines": [
+            "① 누워서 <em>보조 스프링</em>으로 동작 익히기",
+            "② 스프링을 <em>하나씩</em> 바꿔 부하 올리기",
+            "③ 캐리지는 <em>3초 동안</em> 천천히 돌려보내기",
+            "④ 익숙해지면 서서 하는 동작으로"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 말해주세요",
+          "color": "purple",
+          "lines": [
+            "동작 중 통증이 <em>점점 커지거나</em>,",
+            "관절이 <em>불안정한 느낌</em>이면 멈추기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "운동 전에 <em>평가부터!</em>",
+      "bubble": "원인은 저마다 달라요.<br>먼저 <b>평가</b>해봐요!",
+      "heading": "이럴 땐 먼저 확인받기",
+      "items": [
+        "수술 후 회복 중이다",
+        "무릎이 자주 붓는다",
+        "통증이 점점 심해진다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "무릎 때문에 운동을 쉬던 모모, 리포머 스프링이 처음엔 무서워 보였대요.\n\n리포머 스프링은 동작을 어렵게도, 쉽게 도와주기도 해요. 재활 초기엔 스프링의 도움을 받아 동작을 익히고, 조금씩 도움을 줄여갈 수 있어요. 스프링 하나만 바꿔도 부하가 작고 예측 가능하게 바뀌어요.\n\n누워서 하는 동작이 많아 아픈 무릎에 체중을 다 싣지 않고도 다리와 몸통을 훈련할 수 있어요. 캐리지를 천천히 돌려보내는 것도 근력 운동!\n\n하이브리드 피지오 필라테스 팀은 평가부터 시작해 단계별로 조절해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리포머",
+    "#리포머필라테스",
+    "#클리니컬필라테스",
+    "#재활운동",
+    "#무릎재활",
+    "#시드니필라테스",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#pilates",
+    "#reformerpilates",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 리포머 스프링이 재활에 도움이 되는 이유, 단계별 부하 비교, 리포머 첫걸음 4단계, 확인이 필요한 신호.",
+  "story": {
+    "headline": "리포머 스프링이 재활에 좋은 이유",
+    "body": "돕기도 하고 버티기도,<br>단계별로 올려요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-28",
+  "created": "2026-10-28-5",
+  "status": "approved",
+  "review_warnings": []
+}

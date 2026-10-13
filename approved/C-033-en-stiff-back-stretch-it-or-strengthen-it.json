@@ -1,0 +1,131 @@
+{
+  "id": "C-033-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Stiff back: stretch it or strengthen it?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Stiff back: <em>stretch it</em><br>or <em>strengthen it</em>?",
+      "sub": "Usually both, plus more movement through the day",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Why not<br>both?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Mr Turtle stretches<br><em>every single night</em>.",
+      "char": "turtle_sad",
+      "bubble": "So why is it<br>stiff again every<br>morning..?",
+      "bubble_type": "thought",
+      "note": "(30 stretching videos saved, and counting..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Curious, he popped into<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi there!<br>Back feeling tight?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Isn't stretching<br>all I need?"
+      },
+      "note": "Hybi explained <mark>what stiffness often means</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The <em>stretch + strength</em> combo",
+      "fact": "Stiffness is often <em>protection</em>, not short muscles",
+      "left": {
+        "label": "Stretch & build",
+        "char": "turtle_happy",
+        "caption": "Stretch for comfort,<br><b>strength 2–3x a week</b>"
+      },
+      "right": {
+        "label": "Stretch only",
+        "char": "turtle_sad",
+        "caption": "Feels good briefly,<br><em>stiff again soon</em>"
+      },
+      "quip": "Stretch for comfort,<br>strength for resilience!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>back combo routine</b>",
+      "sub": "Mornings, or after a long sit!",
+      "sections": [
+        {
+          "heading": "1. Ease it, then build it",
+          "color": "yellow",
+          "lines": [
+            "① Knee hugs and cat-cow: <em>30 sec each</em>.",
+            "② Glute bridges: <em>10 reps</em>.",
+            "③ Bird dogs: <em>8 each side</em>.",
+            "④ Side planks: <em>15 sec</em>, 2–3 times a week."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain turns <em>sharp</em>, or you",
+            "notice tingling down a leg."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em> after all that?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Seek care promptly if",
+      "items": [
+        "Stiffness with a fever",
+        "Unexplained weight loss",
+        "Worse every single night"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Stretching every night, but your back is stiff again by morning?\n\nThat tight feeling is often your back being protective, not muscles that have shrunk. Stretching can feel good in the moment, but it's rarely the whole answer on its own.\n\nStrength work builds your back's capacity for sitting, lifting and long days. Ease things with knee hugs and cat-cow, then add bridges, bird dogs and side planks two or three times a week. Hands-on care can be a helpful add-on.\n\nStiffness with fever, unexplained weight loss or pain that's worse every night needs prompt medical attention. Our chiropractors at Hybrid Physio can build a simple plan with you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#backpain",
+    "#stiffback",
+    "#corestrength",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#sydneycbdchiro",
+    "#officeworker",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#backexercises",
+    "#chiro"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi shows Mr Turtle why a stiff back usually needs both stretching and strengthening, with a combo routine and signs that need prompt care.",
+  "story": {
+    "headline": "Stretch it or strengthen it?",
+    "body": "Usually both. Bridges and bird dogs<br>2–3 times a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-26",
+  "created": "2026-10-26-6",
+  "status": "approved",
+  "review_warnings": []
+}

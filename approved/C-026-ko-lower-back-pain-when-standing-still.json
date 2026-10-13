@@ -1,0 +1,131 @@
+{
+  "id": "C-026-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Lower back pain when standing still",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "걷는 건 괜찮은데<br><em>줄 서면 허리가</em>..",
+      "sub": "가만히 서 있기가 더 힘든 이유",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "루루, 같이<br>알아봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "현장에선 쌩쌩한 루루,<br>마트 줄만 서면 <em>허리가 묵직.</em>",
+      "char": "kanga_tired",
+      "bubble": "무거운 것도<br>안 드는데<br>왜 이러지..?",
+      "bubble_type": "thought",
+      "note": "(바비큐 굽는 10분도 버겁다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "쉬는 날, <b>하이브리드 피지오</b>에<br>들른 루루.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요, 루루!<br>오늘은 어디가요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "가만히 서 있으면<br>허리가 뻐근해요."
+      },
+      "note": "하비는 <mark>멈춰 서는 게 더 힘든 이유</mark>부터 꺼냈다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>멈춰 서기</em>가 더 힘들어요",
+      "fact": "가만히 서면 <em>같은 근육·관절</em>이 쉬지 않고 버텨요",
+      "left": {
+        "label": "조금씩 움직이기",
+        "char": "kanga_happy",
+        "caption": "체중 옮기고<br><b>한 발 올리기</b>"
+      },
+      "right": {
+        "label": "그대로 서 있기",
+        "char": "kanga_tired",
+        "caption": "같은 자세로<br><em>계속 버티기</em>"
+      },
+      "quip": "작게 자주 움직이면<br>부담이 나뉘어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>줄 서기 생존법</b>",
+      "sub": "마트, 공연장, 주방에서!",
+      "sections": [
+        {
+          "heading": "1. 서 있을 때 이렇게",
+          "color": "yellow",
+          "lines": [
+            "① 양발로 <em>번갈아</em> 체중 옮기기",
+            "② 앞뒤로 <em>살살 흔들기</em>, 몇 걸음 걷기",
+            "③ 낮은 턱에 한 발 올리고 <em>몇 분마다</em> 바꾸기",
+            "④ 주 2~3번 브릿지·사이드 플랭크"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기",
+          "color": "purple",
+          "lines": [
+            "다리가 <em>저리거나 무거워지고</em>",
+            "앉으면 나아진다면 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>계속 뻐근하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>부터 해봐요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "서 있으면 다리가 저리다",
+        "다리가 무겁게 느껴진다",
+        "허리 통증이 점점 심해진다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "오래 걸어도 괜찮은데, 줄 서서 10분만 지나면 허리가 묵직한가요?\n\n가만히 서 있으면 같은 근육과 관절이 쉬지 않고 계속 버텨야 해요. 그래서 걷기보다 멈춰 서기가 더 힘들 수 있어요.\n\n체중을 양발로 번갈아 옮기고, 살살 흔들거나 몇 걸음 걸어보세요. 낮은 턱에 한 발을 올리고 몇 분마다 바꾸는 것도 좋아요. 길게 보면 브릿지·사이드 플랭크·힙 힌지가 서 있는 힘을 길러줘요.\n\n서 있을 때 다리가 저리고 앉으면 나아진다면 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 함께 봐드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#요통",
+    "#서있을때허리",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#카이로프랙틱",
+    "#하이브리드피지오",
+    "#현장직",
+    "#chiropractor",
+    "#lowbackpain",
+    "#sydneychiro",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비가 루루에게 가만히 서 있을 때 허리가 뻐근한 이유, 체중 옮기기와 한 발 올리기 요령, 확인이 필요한 신호를 알려주는 7장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "줄만 서면 허리가 묵직?",
+    "body": "체중 옮기고, 낮은 턱에<br>한 발 올려 바꿔주기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-23",
+  "created": "2026-10-23-5",
+  "status": "approved",
+  "review_warnings": []
+}

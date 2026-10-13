@@ -1,0 +1,131 @@
+{
+  "id": "C-036-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Tight hips from desk work: a Pilates approach",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's hips feel<br><em>locked after work</em>",
+      "sub": "A Pilates-style approach for desk-day hips",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's get them<br>moving again!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Loves a stretch, but sits<br>for <em>eight hours</em> a day.",
+      "char": "cat_tired",
+      "bubble": "Why won't my hips<br>straighten after<br>that meeting..?",
+      "bubble_type": "thought",
+      "note": "(every stand-up comes with a little shuffle..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "At lunch, she popped into<br><b>Hybrid Physio</b> to see Hybi.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Momo!<br>Hips feeling stuck?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yes! Should I just<br>stretch for longer?"
+      },
+      "note": "Hybi explained what <mark>that stiffness usually means</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Tight often means<br><em>under-used</em>!",
+      "fact": "Sitting parks your hips in <em>one position</em> for hours",
+      "left": {
+        "label": "Many directions",
+        "char": "cat_happy",
+        "caption": "Bend, rotate, open out,<br>use the <b>whole range</b>"
+      },
+      "right": {
+        "label": "One position",
+        "char": "cat_tired",
+        "caption": "Static stretching alone,<br>the feeling <em>often returns</em>"
+      },
+      "quip": "Little and often<br>beats one long stretch!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>5-minute lunch-break hips</b>",
+      "sub": "No equipment needed!",
+      "sections": [
+        {
+          "heading": "1. Three hip moves",
+          "color": "yellow",
+          "lines": [
+            "① Standing leg swings, <em>10 each side</em>.",
+            "② Half-kneeling stretch + glute squeeze, <em>5 slow</em>.",
+            "③ Bridges <em>× 10</em>, once or twice a day.",
+            "④ Stand up every <em>30–45 min</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>sharp groin pain</em>, or",
+            "<em>tingling</em> runs down your leg."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still feeling <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sharp pain in the groin",
+        "Tingling down the leg",
+        "No change after a few weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Stand up after a long meeting and your hips just won't straighten? Momo knows the feeling.\n\nSitting parks your hips in one position for hours, and that tight feeling is often your body asking for more movement. Pilates works the hips through bending, rotating and opening out under control, and builds strength so they feel confident to let go.\n\nHybi's 5-minute lunch routine: 10 leg swings each side, 5 slow half-kneeling stretches with a glute squeeze, 10 bridges. Then stand up every 30–45 minutes.\n\nSharp groin pain or tingling down the leg is worth an assessment. Our Pilates team at Hybrid Physio can build a program around your week. Book online via the link in bio 🐱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#hipmobility",
+    "#tighthips",
+    "#deskjob",
+    "#officeworker",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#reformerpilates"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why desk-day hips feel tight, moving through the full range, a 5-minute lunch routine and signs worth getting checked.",
+  "story": {
+    "headline": "Hips locked after meetings?",
+    "body": "Leg swings and bridges:<br>five minutes at lunch.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-27",
+  "created": "2026-10-27-6",
+  "status": "approved",
+  "review_warnings": []
+}

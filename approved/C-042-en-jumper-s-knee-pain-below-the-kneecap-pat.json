@@ -1,0 +1,131 @@
+{
+  "id": "C-042-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Jumper's knee: pain below the kneecap (patellar tendinopathy)",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's knee twinges<br><em>every time he jumps</em>",
+      "sub": "Jumper's knee: load it, don't lose it",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's adjust,<br>not stop!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "New basketball season,<br><em>double</em> the training.",
+      "char": "rabbit_tired",
+      "bubble": "Even the stairs<br>make it twinge..!",
+      "bubble_type": "thought",
+      "note": "(two weeks off settled it.. then it came straight back)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So he finally went to see<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Back on court and<br>it's sore again?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yes! Rest helps,<br>then jumping<br>sets it off.."
+      },
+      "note": "Hybi explained that <mark>rest alone often leads to a repeat</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Tendons get stronger<br>with <em>gradual load</em>",
+      "fact": "Pain up to <em>3–4 out of 10</em> is usually OK if settled by morning",
+      "left": {
+        "label": "Gradual load",
+        "char": "rabbit_happy",
+        "caption": "Holds, then squats,<br><b>then jumps</b>"
+      },
+      "right": {
+        "label": "Total rest only",
+        "char": "rabbit_tired",
+        "caption": "Pain settles, but it<br><em>often returns on court</em>"
+      },
+      "quip": "Don't stop everything,<br>adjust the dose!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>knee tendon stage 1</b>",
+      "sub": "Jumping comes last!",
+      "sections": [
+        {
+          "heading": "1. Start with holds",
+          "color": "yellow",
+          "lines": [
+            "① Wall sit <em>30–45 sec × 5</em>.",
+            "② Once a day, <em>1–2 minutes</em> rest between.",
+            "③ Use next-morning pain to set the dose.",
+            "④ Then slow squats, and later, jumps."
+          ]
+        },
+        {
+          "heading": "2. Get checked sooner if…",
+          "color": "purple",
+          "lines": [
+            "You felt a <em>pop</em> with quick swelling, or",
+            "the knee <em>gives way</em> or won't straighten."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Don't wait<br><em>on these</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "These are worth assessing",
+      "items": [
+        "Swelling comes on fast",
+        "Knee gives way",
+        "Hard to walk normally"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Pain just below the kneecap every time you jump, squat or take the stairs? Toto's new season doubled his training, and his knee noticed.\n\nThat's often patellar tendinopathy, also called jumper's knee. It usually shows up when jumping load climbs faster than the tendon can adapt.\n\nRest tends to calm it, but it often returns once you're back on court. What usually helps more is adjusting training and rebuilding tendon capacity gradually: holds, then slow strength work, then jumping and landing. Pain up to about 3–4 out of 10 that settles by the next morning is usually OK.\n\nA pop, rapid swelling or the knee giving way are worth checking sooner. Our Chatswood physios can build your plan. Book online via the link in bio 🏀\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#jumpersknee",
+    "#patellartendinopathy",
+    "#kneepain",
+    "#basketball",
+    "#netball",
+    "#sportsphysio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining jumper's knee, gradual loading versus total rest, a stage-1 wall sit routine and signs worth getting checked.",
+  "story": {
+    "headline": "Knee twinges when you jump?",
+    "body": "Wall sit 30–45 sec × 5.<br>Jumps come last.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-29",
+  "created": "2026-10-29-6",
+  "status": "approved",
+  "review_warnings": []
+}

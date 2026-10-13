@@ -1,0 +1,131 @@
+{
+  "id": "C-027-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Side hip pain when lying on it (gluteal tendinopathy)",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hip hurts when you<br><em>lie on that side</em>?",
+      "sub": "Common, and often responds to load changes",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's start<br>tonight, Koko!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko loves a nap,<br>but <em>lying down</em> is tricky.",
+      "char": "koala_tired",
+      "bubble": "Every time I roll<br>onto my left side..<br>ouch.",
+      "bubble_type": "thought",
+      "note": "(the stairs are getting grumbly too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko came to see Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Sleeping OK?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "My hip aches when<br>I lie on my side.."
+      },
+      "note": "Hybi started with <mark>how to squash the tendon less</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Less squashing</em> helps",
+      "fact": "The side hip tendons often get cranky when <em>compressed</em>",
+      "left": {
+        "label": "Legs level",
+        "char": "koala_happy",
+        "caption": "Pillow between knees,<br><b>hip stays neutral</b>"
+      },
+      "right": {
+        "label": "Legs crossed",
+        "char": "koala_tired",
+        "caption": "Tendon gets<br><em>squashed on the bone</em>"
+      },
+      "quip": "And give hip-hitching<br>a rest for now!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>sleep tweaks for tonight</b>",
+      "sub": "Try them before bed!",
+      "sections": [
+        {
+          "heading": "1. Less squashing, more strength",
+          "color": "yellow",
+          "lines": [
+            "① Sleep on the other side, <em>pillow between knees</em>.",
+            "② Skip <em>crossed legs</em>, hip-hitching, low chairs.",
+            "③ Pause stretches that pull the leg <em>across</em>.",
+            "④ Build strength <em>gradually</em> over a few months."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain after a <em>fall</em>, a limp that's",
+            "getting worse, or a fever — get checked promptly."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>aching</em> at night?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked promptly if",
+      "items": [
+        "Pain after a fall",
+        "Deep pain in the groin",
+        "A limp getting worse"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Can't lie on your side without your hip complaining?\n\nPain on the outside of the hip that's tender to touch and worse lying on it or climbing stairs is often linked to the gluteal tendons. It's common from middle age, and it usually responds well to changing how the tendons are loaded.\n\nTonight, try sleeping on the other side with a pillow between your knees. During the day, skip crossing your legs and hitching onto one hip. Current guidelines favour progressive strengthening built up over a few months.\n\nPain after a fall, a worsening limp or fever should be checked promptly. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hippain",
+    "#glutealtendinopathy",
+    "#sleeppositions",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#healthyageing",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi helps Koko the koala with side hip pain at night, showing a pillow-between-the-knees sleep position, positions to avoid and signs to get checked.",
+  "story": {
+    "headline": "Side hip pain at night?",
+    "body": "Sleep on the other side with<br>a pillow between your knees.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-23",
+  "created": "2026-10-23-6",
+  "status": "approved",
+  "review_warnings": []
+}

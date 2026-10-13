@@ -1,0 +1,131 @@
+{
+  "id": "C-032-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Bone stress injuries in runners",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's shin pain:<br>is it <em>a bone signal</em>?",
+      "sub": "Bone stress injuries in runners, explained",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Bones need time<br>to adapt too!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Half marathon coming up.<br>Toto <em>bumped the kms</em> right up.",
+      "char": "rabbit_tired",
+      "bubble": "One spot on my shin<br>hurts more the<br>longer I run..?",
+      "bubble_type": "thought",
+      "note": "(it's not warming up, it's building..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto went to see Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey Toto!<br>Big training block?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "It's just sore muscles,<br>right? Can I keep going?"
+      },
+      "note": "Hybi said <mark>bone adapts more slowly than muscle</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Not quite <em>muscle soreness</em>",
+      "fact": "Bone gets stronger, but <em>adapts slower than muscle</em>",
+      "left": {
+        "label": "Muscle soreness",
+        "char": "rabbit_happy",
+        "caption": "Often <b>eases</b><br>as you warm up"
+      },
+      "right": {
+        "label": "Bone signs",
+        "char": "rabbit_tired",
+        "caption": "Builds during the run,<br><em>one tender spot</em>"
+      },
+      "quip": "This one needs a<br>genuine break!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>runner check-in</b>",
+      "sub": "Grab your training log!",
+      "sections": [
+        {
+          "heading": "1. Load it sensibly",
+          "color": "yellow",
+          "lines": [
+            "① Increase <em>distance or speed</em>, not both at once.",
+            "② Build in <em>recovery days</em>.",
+            "③ <em>Eat enough</em> to match your training.",
+            "④ If suspected: cut running, try <em>swim or bike</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Hopping hurts</em>, or there's pain",
+            "at night or at rest — stop and get assessed."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Spot a <em>bone signal</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "One tender spot on the bone",
+        "Pain when hopping",
+        "Pain at night or at rest"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Pain in one spot on your shin that gets worse the longer you run? It could be your bone asking for a break.\n\nBone gets stronger with running, but it adapts more slowly than muscle. Sudden jumps in kms or speed work, too little recovery and not eating enough for your training can all contribute. Often it's several things at once.\n\nPain that builds during a run, one tender spot on the bone, pain when hopping, or pain at night is worth assessing. Bone stress usually needs a genuine reduction in running, while cycling or swimming can often continue.\n\nOur Sydney CBD physios can plan a gradual return to running. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#runninginjury",
+    "#bonestress",
+    "#shinpain",
+    "#runners",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydneyrunners",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#sportsphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains to Toto the rabbit how bone stress injuries differ from muscle soreness, how to manage training load and which signs need checking.",
+  "story": {
+    "headline": "Shin pain that builds as you run?",
+    "body": "If hopping hurts,<br>stop and get it checked.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-26",
+  "created": "2026-10-26-2",
+  "status": "approved",
+  "review_warnings": []
+}
