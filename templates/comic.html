@@ -101,6 +101,20 @@
   .brand { font-family: var(--display); font-size: 26px; color: var(--blue); }
   .handle { font-family: var(--small); font-weight: 500; font-size: 22px; color: var(--muted); }
   .disc { font-family: var(--small); font-size: 20px; color: #8a8a8a; text-align: center; margin-top: 14px; }
+  {% if lang == 'ko' %}
+  /* Gaegu draws small: scale Korean handwriting text up */
+  .sub { font-size: 44px; }
+  .bubble { font-size: 43px; line-height: 1.25; padding: 20px 34px; max-width: 600px; }
+  .desc { font-size: 35px; }
+  .note { font-size: 40px; }
+  .fact { font-size: 38px; }
+  .caption { font-size: 37px; line-height: 1.3; }
+  .quip .bubble { font-size: 40px; }
+  .secbody { font-size: 42px; line-height: 1.5; }
+  .check { font-size: 42px; padding: 14px 34px; }
+  .info { font-size: 31px; line-height: 1.65; }
+  .ribbon .sub { font-size: 38px; }
+  {% endif %}
 </style>
 </head>
 <body>
@@ -207,5 +221,13 @@
   {{ foot() }}
 </section>
 {% endif %}
+<script>
+/* shrink any title that wraps past two lines so long titles never spill */
+function fitTitles(){document.querySelectorAll('h1').forEach(function(h){var fs=parseFloat(getComputedStyle(h).fontSize),n=0;
+ while(h.getBoundingClientRect().height>fs*1.3*2.15&&n<25){fs-=2;h.style.fontSize=fs+'px';n++;}});
+ document.querySelectorAll('h2').forEach(function(h){var fs=parseFloat(getComputedStyle(h).fontSize),n=0;
+ while(h.scrollWidth>h.parentElement.clientWidth&&n<20){fs-=2;h.style.fontSize=fs+'px';n++;}});}
+fitTitles(); if(document.fonts&&document.fonts.ready){document.fonts.ready.then(fitTitles);}
+</script>
 </body>
 </html>
