@@ -1,0 +1,131 @@
+{
+  "id": "C-090-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Sitting on your wallet and other sciatica myths",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Is your <em>wallet</em> behind<br>your sciatica?",
+      "sub": "Sciatica myths vs what tends to help",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's sort<br>the myths!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day in the ute,<br>sitting on a <em>chunky wallet</em>.",
+      "char": "kanga_tired",
+      "bubble": "Is this wallet<br>why my leg's<br>zinging..?",
+      "bubble_type": "thought",
+      "note": "(stuffed with receipts from 2019..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "A workmate sent Lulu<br>to <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Lulu!<br>Pain running<br>down the leg?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Should I just<br>stay in bed<br>till it's gone?"
+      },
+      "note": "Hybi suggested <mark>staying as active as you comfortably can</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Move more, <em>bed rest less</em>",
+      "fact": "Guidelines suggest staying <em>as active as you comfortably can</em>",
+      "left": {
+        "label": "Little and often",
+        "char": "kanga_happy",
+        "caption": "Short walks, position<br>changes <b>often help</b>"
+      },
+      "right": {
+        "label": "Days in bed",
+        "char": "kanga_tired",
+        "caption": "Lying still for days<br><em>can stiffen things up</em>"
+      },
+      "quip": "Wallet to the front,<br>body gently moving!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>sciatica day plan</b>",
+      "sub": "Start today!",
+      "sections": [
+        {
+          "heading": "1. Easy wins",
+          "color": "yellow",
+          "lines": [
+            "① Move the wallet to a <em>front pocket</em>.",
+            "② Driving or sitting? Get out <em>every 30 min</em>.",
+            "③ A few <em>5–10 minute</em> walks through the day.",
+            "④ Most people improve over weeks to months."
+          ]
+        },
+        {
+          "heading": "2. Urgent care if…",
+          "color": "purple",
+          "lines": [
+            "Groin numbness, bladder or bowel changes,",
+            "or <em>worsening leg weakness</em> — GP or ED."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Some signs are <em>urgent</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Seek urgent care if you notice",
+      "items": [
+        "Numbness around the groin",
+        "Bladder or bowel changes",
+        "Leg weakness getting worse"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Moving your wallet out of your back pocket is a reasonable idea. It's just rarely the full answer to sciatica.\n\nSciatica describes pain travelling down the leg from irritated nerve roots. It can feel intense, but most people improve over weeks to a few months. Current guidelines suggest staying as active as you comfortably can rather than resting in bed: short walks and frequent position changes usually help.\n\nChiropractic care can be one helpful tool, especially combined with graded exercise and a clear plan. Numbness around the groin, bladder or bowel changes, or worsening leg weakness need urgent medical care.\n\nOur chiropractors at Hybrid Physio work alongside our physios. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#sciatica",
+    "#lowbackpain",
+    "#legpain",
+    "#tradie",
+    "#sydneychiro",
+    "#chatswoodchiro",
+    "#chatswood",
+    "#sydney",
+    "#backpain",
+    "#hybridphysiotherapy",
+    "#chiro"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo sorting sciatica myths, from the back-pocket wallet to bed rest, with simple daily tips and signs that need urgent care.",
+  "story": {
+    "headline": "Wallet in your back pocket?",
+    "body": "Worth moving, but staying gently active usually helps more.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-17",
+  "created": "2026-11-17-6",
+  "status": "approved",
+  "review_warnings": []
+}

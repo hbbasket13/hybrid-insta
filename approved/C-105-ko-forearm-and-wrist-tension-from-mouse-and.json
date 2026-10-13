@@ -1,0 +1,131 @@
+{
+  "id": "C-105-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Forearm and wrist tension from mouse and keyboard",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "금요일 오후,<br><em>마우스 손이 묵직?</em>",
+      "sub": "마우스·키보드로 뭉친 팔뚝 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "팔뚝도 쉬는<br>시간이 필요해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "엑셀 5시간째,<br><em>클릭 클릭</em> 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "팔뚝이 왜 이렇게<br>묵직하지..?",
+      "bubble_type": "thought",
+      "note": "(손목까지 뻐근한 금요일 오후..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "퇴근 전 <b>하이브리드 피지오</b>에<br>들렀다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "거북씨! 오늘은<br>어디가 불편해요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "어깨 말고<br>팔뚝이 뻐근해요.."
+      },
+      "note": "하비는 <mark>작은 근육이 하루 종일 일한다</mark>고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "팔뚝 근육은<br><em>쉴 틈이 없어요</em>",
+      "fact": "타이핑·마우스 중엔 팔뚝 근육이 <em>하루 종일 조금씩</em> 일해요",
+      "left": {
+        "label": "팔꿈치 옆구리",
+        "char": "turtle_happy",
+        "caption": "팔꿈치를 몸 옆에,<br>손목은 <b>평평하게</b>"
+      },
+      "right": {
+        "label": "멀리 뻗은 팔",
+        "char": "turtle_sad",
+        "caption": "마우스가 멀면<br><em>팔뚝이 더 지쳐요</em>"
+      },
+      "quip": "마우스·키보드는<br>몸 가까이!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>30초 팔뚝 휴식</b>",
+      "sub": "30분마다 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 마이크로 브레이크",
+          "color": "yellow",
+          "lines": [
+            "① 팔을 툭 떨어뜨리고 <em>손을 탈탈</em> 털어요.",
+            "② 주먹 쥐었다 펴기 <em>10회</em>.",
+            "③ 손목을 위아래로 <em>부드럽게</em> 늘려요.",
+            "④ 의자 높이는 팔꿈치가 <em>책상 높이</em>쯤."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지보다 평가 먼저!",
+          "color": "purple",
+          "lines": [
+            "손가락 <em>저림·감각 저하</em>, 밤에 깨는 통증,",
+            "힘 빠짐·<em>물건 놓침</em>, 붓기가 있다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "팔뚝 뻐근함이<br><em>계속된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>확인</b>부터 해봐요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "손가락이 저리다",
+        "통증에 밤에 깬다",
+        "손목이 붓는다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "엑셀 5시간째, 금요일 오후 팔뚝이 묵직한 거북씨.\n\n타이핑과 마우스 작업 중엔 팔뚝 근육이 하루 종일 조금씩 일해요. 제대로 쉴 틈이 없어서 주말쯤엔 뻐근하고 지칠 수 있어요.\n\n팔꿈치는 몸 옆 책상 높이에, 손목은 평평하게, 마우스와 키보드는 가까이. 30분마다 손 털기, 주먹 쥐었다 펴기 10회, 손목 늘리기! 리메디얼 마사지는 이런 휴식과 함께할 때 팔이 가벼워지는 데 도움이 될 수 있어요.\n\n손가락 저림, 밤에 깨는 통증, 힘 빠짐이 있다면 먼저 평가받아요. 하이브리드 피지오 리메디얼 마사지로 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#팔뚝통증",
+    "#손목통증",
+    "#마우스",
+    "#직장인건강",
+    "#리메디얼마사지",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#forearmpain",
+    "#deskjob",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 마우스와 키보드로 팔뚝이 뻐근해지는 이유, 책상 자세 비교, 30초 팔뚝 휴식, 평가가 먼저 필요한 신호.",
+  "story": {
+    "headline": "마우스 손이 묵직하다면?",
+    "body": "30분마다<br>손 털고 주먹 쥐기 10회!",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-23",
+  "created": "2026-11-23-3",
+  "status": "approved",
+  "review_warnings": []
+}

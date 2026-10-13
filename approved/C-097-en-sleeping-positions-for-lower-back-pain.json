@@ -1,0 +1,131 @@
+{
+  "id": "C-097-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sleeping positions for lower back pain",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's <em>pillow plan</em><br>for a sore lower back",
+      "sub": "Sleeping positions that many people find easier",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "One pillow can<br>make a difference!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "11pm. Koko lies<br><em>dead straight</em>, gritting her teeth.",
+      "char": "koala_tired",
+      "bubble": "Sleeping 'properly'<br>is meant to help<br>my back..",
+      "bubble_type": "thought",
+      "note": "(so why is it so uncomfortable..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On Saturday she met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Sleeping okay?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Trying to sleep 'right'<br>makes my back worse.."
+      },
+      "note": "Hybi started with this: <mark>there's no single right position</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Comfort beats<br>the <em>'perfect' position</em>",
+      "fact": "Shifting around overnight is <em>normal and helpful</em>",
+      "left": {
+        "label": "Pillow at knees",
+        "char": "koala_happy",
+        "caption": "On your side, the top leg<br><b>won't twist your back</b>"
+      },
+      "right": {
+        "label": "Forced posture",
+        "char": "koala_tired",
+        "caption": "Gritting through it<br><em>rarely feels good</em>"
+      },
+      "quip": "Try a few small<br>tweaks instead!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pillow plan</b>",
+      "sub": "Try it tonight!",
+      "sections": [
+        {
+          "heading": "1. Pillows by position",
+          "color": "yellow",
+          "lines": [
+            "① Side: knees bent, <em>pillow between your knees</em>.",
+            "② Back: <em>1–2 pillows under your knees</em>.",
+            "③ Keep your head pillow <em>fairly thin</em>.",
+            "④ Getting up: <em>roll to your side</em>, push up."
+          ]
+        },
+        {
+          "heading": "2. Get prompt medical help if…",
+          "color": "purple",
+          "lines": [
+            "Night pain <em>doesn't ease in any position</em>, fever,",
+            "groin numbness or <em>bladder or bowel changes</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Nights still rough<br>on your <em>back</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "No position feels okay",
+        "Unexplained weight loss",
+        "Bladder control changes"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko heard she should sleep dead straight. She grits her teeth, and it feels worse.\n\nThere isn't one correct sleeping position. Comfort is the guide, and shifting around overnight is normal and helpful. On your side, bend your knees a little and put a pillow between them so the top leg doesn't twist your back. On your back, try a pillow or two under your knees.\n\nGetting up is often the sorest bit: bend your knees, roll to your side, swing your legs over and push up with your arms.\n\nNight pain that doesn't ease with any position, fever, groin numbness or bladder or bowel changes need prompt medical attention. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#lowerbackpain",
+    "#backpain",
+    "#sleepingposition",
+    "#sleep",
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#hybridphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on sleeping positions for lower back pain, a pillow-between-the-knees comparison, a pillow plan for each position and signs that need prompt care.",
+  "story": {
+    "headline": "Lower back sore in bed?",
+    "body": "Side: pillow between knees.<br>Back: pillow under knees.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-20",
+  "created": "2026-11-20-4",
+  "status": "approved",
+  "review_warnings": []
+}

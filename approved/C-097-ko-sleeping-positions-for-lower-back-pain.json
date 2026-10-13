@@ -1,0 +1,131 @@
+{
+  "id": "C-097-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sleeping positions for lower back pain",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "누우면 허리가 아픈<br>코코의 <em>베개 작전</em>",
+      "sub": "허리 통증에 편한 잠자리 자세",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "베개 하나로<br>달라질 수 있어요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "밤 11시,<br><em>정자세</em>로 버티는 코코.",
+      "char": "koala_tired",
+      "bubble": "똑바로 자야<br>허리에 좋다던데..",
+      "bubble_type": "thought",
+      "note": "(근데 왜 이렇게 불편하지..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "주말에 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코 씨!<br>밤엔 잘 자요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "바른 자세로 자려니<br>오히려 허리가 아파요.."
+      },
+      "note": "하비는 <mark>정답 자세는 없다</mark>는 것부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "정답 자세보다<br><em>편한 자세</em>가 기준!",
+      "fact": "밤새 몸을 뒤척이는 건 <em>정상이고 허리에도 도움</em>이 돼요",
+      "left": {
+        "label": "무릎 사이 베개",
+        "char": "koala_happy",
+        "caption": "옆으로 누울 땐 위 다리가<br><b>허리를 안 비틀어요</b>"
+      },
+      "right": {
+        "label": "억지 정자세",
+        "char": "koala_tired",
+        "caption": "불편한 자세를<br><em>참기만 하면 힘들어요</em>"
+      },
+      "quip": "몇 가지 작은 변화를<br>시도해봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>베개 작전</b>",
+      "sub": "오늘 밤 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 자세별 베개 놓기",
+          "color": "yellow",
+          "lines": [
+            "① 옆잠: 무릎을 살짝 굽혀 <em>무릎 사이 베개</em>.",
+            "② 바로 누울 땐 <em>무릎 밑에 베개 1~2개</em>.",
+            "③ 머리 베개는 <em>너무 높지 않게</em>.",
+            "④ 일어날 땐 <em>옆으로 굴러</em> 팔로 밀고 앉기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료받기!",
+          "color": "purple",
+          "lines": [
+            "어떤 자세도 소용없는 <em>밤 통증</em>, 열,",
+            "사타구니 저림, <em>소변·대변 변화</em>가 있다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 밤마다<br><em>허리가 힘들다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "어떤 자세도 안 편하다",
+        "이유 없이 살이 빠진다",
+        "소변 조절이 달라졌다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "'똑바로 자야 허리에 좋다'는 말에 밤새 정자세로 버티는 코코. 그런데 오히려 더 불편해요.\n\n허리에 딱 하나의 정답 자세는 없어요. 편안함이 기준이고, 밤새 뒤척이는 것도 정상이에요.\n\n옆으로 잘 땐 무릎 사이에 베개, 바로 누울 땐 무릎 밑에 베개 1~2개. 일어날 땐 무릎 굽혀 옆으로 굴러서 팔로 밀고 천천히 앉아요.\n\n어떤 자세도 소용없는 밤 통증, 열, 사타구니 저림, 소변·대변 변화가 있다면 바로 진료받으세요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#수면자세",
+    "#베개",
+    "#꿀잠",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#lowerbackpain",
+    "#sleepingposition",
+    "#physiotherapy",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 허리가 아플 때 편한 잠자리 자세, 무릎 사이 베개 비교, 자세별 베개 놓는 법, 바로 진료가 필요한 신호.",
+  "story": {
+    "headline": "누우면 허리가 아프다면?",
+    "body": "옆잠엔 무릎 사이 베개,<br>바로 누울 땐 무릎 밑!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-20",
+  "created": "2026-11-20-1",
+  "status": "approved",
+  "review_warnings": []
+}

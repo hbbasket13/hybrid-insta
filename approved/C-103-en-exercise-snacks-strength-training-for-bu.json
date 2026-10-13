@@ -1,0 +1,131 @@
+{
+  "id": "C-103-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Exercise snacks: strength training for busy people",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "No time to train?<br>Try <em>exercise snacks</em>!",
+      "sub": "Strength training in five-minute bites",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Squats while the<br>kettle boils?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Three months since<br>Mr Turtle saw the <em>gym</em>.",
+      "char": "turtle_monitor",
+      "bubble": "If it's not a full<br>hour, does it<br>even count..?",
+      "bubble_type": "thought",
+      "note": "(only his membership is getting a workout..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "In the office kitchen he<br>found Hybi <b>mid-squat</b>.",
+      "left": {
+        "char": "hybi_arms_up",
+        "bubble": "Oh hi! Want<br>to join in?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "A few minutes?<br>Does that even work?"
+      },
+      "note": "Hybi said <mark>small bouts still add up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Small bouts<br><em>add up</em>!",
+      "fact": "Guidelines suggest strength work on <em>2+ days a week</em>",
+      "left": {
+        "label": "5 min, often",
+        "char": "turtle_happy",
+        "caption": "Little bits each day<br><b>keep stacking up</b>"
+      },
+      "right": {
+        "label": "1 hour, one day",
+        "char": "turtle_sad",
+        "caption": "Waiting for the perfect<br>day <em>keeps it on hold</em>"
+      },
+      "quip": "Today's five minutes<br>beats a someday hour!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>exercise snack menu</b>",
+      "sub": "Slot them into your day!",
+      "sections": [
+        {
+          "heading": "1. Start with one or two a day",
+          "color": "yellow",
+          "lines": [
+            "① <em>10 squats</em> while the kettle boils.",
+            "② Take <em>a few flights of stairs</em>.",
+            "③ <em>Calf raises</em> while brushing, wall push-ups.",
+            "④ A <em>60-second plank</em> or bridge before bed."
+          ]
+        },
+        {
+          "heading": "2. Get the effort right",
+          "color": "purple",
+          "lines": [
+            "Last reps <em>moderately hard</em>; too easy? Add reps.",
+            "Managing a niggle? Start with <em>1–2 snacks a day</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Something feeling<br><em>off</em>?",
+      "bubble": "Every body is different.<br><b>An assessment</b> helps!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Same spot hurts each time",
+        "A joint swells up",
+        "Chest pain or dizziness"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "It's been three months since Mr Turtle made it to the gym. Only his membership is getting a workout.\n\nExercise snacks are short bursts of strength work, a few minutes at a time, sprinkled through your day. Research suggests these small bouts add up and can build strength over time, and Australia's guidelines recommend muscle strengthening on at least two days a week.\n\nTry 10 squats while the kettle boils, stairs, calf raises while brushing, or a 60-second plank before bed. Make the last few reps moderately hard.\n\nManaging a niggle? Start with one or two a day. Our Chatswood and Sydney CBD physios can build a short routine around your schedule. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#exercisesnacks",
+    "#strengthtraining",
+    "#homeworkout",
+    "#busylife",
+    "#deskjob",
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on exercise snacks for busy people, five minutes often versus waiting for a perfect hour, an everyday snack menu and signs worth getting checked.",
+  "story": {
+    "headline": "No time to train?",
+    "body": "10 squats while<br>the kettle boils.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-23",
+  "created": "2026-11-23-4",
+  "status": "approved",
+  "review_warnings": []
+}

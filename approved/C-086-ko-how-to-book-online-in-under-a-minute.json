@@ -1,0 +1,131 @@
+{
+  "id": "C-086-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "How to book online in under a minute",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "예약, <em>1분이면</em><br>충분해요",
+      "sub": "하이브리드 피지오 온라인 예약 따라하기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>해볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "점심시간, 전화 예약하려다<br><em>통화 대기</em> 중..",
+      "char": "turtle_monitor",
+      "bubble": "점심 다 끝나가는데..<br>아직도 대기..?",
+      "bubble_type": "thought",
+      "note": "(샌드위치는 반쯤 남았다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그때 <b>하비</b>가<br>휴대폰 화면에 쏙.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "거북씨, 링크로<br>1분이면 돼요!"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "앱 깔고 가입하고<br>복잡하지 않아요?"
+      },
+      "note": "하비는 <mark>네 단계면 끝</mark>이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "예약은 <em>네 단계</em>예요",
+      "fact": "<em>지점 → 서비스 → 진료 유형 → 시간</em> 순서로 고르면 끝",
+      "left": {
+        "label": "링크 예약",
+        "char": "turtle_happy",
+        "caption": "가능한 시간을<br><b>한눈에 봐요</b>"
+      },
+      "right": {
+        "label": "통화 대기",
+        "char": "turtle_sad",
+        "caption": "점심시간이<br><em>훌쩍 지나가요</em>"
+      },
+      "quip": "확인 메시지에 주소까지<br>같이 와요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 예약 가이드</b>",
+      "sub": "프로필 링크에서 시작!",
+      "sections": [
+        {
+          "heading": "1. 네 단계로 끝",
+          "color": "yellow",
+          "lines": [
+            "① 프로필 링크 탭 → 예약 페이지.",
+            "② 채스우드 또는 시드니 CBD 선택.",
+            "③ 물리·카이로·필라테스·마사지 중 선택.",
+            "④ 시간 고르고 정보 입력 → <em>확인!</em>"
+          ]
+        },
+        {
+          "heading": "2. 초기 vs 재진, 헷갈린다면",
+          "color": "purple",
+          "lines": [
+            "이 문제로 <em>처음 오면</em> 보통 초기 진료,",
+            "모르겠으면 전화·메시지로 물어봐요!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "어디서 시작할지 <em>모르겠다면?</em>",
+      "bubble": "고민은 사람마다 달라요.<br><b>편하게 물어봐요!</b>",
+      "heading": "이럴 땐 클리닉에 먼저 연락",
+      "items": [
+        "어떤 서비스인지 모르겠다",
+        "새로 생긴 문제다",
+        "증상이 2주 넘게 계속된다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "점심시간 내내 통화 대기만 하던 거북씨. 온라인 예약은 1분이면 충분해요.\n\n프로필 링크를 누르고, 채스우드나 시드니 CBD를 고르고, 물리치료·카이로프랙틱·클리니컬 필라테스·리메디얼 마사지 중 선택해요. 초기 진료나 재진을 고른 뒤 시간과 정보를 넣고 확인하면 끝. 시간과 주소가 담긴 확인 메시지가 와요.\n\n이 문제로 처음 오신다면 보통 초기 진료가 맞아요. 어떤 서비스가 맞는지 모르겠다면 전화나 메시지로 편하게 물어보세요. 프로필 링크에서 온라인 예약 📱\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#온라인예약",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#카이로프랙틱",
+    "#필라테스",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#onlinebooking",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 하이브리드 피지오 온라인 예약 네 단계, 초기 진료와 재진 고르는 법, 클리닉에 먼저 연락하면 좋은 경우.",
+  "story": {
+    "headline": "예약, 1분이면 끝",
+    "body": "링크 → 지점 → 서비스 → 시간,<br>확인!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-16",
+  "created": "2026-11-16-5",
+  "status": "approved",
+  "review_warnings": []
+}

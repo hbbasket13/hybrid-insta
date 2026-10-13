@@ -1,0 +1,131 @@
+{
+  "id": "C-086-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "How to book online in under a minute",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Booking takes<br><em>about a minute</em>",
+      "sub": "A quick walkthrough of booking online",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's do it<br>together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lunch break, and he's<br>still <em>on hold</em>..",
+      "char": "turtle_monitor",
+      "bubble": "Lunch is nearly over..<br>still waiting..?",
+      "bubble_type": "thought",
+      "note": "(half a sandwich, going cold..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then <b>Hybi</b> popped up<br>on his phone.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Use the link!<br>About a minute."
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Do I need an app<br>and an account?"
+      },
+      "note": "Hybi said it's just <mark>four quick steps</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Booking is <em>four steps</em>",
+      "fact": "<em>Clinic → service → visit type → time</em>, and you're done",
+      "left": {
+        "label": "Link in bio",
+        "char": "turtle_happy",
+        "caption": "See open times<br><b>at a glance</b>"
+      },
+      "right": {
+        "label": "On hold",
+        "char": "turtle_sad",
+        "caption": "There goes<br><em>the lunch break</em>"
+      },
+      "quip": "Your confirmation comes<br>with the address too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute booking guide</b>",
+      "sub": "Start from the link in bio!",
+      "sections": [
+        {
+          "heading": "1. Four steps",
+          "color": "yellow",
+          "lines": [
+            "① Tap the link in bio → booking page.",
+            "② Pick Chatswood or Sydney CBD.",
+            "③ Physio, chiro, clinical Pilates or massage.",
+            "④ Pick a time, add details, <em>confirm!</em>"
+          ]
+        },
+        {
+          "heading": "2. Initial or follow-up?",
+          "color": "purple",
+          "lines": [
+            "<em>First visit</em> for this problem? Usually initial.",
+            "Unsure? Call or message the clinic."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Not sure <em>where to start</em>?",
+      "bubble": "Everyone's needs differ.<br><b>Just ask us!</b>",
+      "heading": "Contact the clinic first if",
+      "items": [
+        "Unsure which service fits",
+        "It's a brand-new problem",
+        "Symptoms over 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Booking an appointment shouldn't take longer than your lunch break. Mr Turtle learnt that the easy way 📱\n\nHere's the quick version: tap the link in our bio, choose Chatswood or Sydney CBD, then pick physio, chiro, clinical Pilates or remedial massage. Choose an initial or follow-up visit, pick a time that suits, add your details and confirm. You'll get a confirmation with the time and address.\n\nIf it's your first visit for a new problem, an initial appointment is usually the right choice. Not sure which service fits? Give the clinic a call or send a message and our admin team will help you work out where to start.\n\nBook online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#onlinebooking",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle walking through the four steps of booking online at Hybrid Physio, choosing initial or follow-up, and when to contact the clinic first.",
+  "story": {
+    "headline": "Booking takes about a minute",
+    "body": "Link in bio, clinic, service, time. Confirm!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-16",
+  "created": "2026-11-16-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-102-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Mid-back pain from long drives",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "현장 이동 3시간,<br><em>등 한가운데가 뻐근?</em>",
+      "sub": "장거리 운전과 등 통증 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "운전석부터<br>점검해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "현장에서 현장으로,<br>하루 <em>3시간</em> 운전하는 루루.",
+      "char": "kanga_tired",
+      "bubble": "날개뼈 사이가<br>콕콕 쑤시네..",
+      "bubble_type": "thought",
+      "note": "(차에서 내리면 허리 펴기도 힘들어..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "퇴근 후 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "루루 씨, 오늘도<br>많이 달렸어요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "운전만 하면<br>등이 굳어요.."
+      },
+      "note": "하비는 <mark>한 자세로 오래 있는 시간</mark>부터 짚었다."
+    },
+    {
+      "kind": "compare",
+      "title": "범인은 <em>한 자세</em>로<br>오래 있는 것!",
+      "fact": "장거리 운전 후 뻐근함은 보통 <em>척추 손상보다 정지</em> 탓",
+      "left": {
+        "label": "2시간마다 휴식",
+        "char": "kanga_happy",
+        "caption": "내려서 걷고 펴면<br><b>등이 풀리기 쉬워요</b>"
+      },
+      "right": {
+        "label": "논스톱 운전",
+        "char": "kanga_tired",
+        "caption": "몇 시간 같은 자세면<br><em>등이 굳기 쉬워요</em>"
+      },
+      "quip": "출발 전엔<br>시트 세팅부터!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>운전석 세팅 + 휴게소 루틴</b>",
+      "sub": "출발 전에 저장!",
+      "sections": [
+        {
+          "heading": "1. 시트와 휴식",
+          "color": "yellow",
+          "lines": [
+            "① 엉덩이를 <em>시트 끝까지</em> 붙여 앉아요.",
+            "② 팔꿈치가 <em>살짝 굽을 만큼</em> 시트를 당겨요.",
+            "③ 허리 뒤에 <em>돌돌 만 수건</em> 하나.",
+            "④ 2시간마다 걷고 팔 올리고 <em>날개뼈 모으기</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료받기!",
+          "color": "purple",
+          "lines": [
+            "<em>가슴 통증·숨참</em>, 열, 사고 후 통증,",
+            "<em>밤에 더 심한</em> 지속 통증이 있다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "운전할 때마다<br><em>등이 아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>로 확인해봐요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "가슴 통증이 같이 온다",
+        "사고·넘어진 뒤 아프다",
+        "밤에 더 심해진다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "현장에서 현장으로 하루 3시간 운전하는 루루. 날개뼈 사이가 콕콕 쑤셔요.\n\n한 자세로 오래 있고, 팔을 같은 위치에 두고, 도로 진동까지 더해지면 등 한가운데가 뻐근해질 수 있어요. 대부분 척추 손상보다는 너무 오래 가만히 있는 탓이에요.\n\n시트 끝까지 붙여 앉고, 팔꿈치가 살짝 굽게, 허리 뒤엔 수건 하나. 2시간마다 쉬면서 걷고, 팔 올리고, 날개뼈 모으고, 몸통 돌리기!\n\n가슴 통증·숨참, 열, 사고 후 통증, 밤에 심해지는 통증은 바로 진료받으세요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🚗\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#등통증",
+    "#장거리운전",
+    "#운전자세",
+    "#트레이디",
+    "#카이로프랙틱",
+    "#채스우드",
+    "#시드니카이로프랙틱",
+    "#하이브리드피지오",
+    "#chiropractic",
+    "#midbackpain",
+    "#chatswood",
+    "#tradie"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 장거리 운전 후 등이 뻐근한 이유, 2시간마다 쉬기 비교, 운전석 세팅과 휴게소 루틴, 바로 진료가 필요한 신호.",
+  "story": {
+    "headline": "운전만 하면 등이 굳는다면?",
+    "body": "2시간마다 내려서<br>걷고 날개뼈 모으기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-21",
+  "created": "2026-11-21-3",
+  "status": "approved",
+  "review_warnings": []
+}

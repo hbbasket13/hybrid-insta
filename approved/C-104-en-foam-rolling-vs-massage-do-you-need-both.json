@@ -1,0 +1,131 @@
+{
+  "id": "C-104-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Foam rolling vs massage: do you need both?",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Foam roller or massage?<br><em>Maybe both</em>",
+      "sub": "What each does well, and how to combine them",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "They do different<br>jobs!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Toto, on the roller,<br><em>teeth clenched</em>.",
+      "char": "rabbit_tired",
+      "bubble": "If it hurts more,<br>it's working more..<br>right?!",
+      "bubble_type": "thought",
+      "note": "(ten minutes on one calf and counting..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After training he met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Toto, you're<br>bright red. All good?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "I've got a roller now,<br>so no massage needed?"
+      },
+      "note": "Hybi explained that <mark>each one does a different job</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Rolling harder<br><em>isn't more helpful</em>",
+      "fact": "Roll <em>firm but comfortable</em>, 30–60 sec per area",
+      "left": {
+        "label": "Comfortable",
+        "char": "rabbit_happy",
+        "caption": "Slow breathing,<br><b>30–60 seconds</b>"
+      },
+      "right": {
+        "label": "Till it hurts",
+        "char": "rabbit_tired",
+        "caption": "Pressing harder<br><em>doesn't add much</em>"
+      },
+      "quip": "Roll most days, book a<br>massage when needed!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>roller + massage combo</b>",
+      "sub": "Use them together!",
+      "sections": [
+        {
+          "heading": "1. How to combine them",
+          "color": "yellow",
+          "lines": [
+            "① Calves, quads, upper back: <em>brief, most days</em>.",
+            "② Skip bony spots; <em>go gently</em> near the low back.",
+            "③ Book a massage when an area <em>keeps tightening</em>.",
+            "④ Tell your therapist about <em>your rolling routine</em>."
+          ]
+        },
+        {
+          "heading": "2. Neither replaces exercise",
+          "color": "purple",
+          "lines": [
+            "Strength and <em>gradual training</em> build capacity.",
+            "Rolling and massage are <em>helpful add-ons</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Keeps tightening<br><em>straight back up</em>?",
+      "bubble": "Causes differ for everyone.<br>Let's <b>assess</b> it!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling or warmth",
+        "Tingling comes with it",
+        "Limping when you run"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto has been grinding one calf on the foam roller for ten minutes, teeth clenched. Surely more pain means more benefit?\n\nFoam rolling is quick, cheap and easy to do daily, and many people find it helps them feel looser. Firm but comfortable pressure, 30–60 seconds per area, with slow breathing, is plenty.\n\nA remedial massage therapist can assess and target specific areas, adjust pressure as they go, and reach spots that are hard to roll, like the neck and between the shoulder blades. Neither replaces strength work and gradual training; think of them as helpful add-ons.\n\nOur remedial massage therapists at Hybrid Physio can show you where to roll at home. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#foamrolling",
+    "#remedialmassage",
+    "#massagetherapy",
+    "#recovery",
+    "#runners",
+    "#mobility",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#sydney",
+    "#training",
+    "#hybridphysiotherapy",
+    "#hybridphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit on what foam rolling and remedial massage each do well, comfortable pressure versus rolling until it hurts, how to combine them and signs worth getting checked.",
+  "story": {
+    "headline": "Does harder rolling help more?",
+    "body": "Firm but comfortable,<br>30–60 sec per area.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-23",
+  "created": "2026-11-23-2",
+  "status": "approved",
+  "review_warnings": []
+}

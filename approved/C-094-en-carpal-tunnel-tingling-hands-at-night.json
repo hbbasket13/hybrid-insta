@@ -1,0 +1,131 @@
+{
+  "id": "C-094-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Carpal tunnel: tingling hands at night",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "3am, and Mr Turtle's<br>hand is <em>buzzing</em>",
+      "sub": "Carpal tunnel and tingling hands at night",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's look at<br>your wrists!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "3am. Shake, shake,<br><em>shake</em> the hand out.",
+      "char": "turtle_sad",
+      "bubble": "Pins and needles<br>woke me up<br>again..",
+      "bubble_type": "thought",
+      "note": "(mostly the thumb, index and middle finger..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "The next day he met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Morning!<br>Sleep well?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Not really.. my hand<br>keeps waking me up."
+      },
+      "note": "Hybi asked first about <mark>how his wrists sit at night</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Wrist shape at night<br>can <em>matter</em>",
+      "fact": "An irritated <em>median nerve</em> can make fingers tingle",
+      "left": {
+        "label": "Wrist straight",
+        "char": "turtle_happy",
+        "caption": "A straight wrist means<br><b>less tunnel pressure</b>"
+      },
+      "right": {
+        "label": "Curled wrist",
+        "char": "turtle_sad",
+        "caption": "Sleeping bent can<br><em>add pressure</em>"
+      },
+      "quip": "A straight wrist at night<br>is a common first step!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>wrist-friendly habits</b>",
+      "sub": "Start tonight!",
+      "sections": [
+        {
+          "heading": "1. Nights and days",
+          "color": "yellow",
+          "lines": [
+            "① Wrists <em>straight</em> in bed (a splint is common).",
+            "② Keep your arms <em>off and away</em> from the pillow.",
+            "③ Break up gripping and scrolling <em>every 30 min</em>.",
+            "④ Wrists <em>level</em> on keyboard and mouse."
+          ]
+        },
+        {
+          "heading": "2. Get assessed soon if…",
+          "color": "purple",
+          "lines": [
+            "Numbness is <em>constant</em>, or your thumb",
+            "feels weak and you're <em>dropping things</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still waking up<br>with <em>tingling</em>?",
+      "bubble": "It's not always the wrist.<br><b>Assessment</b> first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Thumb feels weak",
+        "Dropping things often",
+        "Neck pain comes with it"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi in <b>Chatswood</b><br>or the <b>Sydney CBD</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "3am, and Mr Turtle is shaking pins and needles out of his hand again.\n\nTingling in the thumb, index and middle fingers, especially at night, is often linked to irritation of the median nerve at the wrist, known as carpal tunnel syndrome. Many people sleep with their wrists curled, which can add pressure.\n\nHybi's habits: keep the wrist straight overnight (a splint is a common first step), keep arms off the pillow, break up gripping and scrolling every 30 minutes, and keep wrists level at the desk.\n\nConstant numbness, thumb weakness or dropping things are worth an assessment soon. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#carpaltunnel",
+    "#handtingling",
+    "#wristpain",
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#deskjob",
+    "#hybridphysiotherapy",
+    "#sleep"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on why hands tingle at night, straight versus curled wrists, wrist-friendly habits and signs worth getting checked.",
+  "story": {
+    "headline": "Tingling hands at 3am?",
+    "body": "Keep your wrists<br>straight at night.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-19",
+  "created": "2026-11-19-4",
+  "status": "approved",
+  "review_warnings": []
+}

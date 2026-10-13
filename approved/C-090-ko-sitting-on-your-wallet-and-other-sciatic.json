@@ -1,0 +1,131 @@
+{
+  "id": "C-090-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Sitting on your wallet and other sciatica myths",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "뒷주머니 <em>지갑</em> 때문에<br>좌골신경통?",
+      "sub": "좌골신경통 오해와 진실",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "오해부터<br>정리해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 종일 운전,<br>뒷주머니엔 <em>두툼한 지갑</em>.",
+      "char": "kanga_tired",
+      "bubble": "다리가 찌릿한 게<br>이 지갑 때문인가..?",
+      "bubble_type": "thought",
+      "note": "(영수증까지 꽉 찬 지갑..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "동료 추천으로<br><b>하이브리드 피지오</b>에.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "루루, 다리까지<br>내려오는군요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "누워서 푹 쉬면<br>낫는 거죠?"
+      },
+      "note": "하비는 <mark>할 수 있는 만큼 움직이기</mark>를 권했다."
+    },
+    {
+      "kind": "compare",
+      "title": "누워 있기보다 <em>움직이기</em>",
+      "fact": "가이드라인은 <em>편한 만큼 활동</em>을 유지하라고 해요",
+      "left": {
+        "label": "짧게 자주",
+        "char": "kanga_happy",
+        "caption": "짧은 산책, 자세 바꾸기<br><b>보통 더 도움돼요</b>"
+      },
+      "right": {
+        "label": "며칠 누워만",
+        "char": "kanga_tired",
+        "caption": "오래 누워 있으면<br><em>더 뻣뻣해질 수 있어요</em>"
+      },
+      "quip": "지갑은 앞주머니로,<br>몸은 살살 움직여요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>좌골신경통 생활 팁</b>",
+      "sub": "오늘부터 바로!",
+      "sections": [
+        {
+          "heading": "1. 할 수 있는 것부터",
+          "color": "yellow",
+          "lines": [
+            "① 지갑은 <em>앞주머니</em>로 옮기기.",
+            "② 운전·앉기 <em>30분마다</em> 내려서 1~2분 걷기.",
+            "③ 하루 몇 번 <em>5~10분</em> 편한 속도로 산책.",
+            "④ 회복은 보통 몇 주~몇 달, 꾸준히!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 응급 진료!",
+          "color": "purple",
+          "lines": [
+            "사타구니 감각 저하, 소변·대변 변화,",
+            "다리 힘이 <em>점점 빠진다면</em> GP나 응급실로."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 신호는 <em>바로 진료!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "바로 진료가 필요한 신호",
+      "items": [
+        "사타구니 쪽 감각이 둔하다",
+        "소변·대변 조절 변화",
+        "다리 힘이 점점 빠진다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "뒷주머니 지갑을 앞으로 옮기는 건 해볼 만해요. 다만 좌골신경통의 전부인 경우는 드물어요.\n\n좌골신경통은 자극받은 신경 뿌리 때문에 다리로 통증이 내려가는 걸 말해요. 꽤 심하게 느껴져도 대부분 몇 주에서 몇 달 사이 나아지는 편이에요. 가이드라인은 누워 있기보다 편한 만큼 활동을 유지하라고 해요.\n\n카이로프랙틱 치료는 운동과 명확한 계획과 함께할 때 도움이 될 수 있어요. 사타구니 감각 저하, 소변·대변 변화, 다리 힘이 빠지면 바로 진료받아요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#좌골신경통",
+    "#허리통증",
+    "#다리저림",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#트레이디",
+    "#chiropractic",
+    "#sciatica",
+    "#chatswood",
+    "#sydneychiro"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 지갑과 좌골신경통에 대한 오해, 누워 있기보다 움직이기, 생활 팁과 바로 진료가 필요한 신호.",
+  "story": {
+    "headline": "지갑 때문에 좌골신경통?",
+    "body": "지갑은 앞주머니로,<br>몸은 편한 만큼 움직이기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-17",
+  "created": "2026-11-17-3",
+  "status": "approved",
+  "review_warnings": []
+}

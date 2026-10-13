@@ -1,0 +1,131 @@
+{
+  "id": "C-093-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Tension headaches and a tight upper back",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "머리띠를 조이는 듯한<br><em>두통, 등에서 시작?</em>",
+      "sub": "긴장성 두통과 굳은 윗등 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "둘이 자주<br>같이 와요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마감 주간,<br>머리가 <em>꽉 조이는</em> 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "누가 머리에<br>고무줄을 감았나..?",
+      "bubble_type": "thought",
+      "note": "(어깨랑 윗등도 돌덩이..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "점심시간에 <b>하이브리드 피지오</b>로<br>달려갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "반가워요!<br>머리가 무거워요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 두통이랑<br>윗등 뭉침이 같이 와요."
+      },
+      "note": "하비는 <mark>두 가지가 왜 같이 오는지</mark>부터 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "두통과 윗등은<br><em>단짝</em>일 때가 많아요",
+      "fact": "긴장성 두통 땐 <em>어깨·윗등·뒤통수</em> 근육이 예민한 경우가 많아요",
+      "left": {
+        "label": "자주 움직이기",
+        "char": "turtle_happy",
+        "caption": "1시간마다 윗등을<br><b>조금씩 돌려요</b>"
+      },
+      "right": {
+        "label": "하루종일 고정",
+        "char": "turtle_sad",
+        "caption": "몇 시간 그대로면<br><em>더 뻣뻣해지기 쉬워요</em>"
+      },
+      "quip": "큰 스트레칭 한 번보다<br>작은 움직임 자주!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 윗등 돌리기</b>",
+      "sub": "의자에서 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 앉아서 몸통 회전",
+          "color": "yellow",
+          "lines": [
+            "① 허리를 펴고 양손을 <em>어깨에</em> 얹어요.",
+            "② 상체를 좌우로 <em>천천히 10회</em> 돌려요.",
+            "③ <em>1시간에 한 번</em>, 알람 맞춰두기!",
+            "④ 2주간 <em>두통 일기</em>로 잠·물·식사 체크."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 GP에게!",
+          "color": "purple",
+          "lines": [
+            "<em>갑자기 심한 두통</em>, 머리 부딪힌 뒤 두통,",
+            "열·시야 변화·저림이 함께 오면 바로 진료!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "두통이 자꾸<br><em>반복된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br>먼저 <b>평가</b>해봐요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "두통 양상이 달라졌다",
+        "점점 심해진다",
+        "팔다리 저림이 있다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "마감 주간, 머리를 고무줄로 조이는 듯한 두통에 윗등까지 돌덩이가 된 거북씨.\n\n긴장성 두통이 있을 때 어깨·윗등·뒤통수 근육이 예민해지는 경우가 많아요. 잠, 스트레스, 거른 끼니, 물 부족, 긴 화면 시간도 흔한 요인이에요.\n\n하비 팁: 양손을 어깨에 얹고 상체 좌우 돌리기 10회, 1시간에 한 번. 2주간 두통 일기를 써보면 패턴이 보일 수 있어요.\n\n갑작스러운 심한 두통, 머리 부딪힌 뒤 두통, 열·시야 변화·저림이 함께 오면 바로 GP에게 가세요. 하이브리드 피지오 카이로프랙터가 목과 윗등을 평가해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#두통",
+    "#긴장성두통",
+    "#윗등통증",
+    "#직장인건강",
+    "#카이로프랙틱",
+    "#시드니cbd",
+    "#시드니카이로프랙틱",
+    "#하이브리드피지오",
+    "#tensionheadache",
+    "#chiropractic",
+    "#sydneycbd",
+    "#upperback"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 긴장성 두통과 굳은 윗등이 함께 오는 이유, 1분 몸통 회전, 두통 일기, 바로 진료가 필요한 신호.",
+  "story": {
+    "headline": "두통에 윗등까지 뻐근?",
+    "body": "1시간마다 상체 돌리기<br>좌우 10회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-18",
+  "created": "2026-11-18-3",
+  "status": "approved",
+  "review_warnings": []
+}

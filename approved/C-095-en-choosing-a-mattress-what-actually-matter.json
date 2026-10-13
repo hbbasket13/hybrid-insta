@@ -1,0 +1,131 @@
+{
+  "id": "C-095-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Choosing a mattress: what actually matters",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mattress shopping?<br>Here's <em>what matters</em>",
+      "sub": "Firm or soft? It's more personal than the ads say",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Your body before<br>the brochure!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko, lying on mattresses<br>for <em>30 seconds</em> each.",
+      "char": "koala_tired",
+      "bubble": "They all feel<br>the same..<br>which one?!",
+      "bubble_type": "thought",
+      "note": "(the salesperson says 'the firmest one'..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So she asked Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Out shopping?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "My back's stiff every<br>morning. New mattress?"
+      },
+      "note": "Hybi asked first <mark>how Koko actually sleeps</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Firmest isn't<br><em>automatically right</em>",
+      "fact": "Research suggests <em>medium-firm</em> is a good starting point",
+      "left": {
+        "label": "Suits your sleep",
+        "char": "koala_happy",
+        "caption": "Side sleepers often like<br><b>give at hip and shoulder</b>"
+      },
+      "right": {
+        "label": "30-second test",
+        "char": "koala_tired",
+        "caption": "A quick lie-down<br><em>tells you little</em>"
+      },
+      "quip": "How you feel at 7am<br>is the real test!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>mattress test</b>",
+      "sub": "Save this for the showroom!",
+      "sections": [
+        {
+          "heading": "1. Test it properly",
+          "color": "yellow",
+          "lines": [
+            "① Lie in your <em>usual position for 10–15 min</em>.",
+            "② Side sleeper? Hips and shoulders <em>sink a little</em>.",
+            "③ Read any <em>trial period</em> conditions carefully.",
+            "④ Check pillow height and a <em>cooler room</em> too."
+          ]
+        },
+        {
+          "heading": "2. It might not be the mattress if…",
+          "color": "purple",
+          "lines": [
+            "Night pain doesn't change <em>with any position</em>,",
+            "or comes with fever, weight loss or leg numbness."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still waking up<br><em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br>Let's <b>assess</b> first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Night pain in any position",
+        "Leg numbness or weakness",
+        "Unexplained weight loss"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko is lying on showroom mattresses for 30 seconds each, hoping one will sort out her stiff mornings.\n\nResearch suggests medium-firm suits many people with back pain better than very firm, but comfort is personal. Side sleepers often like more give at the hips and shoulders; back sleepers usually like more support.\n\nLie on it for 10–15 minutes in your usual position, check any trial conditions, and remember pillow height, a cooler room, stress and daily activity all matter too.\n\nNight pain that doesn't change with position, or pain with fever, weight loss or leg numbness, deserves an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🛏️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#mattress",
+    "#backpain",
+    "#sleep",
+    "#morningstiffness",
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#sydney",
+    "#healthyhabits",
+    "#hybridphysiotherapy",
+    "#hybridphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on choosing a mattress, why medium-firm is a starting point, how to test one properly and signs worth getting checked.",
+  "story": {
+    "headline": "Is firmer always better?",
+    "body": "Test it 10–15 minutes<br>in your usual position.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-19",
+  "created": "2026-11-19-2",
+  "status": "approved",
+  "review_warnings": []
+}

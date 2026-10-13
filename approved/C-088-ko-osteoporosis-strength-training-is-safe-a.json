@@ -1,0 +1,131 @@
+{
+  "id": "C-088-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Osteoporosis: strength training is safe and helpful",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "골다공증이어도<br><em>근력 운동</em> 할 수 있어요",
+      "sub": "가이드라인이 말하는 뼈와 근력 운동",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "오해부터<br>풀어볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "장바구니도 <em>남이 들어줘야</em><br>한다고 믿는 코코.",
+      "char": "koala_tired",
+      "bubble": "골다공증이니까<br>아무것도 들면<br>안 되겠지..?",
+      "bubble_type": "thought",
+      "note": "(볼링 클럽 친구가 그러던데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "검진 결과를 들고<br><b>하이브리드 피지오</b>에.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코, 결과지<br>가져왔군요!"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "무거운 건<br>절대 안 되죠?"
+      },
+      "note": "하비는 <mark>요즘 가이드라인은 반대</mark>라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "걷기만으론 <em>부족할 수 있어요</em>",
+      "fact": "가이드라인은 대부분에게 <em>점진적 근력·충격 운동</em>을 지지해요",
+      "left": {
+        "label": "천천히 무게",
+        "char": "koala_happy",
+        "caption": "지도 받으며<br><b>조금씩 올려요</b>"
+      },
+      "right": {
+        "label": "걷기만",
+        "char": "koala_tired",
+        "caption": "좋지만 뼈 자극으론<br><em>모자랄 수 있어요</em>"
+      },
+      "quip": "제대로 배우고<br>천천히 올려봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>뼈 근력 프로그램 맛보기</b>",
+      "sub": "물리치료사와 함께 시작해요!",
+      "sections": [
+        {
+          "heading": "1. 프로그램에 보통 들어가는 것",
+          "color": "yellow",
+          "lines": [
+            "① 스쿼트·스텝업 <em>8~10회 × 2세트</em>.",
+            "② 충격: 까치발 들었다 <em>뒤꿈치 쿵</em> 10회.",
+            "③ 균형: 한 발 서기, 일렬로 걷기.",
+            "④ 일주일 <em>2~3번</em>, 무게는 점진적으로."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 먼저 진료받기",
+          "color": "purple",
+          "lines": [
+            "가벼운 동작 후 <em>갑자기 허리가 아프면</em>",
+            "운동 전에 GP나 물리치료사와 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 신호는 <em>꼭 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "GP나 물리치료사와 상담하기",
+      "items": [
+        "들다가 갑자기 허리 통증",
+        "넘어진 뒤 통증이 있다",
+        "걸을 때 사타구니 통증"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "골다공증 진단 후 '조심해, 아무것도 들지 마'라는 말을 들었나요? 요즘 가이드라인은 대부분의 사람에게 반대로 말해요.\n\n뼈는 받는 하중에 적응해요. 연구에 따르면 지도받는 점진적 근력 운동은 대체로 안전하고 뼈 건강에 도움이 될 수 있어요. 걷기는 좋지만 그것만으로는 부족할 수 있어요. 스쿼트·스텝업 같은 근력, 뒤꿈치 쿵 같은 충격, 균형 운동을 일주일 2~3번, 천천히 올려가요.\n\n가벼운 동작 후 갑작스런 허리 통증이나 넘어진 뒤 통증은 확인받아요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#골다공증",
+    "#뼈건강",
+    "#근력운동",
+    "#시니어운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#osteoporosis",
+    "#chatswood",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 골다공증과 근력 운동에 대한 오해, 걷기만으로 부족할 수 있는 이유, 프로그램 구성과 확인이 필요한 신호.",
+  "story": {
+    "headline": "골다공증, 들어도 돼요?",
+    "body": "대부분은 지도받는 근력 운동이<br>안전하고 도움돼요.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-17",
+  "created": "2026-11-17-1",
+  "status": "approved",
+  "review_warnings": []
+}

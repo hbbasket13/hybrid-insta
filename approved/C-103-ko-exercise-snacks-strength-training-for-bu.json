@@ -1,0 +1,131 @@
+{
+  "id": "C-103-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Exercise snacks: strength training for busy people",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "운동할 시간이 없다고?<br><em>5분 간식 운동!</em>",
+      "sub": "바쁜 사람을 위한 '운동 간식'",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "물 끓는 동안<br>스쿼트 어때요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "야근, 회식, 주말 출근..<br>헬스장은 <em>석 달째</em> 못 간 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "운동은 한 시간은<br>해야 의미 있잖아..",
+      "bubble_type": "thought",
+      "note": "(회원권만 열심히 일하는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "탕비실에서 하비를 만났다.<br><b>스쿼트 중인</b> 하비를!",
+      "left": {
+        "char": "hybi_arms_up",
+        "bubble": "어, 거북씨!<br>같이 할래요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "겨우 몇 분 해서<br>효과가 있어요?"
+      },
+      "note": "하비는 <mark>짧은 운동도 쌓이면 힘이 된다</mark>고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "짧게 여러 번도<br><em>쌓이면 근력!</em>",
+      "fact": "호주 신체활동 가이드: 근력운동은 <em>주 2일 이상</em> 권장",
+      "left": {
+        "label": "틈틈이 5분",
+        "char": "turtle_happy",
+        "caption": "하루 몇 번 짧게,<br><b>꾸준히 쌓여요</b>"
+      },
+      "right": {
+        "label": "언젠가 1시간",
+        "char": "turtle_sad",
+        "caption": "완벽한 날만 기다리면<br><em>계속 미뤄지기 쉬워요</em>"
+      },
+      "quip": "완벽한 한 시간보다<br>오늘의 5분!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>운동 간식 메뉴</b>",
+      "sub": "생활 속에 끼워 넣어요!",
+      "sections": [
+        {
+          "heading": "1. 하루 한두 개부터",
+          "color": "yellow",
+          "lines": [
+            "① 물 끓는 동안 <em>스쿼트 10회</em>.",
+            "② 엘리베이터 대신 <em>계단 몇 층</em>.",
+            "③ 양치하며 <em>까치발 들기</em>, 벽 팔굽혀펴기.",
+            "④ 자기 전 <em>60초 플랭크</em>나 브릿지."
+          ]
+        },
+        {
+          "heading": "2. 강도는 이렇게!",
+          "color": "purple",
+          "lines": [
+            "마지막 몇 회가 <em>조금 힘들 정도</em>로!",
+            "통증이 있거나 오래 쉬었다면 <em>하루 1~2개</em>부터."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "하다가 어딘가<br><em>불편하다면?</em>",
+      "bubble": "몸 상태는 다 달라요.<br><b>평가</b>부터 해봐요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "할 때마다 같은 곳 통증",
+        "관절이 붓는다",
+        "가슴 통증·어지럼"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "헬스장 회원권만 석 달째 일하는 중인 거북씨. 운동은 한 시간은 해야 의미 있다고 생각했대요.\n\n'운동 간식'은 하루 중 몇 분씩 짧게 하는 근력운동이에요. 연구에 따르면 이런 짧은 운동도 쌓이면 근력에 도움이 될 수 있어요. 호주 가이드라인은 근력운동을 주 2일 이상 권장해요.\n\n물 끓는 동안 스쿼트 10회, 계단 몇 층, 양치하며 까치발, 자기 전 60초 플랭크. 마지막 몇 회가 조금 힘들 정도로!\n\n통증이 있다면 하루 1~2개부터 천천히. 채스우드·시드니 CBD 물리치료사가 맞춤 루틴을 짜드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#운동간식",
+    "#홈트",
+    "#직장인운동",
+    "#근력운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#exercisesnacks",
+    "#strengthtraining",
+    "#physiotherapy",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 바쁜 사람을 위한 운동 간식, 틈틈이 5분과 언젠가 1시간 비교, 생활 속 운동 메뉴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "운동할 시간이 없다면?",
+    "body": "물 끓는 동안<br>스쿼트 10회!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-23",
+  "created": "2026-11-23-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-087-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "The sit-to-stand test: a quick leg strength check",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "손 안 쓰고<br><em>5번 일어나기</em>",
+      "sub": "의자 하나로 하는 다리 힘 체크",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "한번<br>해볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "낮잠 후 소파에서<br><em>영차!</em> 하는 코코.",
+      "char": "koala_tired",
+      "bubble": "일어날 때마다<br>손으로 짚게 되네..?",
+      "bubble_type": "thought",
+      "note": "(어느새 '영차'가 입버릇이 됐다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "동네 걷기 모임 후<br><b>하비</b>를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코, 의자 테스트<br>해봤어요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "기록이 느리면<br>어떡하죠..?"
+      },
+      "note": "하비는 <mark>판정이 아니라 체크인</mark>이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>팔짱</em>이 포인트예요",
+      "fact": "튼튼한 의자를 벽에 대고, 팔짱 끼고 <em>5번</em> · 시간 재기",
+      "left": {
+        "label": "팔짱 끼고",
+        "char": "koala_happy",
+        "caption": "다리 힘만으로<br><b>정확히 재요</b>"
+      },
+      "right": {
+        "label": "손 짚고",
+        "char": "koala_tired",
+        "caption": "손을 쓰면<br><em>다리 힘을 못 재요</em>"
+      },
+      "quip": "느려도 괜찮아요,<br>좋은 정보예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>의자 테스트 → 운동</b>",
+      "sub": "테스트가 곧 운동이에요!",
+      "sections": [
+        {
+          "heading": "1. 재고, 연습하고, 다시 재기",
+          "color": "yellow",
+          "lines": [
+            "① 팔짱 끼고 <em>5번</em>, 안전한 속도로 시간 재기.",
+            "② 연습: <em>8~10회 × 3세트</em>, 대부분 날에.",
+            "③ 쉬워지면 천천히 앉거나 낮은 의자로.",
+            "④ 기록은 적어두고 <em>4주마다</em> 다시."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 하지 마세요!",
+          "color": "purple",
+          "lines": [
+            "<em>어지럽거나</em> 무릎·고관절이 많이 아프면",
+            "건너뛰고, 날카로운 통증엔 바로 멈춤!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>확인받아요</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 꼭 확인받기",
+      "items": [
+        "손 없이 일어나기 힘들다",
+        "최근 넘어진 적이 있다",
+        "무릎·고관절 통증이 크다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "의자에서 손 안 쓰고 다섯 번 일어날 수 있나요? '5회 의자 일어서기'는 다리 힘을 간단히 체크하는 방법이에요.\n\n튼튼한 의자를 벽에 대고, 팔짱을 낀 채 안전한 속도로 다섯 번 일어났다 앉으며 시간을 재요. 균형이 불안하면 옆에 누가 있을 때 해요.\n\n기록이 느리거나 손이 필요해도 판정이 아니에요. 다리가 운동을 좋아할 거라는 신호일 뿐! 8~10회 × 3세트를 대부분 날에, 4주마다 다시 재봐요. 시드니 CBD 물리치료사가 근력 평가를 도와드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#하체근력",
+    "#의자일어서기",
+    "#시니어운동",
+    "#낙상예방",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sittostand",
+    "#sydneycbd",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 5회 의자 일어서기 테스트 방법, 팔짱 끼는 이유, 테스트를 운동으로 바꾸는 법과 확인이 필요한 신호.",
+  "story": {
+    "headline": "손 없이 5번 일어나기",
+    "body": "팔짱 끼고 시간 재고,<br>4주 뒤 다시!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-16",
+  "created": "2026-11-16-3",
+  "status": "approved",
+  "review_warnings": []
+}

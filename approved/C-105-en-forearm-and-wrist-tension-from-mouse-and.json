@@ -1,0 +1,131 @@
+{
+  "id": "C-105-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Forearm and wrist tension from mouse and keyboard",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Friday arvo, and the<br><em>mouse hand</em> feels heavy",
+      "sub": "Forearm and wrist tension from desk work",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "Your forearms<br>need breaks too!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Five hours of spreadsheets.<br><em>Click, click, click</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Why do my forearms<br>feel like lead..?",
+      "bubble_type": "thought",
+      "note": "(and now the wrist is joining in..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Before heading home he<br>dropped into <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! What's<br>bugging you today?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Not my shoulders this<br>time.. my forearms."
+      },
+      "note": "Hybi explained that <mark>small muscles work all day long</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Forearm muscles<br><em>rarely get a break</em>",
+      "fact": "Typing and mousing keep the forearms <em>gently working all day</em>",
+      "left": {
+        "label": "Elbows in",
+        "char": "turtle_happy",
+        "caption": "Elbows by your sides,<br>wrists <b>fairly flat</b>"
+      },
+      "right": {
+        "label": "Long reach",
+        "char": "turtle_sad",
+        "caption": "A far-off mouse can<br><em>tire the forearm</em>"
+      },
+      "quip": "Keep mouse and keyboard<br>close to you!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>30-second forearm break</b>",
+      "sub": "Every half hour!",
+      "sections": [
+        {
+          "heading": "1. Micro-breaks",
+          "color": "yellow",
+          "lines": [
+            "① Drop your hands and <em>shake them out</em>.",
+            "② Open and close your fists <em>10 times</em>.",
+            "③ <em>Gently stretch</em> your wrists both ways.",
+            "④ Chair height: elbows about <em>desk height</em>."
+          ]
+        },
+        {
+          "heading": "2. Get assessed rather than massaged if…",
+          "color": "purple",
+          "lines": [
+            "Finger <em>numbness or tingling</em>, pain at night,",
+            "weakness, <em>dropping things</em> or swelling."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Forearms still<br><em>aching</em>?",
+      "bubble": "Causes differ for everyone.<br>Let's <b>check</b> first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in the fingers",
+        "Pain wakes you at night",
+        "Swelling at the wrist"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Five hours of spreadsheets, and by Friday arvo Mr Turtle's forearms feel like lead.\n\nTyping and mousing keep the forearm muscles gently working all day. They rarely get a proper break, so by the end of the week they can feel tight, achy or just plain tired.\n\nKeep your elbows by your sides at about desk height, wrists fairly flat, and the mouse and keyboard close. Every half hour: shake your hands out, open and close your fists 10 times, and gently stretch the wrists. Remedial massage can ease tension and works well alongside these breaks.\n\nFinger tingling, night pain, weakness or swelling are worth assessing first. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#forearmpain",
+    "#wristpain",
+    "#deskjob",
+    "#officeworker",
+    "#ergonomics",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#hybridphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on forearm and wrist tension from mouse and keyboard work, elbows-in versus a long reach, a 30-second forearm break and signs worth assessing first.",
+  "story": {
+    "headline": "Mouse hand feeling heavy?",
+    "body": "Every 30 minutes: shake out,<br>fists open and close × 10.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-23",
+  "created": "2026-11-23-6",
+  "status": "approved",
+  "review_warnings": []
+}

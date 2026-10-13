@@ -1,0 +1,131 @@
+{
+  "id": "C-088-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Osteoporosis: strength training is safe and helpful",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Osteoporosis? You can<br>still <em>lift weights</em>",
+      "sub": "What current guidelines say about strength work",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's clear<br>this up!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko thinks someone else<br>must <em>carry the shopping</em>.",
+      "char": "koala_tired",
+      "bubble": "Osteoporosis..<br>so no lifting<br>anything, ever..?",
+      "bubble_type": "thought",
+      "note": "(a friend at the bowls club said so..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Scan results in hand,<br>off to <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Brought your<br>results?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Heavy things are<br>off limits, yeah?"
+      },
+      "note": "Hybi said <mark>guidelines now say the opposite</mark> for most people."
+    },
+    {
+      "kind": "compare",
+      "title": "Walking alone <em>often falls short</em>",
+      "fact": "Guidelines support <em>progressive strength and impact</em> for most",
+      "left": {
+        "label": "Guided load",
+        "char": "koala_happy",
+        "caption": "Good technique,<br><b>built up gradually</b>"
+      },
+      "right": {
+        "label": "Walking only",
+        "char": "koala_tired",
+        "caption": "Great for health,<br><em>light on bone load</em>"
+      },
+      "quip": "Learn it well, then<br>build it slowly!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>bone strength sampler</b>",
+      "sub": "Start with a physio, then build!",
+      "sections": [
+        {
+          "heading": "1. What a program often includes",
+          "color": "yellow",
+          "lines": [
+            "① Strength: squats, step-ups, <em>2 × 8–10</em>.",
+            "② Impact: rise on toes, <em>drop to heels</em> × 10.",
+            "③ Balance: single-leg stands, heel-toe walks.",
+            "④ <em>2–3 sessions a week</em>, load builds gradually."
+          ]
+        },
+        {
+          "heading": "2. Get checked first if…",
+          "color": "purple",
+          "lines": [
+            "<em>Sudden back pain</em> after a minor lift or bump —",
+            "see your GP or physio before training."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Some signs need a <em>check</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See your GP or physio if",
+      "items": [
+        "Sudden back pain lifting",
+        "A fall with pain",
+        "Hip or groin pain walking"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Diagnosed with osteoporosis and told to take it easy? Current guidelines now say the opposite for most people.\n\nBone adapts to the load placed on it, and research suggests supervised, progressive strength training is generally safe and can help bone health. Walking is great, but on its own it often isn't enough. A program usually includes strength work like squats and step-ups, some impact such as heel drops, and balance training, two or three times a week.\n\nStarting with guidance and building gradually is key. Sudden back pain after a minor bump or lift, or a fall with pain, should be checked.\n\nOur Chatswood and Sydney CBD physios can help you get started. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#osteoporosis",
+    "#bonehealth",
+    "#strengthtraining",
+    "#healthyageing",
+    "#womenshealth",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why strength training is generally safe with osteoporosis, why walking alone falls short, what a program includes and signs worth getting checked.",
+  "story": {
+    "headline": "Osteoporosis and lifting?",
+    "body": "For most people, guided, progressive strength work is safe and helpful.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-17",
+  "created": "2026-11-17-4",
+  "status": "approved",
+  "review_warnings": []
+}

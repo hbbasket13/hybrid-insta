@@ -1,0 +1,131 @@
+{
+  "id": "C-099-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Desk shoulders: tight upper traps and what helps",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "3pm, and Mr Turtle's<br>shoulders are <em>at his ears</em>",
+      "sub": "Desk shoulders and tight upper traps",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we drop<br>them a little?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Three meetings in a row.<br>Shoulders: <em>up to here</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Feels like I'm<br>carrying bricks<br>on my shoulders..",
+      "bubble_type": "thought",
+      "note": "(and by the commute home, the neck too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After work he met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey! Those shoulders<br>look busy today."
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Can't you just squeeze<br>the knots out?"
+      },
+      "note": "Hybi explained that <mark>tight often means tired</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Tight upper traps<br>are often <em>tired traps</em>",
+      "fact": "Upper traps run from skull to shoulder and <em>work all day</em>",
+      "left": {
+        "label": "Regular resets",
+        "char": "turtle_happy",
+        "caption": "Dropping them often<br>gives them <b>a breather</b>"
+      },
+      "right": {
+        "label": "Held all day",
+        "char": "turtle_sad",
+        "caption": "Hours of hovering<br>leaves them <em>worn out</em>"
+      },
+      "quip": "Short resets,<br>many times a day!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>30-second shoulder reset</b>",
+      "sub": "Try it at your desk!",
+      "sections": [
+        {
+          "heading": "1. Three desk resets",
+          "color": "yellow",
+          "lines": [
+            "① Roll your shoulders <em>slowly back × 5</em>.",
+            "② Drop them, lengthen your neck, <em>3 slow breaths</em>.",
+            "③ Shrug up hard, hold <em>2 sec</em>, then let go fully.",
+            "④ Rows and shrugs <em>twice a week</em> build capacity."
+          ]
+        },
+        {
+          "heading": "2. See a GP or physio first if…",
+          "color": "purple",
+          "lines": [
+            "Arm tingling or weakness, <em>severe headaches</em>,",
+            "dizziness. <em>Chest pain, breathlessness</em>: urgent."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Shoulders still<br>like <em>concrete</em>?",
+      "bubble": "Causes differ for everyone.<br>Let's <b>check</b> first!",
+      "heading": "Worth getting checked if",
+      "items": [
+        "Arm tingling or weakness",
+        "Severe headaches with it",
+        "Dizziness comes along"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Three meetings in a row, and Mr Turtle's shoulders are up around his ears. He says it feels like carrying bricks.\n\nYour upper traps run from the base of the skull to the shoulders. After long desk days and stress, that tight feeling often means muscles tired from working for hours, not muscles that are too short.\n\nHybi's reset: roll back five times, drop and breathe three times, shrug hard and let go. Rows and shrugs twice a week can help too. Remedial massage can ease tenderness and works well alongside these habits.\n\nArm tingling or weakness, severe headaches or chest pain need a GP or physio first. Our remedial massage therapists at Hybrid Physio are here to help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#uppertraps",
+    "#shouldertension",
+    "#neckandshoulders",
+    "#deskjob",
+    "#officeworker",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#hybridphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on why desk shoulders feel tight, regular resets versus holding tension all day, a 30-second shoulder reset and signs that need a GP or physio first.",
+  "story": {
+    "headline": "Shoulders up at your ears?",
+    "body": "Drop them and take<br>three slow breaths.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-20",
+  "created": "2026-11-20-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-092-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Stiff lower back after a long flight",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Long flight, and Mr Turtle's<br>back feels <em>welded shut</em>",
+      "sub": "Stiff lower back after flying, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Moving often<br>helps it loosen!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Fourteen hours</em> in seat 42C.",
+      "char": "turtle_sad",
+      "bubble": "Did my back turn<br>into a plank of<br>wood up there..?",
+      "bubble_type": "thought",
+      "note": "(lifting the cabin bag down didn't help..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "A few days later he met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome back!<br>How was the trip?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Great trip.. but my<br>back still won't loosen."
+      },
+      "note": "Hybi started with <mark>all that time sitting still</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Stillness is usually<br>the <em>real culprit</em>!",
+      "fact": "After a flight, stiffness is usually <em>stillness, not damage</em>",
+      "left": {
+        "label": "Aisle walks",
+        "char": "turtle_happy",
+        "caption": "A short walk each hour<br>keeps the back <b>moving</b>"
+      },
+      "right": {
+        "label": "Glued to seat",
+        "char": "turtle_sad",
+        "caption": "Hours without shifting<br>can leave it <em>stiff</em>"
+      },
+      "quip": "When you land, walk<br>before you flop on the bed!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute seat routine</b>",
+      "sub": "Try it mid-flight!",
+      "sections": [
+        {
+          "heading": "1. Seated pelvic tilts",
+          "color": "yellow",
+          "lines": [
+            "① Tuck a <em>rolled jumper</em> behind your lower back.",
+            "② Tilt your pelvis forward and back, <em>slowly × 10</em>.",
+            "③ Knee lifts and ankle circles, <em>10 each</em>.",
+            "④ After landing: a <em>10–20 min walk</em> first."
+          ]
+        },
+        {
+          "heading": "2. Get help straight away if…",
+          "color": "purple",
+          "lines": [
+            "Leg weakness, groin numbness, or <em>calf pain</em>",
+            "<em>with swelling or sudden breathlessness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still stiff days<br>after <em>landing</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Weakness in a leg",
+        "Bladder or bowel changes",
+        "No easing after a few days"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Fourteen hours in seat 42C, and Mr Turtle's lower back feels welded shut.\n\nHours in a cramped seat with little room to shift usually means stiffness, not damage, and it often eases within a day or two.\n\nIn the air: pelvic tilts with a rolled jumper behind you, knee lifts, ankle circles and a short aisle walk when it's safe. Lift cabin bags close to your body in two steps. After landing, walk for 10–20 minutes before you rest.\n\nLeg weakness, groin numbness or bladder changes need prompt care, and calf pain with swelling or sudden breathlessness needs urgent help. Still stiff days later? Our chiropractors at Hybrid Physio can assess it. Book online via the link in bio ✈️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#lowerbackpain",
+    "#backpain",
+    "#travelhealth",
+    "#longhaulflight",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#hybridphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on why the lower back stiffens on long flights, a seated pelvic tilt routine, walking after landing and signs worth getting checked.",
+  "story": {
+    "headline": "Back stiff after a flight?",
+    "body": "Walk 10–20 minutes<br>before you flop on the bed.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-18",
+  "created": "2026-11-18-2",
+  "status": "approved",
+  "review_warnings": []
+}

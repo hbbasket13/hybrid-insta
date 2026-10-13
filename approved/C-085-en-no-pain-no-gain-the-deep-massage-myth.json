@@ -1,0 +1,131 @@
+{
+  "id": "C-085-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "'No pain, no gain': the deep massage myth",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Does a massage have<br>to <em>hurt to work</em>?",
+      "sub": "Busting the 'no pain, no gain' myth",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Usually,<br>no!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After his last massage..<br>a <em>bruise</em>.",
+      "char": "turtle_sad",
+      "bubble": "That hurt so much,<br>it must have<br>worked..?",
+      "bubble_type": "thought",
+      "note": "(he held his breath the whole hour..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Next visit, <b>Hybi</b><br>asked first.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "How was the<br>pressure last time?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "I could handle it..<br>harder works<br>better, right?"
+      },
+      "note": "Hybi said <mark>if you can't breathe, it's too much</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Holding your breath? <em>Too much</em>",
+      "fact": "Much of massage's effect comes through the <em>nervous system</em>",
+      "left": {
+        "label": "5–7 out of 10",
+        "char": "turtle_happy",
+        "caption": "Slow breaths,<br><b>body softens</b>"
+      },
+      "right": {
+        "label": "Gritted teeth",
+        "char": "turtle_sad",
+        "caption": "Breath held,<br><em>muscles guard</em>"
+      },
+      "quip": "Deep can mean slow,<br>not forceful!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pressure guide</b>",
+      "sub": "Take this to your next booking!",
+      "sections": [
+        {
+          "heading": "1. On the table",
+          "color": "yellow",
+          "lines": [
+            "① Aim for about <em>5–7 out of 10</em>.",
+            "② Holding your breath? Say so straight away.",
+            "③ Deep work: slow and sustained, not hard.",
+            "④ After: a <em>10-minute walk</em> or your exercises."
+          ]
+        },
+        {
+          "heading": "2. Dial it back if…",
+          "color": "purple",
+          "lines": [
+            "You <em>bruise</em> or feel worse for days —",
+            "ask for lighter pressure next time."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Feeling <em>off</em> after a massage?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Feeling worse for days",
+        "New sharp pain",
+        "New tingling or numbness"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Does a massage have to hurt to work? Usually, no.\n\n'No pain, no gain' sticks around, but research suggests much of the benefit comes from helping your nervous system settle. If you're gripping the table and holding your breath, your muscles are more likely to guard than let go.\n\nA useful guide is around 5–7 out of 10, where you can still breathe slowly. Firm work can be slow and sustained rather than forceful. Some tenderness the next day is common; bruising or feeling worse for days is a sign to dial it back.\n\nMassage complements active rehab, so follow it with a walk or your exercises. Our remedial massage therapists at Hybrid Physio check in on pressure as they go. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#deeptissue",
+    "#massagemyths",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydney",
+    "#recovery",
+    "#officeworker",
+    "#musclerecovery",
+    "#hybridphysiotherapy",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle busting the myth that massage has to hurt, with a 5–7 out of 10 pressure guide, after-care tips and signs worth getting checked.",
+  "story": {
+    "headline": "Massage shouldn't make you hold your breath",
+    "body": "Aim for 5–7 out of 10. Firm can be slow, not forceful.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-16",
+  "created": "2026-11-16-4",
+  "status": "approved",
+  "review_warnings": []
+}

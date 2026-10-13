@@ -1,0 +1,131 @@
+{
+  "id": "C-092-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Stiff lower back after a long flight",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "비행기에서 내렸더니<br><em>허리가 굳었다?</em>",
+      "sub": "장거리 비행 후 허리 뻐근함 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "움직이면<br>풀릴 수 있어요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>14시간</em> 비행 끝,<br>공항에 내린 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "허리가 통나무가<br>된 것 같아..",
+      "bubble_type": "thought",
+      "note": "(캐리어까지 들었더니 더 뻣뻣..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "며칠 뒤 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>여행은 어땠어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "여행은 좋았는데<br>허리가 영 안 풀려요.."
+      },
+      "note": "하비는 <mark>꼼짝 않고 앉아 있던 시간</mark>부터 짚어보기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "범인은 <em>가만히 있는 시간!</em>",
+      "fact": "비행 후 뻐근함은 보통 <em>손상보다 오래 안 움직인 탓</em>",
+      "left": {
+        "label": "자주 걷기",
+        "char": "turtle_happy",
+        "caption": "1시간마다 통로를<br><b>잠깐 걸어요</b>"
+      },
+      "right": {
+        "label": "내내 앉기",
+        "char": "turtle_sad",
+        "caption": "몇 시간째 그대로면<br><em>허리가 굳기 쉬워요</em>"
+      },
+      "quip": "착륙 후엔 눕기 전에<br>먼저 걸어봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 기내 허리 운동</b>",
+      "sub": "좌석에서 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 앉아서 골반 기울이기",
+          "color": "yellow",
+          "lines": [
+            "① 허리 뒤에 <em>돌돌 만 점퍼</em>를 대요.",
+            "② 골반을 앞뒤로 <em>천천히 10회</em> 기울여요.",
+            "③ 무릎 들기·발목 돌리기 <em>각 10회</em>.",
+            "④ 착륙 후엔 <em>10~20분 걷기</em>부터!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료받기!",
+          "color": "purple",
+          "lines": [
+            "다리 힘 빠짐, 사타구니 감각 변화,",
+            "<em>종아리 붓기·갑작스런 숨참</em>은 즉시 진료!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "착륙 며칠 뒤에도<br><em>계속 뻐근하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "다리에 힘이 빠진다",
+        "소변·대변 변화가 있다",
+        "며칠째 그대로다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "14시간 비행 끝에 공항에 내린 거북씨. 허리가 통나무처럼 굳어버렸어요.\n\n좁은 좌석에서 오래 꼼짝 않고 있으면 허리가 뻐근해질 수 있어요. 대부분 손상보다는 '안 움직인 시간' 때문이고, 보통 하루이틀 사이 풀려요.\n\n기내에선 골반 기울이기 10회, 무릎 들기·발목 돌리기, 안전할 때 통로 걷기. 짐은 몸에 붙여 두 단계로 올리고, 착륙 후엔 10~20분 걷기부터!\n\n다리 힘 빠짐, 사타구니 감각 변화, 소변·대변 변화가 있거나 종아리가 붓고 숨이 차면 바로 진료받으세요. 며칠째 그대로라면 하이브리드 피지오 카이로프랙터와 상담해요. 프로필 링크에서 온라인 예약 ✈️\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#장거리비행",
+    "#여행건강",
+    "#시드니카이로프랙틱",
+    "#카이로프랙틱",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#chiropractic",
+    "#lowerbackpain",
+    "#travelhealth",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 장거리 비행 후 허리가 굳는 이유, 기내 골반 기울이기 운동, 착륙 후 걷기, 확인이 필요한 신호.",
+  "story": {
+    "headline": "비행 후 허리가 굳었다면?",
+    "body": "착륙하면 눕기 전에<br>10~20분 걷기부터!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-18",
+  "created": "2026-11-18-5",
+  "status": "approved",
+  "review_warnings": []
+}

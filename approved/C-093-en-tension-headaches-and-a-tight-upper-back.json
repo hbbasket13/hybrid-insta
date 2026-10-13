@@ -1,0 +1,131 @@
+{
+  "id": "C-093-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Tension headaches and a tight upper back",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "A headache like a<br><em>tight headband</em>?",
+      "sub": "Tension headaches and a tight upper back",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "They often turn<br>up together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Deadline week.<br>Mr Turtle's head feels <em>squeezed</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Who wrapped a<br>rubber band<br>round my head..?",
+      "bubble_type": "thought",
+      "note": "(and the upper back feels like concrete..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "At lunch he dashed<br>to <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi there!<br>Head feeling heavy?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yep.. headaches and<br>a knotted upper back."
+      },
+      "note": "Hybi explained <mark>why the two often team up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Headaches and the<br>upper back are <em>often mates</em>",
+      "fact": "Tension headaches often come with <em>tender upper back muscles</em>",
+      "left": {
+        "label": "Moves hourly",
+        "char": "turtle_happy",
+        "caption": "Small turns every hour<br>keep things <b>moving</b>"
+      },
+      "right": {
+        "label": "Frozen all day",
+        "char": "turtle_sad",
+        "caption": "Hours in one spot can<br>leave it <em>stiffer</em>"
+      },
+      "quip": "Little and often beats<br>one big stretch!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute upper back turn</b>",
+      "sub": "Try it in your chair!",
+      "sections": [
+        {
+          "heading": "1. Seated rotation",
+          "color": "yellow",
+          "lines": [
+            "① Sit tall, hands resting <em>on your shoulders</em>.",
+            "② Slowly turn side to side, <em>10 times</em>.",
+            "③ Repeat <em>once an hour</em> — set a reminder.",
+            "④ Keep a <em>2-week headache diary</em> (sleep, water)."
+          ]
+        },
+        {
+          "heading": "2. See your GP promptly if…",
+          "color": "purple",
+          "lines": [
+            "A <em>sudden, severe</em> headache, one after a knock,",
+            "or fever, vision changes or numbness come with it."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Headaches keep<br><em>coming back</em>?",
+      "bubble": "Causes differ for everyone.<br>Let's <b>assess</b> first!",
+      "heading": "Worth getting checked if",
+      "items": [
+        "The pattern has changed",
+        "It keeps getting worse",
+        "Arm or leg numbness"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Deadline week, and Mr Turtle's head feels like it's wrapped in a rubber band, with an upper back like concrete.\n\nTension-type headaches are common, and many people notice tender muscles across the shoulders, upper back and base of the skull when they flare. Poor sleep, stress, skipped meals, not enough water and long screen sessions often play a part.\n\nHybi's tip: hands on shoulders, turn slowly side to side 10 times, once an hour. A two-week headache diary can show patterns you can change.\n\nA sudden severe headache, one after a knock to the head, or headaches with fever, vision changes or numbness need your GP promptly. Our chiropractors at Hybrid Physio assess the neck and upper back. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#tensionheadache",
+    "#headache",
+    "#upperbackpain",
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#deskjob",
+    "#officeworker",
+    "#hybridphysiotherapy",
+    "#hybridphysio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on why tension headaches and a tight upper back often go together, a 1-minute seated rotation, a headache diary and signs that need a GP promptly.",
+  "story": {
+    "headline": "Headache plus tight upper back?",
+    "body": "Turn side to side × 10,<br>once an hour.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-18",
+  "created": "2026-11-18-6",
+  "status": "approved",
+  "review_warnings": []
+}

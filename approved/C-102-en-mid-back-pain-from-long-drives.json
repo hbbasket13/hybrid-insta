@@ -1,0 +1,131 @@
+{
+  "id": "C-102-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Mid-back pain from long drives",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Three hours between jobs,<br>and a <em>stiff mid-back</em>",
+      "sub": "Long drives and mid-back stiffness",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Let's start with<br>the driver's seat!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Site to site, Lulu drives<br><em>3 hours</em> a day.",
+      "char": "kanga_tired",
+      "bubble": "Something's jabbing<br>between my<br>shoulder blades..",
+      "bubble_type": "thought",
+      "note": "(climbing out of the ute takes a while..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After work she met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "G'day Lulu!<br>Big day on the road?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Every drive leaves<br>my back seized up.."
+      },
+      "note": "Hybi pointed to <mark>hours spent in one position</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Usually it's about<br><em>staying still too long</em>",
+      "fact": "Stiffness after long drives is usually <em>stillness, not damage</em>",
+      "left": {
+        "label": "Break every 2h",
+        "char": "kanga_happy",
+        "caption": "Walking and stretching<br>helps it <b>loosen</b>"
+      },
+      "right": {
+        "label": "Non-stop drive",
+        "char": "kanga_tired",
+        "caption": "Hours in one spot can<br>leave it <em>stiff</em>"
+      },
+      "quip": "Before you leave,<br>set up the seat!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>seat setup + rest-stop routine</b>",
+      "sub": "Save it before your next drive!",
+      "sections": [
+        {
+          "heading": "1. Seat and breaks",
+          "color": "yellow",
+          "lines": [
+            "① Sit <em>right back</em> in the seat.",
+            "② Seat close enough for <em>softly bent elbows</em>.",
+            "③ A <em>rolled towel</em> behind your lower back.",
+            "④ Every 2h: walk, reach up, <em>squeeze blades back</em>."
+          ]
+        },
+        {
+          "heading": "2. See a doctor promptly if…",
+          "color": "purple",
+          "lines": [
+            "<em>Chest pain or breathlessness</em>, fever, weight loss,",
+            "a crash, or <em>constant pain worse at night</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Sore after<br><em>every road trip</em>?",
+      "bubble": "Causes differ for everyone.<br>Let's <b>assess</b> it!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Chest pain comes with it",
+        "Pain after a crash or fall",
+        "It's worse at night"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu drives about three hours a day between job sites, and something keeps jabbing between her shoulder blades.\n\nHours in one position, the same arm reach and road vibration can leave the mid-back stiff and achy. It's usually about staying still too long, not damage to your spine.\n\nSit right back in the seat, bring it close enough for softly bent elbows, and add a rolled towel behind your lower back. Every two hours, stop: walk, reach overhead, squeeze your shoulder blades back and gently rotate each way.\n\nChest pain, breathlessness, fever, pain after a crash or constant pain worse at night need a doctor promptly. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🚗\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#midbackpain",
+    "#backpain",
+    "#longdrive",
+    "#tradie",
+    "#tradielife",
+    "#sydneychiro",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#hybridphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo on why long drives stiffen the mid-back, taking breaks versus driving non-stop, a seat setup and rest-stop routine and signs that need a doctor promptly.",
+  "story": {
+    "headline": "Stiff mid-back after driving?",
+    "body": "Every 2 hours: walk,<br>reach up, squeeze back.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-21",
+  "created": "2026-11-21-6",
+  "status": "approved",
+  "review_warnings": []
+}

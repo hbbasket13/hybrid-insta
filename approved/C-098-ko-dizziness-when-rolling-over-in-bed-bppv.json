@@ -1,0 +1,131 @@
+{
+  "id": "C-098-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Dizziness when rolling over in bed (BPPV): physio can help",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "돌아눕는 순간<br><em>방이 빙글빙글?</em>",
+      "sub": "이석증(BPPV), 물리치료가 도와요",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "흔한 원인이<br>하나 있어요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "아침에 돌아눕자<br>천장이 <em>빙글</em> 돈 코코.",
+      "char": "koala_tired",
+      "bubble": "어지러워..<br>세상이 돈다..!",
+      "bubble_type": "thought",
+      "note": "(1분도 안 돼서 멈추긴 했는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "며칠 뒤 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코 씨, 놀랐죠?<br>언제 어지러워요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "누울 때, 돌아누울 때,<br>위를 볼 때요.."
+      },
+      "note": "하비는 <mark>귓속 작은 돌 이야기</mark>를 꺼냈다."
+    },
+    {
+      "kind": "compare",
+      "title": "범인은 귓속<br><em>작은 결정</em>일 수 있어요",
+      "fact": "BPPV는 귓속 <em>작은 결정</em>이 평형 관으로 들어간 것",
+      "left": {
+        "label": "BPPV에 흔함",
+        "char": "koala_happy",
+        "caption": "특정 동작에서<br><b>1분 이내</b> 빙글"
+      },
+      "right": {
+        "label": "다른 확인 필요",
+        "char": "koala_tired",
+        "caption": "계속 어지럽거나<br><em>청력이 변하면 GP</em>"
+      },
+      "quip": "자세 검사로 어느 관인지<br>먼저 확인해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "물리치료에선 <b>이렇게 해요</b>",
+      "sub": "부드럽지만 살짝 어지러울 수 있어요",
+      "sections": [
+        {
+          "heading": "1. 진행 순서",
+          "color": "yellow",
+          "lines": [
+            "① 정해진 <em>자세 검사</em>로 어느 관인지 확인.",
+            "② 머리를 순서대로 움직여 <em>결정을 제자리로</em>.",
+            "③ <em>1회~몇 회</em>에 나아지는 분이 많아요.",
+            "④ 집에서 할 동작과 <em>재발 시 대처법</em> 안내."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 000!",
+          "color": "purple",
+          "lines": [
+            "<em>갑작스런 심한 두통</em>, 말 어눌함, 얼굴 처짐,",
+            "팔다리 힘 빠짐, 겹쳐 보임, <em>걷기 힘듦</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "어지러움이<br><em>반복된다면?</em>",
+      "bubble": "어지러움 원인은 다양해요.<br><b>꼼꼼한 평가</b>가 먼저!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "하루 종일 어지럽다",
+        "귀가 잘 안 들린다",
+        "자꾸 다시 돈다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>채스우드</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "아침에 돌아눕는 순간 천장이 빙글 돈 코코. 1분도 안 돼 멈췄지만 깜짝 놀랐어요.\n\n흔한 원인 중 하나가 BPPV(이석증)예요. 귓속 작은 결정이 평형을 담당하는 관으로 들어가면, 눕거나 돌아눕거나 위를 볼 때 짧고 강하게 어지러울 수 있어요.\n\n물리치료사는 자세 검사로 어느 관인지 확인하고, 머리를 순서대로 움직여 결정을 제자리로 돌려요. 1회~몇 회 안에 나아지는 분이 많아요.\n\n심한 두통, 말 어눌함, 얼굴 처짐, 팔다리 힘 빠짐이 함께 오면 바로 000! 채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#이석증",
+    "#어지럼증",
+    "#bppv",
+    "#전정재활",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#vertigo",
+    "#dizziness",
+    "#physiotherapy",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 돌아누울 때 어지러운 BPPV의 원리, 흔한 패턴, 물리치료 진행 순서, 바로 응급 도움이 필요한 신호.",
+  "story": {
+    "headline": "돌아누우면 방이 돈다면?",
+    "body": "BPPV일 수 있어요.<br>물리치료로 확인해요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-20",
+  "created": "2026-11-20-5",
+  "status": "approved",
+  "review_warnings": []
+}

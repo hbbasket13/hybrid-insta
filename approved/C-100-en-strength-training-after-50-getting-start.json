@@ -1,0 +1,131 @@
+{
+  "id": "C-100-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Strength training after 50: getting started",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's first go at<br><em>strength training</em>",
+      "sub": "Over 50 and never lifted? Start here",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "It's rarely<br>too late!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lifting the grandkid<br>came with a big <em>oof</em>.",
+      "char": "koala_tired",
+      "bubble": "I used to swing<br>them up easily..",
+      "bubble_type": "thought",
+      "note": "(even the shopping bags feel heavier..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "The next week she met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>What's the goal?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Is it really okay to<br>start lifting at my age?"
+      },
+      "note": "Hybi said <mark>muscle and bone keep responding for life</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Strength is trainable<br>at <em>any age</em>",
+      "fact": "Strength work can help <em>daily tasks and balance</em>",
+      "left": {
+        "label": "Twice a week",
+        "char": "koala_happy",
+        "caption": "Small, steady increases<br><b>build strength</b>"
+      },
+      "right": {
+        "label": "Avoiding effort",
+        "char": "koala_tired",
+        "caption": "Everyday jobs can<br><em>feel harder</em>"
+      },
+      "quip": "No gym needed<br>to get started!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>strength starter kit</b>",
+      "sub": "A chair, a step and a band!",
+      "sections": [
+        {
+          "heading": "1. Twice a week, 20–30 min",
+          "color": "yellow",
+          "lines": [
+            "① Sit-to-stands and wall push-ups.",
+            "② Step-ups, band rows and <em>calf raises</em>.",
+            "③ <em>8–12 reps</em>, last few challenging but controlled.",
+            "④ Mild stiffness is common; <em>build over weeks</em>."
+          ]
+        },
+        {
+          "heading": "2. Pause and get advice if…",
+          "color": "purple",
+          "lines": [
+            "<em>Chest pain, dizziness, breathlessness</em>: see a GP.",
+            "Swelling or <em>pain building each session</em>: physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Not sure<br>where to <em>start</em>?",
+      "bubble": "Every body is different.<br><b>An assessment</b> helps!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Chest pain with exercise",
+        "A joint keeps swelling",
+        "Pain builds every session"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko lifted her grandkid and let out a big oof. Is it too late to start strength training?\n\nMuscle and bone keep responding to load throughout life. Research suggests strength training can help with everyday tasks, balance and joint pain, and it's rarely too late to begin.\n\nStart with sit-to-stands, wall push-ups, step-ups, band rows and calf raises. Two 20–30 minute sessions a week, 8–12 reps each, is a great start. A bit of stiffness a day or two later is common.\n\nChest pain, dizziness or unusual breathlessness needs a GP review; a swelling joint or pain that builds needs a program tweak. Our Chatswood and Sydney CBD physios build programs around your goals. Book online via the link in bio 💪\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#strengthtraining",
+    "#healthyageing",
+    "#over50",
+    "#fitnessover50",
+    "#balance",
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on starting strength training after 50, steady training versus avoiding effort, five basic home moves and signs worth getting advice on.",
+  "story": {
+    "headline": "Over 50 and never lifted?",
+    "body": "Twice a week, 8–12 reps.<br>A chair and a band will do.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-21",
+  "created": "2026-11-21-4",
+  "status": "approved",
+  "review_warnings": []
+}

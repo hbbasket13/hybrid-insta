@@ -1,0 +1,131 @@
+{
+  "id": "C-101-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for runners",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "러너 토토,<br><em>필라테스</em>를 만나다",
+      "sub": "달리기가 잘 못 채우는 부분 채우기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "착지 힘을<br>키워볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "10km 후반만 되면<br>다리가 <em>흔들리는</em> 토토.",
+      "char": "rabbit_tired",
+      "bubble": "막판엔 왜 이렇게<br>착지가 흔들리지..?",
+      "bubble_type": "thought",
+      "note": "(이번 달 거리를 확 늘리긴 했지..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "러닝 후 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "토토 씨, 오늘도<br>뛰고 왔어요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "필라테스가 달리기에<br>도움이 돼요?"
+      },
+      "note": "하비는 <mark>달리기는 한 발 뛰기의 연속</mark>이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "달리기는 사실<br><em>한 발씩 뛰기</em>예요",
+      "fact": "러닝 통증은 대부분 <em>몸이 준비된 것보다 많이</em> 할 때 생겨요",
+      "left": {
+        "label": "한 발 조절력",
+        "char": "rabbit_happy",
+        "caption": "엉덩이·종아리가<br>착지를 <b>잘 받아줘요</b>"
+      },
+      "right": {
+        "label": "거리만 늘리기",
+        "char": "rabbit_tired",
+        "caption": "지칠수록 착지가<br><em>흔들리기 쉬워요</em>"
+      },
+      "quip": "딱딱한 코어보다<br>흔들림 없는 몸통!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>러너 필라테스 플랜</b>",
+      "sub": "훈련 주간에 이렇게 넣어요!",
+      "sections": [
+        {
+          "heading": "1. 주 1~2회 배치",
+          "color": "yellow",
+          "lines": [
+            "① 처음엔 <em>주 1~2회</em>로 시작해요.",
+            "② <em>쉬운 러닝 날이나 쉬는 날</em>에 넣기.",
+            "③ 롱런·대회 <em>전날엔 강도 높게 X</em>.",
+            "④ 엉덩이·종아리·<em>한 발 동작</em>과 호흡 위주."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 먼저 확인받기!",
+          "color": "purple",
+          "lines": [
+            "통증 때문에 <em>달리는 자세가 바뀌거나</em>,",
+            "붓기·<em>며칠째 같은 자리 통증</em>이 있다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "뛸 때마다 같은 곳이<br><em>아프다면?</em>",
+      "bubble": "움직임은 다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "절뚝이며 뛰게 된다",
+        "같은 곳이 계속 아프다",
+        "붓기가 가라앉지 않는다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "10km 후반만 되면 착지가 흔들리는 토토. 이번 달 거리를 확 늘렸거든요.\n\n달리기는 수천 번 비슷한 발걸음의 반복이고, 사실상 한 발에서 다른 발로 뛰는 동작이에요. 러닝 통증은 대부분 몸이 준비된 것보다 많이 할 때 생겨서, 근력과 조절력을 함께 키우는 게 도움이 될 수 있어요.\n\n필라테스는 엉덩이·종아리·한 발 조절력, 흔들리지 않는 몸통과 호흡을 훈련해요. 주 1~2회, 쉬운 날에 넣고 롱런 전날은 피해요.\n\n하이브리드 피지오 클리니컬 필라테스는 평가부터 시작해요. 프로필 링크에서 온라인 예약 🏃\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#러닝",
+    "#러너",
+    "#필라테스",
+    "#클리니컬필라테스",
+    "#시드니필라테스",
+    "#시드니cbd",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#pilates",
+    "#running",
+    "#clinicalpilates",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 러너에게 필라테스가 더해주는 것, 한 발 조절력 비교, 주간 훈련에 필라테스 넣는 법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "러너에게 필라테스가 왜?",
+    "body": "주 1~2회, 쉬운 날에<br>한 발 조절력 훈련!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-21",
+  "created": "2026-11-21-5",
+  "status": "approved",
+  "review_warnings": []
+}

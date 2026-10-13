@@ -1,0 +1,131 @@
+{
+  "id": "C-091-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "How often should you do Pilates to see results?",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "How many Pilates<br>sessions <em>a week</em>?",
+      "sub": "Frequency, consistency, and when changes show",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "The answer's<br>simpler than<br>you think!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Week one: <em>every day</em>.<br>Week two: zero.",
+      "char": "cat_tired",
+      "bubble": "Doesn't it only<br>work if I go<br>every day..?",
+      "bubble_type": "thought",
+      "note": "(too sore to move all week..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Fresh start back at<br>the <b>Pilates studio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Momo, welcome<br>back!"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "How often do I<br>need to come?"
+      },
+      "note": "Hybi said <mark>the number you can keep up</mark> is the right one."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Consistency</em> beats intensity",
+      "fact": "Many aim for <em>2–3 sessions a week</em> · even one is a solid start",
+      "left": {
+        "label": "Steady 2 a week",
+        "char": "cat_happy",
+        "caption": "Months of showing up,<br><b>changes add up</b>"
+      },
+      "right": {
+        "label": "Burst then stop",
+        "char": "cat_tired",
+        "caption": "Burnout often means<br><em>a long break</em>"
+      },
+      "quip": "Pick a number that fits<br>your busy weeks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>keep-it-going plan</b>",
+      "sub": "Make it fit your week!",
+      "sections": [
+        {
+          "heading": "1. How to keep it going",
+          "color": "yellow",
+          "lines": [
+            "① <em>2–3 classes a week</em>; one in busy weeks is fine.",
+            "② Off days: <em>5–10 min</em> of key moves at home.",
+            "③ Awareness and control often improve first.",
+            "④ Feels easy? <em>Progress</em> springs or positions."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Soreness <em>lingers for days</em>, or you notice",
+            "new tingling or numbness."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Body <em>telling you something</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Soreness lasting days",
+        "Sharp pain during a move",
+        "New tingling or numbness"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Do Pilates with Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "How often should you do Pilates to see results? The honest answer: as often as you can keep up 🧘\n\nMany people aim for two or three sessions a week, but showing up most weeks for months usually matters more than a big burst followed by a long break. Most people first notice better movement awareness and control, with strength and endurance changes following over the coming weeks.\n\nFive to ten minutes of home practice on non-class days helps the moves stick, and your program should progress once exercises start to feel easy.\n\nOur Pilates team at Hybrid Physio can build a plan around your goals and your schedule. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#pilatesprogress",
+    "#consistency",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#sydney",
+    "#corestrength",
+    "#exercisehabits",
+    "#hybridphysiotherapy",
+    "#pilatesstudio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining how often to do Pilates, why consistency beats intensity, home practice and progression, and signs worth getting checked.",
+  "story": {
+    "headline": "How often should you do Pilates?",
+    "body": "Two or three a week, kept up for months, beats a big burst.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-18",
+  "created": "2026-11-18-4",
+  "status": "approved",
+  "review_warnings": []
+}

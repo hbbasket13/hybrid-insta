@@ -1,0 +1,131 @@
+{
+  "id": "C-085-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "'No pain, no gain': the deep massage myth",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "마사지는 <em>아파야</em><br>효과가 있을까?",
+      "sub": "'노 페인 노 게인' 마사지 오해 풀기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "꼭 그렇진<br>않아요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "지난 마사지 후,<br>거북씨 어깨엔 <em>멍</em>이..",
+      "char": "turtle_sad",
+      "bubble": "이렇게 아팠으니<br>효과도 크겠지..?",
+      "bubble_type": "thought",
+      "note": "(숨 참느라 얼굴까지 빨개졌던 그날..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "다음 예약 날,<br><b>하비</b>가 먼저 물었다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "지난번 압력,<br>어땠어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "참을 만했어요..<br>세게 해야<br>풀리잖아요?"
+      },
+      "note": "하비는 <mark>숨 쉴 수 있는 압력</mark>이 기준이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "숨 참는 압력은 <em>NO</em>",
+      "fact": "마사지 효과의 많은 부분은 <em>신경계</em>가 편안해지면서 와요",
+      "left": {
+        "label": "5~7점",
+        "char": "turtle_happy",
+        "caption": "천천히 숨 쉬며<br><b>몸이 풀어져요</b>"
+      },
+      "right": {
+        "label": "이 악물기",
+        "char": "turtle_sad",
+        "caption": "숨을 참으면<br><em>근육이 더 버텨요</em>"
+      },
+      "quip": "깊게는 세게가 아니라<br>천천히예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>마사지 압력 가이드</b>",
+      "sub": "다음 예약 때 써먹어요!",
+      "sections": [
+        {
+          "heading": "1. 마사지 받을 때",
+          "color": "yellow",
+          "lines": [
+            "① 압력은 <em>10점 중 5~7점</em>이 기준.",
+            "② 숨을 참게 되면 바로 말하기.",
+            "③ 깊은 압력은 천천히, 오래 머물게.",
+            "④ 끝나고 <em>10분 걷기</em>나 운동으로 마무리."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 압력 줄이기",
+          "color": "purple",
+          "lines": [
+            "<em>멍이 들거나</em> 며칠씩 더 아프다면",
+            "다음엔 압력을 낮춰달라고 말해요!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "마사지 후 <em>이상하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 꼭 확인받기",
+      "items": [
+        "며칠째 더 아프다",
+        "날카로운 통증이 생겼다",
+        "저림이 새로 생겼다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "마사지는 꼭 아파야 효과가 있을까요? 보통은 아니에요.\n\n연구에 따르면 마사지 효과의 많은 부분은 신경계가 편안해지면서 와요. 숨을 참고 이를 악물면 근육은 오히려 더 버틸 수 있어요. 10점 중 5~7점, 천천히 숨 쉴 수 있는 정도가 무난한 기준이에요.\n\n다음 날 살짝 뻐근한 건 흔하지만, 멍이나 며칠씩 더 아픈 건 압력을 낮추라는 신호예요. 마사지 후엔 가볍게 걷거나 운동으로 마무리해요. 리메디얼 마사지 테라피스트가 압력을 맞춰드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#마사지",
+    "#마사지압력",
+    "#근막",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#remedialmassage",
+    "#massagetherapy",
+    "#chatswood",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 마사지가 아파야 효과 있다는 오해, 적당한 압력 기준, 마사지 후 마무리와 확인이 필요한 신호.",
+  "story": {
+    "headline": "마사지, 아파야 효과?",
+    "body": "10점 중 5~7점,<br>숨 쉴 수 있는 압력으로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-16",
+  "created": "2026-11-16-1",
+  "status": "approved",
+  "review_warnings": []
+}

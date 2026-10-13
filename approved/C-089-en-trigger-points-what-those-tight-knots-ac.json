@@ -1,0 +1,131 @@
+{
+  "id": "C-089-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Trigger points: what those tight knots actually are",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Those <em>tight knots</em>,<br>what are they really?",
+      "sub": "Trigger points, without the myths",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's find<br>out first!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Pressed his shoulder..<br>felt it <em>up his neck</em>.",
+      "char": "turtle_sad",
+      "bubble": "Is that tangled<br>muscle full of<br>toxins..?",
+      "bubble_type": "thought",
+      "note": "(the internet seemed pretty sure..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Deadline done, Friday<br>arvo with <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Got a knot<br>in that shoulder?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "So we just need<br>to untangle it?"
+      },
+      "note": "Hybi said it's <mark>a sensitive spot, not a tangle</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Where you press <em>≠ where you feel</em>",
+      "fact": "Nearby areas <em>share signals</em>, so the ache can travel",
+      "left": {
+        "label": "Then move",
+        "char": "turtle_happy",
+        "caption": "Moving after massage<br><b>helps it last</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "turtle_sad",
+        "caption": "Effects are often<br><em>short term</em>"
+      },
+      "quip": "Massage plus movement,<br>a good team!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>calm-the-knots routine</b>",
+      "sub": "Start the day after your massage!",
+      "sections": [
+        {
+          "heading": "1. Keep those spots calmer",
+          "color": "yellow",
+          "lines": [
+            "① Every <em>30–45 min</em> sitting, walk for a minute.",
+            "② Shoulder shrug and drop <em>× 10</em>, 3 times a day.",
+            "③ Start strength work light, build slowly.",
+            "④ Look after sleep and stress too."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "<em>Tingling travels down your arm</em>,",
+            "or the ache keeps spreading."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Knots <em>hanging around</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm or hand tingling",
+        "Frequent headaches with it",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Those tight knots in your shoulders aren't tangled muscle or trapped toxins.\n\nTrigger points are generally described as sensitive, tender spots in a muscle, and researchers still debate exactly what's going on in them. Pressing one can send an ache somewhere nearby, which is why a spot in your shoulder can feel like it's in your neck. Long hours in one position, training spikes, stress and poor sleep often make them grumpier.\n\nRemedial massage can ease that tenderness and help you feel looser for a while. The effects are usually short term, so keep moving afterwards: short walks between sitting and gradual strength work.\n\nOur remedial massage therapists at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#triggerpoints",
+    "#muscleknots",
+    "#shouldertension",
+    "#massagetherapy",
+    "#deskjob",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydney",
+    "#officeworker",
+    "#hybridphysiotherapy",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining what trigger points are, why the ache can be felt elsewhere, a movement routine after massage and signs worth getting checked.",
+  "story": {
+    "headline": "Muscle knots, myth-busted",
+    "body": "Sensitive spots, not tangles. Movement keeps them calmer.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-17",
+  "created": "2026-11-17-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-094-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Carpal tunnel: tingling hands at night",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "새벽 3시,<br>손이 <em>찌릿찌릿</em> 저리다?",
+      "sub": "밤에 손이 저리는 손목터널 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "손목 자세부터<br>봐볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "새벽 3시,<br>손을 <em>탈탈 터는</em> 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "또 손가락이<br>저려서 깼네..",
+      "bubble_type": "thought",
+      "note": "(엄지·검지·중지가 특히 찌릿..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "다음 날 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>잠은 잘 잤어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "손이 저려서<br>자꾸 깨요.."
+      },
+      "note": "하비는 먼저 <mark>잘 때 손목 모양</mark>을 물어봤다."
+    },
+    {
+      "kind": "compare",
+      "title": "잘 때 <em>손목 모양</em>이<br>중요할 수 있어요",
+      "fact": "손목 터널 속 <em>정중신경</em>이 눌리면 손가락이 저릴 수 있어요",
+      "left": {
+        "label": "손목 일자로",
+        "char": "turtle_happy",
+        "caption": "손목이 곧으면<br>터널 압력이 <b>덜해요</b>"
+      },
+      "right": {
+        "label": "손목 꺾고 잠",
+        "char": "turtle_sad",
+        "caption": "구부린 채 자면<br><em>압력이 늘 수 있어요</em>"
+      },
+      "quip": "잘 때 손목을<br>곧게 두는 게 시작!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>손목 지키기 습관</b>",
+      "sub": "오늘 밤부터 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 밤과 낮 손목 관리",
+          "color": "yellow",
+          "lines": [
+            "① 잘 때 손목을 <em>곧게</em> (보조기도 흔한 방법).",
+            "② 팔을 베개 위·몸 아래에 <em>깔지 않기</em>.",
+            "③ 마우스·폰 잡기는 <em>30분마다 쉬기</em>.",
+            "④ 키보드에서 손목을 <em>평평하게</em> 유지."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 빨리 평가받기!",
+          "color": "purple",
+          "lines": [
+            "저림이 <em>하루 종일 계속</em>되거나",
+            "엄지 힘이 빠져 <em>물건을 떨어뜨리면</em> 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "손 저림이<br><em>계속된다면?</em>",
+      "bubble": "원인은 손목이 아닐 수도!<br><b>평가</b>가 먼저예요.",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "엄지 쪽 힘이 약하다",
+        "물건을 자주 놓친다",
+        "목 통증도 함께 있다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>채스우드·시드니 CBD</b><br>하비가 기다려요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "새벽 3시, 손을 탈탈 털며 깨는 거북씨. 엄지·검지·중지가 찌릿찌릿해요.\n\n밤에 손가락이 저린 건 손목 터널 속 정중신경이 자극받는 손목터널증후군과 관련된 경우가 많아요. 손목을 구부린 채 자면 압력이 늘 수 있어요.\n\n하비 팁: 잘 때 손목은 곧게(보조기도 흔한 첫 단계), 낮엔 30분마다 그립 쉬기, 키보드에선 손목 평평하게.\n\n저림이 계속되거나 엄지 힘이 빠져 물건을 놓친다면 빨리 평가받아요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#손목터널증후군",
+    "#손저림",
+    "#손목통증",
+    "#직장인건강",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#carpaltunnel",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 밤에 손이 저리는 이유, 잘 때 손목 모양 비교, 손목 관리 습관, 평가가 필요한 신호.",
+  "story": {
+    "headline": "새벽에 손이 저려 깬다면?",
+    "body": "잘 때 손목을<br>곧게 두는 것부터!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-19",
+  "created": "2026-11-19-1",
+  "status": "approved",
+  "review_warnings": []
+}

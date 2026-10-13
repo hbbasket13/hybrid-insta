@@ -1,0 +1,131 @@
+{
+  "id": "C-101-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for runners",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto the runner<br>meets <em>Pilates</em>",
+      "sub": "Strength for the bits running doesn't train",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's build<br>stronger landings!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Late in every 10k,<br>Toto's legs get <em>wobbly</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why do my landings<br>get so sloppy<br>at the end..?",
+      "bubble_type": "thought",
+      "note": "(he did bump his kilometres up this month..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After a run he met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Toto! Fresh<br>from a run?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Does Pilates actually<br>help runners?"
+      },
+      "note": "Hybi said <mark>running is really hopping, leg to leg</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Running is basically<br><em>single-leg hopping</em>",
+      "fact": "Niggles often come from <em>more than you're ready for</em>",
+      "left": {
+        "label": "One-leg control",
+        "char": "rabbit_happy",
+        "caption": "Hips and calves<br><b>handle each landing</b>"
+      },
+      "right": {
+        "label": "Just more km",
+        "char": "rabbit_tired",
+        "caption": "Landings get <em>wobbly</em><br>as you tire"
+      },
+      "quip": "A steady trunk beats<br>a rock-hard core!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>runner Pilates plan</b>",
+      "sub": "How to fit it into your week",
+      "sections": [
+        {
+          "heading": "1. Once or twice a week",
+          "color": "yellow",
+          "lines": [
+            "① Start with <em>1–2 sessions a week</em>.",
+            "② Slot them on <em>easy or rest days</em>.",
+            "③ No hard session <em>the day before a long run</em>.",
+            "④ Focus: hips, calves, <em>single-leg work</em>, breathing."
+          ]
+        },
+        {
+          "heading": "2. Get it checked first if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>changes how you run</em>, or the same spot",
+            "<em>keeps hurting</em> or swelling for days."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Same spot hurting<br><em>every run</em>?",
+      "bubble": "Everyone moves differently.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "You're limping as you run",
+        "The same spot keeps hurting",
+        "Swelling that won't settle"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Late in every 10k, Toto's landings start to wobble. He did bump up his kilometres this month.\n\nEvery run is thousands of similar steps, and running is basically hopping from one leg to the other. Most running niggles come from doing more than your body is ready for, so building strength and control alongside your running makes a lot of sense.\n\nPilates trains hips, glutes and calves for single-leg control, plus a trunk that stays steady while your limbs move. Start with one or two sessions a week on easy days, and skip hard sessions before a long run.\n\nOur clinical Pilates team at Hybrid Physio starts with an assessment of how you move. Book online via the link in bio 🏃\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#running",
+    "#runners",
+    "#reformerpilates",
+    "#sydneyrunners",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#sydney",
+    "#strengthtraining",
+    "#hybridphysiotherapy",
+    "#hybridphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit on what Pilates adds for runners, single-leg control versus just adding kilometres, how to fit Pilates into a training week and signs worth getting checked.",
+  "story": {
+    "headline": "Runner? Here's what Pilates adds",
+    "body": "1–2 sessions a week,<br>on your easy days.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-21",
+  "created": "2026-11-21-2",
+  "status": "approved",
+  "review_warnings": []
+}

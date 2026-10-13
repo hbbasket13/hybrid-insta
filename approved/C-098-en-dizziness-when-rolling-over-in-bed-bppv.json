@@ -1,0 +1,131 @@
+{
+  "id": "C-098-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Dizziness when rolling over in bed (BPPV): physio can help",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Roll over in bed and<br>the room <em>spins</em>?",
+      "sub": "BPPV: one common cause physio can help with",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "There's a common<br>cause to check!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko rolled over and<br>the ceiling <em>whirled</em>.",
+      "char": "koala_tired",
+      "bubble": "Whoa.. the whole<br>room is spinning!",
+      "bubble_type": "thought",
+      "note": "(it stopped in under a minute, but still..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "A few days later she met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "That sounds scary!<br>When does it spin?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Lying down, rolling<br>over, looking up.."
+      },
+      "note": "Hybi told her about <mark>tiny crystals in the inner ear</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Tiny inner-ear crystals<br>can be <em>the culprit</em>",
+      "fact": "BPPV: tiny inner-ear crystals <em>drift into a balance canal</em>",
+      "left": {
+        "label": "Typical BPPV",
+        "char": "koala_happy",
+        "caption": "Brief spin, <b>under a minute</b>,<br>with certain moves"
+      },
+      "right": {
+        "label": "Needs a GP",
+        "char": "koala_tired",
+        "caption": "Constant dizziness or<br><em>hearing changes</em>"
+      },
+      "quip": "Positional tests show<br>which canal is involved!"
+    },
+    {
+      "kind": "tips",
+      "title": "What <b>physio involves</b>",
+      "sub": "Gentle, if a little dizzy",
+      "sections": [
+        {
+          "heading": "1. Step by step",
+          "color": "yellow",
+          "lines": [
+            "① Specific <em>positional tests</em> find the canal.",
+            "② Guided head moves to <em>shift the crystals back</em>.",
+            "③ Many improve within <em>one to a few sessions</em>.",
+            "④ Home moves and <em>what to do if it returns</em>."
+          ]
+        },
+        {
+          "heading": "2. Call 000 if dizziness comes with…",
+          "color": "purple",
+          "lines": [
+            "A <em>sudden severe headache</em>, slurred speech, facial",
+            "droop, weakness, double vision or <em>trouble walking</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Spins keep<br><em>coming back</em>?",
+      "bubble": "Dizziness has many causes.<br><b>Careful assessment</b> first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Dizzy all day long",
+        "Changes in your hearing",
+        "The spins keep returning"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at Hybrid Physio<br>in <b>Chatswood</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko rolled over in bed and the ceiling whirled. It stopped in under a minute, but what a fright.\n\nOne common cause is BPPV, where tiny crystals in the inner ear drift into a balance canal. Rolling over, lying down, sitting up or looking up can then set off a brief, intense spin.\n\nPhysios use specific positional tests to see which canal is involved, then gently guide your head through a sequence to move the crystals back. Many people notice a clear improvement within one to a few sessions.\n\nDizziness with a sudden severe headache, slurred speech, facial droop, weakness or trouble walking needs emergency care: call 000. Our Chatswood physios assess and treat positional dizziness. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#bppv",
+    "#vertigo",
+    "#dizziness",
+    "#vestibularrehab",
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#hybridphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on dizziness when rolling over in bed, how BPPV works, what physio treatment involves and signs that need emergency care.",
+  "story": {
+    "headline": "Room spins when you roll over?",
+    "body": "It could be BPPV.<br>Physio can check.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-20",
+  "created": "2026-11-20-2",
+  "status": "approved",
+  "review_warnings": []
+}

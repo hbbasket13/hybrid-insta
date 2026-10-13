@@ -1,0 +1,131 @@
+{
+  "id": "C-096-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sleep and pain: why a bad night makes everything hurt more",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "잠 못 잔 다음 날,<br><em>왜 더 아플까?</em>",
+      "sub": "잠과 통증의 돌고 도는 관계",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "고리를 같이<br>끊어봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "뒤척뒤척,<br>밤새 <em>3시간</em> 잔 코코.",
+      "char": "koala_tired",
+      "bubble": "어제랑 똑같은<br>무릎인데 왜<br>더 쑤시지..?",
+      "bubble_type": "thought",
+      "note": "(커피를 세 잔째 마시는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "오후에 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코 씨, 피곤해<br>보여요. 괜찮아요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "잠을 설쳤더니<br>온몸이 더 아파요.."
+      },
+      "note": "하비는 <mark>잠과 통증이 서로 주고받는 관계</mark>를 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "잠이 부족하면<br>통증이 <em>더 크게 느껴져요</em>",
+      "fact": "연구에 따르면 하룻밤만 설쳐도 <em>신경계가 예민</em>해질 수 있어요",
+      "left": {
+        "label": "푹 잔 날",
+        "char": "koala_happy",
+        "caption": "같은 무릎도<br><b>덜 시끄러워요</b>"
+      },
+      "right": {
+        "label": "설친 날",
+        "char": "koala_tired",
+        "caption": "같은 통증이<br><em>더 크게 느껴져요</em>"
+      },
+      "quip": "새 손상이 아니라<br>볼륨이 커진 거예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>잠 루틴 4단계</b>",
+      "sub": "오늘 밤부터 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 고리 끊는 습관",
+          "color": "yellow",
+          "lines": [
+            "① 자고 일어나는 시간을 <em>매일 비슷하게</em>.",
+            "② 아침에 <em>햇빛 10분</em> 쬐기.",
+            "③ 커피는 <em>오전에만</em> 마시기.",
+            "④ 자기 전 <em>30분은 화면 끄기</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP와 상담!",
+          "color": "purple",
+          "lines": [
+            "통증에 <em>매일 밤 깨거나</em>, 열·체중 감소,",
+            "코골이·숨막힘·<em>계속되는 불면</em>이 있다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "통증 때문에<br><em>잠을 못 잔다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "매일 밤 통증에 깬다",
+        "자세 바꿔도 그대로다",
+        "열이나 식은땀이 난다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "밤새 뒤척이다 3시간밖에 못 잔 코코. 어제랑 같은 무릎인데 오늘 더 쑤셔요.\n\n연구에 따르면 하룻밤만 설쳐도 신경계가 예민해져서 같은 통증이 더 크게 느껴질 수 있어요. 새 손상이 아니라 볼륨이 커진 거예요. 통증은 잠을 방해하고, 잠이 부족하면 통증이 커지는 고리죠.\n\n좋은 소식: 한쪽만 조금 나아져도 다른 쪽에 도움이 될 수 있어요. 일정한 기상 시간, 아침 햇빛, 오전에만 커피, 자기 전 30분 화면 끄기!\n\n통증에 매일 밤 깬다면 평가받아요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#수면",
+    "#통증관리",
+    "#불면",
+    "#꿀잠",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#sleep",
+    "#painscience",
+    "#physiotherapy",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 잠을 설치면 통증이 커지는 이유, 푹 잔 날과 설친 날 비교, 수면 루틴 4단계, 확인이 필요한 신호.",
+  "story": {
+    "headline": "잠 설친 날 더 아픈 이유",
+    "body": "기상 시간 일정하게,<br>커피는 오전에만!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-19",
+  "created": "2026-11-19-3",
+  "status": "approved",
+  "review_warnings": []
+}

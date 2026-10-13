@@ -1,0 +1,131 @@
+{
+  "id": "C-096-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sleep and pain: why a bad night makes everything hurt more",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Slept badly? That's why<br>it all <em>hurts more</em>",
+      "sub": "How sleep and pain feed each other",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Let's break<br>the loop!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Toss, turn, repeat.<br>Koko got <em>3 hours</em> of sleep.",
+      "char": "koala_tired",
+      "bubble": "Same old knee..<br>so why is it<br>so loud today?",
+      "bubble_type": "thought",
+      "note": "(coffee number three, and it's only 10am..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "That afternoon she met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Koko, you look<br>wiped out. All good?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Rough night.. and now<br>everything aches more."
+      },
+      "note": "Hybi explained <mark>the loop between sleep and pain</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Less sleep can turn<br>pain <em>up a notch</em>",
+      "fact": "One poor night can make the <em>nervous system more sensitive</em>",
+      "left": {
+        "label": "Good night",
+        "char": "koala_happy",
+        "caption": "Same knee, but<br>it feels <b>quieter</b>"
+      },
+      "right": {
+        "label": "Rough night",
+        "char": "koala_tired",
+        "caption": "Same knee, but<br>it feels <em>louder</em>"
+      },
+      "quip": "Not new damage, just<br>the volume turned up!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>4-step sleep routine</b>",
+      "sub": "Start tonight!",
+      "sections": [
+        {
+          "heading": "1. Loop-breaking habits",
+          "color": "yellow",
+          "lines": [
+            "① Similar <em>bed and wake times</em> most days.",
+            "② Get <em>10 minutes of daylight</em> early.",
+            "③ Keep caffeine to <em>the morning</em>.",
+            "④ <em>Screens off</em> for the last 30 minutes."
+          ]
+        },
+        {
+          "heading": "2. Talk to your GP if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>wakes you every night</em>, comes with fever or",
+            "weight loss, or snoring or insomnia keep going."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Pain keeping you<br><em>up at night</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> helps!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain wakes you nightly",
+        "No change with position",
+        "Fever or night sweats"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko tossed and turned and got about three hours of sleep. Same old knee, but today it feels much louder.\n\nResearch suggests even one poor night can make the nervous system more sensitive, so the same niggle feels bigger the next day. It's not new damage. Pain makes sleep harder, poor sleep turns pain up, and round it goes.\n\nThe good news: nudging either side often helps the other. Try steady bed and wake times, early daylight, caffeine before lunch and a screen-free last half hour.\n\nIf pain wakes you every night or comes with fever or weight loss, see your GP. Our Chatswood and Sydney CBD physios can help with the pain side. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#sleep",
+    "#painscience",
+    "#chronicpain",
+    "#insomnia",
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#healthyhabits",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on why a bad night makes pain feel worse, a good-night versus rough-night comparison, a 4-step sleep routine and signs worth getting checked.",
+  "story": {
+    "headline": "Why bad nights hurt more",
+    "body": "Steady wake time,<br>coffee before lunch.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-19",
+  "created": "2026-11-19-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-087-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "The sit-to-stand test: a quick leg strength check",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Can you stand up<br><em>5 times, no hands</em>?",
+      "sub": "A quick chair check for leg strength",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we<br>give it a go?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Up from the couch<br>after a nap.. <em>'oof!'</em>",
+      "char": "koala_tired",
+      "bubble": "Why do I always<br>need my hands<br>to get up..?",
+      "bubble_type": "thought",
+      "note": "('oof' has become a bit of a habit..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After walking group,<br>Koko met <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Koko, tried the<br>chair test yet?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "What if my<br>time is slow..?"
+      },
+      "note": "Hybi said it's <mark>a check-in, not a verdict</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The trick? <em>Arms crossed</em>",
+      "fact": "Firm chair against a wall, arms crossed, <em>5 stands</em> · time it",
+      "left": {
+        "label": "Arms crossed",
+        "char": "koala_happy",
+        "caption": "Legs do the work,<br><b>a clear reading</b>"
+      },
+      "right": {
+        "label": "Pushing off",
+        "char": "koala_tired",
+        "caption": "Hands help out,<br><em>so it's not legs alone</em>"
+      },
+      "quip": "Slow is fine, it's<br>useful information!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>test-to-training plan</b>",
+      "sub": "The test is the exercise too!",
+      "sections": [
+        {
+          "heading": "1. Test, train, retest",
+          "color": "yellow",
+          "lines": [
+            "① Arms crossed, <em>5 stands</em>, safe speed. Time it.",
+            "② Train: <em>3 sets of 8–10</em>, most days.",
+            "③ Easier? Lower slowly or use a lower chair.",
+            "④ Write it down, retest <em>every 4 weeks</em>."
+          ]
+        },
+        {
+          "heading": "2. Skip it if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>dizzy</em> or have a very sore knee",
+            "or hip. Stop if anything feels sharp."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Worth a <em>closer look</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Can't stand without hands",
+        "A recent fall",
+        "Significant knee or hip pain"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Quick challenge: can you stand up from a chair five times without using your hands?\n\nThe five-times sit-to-stand is a simple check-in on leg strength. Put a firm chair against a wall, cross your arms, then stand up fully and sit down five times as quickly as you safely can. Time it. Have someone nearby if your balance isn't great.\n\nA slow time or needing your hands isn't a verdict. It just means your legs would probably enjoy some training, and the test itself is a great exercise: 3 sets of 8–10 on most days, then retest every four weeks.\n\nOur Sydney CBD physios can run a fuller strength assessment and build a plan around you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sittostand",
+    "#legstrength",
+    "#healthyageing",
+    "#fallsprevention",
+    "#strengthtraining",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala showing the five-times sit-to-stand test, why arms stay crossed, how to turn it into training and signs worth getting checked.",
+  "story": {
+    "headline": "Five stands, no hands",
+    "body": "Arms crossed, time it, retest in four weeks.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-16",
+  "created": "2026-11-16-6",
+  "status": "approved",
+  "review_warnings": []
+}

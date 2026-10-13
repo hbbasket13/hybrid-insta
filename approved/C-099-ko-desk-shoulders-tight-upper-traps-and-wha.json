@@ -1,0 +1,131 @@
+{
+  "id": "C-099-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Desk shoulders: tight upper traps and what helps",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "오후 3시,<br>어깨가 <em>귀까지 올라갔다?</em>",
+      "sub": "책상 어깨, 뭉친 승모근 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "어깨 한번<br>내려볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "회의 3개 연속,<br>어깨가 <em>귀에 붙은</em> 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "어깨에 벽돌을<br>올려놓은 것 같아..",
+      "bubble_type": "thought",
+      "note": "(퇴근길엔 목까지 뻣뻣..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "퇴근길 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>어깨가 바짝 섰네요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "꾹꾹 눌러 풀면<br>되는 거 아니에요?"
+      },
+      "note": "하비는 <mark>뭉침이 '지친 근육'일 수 있다</mark>고 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "뭉친 승모근은<br><em>지친 근육</em>일 때가 많아요",
+      "fact": "승모근은 뒤통수부터 어깨까지, 하루 종일 <em>일하는 근육</em>이에요",
+      "left": {
+        "label": "자주 리셋",
+        "char": "turtle_happy",
+        "caption": "틈틈이 내려놓으면<br>어깨가 <b>쉴 틈이 생겨요</b>"
+      },
+      "right": {
+        "label": "종일 긴장",
+        "char": "turtle_sad",
+        "caption": "몇 시간 들고 있으면<br><em>지치고 뻐근해져요</em>"
+      },
+      "quip": "짧게 짧게,<br>하루 여러 번!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>30초 어깨 리셋</b>",
+      "sub": "자리에서 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 어깨 리셋 3종",
+          "color": "yellow",
+          "lines": [
+            "① 어깨를 <em>뒤로 천천히 5바퀴</em> 돌려요.",
+            "② 어깨를 툭 내리고 목을 길게, <em>3번 숨쉬기</em>.",
+            "③ 어깨를 꽉 올려 <em>2초</em> 버티고 툭 놓기.",
+            "④ 주 2회 로우·으쓱하기로 <em>근력도 조금씩</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지보다 진료 먼저!",
+          "color": "purple",
+          "lines": [
+            "팔 저림·힘 빠짐, <em>심한 두통·어지럼</em>,",
+            "<em>가슴 통증·숨참</em>은 바로 진료받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 어깨가<br><em>돌덩이 같다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>확인</b>부터 해봐요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "팔이 저리거나 약하다",
+        "심한 두통이 같이 온다",
+        "어지러움이 있다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "회의 3개 연속, 어깨가 귀에 붙어버린 거북씨. 어깨 위에 벽돌을 올려둔 것 같대요.\n\n승모근은 뒤통수부터 어깨까지 이어진 근육이에요. 긴 책상 업무와 스트레스 뒤의 뭉침은 '짧아진 근육'보다 '오래 일해서 지친 근육'인 경우가 많아요.\n\n어깨 뒤로 돌리기 5회, 툭 내리고 3번 숨쉬기, 꽉 올렸다 놓기. 주 2회 근력운동도 도움이 될 수 있어요. 리메디얼 마사지는 이런 습관과 함께할 때 잘 어울려요.\n\n팔 저림·힘 빠짐, 심한 두통, 가슴 통증이 있다면 먼저 진료받으세요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 기다려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#어깨뭉침",
+    "#승모근",
+    "#직장인건강",
+    "#리메디얼마사지",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#deskjob",
+    "#sydneycbd",
+    "#shouldertension"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 승모근이 뭉치는 이유, 자주 리셋하기 비교, 30초 어깨 리셋 3종, 진료가 먼저 필요한 신호.",
+  "story": {
+    "headline": "어깨가 귀까지 올라갔다면?",
+    "body": "툭 내리고<br>숨 3번 쉬기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-20",
+  "created": "2026-11-20-3",
+  "status": "approved",
+  "review_warnings": []
+}

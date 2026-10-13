@@ -1,0 +1,131 @@
+{
+  "id": "C-095-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Choosing a mattress: what actually matters",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "매트리스 고르기,<br><em>진짜 중요한 건?</em>",
+      "sub": "단단한 게 좋을까, 푹신한 게 좋을까",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "광고보다<br>내 몸이 먼저!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "매장에서 <em>30초</em>씩<br>누워보는 코코.",
+      "char": "koala_tired",
+      "bubble": "다 비슷한데..<br>뭘 사야 하지?",
+      "bubble_type": "thought",
+      "note": "(점원은 '제일 단단한 거'를 추천..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "고민 끝에 <b>하이브리드 피지오</b>의<br>하비에게 물었다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코 씨, 안녕!<br>쇼핑 중이에요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "아침마다 허리가<br>뻣뻣해서 바꾸려고요.."
+      },
+      "note": "하비는 <mark>코코가 어떻게 자는지</mark>부터 물어봤다."
+    },
+    {
+      "kind": "compare",
+      "title": "무조건 단단한 게<br><em>정답은 아니에요</em>",
+      "fact": "연구에 따르면 허리 통증엔 <em>중간 정도 단단함</em>이 무난한 출발점",
+      "left": {
+        "label": "내 자세 맞춤",
+        "char": "koala_happy",
+        "caption": "옆으로 자면 어깨·골반<br>쪽이 <b>살짝 꺼지게</b>"
+      },
+      "right": {
+        "label": "30초 체험",
+        "char": "koala_tired",
+        "caption": "잠깐 누워보면<br><em>잘 모르기 쉬워요</em>"
+      },
+      "quip": "아침에 일어났을 때<br>느낌이 기준이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>매트리스 체크법</b>",
+      "sub": "매장 가기 전에 저장!",
+      "sections": [
+        {
+          "heading": "1. 제대로 누워보기",
+          "color": "yellow",
+          "lines": [
+            "① 평소 자는 자세로 <em>10~15분</em> 누워요.",
+            "② 옆잠이면 어깨·골반이 <em>살짝 묻히는지</em>.",
+            "③ 체험 기간은 <em>조건을 꼼꼼히</em> 확인!",
+            "④ 베개 높이·<em>시원한 방</em>도 같이 체크."
+          ]
+        },
+        {
+          "heading": "2. 매트리스 탓이 아닐 수도!",
+          "color": "purple",
+          "lines": [
+            "어떤 자세든 <em>밤에 아프거나</em>,",
+            "열·체중 감소·다리 저림이 있으면 평가 먼저!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "바꿔도 아침마다<br><em>뻣뻣하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>로 확인해봐요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "자세 상관없이 밤에 아프다",
+        "다리가 저리거나 약하다",
+        "이유 없이 살이 빠진다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "매장에서 30초씩 누워보며 고민 중인 코코. 아침마다 허리가 뻣뻣해서 매트리스를 바꾸려고 해요.\n\n연구에 따르면 허리 통증이 있는 분께는 아주 단단한 것보다 중간 정도 단단함이 무난한 출발점일 수 있어요. 그래도 정답은 '아침에 일어났을 때 느낌'이에요.\n\n평소 자는 자세로 10~15분 누워보고, 베개 높이와 시원한 방 온도도 함께 챙겨요.\n\n어떤 자세든 밤에 아프거나 열·체중 감소·다리 저림이 있다면 매트리스보다 평가가 먼저예요. 하이브리드 피지오 카이로프랙터와 상담해요. 프로필 링크에서 온라인 예약 🛏️\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#매트리스",
+    "#허리통증",
+    "#수면자세",
+    "#아침허리",
+    "#카이로프랙틱",
+    "#시드니cbd",
+    "#시드니카이로프랙틱",
+    "#하이브리드피지오",
+    "#mattress",
+    "#backpain",
+    "#chiropractic",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 매트리스를 고를 때 중요한 것, 중간 단단함과 수면 자세, 10~15분 체험법, 평가가 필요한 신호.",
+  "story": {
+    "headline": "매트리스, 단단할수록 좋을까?",
+    "body": "평소 자세로<br>10~15분 누워보기!",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-19",
+  "created": "2026-11-19-5",
+  "status": "approved",
+  "review_warnings": []
+}
