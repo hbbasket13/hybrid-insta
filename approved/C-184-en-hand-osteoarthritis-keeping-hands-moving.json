@@ -1,0 +1,128 @@
+{
+  "id": "C-184-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hand osteoarthritis: keeping hands moving",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hands too stiff to<br><em>wrap the presents</em>?",
+      "sub": "Hand osteoarthritis: keep them moving",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Hand moves,<br>let's go!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Christmas Eve. Koko's<br>fingers <em>freeze at the ribbon</em>.",
+      "char": "koala_tired",
+      "bubble": "Why are my hands<br>so stiff every<br>morning..?",
+      "bubble_type": "thought",
+      "note": "(and the knuckles look knobblier than they used to..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Before the holidays, Koko<br>visits <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Koko, hands<br>giving you grief?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Should I rest them<br>so they don't hurt..?"
+      },
+      "note": "Hybi suggests <mark>gentle daily movement</mark> instead."
+    },
+    {
+      "kind": "compare",
+      "title": "Rest them, they stiffen.<br><em>Move them, they ease.</em>",
+      "fact": "Hand OA is common · finger joints and the <em>base of the thumb</em>",
+      "left": {
+        "label": "Gentle every day",
+        "char": "koala_happy",
+        "caption": "Fist and spread often<br><b>eases stiffness</b>"
+      },
+      "right": {
+        "label": "Resting them",
+        "char": "koala_tired",
+        "caption": "Less movement can<br><em>feel stiffer</em>"
+      },
+      "quip": "Warm them first,<br>then move!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute hand routine</b>",
+      "sub": "Right after a warm shower!",
+      "sections": [
+        {
+          "heading": "1. Ten slow reps each",
+          "color": "yellow",
+          "lines": [
+            "① Rest hands in <em>warm water</em> a few minutes.",
+            "② Make a <em>loose fist</em>, then spread fingers wide.",
+            "③ Touch your thumb to <em>each fingertip</em>.",
+            "④ <em>Squeeze a soft ball</em> x10, 2–3 times a day."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "A joint is suddenly <em>swollen, red and hot</em> —",
+            "pause and see your GP or physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Hands still<br><em>giving you trouble</em>?",
+      "bubble": "Causes differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sudden heat and swelling",
+        "A joint changing shape fast",
+        "Pain stopping daily tasks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Keep your hands moving<br>with Hybi at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Hands too stiff to wrap the presents this Christmas Eve? 🎁\n\nOsteoarthritis in the hands is really common, especially in the finger joints and the base of the thumb. Morning stiffness and aching after use are typical, and it varies a lot between people. Regular movement and strength work often help.\n\nHybi's routine: warm your hands in water for a few minutes, make a loose fist then spread your fingers, and touch your thumb to each fingertip, 10 slow reps each. Squeezing a soft ball builds grip for jars, keys and shopping bags.\n\nA joint that's suddenly hot, red and swollen is worth getting checked. Our Sydney CBD and Chatswood physios can build your plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#handosteoarthritis",
+    "#osteoarthritis",
+    "#handexercises",
+    "#arthritis",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy",
+    "#healthyageing",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on hand osteoarthritis, why gentle daily movement helps, a 1-minute hand routine and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff hands each morning?",
+    "body": "Warm water, then fist<br>and spread x10.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-24",
+  "created": "2026-12-24-4",
+  "status": "approved",
+  "review_warnings": []
+}

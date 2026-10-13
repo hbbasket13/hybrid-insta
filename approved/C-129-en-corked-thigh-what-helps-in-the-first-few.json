@@ -1,0 +1,128 @@
+{
+  "id": "C-129-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Corked thigh: what helps in the first few days",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Copped a knee<br>to the <em>thigh</em>?",
+      "sub": "Corked thigh: what helps in the first few days",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Go gentle<br>early on!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Saturday touch footy,<br>then a <em>knee to the thigh</em>.",
+      "char": "kanga_tired",
+      "bubble": "Heat pack and a<br>hard rub tonight..<br>that'll sort it?",
+      "bubble_type": "thought",
+      "note": "(the thigh swells and bending the knee feels stiff..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Lulu limped into<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Ouch, Lulu!<br>Took a knock?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Can't we just<br>massage it out?"
+      },
+      "note": "Hybi said <mark>avoid HARM for the first two days</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "First 48 hours:<br>avoid <em>HARM</em>",
+      "fact": "<em>H</em>eat · <em>A</em>lcohol · <em>R</em>unning · <em>M</em>assage on the area",
+      "left": {
+        "label": "Do early on",
+        "char": "kanga_happy",
+        "caption": "Relative rest, ice,<br><b>compress, elevate</b>"
+      },
+      "right": {
+        "label": "Skip early on",
+        "char": "kanga_tired",
+        "caption": "Can <em>increase bleeding</em><br>in the muscle"
+      },
+      "quip": "Resting with the knee<br>gently bent can help too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>cork care plan</b>",
+      "sub": "Only as far as pain allows!",
+      "sections": [
+        {
+          "heading": "1. The first few days",
+          "color": "yellow",
+          "lines": [
+            "① Ice <em>15–20 minutes</em> every couple of hours.",
+            "② Compression, and <em>elevate</em> the leg.",
+            "③ As pain eases: <em>knee bends and walking</em>.",
+            "④ Light cycling, jogging, sport: <em>in steps</em>."
+          ]
+        },
+        {
+          "heading": "2. Get medical help promptly if…",
+          "color": "purple",
+          "lines": [
+            "Swelling or pain <em>keeps increasing</em>,",
+            "or the thigh feels <em>very tight or numb</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Healing feels<br><em>off track?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked promptly if",
+      "items": [
+        "Swelling keeps growing",
+        "You can't bend the knee",
+        "A lump stays hard"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Back to sport with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Copped a knee to the thigh at touch footy or cricket? Here's what tends to help in the first few days.\n\nA corked thigh is a deep bruise in the muscle. In the first 48 hours, relative rest, ice, compression and elevation are common steps. Skip the HARM: heat, alcohol, running and massage on the area can increase bleeding in the muscle.\n\nAs pain allows, gentle knee bending, walking and light cycling help restore movement, then build towards jogging and sport in steps rather than testing it with a sprint.\n\nSwelling that keeps increasing, a very tight or numb thigh, or being unable to bend the knee needs prompt medical assessment. Our Sydney CBD and Chatswood physios can guide your return. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#corkedthigh",
+    "#sportsinjury",
+    "#touchfooty",
+    "#footy",
+    "#cricket",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu about a corked thigh, what to do and avoid (HARM) in the first 48 hours, a step-by-step care plan and signs to get checked promptly.",
+  "story": {
+    "headline": "Corked thigh at footy?",
+    "body": "First 48 hours:<br>avoid HARM.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-02",
+  "created": "2026-12-02-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-163-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Beach gear, eskies and your back",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "박싱데이 바닷가,<br><em>아이스박스</em>가 제일 무겁다",
+      "sub": "허리 편하게 해변 가는 법",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "짐 옮기는 요령,<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주차장에서 모래사장까지<br>한 손에 <em>꽉 찬 아이스박스</em>.",
+      "char": "kanga_tired",
+      "bubble": "허리가 한쪽으로<br>기우는 것 같은데..?",
+      "bubble_type": "thought",
+      "note": "(파라솔, 의자, 수건까지 한 번에..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "다음 날, <b>하이브리드 피지오</b>에서<br>하비를 만난 루루.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>해변 다녀왔군요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 짐 옮기고 나서<br>허리가 묵직해요."
+      },
+      "note": "하비는 <mark>짐을 나누는 법</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "한 손 무게는<br>몸을 <em>한쪽으로 기울여요</em>",
+      "fact": "무거운 짐 <em>한쪽 들기</em>는 걷는 내내 몸이 옆으로 기울어요",
+      "left": {
+        "label": "양손·백팩",
+        "char": "kanga_happy",
+        "caption": "무게를 <b>양쪽으로</b><br>나눠 똑바로 걸어요"
+      },
+      "right": {
+        "label": "한 손",
+        "char": "kanga_tired",
+        "caption": "한쪽으로 기운 채<br><em>모래사장까지</em>"
+      },
+      "quip": "바퀴 달린 카트도<br>좋은 친구예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 해변 짐 요령</b>",
+      "sub": "출발 전에 체크!",
+      "sections": [
+        {
+          "heading": "1. 허리 편한 짐 옮기기",
+          "color": "yellow",
+          "lines": [
+            "① 짐은 <em>두 개로 나눠</em> 양손 또는 백팩.",
+            "② 모래 위 카트는 <em>밀기보다 끌기</em>.",
+            "③ 들 땐 무릎·고관절 굽히고 몸에 붙여요.",
+            "④ 한 번에 무리 말고 <em>두 번 나눠</em> 옮겨요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 퍼지거나</em> 저리면,",
+            "며칠 지나도 <em>안 가라앉으면</em> 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "해변 다녀온 뒤<br><em>허리가 계속 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호라면 확인받기",
+      "items": [
+        "다리로 퍼지는 통증",
+        "저림이나 힘 빠짐",
+        "며칠째 그대로"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "박싱데이 해변은 즐거운데, 아이스박스 옮기기는 허리가 기억해요 ☀️\n\n꽉 찬 아이스박스에 파라솔, 의자, 수건까지. 한 손으로 들고 주차장과 모래사장을 걸으면 몸이 내내 한쪽으로 기울어요.\n\n짐은 두 개로 나눠 양손이나 백팩으로, 바퀴 달린 카트는 모래 위에서 끌고, 들 땐 무릎을 굽혀 몸에 붙이고, 한 번 대신 두 번 나눠 옮겨요.\n\n통증이 다리로 퍼지거나 저리면, 며칠 지나도 가라앉지 않으면 평가받아요. 하이브리드 피지오 카이로프랙터가 도와드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니카이로프랙틱",
+    "#카이로프랙틱",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#허리통증",
+    "#박싱데이",
+    "#시드니여름",
+    "#chiropractor",
+    "#backpain",
+    "#beachday",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 캥거루 루루가 등장하는 7장짜리 만화 카드뉴스: 아이스박스를 한 손으로 들 때 허리가 기우는 이유, 짐 나누기, 1분 해변 짐 요령, 확인이 필요한 신호.",
+  "story": {
+    "headline": "해변 가는 길, 허리는?",
+    "body": "짐은 양손으로 나누고<br>두 번에 옮겨요!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-16",
+  "created": "2026-12-16-1",
+  "status": "approved",
+  "review_warnings": []
+}

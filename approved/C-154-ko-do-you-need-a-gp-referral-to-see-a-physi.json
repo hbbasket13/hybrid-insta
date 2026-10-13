@@ -1,0 +1,128 @@
+{
+  "id": "C-154-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Do you need a GP referral to see a physio?",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "물리치료 받으려면<br><em>GP 의뢰서</em>가 필요할까?",
+      "sub": "코코의 궁금증, 하비가 풀어줘요",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "대부분은<br>바로 예약돼요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "무릎이 불편한 코코,<br>근데 <em>어디부터</em> 가지?",
+      "char": "koala_tired",
+      "bubble": "GP 먼저 가야<br>하는 거 아닐까..?",
+      "bubble_type": "thought",
+      "note": "(전화기를 들었다 놨다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "용기 내어 <b>하이브리드 피지오</b>에<br>전화한 코코.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>무엇이 궁금해요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "GP 의뢰서 없이도<br>예약되나요?"
+      },
+      "note": "하비는 <mark>경우마다 다르다</mark>며 차근차근 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "언제 <em>필요하고</em><br>언제 <em>아닐까?</em>",
+      "fact": "호주 물리치료사는 <em>바로 예약</em>할 수 있는 1차 진료 직종",
+      "left": {
+        "label": "일반 예약",
+        "char": "koala_happy",
+        "caption": "의뢰서 없이<br><b>바로 예약 OK</b>"
+      },
+      "right": {
+        "label": "GP 먼저",
+        "char": "koala_tired",
+        "caption": "메디케어 플랜·워크커버<br>CTP·DVA는 <em>GP 먼저</em>"
+      },
+      "quip": "헷갈리면 예약 전에<br>물어보세요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>예약 전 체크</b>",
+      "sub": "이것만 확인해요!",
+      "sections": [
+        {
+          "heading": "1. 내 경우는?",
+          "color": "yellow",
+          "lines": [
+            "① 일반 예약: <em>의뢰서 없이</em> 바로 OK.",
+            "② 메디케어 만성질환 플랜: <em>GP가 먼저</em> 작성.",
+            "③ 워크커버·CTP: GP 진단서·<em>클레임 번호</em>.",
+            "④ DVA: GP 의뢰서와 <em>카드</em> 챙기기."
+          ]
+        },
+        {
+          "heading": "2. 헷갈린다면?",
+          "color": "purple",
+          "lines": [
+            "예약 전에 <em>전화나 메시지</em>로 물어봐요.",
+            "당일보다 <em>미리</em> 서류를 챙기는 게 편해요!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "아픈 곳이<br><em>걱정된다면?</em>",
+      "bubble": "상황은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이럴 땐 GP도 함께 보기",
+      "items": [
+        "넘어진 뒤 붓고 아프다",
+        "열이나 몸살이 같이 있다",
+        "밤에도 계속 아프다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "물리치료 받으려면 GP 의뢰서가 꼭 필요할까? 대부분은 아니에요.\n\n호주에서 물리치료사는 1차 진료 직종이라 일반 예약은 의뢰서 없이 바로 할 수 있어요.\n\n다만 몇 가지 경우엔 GP가 먼저예요. 메디케어 만성질환 관리 플랜은 GP가 작성하고, 워크커버·CTP는 보통 GP 진단서와 클레임 번호가, DVA는 GP 의뢰서와 카드가 필요해요.\n\n내 경우가 헷갈리면 예약 전에 전화나 메시지로 물어보세요. 하이브리드 피지오 채스우드·시드니 CBD에서 기다릴게요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#물리치료",
+    "#gp의뢰서",
+    "#메디케어",
+    "#워크커버",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#호주생활",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#medicare"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 물리치료 예약에 GP 의뢰서가 필요한 경우와 필요 없는 경우, 메디케어 플랜·워크커버·CTP·DVA 체크리스트.",
+  "story": {
+    "headline": "물리치료, 의뢰서 필요해요?",
+    "body": "일반 예약은 바로 OK!<br>헷갈리면 물어보세요.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-12",
+  "created": "2026-12-12-1",
+  "status": "approved",
+  "review_warnings": []
+}

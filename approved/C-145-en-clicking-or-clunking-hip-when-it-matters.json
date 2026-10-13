@@ -1,0 +1,128 @@
+{
+  "id": "C-145-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Clicking or clunking hip: when it matters",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Click, clunk..<br>should <em>Momo worry</em>?",
+      "sub": "Clicking hips: when it matters, when it doesn't",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "Pain matters<br>more than noise!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Mid-stretch, Momo's hip<br>goes <em>clunk</em>.",
+      "char": "cat_tired",
+      "bubble": "Whoa, what was<br>that? Is something<br>wrong in there?",
+      "bubble_type": "thought",
+      "note": "(getting out of the car, it clunks sometimes too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Curious, Momo headed<br>to <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Momo! Did that<br>noise spook you?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "It doesn't hurt..<br>it's just bugging me."
+      },
+      "note": "Hybi said <mark>pain matters more than the noise</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Noise on its own is<br><em>usually fine</em>!",
+      "fact": "Pain-less clicks are often a <em>tendon sliding</em> over bone",
+      "left": {
+        "label": "Noise only",
+        "char": "cat_happy",
+        "caption": "No pain, moving well?<br>Usually <b>nothing needed</b>"
+      },
+      "right": {
+        "label": "Noise + pain",
+        "char": "cat_tired",
+        "caption": "Groin pain or catching?<br>Worth <em>checking</em>"
+      },
+      "quip": "Chasing the noise with<br>stretching rarely helps!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute hip strengthener</b>",
+      "sub": "Lie on your side and try it!",
+      "sections": [
+        {
+          "heading": "1. Side-lying leg raise",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your side, bottom knee slightly bent.",
+            "② Keep the top leg straight, lift it <em>slowly</em>.",
+            "③ <em>10 reps × 2 sets</em>, both sides.",
+            "④ Trim the range of moves that clunk."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "The hip <em>locks or catches</em>,",
+            "or the pain is building."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to get it<br><em>checked promptly</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hip locking or catching",
+        "Can't walk normally",
+        "After a fall, or with fever"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Hybi's waiting for you<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Momo's hip clunks when she lifts her leg. In most cases that noise is harmless: if there's no pain and you move normally, it's often just a tendon sliding over bone.\n\nIt's a different story when the click comes with deep groin pain, catching, locking or a feeling the hip might give way. That combination is worth getting assessed. Strengthening the glutes, hip flexors and trunk, and adjusting the moves that provoke it, is often part of the plan.\n\nA hip that locks, pain that stops you walking normally, or pain after a fall or with fever deserve a prompt check. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#hippain",
+    "#clickinghip",
+    "#snappinghip",
+    "#hipstrength",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining when a clicking hip is usually harmless, when it is worth checking, a side-lying leg raise and warning signs.",
+  "story": {
+    "headline": "Hip clicking or clunking?",
+    "body": "No pain? Usually fine.<br>Pain or catching? Get it checked.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-09",
+  "created": "2026-12-09-4",
+  "status": "approved",
+  "review_warnings": []
+}

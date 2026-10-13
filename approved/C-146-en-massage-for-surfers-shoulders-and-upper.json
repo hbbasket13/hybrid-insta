@@ -1,0 +1,128 @@
+{
+  "id": "C-146-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for surfers' shoulders and upper back",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Great swell all week..<br>now her <em>back's talking</em>",
+      "sub": "Remedial massage for surfers' shoulders",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Recovery is part<br>of training!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A full week of<br><em>paddling</em> at Bondi.",
+      "char": "rabbit_tired",
+      "bubble": "Between my shoulder<br>blades feels like<br>a rock..",
+      "bubble_type": "thought",
+      "note": "(even turning her neck feels a bit stiff..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto caught up with<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Toto!<br>Plenty of waves?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "If I get a massage,<br>can I skip the<br>gym work?"
+      },
+      "note": "Hybi explained <mark>what massage and strength each do</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage works best<br><em>with strength work</em>!",
+      "fact": "Paddling keeps lats, upper traps and rotator cuff <em>working</em>",
+      "left": {
+        "label": "Massage + gym",
+        "char": "rabbit_happy",
+        "caption": "Massage plus strength<br>work, <b>together</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "rabbit_tired",
+        "caption": "Without strength,<br>paddling is <em>harder</em>"
+      },
+      "quip": "Massage complements,<br>not replaces, strength!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute paddle shoulder</b>",
+      "sub": "On land, 2–3 times a week!",
+      "sections": [
+        {
+          "heading": "1. Band external rotation",
+          "color": "yellow",
+          "lines": [
+            "① Anchor a band to a door handle.",
+            "② Elbow at 90°, rotate outward <em>slowly</em>.",
+            "③ <em>12 reps × 2 sets</em>, 2–3 times a week.",
+            "④ Book massage on a <em>rest day</em> from surfing."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your arm feels <em>weak</em> lifting, or",
+            "pins and needles run down it."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "More than just<br><em>tight</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See a physio or GP first if",
+      "items": [
+        "Weakness lifting your arm",
+        "Painful clicking",
+        "Pins and needles down arm"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "A big week in the water, and Toto's upper back is letting her know. Paddling loads the lats, upper traps, rotator cuff and the muscles between the shoulder blades, so stiffness through the upper back and neck is really common.\n\nRemedial massage can help those areas feel easier and make moving more comfortable, especially on a rest day. It complements, rather than replaces, land-based strength work like band rotations and rows, two or three times a week.\n\nWeakness lifting your arm, painful clicking or pins and needles down the arm are worth a physio or GP assessment first. Our remedial massage therapists at Hybrid Physio know what surfing asks of your shoulders. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#surfing",
+    "#surfer",
+    "#shoulderpain",
+    "#upperback",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why surfers' shoulders get tight, why massage pairs with strength work, a band exercise and signs worth getting checked.",
+  "story": {
+    "headline": "Paddle muscles feeling it?",
+    "body": "Massage on rest days +<br>band rotations 12 × 2.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-09",
+  "created": "2026-12-09-2",
+  "status": "approved",
+  "review_warnings": []
+}

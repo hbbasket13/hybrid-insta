@@ -1,0 +1,128 @@
+{
+  "id": "C-176-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Sleeping in a different bed on holiday",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Holiday bed,<br><em>not-so-holiday back</em>",
+      "sub": "Why a new mattress can leave you stiff",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Packing tips<br>from me!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Day one of the trip.<br>Koko wakes up <em>creaky</em>.",
+      "char": "koala_tired",
+      "bubble": "Was that bed<br>too soft..?",
+      "bubble_type": "thought",
+      "note": "(and the hotel pillow wasn't kind to her neck..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Home again, Koko pops<br>into <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome back, Koko!<br>How was the trip?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Lovely! But my back<br>was stiff every<br>morning.."
+      },
+      "note": "Hybi starts with <mark>what a new bed does</mark> to your back."
+    },
+    {
+      "kind": "compare",
+      "title": "Stiff morning?<br><em>Move</em> before you judge it",
+      "fact": "A night or two of stiffness is <em>common</em> and usually eases",
+      "left": {
+        "label": "Up and moving",
+        "char": "koala_happy",
+        "caption": "A short walk and knee rocks<br>often <b>loosen things up</b>"
+      },
+      "right": {
+        "label": "Lying in longer",
+        "char": "koala_tired",
+        "caption": "More time in bed can<br>leave you <em>feeling stiffer</em>"
+      },
+      "quip": "Get up, get moving,<br>then see how you feel!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>holiday bed hacks</b>",
+      "sub": "Start when you pack!",
+      "sections": [
+        {
+          "heading": "1. Tweak the bed you've got",
+          "color": "yellow",
+          "lines": [
+            "① Fussy neck? Pack <em>your own pillow</em>.",
+            "② Soft bed: a <em>pillow between your knees</em>.",
+            "③ Too firm: a <em>folded blanket</em> under hips.",
+            "④ Morning: <em>10 knee rocks</em> + a short walk."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain keeps <em>getting worse</em>, or your",
+            "arm or leg goes <em>numb</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still stiff once<br>you're <em>home</em>?",
+      "bubble": "Causes differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain that keeps building",
+        "Numbness in an arm or leg",
+        "Fever or feeling unwell"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "See Hybi at <b>Hybrid Physio</b><br>after the holidays!"
+    }
+  ],
+  "caption": "Holiday bed, not-so-holiday back? Koko woke up creaky on day one of her trip.\n\nA softer or firmer mattress and an unfamiliar pillow change how your neck and back are supported, so a night or two of stiffness is common. It usually eases once you're up and moving.\n\nEasy tweaks: pack your own pillow if your neck is fussy, pop a pillow between your knees on a soft bed, or a folded blanket under your hips on a firm one. Start the day with knee rocks and a short walk instead of lying in.\n\nPain that keeps building or numbness down an arm or leg is worth getting checked. Stiff once you're home? Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🎄\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#neckpain",
+    "#holidaytravel",
+    "#travelhealth",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sleep",
+    "#summerholidays",
+    "#chiropractic"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on why an unfamiliar holiday bed can leave your back stiff, simple bed tweaks, a morning movement routine and signs worth getting checked.",
+  "story": {
+    "headline": "Holiday bed, stiff back?",
+    "body": "Pillow between the knees,<br>then a morning walk.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-21",
+  "created": "2026-12-21-2",
+  "status": "approved",
+  "review_warnings": []
+}

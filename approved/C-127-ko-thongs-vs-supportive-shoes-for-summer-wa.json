@@ -1,0 +1,128 @@
+{
+  "id": "C-127-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Thongs vs supportive shoes for summer walking",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "여름 내내 <em>쪼리</em>만 신으면<br>발이 괜찮을까?",
+      "sub": "쪼리 vs 운동화, 여름 걷기 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "걷는 거리에<br>달렸어요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "여름이면 어디든<br><em>쪼리</em> 신고 걷는 코코.",
+      "char": "koala_tired",
+      "bubble": "오늘 하버까지<br>한 시간 걸었더니..<br>발바닥이 왜 이러지?",
+      "bubble_type": "thought",
+      "note": "(종아리도 뻐근, 뒤꿈치도 찌릿..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "코코는 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕, 코코!<br>발이 피곤하죠?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "쪼리는 아예<br>신으면 안 돼요?"
+      },
+      "note": "하비는 <mark>쪼리가 나쁜 게 아니라 거리 문제</mark>라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "쪼리를 신으면<br>발가락이 <em>계속 일해요</em>",
+      "fact": "벗겨지지 않게 <em>걸음마다</em> 발가락이 쪼리를 꽉 잡아요",
+      "left": {
+        "label": "긴 산책엔",
+        "char": "koala_happy",
+        "caption": "뒤끈·쿠션 있는<br><b>샌들이나 운동화</b>"
+      },
+      "right": {
+        "label": "긴 거리 쪼리",
+        "char": "koala_tired",
+        "caption": "발과 종아리가<br><em>쉽게 지칠 수</em> 있어요"
+      },
+      "quip": "해변·마트 갈 땐<br>쪼리도 괜찮아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>여름 발 관리법</b>",
+      "sub": "신발은 용도에 맞게!",
+      "sections": [
+        {
+          "heading": "1. 쪼리와 친해지는 법",
+          "color": "yellow",
+          "lines": [
+            "① 짧은 외출엔 쪼리, <em>긴 산책엔 운동화</em>.",
+            "② 쪼리 시간은 <em>며칠에 걸쳐 조금씩</em>.",
+            "③ 아치가 받쳐주는 쪼리도 선택지.",
+            "④ 발가락 접기 <em>10회 × 2세트</em>, 하루 1번."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "아침 <em>첫걸음에 뒤꿈치가 찌릿</em>하거나,",
+            "발등 한 곳이 아프고 <em>붓는다면</em>!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "발이 계속<br><em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "아침 첫걸음이 아프다",
+        "발등 한 곳이 아프다",
+        "붓기가 점점 심해진다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "발 이야기도 하비랑,<br><b>하이브리드 피지오</b>!"
+    }
+  ],
+  "caption": "여름 내내 쪼리만 신고 다녀도 괜찮을까요? 쪼리 자체가 나쁜 건 아니에요. 해변, 수영장, 가까운 마트 정도는 대부분 괜찮아요.\n\n문제는 긴 거리예요. 쪼리가 벗겨지지 않게 걸음마다 발가락이 꽉 잡아야 해서, 오래 걸으면 발과 종아리가 쉽게 지칠 수 있어요.\n\n긴 산책, 울퉁불퉁한 길, 오래 서 있는 날엔 뒤끈이나 쿠션이 있는 샌들·운동화가 보통 편해요. 쪼리 시간은 조금씩 늘려요. 아침 첫걸음 뒤꿈치 통증, 발등 통증은 확인받기! 시드니 CBD·채스우드 물리치료사가 도와드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#발통증",
+    "#뒤꿈치통증",
+    "#여름신발",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#thongs",
+    "#footpain",
+    "#sydneyphysio",
+    "#physiotherapy",
+    "#summerwalking"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 여름 쪼리 신고 걷기, 긴 산책 신발 비교, 여름 발 관리법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "여름 내내 쪼리, 괜찮을까?",
+    "body": "짧은 외출엔 쪼리,<br>긴 산책엔 운동화!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-02",
+  "created": "2026-12-02-1",
+  "status": "approved",
+  "review_warnings": []
+}

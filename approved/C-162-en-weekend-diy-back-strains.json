@@ -1,0 +1,128 @@
+{
+  "id": "C-162-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Weekend DIY back strains",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Big DIY weekend before<br>Christmas? <em>Mind the back</em>",
+      "sub": "Why weekend projects catch backs out",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's plan the<br>next one smarter!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Garden beds, flat-packs<br>and <em>eight hours</em> of it.",
+      "char": "kanga_tired",
+      "bubble": "Why is my back<br>so grumpy<br>on Monday..?",
+      "bubble_type": "thought",
+      "note": "(the guests arrive Friday, so it all had to be done..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Monday morning, Lulu<br>met Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "G'day! Big weekend<br>around the house?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. I'm fine at work,<br>so why now?"
+      },
+      "note": "Hybi started with <mark>the sudden jump in load</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's not the job,<br>it's <em>the marathon</em>!",
+      "fact": "New moves for hours = a <em>sudden jump in load</em>",
+      "left": {
+        "label": "In chunks",
+        "char": "kanga_happy",
+        "caption": "Swap tasks every<br><b>30–45 minutes</b>"
+      },
+      "right": {
+        "label": "All day",
+        "char": "kanga_tired",
+        "caption": "Same bent position<br><em>for hours on end</em>"
+      },
+      "quip": "Break it up and your<br>back keeps up!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute DIY plan</b>",
+      "sub": "Before the next big weekend!",
+      "sections": [
+        {
+          "heading": "1. Pace the project",
+          "color": "yellow",
+          "lines": [
+            "① Work in <em>30–45 min blocks</em>, then switch.",
+            "② Alternate lifting with lighter jobs.",
+            "③ <em>Kneel</em> or use a low stool for ground work.",
+            "④ Keep loads close; get a hand for bulky ones."
+          ]
+        },
+        {
+          "heading": "2. Get medical help if…",
+          "color": "purple",
+          "lines": [
+            "Leg <em>numbness or weakness</em>, or",
+            "bladder or bowel changes: <em>GP or ED</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back <em>still grumpy</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Pain that keeps worsening",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Lulu spent the whole weekend on garden beds and flat-packs before the Christmas guests arrive. Monday morning, the back is grumbling.\n\nHours of bending and carrying you don't usually do is a sudden jump in load, and that's a common reason for a Monday strain. Most settle over days to a couple of weeks with gentle movement.\n\nNext time, work in 30 to 45 minute blocks, alternate heavy jobs with lighter ones, kneel for ground-level work and get a hand with bulky items. Leg numbness or weakness, or bladder or bowel changes, need your GP or ED.\n\nOur chiropractors at Hybrid Physio can help you get moving again. Book online via the link in bio 🎄\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#backpain",
+    "#diy",
+    "#weekendproject",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydney",
+    "#christmasprep",
+    "#hybridphysiotherapy",
+    "#lowbackpain"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why weekend DIY strains backs, how to pace a project, a 1-minute DIY plan and signs worth getting checked.",
+  "story": {
+    "headline": "Big DIY weekend planned?",
+    "body": "Swap tasks every<br>30–45 minutes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-15",
+  "created": "2026-12-15-6",
+  "status": "approved",
+  "review_warnings": []
+}

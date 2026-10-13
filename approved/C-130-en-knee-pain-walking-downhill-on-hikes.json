@@ -1,0 +1,128 @@
+{
+  "id": "C-130-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee pain walking downhill on hikes",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Uphill's fine,<br>but <em>downhill</em> hurts?",
+      "sub": "Why descents load your knees, and how to help",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's talk<br>knee brakes!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A Blue Mountains hike,<br>and a <em>sore knee</em> coming down.",
+      "char": "koala_tired",
+      "bubble": "Felt fine going up..<br>why only on<br>the way down?",
+      "bubble_type": "thought",
+      "note": "(step by careful step down the stairs..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Been bushwalking?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Is it just my age<br>catching up?"
+      },
+      "note": "Hybi explained <mark>your thighs are the brakes</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Going down, your thighs<br>work as <em>brakes</em>",
+      "fact": "Going down, the thigh <em>lengthens as it brakes</em>",
+      "left": {
+        "label": "Short steps",
+        "char": "koala_happy",
+        "caption": "<b>Soft knees</b> and<br>zigzag down"
+      },
+      "right": {
+        "label": "Big strides",
+        "char": "koala_tired",
+        "caption": "The front of the knee<br><em>takes more load</em>"
+      },
+      "quip": "Lengthen your poles<br>a little for descents!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>downhill prep routine</b>",
+      "sub": "Start a few weeks before the hike!",
+      "sections": [
+        {
+          "heading": "1. Train the brakes at home",
+          "color": "yellow",
+          "lines": [
+            "① Slow step-downs from a low step, <em>10 reps</em>.",
+            "② Split squats, <em>8 reps each leg</em>.",
+            "③ Wall sit, <em>20–30 sec × 3</em>.",
+            "④ 2–3 times a week, <em>build over weeks</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "The knee <em>swells, locks or gives way</em>,",
+            "or pain <em>lasts for days</em> after a hike."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Knee sore for days<br><em>after a hike?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling in the knee",
+        "Locking or giving way",
+        "Stairs hard for days"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Trail-ready with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Legs fine on the way up, knees complaining on the way down? Descents are often the harder part.\n\nGoing downhill, your thigh muscles work as brakes while they lengthen, which loads the front of the knee more than climbing. Tired legs late in a hike make it harder still.\n\nShorter steps, a slight knee bend, zigzagging down steep sections and walking poles can all help share the load. At home, slow step-downs, split squats and wall sits can help build capacity over a few weeks.\n\nSwelling, locking, giving way or pain that lasts for days after a hike is worth an assessment. Our Chatswood and Sydney CBD physios can help you plan your next trail. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hiking",
+    "#bushwalking",
+    "#kneepain",
+    "#bluemountains",
+    "#trailwalking",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about knee pain walking downhill, why the thighs act as brakes, a home routine to prepare for descents and signs worth getting checked.",
+  "story": {
+    "headline": "Knees sore going downhill?",
+    "body": "Short steps, soft knees,<br>zigzag down.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-03",
+  "created": "2026-12-03-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-158-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Beach volleyball: shoulders and ankles in the sand",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "모래 위 스파이크,<br>어깨와 발목은 <em>괜찮아?</em>",
+      "sub": "토토의 첫 비치발리볼 시즌",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "준비 운동부터<br>같이 해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "토요일 하루 종일,<br>모래 위에서 <em>점프 점프</em>.",
+      "char": "rabbit_tired",
+      "bubble": "다리는 무겁고<br>어깨는 뻐근..",
+      "bubble_type": "thought",
+      "note": "(발목도 한 번 살짝 삐끗했다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "월요일 아침,<br>토토가 <b>하비</b>를 찾아왔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>비치발리볼 했어요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네! 근데 여름 내내<br>뛸 수 있을까요?"
+      },
+      "note": "하비는 <mark>발목과 어깨 뒤쪽</mark>을 준비하자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "모래는 <em>한 걸음마다</em><br>더 힘들어요",
+      "fact": "모래가 밀려서 종아리·발목·엉덩이가 <em>더 일해요</em>",
+      "left": {
+        "label": "짧게 시작",
+        "char": "rabbit_happy",
+        "caption": "처음 몇 주는<br><b>짧게, 조금씩</b>"
+      },
+      "right": {
+        "label": "첫날부터 종일",
+        "char": "rabbit_tired",
+        "caption": "몸이 적응하기 전<br><em>부담이 확</em>"
+      },
+      "quip": "다리가 적응할<br>시간을 줘요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>비치발리볼 준비</b>",
+      "sub": "주 2~3번이면 충분해요!",
+      "sections": [
+        {
+          "heading": "1. 발목·어깨 준비",
+          "color": "yellow",
+          "lines": [
+            "① 한 발 서기 <em>30초 × 3번</em>, 양쪽.",
+            "② 카프레이즈 + 단단한 바닥에서 <em>작은 홉</em>.",
+            "③ 밴드 회전·로우로 <em>어깨 뒤쪽</em> 강화.",
+            "④ 경기 전 <em>5분</em> 조깅·사이드 스텝·팔 돌리기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "발목에 <em>체중을 못 싣거나</em>,",
+            "어깨가 <em>빠질 듯</em> 불안하면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>계속 아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "발목에 체중을 못 싣는다",
+        "어깨가 빠질 것 같다",
+        "붓기가 계속 커진다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "토요일 하루 종일 모래 위에서 점프한 토토. 다리는 무겁고 어깨는 뻐근해요 🏐\n\n모래는 발밑이 밀려서 종아리·발목이 훨씬 더 일하고, 스파이크와 서브는 어깨 뒤쪽에 부담을 줘요.\n\n처음 몇 주는 짧게, 한 발 서기와 카프레이즈로 발목을, 밴드 회전과 로우로 어깨를 준비해요. 경기 전 5분 워밍업도 잊지 말기! 맨발 전엔 모래가 뜨겁지 않은지 확인해요.\n\n발목에 체중을 못 싣거나 어깨가 불안하면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#비치발리볼",
+    "#발목염좌",
+    "#어깨통증",
+    "#여름운동",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#beachvolleyball",
+    "#sportsphysio",
+    "#sydneycbdphysio"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 모래 위 비치발리볼이 발목과 어깨에 주는 부담, 짧게 시작하기 비교, 발목·어깨 준비 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "비치발리볼 시즌 준비!",
+    "body": "한 발 서기 30초 × 3,<br>경기 전 5분 워밍업.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-14",
+  "created": "2026-12-14-5",
+  "status": "approved",
+  "review_warnings": []
+}

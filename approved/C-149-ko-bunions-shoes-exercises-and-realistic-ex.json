@@ -1,0 +1,128 @@
+{
+  "id": "C-149-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Bunions: shoes, exercises and realistic expectations",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "엄지발가락 옆<br><em>툭 튀어나온 뼈</em>",
+      "sub": "무지외반, 현실적으로 뭘 할 수 있을까?",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "솔직하게<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "새 구두만 신으면<br><em>발이 아픈</em> 코코.",
+      "char": "koala_tired",
+      "bubble": "운동하면 발가락이<br>다시 펴질까..?",
+      "bubble_type": "thought",
+      "note": "(동네 산책이 점점 망설여진다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "코코는 <b>채스우드</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "반가워요!<br>발이 불편하죠?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "운동하면 뼈가<br>들어갈까요?"
+      },
+      "note": "하비는 <mark>솔직한 기대치</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "목표는 <em>통증과 압박</em><br>줄이기예요",
+      "fact": "유전·발 모양 영향이 커서 <em>각도는 잘 안 바뀌어요</em>",
+      "left": {
+        "label": "넓은 앞코",
+        "char": "koala_happy",
+        "caption": "앞코가 넓고 깊어<br>튀어나온 곳이 <b>편해요</b>"
+      },
+      "right": {
+        "label": "좁은 구두",
+        "char": "koala_tired",
+        "caption": "앞이 좁고 굽이 높아<br><em>압박이 커져요</em>"
+      },
+      "quip": "신발만 바꿔도<br>걷기가 편할 수 있어요"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 발가락 운동</b>",
+      "sub": "소파에 앉아서 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 작은 발 근육 깨우기",
+          "color": "yellow",
+          "lines": [
+            "① 발가락 <em>부채처럼</em> 펴기, 5초 × 10회.",
+            "② 다른 발가락은 바닥에, <em>엄지만</em> 들기.",
+            "③ 발바닥 아치를 <em>살짝 돔</em>처럼 올리기.",
+            "④ 매일 몇 분씩, 신발은 <em>오후에</em> 사기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 상담!",
+          "color": "purple",
+          "lines": [
+            "관절이 <em>빨갛고 뜨겁거나</em> 갑자기 붓거나,",
+            "발가락이 <em>저리다면</em> 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>걷기 힘들다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "관절이 붉고 뜨겁다",
+        "걷기 힘들 만큼 아프다",
+        "튀어나온 곳에 상처"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "새 구두만 신으면 엄지발가락 옆이 아픈 코코.\n\n무지외반은 엄지발가락 관절의 각도가 바뀐 거예요. 유전과 발 모양 영향이 커서, 운동이나 신발로 각도가 펴지긴 어려워요. 대신 통증과 압박을 줄이고 계속 걷도록 도울 수 있어요.\n\n앞코가 넓고 깊은 신발, 그리고 하루 몇 분 발가락 펴기·엄지 들기부터 해봐요.\n\n관절이 붉고 뜨겁거나, 발가락이 저리거나, 상처가 생겼다면 (특히 당뇨가 있다면) 빨리 확인받아요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#무지외반",
+    "#발통증",
+    "#발건강",
+    "#신발고르기",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#bunions",
+    "#footpain",
+    "#chatswoodphysio"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 무지외반의 현실적인 기대치, 신발 비교, 1분 발가락 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "무지외반, 뭘 할 수 있을까?",
+    "body": "앞코 넓은 신발 +<br>하루 몇 분 발가락 펴기",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-10",
+  "created": "2026-12-10-5",
+  "status": "approved",
+  "review_warnings": []
+}

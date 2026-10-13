@@ -1,0 +1,128 @@
+{
+  "id": "C-189-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Reformer terms explained: springs, footbar and carriage",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Carriage, springs, footbar..<br><em>Reformer lingo, decoded</em>",
+      "sub": "Plain-English terms before your first class",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's learn<br>the words!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "First reformer class.<br>Momo hears <em>a foreign language</em>.",
+      "char": "cat_tired",
+      "bubble": "Two reds and<br>a blue..?",
+      "bubble_type": "thought",
+      "note": "(everyone else is moving, and Momo is frozen..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Before class, Momo meets<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Momo! First time<br>on the reformer?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "I didn't understand<br>a single cue.."
+      },
+      "note": "Hybi opens up the <mark>reformer word list</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Heavier springs aren't<br><em>always harder!</em>",
+      "fact": "Heavier springs give <em>more support</em>: some moves feel easier",
+      "left": {
+        "label": "Heavier springs",
+        "char": "cat_happy",
+        "caption": "More support,<br><b>feels steadier</b>"
+      },
+      "right": {
+        "label": "Lighter springs",
+        "char": "cat_tired",
+        "caption": "Need <em>more control</em>, so<br>they can feel harder"
+      },
+      "quip": "Your instructor picks<br>springs to suit you!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute reformer glossary</b>",
+      "sub": "A quick read before class!",
+      "sections": [
+        {
+          "heading": "1. Four words to know",
+          "color": "yellow",
+          "lines": [
+            "① <em>Carriage</em>: the sliding platform you lie on.",
+            "② <em>Springs</em>: resistance, and sometimes support.",
+            "③ <em>Footbar</em>: the padded bar you push from.",
+            "④ <em>Straps</em>: hands or feet pull against springs."
+          ]
+        },
+        {
+          "heading": "2. Getting on and off",
+          "color": "purple",
+          "lines": [
+            "Check the <em>carriage is still</em> and springs secure.",
+            "<em>Sharp pain or tingling</em>? Stop and tell us."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Before your first class,<br>do you <em>have any of these</em>?",
+      "bubble": "Bodies differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Tell your instructor first if",
+      "items": [
+        "You have pain somewhere",
+        "Recent injury or surgery",
+        "Pregnant or postnatal"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Try the reformer with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Carriage, springs, footbar... is the reformer speaking a different language?\n\nThe carriage is the sliding platform you lie or kneel on. Springs add resistance, but heavier springs can actually make some moves easier by giving you support, while lighter ones ask for more control. The footbar is your base for pushing, and the straps link your hands or feet to the springs for pulling.\n\nKnowing the terms makes cues easier to follow, so you can focus on moving well instead of wondering what two reds and a blue means. Always check the carriage is still before climbing on or off.\n\nOur clinical Pilates team at Hybrid Physio starts every new client with an assessment. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#reformerpilates",
+    "#clinicalpilates",
+    "#pilatesbeginner",
+    "#pilates",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#reformer",
+    "#pilatesstudio",
+    "#corestrength"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining reformer terms (carriage, springs, footbar, straps), why heavier springs aren't always harder, and safe ways to get on and off.",
+  "story": {
+    "headline": "Reformer lingo, decoded",
+    "body": "Carriage, springs, footbar,<br>straps: a 1-minute glossary.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-26",
+  "created": "2026-12-26-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-129-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Corked thigh: what helps in the first few days",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "허벅지에 <em>무릎 한 방</em>,<br>처음 며칠이 중요해요",
+      "sub": "타박상(corked thigh) 초기 관리",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "처음엔<br>살살 가요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말 터치 풋볼,<br>허벅지에 <em>쾅!</em>",
+      "char": "kanga_tired",
+      "bubble": "뜨거운 찜질하고<br>세게 문지르면<br>빨리 낫겠지?",
+      "bubble_type": "thought",
+      "note": "(허벅지가 붓고 무릎 굽히기도 뻣뻣..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "절뚝이며 루루는<br><b>하이브리드 피지오</b>로 갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "아이고, 루루!<br>허벅지 부딪혔죠?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "마사지로 확<br>풀면 안 돼요?"
+      },
+      "note": "하비는 <mark>처음 이틀은 HARM을 피하자</mark>고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "처음 48시간,<br><em>HARM</em>은 피해요",
+      "fact": "<em>HARM</em> = 열(Heat) · 술 · 달리기 · 부위 마사지",
+      "left": {
+        "label": "초기에 하기",
+        "char": "kanga_happy",
+        "caption": "상대적 휴식·얼음<br><b>압박·다리 올리기</b>"
+      },
+      "right": {
+        "label": "초기에 피하기",
+        "char": "kanga_tired",
+        "caption": "근육 속 출혈이<br><em>늘 수</em> 있어요"
+      },
+      "quip": "무릎을 살짝 굽혀<br>쉬는 것도 좋아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>코크 초기 관리</b>",
+      "sub": "통증이 허락하는 만큼만!",
+      "sections": [
+        {
+          "heading": "1. 처음 며칠",
+          "color": "yellow",
+          "lines": [
+            "① 얼음 <em>15~20분</em>, 두어 시간마다.",
+            "② 압박하고, 누워서 <em>다리 올리기</em>.",
+            "③ 통증이 줄면 <em>무릎 굽히기·걷기</em>부터.",
+            "④ 가벼운 자전거 → 조깅 → 운동 <em>단계별로</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료받기!",
+          "color": "purple",
+          "lines": [
+            "붓기·통증이 <em>계속 심해지거나</em>,",
+            "허벅지가 <em>아주 팽팽·저리면</em> 바로!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "낫는 속도가<br><em>이상하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 바로 확인받기",
+      "items": [
+        "붓기가 계속 커진다",
+        "무릎이 안 굽혀진다",
+        "딱딱한 혹이 남는다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "복귀도 하비랑 단계별로,<br><b>하이브리드 피지오</b>!"
+    }
+  ],
+  "caption": "터치 풋볼이나 크리켓 하다가 허벅지에 무릎을 맞았다면? 처음 며칠 관리가 중요해요.\n\n코크(corked thigh)는 허벅지 근육 속 깊은 타박상이에요. 처음 48시간은 상대적 휴식, 얼음, 압박, 다리 올리기가 흔한 첫 단계예요. HARM은 피해요: 열, 술, 달리기, 부딪힌 부위 마사지는 근육 속 출혈을 늘릴 수 있어요.\n\n통증이 줄면 무릎 굽히기, 걷기, 가벼운 자전거부터 단계별로! 붓기가 계속 커지거나 허벅지가 아주 팽팽하면 바로 진료받기. 시드니 CBD·채스우드 물리치료사가 복귀를 도와드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허벅지타박상",
+    "#스포츠부상",
+    "#터치풋볼",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#corkedthigh",
+    "#sportsinjury",
+    "#footy",
+    "#sydneyphysio",
+    "#physiotherapy"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 허벅지 타박상 초기 48시간, 할 것과 피할 것(HARM) 비교, 단계별 관리, 바로 확인할 신호.",
+  "story": {
+    "headline": "허벅지에 무릎 한 방?",
+    "body": "첫 48시간은<br>HARM 피하기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-02",
+  "created": "2026-12-02-3",
+  "status": "approved",
+  "review_warnings": []
+}

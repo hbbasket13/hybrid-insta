@@ -1,0 +1,128 @@
+{
+  "id": "C-144-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Glute strength: the Pilates way",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Are your glutes<br><em>having a nap</em>?",
+      "sub": "Glute strength the Pilates way: control first",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's wake<br>them up!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo bridges up..<br>and her <em>lower back</em> complains.",
+      "char": "cat_tired",
+      "bubble": "This is a glute<br>exercise.. so why<br>is my back sore?",
+      "bubble_type": "thought",
+      "note": "(her knee wobbles a little on the stairs too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "At the <b>Hybrid Physio</b><br>Pilates studio.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Momo!<br>Working on glutes?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "I try so hard,<br>but I can't feel<br>them working.."
+      },
+      "note": "Hybi explained that <mark>control comes before load</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Glutes do far more<br>than <em>fill out jeans</em>!",
+      "fact": "Glutes help steady your <em>hips and knees</em> as you walk",
+      "left": {
+        "label": "Glute-led",
+        "char": "cat_happy",
+        "caption": "Peel the spine up<br>one bit at a time, <b>slowly</b>"
+      },
+      "right": {
+        "label": "Back-led",
+        "char": "cat_tired",
+        "caption": "Arching through the back<br>leaves it <em>doing the work</em>"
+      },
+      "quip": "Control first,<br>then add load!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>at-home glute trio</b>",
+      "sub": "Start 2–3 times a week!",
+      "sections": [
+        {
+          "heading": "1. Bridge + clam + single-leg stand",
+          "color": "yellow",
+          "lines": [
+            "① <em>10 slow bridges</em>, peeling up and down.",
+            "② Side-lying clams, <em>10 each side</em>.",
+            "③ Single-leg balance, <em>30 sec</em> each side.",
+            "④ Getting easy? Add a light band."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>builds</em> during the exercises,",
+            "or tingling spreads down a leg."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>not feeling right</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain building with exercise",
+        "Tingling down a leg",
+        "Ongoing hip or pelvic pain"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Momo's bridges kept landing in her lower back instead of her glutes. Your glutes help control your hips and knees every time you walk, run, climb stairs or lift.\n\nThe Pilates approach starts with control, feeling the right muscles work in a slow bridge or clam, then gradually adds load with springs, bands and single-leg work.\n\nWant to start today? Try ten slow bridges, ten clams each side and a 30-second single-leg balance, two or three times a week. If pain builds or tingling spreads down a leg, stop and get it checked.\n\nOur Pilates team at Hybrid Physio starts with an assessment and progresses your program as you get stronger. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#glutes",
+    "#glutestrength",
+    "#hipstrength",
+    "#strengthtraining",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why glutes matter, glute-led versus back-led bridges, an at-home glute trio and signs worth getting checked.",
+  "story": {
+    "headline": "Glutes having a nap?",
+    "body": "Bridges, clams, single-leg<br>balance, 2–3 times a week.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-08",
+  "created": "2026-12-08-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,129 @@
+{
+  "id": "C-178-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Keeping up Pilates over the holidays: a 10-minute routine",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "휴가에도 필라테스,<br><em>딱 10분</em>이면 돼요",
+      "sub": "리포머 없이 수건 한 장으로!",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "10분만<br>같이 해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "바닷가 휴가 중인 모모,<br>스튜디오가 <em>그립다</em>.",
+      "char": "cat_tired",
+      "bubble": "기껏 만든 힘<br>다 빠지면 어쩌지..?",
+      "bubble_type": "thought",
+      "note": "(휴가는 2주, 운동은 0분..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "떠나기 전,<br><b>하이브리드 피지오</b>에 들른 모모.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "모모, 휴가<br>간다면서요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네! 근데 리포머<br>없으면 못 하잖아요.."
+      },
+      "note": "하비는 <mark>수건 한 장 루틴</mark>을 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "짧게 자주가<br><em>유지의 비결!</em>",
+      "fact": "기구 없이 매트 10분, <em>주 3회</em>면 쌓아둔 힘 유지에 도움",
+      "left": {
+        "label": "10분×주3회",
+        "char": "cat_happy",
+        "caption": "짧아도 꾸준히 하면<br><b>감각이 유지돼요</b>"
+      },
+      "right": {
+        "label": "몰아서 하기",
+        "char": "cat_tired",
+        "caption": "2주 쉬고 한 번에 하면<br><em>몸이 놀랄 수 있어요</em>"
+      },
+      "quip": "수건 한 장이면<br>어디서든 OK!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>10분 휴가 루틴</b>",
+      "sub": "호텔 방이나 비치 타월 위에서!",
+      "sections": [
+        {
+          "heading": "1. 2분씩 순서대로",
+          "color": "yellow",
+          "lines": [
+            "① 호흡 5번 + <em>브릿지 10회</em> (천천히).",
+            "② <em>데드버그</em> 팔·반대 다리 내리기 8회씩.",
+            "③ 옆으로 누워 <em>다리 들기 10회</em> + 원 5회.",
+            "④ <em>버드독 8회씩</em> → 캣카우 10회로 마무리."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기",
+          "color": "purple",
+          "lines": [
+            "<em>찌르는 통증</em>이 있으면 그 동작은 빼고,",
+            "다음 날까지 <em>계속 아프면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "돌아와서<br><em>어딘가 불편하다면?</em>",
+      "bubble": "몸은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "동작 중 찌르는 통증",
+        "다음 날까지 남는 통증",
+        "저리거나 힘이 빠짐"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "새해엔 <b>하이브리드 피지오</b>에서<br>하비랑 다시 만나요!"
+    }
+  ],
+  "caption": "휴가 중인 모모, 리포머가 없으니 필라테스는 쉬어야 할까요? 🏖️\n\n수건 한 장이면 충분해요. 브릿지 10회, 데드버그 8회씩, 옆으로 누워 다리 들기 10회, 버드독 8회씩, 캣카우 10회로 마무리. 각 2분씩, 딱 10분이에요. 주 3회 정도면 쌓아둔 힘을 유지하는 데 도움이 될 수 있어요.\n\n찌르는 통증이 있는 동작은 빼고, 다음 날까지 아프면 상담받기! 하이브리드 피지오 필라테스 팀이 떠나기 전 홈 프로그램을 조정하고, 돌아오면 다시 이어가요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#홈필라테스",
+    "#매트필라테스",
+    "#채스우드",
+    "#시드니필라테스",
+    "#하이브리드피지오",
+    "#휴가운동",
+    "#여름휴가",
+    "#pilates",
+    "#matpilates",
+    "#chatswood",
+    "#sydneypilates",
+    "#holidayworkout"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 휴가 중 필라테스를 이어가는 법, 짧고 꾸준한 운동의 장점, 10분 매트 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "휴가에도 필라테스 10분",
+    "body": "브릿지·데드버그·버드독,<br>수건 한 장이면 OK!",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-22",
+  "created": "2026-12-22-1",
+  "status": "approved",
+  "review_warnings": []
+}

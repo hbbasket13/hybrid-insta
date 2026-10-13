@@ -1,0 +1,128 @@
+{
+  "id": "C-152-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Why a sneeze can set off back pain",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "<em>에취!</em> 한 번에<br>허리가 멈췄다",
+      "sub": "재채기와 허리, 무슨 관계일까?",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "많이 놀랐죠?<br>천천히 봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "꽃가루 날리는 아침,<br>재채기 한 방에 <em>억!</em>",
+      "char": "turtle_sad",
+      "bubble": "재채기 한 번에<br>허리가 왜..?",
+      "bubble_type": "thought",
+      "note": "(구부정하게 앉아 있다가 '에취!')",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "조심조심 걸어서<br><b>하이브리드 피지오</b>로.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>많이 놀랐죠?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "재채기 하나로<br>허리가 이렇게.."
+      },
+      "note": "하비는 <mark>재채기는 마지막 한 방</mark>일 때가 많다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "재채기는 보통<br><em>마지막 한 방</em>이에요",
+      "fact": "재채기는 몸통 근육이 <em>순식간에 세게</em> 수축하는 동작",
+      "left": {
+        "label": "바로 서서",
+        "char": "turtle_happy",
+        "caption": "허리 펴고 무릎 살짝<br><b>벽에 손 짚기</b>"
+      },
+      "right": {
+        "label": "숙이고 비틀어",
+        "char": "turtle_sad",
+        "caption": "구부정·비튼 채로<br><em>갑자기 힘이 확</em>"
+      },
+      "quip": "오래 앉기·피로가<br>쌓였을 수 있어요"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>재채기 대처법</b>",
+      "sub": "다음엔 이렇게 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 처음 며칠은 이렇게",
+          "color": "yellow",
+          "lines": [
+            "① 편한 범위에서 <em>살살 움직이기</em>.",
+            "② <em>5~10분 짧게 걷기</em>, 자세 자주 바꾸기.",
+            "③ 따뜻한 찜질이 도움될 수 있어요.",
+            "④ 재채기 올 땐 <em>서서 무릎 살짝, 손은 벽</em>에!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료!",
+          "color": "purple",
+          "lines": [
+            "다리 저림·힘 빠짐, 엉덩이 안쪽 감각 저하,",
+            "<em>소변·대변 변화</em>가 있다면 바로 의료진에게!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "며칠 지나도<br><em>나아지지 않는다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 빨리 확인받기",
+      "items": [
+        "다리가 저리거나 힘이 빠짐",
+        "소변·대변 변화",
+        "열·이유 없는 체중 감소"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "꽃가루 날리는 봄, 재채기 한 번에 허리가 굳어버린 거북씨.\n\n재채기는 몸통 근육이 순식간에 세게 수축하는 동작이에요. 구부정하거나 비튼 자세에서, 오래 앉기·수면 부족으로 이미 허리가 지쳐 있었다면 근육이 확 굳을 수 있어요.\n\n처음엔 편한 범위에서 살살 움직이고, 짧게 걷고, 따뜻한 찜질을 해봐요. 다음 재채기엔 서서 무릎을 살짝 굽혀요.\n\n다리 저림·힘 빠짐, 소변·대변 변화는 바로 진료가 필요해요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#재채기",
+    "#급성요통",
+    "#꽃가루알레르기",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#backpain",
+    "#chiropractic",
+    "#sydneychiro"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 재채기 한 번에 허리가 아픈 이유, 재채기 자세 비교, 처음 며칠 대처법, 빨리 확인이 필요한 신호.",
+  "story": {
+    "headline": "재채기 한 번에 허리가?",
+    "body": "다음 재채기엔 서서<br>무릎 살짝, 손은 벽에!",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-11",
+  "created": "2026-12-11-5",
+  "status": "approved",
+  "review_warnings": []
+}

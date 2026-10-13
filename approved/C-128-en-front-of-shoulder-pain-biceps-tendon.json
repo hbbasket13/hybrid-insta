@@ -1,0 +1,128 @@
+{
+  "id": "C-128-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Front-of-shoulder pain (biceps tendon)",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Bench press day,<br><em>front-of-shoulder</em> ache?",
+      "sub": "The biceps tendon, and how it's usually managed",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Adjust,<br>don't stop!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Hauling gear on site,<br>then <em>the gym</em> after work.",
+      "char": "kanga_tired",
+      "bubble": "Every bench rep<br>pinches up front..<br>should I quit lifting?",
+      "bubble_type": "thought",
+      "note": "(chin-ups make the front of the shoulder throb too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "G'day Lulu!<br>Shoulder bugging you?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Do I have to stop<br>the gym completely?"
+      },
+      "note": "Hybi explained <mark>adjust, don't stop</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Adjust the load<br>rather than <em>full rest</em>",
+      "fact": "The biceps tendon runs through <em>a groove at the front</em>",
+      "left": {
+        "label": "Adjust",
+        "char": "kanga_happy",
+        "caption": "Ease the lifts that<br>flare it, <b>keep the rest</b>"
+      },
+      "right": {
+        "label": "Full rest",
+        "char": "kanga_tired",
+        "caption": "Often <em>slows things</em><br>down, not up"
+      },
+      "quip": "Then rebuild strength<br>step by step!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>front-shoulder plan</b>",
+      "sub": "Keep training, change the dose!",
+      "sections": [
+        {
+          "heading": "1. How to adjust",
+          "color": "yellow",
+          "lines": [
+            "① <em>Ease back</em> on wide-grip bench and deep dips.",
+            "② Keep <em>everything else</em> going as usual.",
+            "③ Build biceps, cuff and shoulder blade strength.",
+            "④ Add weight, range <em>or</em> speed, one at a time."
+          ]
+        },
+        {
+          "heading": "2. Get it checked promptly if…",
+          "color": "purple",
+          "lines": [
+            "A <em>sudden pop</em> with bruising down the arm,",
+            "or a <em>new bulge</em> in the upper arm."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Adjusted and<br><em>still sore?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A pop, then bruising",
+        "A new upper-arm bulge",
+        "Night pain not settling"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Keep lifting with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "That nagging ache right at the front of your shoulder during bench or chin-ups? The biceps tendon is often involved.\n\nIt tends to flare with a jump in overhead or pressing work, heavy carrying, or alongside other shoulder niggles. Most people don't need to stop training. Easing back on the lifts that provoke it while keeping everything else going usually works better than full rest.\n\nFrom there, gradual strengthening for the biceps, rotator cuff and shoulder blade muscles does the heavy lifting.\n\nA sudden pop with bruising, or a new bulge in the upper arm, is worth getting checked. Our Sydney CBD and Chatswood physios can help you keep lifting. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#shoulderpain",
+    "#bicepstendon",
+    "#gymlife",
+    "#benchpress",
+    "#tradie",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu about front-of-shoulder pain from the biceps tendon, adjusting training instead of full rest, a shoulder plan and signs worth getting checked.",
+  "story": {
+    "headline": "Front of shoulder pinching?",
+    "body": "Adjust the lifts,<br>don't stop training.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-02",
+  "created": "2026-12-02-2",
+  "status": "approved",
+  "review_warnings": []
+}

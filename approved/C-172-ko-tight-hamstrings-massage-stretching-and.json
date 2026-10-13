@@ -1,0 +1,128 @@
+{
+  "id": "C-172-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Tight hamstrings: massage, stretching and strength",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "스트레칭해도 해도<br><em>햄스트링이 뻣뻣</em>",
+      "sub": "마사지·스트레칭·근력, 셋 다 필요해요",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "세 가지를<br>같이 써봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "매일 스트레칭하는 토토,<br>그런데 <em>늘 그대로</em>.",
+      "char": "rabbit_tired",
+      "bubble": "이렇게 늘리는데<br>왜 안 풀리지..?",
+      "bubble_type": "thought",
+      "note": "(달리고 나면 허벅지 뒤가 당겨..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비를 만난 토토.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>허벅지 뒤가 당기죠?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 마사지만<br>받으면 될까요?"
+      },
+      "note": "하비는 <mark>뻣뻣함의 여러 이유</mark>를 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "뻣뻣함이 꼭<br><em>짧아서는 아니에요</em>",
+      "fact": "피로·보호 반응·근력 부족으로도 <em>당기는 느낌</em>이 들 수 있어요",
+      "left": {
+        "label": "셋 다 함께",
+        "char": "rabbit_happy",
+        "caption": "마사지 + 스트레칭<br>+ <b>근력 운동</b>"
+      },
+      "right": {
+        "label": "늘리기만",
+        "char": "rabbit_tired",
+        "caption": "스트레칭만 하면<br><em>금방 다시 당겨요</em>"
+      },
+      "quip": "근력은<br>장기전이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 햄스트링 루틴</b>",
+      "sub": "주 2회부터 시작!",
+      "sections": [
+        {
+          "heading": "1. 세 가지 함께하기",
+          "color": "yellow",
+          "lines": [
+            "① 마사지 후 몸이 편할 때 <em>운동 연결</em>.",
+            "② 지지된 스트레칭 <em>30초</em>, 찌릿하면 멈춤.",
+            "③ 브릿지 <em>10회 × 2세트</em>, 주 2회.",
+            "④ 익숙해지면 루마니안 데드리프트로."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "<em>저림</em>, 다리로 퍼지는 통증, 허리 통증이",
+            "같이 오면 물리치료·GP 평가 먼저."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>계속 당긴다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호라면 확인받기",
+      "items": [
+        "다리 저림·찌릿함",
+        "다리로 퍼지는 통증",
+        "허리 통증이 같이 온다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "매일 스트레칭하는데도 햄스트링이 늘 뻣뻣한 토토. 세 가지를 같이 써볼 때예요.\n\n햄스트링은 짧아서만이 아니라 피로, 보호 반응, 근력 부족으로도 당길 수 있어요.\n\n리메디얼 마사지는 단기적으로 편하게 해주고, 그 틈에 운동을 연결하면 좋아요. 지지된 스트레칭 30초는 찌릿하지 않게, 브릿지와 루마니안 데드리프트는 주 2회부터. 마사지는 운동을 대신하지 않고 보완해요.\n\n저림, 다리로 퍼지는 통증, 허리 통증이 같이 오면 물리치료사나 GP 평가가 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니마사지",
+    "#리메디얼마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#햄스트링",
+    "#스트레칭",
+    "#근력운동",
+    "#remedialmassage",
+    "#hamstrings",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 토끼 토토가 등장하는 7장짜리 만화 카드뉴스: 햄스트링이 계속 뻣뻣한 이유, 마사지·스트레칭·근력을 함께 쓰는 법, 1분 햄스트링 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "햄스트링, 늘 뻣뻣해요?",
+    "body": "마사지·스트레칭에<br>브릿지 주 2회 더하기!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-19",
+  "created": "2026-12-19-1",
+  "status": "approved",
+  "review_warnings": []
+}

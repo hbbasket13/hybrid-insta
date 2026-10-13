@@ -1,0 +1,128 @@
+{
+  "id": "C-150-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Calf raises done right",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Your calf raises might be<br><em>too easy</em>",
+      "sub": "Toto's calf routine gets an upgrade",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Slow is<br>the secret!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Fifty</em> quick calf raises<br>a day, every day.",
+      "char": "rabbit_tired",
+      "bubble": "So many reps..<br>why aren't they<br>getting stronger?",
+      "bubble_type": "thought",
+      "note": "(fast, and only halfway up..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "A running-club mate<br>sent Toto to <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Toto!<br>Show me a few?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Should I just<br>do more reps?"
+      },
+      "note": "Hybi suggested changing <mark>the speed, not the count</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The <em>lowering</em> is where<br>the work happens",
+      "fact": "One second up, a pause, then <em>three seconds down</em>",
+      "left": {
+        "label": "Slow and full",
+        "char": "rabbit_happy",
+        "caption": "Rise high through<br>the <b>big-toe side</b>"
+      },
+      "right": {
+        "label": "Fast, half reps",
+        "char": "rabbit_tired",
+        "caption": "Up halfway and drop,<br><em>less useful load</em>"
+      },
+      "quip": "Go slower. Fewer reps<br>is totally fine!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>calf raise ladder</b>",
+      "sub": "Hold a wall to start!",
+      "sections": [
+        {
+          "heading": "1. Do them right",
+          "color": "yellow",
+          "lines": [
+            "① 1 sec up → pause → <em>3 sec down</em>.",
+            "② Straight-knee <em>and</em> bent-knee versions.",
+            "③ Two legs → one leg → step or dumbbell.",
+            "④ Single-leg <em>15–20</em> feels easy? Move up a step."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel a <em>sudden pop</em> at the back of the leg,",
+            "or can't <em>rise onto your toes</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Calves <em>still bugging you</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A sudden sharp pain or pop",
+        "Trouble rising onto toes",
+        "Calf swelling and warmth"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Toto does fifty calf raises a day, but they're fast, half-height and on autopilot.\n\nA few small changes make them far more useful: one second up, a short pause, three seconds down. Rise all the way through the big-toe side, and do both straight-knee and bent-knee versions.\n\nWhen slow single-leg sets of 15 to 20 feel easy, add a step for extra range or hold a dumbbell, building a little each week.\n\nA sudden pop, trouble rising onto your toes or unexplained calf swelling deserve an assessment rather than more reps. Our Chatswood and Sydney CBD physios can tailor a calf program to your sport. Book online via the link in bio 🏃\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#calfraises",
+    "#calfstrength",
+    "#achilles",
+    "#runningtips",
+    "#runnersofsydney",
+    "#strengthtraining",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit showing how to slow down calf raises, go full height, progress step by step and when calf pain is worth checking.",
+  "story": {
+    "headline": "Calf raises: slow it down",
+    "body": "1 sec up, pause,<br>3 sec down.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-10",
+  "created": "2026-12-10-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-151-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Tight hip flexors from sitting: myth or real?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Sitting <em>shortens</em> your<br>hip flexors. True?",
+      "sub": "Hybi fact-checks a desk-worker myth",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Half myth,<br>half real!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "4pm. Every time he stands,<br>the <em>front of his hip</em> pulls.",
+      "char": "turtle_monitor",
+      "bubble": "Have my muscles<br>shrunk? Should I<br>stretch more?",
+      "bubble_type": "thought",
+      "note": "(nine hours a day, fused to the chair..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "At lunch, Mr Turtle met<br>Hybi in <b>Sydney CBD</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Where does<br>it feel tight?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Front of the hip..<br>they're short, right?"
+      },
+      "note": "Hybi explained that <mark>feeling tight isn't the same as short</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Feeling tight</em> isn't<br>the same as short",
+      "fact": "Research suggests many desk workers test with <em>normal length</em>",
+      "left": {
+        "label": "Move often",
+        "char": "turtle_happy",
+        "caption": "Up every hour to<br><b>walk and move</b>"
+      },
+      "right": {
+        "label": "Stretch only",
+        "char": "turtle_sad",
+        "caption": "One long stretch, then<br><em>still all day</em>"
+      },
+      "quip": "Variety of movement<br>usually helps more!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>every-hour routine</b>",
+      "sub": "Slot it between meetings!",
+      "sections": [
+        {
+          "heading": "1. Once an hour",
+          "color": "yellow",
+          "lines": [
+            "① Stand and do <em>5 slow lunges</em> each side.",
+            "② <em>10 bridges</em>, or standing glute squeezes.",
+            "③ A <em>short walk</em> around the office.",
+            "④ Keep it comfy and build up gradually."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Groin pain <em>catches</em> with movement,",
+            "or you're <em>limping</em> or sore at night."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Front of the hip<br><em>still grumbling</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Groin pain that catches",
+        "A limp",
+        "Pain at night"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "\"You sit all day, so your hip flexors are short.\" Heard that one?\n\nResearch suggests sitting doesn't usually shorten muscles in a lasting way. Many desk workers test with normal hip flexor length yet still feel tight at the front of the hip. The feeling is real, but it's often driven by staying still and low activity.\n\nWhat tends to help more than endless stretching: moving often and strengthening your hips and glutes. Try five slow lunges each side, ten bridges and a short walk every hour or so.\n\nGroin pain that catches, a limp or pain at night is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#hipflexors",
+    "#tighthips",
+    "#hippain",
+    "#desklife",
+    "#mythbusting",
+    "#officeworker",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle fact-checking whether sitting shortens hip flexors, comparing moving often with stretching only, an every-hour routine and signs worth checking.",
+  "story": {
+    "headline": "Short hip flexors: myth?",
+    "body": "5 lunges each side and<br>10 bridges, every hour.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-11",
+  "created": "2026-12-11-4",
+  "status": "approved",
+  "review_warnings": []
+}

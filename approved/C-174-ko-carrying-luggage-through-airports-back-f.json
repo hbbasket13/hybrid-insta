@@ -1,0 +1,128 @@
+{
+  "id": "C-174-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Carrying luggage through airports: back-friendly travel",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "가방은 챙겼는데,<br><em>허리</em>는요?",
+      "sub": "공항에서 허리 편한 짐 다루기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "짐 드는 법,<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "크리스마스 가족 여행,<br>짐을 <em>대여섯 번</em> 들었다 놨다.",
+      "char": "koala_tired",
+      "bubble": "컨베이어에서<br>휙 당겼더니..?",
+      "bubble_type": "thought",
+      "note": "(기내 선반에 올리다 허리가 뜨끔..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "여행 다녀와서<br><b>하이브리드 피지오</b>에 간 코코.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 오세요!<br>여행 다녀왔어요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 짐 들다가<br>허리가 뻐근해요."
+      },
+      "note": "하비는 <mark>두 단계로 드는 법</mark>을 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "끌기보다<br><em>밀어요!</em>",
+      "fact": "바퀴 <em>4개</em> 캐리어는 옆에서 밀 수 있어 팔이 덜 꼬여요",
+      "left": {
+        "label": "바퀴 4개",
+        "char": "koala_happy",
+        "caption": "옆에서 밀고<br><b>손도 바꿔요</b>"
+      },
+      "right": {
+        "label": "바퀴 2개",
+        "char": "koala_tired",
+        "caption": "뒤로 끌며<br><em>몸이 비틀려요</em>"
+      },
+      "quip": "무거운 건<br>바퀴 쪽에 넣어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 공항 짐 요령</b>",
+      "sub": "출국 전에 체크!",
+      "sections": [
+        {
+          "heading": "1. 두 단계로 들기",
+          "color": "yellow",
+          "lines": [
+            "① 컨베이어: 가방이 <em>가까이 올 때</em> 다가가요.",
+            "② 무릎 굽혀 몸 쪽으로 당긴 뒤 들어요.",
+            "③ 기내 선반: <em>팔걸이 먼저</em>, 그다음 위로.",
+            "④ 선반을 마주 보고, 몸은 비틀지 않기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 퍼지거나</em> 저리고 힘이",
+            "빠지면, 며칠째 그대로면 평가받기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "집에 와서도<br><em>허리가 뻐근하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호라면 확인받기",
+      "items": [
+        "다리로 퍼지는 통증",
+        "저림이나 힘 빠짐",
+        "며칠 지나도 그대로"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "크리스마스 가족 여행, 가방은 챙겼는데 허리는 챙기셨나요? ✈️\n\n한 번 여행에 짐을 대여섯 번은 들었다 놨다 해요. 바퀴 4개 캐리어는 옆에서 밀 수 있어 팔이 덜 비틀리고, 손을 가끔 바꿔주면 한쪽만 일하지 않아요.\n\n컨베이어에선 가방이 가까이 올 때 다가가 무릎 굽혀 당긴 뒤 들고, 기내 선반은 팔걸이에 먼저 올렸다가 선반을 마주 보고 올려요. 무거운 짐은 바퀴 쪽에 넣으면 굴리기 쉬워요.\n\n통증이 다리로 퍼지거나, 저림·힘 빠짐이 있거나, 돌아와서 며칠 지나도 그대로면 평가받아요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니카이로프랙틱",
+    "#카이로프랙틱",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#허리통증",
+    "#여행",
+    "#연말여행",
+    "#chiropractor",
+    "#travel",
+    "#backpain",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 코알라 코코가 등장하는 7장짜리 만화 카드뉴스: 공항에서 짐 들다 허리가 뻐근해지는 이유, 바퀴 4개 캐리어, 두 단계로 드는 1분 요령, 확인이 필요한 신호.",
+  "story": {
+    "headline": "연말 비행기 타요?",
+    "body": "팔걸이 먼저, 그다음<br>기내 선반으로!",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-19",
+  "created": "2026-12-19-3",
+  "status": "approved",
+  "review_warnings": []
+}

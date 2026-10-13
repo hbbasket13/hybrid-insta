@@ -1,0 +1,128 @@
+{
+  "id": "C-167-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Warm-ups that actually help weekend sport",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "주차장 스트레칭 30초,<br>그게 <em>워밍업</em>이라고?",
+      "sub": "주말 운동 전 10분 루틴",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "제대로 몸을<br>깨워볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "토요일 축구 경기 직전,<br>햄스트링만 <em>쭉쭉</em>.",
+      "char": "rabbit_tired",
+      "bubble": "몸이 덜 풀린<br>느낌인데..?",
+      "bubble_type": "thought",
+      "note": "(전반 10분은 늘 몸이 무거운 토토..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "경기 끝나고<br><b>하이브리드 피지오</b>에 들른 토토.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>주말에 뛰죠?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네! 스트레칭은<br>하는데 부족한가요?"
+      },
+      "note": "하비는 <mark>움직이는 워밍업</mark>을 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "가만히 늘리기보다<br><em>움직이며 깨우기!</em>",
+      "fact": "연구에 따르면 <em>체계적인 워밍업</em>은 일부 부상을 줄일 수 있어요",
+      "left": {
+        "label": "다이내믹",
+        "char": "rabbit_happy",
+        "caption": "레그 스윙·런지로<br><b>쓸 범위를 준비</b>"
+      },
+      "right": {
+        "label": "오래 늘리기만",
+        "char": "rabbit_tired",
+        "caption": "가만히 30초씩,<br><em>몸은 아직 차가워요</em>"
+      },
+      "quip": "10분이면<br>충분해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>10분 워밍업</b>",
+      "sub": "경기 전 이 순서로!",
+      "sections": [
+        {
+          "heading": "1. 세 단계 워밍업",
+          "color": "yellow",
+          "lines": [
+            "① 가벼운 조깅·줄넘기 <em>3~5분</em>.",
+            "② 레그 스윙·런지·팔 돌리기 <em>각 10회</em>.",
+            "③ 짧은 스프린트·방향 전환 <em>3~4번</em>.",
+            "④ 경기 속도에 가깝게 마무리!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추세요",
+          "color": "purple",
+          "lines": [
+            "<em>'뚝' 소리</em>, 금방 붓거나 체중이 안 실리면",
+            "테이핑하고 뛰기보다 평가부터!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "경기 중 <em>삐끗했다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호라면 확인받기",
+      "items": [
+        "'뚝' 소리가 났다",
+        "금방 부어올랐다",
+        "관절이 빠지는 느낌"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "주차장에서 햄스트링 몇 번 늘리기, 사실 워밍업으로는 조금 부족해요.\n\n연구에 따르면 체계적인 워밍업은 일부 운동 부상을 줄이는 데 도움이 될 수 있어요. 간단 버전: 가벼운 조깅 3~5분 → 레그 스윙·런지·팔 돌리기 → 경기 속도에 가까운 짧은 스프린트 몇 번.\n\n10분이면 첫 휘슬부터 몸이 준비돼요. '뚝' 소리, 금방 붓는 느낌, 관절이 빠지는 느낌이 있으면 계속 뛰기보다 평가받아요.\n\n시드니 CBD·채스우드 물리치료사가 종목에 맞춰 워밍업을 짜드려요. 프로필 링크에서 온라인 예약 ⚽\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니물리치료",
+    "#물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#워밍업",
+    "#주말운동",
+    "#스포츠부상",
+    "#physiotherapy",
+    "#warmup",
+    "#sportsphysio",
+    "#sydneycbd",
+    "#sydney"
+  ],
+  "alt_text": "하비와 토끼 토토가 등장하는 7장짜리 만화 카드뉴스: 주차장 스트레칭만으로 부족한 이유, 다이내믹 워밍업, 10분 워밍업 순서, 확인이 필요한 신호.",
+  "story": {
+    "headline": "주말 경기 있어요?",
+    "body": "조깅 5분 → 다이내믹<br>→ 경기 속도로!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-17",
+  "created": "2026-12-17-5",
+  "status": "approved",
+  "review_warnings": []
+}

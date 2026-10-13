@@ -1,0 +1,129 @@
+{
+  "id": "C-182-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Flare-up now: should you book in or wait it out?",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "또 시작된 그 통증,<br><em>예약할까? 기다릴까?</em>",
+      "sub": "익숙한 통증이 돌아왔을 때 판단법",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "같이<br>정리해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마감 주간, 거북씨의<br><em>익숙한 허리 통증</em>이 돌아왔다.",
+      "char": "turtle_monitor",
+      "bubble": "작년이랑 비슷한데..<br>기다려볼까?",
+      "bubble_type": "thought",
+      "note": "(검색창엔 '허리 통증 예약' 반쯤 입력..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "고민 끝에 거북씨는<br><b>하이브리드 피지오</b>로 갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "거북씨, 무슨<br>일이에요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "이 정도로 가도<br>되나 싶어서요.."
+      },
+      "note": "하비는 <mark>3가지 질문</mark>으로 정리해 주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "포인트는<br><em>변화의 방향!</em>",
+      "fact": "익숙하고 <em>조금씩 나아지는</em> 통증이면 며칠 계획대로 해보기도 OK",
+      "left": {
+        "label": "익숙+호전 중",
+        "char": "turtle_happy",
+        "caption": "가벼운 움직임·온찜질,<br><b>평소 운동 이어가기</b>"
+      },
+      "right": {
+        "label": "다르거나 그대로",
+        "char": "turtle_sad",
+        "caption": "새로운 증상, 1주 넘게<br><em>그대로면 예약하기</em>"
+      },
+      "quip": "최악일 때까지<br>기다릴 필요 없어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>3단계 체크</b>",
+      "sub": "통증이 돌아왔다면 이렇게!",
+      "sections": [
+        {
+          "heading": "1. 스스로 물어봐요",
+          "color": "yellow",
+          "lines": [
+            "① <em>평소 통증과 비슷한가요?</em> 다르면 예약.",
+            "② 넘어지거나 <em>부딪힌 뒤</em> 시작됐나요? 예약.",
+            "③ 익숙하면 <em>며칠간</em> 움직임·온찜질·평소 운동.",
+            "④ <em>1주 정도</em> 지나도 그대로면 예약하기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP·응급실로 바로",
+          "color": "purple",
+          "lines": [
+            "<em>사타구니 감각 저하·소변/대변 변화</em>,",
+            "<em>힘 빠짐·가슴 통증·열</em>이 있으면 바로 확인."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도<br><em>헷갈린다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "평소와 다른 통증",
+        "넘어진 뒤 시작됐다",
+        "1주 지나도 그대로다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "고민될 땐 <b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "익숙한 허리 통증이 돌아온 거북씨. 예약할까, 며칠 기다려볼까?\n\n평소와 비슷하고 조금씩 나아지는 중이라면, 며칠 가벼운 움직임·온찜질·평소 운동을 이어가는 것도 괜찮은 시작이에요. 평소와 다르거나, 넘어진 뒤 시작됐거나, 1주 정도 지나도 그대로라면 평가가 도움이 돼요.\n\n사타구니 감각 저하, 소변·대변 변화, 힘 빠짐, 가슴 통증, 열은 GP나 응급실로 바로! 최악일 때까지 기다릴 필요 없어요. 채스우드·시드니 CBD 하이브리드 피지오 팀이 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#통증관리",
+    "#허리통증",
+    "#재발",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#flareup",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 익숙한 통증이 다시 왔을 때 예약할지 기다릴지 판단하는 법, 3단계 체크, 바로 확인이 필요한 신호.",
+  "story": {
+    "headline": "예약할까, 기다릴까?",
+    "body": "평소와 다르거나 1주째 그대로면<br>예약하기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-23",
+  "created": "2026-12-23-5",
+  "status": "approved",
+  "review_warnings": []
+}

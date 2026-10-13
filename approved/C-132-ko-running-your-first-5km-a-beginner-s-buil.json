@@ -1,0 +1,128 @@
+{
+  "id": "C-132-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Running your first 5km: a beginner's build-up",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "달리기 한 번도<br>안 해본 <em>거북이</em>가 5km?",
+      "sub": "초보자의 첫 5km 걷기-달리기 플랜",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "천천히가<br>핵심이에요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "올해 목표는<br><em>5km 완주!</em> 라던 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "근데 1km만 뛰어도<br>숨이 턱..<br>내가 할 수 있을까?",
+      "bubble_type": "thought",
+      "note": "(지난주 첫 시도는 3분 만에 포기..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "거북씨는 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕, 거북씨!<br>달리기 시작했어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "매일 뛰어야<br>빨리 늘죠?"
+      },
+      "note": "하비는 <mark>생각보다 더 천천히</mark>가 비결이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "걷기와 달리기를<br><em>섞어서</em> 시작해요",
+      "fact": "많은 초보자가 <em>8~10주쯤</em> 걸려 5km를 쉬지 않고 달려요",
+      "left": {
+        "label": "걷뛰 인터벌",
+        "char": "turtle_happy",
+        "caption": "1분 뛰고 2분 걷기<br><b>대화 가능한 속도</b>"
+      },
+      "right": {
+        "label": "처음부터 쭉",
+        "char": "turtle_sad",
+        "caption": "숨차고 다리가<br><em>쉽게 지칠 수</em> 있어요"
+      },
+      "quip": "힘든 주는 한 번 더<br>반복해도 괜찮아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>첫 주 5km 플랜</b>",
+      "sub": "이번 주부터 시작해봐요!",
+      "sections": [
+        {
+          "heading": "1. 걷뛰 인터벌",
+          "color": "yellow",
+          "lines": [
+            "① <em>1분 천천히 뛰기 + 2분 걷기</em>.",
+            "② 이걸 <em>8번</em>, 주 3회 (하루씩 쉬기).",
+            "③ 매주 뛰는 시간이나 횟수를 <em>하나만</em> 늘려요.",
+            "④ 주 2회 까치발·스쿼트·브릿지 <em>10~15분</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기!",
+          "color": "purple",
+          "lines": [
+            "<em>절뚝거리게</em> 되거나, 뛸수록 더 아프거나,",
+            "<em>뼈 한 곳</em>이 콕 집어 아프다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "살짝 뻐근한 건 OK,<br><em>이건 확인받기!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "절뚝거리며 걷게 된다",
+        "뛸수록 통증이 커진다",
+        "뼈 한 곳이 계속 아프다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "첫 5km도 하비랑,<br><b>하이브리드 피지오</b>!"
+    }
+  ],
+  "caption": "한 번도 안 뛰어봤는데 5km가 가능할까요? 생각보다 가까워요. 🏃\n\n비결은 생각보다 더 천천히! 1분 가볍게 뛰고 2분 걷기를 8번, 주 3회부터 시작해요. 매주 조금씩 늘리고, 힘들었던 주는 한 번 더 반복해도 괜찮아요. 많은 초보자가 8~10주쯤 걸려요.\n\n주 2회 까치발, 스쿼트, 브릿지로 다리를 준비하고, 여름엔 이른 아침이나 저녁에, 물 챙겨서 천천히!\n\n하루 안에 가라앉는 가벼운 뻐근함은 보통 괜찮아요. 절뚝거림, 뛸수록 커지는 통증, 뼈 한 곳 통증은 채스우드·시드니 CBD 물리치료사에게 확인받기. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#달리기",
+    "#러닝입문",
+    "#5km",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#couchto5k",
+    "#beginnerrunner",
+    "#running",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 초보자의 첫 5km, 걷뛰 인터벌과 처음부터 쭉 달리기 비교, 첫 주 플랜, 확인이 필요한 신호.",
+  "story": {
+    "headline": "달리기 처음인데 5km?",
+    "body": "1분 뛰고 2분 걷기,<br>8번부터!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-03",
+  "created": "2026-12-03-3",
+  "status": "approved",
+  "review_warnings": []
+}

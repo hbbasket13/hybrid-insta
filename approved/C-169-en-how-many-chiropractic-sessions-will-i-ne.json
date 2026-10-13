@@ -1,0 +1,128 @@
+{
+  "id": "C-169-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "How many chiropractic sessions will I need?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "How many chiro<br>sessions <em>will I need</em>?",
+      "sub": "The honest answer: it depends. Here's on what.",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's map out<br>a plan!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Stiff neck, busy December,<br>and <em>one big question</em>.",
+      "char": "turtle_monitor",
+      "bubble": "One visit..<br>or ten..?",
+      "bubble_type": "thought",
+      "note": "(the end-of-year calendar is already packed..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Got a<br>question for me?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "How many times<br>will I need to come?"
+      },
+      "note": "Hybi explained <mark>what it depends on</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Same sore back,<br><em>different plans</em>",
+      "fact": "How long, daily impact, sleep and stress all <em>shape the plan</em>",
+      "left": {
+        "label": "Recent niggle",
+        "char": "turtle_happy",
+        "caption": "Often settles<br><b>within a handful</b>"
+      },
+      "right": {
+        "label": "Months long",
+        "char": "turtle_sad",
+        "caption": "Builds with exercise,<br><em>takes more time</em>"
+      },
+      "quip": "Ask for goals<br>and review points!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute plan check</b>",
+      "sub": "Ask these at your first visit!",
+      "sections": [
+        {
+          "heading": "1. Questions worth asking",
+          "color": "yellow",
+          "lines": [
+            "① What are we <em>aiming for</em>?",
+            "② When will we <em>review progress</em>?",
+            "③ What can I do <em>between visits</em>?",
+            "④ Adjustments are one tool; movement matters."
+          ]
+        },
+        {
+          "heading": "2. Get checked sooner if…",
+          "color": "purple",
+          "lines": [
+            "Pain keeps <em>getting worse</em>, or an",
+            "arm or leg starts to <em>tingle</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "<em>Not sure</em> it's<br>improving?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it rechecked if you notice",
+      "items": [
+        "Pain getting worse",
+        "Arm or leg tingling",
+        "No change at review"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "How many chiro sessions will I need? The honest answer is \"it depends\", and Mr Turtle wanted to know on what.\n\nHow long it's been going on, how much it affects your day, and your sleep, stress and activity levels all shape the plan. A recent niggle often improves within a handful of visits. Longer-standing pain usually shifts towards exercise and daily habits, with visits spreading out.\n\nAt your first visit, ask what you're aiming for, when progress will be reviewed and what to do between visits. Adjustments are one tool; what you do in between often matters just as much.\n\nOur chiropractors at Hybrid Physio map out a plan with regular review points. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#chiro",
+    "#backpain",
+    "#neckpain",
+    "#treatmentplan",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#cbdchiro",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#officeworker"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why the number of chiropractic sessions varies, recent versus long-standing pain, questions to ask at a first visit and signs worth rechecking.",
+  "story": {
+    "headline": "How many chiro visits?",
+    "body": "Ask about goals<br>and review points.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-18",
+  "created": "2026-12-18-4",
+  "status": "approved",
+  "review_warnings": []
+}

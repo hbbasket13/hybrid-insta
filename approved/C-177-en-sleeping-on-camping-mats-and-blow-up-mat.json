@@ -1,0 +1,128 @@
+{
+  "id": "C-177-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Sleeping on camping mats and blow-up mattresses",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Great camping trip.<br><em>Grumpy back.</em>",
+      "sub": "Air mattresses, thin mats and your spine",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Camp tips<br>coming up!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Toto fell asleep under<br>the stars. Woke up <em>flat</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why is my back<br>so stiff..?",
+      "bubble_type": "thought",
+      "note": "(the air mattress had quietly gone half-flat..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Back home, Toto drops<br>into <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey Toto! How<br>was camping?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Loved it! But every<br>morning, my back.."
+      },
+      "note": "Hybi starts with <mark>that sagging mattress</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Air mattress:<br><em>firm, then fine-tune</em>",
+      "fact": "Half-flat mattress: hips sink, back <em>twists all night</em>",
+      "left": {
+        "label": "Firm, then tuned",
+        "char": "rabbit_happy",
+        "caption": "Firm first, a little air out:<br><b>better support</b>"
+      },
+      "right": {
+        "label": "Half-flat",
+        "char": "rabbit_tired",
+        "caption": "Hips sink, back twists<br><em>for hours</em>"
+      },
+      "quip": "Lie on it for a minute,<br>then adjust!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>camp-bed checklist</b>",
+      "sub": "Sort it before you sleep!",
+      "sections": [
+        {
+          "heading": "1. Set up the bed, then move",
+          "color": "yellow",
+          "lines": [
+            "① Inflate <em>firmly</em>, lie down, let a bit out.",
+            "② A <em>towel or yoga mat</em> under hips and shoulders.",
+            "③ Rolled jumper <em>under knees</em> (or between).",
+            "④ <em>10 knee rocks</em> + a lap before packing up."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em>, or you notice",
+            "<em>numbness or weakness</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Home again and<br><em>still stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Pins and needles",
+        "Leg weakness"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Toto fell asleep under the stars and woke on a half-flat air mattress. Familiar? ⛺\n\nThin mats and sagging blow-up beds let your hips sink and your back twist for hours, so a stiff morning is common. It usually settles once you start moving.\n\nCamp-friendly tweaks: inflate firmly, lie on it for a minute, then let a little air out. Layer a towel or yoga mat under your hips. Pop a rolled jumper under your knees, or between them if you sleep on your side. Do 10 knee rocks and a slow lap of the campsite before lifting tents and eskies.\n\nPain spreading down a leg, pins and needles or weakness is worth getting assessed. Our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#sydneychiro",
+    "#camping",
+    "#backpain",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#summerholidays",
+    "#australiancamping",
+    "#chiropractic",
+    "#lowerbackpain"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit on why camping mats and air mattresses can leave your back stiff, how to set up your bed, a morning routine and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff after camping?",
+    "body": "Inflate firm, let a bit out,<br>then 10 knee rocks.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-21",
+  "created": "2026-12-21-6",
+  "status": "approved",
+  "review_warnings": []
+}

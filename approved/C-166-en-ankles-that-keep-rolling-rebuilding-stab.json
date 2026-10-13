@@ -1,0 +1,128 @@
+{
+  "id": "C-166-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Ankles that keep rolling: rebuilding stability",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Rolled <em>the same ankle</em><br>again?",
+      "sub": "Balance is trainable. Here's where to start.",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Let's rebuild<br>that ankle!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Third roll this year,<br><em>same ankle</em> every time.",
+      "char": "rabbit_tired",
+      "bubble": "It stopped hurting,<br>so it's fine..<br>right?",
+      "bubble_type": "thought",
+      "note": "(every uneven footpath feels a bit risky now..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! That ankle<br>again?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep.. it doesn't hurt,<br>so why does it roll?"
+      },
+      "note": "Hybi explained <mark>pain gone isn't rehab done</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "No pain doesn't mean<br><em>rehab is done</em>!",
+      "fact": "After a sprain, ankles can lose <em>strength and position sense</em>",
+      "left": {
+        "label": "Full rehab",
+        "char": "rabbit_happy",
+        "caption": "Balance and strength<br><b>built back up</b>"
+      },
+      "right": {
+        "label": "Stopped early",
+        "char": "rabbit_tired",
+        "caption": "Slower reactions,<br><em>rolls again</em>"
+      },
+      "quip": "Balance while you<br>brush your teeth!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute ankle builder</b>",
+      "sub": "Do it at the bathroom sink!",
+      "sections": [
+        {
+          "heading": "1. Balance, then strength",
+          "color": "yellow",
+          "lines": [
+            "① Stand on one leg for <em>30 sec</em>, each side.",
+            "② Easier? Eyes closed, or on a cushion.",
+            "③ Single-leg calf raises, <em>10 × 2</em>, most days.",
+            "④ Solid? Add small hops and side-to-sides."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "You <em>can't take weight</em> on it, or the",
+            "bone is <em>tender to press</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Ankle <em>keeps giving way</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Trouble taking weight",
+        "Tender bony spots",
+        "Swelling that won't settle"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Rolled the same ankle again? Toto has, and it's a really common pattern.\n\nAfter a sprain, the ankle can lose some strength and some of its sense of where it is. If rehab stops as soon as the pain fades, it may not react as quickly on an uneven path or an awkward landing.\n\nThe good news: balance and strength are trainable. Start with 30 seconds on one leg while brushing your teeth, add single-leg calf raises and band work, then build to small hops and side-to-side drills over several weeks. Handy before summer beach runs.\n\nTrouble taking weight, bony tenderness or frequent giving way are worth getting checked. Our Sydney CBD and Chatswood physios can build a stability program for you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#anklesprain",
+    "#anklerehab",
+    "#balancetraining",
+    "#sportsphysio",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#running"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why ankles keep rolling after a sprain, why rehab continues after pain settles, a 1-minute balance routine and signs worth getting checked.",
+  "story": {
+    "headline": "Same ankle, rolled again?",
+    "body": "30 seconds on one leg<br>while you brush.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-17",
+  "created": "2026-12-17-4",
+  "status": "approved",
+  "review_warnings": []
+}

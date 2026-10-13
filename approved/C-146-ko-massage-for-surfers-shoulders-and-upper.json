@@ -1,0 +1,128 @@
+{
+  "id": "C-146-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for surfers' shoulders and upper back",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "파도 좋은 한 주,<br>등은 <em>뻐근뻐근</em>",
+      "sub": "서퍼의 어깨와 등, 리메디얼 마사지 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "회복도<br>훈련이에요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "본다이에서 일주일 내내<br><em>패들링</em>한 토토.",
+      "char": "rabbit_tired",
+      "bubble": "어깨 사이가<br>돌덩이 같아..",
+      "bubble_type": "thought",
+      "note": "(목 돌리기도 살짝 뻑뻑하다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비를 만난 토토.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>파도 많이 탔어요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "마사지 받으면<br>운동은 안 해도<br>되나요?"
+      },
+      "note": "하비는 <mark>마사지와 운동의 역할</mark>을 나눠 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는 <em>운동과 함께</em><br>할 때 좋아요!",
+      "fact": "패들링은 광배근·승모근·회전근개를 <em>계속</em> 써요",
+      "left": {
+        "label": "마사지+근력",
+        "char": "rabbit_happy",
+        "caption": "마사지와 근력 운동을<br><b>같이</b> 해요"
+      },
+      "right": {
+        "label": "마사지만",
+        "char": "rabbit_tired",
+        "caption": "근력 없이는<br>패들링이 <em>버거워요</em>"
+      },
+      "quip": "마사지는 근력 운동을<br>대신하지 않아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 패들 어깨 운동</b>",
+      "sub": "물 밖에서 주 2~3번!",
+      "sections": [
+        {
+          "heading": "1. 밴드 바깥 돌리기",
+          "color": "yellow",
+          "lines": [
+            "① 밴드를 문고리에 걸어요.",
+            "② 팔꿈치 90도, 바깥으로 <em>천천히</em> 돌려요.",
+            "③ <em>12회 × 2세트</em>, 주 2~3번.",
+            "④ 마사지는 <em>서핑 없는 날</em>이 좋아요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "팔 들 때 <em>힘이 빠지거나</em>",
+            "팔로 저림이 내려가면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "뭉친 것 <em>이상이라면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 물리치료사·GP 먼저",
+      "items": [
+        "팔 들 때 힘이 빠진다",
+        "아프게 딸깍거린다",
+        "팔로 내려가는 저림"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "파도 좋은 한 주를 보낸 토토, 어깨 사이가 돌덩이 같아요. 패들링은 광배근, 승모근, 회전근개, 날개뼈 사이 근육을 계속 써서 등과 목이 뻐근해지기 쉬워요.\n\n리메디얼 마사지는 뭉친 부위를 편하게 하고 움직임을 수월하게 하는 데 도움이 될 수 있어요. 서핑 없는 날이 좋아요. 다만 마사지는 근력 운동을 대신하지 않아요. 밴드 돌리기, 로우 같은 운동을 주 2~3번 함께 해요.\n\n팔 힘 빠짐이나 저림이 있다면 물리치료사나 GP 확인이 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#서핑",
+    "#어깨뭉침",
+    "#등통증",
+    "#서퍼",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#surfing",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 서핑 후 어깨와 등이 뻐근한 이유, 마사지와 근력 운동을 함께하는 이유, 1분 밴드 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "패들링 후 등이 뻐근하다면",
+    "body": "마사지 + 밴드 운동 12회,<br>주 2~3번!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-09",
+  "created": "2026-12-09-5",
+  "status": "approved",
+  "review_warnings": []
+}

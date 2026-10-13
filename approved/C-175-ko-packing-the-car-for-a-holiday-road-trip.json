@@ -1,0 +1,128 @@
+{
+  "id": "C-175-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Packing the car for a holiday road trip",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "출발 전 트렁크 싣기,<br>여기서 <em>허리가 삐끗</em>?",
+      "sub": "연말 로드트립, 짐 싣는 요령",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "싣는 순서부터<br>바꿔볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "지난 연휴 로드트립 아침,<br>트렁크 깊숙이 <em>팔 쭉</em>.",
+      "char": "kanga_tired",
+      "bubble": "출발도 안 했는데<br>허리가..?",
+      "bubble_type": "thought",
+      "note": "(제일 큰 가방을 마지막에 밀어 넣다가..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "올해는 출발 전에<br><b>하이브리드 피지오</b>로!",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>여행 가요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네! 작년처럼<br>삐끗할까 봐요."
+      },
+      "note": "하비는 <mark>싣는 순서</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "깊숙이 뻗지 말고<br><em>걸쳤다가 밀어요</em>",
+      "fact": "가방을 <em>팔 뻗은 채</em> 트렁크 깊이 넣으면 허리가 힘들어요",
+      "left": {
+        "label": "걸치고 밀기",
+        "char": "kanga_happy",
+        "caption": "범퍼에 먼저 올리고<br><b>밀어 넣어요</b>"
+      },
+      "right": {
+        "label": "팔 쭉 뻗기",
+        "char": "kanga_tired",
+        "caption": "멀리 든 채<br><em>몸을 깊이 숙여요</em>"
+      },
+      "quip": "무거운 가방이<br>제일 먼저예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 트렁크 싣기</b>",
+      "sub": "출발 전에 이 순서로!",
+      "sections": [
+        {
+          "heading": "1. 짐 싣는 순서",
+          "color": "yellow",
+          "lines": [
+            "① <em>무거운 가방 먼저</em>, 뒷좌석 쪽 안쪽에.",
+            "② 범퍼에 <em>먼저 걸치고</em> 밀어 넣어요.",
+            "③ 큰 가방 하나보다 <em>중간 가방 여러 개</em>.",
+            "④ 운전석: 무릎 살짝 굽혀지게, 등은 기대기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "다리 <em>저림·힘 빠짐</em>이 있거나",
+            "며칠 지나도 안 풀리면 상담받기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "짐 싣고 나서<br><em>허리가 계속 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호라면 확인받기",
+      "items": [
+        "다리로 퍼지는 통증",
+        "다리 저림·힘 빠짐",
+        "며칠째 나아지지 않음"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "연말 로드트립, 출발도 하기 전에 트렁크 앞에서 허리가 삐끗할 수 있어요 🚗\n\n무거운 가방을 팔 뻗은 채 트렁크 깊숙이 넣는 동작은 허리에 부담이 커요. 그래서 순서가 중요해요.\n\n무거운 가방은 맨 먼저, 뒷좌석 쪽 안쪽에. 범퍼에 먼저 걸쳤다가 밀어 넣고, 큰 가방 하나보다 중간 가방 여러 개가 다루기 쉬워요. 출발 전 운전석도 무릎이 살짝 굽혀지게, 등은 등받이에 기대게 맞춰요.\n\n통증이 다리로 퍼지거나, 저림·힘 빠짐이 있거나, 며칠 지나도 안 풀리면 평가받아요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니카이로프랙틱",
+    "#카이로프랙틱",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#허리통증",
+    "#로드트립",
+    "#연말휴가",
+    "#chiropractor",
+    "#roadtrip",
+    "#backpain",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 캥거루 루루가 등장하는 7장짜리 만화 카드뉴스: 트렁크에 짐 싣다 허리가 삐끗하는 이유, 범퍼에 걸쳤다 밀기, 1분 트렁크 싣기 순서, 확인이 필요한 신호.",
+  "story": {
+    "headline": "로드트립 짐 싣는 중?",
+    "body": "무거운 가방 먼저,<br>범퍼에 걸치고 밀기!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-21",
+  "created": "2026-12-21-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-147-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Easing back into Pilates after a back flare-up",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Back settling down..<br>is it <em>reformer time</em>?",
+      "sub": "Easing back into Pilates after a flare-up",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's ease<br>back in!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo stands by the<br>reformer, <em>hesitating</em>.",
+      "char": "cat_tired",
+      "bubble": "What if my back<br>flares up again..?",
+      "bubble_type": "thought",
+      "note": "(last week it grabbed and she had to stop..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Back at the <b>Hybrid Physio</b><br>Pilates studio.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Welcome back, Momo!<br>How's the back?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Walking and sleeping<br>are okay again.."
+      },
+      "note": "Hybi planned <mark>a gentle way back</mark> with Momo."
+    },
+    {
+      "kind": "compare",
+      "title": "You don't need<br><em>zero pain</em> to start!",
+      "fact": "The <em>24-hour check</em>: same or better next day = on track",
+      "left": {
+        "label": "Lighter, shorter",
+        "char": "cat_happy",
+        "caption": "Lighter springs,<br><b>smaller ranges</b>"
+      },
+      "right": {
+        "label": "Straight back in",
+        "char": "cat_tired",
+        "caption": "Old intensity right away<br>can <em>stir it up</em>"
+      },
+      "quip": "Aim to finish feeling<br>the same or better!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>return-to-reformer plan</b>",
+      "sub": "Check this before class!",
+      "sections": [
+        {
+          "heading": "1. How to ease back",
+          "color": "yellow",
+          "lines": [
+            "① Tell your instructor <em>what happened</em>.",
+            "② <em>Shorter session</em>, lighter springs.",
+            "③ Leave curls and deep twists for later.",
+            "④ Use the <em>24-hour check</em> to adjust load."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Numbness or weakness</em> spreads down",
+            "a leg — stop and get it checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Before the reformer,<br><em>check in</em> if..",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See a doctor first if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Pain that keeps climbing",
+        "Bladder or bowel changes"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Hybi's waiting for you<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "A back flare-up doesn't have to mean giving up Pilates. It usually means changing how you do it for a little while.\n\nOnce the worst has settled and you can walk, sit and sleep reasonably, gentle movement often helps. Start with shorter sessions, lighter springs and smaller ranges, and use a simple rule: if your back feels the same or better within 24 hours, you're on track. Let your instructor know what happened.\n\nLeg numbness or weakness, pain that keeps climbing, or bladder or bowel changes need medical attention first. At Hybrid Physio, our Pilates team works alongside our physios, so your program can change as your back does. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#backpain",
+    "#lowerbackpain",
+    "#returntoexercise",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat showing how to ease back into Pilates after a back flare-up, the 24-hour check, a return plan and signs worth getting checked.",
+  "story": {
+    "headline": "Back into Pilates after a flare?",
+    "body": "Shorter, lighter,<br>then the 24-hour check.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-09",
+  "created": "2026-12-09-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-149-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Bunions: shoes, exercises and realistic expectations",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "That bump by your big toe:<br><em>what can change?</em>",
+      "sub": "Honest bunion talk with Hybi and Koko",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "I'll give you<br>the honest version!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "New shoes, and Koko's<br>feet <em>ache by lunch</em>.",
+      "char": "koala_tired",
+      "bubble": "If I do exercises,<br>will my toe go<br>straight again..?",
+      "bubble_type": "thought",
+      "note": "(the morning walk feels harder lately..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko met Hybi<br>in <b>Chatswood</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hello Koko!<br>Feet giving you grief?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Can exercises push<br>the bump back in?"
+      },
+      "note": "Hybi started with some <mark>honest expectations</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The goal: <em>less pain,</em><br><em>less pressure</em>",
+      "fact": "Genes and foot shape matter, so the <em>angle rarely changes</em>",
+      "left": {
+        "label": "Wide toe box",
+        "char": "koala_happy",
+        "caption": "Room for the toes,<br>bump <b>under less pressure</b>"
+      },
+      "right": {
+        "label": "Narrow shoe",
+        "char": "koala_tired",
+        "caption": "Tight toes, higher heel,<br><em>more pressure</em>"
+      },
+      "quip": "The right shoe can make<br>walking much comfier!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute toe routine</b>",
+      "sub": "Do it on the couch!",
+      "sections": [
+        {
+          "heading": "1. Wake up the small foot muscles",
+          "color": "yellow",
+          "lines": [
+            "① <em>Spread your toes</em> wide, hold 5 sec × 10.",
+            "② Lift <em>just the big toe</em>, others stay down.",
+            "③ Gently <em>dome the arch</em>, then relax.",
+            "④ Most days. Buy shoes <em>later in the day</em>."
+          ]
+        },
+        {
+          "heading": "2. Get it checked promptly if…",
+          "color": "purple",
+          "lines": [
+            "The joint is <em>red, hot or swelling fast</em>,",
+            "or your toes go <em>numb</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Bunion <em>slowing you down</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A red, hot joint",
+        "Pain that stops you walking",
+        "A sore spot over the bump"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Koko's new shoes are making the bump by her big toe ache.\n\nA bunion is a change in the angle of the big toe joint, and genetics and foot shape play a big part. Exercises and shoes usually won't straighten the toe, but they can ease pain, reduce pressure on the bump and keep you walking comfortably.\n\nStart with a wide, deep toe box and a few minutes of toe spreading and big-toe lifts most days.\n\nA red, hot or quickly swelling joint, numb toes or a sore over the bump are worth checking promptly, especially if you have diabetes. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#bunions",
+    "#bunion",
+    "#footpain",
+    "#foothealth",
+    "#footwear",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on what can realistically change with a bunion, a shoe comparison, a 1-minute toe routine and signs worth getting checked.",
+  "story": {
+    "headline": "Bunion giving you grief?",
+    "body": "Wide toe box, plus a few<br>minutes of toe spreading.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-10",
+  "created": "2026-12-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-164-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for men: more than stretching",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Pilates? Isn't that<br><em>just stretching</em>?",
+      "sub": "Strength training on springs, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Wanna give<br>it a go?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Gym five days a week.<br>Pilates? <em>Nah..</em>",
+      "char": "kanga_tired",
+      "bubble": "Isn't that<br>just stretching..?",
+      "bubble_type": "thought",
+      "note": "(big squats, but still stiff as a board..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "A mate dragged Lulu to<br><b>Hybrid Physio</b>. Hybi was there.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Curious<br>about Pilates?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Honestly.. is it<br>a real workout?"
+      },
+      "note": "Hybi pulled out <mark>the reformer springs</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Springs are<br><em>real resistance</em>!",
+      "fact": "Reformer springs load muscles as they <em>lengthen and shorten</em>",
+      "left": {
+        "label": "Slow, controlled",
+        "char": "kanga_happy",
+        "caption": "Full range, slowly:<br><b>harder than it looks</b>"
+      },
+      "right": {
+        "label": "Rushed reps",
+        "char": "kanga_tired",
+        "caption": "Momentum does<br><em>the work for you</em>"
+      },
+      "quip": "No need to touch<br>your toes to start!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute control test</b>",
+      "sub": "Try it on the floor at home!",
+      "sections": [
+        {
+          "heading": "1. Single-leg bridge",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, knees bent, one leg out.",
+            "② Lift your hips <em>slowly</em>, pelvis level.",
+            "③ <em>3 sec up, 3 sec down</em> × 8 each side.",
+            "④ Hips tilting? That's the control to build."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "<em>Sharp pain</em> in your back or hip,",
+            "or a niggle that keeps <em>building</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Training around<br>a <em>niggle</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get assessed first if you notice",
+      "items": [
+        "Pain that lingers after",
+        "One side always grumbles",
+        "No change after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Try the springs with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Think Pilates is just stretching? Lulu did too, until the first session on the reformer.\n\nClinical Pilates is resistance training on springs. The springs load muscles as they lengthen and shorten, and the slow, controlled pace is often tougher than it looks. It can also cover what heavy lifting skips: rotation, single-leg control and strength at end range.\n\nIt's a practical option when a back, hip or shoulder niggle makes the gym awkward, because load can be adjusted spring by spring. And you don't need to touch your toes to start.\n\nOur Pilates team at Hybrid Physio starts with an assessment and builds a program around your goals. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#menspilates",
+    "#strengthtraining",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#cbdpilates",
+    "#gymlife",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#corestrength"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why clinical Pilates is more than stretching, how springs add resistance, a single-leg bridge test and when to get assessed first.",
+  "story": {
+    "headline": "Pilates is not just stretching",
+    "body": "Single-leg bridge:<br>3 sec up, 3 sec down.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-16",
+  "created": "2026-12-16-2",
+  "status": "approved",
+  "review_warnings": []
+}

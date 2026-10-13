@@ -1,0 +1,128 @@
+{
+  "id": "C-181-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Staying active over the Christmas break",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Gym's closed.<br>Your body <em>isn't on leave</em>.",
+      "sub": "Five ways to keep moving over the break",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Swap it,<br>don't stop it!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Christmas break, and Toto's<br>routine has <em>gone walkabout</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Gym's shut..<br>maybe I'll just<br>rest till Jan?",
+      "bubble_type": "thought",
+      "note": "(the calendar is all long lunches..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Just before the break,<br>Toto visits <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Toto! Any plans<br>for the break?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "My routine's gone..<br>so, mostly resting?"
+      },
+      "note": "Hybi suggests keeping <mark>just one habit</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't stop.<br><em>Swap.</em>",
+      "fact": "Your body cares about <em>regular movement</em>, not where",
+      "left": {
+        "label": "Beach or pool",
+        "char": "rabbit_happy",
+        "caption": "New place, same habit:<br><b>you keep moving</b>"
+      },
+      "right": {
+        "label": "Two weeks off",
+        "char": "rabbit_tired",
+        "caption": "Nothing, then a big day:<br><em>often a sore one</em>"
+      },
+      "quip": "No gym? The beach<br>works just as well!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>holiday movement plan</b>",
+      "sub": "Pick even one!",
+      "sections": [
+        {
+          "heading": "1. Keep it simple",
+          "color": "yellow",
+          "lines": [
+            "① <em>One anchor habit</em>: a walk or 10 min of moves.",
+            "② Long drives and lunches: <em>up every 30–60 min</em>.",
+            "③ Beach cricket or a hike? <em>Start shorter</em>.",
+            "④ Hot day? Move <em>early or late</em>, water and hat."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>dizzy or unwell</em> — stop and rest.",
+            "Pain keeps <em>building</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "A holiday niggle<br><em>hanging around</em>?",
+      "bubble": "Causes differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain that keeps building",
+        "Swelling or warmth",
+        "No change after 1–2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Plan your new year with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "The Christmas break shakes up every routine. Your body still likes to move. ☀️\n\nYou don't need a perfect holiday program. One anchor habit, like a morning walk or ten minutes of exercises, goes a long way when every day looks different.\n\nGym closed? Swap rather than stop: a beach walk, swim or bike ride all count. Get up every 30 to 60 minutes on long drives and lunches, start new activities like beach cricket or a hike with a shorter version, and move early or late on hot days with plenty of water.\n\nIf a niggle keeps building, or you want a plan for the new year, our team at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#stayactive",
+    "#christmasbreak",
+    "#summerinsydney",
+    "#movemore",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#healthyhabits",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit on staying active over the Christmas break, swapping instead of stopping, a simple holiday movement plan and signs worth getting checked.",
+  "story": {
+    "headline": "Keep one habit this break",
+    "body": "A daily walk counts.<br>Swap it, don't stop it.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-23",
+  "created": "2026-12-23-4",
+  "status": "approved",
+  "review_warnings": []
+}

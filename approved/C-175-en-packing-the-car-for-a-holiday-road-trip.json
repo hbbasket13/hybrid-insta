@@ -1,0 +1,128 @@
+{
+  "id": "C-175-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Packing the car for a holiday road trip",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Road trip day.<br>The <em>boot</em> strikes first.",
+      "sub": "Car-packing habits that are kinder to your back",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Let's change the<br>packing order!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Last holiday's road trip,<br>reaching <em>deep into the boot</em>.",
+      "char": "kanga_tired",
+      "bubble": "We haven't even<br>left yet..?",
+      "bubble_type": "thought",
+      "note": "(the biggest bag went in last, at arm's length..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "This year, Lulu saw<br>Hybi at <b>Hybrid Physio</b> first.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Holiday<br>coming up?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yep! Don't want<br>a repeat of last year."
+      },
+      "note": "Hybi started with <mark>the packing order</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Rest it, then <em>slide it</em>.<br>Don't reach.",
+      "fact": "A bag held at <em>arm's length</em> over the boot is hard on backs",
+      "left": {
+        "label": "Rest and slide",
+        "char": "kanga_happy",
+        "caption": "On the bumper first,<br><b>then slide in</b>"
+      },
+      "right": {
+        "label": "Long reach",
+        "char": "kanga_tired",
+        "caption": "Arms out,<br><em>bending deep</em>"
+      },
+      "quip": "Heaviest bags<br>go in first!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute boot plan</b>",
+      "sub": "Pack in this order!",
+      "sections": [
+        {
+          "heading": "1. Load it smarter",
+          "color": "yellow",
+          "lines": [
+            "① <em>Heaviest bags first</em>, close to the seats.",
+            "② Rest each bag on the <em>bumper</em>, then slide.",
+            "③ A few medium bags beat <em>one giant one</em>.",
+            "④ Seat: knees slightly bent, back supported."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "Leg <em>numbness or weakness</em>, or pain",
+            "that isn't <em>easing after a few days</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back <em>sore</em> after<br>packing up?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Numbness or weakness",
+        "Not easing after days"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Holiday road trip? Sometimes the boot gets your back before the highway does 🚗\n\nLeaning deep into the boot with a heavy bag at arm's length is a classic back tweak, so the packing order matters.\n\nLoad the heaviest bags first, close to the back seats, so you're not reaching over them later. Rest each bag on the bumper edge, then slide it in rather than swinging it. Several medium bags beat one enormous one. Before you go, set your seat so your knees are slightly bent and your back is supported.\n\nPain that spreads down a leg, comes with numbness or weakness, or isn't easing after a few days is worth assessing. Our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#backpain",
+    "#roadtrip",
+    "#holidayseason",
+    "#summerholidays",
+    "#lifting",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo showing how to pack the car for a holiday road trip, resting bags on the bumper before sliding them in, a 1-minute boot plan and signs worth getting checked.",
+  "story": {
+    "headline": "Packing the car?",
+    "body": "Heavy bags first,<br>rest on the bumper, slide.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-21",
+  "created": "2026-12-21-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-155-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Commuting with a heavy backpack in the CBD",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Laptop, charger, lunch,<br><em>and gym shoes</em>",
+      "sub": "Mr Turtle's backpack makeover",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "Mind if we<br>unpack this?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Town Hall to the office,<br><em>one strap</em>, one shoulder.",
+      "char": "turtle_sad",
+      "bubble": "I've only just<br>got to work.. why<br>are my shoulders sore?",
+      "bubble_type": "thought",
+      "note": "(the right shoulder keeps sinking lower..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "At lunch,<br>Mr Turtle met <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! That bag<br>looks heavy!"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Should I stop<br>carrying a bag?"
+      },
+      "note": "Hybi said <mark>how you carry it</mark> matters more than the bag."
+    },
+    {
+      "kind": "compare",
+      "title": "The bag isn't the enemy.<br><em>How</em> you carry it is",
+      "fact": "Bodies adapt. Trouble: <em>heavy, one-sided and long</em>",
+      "left": {
+        "label": "Both straps",
+        "char": "turtle_happy",
+        "caption": "Snug to your back,<br><b>load shared evenly</b>"
+      },
+      "right": {
+        "label": "One shoulder",
+        "char": "turtle_sad",
+        "caption": "All the weight on<br><em>one side</em>"
+      },
+      "quip": "One extra strap can<br>make a difference!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>commute bag reset</b>",
+      "sub": "Start tomorrow morning!",
+      "sections": [
+        {
+          "heading": "1. Lighter and closer",
+          "color": "yellow",
+          "lines": [
+            "① Both straps on, <em>snug</em> to your back.",
+            "② Leave the charger and spare shoes <em>at work</em>.",
+            "③ Pack the heaviest items <em>closest to your back</em>.",
+            "④ Rows and farmer's carries, <em>2–3 times a week</em>."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Pins and needles or <em>weakness</em> in an arm or leg,",
+            "or pain <em>keeps building</em> with a lighter bag."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Commute <em>still</em><br>leaving you sore?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pins and needles",
+        "Weakness in a hand or leg",
+        "Worse with a lighter bag"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Laptop, charger, lunch, gym gear, spare shoes. Sound like your backpack?\n\nCarrying a bag is normal, and your body can adapt to it. Trouble tends to start when it's very heavy, worn over one shoulder, or carried a long way every day.\n\nUse both straps, keep the bag snug against your back, pack heavy items closest to you and leave what you can at work. Rows and farmer's carries two or three times a week help your body handle the load.\n\nPain spreading down an arm or leg, pins and needles or weakness is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🎒\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpack",
+    "#commute",
+    "#backpain",
+    "#shoulderpain",
+    "#upperback",
+    "#officeworker",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on carrying a heavy backpack on the CBD commute, both straps versus one shoulder, a bag reset routine and signs worth checking.",
+  "story": {
+    "headline": "Backpack feeling heavy?",
+    "body": "Both straps, snug to your back.<br>Spare shoes stay at work.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-12",
+  "created": "2026-12-12-2",
+  "status": "approved",
+  "review_warnings": []
+}

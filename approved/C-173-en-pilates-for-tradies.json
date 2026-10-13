@@ -1,0 +1,128 @@
+{
+  "id": "C-173-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for tradies",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Tradie? Your body is<br><em>the main tool</em>.",
+      "sub": "How clinical Pilates builds strength for site work",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's look after<br>that tool!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Kneel, twist, lift.<br><em>Same moves</em> all day.",
+      "char": "kanga_tired",
+      "bubble": "Why's my back<br>cooked by<br>Friday..?",
+      "bubble_type": "thought",
+      "note": "(half-squatting under a sink, again..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On the way home, Lulu<br>dropped into <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Long<br>week on site?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "I hit the gym too..<br>so why this?"
+      },
+      "note": "Hybi talked about <mark>strength in awkward positions</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Gym is neat.<br>Site work is <em>awkward</em>.",
+      "fact": "Site work means lifting <em>twisted</em> and holding half squats",
+      "left": {
+        "label": "Pilates",
+        "char": "kanga_happy",
+        "caption": "Control through<br><b>odd angles</b>"
+      },
+      "right": {
+        "label": "Machines only",
+        "char": "kanga_tired",
+        "caption": "Neat moves only,<br><em>site angles missed</em>"
+      },
+      "quip": "Hips and mid-back<br>can share the load!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>5-minute pre-site routine</b>",
+      "sub": "No gear, before you head off!",
+      "sections": [
+        {
+          "heading": "1. On the floor",
+          "color": "yellow",
+          "lines": [
+            "① Slow bridges, <em>10 reps</em>.",
+            "② Side-lying leg lifts, <em>10 each side</em>.",
+            "③ Open books for the mid-back, 8 each side.",
+            "④ 1–2 Pilates sessions a week + 10 min daily."
+          ]
+        },
+        {
+          "heading": "2. Get assessed first if…",
+          "color": "purple",
+          "lines": [
+            "Leg <em>numbness or weakness</em>, or pain",
+            "after <em>a fall from a ladder</em> or height."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "A niggle that keeps<br><em>building</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Pain after a fall",
+        "Pain building each week"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Kneeling, lifting, reaching overhead and twisting in tight spaces. For a tradie like Lulu, your body is the main tool.\n\nMost niggles come from repeating the same thing without enough capacity for it. Gym machines train neat, stable movements; Pilates trains control through odd angles, like lifting from a twist or holding a half squat under a sink. When the hips and mid-back move well, the lower back does less of the twisting.\n\nBefore site: ten slow bridges, ten side-lying leg lifts each side and a few open books. One or two Pilates sessions a week is a realistic start.\n\nLeg numbness or weakness, or pain after a fall, is worth assessing first. Our Pilates team at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#tradie",
+    "#tradielife",
+    "#tradies",
+    "#backpain",
+    "#sydneytradie",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#corestrength"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why site work tires tradies' bodies, strength in awkward positions, a 5-minute pre-site routine and signs worth getting assessed.",
+  "story": {
+    "headline": "Tradie back feeling the week?",
+    "body": "Ten bridges, ten leg lifts<br>before site.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-19",
+  "created": "2026-12-19-2",
+  "status": "approved",
+  "review_warnings": []
+}

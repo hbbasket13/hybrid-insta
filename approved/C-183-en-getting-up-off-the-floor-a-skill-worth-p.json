@@ -1,0 +1,128 @@
+{
+  "id": "C-183-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Getting up off the floor: a skill worth practising",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Getting up off the floor<br>is a <em>skill you can practise</em>",
+      "sub": "Picnic season's here. Let's get ready.",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Step by step,<br>together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Summer picnic. Koko is<br><em>stuck on the rug</em>.",
+      "char": "koala_tired",
+      "bubble": "Where do I even<br>push from..?",
+      "bubble_type": "thought",
+      "note": "(the grandkids have already raced off..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "The week after, Koko<br>visits <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Koko, shall we<br>practise getting up?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Can you really<br>practise that..?"
+      },
+      "note": "Hybi starts by <mark>breaking it into steps</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Skip the big heave.<br><em>Go step by step.</em>",
+      "fact": "Floor transfers combine <em>strength, balance and confidence</em>",
+      "left": {
+        "label": "Step by step",
+        "char": "koala_happy",
+        "caption": "Side, hands and knees,<br>half kneel, <b>then up</b>"
+      },
+      "right": {
+        "label": "One big heave",
+        "char": "koala_tired",
+        "caption": "All the effort at once<br><em>can feel wobbly</em>"
+      },
+      "quip": "Using a chair to start<br>is totally fine!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>floor-to-stand practice</b>",
+      "sub": "Start next to a chair or couch",
+      "sections": [
+        {
+          "heading": "1. Four steps up",
+          "color": "yellow",
+          "lines": [
+            "① From lying, <em>roll onto your side</em>.",
+            "② Push up onto <em>hands and knees</em>.",
+            "③ One foot forward: <em>half kneel</em>, hand on chair.",
+            "④ Push up. <em>Lead with each leg, 3–5 times</em> a day."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>dizzy</em> when you stand, or",
+            "knee or hip pain <em>stops you practising</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Finding it<br><em>hard going</em>?",
+      "bubble": "Bodies differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "You've had a recent fall",
+        "Dizziness when standing",
+        "Knee, hip or back pain"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Practise with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Can you get down on the floor and back up again without a second thought?\n\nIt sounds simple, but it's a skill that combines strength, balance and confidence. Summer picnics, playing with the grandkids and floor stretches all rely on it, and practising it can make a slip less worrying.\n\nStart in steps next to a chair: roll to your side, push onto hands and knees, come into a half kneel, then push up. Lead with each leg, 3 to 5 times a day. Sit-to-stands from a chair build the strength behind it.\n\nA recent fall or dizziness on standing is worth getting checked. Our Chatswood and Sydney CBD physios can tailor it to you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#fallsprevention",
+    "#balance",
+    "#healthyageing",
+    "#strengthtraining",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#seniorfitness"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on why getting up off the floor is a skill worth practising, a four-step floor-to-stand routine and signs worth getting checked.",
+  "story": {
+    "headline": "Floor to standing, easily?",
+    "body": "Side, hands and knees,<br>half kneel, up. 3–5 a day.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-23",
+  "created": "2026-12-23-6",
+  "status": "approved",
+  "review_warnings": []
+}

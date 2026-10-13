@@ -1,0 +1,128 @@
+{
+  "id": "C-140-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for neck and shoulder tension",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "오후 3시, 어깨가<br><em>귀에 붙었다</em>",
+      "sub": "목·어깨 긴장, 필라테스 방식으로 풀기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "숨부터 바꿔<br>볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마감 앞둔 거북씨,<br>어깨가 <em>점점 위로</em>.",
+      "char": "turtle_monitor",
+      "bubble": "스트레칭해도<br>금방 다시<br>뭉치네..",
+      "bubble_type": "thought",
+      "note": "(숨도 가슴으로만 짧게 쉬고 있다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "퇴근길 <b>하이브리드 피지오</b><br>필라테스 스튜디오에서.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "어서 와요!<br>어깨가 많이 올라갔네요."
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "스트레칭만으론<br>오래 안 가요.."
+      },
+      "note": "하비는 거북씨의 <mark>숨 쉬는 모습</mark>부터 지켜봤다."
+    },
+    {
+      "kind": "compare",
+      "title": "뭉친 근육은<br><em>지친 근육</em>일 때가 많아요!",
+      "fact": "뭉침은 짧아서보다 <em>오래 일해서</em>일 때가 많아요",
+      "left": {
+        "label": "갈비뼈 호흡",
+        "char": "turtle_happy",
+        "caption": "숨을 낮게 쉬면<br>어깨가 <b>내려가요</b>"
+      },
+      "right": {
+        "label": "가슴으로 숨",
+        "char": "turtle_sad",
+        "caption": "위로만 쉬면<br>목이 <em>더 일해요</em>"
+      },
+      "quip": "등이 힘을 나눠 지면<br>목이 덜 바빠요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 어깨 내리기</b>",
+      "sub": "책상에 앉은 채로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 아래 갈비뼈 호흡",
+          "color": "yellow",
+          "lines": [
+            "① 양손을 아래 갈비뼈 옆에 대요.",
+            "② 손을 <em>옆으로 밀어내듯</em> 들이쉬어요.",
+            "③ 내쉴 때 어깨를 <em>툭</em> 내려요.",
+            "④ <em>5번</em>, 하루 3번 정도."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "어지럽거나 <em>팔이 저리면</em>",
+            "멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>시작 전 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 먼저 확인받기",
+      "items": [
+        "팔 저림이나 힘 빠짐",
+        "점점 심해지는 두통",
+        "어지러움, 사고 뒤 통증"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "오후만 되면 어깨가 귀까지 올라가는 거북씨. 목·어깨 근육이 뭉친 느낌은 짧아서라기보다 오래 일해서일 때가 많아요. 그래서 스트레칭만으론 효과가 금방 사라지기도 해요.\n\n필라테스는 다른 각도로 접근해요. 아래 갈비뼈로 천천히 숨 쉬기, 등 근육 강화로 목의 부담 나누기, 굳은 등 가운데 부드럽게 움직이기.\n\n팔 저림, 심해지는 두통, 어지러움이 있다면 시작 전에 확인받아요. 하이브리드 피지오 필라테스 팀이 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#재활필라테스",
+    "#목어깨통증",
+    "#어깨뭉침",
+    "#직장인건강",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#clinicalpilates",
+    "#pilates",
+    "#necktension"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 목·어깨가 뭉치는 이유, 가슴 호흡과 갈비뼈 호흡 비교, 1분 어깨 내리기 호흡, 확인이 필요한 신호.",
+  "story": {
+    "headline": "어깨가 귀까지 올라갔다면?",
+    "body": "아래 갈비뼈로 숨 5번,<br>내쉬며 어깨 툭!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-07",
+  "created": "2026-12-07-5",
+  "status": "approved",
+  "review_warnings": []
+}

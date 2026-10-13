@@ -1,0 +1,128 @@
+{
+  "id": "C-152-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Why a sneeze can set off back pain",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "<em>Achoo!</em> And just like that,<br>the back locked up",
+      "sub": "What a sneeze has to do with your back",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Big fright?<br>Let's go slowly!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Hay fever morning.<br>One sneeze, then <em>ouch!</em>",
+      "char": "turtle_sad",
+      "bubble": "One sneeze..<br>how did that<br>wreck my back?",
+      "bubble_type": "thought",
+      "note": "(slumped at the desk, then 'ACHOO!')",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Walking very carefully<br>into <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Come in!<br>That was a shock, huh?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "A single sneeze<br>did all this.."
+      },
+      "note": "Hybi said the sneeze is often <mark>just the last straw</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The sneeze is usually<br>the <em>last straw</em>",
+      "fact": "A sneeze is a <em>fast, forceful</em> squeeze of your trunk muscles",
+      "left": {
+        "label": "Stand tall",
+        "char": "turtle_happy",
+        "caption": "Soft knees, a hand<br><b>on a bench or wall</b>"
+      },
+      "right": {
+        "label": "Bent and twisted",
+        "char": "turtle_sad",
+        "caption": "Slumped and turned,<br><em>sudden big load</em>"
+      },
+      "quip": "Long sitting or poor sleep<br>may have set it up!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>sneeze survival plan</b>",
+      "sub": "For now, and the next one!",
+      "sections": [
+        {
+          "heading": "1. The first few days",
+          "color": "yellow",
+          "lines": [
+            "① Keep <em>gently moving</em> within comfort.",
+            "② Short <em>5–10 min walks</em>, change position often.",
+            "③ Heat can ease muscle guarding.",
+            "④ Sneeze coming? <em>Stand tall, soft knees</em>."
+          ]
+        },
+        {
+          "heading": "2. Get medical help promptly if…",
+          "color": "purple",
+          "lines": [
+            "Leg numbness or weakness, saddle numbness,",
+            "or <em>bladder or bowel changes</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Not settling after<br><em>a few days</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get checked promptly if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Bladder or bowel changes",
+        "Fever or weight loss"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Hay fever season, one big sneeze, and suddenly Mr Turtle's back has locked up.\n\nA sneeze is a fast, forceful squeeze of your trunk muscles, often while you're slightly bent or twisted. If your back is already tired from long sitting, poor sleep or a busy week, that sudden load can set off a spasm.\n\nEarly on, gentle movement, short walks and heat often help, and most acute back pain settles over days to a few weeks. Next time, stand tall with soft knees and a hand on a wall.\n\nLeg numbness or weakness, saddle numbness or bladder changes need prompt medical attention. Our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#lowbackpain",
+    "#backspasm",
+    "#hayfever",
+    "#sneeze",
+    "#acutebackpain",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on why a sneeze can set off back pain, how to brace for the next one, what helps in the first few days and signs that need prompt care.",
+  "story": {
+    "headline": "Back locked after a sneeze?",
+    "body": "Stand tall, soft knees,<br>hand on a wall.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-11",
+  "created": "2026-12-11-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-143-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Rehab after knee replacement: what the first 12 weeks look like",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "New knee, <em>12 weeks</em>:<br>here's the roadmap",
+      "sub": "Rehab after a knee replacement, stage by stage",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Let's go stage<br>by stage!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Week two. Koko's<br>walking <em>with a stick</em>.",
+      "char": "koala_tired",
+      "bubble": "Why is it so<br>puffy and stiff<br>every evening..?",
+      "bubble_type": "thought",
+      "note": "(everyone else seems to recover faster..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko made a plan with<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>How's the new knee?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "When can I walk<br>without the stick?"
+      },
+      "note": "Hybi split <mark>the 12 weeks into three stages</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Each stage has its<br>own <em>goal</em>!",
+      "fact": "Wk 0–2 move · Wk 2–6 bend · Wk 6–12 <em>strength</em>",
+      "left": {
+        "label": "Little and often",
+        "char": "koala_happy",
+        "caption": "Short, frequent walks<br>feel <b>easier over time</b>"
+      },
+      "right": {
+        "label": "Too much at once",
+        "char": "koala_tired",
+        "caption": "Overdoing it can<br><em>add swelling</em>"
+      },
+      "quip": "Many people keep improving<br>for a year or more!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute knee bend</b>",
+      "sub": "Within your surgical team's guidelines!",
+      "sections": [
+        {
+          "heading": "1. Heel slide",
+          "color": "yellow",
+          "lines": [
+            "① Lying down, slide your heel towards your bottom.",
+            "② Bend as far as comfortable, hold <em>5 sec</em>.",
+            "③ Slowly straighten, <em>10 reps</em>, 3 times a day.",
+            "④ Resting? Elevate the leg for swelling."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Sudden <em>shortness of breath</em>: call 000.",
+            "A sharp jump in pain: call your surgeon."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to call<br><em>your surgeon or GP</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Contact your surgeon or GP if",
+      "items": [
+        "Wound red, hot or weeping",
+        "Fever",
+        "Calf pain or swelling"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Hybi's waiting for you<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "New knee? Here's roughly what the first 12 weeks look like. Weeks 0 to 2 are gentle bending and straightening plus short, frequent walks. Weeks 2 to 6 build the bend and work on getting the knee fully straight. From around week 6, thigh and hip strength usually take centre stage.\n\nEveryone's timeline differs. Swelling and stiffness can linger for months, and many people keep improving for a year or more.\n\nCall your surgeon or GP about wound redness or discharge, fever, or calf pain or swelling. Sudden shortness of breath needs urgent care, so call 000. Our Sydney CBD and Chatswood physios progress rehab in line with your surgeon's guidelines. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#kneereplacement",
+    "#kneerehab",
+    "#postoprehab",
+    "#healthyageing",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala outlining the first 12 weeks of knee replacement rehab, pacing, a heel slide exercise and signs to contact the surgeon or GP.",
+  "story": {
+    "headline": "New knee? Your 12-week roadmap",
+    "body": "Move, then bend,<br>then build strength.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-08",
+  "created": "2026-12-08-2",
+  "status": "approved",
+  "review_warnings": []
+}

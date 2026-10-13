@@ -1,0 +1,128 @@
+{
+  "id": "C-167-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Warm-ups that actually help weekend sport",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Is a car-park stretch<br>really a <em>warm-up</em>?",
+      "sub": "A 10-minute routine for Saturday sport",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's wake<br>your body up!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Saturday footy,<br>a quick <em>hamstring stretch</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why do I feel<br>sluggish for the<br>first 10 minutes..?",
+      "bubble_type": "thought",
+      "note": "(the first quarter always feels heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After the game, Toto<br>dropped into <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Weekend<br>sport, right?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep! I stretch..<br>is that not enough?"
+      },
+      "note": "Hybi swapped in <mark>a moving warm-up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Move it,<br><em>don't just hold it</em>!",
+      "fact": "Research suggests <em>structured warm-ups</em> can cut some injuries",
+      "left": {
+        "label": "Dynamic",
+        "char": "rabbit_happy",
+        "caption": "Leg swings, lunges:<br><b>ranges you'll use</b>"
+      },
+      "right": {
+        "label": "Long holds",
+        "char": "rabbit_tired",
+        "caption": "30-second holds,<br><em>body still cold</em>"
+      },
+      "quip": "Ten minutes<br>is plenty!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>10-minute warm-up</b>",
+      "sub": "Do it in this order!",
+      "sections": [
+        {
+          "heading": "1. Three steps",
+          "color": "yellow",
+          "lines": [
+            "① Easy jog or skipping, <em>3–5 min</em>.",
+            "② Leg swings, lunges, arm circles, <em>10 each</em>.",
+            "③ <em>3–4</em> short sprints or direction changes.",
+            "④ Finish close to game speed!"
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "A sudden <em>pop</em>, fast swelling, or you",
+            "<em>can't take weight</em>: don't play on."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "<em>Tweaked something</em><br>mid-game?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A sudden pop",
+        "Fast swelling",
+        "A joint that gives way"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "A few quick hamstring stretches in the car park isn't really a warm-up, as Toto found out.\n\nResearch suggests structured warm-ups can reduce some sport injuries, particularly in team sports. A simple version: three to five minutes of easy jogging, then dynamic moves like leg swings, walking lunges and arm circles, then a few short efforts close to game speed.\n\nIt takes about ten minutes and means you're ready from the first whistle. A sudden pop, fast swelling or a joint that gives way is worth getting assessed rather than strapping up and playing on.\n\nOur Sydney CBD and Chatswood physios can tailor a warm-up to your sport. Book online via the link in bio ⚽\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#warmup",
+    "#sportsphysio",
+    "#weekendwarrior",
+    "#injuryprevention",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#football"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why a quick stretch isn't a full warm-up, dynamic versus static stretching, a 10-minute warm-up and signs worth getting checked.",
+  "story": {
+    "headline": "Game this weekend?",
+    "body": "5 min easy, then dynamic,<br>then game speed.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-17",
+  "created": "2026-12-17-2",
+  "status": "approved",
+  "review_warnings": []
+}

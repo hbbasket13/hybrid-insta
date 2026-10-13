@@ -1,0 +1,128 @@
+{
+  "id": "C-131-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Tendon pain: why rest alone rarely settles it",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Rested for <em>three weeks</em>.<br>Why is it sore again?",
+      "sub": "Why tendons need the right load, not just time off",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Tendons like<br>the right load!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A sore Achilles,<br>so Toto stopped <em>running</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Five minutes back<br>and it's throbbing..<br>rest even longer?",
+      "bubble_type": "thought",
+      "note": "(the twinge just above the heel is back..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Hi Toto!<br>Tendon playing up?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Won't it heal if<br>I don't use it at all?"
+      },
+      "note": "Hybi said <mark>tendons adapt to the right load</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Load it well,<br>rather than <em>full rest</em>",
+      "fact": "Tendons adapt to <em>the work you give them</em>, and change slowly",
+      "left": {
+        "label": "Right load",
+        "char": "rabbit_happy",
+        "caption": "Discomfort that has<br><b>settled by morning</b>"
+      },
+      "right": {
+        "label": "Full rest",
+        "char": "rabbit_tired",
+        "caption": "Pain eases, but it's<br><em>less ready</em> to run"
+      },
+      "quip": "Plans usually run for<br>months, not days!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>tendon starter move</b>",
+      "sub": "Begin with steady holds!",
+      "sections": [
+        {
+          "heading": "1. Calf raise hold",
+          "color": "yellow",
+          "lines": [
+            "① Hold a wall, rise onto <em>both tiptoes</em>.",
+            "② Hold at the top, <em>30 sec × 4–5 reps</em>.",
+            "③ Once or twice a day, <em>tolerable discomfort</em>.",
+            "④ Over weeks: heavier, then <em>hopping</em>."
+          ]
+        },
+        {
+          "heading": "2. Get checked promptly if…",
+          "color": "purple",
+          "lines": [
+            "A <em>sudden pop</em> or sharp pain, then weakness,",
+            "or <em>a lot of swelling</em> appears."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Getting worse<br><em>despite changes?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A pop, then weakness",
+        "A lot of swelling",
+        "Worse despite changes"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Load it well with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Rested that sore tendon for weeks, only for it to flare the moment you go back?\n\nTendons respond to load. Rest can calm things down, but on its own it often leaves the tendon less prepared for the running, lifting or stairs that set it off.\n\nWhat usually helps: ease back on the aggravating activity rather than stopping completely, start with steady holds like a calf raise hold, then gradually build to heavier and springier exercises. Research suggests tendons adapt slowly, so plans often run for a few months.\n\nA sudden pop with weakness or a lot of swelling is worth getting assessed promptly. Our Sydney CBD and Chatswood physios can set a starting level with you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#tendinopathy",
+    "#tendonpain",
+    "#achillestendon",
+    "#runninginjury",
+    "#loadmanagement",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto about why rest alone rarely settles tendon pain, the right load versus full rest, a calf raise hold to start and signs worth getting checked.",
+  "story": {
+    "headline": "Rested, but the tendon's still sore?",
+    "body": "Start with a 30-sec<br>calf raise hold.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-03",
+  "created": "2026-12-03-2",
+  "status": "approved",
+  "review_warnings": []
+}

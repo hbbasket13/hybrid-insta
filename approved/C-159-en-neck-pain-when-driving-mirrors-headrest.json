@@ -1,0 +1,128 @@
+{
+  "id": "C-159-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Neck pain when driving: mirrors, headrest and breaks",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Nine hours to Byron,<br>and a <em>neck that won't turn</em>",
+      "sub": "Mirrors, headrest and breaks",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Let's set up<br>the driver's seat!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Nine hours</em> on the M1,<br>hands glued to the wheel.",
+      "char": "turtle_sad",
+      "bubble": "We're here..<br>so why can't I<br>turn my head?",
+      "bubble_type": "thought",
+      "note": "(turning the whole body instead of the neck..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "The week after the holiday,<br>Mr Turtle found <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome back!<br>Long drive, huh?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "What do I do<br>differently next time?"
+      },
+      "note": "Hybi started with <mark>the driver's seat set-up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Your mirrors can be a<br><em>posture alarm</em>",
+      "fact": "Set them sitting tall, and slumping <em>throws them off</em>",
+      "left": {
+        "label": "Sit back",
+        "char": "turtle_happy",
+        "caption": "Hips back, backrest<br><b>slightly reclined</b>"
+      },
+      "right": {
+        "label": "Slumped forward",
+        "char": "turtle_sad",
+        "caption": "Head pokes forward,<br><em>neck keeps holding</em>"
+      },
+      "quip": "Mirrors look off?<br>Sit back up!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>long-drive set-up</b>",
+      "sub": "One minute before you go!",
+      "sections": [
+        {
+          "heading": "1. Before and during the drive",
+          "color": "yellow",
+          "lines": [
+            "① Hips back, elbows <em>gently bent</em> on the wheel.",
+            "② Set your <em>mirrors</em> while sitting tall.",
+            "③ Headrest level with the <em>back of your head</em>.",
+            "④ <em>Every 2 hours</em>: stop, walk, roll your shoulders."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain or <em>pins and needles</em> travel down an arm,",
+            "or your neck hurts <em>after a car accident</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Neck <em>still sore</em><br>after the drive?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down an arm",
+        "Hand tingling or weakness",
+        "Headaches that keep building"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Nine hours to Byron Bay, and Mr Turtle arrived with a neck that wouldn't turn 🚗\n\nRoad trips mean hours in one position with your eyes locked on the road. Your neck can handle a lot, but it doesn't love staying still that long.\n\nA few set-up tweaks help: hips back and the seat slightly reclined, mirrors set while you're sitting tall, and the headrest level with the back of your head. Then stop every two hours to walk, look over each shoulder and do a few chin tucks.\n\nArm pain, pins and needles or neck pain after a crash are worth getting assessed. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#neckpain",
+    "#stiffneck",
+    "#driving",
+    "#roadtrip",
+    "#longdrive",
+    "#summerholidays",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on neck stiffness after long drives, using mirrors as a posture cue, a long-drive seat set-up with breaks and signs worth getting checked.",
+  "story": {
+    "headline": "Long drive ahead?",
+    "body": "Headrest level with your head,<br>a break every two hours.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-14",
+  "created": "2026-12-14-6",
+  "status": "approved",
+  "review_warnings": []
+}

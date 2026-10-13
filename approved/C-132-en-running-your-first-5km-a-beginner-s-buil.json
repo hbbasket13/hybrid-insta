@@ -1,0 +1,128 @@
+{
+  "id": "C-132-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Running your first 5km: a beginner's build-up",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "A turtle who's<br><em>never run</em>, doing 5km?",
+      "sub": "A beginner's walk-run build-up",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Slow is<br>the secret!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "New year's goal:<br>Mr Turtle's <em>first 5km</em>.",
+      "char": "turtle_monitor",
+      "bubble": "But one kilometre<br>and I'm puffing..<br>can I really do it?",
+      "bubble_type": "thought",
+      "note": "(last week's first try lasted three minutes..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Mr Turtle!<br>Taken up running?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Shouldn't I run<br>every single day?"
+      },
+      "note": "Hybi said the trick is <mark>slower than feels necessary</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Start by mixing<br><em>walking and running</em>",
+      "fact": "Many beginners take around <em>8–10 weeks</em> to run 5km non-stop",
+      "left": {
+        "label": "Walk-run",
+        "char": "turtle_happy",
+        "caption": "Jog 1 min, walk 2,<br>at <b>chatting pace</b>"
+      },
+      "right": {
+        "label": "All-out",
+        "char": "turtle_sad",
+        "caption": "Puffed and legs<br><em>tire quickly</em>"
+      },
+      "quip": "Tough week? Repeat it.<br>That's part of the plan!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>week-one 5km plan</b>",
+      "sub": "You can start this week!",
+      "sections": [
+        {
+          "heading": "1. Walk-run intervals",
+          "color": "yellow",
+          "lines": [
+            "① <em>1 min easy jog + 2 min walk</em>.",
+            "② Repeat <em>8 times</em>, 3 days a week, rest between.",
+            "③ Each week add <em>one thing</em>: time or a round.",
+            "④ Twice a week: calf raises, squats, bridges."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "You start <em>limping</em>, pain builds as you run,",
+            "or <em>one spot on a bone</em> stays sore."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Mild aches are OK,<br><em>these are not</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Running turns into a limp",
+        "Pain builds as you run",
+        "One sore spot on a bone"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Your first 5km with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Never run before? Your first 5km is closer than you think. 🏃\n\nThe trick is starting slower than feels necessary. Try one minute of easy jogging and two minutes of walking, eight times over, three days a week. Add a little each week, and repeat any week that felt tough. Many beginners take around eight to ten weeks to get there.\n\nTwo short strength sessions a week help your legs cope. In summer, run early or late, carry water and slow down on hot days.\n\nMild aches that settle within a day are usually fine. Limping, pain that builds as you run or pain in one spot on a bone is worth getting checked by our Chatswood and Sydney CBD physios. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#couchto5k",
+    "#beginnerrunner",
+    "#running",
+    "#first5k",
+    "#runningtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle building up to a first 5km run, walk-run intervals versus going all-out, a week-one plan and signs worth getting checked.",
+  "story": {
+    "headline": "Never run? Try 5km",
+    "body": "Jog 1 min, walk 2,<br>eight rounds.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-03",
+  "created": "2026-12-03-6",
+  "status": "approved",
+  "review_warnings": []
+}

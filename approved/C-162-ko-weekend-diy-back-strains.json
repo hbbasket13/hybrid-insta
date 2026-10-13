@@ -1,0 +1,128 @@
+{
+  "id": "C-162-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Weekend DIY back strains",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "크리스마스 전 대청소,<br>월요일엔 <em>허리가 뻐근</em>",
+      "sub": "주말 DIY 뒤 허리 이야기, 하비와 함께",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "다음 주말은<br>똑똑하게 해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "토요일 하루 종일<br>화단 만들고 <em>가구 조립</em>.",
+      "char": "kanga_tired",
+      "bubble": "평소엔 괜찮은데<br>왜 월요일만 되면..?",
+      "bubble_type": "thought",
+      "note": "(손님 오기 전에 다 끝내려다 보니..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>로<br>달려간 루루.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>주말에 무리했군요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 일할 땐 멀쩡한데<br>집안일엔 왜 이럴까요?"
+      },
+      "note": "하비는 <mark>갑자기 늘어난 부하</mark>부터 설명하기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "문제는 일이 아니라<br><em>몰아서 하는 것</em>!",
+      "fact": "안 하던 동작을 <em>몇 시간씩</em> 하면 허리가 놀라요",
+      "left": {
+        "label": "나눠서",
+        "char": "kanga_happy",
+        "caption": "30~45분마다<br>작업을 <b>바꿔요</b>"
+      },
+      "right": {
+        "label": "몰아서",
+        "char": "kanga_tired",
+        "caption": "같은 자세로<br><em>몇 시간 내내</em>"
+      },
+      "quip": "쪼개서 하면<br>허리도 덜 지쳐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 DIY 플랜</b>",
+      "sub": "다음 주말 작업 전에!",
+      "sections": [
+        {
+          "heading": "1. 작업 나눠 하기",
+          "color": "yellow",
+          "lines": [
+            "① <em>30~45분</em> 하고 다른 일로 바꿔요.",
+            "② 무거운 일과 가벼운 일을 번갈아요.",
+            "③ 바닥 작업은 <em>무릎 꿇거나</em> 낮은 의자.",
+            "④ 무거운 건 몸에 붙이고, 큰 건 둘이서."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료받기",
+          "color": "purple",
+          "lines": [
+            "다리가 <em>저리거나 힘이 빠지면</em>,",
+            "대소변 변화가 있으면 <em>GP·응급실로</em>!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 허리가<br><em>계속 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호라면 꼭 확인받기",
+      "items": [
+        "다리로 퍼지는 통증",
+        "점점 심해지는 통증",
+        "2주 넘게 그대로"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "크리스마스 손님 오기 전, 주말 내내 화단 만들고 가구 조립한 루루. 월요일 아침 허리가 뻐근해요.\n\n평소 안 하던 동작을 몇 시간씩 몰아서 하면, 갑자기 늘어난 부하에 허리가 놀랄 수 있어요. 대부분은 가볍게 움직이면 며칠~2주 사이에 가라앉아요.\n\n다음엔 30~45분 단위로 작업을 바꾸고, 바닥 작업은 무릎 꿇거나 낮은 의자를 쓰고, 큰 짐은 둘이서 들어요. 다리 저림·힘 빠짐, 대소변 변화가 있으면 GP나 응급실로 가세요.\n\n채스우드·시드니 CBD 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🎄\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니카이로프랙틱",
+    "#카이로프랙틱",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#허리통증",
+    "#diy",
+    "#크리스마스준비",
+    "#chiropractor",
+    "#backpain",
+    "#chatswood",
+    "#sydneychiro",
+    "#sydney"
+  ],
+  "alt_text": "하비와 캥거루 루루가 등장하는 7장짜리 만화 카드뉴스: 주말 DIY 뒤 허리가 뻐근한 이유, 작업을 나눠 하는 법, 1분 DIY 플랜, 확인이 필요한 신호.",
+  "story": {
+    "headline": "큰 DIY 주말 계획 중?",
+    "body": "30~45분마다<br>작업 바꾸기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-15",
+  "created": "2026-12-15-3",
+  "status": "approved",
+  "review_warnings": []
+}

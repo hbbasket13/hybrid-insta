@@ -1,0 +1,129 @@
+{
+  "id": "C-180-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Christmas cooking marathon: back care in the kitchen",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "크리스마스 12인분,<br><em>허리도 같이 요리 중</em>",
+      "sub": "부엌 마라톤에서 허리 챙기기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "푸딩 나오기<br>전에 들어봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "로스트, 샐러드, 푸딩까지..<br>코코는 <em>6시간째</em> 조리대 앞.",
+      "char": "koala_tired",
+      "bubble": "허리가<br>왜 이렇게 묵직하지..?",
+      "bubble_type": "thought",
+      "note": "(오븐 앞에선 몇 번이나 쪼그려 앉았다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "크리스마스 전 주,<br><b>하이브리드 피지오</b>에 온 코코.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코, 올해도<br>요리 담당이에요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 끝나면 허리가<br>늘 뻐근해요."
+      },
+      "note": "하비는 <mark>한 자세로 버티는 시간</mark>을 짚었다."
+    },
+    {
+      "kind": "compare",
+      "title": "한 번에 몰아서보다<br><em>라운드로 나눠서!</em>",
+      "fact": "한 번 들기보다 <em>같은 자세로 오래</em> 서 있는 게 부담",
+      "left": {
+        "label": "30분씩 끊기",
+        "char": "koala_happy",
+        "caption": "중간중간 걷고 앉으면<br>허리가 <b>숨 돌려요</b>"
+      },
+      "right": {
+        "label": "6시간 쭉 서서",
+        "char": "koala_tired",
+        "caption": "같은 자세로 계속 버티면<br><em>묵직해질 수 있어요</em>"
+      },
+      "quip": "요리도 허리도<br>쉬는 시간이 필요해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>크리스마스 부엌 팁</b>",
+      "sub": "요리 시작 전에 체크!",
+      "sections": [
+        {
+          "heading": "1. 부엌에서 이렇게 해봐요",
+          "color": "yellow",
+          "lines": [
+            "① 오래 써는 일은 <em>두꺼운 도마</em>로 높이기.",
+            "② 껍질 까기는 <em>식탁에 앉아서</em> 해요.",
+            "③ 낮은 칸에 <em>한 발 올리고</em> 몇 분마다 바꾸기.",
+            "④ 로스트 트레이는 <em>몸 가까이</em>, 발로 돌기!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 뻗치거나</em> 저리고,",
+            "며칠 지나도 <em>가라앉지 않으면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "연말 지나도<br><em>허리가 묵직하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "다리로 뻗치는 통증",
+        "자다가 깨는 통증",
+        "며칠째 안 가라앉는다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>메리 크리스마스, 하비가!"
+    }
+  ],
+  "caption": "로스트, 샐러드, 푸딩까지 크리스마스 12인분을 준비하는 코코. 6시간째 조리대 앞이에요 🎄\n\n허리는 무거운 걸 한 번 드는 것보다, 같은 자세로 몇 시간 서 있을 때 더 묵직해지기 쉬워요. 두꺼운 도마로 작업 높이를 올리고, 껍질 까기는 앉아서, 낮은 칸에 한 발을 올렸다 바꿔주세요. 로스트 트레이는 몸 가까이 들고 발로 돌기. 20~30분마다 잠깐 걷는 것도 도움이 돼요.\n\n다리로 뻗치는 통증이나 며칠째 안 가라앉는 통증은 확인받기! 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#크리스마스",
+    "#허리통증",
+    "#부엌자세",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#연말요리",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#christmascooking"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 크리스마스 요리로 허리가 묵직해지는 이유, 라운드로 나눠 요리하기, 부엌 자세 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "크리스마스 요리, 허리는?",
+    "body": "20~30분마다 쉬고,<br>트레이는 몸 가까이!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-22",
+  "created": "2026-12-22-3",
+  "status": "approved",
+  "review_warnings": []
+}

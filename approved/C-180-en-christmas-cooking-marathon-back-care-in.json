@@ -1,0 +1,128 @@
+{
+  "id": "C-180-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Christmas cooking marathon: back care in the kitchen",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Cooking for twelve?<br>Your back's <em>on the roster too</em>",
+      "sub": "Back care for the Christmas kitchen marathon",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Before the<br>pudding comes out!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Roast, salads, pudding..<br>Koko's <em>six hours</em> in.",
+      "char": "koala_tired",
+      "bubble": "Why does my back<br>feel so heavy..?",
+      "bubble_type": "thought",
+      "note": "(and that low oven has had her squatting all day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "The week before Christmas,<br>Koko visits <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Koko! On cooking<br>duty again?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Always.. and my back<br>always pays for it."
+      },
+      "note": "Hybi points to <mark>hours in one position</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't cook it in one go.<br><em>Cook in rounds.</em>",
+      "fact": "It's rarely one lift · more often <em>hours in the same position</em>",
+      "left": {
+        "label": "20–30 min rounds",
+        "char": "koala_happy",
+        "caption": "Short walks and sits give<br>your back <b>a breather</b>"
+      },
+      "right": {
+        "label": "Six hours stood",
+        "char": "koala_tired",
+        "caption": "Same stance, same load,<br><em>heavy by dinner</em>"
+      },
+      "quip": "The roast rests.<br>So can you!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>Christmas kitchen kit</b>",
+      "sub": "Before you preheat the oven!",
+      "sections": [
+        {
+          "heading": "1. Set up the kitchen",
+          "color": "yellow",
+          "lines": [
+            "① Long chopping? A <em>thick board</em> raises the work.",
+            "② Peel and prep <em>sitting at the table</em>.",
+            "③ <em>One foot on a low shelf</em>, swap every few min.",
+            "④ Roast tray <em>close to your body</em>, turn your feet."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em> or goes numb,",
+            "or a flare-up <em>isn't settling</em> after a few days."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still grumbling<br><em>after the big cook</em>?",
+      "bubble": "Causes differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Pain that wakes you up",
+        "No easing after a few days"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Merry Christmas from Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Cooking for twelve this Christmas? Your back might feel it before the pudding comes out. 🎄\n\nLong stretches at the bench, low ovens and heavy roasting trays add up. It's rarely one lift that does it. More often it's hours in the same position.\n\nHybi's kitchen kit: raise the work with a thick board, peel and prep sitting at the table, rest one foot on a low shelf and swap sides, and lift trays close to your body while turning with your feet. Cook in 20 to 30 minute rounds with a short walk in between.\n\nPain spreading down a leg, or a flare-up that isn't settling after a few days, is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#sydneychiro",
+    "#christmascooking",
+    "#backpain",
+    "#christmasinsydney",
+    "#lowerbackpain",
+    "#sydneycbd",
+    "#sydneycbdchiro",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#chiropractic",
+    "#festiveseason"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on protecting your back during a Christmas cooking marathon, cooking in rounds, kitchen setup tips and signs worth getting checked.",
+  "story": {
+    "headline": "Christmas cook? Mind your back",
+    "body": "Cook in 20-minute rounds,<br>trays close to your body.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-22",
+  "created": "2026-12-22-6",
+  "status": "approved",
+  "review_warnings": []
+}

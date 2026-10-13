@@ -1,0 +1,128 @@
+{
+  "id": "C-185-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "On your feet all day: foot and calf massage",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Ten hours on your feet?<br>Your <em>calves noticed</em>.",
+      "sub": "What foot and calf massage can and can't do",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Legs need<br>a break too!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Silly season on site.<br>Lulu's <em>ten hours</em> on his feet.",
+      "char": "kanga_tired",
+      "bubble": "Why do my legs<br>feel like bricks..?",
+      "bubble_type": "thought",
+      "note": "(and the arches are throbbing too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On the way home, Lulu<br>drops into <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Lulu! Long day<br>on your feet?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "A massage will<br>sort it all, right..?"
+      },
+      "note": "Hybi explains that <mark>massage and movement</mark> are a team."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage and movement:<br><em>a team</em>",
+      "fact": "Massage eases tight calves · it pairs with <em>movement</em>",
+      "left": {
+        "label": "Massage + moving",
+        "char": "kanga_happy",
+        "caption": "Ball rolls, calf raises:<br><b>relief that lasts</b>"
+      },
+      "right": {
+        "label": "Massage alone",
+        "char": "kanga_tired",
+        "caption": "Back on your feet tomorrow,<br><em>tight again fast</em>"
+      },
+      "quip": "Massage is the bonus.<br>Movement's the base!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>after-shift leg reset</b>",
+      "sub": "Before you crash on the couch!",
+      "sections": [
+        {
+          "heading": "1. Try this at home",
+          "color": "yellow",
+          "lines": [
+            "① <em>Roll each sole</em> over a ball, 1 minute.",
+            "② <em>10 slow calf raises</em>.",
+            "③ <em>20-second calf stretch</em> on every break.",
+            "④ <em>Cushioned shoes</em> + shift position often."
+          ]
+        },
+        {
+          "heading": "2. Get medical help promptly if…",
+          "color": "purple",
+          "lines": [
+            "One calf is <em>swollen, hot, red or painful</em>,",
+            "especially <em>after a long flight</em> or surgery."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Legs still<br><em>giving you grief</em>?",
+      "bubble": "Causes differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "One calf swelling up",
+        "Heel pain that lingers",
+        "Tingling or weakness"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Rest your legs with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Nurse, chef, teacher, tradie? If you're on your feet all shift, your calves are working overtime.\n\nHours of standing leave many people with tight calves, aching arches and heavy legs. Remedial massage to the feet and calves can ease that feeling and help you move more comfortably. It works well alongside movement, not instead of it.\n\nHybi's after-shift reset: roll each sole over a ball for a minute, do 10 slow calf raises, stretch your calves on breaks and wear cushioned, supportive shoes.\n\nOne calf that's swollen, hot, red or painful needs urgent medical attention, especially after a long flight. Our remedial massage therapists at Hybrid Physio can tailor a session to your legs. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sydneymassage",
+    "#calfmassage",
+    "#footmassage",
+    "#tiredlegs",
+    "#onyourfeet",
+    "#tradielife",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#massagetherapy",
+    "#recovery"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo on why legs feel heavy after a long shift standing, pairing massage with movement, an after-shift leg reset and signs that need prompt medical care.",
+  "story": {
+    "headline": "Calves like bricks?",
+    "body": "Ball roll 1 min,<br>10 slow calf raises.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-24",
+  "created": "2026-12-24-2",
+  "status": "approved",
+  "review_warnings": []
+}

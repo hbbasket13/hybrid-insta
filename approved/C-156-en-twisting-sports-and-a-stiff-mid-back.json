@@ -1,0 +1,128 @@
+{
+  "id": "C-156-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Twisting sports and a stiff mid-back",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Can't <em>rotate</em> like<br>you used to?",
+      "sub": "Twisting sports and your mid-back",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Let's check<br>your mid-back!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Saturday golf, and<br>the swing <em>just stalls</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Desk all week,<br>golf all weekend..",
+      "bubble_type": "thought",
+      "note": "(lower back and shoulders picking up the slack..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "The day after his round,<br>Toto met <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey Toto!<br>Swing feeling stiff?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Is it my lower back<br>or my shoulder?"
+      },
+      "note": "Hybi suggested starting with the <mark>mid-back</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Your mid-back is<br><em>built to turn</em>",
+      "fact": "The thoracic spine does <em>a lot of your rotating</em>",
+      "left": {
+        "label": "Free mid-back",
+        "char": "rabbit_happy",
+        "caption": "It turns, so the back<br>and shoulders <b>work less</b>"
+      },
+      "right": {
+        "label": "Stiff mid-back",
+        "char": "rabbit_tired",
+        "caption": "Low back and shoulders<br><em>do the turning</em>"
+      },
+      "quip": "Share the twist with<br>your mid-back!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute rotation check</b>",
+      "sub": "Right there on a chair!",
+      "sections": [
+        {
+          "heading": "1. Check, then free it up",
+          "color": "yellow",
+          "lines": [
+            "① Sit, cross your arms, <em>slowly turn</em> each way.",
+            "② One side shorter? A <em>clue</em>, not a diagnosis.",
+            "③ Side-lying <em>open books</em>, 8 each side.",
+            "④ <em>Thread the needle</em>, 8 reps, breathe out."
+          ]
+        },
+        {
+          "heading": "2. Get medical help promptly if…",
+          "color": "purple",
+          "lines": [
+            "<em>Chest pain or breathlessness</em>, fever,",
+            "or pain after a fall."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Twist <em>still stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get checked promptly if you notice",
+      "items": [
+        "Chest pain or breathlessness",
+        "Pain after a fall",
+        "Night pain that won't ease"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Desk all week, golf all weekend, and Toto's swing just isn't turning like it used to.\n\nGolf, tennis, cricket and paddling all rely on rotation, and the mid-back between your shoulder blades is built to provide a good chunk of it. After long desk days it often stiffens, and the lower back and shoulders pick up the slack.\n\nTry the quick check: sit, cross your arms and turn each way. Then open books and thread-the-needle, eight slow reps most days. An adjustment can help it feel looser short term, and the change tends to hold better with regular movement and strength work.\n\nChest pain, breathlessness, fever or pain after a fall needs prompt medical review. Our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#midbackpain",
+    "#thoracicspine",
+    "#mobility",
+    "#golf",
+    "#tennis",
+    "#sportsinjury",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit on why a stiff mid-back affects twisting sports, a free versus stiff mid-back, a 1-minute rotation check with two drills and signs needing prompt care.",
+  "story": {
+    "headline": "Swing feeling stiff?",
+    "body": "Open books: 8 slow reps<br>each side, breathe out.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-12",
+  "created": "2026-12-12-6",
+  "status": "approved",
+  "review_warnings": []
+}

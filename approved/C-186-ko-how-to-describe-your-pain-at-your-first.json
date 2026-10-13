@@ -1,0 +1,129 @@
+{
+  "id": "C-186-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "How to describe your pain at your first appointment",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "\"그냥.. 아파요\"<br><em>통증, 어떻게 말하죠?</em>",
+      "sub": "첫 진료 전에 적어두면 좋은 5가지",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "메모 하나면<br>충분해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "첫 진료 날,<br>코코의 머리가 <em>하얘졌다</em>.",
+      "char": "koala_tired",
+      "bubble": "어디가 어떻게<br>아팠더라..?",
+      "bubble_type": "thought",
+      "note": "(대기실에선 할 말이 많았는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "진료실에서<br>하비를 만난 코코.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어디가 어떻게<br>불편해요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "음.. 그냥<br>아파요..?"
+      },
+      "note": "하비는 <mark>통증을 말하는 5가지</mark>를 알려주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "\"그냥 아파요\" 대신<br><em>조금 더 자세히!</em>",
+      "fact": "통증 표현에 <em>정답은 없어요</em> · 내 말로 편하게 말해도 좋아요",
+      "left": {
+        "label": "자세히 말하기",
+        "char": "koala_happy",
+        "caption": "어디·어떤 느낌·언제를<br>말하면 <b>계획이 쉬워요</b>"
+      },
+      "right": {
+        "label": "\"그냥 아파요\"",
+        "char": "koala_tired",
+        "caption": "기억이 안 나면<br><em>중요한 걸 놓칠 수도</em>"
+      },
+      "quip": "폰 메모에 적어 오면<br>딱 좋아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>통증 메모 5줄</b>",
+      "sub": "진료 전날 폰에 적어봐요!",
+      "sections": [
+        {
+          "heading": "1. 이것만 적어 와요",
+          "color": "yellow",
+          "lines": [
+            "① <em>어디</em>가 아프고, 어디로 퍼지나요?",
+            "② <em>어떤 느낌</em>? 욱신·찌릿·화끈·뻐근 등.",
+            "③ 뭘 하면 <em>나아지고</em>, 뭘 하면 <em>심해지나요</em>?",
+            "④ <em>언제</em> 시작됐고, 지금 <em>되찾고 싶은 일</em>은?"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 기다리지 말고 확인!",
+          "color": "purple",
+          "lines": [
+            "<em>갑자기 힘이 빠지거나</em> 감각이 무뎌지면,",
+            "예약을 기다리지 말고 GP·응급실로!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "메모를 해도<br><em>걱정된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "통증이 점점 심해진다",
+        "팔·다리가 저리다",
+        "자다가 깰 만큼 아프다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 편하게 이야기해요!"
+    }
+  ],
+  "caption": "첫 진료 날, 머리가 하얘져서 \"그냥 아파요\"만 말한 코코. 아주 흔한 일이에요 📝\n\n진료 전날 폰 메모에 5줄만 적어보세요. 어디가 아프고 어디로 퍼지는지, 어떤 느낌인지(욱신·찌릿·화끈·뻐근), 뭘 하면 나아지고 심해지는지, 언제 시작됐는지, 그리고 되찾고 싶은 일. 정답은 없으니 내 말로 편하게 적으면 돼요.\n\n하이브리드 피지오 팀이 어차피 하나씩 여쭤보지만, 메모가 있으면 중요한 시간을 더 알차게 쓸 수 있어요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#첫진료",
+    "#통증",
+    "#진료팁",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#카이로프랙틱",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#firstappointment",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 첫 진료에서 통증을 설명하는 법, 진료 전 적어두면 좋은 5가지, 바로 확인이 필요한 신호.",
+  "story": {
+    "headline": "통증, 어떻게 말하죠?",
+    "body": "어디·어떤 느낌·언제,<br>폰 메모 5줄이면 OK!",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-24",
+  "created": "2026-12-24-3",
+  "status": "approved",
+  "review_warnings": []
+}

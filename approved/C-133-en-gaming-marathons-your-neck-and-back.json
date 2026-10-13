@@ -1,0 +1,128 @@
+{
+  "id": "C-133-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Gaming marathons: your neck and back",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Gamed all weekend?<br>Your <em>neck noticed</em>.",
+      "sub": "Long sessions, stiff necks and easy resets",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Use the<br>loading screens!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A whole weekend<br>of <em>gaming</em> on the couch.",
+      "char": "turtle_monitor",
+      "bubble": "Shoulders up near<br>my ears.. and now<br>I can't turn my head?",
+      "bubble_type": "thought",
+      "note": "(Sunday night, checking over his shoulder is tough..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Hey Mr Turtle!<br>Big gaming weekend?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Do I have to<br>give up gaming?"
+      },
+      "note": "Hybi said it's <mark>the stillness, not the game</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's the stillness,<br><em>not the game</em>",
+      "fact": "Any posture held <em>for hours</em> tends to get uncomfortable",
+      "left": {
+        "label": "Move between",
+        "char": "turtle_happy",
+        "caption": "Up for <b>30 seconds</b><br>at every respawn"
+      },
+      "right": {
+        "label": "Frozen for hours",
+        "char": "turtle_sad",
+        "caption": "Head forward,<br><em>shoulders creep up</em>"
+      },
+      "quip": "Thirty seconds adds up<br>across a session!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>loading-screen reset</b>",
+      "sub": "Try it between matches!",
+      "sections": [
+        {
+          "heading": "1. The 30-second reset",
+          "color": "yellow",
+          "lines": [
+            "① Loading screen or respawn? <em>Stand up</em>.",
+            "② Look over each shoulder, <em>slowly, 3 times</em>.",
+            "③ Reach both arms <em>overhead</em>, hold 5 sec.",
+            "④ Screen at <em>eye level, an arm's length</em> away."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads into an arm or leg</em>,",
+            "or <em>pins and needles or numbness</em> appear."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Moving more and<br><em>still stiff?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain into an arm or leg",
+        "Pins and needles, numbness",
+        "Stiff after days of moving"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and play a round<br>with Hybi at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Gaming marathon over the weekend and your neck is paying for it? 🎮\n\nLong sessions themselves aren't the problem. It's the hours spent frozen in one position, head drifting forward and shoulders creeping up, that tends to leave the neck and back stiff.\n\nA few easy changes: use loading screens and respawns as cues to stand, look over each shoulder and reach overhead. Keep the screen at eye level and about an arm's length away. Balance gaming days with a walk, swim or gym session.\n\nPain into an arm or leg, pins and needles or numbness are worth getting checked. Our chiropractors at Hybrid Physio combine hands-on care with exercise. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#gaming",
+    "#gamer",
+    "#neckpain",
+    "#backpain",
+    "#chiropractor",
+    "#chiropractic",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle about gaming marathons, why stillness rather than gaming stiffens the neck, a 30-second loading-screen reset and signs worth getting checked.",
+  "story": {
+    "headline": "Neck stiff after gaming?",
+    "body": "Stand up for 30 seconds<br>at every respawn.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-04",
+  "created": "2026-12-04-4",
+  "status": "approved",
+  "review_warnings": []
+}

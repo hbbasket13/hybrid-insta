@@ -1,0 +1,128 @@
+{
+  "id": "C-173-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for tradies",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "트레이디의 진짜 장비는<br><em>바로 몸</em>이에요",
+      "sub": "현장에서 버티는 몸 만들기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "필라테스로<br>준비해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "무릎 꿇고, 비틀고, 들고.<br>하루 종일 <em>같은 동작</em>.",
+      "char": "kanga_tired",
+      "bubble": "금요일쯤 되면<br>허리가 묵직..?",
+      "bubble_type": "thought",
+      "note": "(싱크대 밑에서 반쯤 쪼그려 일하는 루루..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "퇴근길, <b>하이브리드 피지오</b>에<br>들른 루루.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>한 주 고생했죠?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "헬스도 하는데<br>왜 이럴까요?"
+      },
+      "note": "하비는 <mark>어색한 자세의 근력</mark>을 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "헬스장은 반듯하게,<br>현장은 <em>삐딱하게</em>!",
+      "fact": "현장은 비튼 자세에서 들기, <em>반쯤 쪼그린 채 버티기</em>의 연속",
+      "left": {
+        "label": "필라테스",
+        "char": "kanga_happy",
+        "caption": "어색한 각도에서도<br><b>조절하는 힘</b>"
+      },
+      "right": {
+        "label": "기계 운동만",
+        "char": "kanga_tired",
+        "caption": "반듯한 동작만,<br><em>현장 자세는 빠져요</em>"
+      },
+      "quip": "고관절·등이 돌면<br>허리는 덜 일해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>5분 출근 전 루틴</b>",
+      "sub": "장비 없이, 현장 가기 전에!",
+      "sections": [
+        {
+          "heading": "1. 바닥에서 바로",
+          "color": "yellow",
+          "lines": [
+            "① 천천히 브릿지 <em>10회</em>.",
+            "② 옆으로 누워 다리 들기 <em>양쪽 10회</em>.",
+            "③ 오픈 북(등 회전) 양쪽 8회.",
+            "④ 주 1~2회 필라테스 + 매일 10분."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 먼저 평가받기",
+          "color": "purple",
+          "lines": [
+            "다리 <em>저림·힘 빠짐</em>, 사다리·높은 곳에서",
+            "넘어진 뒤 통증이 있다면 확인받기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "통증이 <em>주마다 쌓인다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호라면 확인받기",
+      "items": [
+        "다리 저림·힘 빠짐",
+        "추락 후 생긴 통증",
+        "주마다 심해지는 통증"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "무릎 꿇고, 비틀고, 들어 올리고. 트레이디 루루에게 진짜 장비는 바로 몸이에요.\n\n현장 일은 같은 동작의 반복, 그것도 비튼 자세나 반쯤 쪼그린 자세가 많아요. 헬스장 기계는 반듯한 동작을 훈련하고, 필라테스는 어색한 각도에서의 조절력을 키워요. 고관절과 등이 잘 돌면 허리가 덜 비틀어요.\n\n현장 가기 전 5분: 브릿지 10회, 옆으로 누워 다리 들기 양쪽 10회, 오픈 북. 주 1~2회 필라테스면 현실적인 시작이에요.\n\n다리 저림·힘 빠짐, 추락 후 통증은 먼저 평가받아요. 하이브리드 피지오 필라테스 팀이 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니필라테스",
+    "#임상필라테스",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#트레이디",
+    "#허리통증",
+    "#현장직",
+    "#pilates",
+    "#tradie",
+    "#tradielife",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 캥거루 루루가 등장하는 7장짜리 만화 카드뉴스: 트레이디 몸이 지치는 이유, 어색한 자세에서의 근력, 5분 출근 전 루틴, 평가가 필요한 신호.",
+  "story": {
+    "headline": "트레이디 허리, 한 주 고생?",
+    "body": "출근 전 브릿지 10회,<br>다리 들기 10회!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-19",
+  "created": "2026-12-19-5",
+  "status": "approved",
+  "review_warnings": []
+}

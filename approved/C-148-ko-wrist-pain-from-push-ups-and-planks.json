@@ -1,0 +1,128 @@
+{
+  "id": "C-148-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Wrist pain from push-ups and planks",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "푸시업만 하면<br><em>손목이 시큰</em>?",
+      "sub": "루루의 손목 이야기, 하비와 함께",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "손 짚는 법부터<br>바꿔봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "플랭크 30초에<br><em>손목이 먼저</em> 항복.",
+      "char": "kanga_tired",
+      "bubble": "팔은 멀쩡한데<br>왜 손목이 먼저..?",
+      "bubble_type": "thought",
+      "note": "(요즘 푸시업 개수를 확 늘렸다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "운동을 마친 루루는<br><b>하비</b>를 찾아갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>손목이 시큰해요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 푸시업을<br>그만둬야 할까요?"
+      },
+      "note": "하비는 <mark>그만두기보다 바꾸기</mark>를 먼저 권했다."
+    },
+    {
+      "kind": "compare",
+      "title": "손목은 <em>젖혀진 채</em><br>체중을 받아요",
+      "fact": "푸시업·플랭크는 손목을 <em>끝까지 젖힌 채</em> 버텨요",
+      "left": {
+        "label": "손가락 펴기",
+        "char": "kanga_happy",
+        "caption": "손가락을 넓게 펴고<br><b>손가락 뿌리</b>로 눌러요"
+      },
+      "right": {
+        "label": "손바닥만",
+        "char": "kanga_tired",
+        "caption": "손목 쪽으로만<br><em>체중이 쏠려요</em>"
+      },
+      "quip": "손 짚는 법만 바꿔도<br>편해질 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 손목 준비</b>",
+      "sub": "운동 전에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 손 짚는 법 & 손목 힘",
+          "color": "yellow",
+          "lines": [
+            "① 손가락을 넓게 펴고 <em>손가락 뿌리</em>로 눌러요.",
+            "② 아프면 벤치·벽에 손 짚고 <em>각도를 낮춰요</em>.",
+            "③ 푸시업 바·덤벨을 잡거나 <em>팔꿈치 플랭크</em>로.",
+            "④ 손목 컬 <em>10회 × 2세트</em>, 주 2~3번."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "넘어지며 손을 짚은 뒤 아프거나,",
+            "<em>붓기·아픈 딸깍 소리</em>가 있다면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>계속 시큰하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "넘어지며 손을 짚었다",
+        "손목이 붓는다",
+        "엄지 쪽을 누르면 아프다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "푸시업과 플랭크만 하면 손목이 시큰한 루루.\n\n두 동작 모두 손목을 끝까지 젖힌 채 체중을 실어요. 운동을 막 시작했거나 개수를 갑자기 늘렸다면, 손목이 적응할 시간이 필요할 때가 많아요.\n\n손가락을 넓게 펴고 손가락 뿌리로 누르기, 벤치에 손 짚기, 푸시업 바나 팔꿈치 플랭크로 바꾸기부터 해봐요. 손목 컬은 주 2~3번!\n\n넘어지며 손을 짚은 뒤 아프거나 붓는다면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 💪\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#손목통증",
+    "#푸시업",
+    "#플랭크",
+    "#헬스",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#wristpain",
+    "#physiotherapy",
+    "#sydneycbdphysio"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 푸시업·플랭크 때 손목이 아픈 이유, 손 짚는 법 비교, 1분 손목 준비, 확인이 필요한 신호.",
+  "story": {
+    "headline": "푸시업 때 손목이 시큰?",
+    "body": "손가락 넓게 펴고<br>손가락 뿌리로 눌러요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-10",
+  "created": "2026-12-10-1",
+  "status": "approved",
+  "review_warnings": []
+}

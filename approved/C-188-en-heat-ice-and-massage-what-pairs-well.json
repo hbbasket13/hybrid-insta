@@ -1,0 +1,128 @@
+{
+  "id": "C-188-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Heat, ice and massage: what pairs well",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Heat pack before massage?<br><em>Ice after?</em> Neither?",
+      "sub": "How heat, cold and massage work together",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Confusing, right?<br>Let's sort it!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lulu, staring down<br>the gym's <em>ice bath</em>.",
+      "char": "kanga_tired",
+      "bubble": "Is ice the go<br>after a massage..?",
+      "bubble_type": "thought",
+      "note": "(his gym mate swears by a cold plunge every day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Massage day. Lulu<br>arrives at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Lulu! What's<br>tight today?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "I should ice after<br>this, right?"
+      },
+      "note": "Hybi splits it into <mark>before, after and fresh injury</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Timing decides<br><em>the pairing</em>",
+      "fact": "Fresh knock? For 1–2 days, <em>cold and gentle moves</em> suit better",
+      "left": {
+        "label": "Warm before",
+        "char": "kanga_happy",
+        "caption": "A warm shower helps tight<br>muscles <b>relax faster</b>"
+      },
+      "right": {
+        "label": "Deep on injury",
+        "char": "kanga_tired",
+        "caption": "A just-tweaked spot can<br><em>get more irritated</em>"
+      },
+      "quip": "After a massage, go with<br>what feels good!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>heat, cold and massage guide</b>",
+      "sub": "Check before your booking!",
+      "sections": [
+        {
+          "heading": "1. Pair them like this",
+          "color": "yellow",
+          "lines": [
+            "① Before: <em>warm shower or heat pack</em>, 10 min.",
+            "② After: <em>whatever feels good</em>, often a shower.",
+            "③ Fresh injury: <em>1–2 days of cold</em>, gentle moves.",
+            "④ Cold plunge: <em>enjoy it if you like</em>, optional."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "It's <em>very swollen</em> or you can't bear weight —",
+            "get it <em>assessed before</em> any massage."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Recovery feeling<br><em>slow</em>?",
+      "bubble": "Causes differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Big swelling or bruising",
+        "Can't bear weight on it",
+        "Getting worse over days"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Plan your recovery with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Heat pack before your massage, ice afterwards, or neither?\n\nWarmth before a remedial massage, like a warm shower or heat pack, often helps tight muscles relax so the session feels easier. Afterwards, go with what feels good. Most people just enjoy a warm shower, and ice usually isn't needed.\n\nThe exception is a fresh knock or sprain. For the first couple of days, cold and gentle movement tend to suit better than deep massage on that spot. Cold plunges are everywhere this summer, but research suggests they don't add much for most people's day-to-day recovery.\n\nRegular movement and strength work help the relief stick. Our remedial massage therapists at Hybrid Physio can tailor your session. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sydneymassage",
+    "#heatorice",
+    "#icebath",
+    "#musclerecovery",
+    "#massagetherapy",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#recovery",
+    "#coldplunge",
+    "#sportsmassage"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo on pairing heat, cold and remedial massage, what to do with a fresh injury, cold plunges and signs worth getting checked.",
+  "story": {
+    "headline": "Heat, ice or massage?",
+    "body": "Warm before, cold for fresh<br>injuries, plunges optional.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-26",
+  "created": "2026-12-26-2",
+  "status": "approved",
+  "review_warnings": []
+}

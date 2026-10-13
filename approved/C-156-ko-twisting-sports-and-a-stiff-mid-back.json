@@ -1,0 +1,128 @@
+{
+  "id": "C-156-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Twisting sports and a stiff mid-back",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "예전만큼<br><em>안 돌아가요!</em>",
+      "sub": "골프·테니스와 등 가운데 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "등 가운데를<br>살펴볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말 골프, 스윙이<br><em>뻣뻣하게</em> 멈춘 토토.",
+      "char": "rabbit_tired",
+      "bubble": "평일엔 책상 앞,<br>주말엔 골프장..",
+      "bubble_type": "thought",
+      "note": "(허리랑 어깨가 대신 고생 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "라운딩 다음 날,<br>토토는 <b>하비</b>를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>스윙이 뻣뻣해요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "허리가 문제일까요,<br>어깨가 문제일까요?"
+      },
+      "note": "하비는 <mark>등 가운데(흉추)</mark>부터 보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "등 가운데는<br><em>돌라고 있는</em> 곳",
+      "fact": "흉추는 어깨와 갈비뼈 사이, <em>회전</em>을 많이 맡아요",
+      "left": {
+        "label": "잘 도는 등",
+        "char": "rabbit_happy",
+        "caption": "등 가운데가 돌면<br><b>허리·어깨가 편해요</b>"
+      },
+      "right": {
+        "label": "굳은 등",
+        "char": "rabbit_tired",
+        "caption": "등이 안 돌면<br><em>허리·어깨가 대신</em>"
+      },
+      "quip": "회전은 등 가운데와<br>나눠서 해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 회전 체크</b>",
+      "sub": "의자에서 바로!",
+      "sections": [
+        {
+          "heading": "1. 체크하고 풀기",
+          "color": "yellow",
+          "lines": [
+            "① 앉아서 팔짱 끼고 <em>양쪽으로 천천히</em> 돌기.",
+            "② 한쪽이 짧다면? 진단 말고 <em>참고 정보</em>예요.",
+            "③ 옆으로 누워 <em>오픈 북</em> 양쪽 8회씩.",
+            "④ 네발 자세 <em>팔 꿰기</em> 8회, 내쉬며 돌기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료!",
+          "color": "purple",
+          "lines": [
+            "<em>가슴 통증·숨참</em>, 열이 함께 있거나,",
+            "넘어진 뒤 아프면 바로 의료진에게!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "회전이 계속<br><em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 빨리 확인받기",
+      "items": [
+        "가슴 통증이나 숨참",
+        "넘어진 뒤 생긴 통증",
+        "밤에 계속 아프다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "평일엔 책상 앞, 주말엔 골프장. 스윙이 예전만큼 안 돌아가는 토토.\n\n골프·테니스·크리켓·패들링은 회전이 많아요. 어깨뼈 사이 등 가운데(흉추)가 회전을 많이 맡는데, 오래 앉으면 뻣뻣해져서 허리와 어깨가 대신 일하기 쉬워요.\n\n앉아서 팔짱 끼고 돌아보기, 오픈 북과 팔 꿰기 8회씩을 해봐요. 카이로프랙틱 조정은 도구 중 하나이고, 운동과 함께할 때 더 오래가는 편이에요.\n\n가슴 통증·숨참·열은 바로 진료가 필요해요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 ⛳\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#등통증",
+    "#흉추",
+    "#골프",
+    "#테니스",
+    "#회전운동",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#thoracicspine",
+    "#chiropractic",
+    "#sydneychiro"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 회전 운동과 등 가운데(흉추)의 관계, 잘 도는 등과 굳은 등 비교, 1분 회전 체크와 운동, 빨리 확인이 필요한 신호.",
+  "story": {
+    "headline": "스윙이 뻣뻣하다면?",
+    "body": "오픈 북 8회씩,<br>내쉬면서 돌아요.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-12",
+  "created": "2026-12-12-3",
+  "status": "approved",
+  "review_warnings": []
+}

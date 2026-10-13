@@ -1,0 +1,128 @@
+{
+  "id": "C-151-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Tight hip flexors from sitting: myth or real?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "앉아만 있으면<br>고관절이 <em>짧아진다?</em>",
+      "sub": "진짜일까? 하비의 팩트 체크",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "반은 오해,<br>반은 사실!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "오후 4시, 일어설 때마다<br><em>골반 앞</em>이 당긴다.",
+      "char": "turtle_monitor",
+      "bubble": "근육이 줄어든 건가..?<br>스트레칭 더 해야 하나",
+      "bubble_type": "thought",
+      "note": "(하루 9시간, 의자와 한 몸인 거북씨..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "점심시간, 거북씨는<br><b>시드니 CBD</b>에서 하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "반가워요!<br>어디가 당겨요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "골반 앞이요..<br>근육이 짧아졌죠?"
+      },
+      "note": "하비는 <mark>당기는 느낌과 길이</mark>는 다르다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>당기는 느낌</em>과<br>짧은 근육은 달라요",
+      "fact": "연구에 따르면 앉아 있어도 <em>길이는 정상</em>인 경우가 많아요",
+      "left": {
+        "label": "자주 움직이기",
+        "char": "turtle_happy",
+        "caption": "한 시간마다 일어나<br><b>걷고 움직이기</b>"
+      },
+      "right": {
+        "label": "스트레칭만",
+        "char": "turtle_sad",
+        "caption": "가끔 길게 늘이고<br><em>나머진 꼼짝 않기</em>"
+      },
+      "quip": "다양한 움직임이<br>더 도움될 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1시간 루틴</b>",
+      "sub": "회의 사이에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 한 시간에 한 번",
+          "color": "yellow",
+          "lines": [
+            "① 일어나서 <em>천천히 런지 5회</em>씩 양쪽.",
+            "② <em>브릿지 10회</em> 또는 서서 엉덩이 조이기.",
+            "③ 사무실 한 바퀴 <em>짧게 걷기</em>.",
+            "④ 편한 범위에서 조금씩 늘려가요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "사타구니가 <em>걸리듯 아프거나</em>,",
+            "<em>절뚝거리거나 밤에</em> 아프면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "골반 앞이<br><em>계속 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "움직일 때 찌릿 걸린다",
+        "다리를 절게 된다",
+        "밤에도 아프다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "\"하루 종일 앉아 있으니까 고관절 근육이 짧아진 거야.\" 이런 말 들어봤죠?\n\n연구에 따르면 앉는 습관이 근육을 계속 짧게 만드는 경우는 드물어요. 검사하면 길이는 정상인데 골반 앞이 당기는 사람이 많아요. 그 느낌은 진짜지만, 오래 가만히 있고 덜 움직인 탓일 때가 많아요.\n\n한 시간마다 런지 5회씩, 브릿지 10회, 짧게 걷기를 해봐요. 사타구니가 걸리듯 아프거나, 절뚝거리거나, 밤에 아프면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#고관절",
+    "#골반통증",
+    "#직장인건강",
+    "#오래앉기",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#hipflexors",
+    "#desklife",
+    "#sydneycbdphysio"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 앉아 있으면 고관절 근육이 짧아진다는 말의 진실, 움직임과 스트레칭 비교, 1시간 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "고관절 짧아짐, 진짜일까?",
+    "body": "한 시간마다 런지 5회,<br>브릿지 10회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-11",
+  "created": "2026-12-11-1",
+  "status": "approved",
+  "review_warnings": []
+}

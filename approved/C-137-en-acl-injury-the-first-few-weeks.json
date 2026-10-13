@@ -1,0 +1,128 @@
+{
+  "id": "C-137-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "ACL injury: the first few weeks",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "A <em>pop</em>, a wobble..<br>and a very puffy knee",
+      "sub": "The first few weeks after an ACL injury",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "One step at a<br>time, together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekend footy. Toto<br><em>cuts left</em> and..",
+      "char": "rabbit_tired",
+      "bubble": "What was that pop?<br>It felt like my<br>knee gave way..",
+      "bubble_type": "thought",
+      "note": "(within hours, the knee had swollen right up..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Next day, she saw Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "That's a scary one!<br>Let's assess it first."
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Can I just keep<br>testing it with<br>a few jumps?"
+      },
+      "note": "Hybi mapped out <mark>the goals for the first weeks</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The first weeks are<br>about <em>calm</em>, not tests!",
+      "fact": "Early goals: <em>settle the swelling</em> + get the knee straight",
+      "left": {
+        "label": "Gentle work",
+        "char": "rabbit_happy",
+        "caption": "Straighten the knee,<br><b>wake up the quads</b>"
+      },
+      "right": {
+        "label": "Testing it",
+        "char": "rabbit_tired",
+        "caption": "Jumping to check it<br>can <em>add swelling</em>"
+      },
+      "quip": "Look after the knee now,<br>test it much later!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute quad wake-up</b>",
+      "sub": "Follow your physio's guidance!",
+      "sections": [
+        {
+          "heading": "1. Quad set",
+          "color": "yellow",
+          "lines": [
+            "① Sit with the leg straight, towel under the knee.",
+            "② Tighten your thigh and <em>press</em> the towel down.",
+            "③ Hold <em>5 sec × 10 reps</em>, 3 times a day.",
+            "④ Resting? Leg up, with ice."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "The knee <em>locks</em> and won't straighten,",
+            "or your calf is swollen and sore."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to get it<br><em>checked quickly</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee locks, won't straighten",
+        "Calf swollen and sore",
+        "Swelling keeps growing"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Hybi's waiting for you<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "A pop, a wobble, then a swollen knee. Toto's weekend footy ended fast. If you notice those signs, an early assessment helps work out what's been injured and what comes next.\n\nThe first few weeks are about settling swelling, getting the knee fully straight and switching the quads back on. Simple exercises like quad sets often start within days, while upper body work and the other leg help keep your fitness up.\n\nA knee that locks, a swollen sore calf or swelling that keeps growing is worth a prompt check. Our Chatswood and Sydney CBD physios can guide those early weeks. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#acl",
+    "#aclinjury",
+    "#kneeinjury",
+    "#sportsphysio",
+    "#sportsinjury",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit covering the first weeks after an ACL injury, why not to test the knee, a quad set exercise and signs worth getting checked.",
+  "story": {
+    "headline": "Heard a pop in your knee?",
+    "body": "Early weeks: calm swelling,<br>wake up the quads.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-05",
+  "created": "2026-12-05-2",
+  "status": "approved",
+  "review_warnings": []
+}

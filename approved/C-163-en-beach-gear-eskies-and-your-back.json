@@ -1,0 +1,128 @@
+{
+  "id": "C-163-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Beach gear, eskies and your back",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "The beach is easy.<br>The <em>esky</em> is the hard part.",
+      "sub": "Back-friendly ways to get your gear to the sand",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Let's lighten<br>the load!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Car park to the sand,<br>a <em>full esky</em> in one hand.",
+      "char": "kanga_tired",
+      "bubble": "Why am I leaning<br>sideways the<br>whole way..?",
+      "bubble_type": "thought",
+      "note": "(umbrella, chairs and towels all in one trip..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Next day, Lulu met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Big Boxing<br>Day at the beach?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. my back's been<br>grumbly since."
+      },
+      "note": "Hybi started with <mark>how to split the load</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "One heavy hand<br>tips you <em>sideways</em>!",
+      "fact": "A heavy esky in one hand keeps you <em>leaning</em> the whole walk",
+      "left": {
+        "label": "Split load",
+        "char": "kanga_happy",
+        "caption": "Two bags or a backpack,<br>you <b>stay upright</b>"
+      },
+      "right": {
+        "label": "One side",
+        "char": "kanga_tired",
+        "caption": "Leaning one way<br><em>all the way there</em>"
+      },
+      "quip": "Wheels on the esky?<br>Even better!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute beach haul</b>",
+      "sub": "Check before you head off!",
+      "sections": [
+        {
+          "heading": "1. Get there comfortably",
+          "color": "yellow",
+          "lines": [
+            "① <em>Split the load</em>: two bags or a backpack.",
+            "② On soft sand, <em>pull</em> the trolley behind.",
+            "③ Lift close, bend knees and hips, turn with feet.",
+            "④ Take <em>two lighter trips</em>, not one big one."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em> or tingles,",
+            "or isn't <em>settling after a few days</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back <em>still grumbling</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain down one leg",
+        "Numbness or weakness",
+        "Not settling after days"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "See you and Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "The beach is the easy part. It's getting the esky there that your back remembers ☀️\n\nA full esky, umbrella, chairs and towels add up, and carrying it all on one side across a hot car park and soft sand keeps you leaning the whole walk.\n\nA few small changes help this Boxing Day: split the load between two hands or a backpack, pull a trolley behind you on soft sand, lift the esky close with bent knees, and take two lighter trips instead of one big one.\n\nPain spreading down a leg, tingling, or a back that isn't settling after a few days is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#backpain",
+    "#beachday",
+    "#boxingday",
+    "#sydneysummer",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#esky",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo showing why a one-handed esky carry tips you sideways, how to split the load, a 1-minute beach haul plan and signs worth getting checked.",
+  "story": {
+    "headline": "Heading to the beach?",
+    "body": "Split the load, use wheels,<br>take two trips.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-16",
+  "created": "2026-12-16-4",
+  "status": "approved",
+  "review_warnings": []
+}

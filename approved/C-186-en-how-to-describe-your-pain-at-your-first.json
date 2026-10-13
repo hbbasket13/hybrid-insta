@@ -1,0 +1,128 @@
+{
+  "id": "C-186-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "How to describe your pain at your first appointment",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "\"It just... hurts?\"<br><em>Describing pain, made easy</em>",
+      "sub": "Five details to jot down before your first visit",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "A quick note<br>is all it takes!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "First appointment.<br>Koko's mind goes <em>blank</em>.",
+      "char": "koala_tired",
+      "bubble": "Where did it hurt<br>again..?",
+      "bubble_type": "thought",
+      "note": "(she had so much to say in the waiting room..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "In the treatment room,<br>Koko meets Hybi.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "So, where's it<br>bothering you?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Umm.. it just<br>sort of hurts..?"
+      },
+      "note": "Hybi shares <mark>five easy ways</mark> to describe it."
+    },
+    {
+      "kind": "compare",
+      "title": "Swap \"it hurts\"<br>for <em>a few details</em>",
+      "fact": "There's <em>no wrong answer</em> · your own words are perfectly fine",
+      "left": {
+        "label": "A few details",
+        "char": "koala_happy",
+        "caption": "Where, what, when helps<br><b>shape your plan</b>"
+      },
+      "right": {
+        "label": "\"It just hurts\"",
+        "char": "koala_tired",
+        "caption": "Blank on the day and<br><em>key clues get missed</em>"
+      },
+      "quip": "A note in your phone<br>does the trick!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>5-line pain note</b>",
+      "sub": "Jot it down the day before!",
+      "sections": [
+        {
+          "heading": "1. Note these down",
+          "color": "yellow",
+          "lines": [
+            "① <em>Where</em> is it, and does it spread?",
+            "② <em>What's it like</em>? Dull, sharp, burning, tingly.",
+            "③ What makes it <em>better</em>, and <em>worse</em>?",
+            "④ <em>When</em> it started, and what you <em>want back</em>."
+          ]
+        },
+        {
+          "heading": "2. Don't wait for the booking if…",
+          "color": "purple",
+          "lines": [
+            "You notice <em>sudden weakness</em> or numbness —",
+            "see your GP or emergency department."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Notes ready but<br><em>still worried</em>?",
+      "bubble": "Causes differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain that keeps building",
+        "Arm or leg tingling",
+        "Pain waking you at night"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Have a chat with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Ever sat in an appointment and blanked on how to describe your pain? It's really common. 📝\n\nA quick five-line note in your phone the day before makes a big difference: where it is and whether it spreads, what it feels like, what makes it better or worse, how it started and changed, and what you'd like to get back to doing.\n\nWords like dull, sharp, burning or tingling are all useful, and there are no wrong answers. Use your own words, even if they sound a bit odd.\n\nOur team at Hybrid Physio will walk you through these questions anyway, but a bit of prep means more time for the useful stuff. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#firstappointment",
+    "#painmanagement",
+    "#patienttips",
+    "#chiropractor",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#healthtips"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on how to describe your pain at a first appointment, a five-line pain note and signs that shouldn't wait.",
+  "story": {
+    "headline": "Hard to describe your pain?",
+    "body": "Where, what, when, what helps,<br>what you want back.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-24",
+  "created": "2026-12-24-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-161-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Tennis and golf: shoulder care for weekend players",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "주말엔 신나게,<br><em>월요일엔 어깨가..</em>",
+      "sub": "주말 테니스·골프 어깨 관리법",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "어깨 준비,<br>같이 해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "몇 주 쉬다가<br>토요일 <em>대회 하루 종일</em>.",
+      "char": "rabbit_tired",
+      "bubble": "서브 넣을 때마다<br>어깨가 찌릿..?",
+      "bubble_type": "thought",
+      "note": "(워밍업은 건너뛰고 바로 풀스윙..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "월요일 퇴근길,<br><b>채스우드</b>에서 하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>주말에 많이 쳤죠?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "그럼 이제<br>쉬어야 할까요?"
+      },
+      "note": "하비는 <mark>조금씩 자주</mark>가 핵심이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "파워는 <em>다리와 몸통</em>에서<br>나와요",
+      "fact": "갑자기 많이 치면 어깨가 <em>준비 없이</em> 부담을 받아요",
+      "left": {
+        "label": "자주 조금씩",
+        "char": "rabbit_happy",
+        "caption": "주중에 나눠서<br><b>조금씩 자주</b>"
+      },
+      "right": {
+        "label": "몰아서 한 번에",
+        "char": "rabbit_tired",
+        "caption": "몇 주 쉬다 하루 종일<br><em>어깨가 깜짝</em>"
+      },
+      "quip": "몸 전체로<br>스윙해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>어깨 준비 운동</b>",
+      "sub": "주 2~3번이면 돼요!",
+      "sections": [
+        {
+          "heading": "1. 치기 전 & 주중",
+          "color": "yellow",
+          "lines": [
+            "① 경기 전 <em>5분</em> 팔 돌리기·밴드 당기기.",
+            "② 옆으로 누워 <em>외회전</em> 10~15회 × 3세트.",
+            "③ 밴드 로우 <em>주 2~3번</em>, 가볍게 시작.",
+            "④ 고관절·등 가운데 <em>회전 운동</em>도 함께."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "<em>뚝 소리와 멍</em>이 생기거나,",
+            "팔로 <em>저림</em>이 내려가면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "어깨가 계속<br><em>신경 쓰인다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "아파서 그쪽으로 못 잔다",
+        "팔 들 때 힘이 없다",
+        "몇 주째 그대로다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "몇 주 쉬다가 토요일 하루 종일 테니스를 친 토토. 월요일, 어깨가 찌릿해요 🎾\n\n갑자기 많이 치면 어깨가 준비 없이 부담을 받기 쉬워요. 주중에 조금씩 자주 치고, 경기 전 5분 워밍업은 꼭!\n\n옆으로 누워 외회전과 밴드 로우를 주 2~3번, 가볍게 10~15회 × 3세트부터. 파워는 다리와 몸통에서 나오니 고관절·등 가운데 회전 운동도 함께해요.\n\n아파서 그쪽으로 못 자거나, 팔 들 때 힘이 없거나, 몇 주째 그대로라면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#어깨통증",
+    "#테니스",
+    "#골프",
+    "#회전근개",
+    "#주말운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#shoulderpain",
+    "#sportsphysio",
+    "#chatswoodphysio"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 주말 테니스·골프 후 어깨가 아픈 이유, 조금씩 자주와 몰아서 하기 비교, 어깨 준비 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "주말 스윙, 어깨는 괜찮나요?",
+    "body": "경기 전 5분 워밍업,<br>주중엔 조금씩 자주!",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-15",
+  "created": "2026-12-15-5",
+  "status": "approved",
+  "review_warnings": []
+}

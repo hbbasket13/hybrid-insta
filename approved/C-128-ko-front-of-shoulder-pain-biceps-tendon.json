@@ -1,0 +1,128 @@
+{
+  "id": "C-128-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Front-of-shoulder pain (biceps tendon)",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "벤치프레스만 하면<br>어깨 <em>앞쪽이 콕콕</em>",
+      "sub": "이두근 힘줄과 어깨 앞쪽 통증",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "멈추지 말고<br>조절해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "현장에선 자재 나르고,<br>저녁엔 <em>헬스장</em>까지.",
+      "char": "kanga_tired",
+      "bubble": "벤치 내릴 때마다<br>어깨 앞이 찌릿..<br>운동 쉬어야 하나?",
+      "bubble_type": "thought",
+      "note": "(턱걸이 할 때도 앞쪽이 욱신..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "루루는 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요, 루루!<br>어깨가 불편하죠?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "헬스 완전히<br>끊어야 하나요?"
+      },
+      "note": "하비는 <mark>멈추지 말고 조절하기</mark>를 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "완전히 쉬기보다<br><em>조절하며</em> 운동하기",
+      "fact": "이두근 장두 힘줄은 <em>어깨 앞 홈</em>을 지나 올라가요",
+      "left": {
+        "label": "조절하기",
+        "char": "kanga_happy",
+        "caption": "자극하는 동작만 줄이고<br><b>나머지는 계속</b>"
+      },
+      "right": {
+        "label": "완전히 쉬기",
+        "char": "kanga_tired",
+        "caption": "회복이 오히려<br><em>더뎌질 수</em> 있어요"
+      },
+      "quip": "그다음은 천천히<br>다시 쌓아 올리기!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>어깨 앞쪽 관리법</b>",
+      "sub": "운동은 계속, 강도는 조절!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 조절해요",
+          "color": "yellow",
+          "lines": [
+            "① 넓은 그립 벤치·깊은 딥스는 <em>잠시 줄이기</em>.",
+            "② 나머지 운동은 <em>평소처럼</em> 이어가요.",
+            "③ 이두·회전근개·견갑 근력을 <em>천천히</em>.",
+            "④ 무게·범위·속도는 <em>하나씩</em> 올리기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인받기!",
+          "color": "purple",
+          "lines": [
+            "'뚝' 소리 뒤 팔에 <em>멍이 퍼지거나</em>,",
+            "위팔에 <em>새로운 볼록함</em>이 보이면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "조절해도<br><em>계속 아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "뚝 소리와 함께 멍",
+        "위팔이 볼록 튀어나옴",
+        "밤에도 계속 쑤신다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "벤치프레스나 턱걸이 할 때 어깨 바로 앞쪽이 콕콕 쑤신다면? 이두근 힘줄이 관련된 경우가 많아요.\n\n머리 위로 드는 운동이나 미는 운동이 갑자기 늘었을 때, 무거운 짐을 많이 들 때 잘 올라와요. 대부분은 운동을 완전히 끊을 필요는 없어요. 자극하는 동작만 잠시 줄이고 나머지는 이어가는 게 보통 더 도움이 돼요.\n\n그다음엔 이두근, 회전근개, 견갑 근력을 천천히 쌓아요. '뚝' 소리와 멍, 위팔의 새로운 볼록함은 확인받기! 시드니 CBD·채스우드 물리치료사가 도와드려요. 프로필 링크에서 온라인 예약 💪\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#어깨통증",
+    "#이두근건염",
+    "#헬스",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#shoulderpain",
+    "#bicepstendon",
+    "#gym",
+    "#sydneyphysio",
+    "#physiotherapy"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 어깨 앞쪽 통증과 이두근 힘줄, 조절하기와 완전히 쉬기 비교, 어깨 관리법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "벤치만 하면 어깨 앞이 콕콕?",
+    "body": "완전히 쉬기보다,<br>조절하며 운동!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-02",
+  "created": "2026-12-02-5",
+  "status": "approved",
+  "review_warnings": []
+}

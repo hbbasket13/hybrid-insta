@@ -1,0 +1,129 @@
+{
+  "id": "C-183-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Getting up off the floor: a skill worth practising",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "바닥에서 일어나기,<br><em>연습</em>하면 늘어요!",
+      "sub": "피크닉 시즌 전에 익혀두는 기술",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "단계별로<br>해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "여름 피크닉, 돗자리에서<br>코코가 <em>못 일어나고 있다</em>.",
+      "char": "koala_tired",
+      "bubble": "어디를 짚고<br>일어나야 하지..?",
+      "bubble_type": "thought",
+      "note": "(손주들은 벌써 저만치 뛰어갔다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "피크닉 다음 주,<br><b>하이브리드 피지오</b>에 온 코코.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코, 바닥에서<br>일어나기 연습해볼까요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "그게 연습이<br>되는 거예요..?"
+      },
+      "note": "하비는 <mark>단계로 나누기</mark>부터 알려주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "한 번에 벌떡보다<br><em>단계별로!</em>",
+      "fact": "바닥에서 일어나기는 <em>힘·균형·자신감</em>이 합쳐진 기술이에요",
+      "left": {
+        "label": "단계로 나눠서",
+        "char": "koala_happy",
+        "caption": "옆→네발→한쪽 무릎→<br><b>천천히 일어서기</b>"
+      },
+      "right": {
+        "label": "한 번에 벌떡",
+        "char": "koala_tired",
+        "caption": "힘이 한 번에 몰려서<br><em>휘청할 수 있어요</em>"
+      },
+      "quip": "의자 짚고 시작해도<br>충분해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>바닥 일어나기 연습</b>",
+      "sub": "의자나 소파 옆에서 시작!",
+      "sections": [
+        {
+          "heading": "1. 4단계로 나눠요",
+          "color": "yellow",
+          "lines": [
+            "① 누운 자세에서 <em>옆으로 돌아누워요</em>.",
+            "② 손으로 밀어 <em>네발 자세</em>로.",
+            "③ 의자 짚고 <em>한쪽 무릎 세우기</em>.",
+            "④ 밀고 일어서기, <em>양쪽 번갈아 3~5회</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기",
+          "color": "purple",
+          "lines": [
+            "일어날 때 <em>어지럽거나</em>,",
+            "무릎·고관절 <em>통증 때문에 못 하면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "연습이<br><em>어렵게 느껴진다면?</em>",
+      "bubble": "몸은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "최근 넘어진 적 있다",
+        "일어설 때 어지럽다",
+        "무릎·허리 통증이 있다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 같이 연습해요!"
+    }
+  ],
+  "caption": "여름 피크닉, 돗자리에서 일어나려다 멈칫한 코코. 바닥에서 일어나기는 힘·균형·자신감이 합쳐진 기술이라 연습할수록 늘 수 있어요.\n\n옆으로 돌아눕기, 네발 자세, 한쪽 무릎 세우기, 앞발로 밀고 일어서기. 처음엔 의자나 소파를 짚고, 양쪽 다리를 번갈아 하루 3~5회 연습해요. 의자에서 일어서기 운동도 힘을 키우는 데 도움이 돼요.\n\n최근 넘어졌거나 일어설 때 어지러우면 확인받기! 채스우드·시드니 CBD 물리치료사가 맞춤으로 도와드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#낙상예방",
+    "#균형운동",
+    "#시니어운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#근력운동",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#fallsprevention",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 바닥에서 일어나기가 연습으로 느는 기술인 이유, 4단계 일어나기 연습, 확인이 필요한 신호.",
+  "story": {
+    "headline": "바닥에서 잘 일어나나요?",
+    "body": "옆→네발→한쪽 무릎→일어서기,<br>하루 3~5회!",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-23",
+  "created": "2026-12-23-3",
+  "status": "approved",
+  "review_warnings": []
+}

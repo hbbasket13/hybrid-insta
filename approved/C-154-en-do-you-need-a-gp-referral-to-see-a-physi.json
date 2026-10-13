@@ -1,0 +1,128 @@
+{
+  "id": "C-154-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Do you need a GP referral to see a physio?",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Do you need a <em>GP referral</em><br>to see a physio?",
+      "sub": "Koko's question, answered by Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Usually you can<br>book straight in!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko's knee is cranky..<br>but <em>who first</em>?",
+      "char": "koala_tired",
+      "bubble": "Do I have to see<br>the GP first..?",
+      "bubble_type": "thought",
+      "note": "(picks up the phone, puts it down again..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko finally called<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>What can I help with?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Can I book without<br>a GP referral?"
+      },
+      "note": "Hybi said it <mark>depends on how you're booking</mark>, and explained."
+    },
+    {
+      "kind": "compare",
+      "title": "When you <em>need one</em>,<br>and when you <em>don't</em>",
+      "fact": "Physios are <em>first-contact practitioners</em> in Australia",
+      "left": {
+        "label": "Private visit",
+        "char": "koala_happy",
+        "caption": "No referral needed,<br><b>book directly</b>"
+      },
+      "right": {
+        "label": "GP first",
+        "char": "koala_tired",
+        "caption": "Medicare plan, WorkCover,<br>CTP or DVA: <em>GP first</em>"
+      },
+      "quip": "Not sure? Just ask<br>before you book!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>before-you-book check</b>",
+      "sub": "Which one are you?",
+      "sections": [
+        {
+          "heading": "1. Your situation",
+          "color": "yellow",
+          "lines": [
+            "① Private visit: <em>no referral</em>, book directly.",
+            "② Medicare chronic condition plan: <em>GP first</em>.",
+            "③ WorkCover or CTP: GP certificate + <em>claim number</em>.",
+            "④ DVA: bring your <em>card and GP referral</em>."
+          ]
+        },
+        {
+          "heading": "2. Still not sure?",
+          "color": "purple",
+          "lines": [
+            "<em>Call or message us</em> before you book.",
+            "Sorting paperwork <em>early</em> is much easier!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Worried about<br><em>the pain itself</em>?",
+      "bubble": "Every situation differs.<br><b>Assessment</b> comes first!",
+      "heading": "See your GP too if you notice",
+      "items": [
+        "Swelling after a fall",
+        "Fever or feeling unwell",
+        "Pain that keeps you up"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Do you need a GP referral to see a physio? For most people, no.\n\nPhysiotherapists are first-contact practitioners in Australia, so you can book a private appointment directly.\n\nA referral does matter in a few situations. A Medicare chronic condition management plan is set up by your GP first. WorkCover and CTP claims usually start with a GP certificate and a claim number, and DVA clients usually need a GP referral and their card.\n\nNot sure which applies to you? Call or message us before your visit. We're at Chatswood and Sydney CBD. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#gpreferral",
+    "#medicare",
+    "#workcover",
+    "#dva",
+    "#alliedhealth",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining when you need a GP referral to see a physio, covering private visits, Medicare plans, WorkCover, CTP and DVA.",
+  "story": {
+    "headline": "GP referral for physio?",
+    "body": "Private visits: no.<br>Medicare, WorkCover, CTP, DVA: ask us.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-12",
+  "created": "2026-12-12-4",
+  "status": "approved",
+  "review_warnings": []
+}

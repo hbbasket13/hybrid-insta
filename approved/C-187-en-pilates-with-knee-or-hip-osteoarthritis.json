@@ -1,0 +1,128 @@
+{
+  "id": "C-187-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates with knee or hip osteoarthritis",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Arthritic knee or hip?<br><em>Pilates can still work</em>",
+      "sub": "Why moving is usually part of the answer",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Yes, you can!<br>Here's how"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After a Boxing Day walk,<br>Koko's knee <em>creaks</em>.",
+      "char": "koala_tired",
+      "bubble": "Won't exercise wear<br>my knee out more..?",
+      "bubble_type": "thought",
+      "note": "(so lately, she's mostly been sitting..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After some hesitation, Koko<br>visits <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Koko, how's<br>that knee?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "I'm scared exercise<br>will make it worse.."
+      },
+      "note": "Hybi talks her through <mark>current guidelines</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Joints <em>like</em><br>to move",
+      "fact": "Guidelines recommend <em>exercise first</em> for knee and hip OA",
+      "left": {
+        "label": "Spring-supported",
+        "char": "koala_happy",
+        "caption": "Start with less body weight,<br><b>build up gradually</b>"
+      },
+      "right": {
+        "label": "Avoiding it",
+        "char": "koala_tired",
+        "caption": "Weaker muscles can leave<br>it <em>feeling stiffer</em>"
+      },
+      "quip": "A mild ache that settles<br>in a day is usually OK!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>joint-friendly Pilates</b>",
+      "sub": "Start lying or sitting",
+      "sections": [
+        {
+          "heading": "1. Good starting points",
+          "color": "yellow",
+          "lines": [
+            "① Reformer <em>footwork</em>: spring-supported, x10.",
+            "② <em>Bridges x10</em> to wake up the glutes.",
+            "③ Side-lying <em>leg lifts</em>, 10 each side.",
+            "④ Mild ache that <em>settles within a day</em>? Fine."
+          ]
+        },
+        {
+          "heading": "2. Scale back and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Pain is <em>much worse the next morning</em>,",
+            "or the joint gets <em>hot and very swollen</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Noticing any of<br><em>these</em>?",
+      "bubble": "Every joint is different.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hot, very swollen joint",
+        "Locking or giving way",
+        "Pain waking you at night"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Start gently with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Told you have osteoarthritis in your knee or hip, and now worried about exercising?\n\nCurrent guidelines put exercise at the front of the queue for knee and hip osteoarthritis. Strengthening the muscles around the joint can help ease stiffness and keep you doing what you enjoy.\n\nClinical Pilates is a comfortable way in for many people. Reformer springs can support you at first, many exercises start lying or sitting, and the load builds gradually. A mild ache that settles within a day is usually fine. Much worse the next morning means scale back, not stop.\n\nA hot, very swollen joint, or one that locks or gives way, is worth getting checked. Our Pilates team at Hybrid Physio tailors every program. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#osteoarthritis",
+    "#kneepain",
+    "#hippain",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#jointhealth",
+    "#pilates",
+    "#healthyageing"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on doing Pilates with knee or hip osteoarthritis, why joints like movement, joint-friendly starting exercises and signs worth getting checked.",
+  "story": {
+    "headline": "Arthritis? Pilates can help",
+    "body": "Spring-supported, start slow.<br>Mild ache that settles is OK.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-26",
+  "created": "2026-12-26-4",
+  "status": "approved",
+  "review_warnings": []
+}

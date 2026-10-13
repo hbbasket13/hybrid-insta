@@ -1,0 +1,128 @@
+{
+  "id": "C-136-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Rolling out of bed with a sore back",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Alarm's going off..<br>but <em>getting up hurts</em>",
+      "sub": "A smoother way out of bed",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Let's roll,<br>not jump!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Eyes open, but her back<br>feels <em>stiff as a log</em>.",
+      "char": "koala_tired",
+      "bubble": "If I sit straight up,<br>it'll grab again..",
+      "bubble_type": "thought",
+      "note": "(mornings are always the stiffest..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko asked Hybi about<br>it at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Morning, Koko!<br>Stiff when you wake?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Fine by lunch, but<br>mornings are rough.."
+      },
+      "note": "Hybi first explained <mark>why mornings feel stiffer</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Stiffer mornings are<br><em>really common</em>!",
+      "fact": "Hours of lying still often leave the back <em>stiffer</em> at first",
+      "left": {
+        "label": "Log roll",
+        "char": "koala_happy",
+        "caption": "Knees bent, roll as<br>one unit, <b>less twist</b>"
+      },
+      "right": {
+        "label": "Sit straight up",
+        "char": "koala_tired",
+        "caption": "Jack-knifing up<br>makes the back <em>twist</em>"
+      },
+      "quip": "Most backs loosen in<br>30–60 minutes of moving!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute wake-up routine</b>",
+      "sub": "Do it before you get up!",
+      "sections": [
+        {
+          "heading": "1. Knee rocks + log roll",
+          "color": "yellow",
+          "lines": [
+            "① Knees bent, rock them side to side <em>10 times</em>.",
+            "② <em>Hug</em> each knee to your chest in turn.",
+            "③ Roll onto your side as one unit.",
+            "④ Lower your legs and <em>push up</em> with your arms."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>wakes you</em> and doesn't ease when you",
+            "move — check in with your GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to get it<br><em>checked promptly</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See your GP promptly if",
+      "items": [
+        "Pain that wakes you",
+        "Numb groin or bladder change",
+        "Leg weakness or fever"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Getting out of bed is Koko's hardest moment of the day. After hours of lying still, a sore back usually feels its stiffest first thing, and most people loosen up within 30 to 60 minutes of moving.\n\nBefore you get up, rock your bent knees side to side ten times. Then log roll: knees bent, roll onto your side as one unit, legs over the edge and push up with your arms. Save heavy lifting for later in the morning.\n\nPain that wakes you, numbness around the groin, bladder or bowel changes, leg weakness or fever deserve a prompt GP visit. Our chiropractors at Hybrid Physio can help with the rest. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#morningstiffness",
+    "#lowerbackpain",
+    "#healthyageing",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why backs feel stiff in the morning, the log roll, a 1-minute wake-up routine and signs worth getting checked.",
+  "story": {
+    "headline": "Getting out of bed hurts?",
+    "body": "10 knee rocks,<br>then log roll up.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-05",
+  "created": "2026-12-05-4",
+  "status": "approved",
+  "review_warnings": []
+}

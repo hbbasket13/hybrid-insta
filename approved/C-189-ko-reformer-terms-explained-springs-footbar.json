@@ -1,0 +1,129 @@
+{
+  "id": "C-189-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Reformer terms explained: springs, footbar and carriage",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "캐리지? 스프링? 풋바?<br><em>리포머 용어 정리!</em>",
+      "sub": "첫 수업 전에 알아두면 편한 단어들",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "용어부터<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "첫 리포머 수업,<br>모모 귀에 <em>외계어</em>가 들린다.",
+      "char": "cat_tired",
+      "bubble": "빨간 스프링 둘에<br>파란 거 하나..?",
+      "bubble_type": "thought",
+      "note": "(다들 척척 움직이는데 나만 멈칫..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "수업 전, 모모는<br><b>하이브리드 피지오</b>로 향했다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "모모, 리포머<br>처음이죠?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "용어가 하나도<br>안 들렸어요.."
+      },
+      "note": "하비는 <mark>리포머 단어장</mark>을 펼쳐 보였다."
+    },
+    {
+      "kind": "compare",
+      "title": "스프링이 무겁다고<br><em>늘 힘든 건 아니에요!</em>",
+      "fact": "무거운 스프링은 <em>받쳐주는 힘</em>이 커서 더 쉬울 때도 있어요",
+      "left": {
+        "label": "무거운 스프링",
+        "char": "cat_happy",
+        "caption": "더 받쳐줘서<br><b>안정감이 있어요</b>"
+      },
+      "right": {
+        "label": "가벼운 스프링",
+        "char": "cat_tired",
+        "caption": "<em>조절이 더 필요</em>해서<br>오히려 어려울 수도"
+      },
+      "quip": "스프링은 강사가<br>몸에 맞게 골라요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 리포머 단어장</b>",
+      "sub": "첫 수업 전에 쓱 읽어봐요!",
+      "sections": [
+        {
+          "heading": "1. 이 4개만 알면 OK",
+          "color": "yellow",
+          "lines": [
+            "① <em>캐리지</em>: 눕거나 무릎 꿇는 움직이는 판.",
+            "② <em>스프링</em>: 저항, 무거울수록 받쳐주기도 해요.",
+            "③ <em>풋바</em>: 발·손으로 미는 끝쪽 막대.",
+            "④ <em>스트랩</em>: 손·발을 걸어 당기는 줄."
+          ]
+        },
+        {
+          "heading": "2. 타고 내릴 땐 꼭!",
+          "color": "purple",
+          "lines": [
+            "<em>캐리지가 멈췄는지</em>, 스프링이 걸렸는지 확인,",
+            "<em>찌르는 통증·저림</em>이 있으면 멈추고 말하기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "첫 수업 전<br><em>이런 게 있다면?</em>",
+      "bubble": "몸은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "강사에게 꼭 미리 말하기",
+      "items": [
+        "통증이 있는 곳이 있다",
+        "최근 다치거나 수술했다",
+        "임신 중이거나 출산 후"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 리포머 타요!"
+    }
+  ],
+  "caption": "첫 리포머 수업, \"빨간 스프링 둘에 파란 거 하나\"가 외계어처럼 들린 모모. 용어만 알아도 훨씬 편해요.\n\n캐리지는 눕거나 무릎 꿇는 움직이는 판, 스프링은 저항, 풋바는 발·손으로 미는 막대, 스트랩은 당기는 줄이에요. 재밌는 건 무거운 스프링이 오히려 받쳐줘서 더 쉬울 때도 있다는 것! 타고 내릴 땐 캐리지가 멈췄는지 꼭 확인해요.\n\n하이브리드 피지오 클리니컬 필라테스 팀은 평가부터 시작해 내 속도에 맞춰 리포머를 소개해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리포머",
+    "#리포머필라테스",
+    "#필라테스초보",
+    "#필라테스",
+    "#채스우드",
+    "#채스우드필라테스",
+    "#시드니필라테스",
+    "#하이브리드피지오",
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#chatswood",
+    "#pilatesbeginner",
+    "#sydneypilates"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 리포머 용어(캐리지·스프링·풋바·스트랩) 정리, 스프링 무게의 의미, 안전하게 타고 내리는 법, 미리 알릴 것들.",
+  "story": {
+    "headline": "리포머 용어, 이것만!",
+    "body": "캐리지·스프링·풋바·스트랩,<br>1분 단어장!",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-26",
+  "created": "2026-12-26-3",
+  "status": "approved",
+  "review_warnings": []
+}

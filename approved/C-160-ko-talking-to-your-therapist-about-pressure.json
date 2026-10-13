@@ -1,0 +1,128 @@
+{
+  "id": "C-160-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Talking to your therapist about pressure",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "\"너무 세요\"<br>그 한마디가 <em>어려워요</em>",
+      "sub": "모모의 마사지 압력 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "말해도<br>괜찮아요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "숨을 참으며 <em>꾹 버틴</em><br>마사지 한 시간.",
+      "char": "cat_tired",
+      "bubble": "너무 아픈데..<br>원래 이런 건가..?",
+      "bubble_type": "thought",
+      "note": "(말 못 하고 끝까지 참았다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "다음 날, 모모는<br><b>하비</b>에게 털어놨다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>마사지 어땠어요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "세게 해야<br>효과 있는 거죠?"
+      },
+      "note": "하비는 <mark>세다고 더 좋은 건 아니라고</mark> 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "0부터 10까지,<br><em>숫자로</em> 말해요",
+      "fact": "많은 사람에게 <em>5~7 정도</em>가 편하면서 도움되는 강도",
+      "left": {
+        "label": "5~7 정도",
+        "char": "cat_happy",
+        "caption": "단단하지만 편안해<br><b>근육이 풀려요</b>"
+      },
+      "right": {
+        "label": "숨 참기",
+        "char": "cat_tired",
+        "caption": "숨을 참는다면<br><em>너무 센 거예요</em>"
+      },
+      "quip": "언제든 말해도<br>괜찮아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>압력 대화법</b>",
+      "sub": "다음 예약 때 써봐요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 말해요",
+          "color": "yellow",
+          "lines": [
+            "① \"지금 <em>10 중에 8</em>이에요\" 숫자로 말하기.",
+            "② 더 세게·약하게·다른 곳, <em>언제든</em> 요청.",
+            "③ 최근 부상·멍이 잘 듦·임신은 <em>미리</em> 알리기.",
+            "④ 피하고 싶은 부위도 먼저 말해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 알려주세요!",
+          "color": "purple",
+          "lines": [
+            "하루 이틀 <em>살짝 뻐근한 건</em> 흔하지만,",
+            "<em>심한 멍·점점 심해지는 통증</em>은 꼭 알리기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "마사지 후<br><em>계속 아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "멍이 크게 들었다",
+        "통증이 점점 심해진다",
+        "저림이 새로 생겼다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "\"너무 세요\" 그 한마디를 못 하고 한 시간을 참은 모모.\n\n세다고 무조건 더 좋은 건 아니에요. 근육이 버티지 않고 풀릴 수 있는, 단단하지만 편안한 압력이 더 도움될 때가 많아요. 0~10 중 5~7 정도가 많은 사람에게 편한 구간이고, 숨을 참는다면 너무 센 거예요.\n\n더 세게, 약하게, 다른 부위로, 언제든 말해도 돼요. 마사지는 재활 운동을 대신하기보다 함께할 때 좋아요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#마사지",
+    "#리메디얼마사지",
+    "#마사지압력",
+    "#근육통",
+    "#셀프케어",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#massagetherapy",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 마사지 압력을 숫자로 말하는 법, 적당한 압력과 너무 센 압력 비교, 대화 팁, 알려야 할 신호.",
+  "story": {
+    "headline": "마사지 압력, 말해요!",
+    "body": "0~10 중 5~7 정도.<br>숨 참으면 너무 센 거예요.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-15",
+  "created": "2026-12-15-1",
+  "status": "approved",
+  "review_warnings": []
+}

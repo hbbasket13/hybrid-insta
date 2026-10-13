@@ -1,0 +1,128 @@
+{
+  "id": "C-172-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Tight hamstrings: massage, stretching and strength",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Stretch every day,<br>still <em>tight hamstrings</em>?",
+      "sub": "Massage, stretching and strength: try all three",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Three tools<br>work together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Toto stretches daily,<br>and nothing <em>changes</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why won't they<br>loosen up..?",
+      "bubble_type": "thought",
+      "note": "(after every run, the back of the thighs pull..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Hamstrings<br>grumbling?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. will a massage<br>sort them out?"
+      },
+      "note": "Hybi explained <mark>tight doesn't always mean short</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Tight isn't<br>always <em>short</em>",
+      "fact": "Tired, protective or underloaded muscles can <em>feel tight</em> too",
+      "left": {
+        "label": "All three",
+        "char": "rabbit_happy",
+        "caption": "Massage, stretch,<br>then <b>strengthen</b>"
+      },
+      "right": {
+        "label": "Stretch only",
+        "char": "rabbit_tired",
+        "caption": "Feels better, then<br><em>tight again</em>"
+      },
+      "quip": "Strength is<br>the long game!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute hamstring plan</b>",
+      "sub": "Start twice a week!",
+      "sections": [
+        {
+          "heading": "1. Mix all three",
+          "color": "yellow",
+          "lines": [
+            "① After massage, <em>follow with movement</em>.",
+            "② Supported stretch, <em>30 sec</em>; never sharp.",
+            "③ Bridges, <em>10 × 2</em>, twice a week.",
+            "④ Then build to Romanian deadlifts."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Tingling</em>, pain down the leg or low back",
+            "pain comes with it: see a physio or GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "<em>Still pulling</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling or nerviness",
+        "Pain down the leg",
+        "Low back pain with it"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Stretching every day and the hamstrings still feel tight? Toto's been there.\n\nHamstrings can feel tight because they're tired, protective or underloaded, not only because they lack length. That's why stretching alone often doesn't change the feeling for long.\n\nRemedial massage can help them feel easier in the short term, and that's a useful window for movement. Add a gentle supported stretch for about 30 seconds, then bridges and Romanian deadlifts twice a week. Massage complements strength work; it doesn't replace it.\n\nTingling, pain down the leg or low back pain alongside it are worth a physio or GP assessment. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#hamstrings",
+    "#tighthamstrings",
+    "#stretching",
+    "#strengthtraining",
+    "#runner",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#recovery"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why hamstrings feel tight, how massage, stretching and strength work together, a 1-minute hamstring plan and signs worth getting checked.",
+  "story": {
+    "headline": "Tight hamstrings on repeat?",
+    "body": "Add bridges twice a week<br>to massage and stretching.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-19",
+  "created": "2026-12-19-4",
+  "status": "approved",
+  "review_warnings": []
+}

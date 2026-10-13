@@ -1,0 +1,128 @@
+{
+  "id": "C-157-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Floor play with kids: easier on your back",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "손주랑 바닥 놀이,<br><em>일어날 때가</em> 고비",
+      "sub": "코코의 허리 편한 놀이 시간",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "요령만 알면<br>괜찮아요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "방학 내내 <em>레고</em>,<br>바닥에 앉은 코코.",
+      "char": "koala_tired",
+      "bubble": "한 시간 내내<br>이 자세였네..?",
+      "bubble_type": "thought",
+      "note": "(일어나려니 허리가 '삐걱'..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "손주와 함께<br><b>하이브리드 피지오</b>에 들른 코코.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "반가워요!<br>놀이가 길었죠?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "바닥 놀이,<br>그만해야 할까요?"
+      },
+      "note": "하비는 <mark>자세를 자주 바꾸는 것</mark>이 핵심이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "바닥이 아니라<br><em>한 자세</em>가 문제",
+      "fact": "허리는 어떤 자세보다 <em>같은 자세 한 시간</em>을 싫어해요",
+      "left": {
+        "label": "자주 바꾸기",
+        "char": "koala_happy",
+        "caption": "무릎·옆으로·엎드려<br><b>몇 분마다 바꿔요</b>"
+      },
+      "right": {
+        "label": "한 자세로",
+        "char": "koala_tired",
+        "caption": "접힌 채 한 시간<br><em>허리가 뻐근해요</em>"
+      },
+      "quip": "놀이는 계속,<br>자세만 바꿔요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>바닥에서 일어나기</b>",
+      "sub": "소파 잡아도 괜찮아요!",
+      "sections": [
+        {
+          "heading": "1. 4단계로 일어나기",
+          "color": "yellow",
+          "lines": [
+            "① 옆으로 <em>굴러</em> 돌아누워요.",
+            "② <em>네발 자세</em>로 올라와요.",
+            "③ 한 발을 앞으로 내디뎌요.",
+            "④ 소파를 짚고 <em>다리 힘으로</em> 일어나요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "다리로 <em>저림</em>이 내려가거나,",
+            "며칠 지나도 <em>점점 심해지면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "놀이 후 허리가<br><em>계속 아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "다리가 저리다",
+        "점점 더 아파진다",
+        "아이를 안기 힘들다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "방학 내내 손주와 바닥에서 레고 놀이를 한 코코. 일어나려니 허리가 삐걱해요.\n\n바닥 자체보다 같은 자세로 오래 접혀 있는 게 문제일 때가 많아요. 무릎 꿇기, 옆으로 앉기, 엎드리기를 몇 분마다 바꾸고, 퍼즐은 커피 테이블로 올려봐요.\n\n일어날 땐 옆으로 구르고, 네발 자세, 한 발 내딛고, 소파를 짚고 다리 힘으로! 아이를 안을 땐 가까이 다가가 무릎을 굽혀요.\n\n다리 저림이나 점점 심해지는 통증은 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#손주육아",
+    "#육아",
+    "#방학",
+    "#바닥놀이",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#backpain",
+    "#chiropractic",
+    "#parentlife"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 아이와 바닥 놀이할 때 허리가 아픈 이유, 자세 바꾸기 비교, 바닥에서 일어나는 4단계, 확인이 필요한 신호.",
+  "story": {
+    "headline": "바닥 놀이, 허리 편하게!",
+    "body": "몇 분마다 자세 바꾸기,<br>일어날 땐 소파 짚기.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-14",
+  "created": "2026-12-14-1",
+  "status": "approved",
+  "review_warnings": []
+}

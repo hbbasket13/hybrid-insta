@@ -1,0 +1,128 @@
+{
+  "id": "C-158-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Beach volleyball: shoulders and ankles in the sand",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Spiking on sand?<br>Your <em>ankles and shoulders</em> noticed",
+      "sub": "Toto's first beach volleyball season",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Warm-up first,<br>then let's play!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day Saturday,<br><em>jumping</em> in the sand.",
+      "char": "rabbit_tired",
+      "bubble": "Heavy legs,<br>stiff shoulder..",
+      "bubble_type": "thought",
+      "note": "(and one ankle rolled a little, too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Monday morning,<br>Toto dropped in on <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey Toto!<br>Beach volleyball?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep! Can I keep<br>playing all summer?"
+      },
+      "note": "Hybi suggested prepping <mark>ankles and the back of the shoulder</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Sand makes <em>every step</em><br>harder work",
+      "fact": "Sand shifts, so calves, ankles and hips <em>work harder</em>",
+      "left": {
+        "label": "Short to start",
+        "char": "rabbit_happy",
+        "caption": "Shorter sessions<br><b>for the first weeks</b>"
+      },
+      "right": {
+        "label": "All day, day one",
+        "char": "rabbit_tired",
+        "caption": "Before legs adapt,<br><em>a big jump in load</em>"
+      },
+      "quip": "Give your legs<br>time to adapt!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>beach volleyball prep</b>",
+      "sub": "2–3 times a week is plenty!",
+      "sections": [
+        {
+          "heading": "1. Ankles and shoulders",
+          "color": "yellow",
+          "lines": [
+            "① Single-leg balance <em>30 sec × 3</em> each side.",
+            "② Calf raises and <em>small hops</em> on firm ground.",
+            "③ Band rotations and rows, <em>twice a week</em>.",
+            "④ <em>5-min</em> warm-up: jog, side shuffles, arm circles."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "You <em>can't put weight</em> on the ankle,",
+            "or the shoulder feels like it <em>slips out</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> after<br>a week or two?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Can't put weight on ankle",
+        "Shoulder feels unstable",
+        "Swelling that keeps building"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Toto spent all Saturday jumping on the sand. Now: heavy legs and a stiff shoulder 🏐\n\nSoft sand shifts with every step, so calves and ankles work overtime, and spiking and serving load the back of the shoulder with every rally.\n\nA few habits go a long way: shorter sessions while your legs adapt, single-leg balance and calf raises for your ankles, band rotations and rows for your shoulders, and a five-minute warm-up on the sand before the first game. Check the sand isn't scorching before going barefoot.\n\nAn ankle you can't stand on, a shoulder that feels unstable or swelling that keeps building is worth getting assessed. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#beachvolleyball",
+    "#volleyball",
+    "#sportsphysio",
+    "#anklesprain",
+    "#shoulderpain",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#summersport",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit on preparing ankles and shoulders for beach volleyball, starting with shorter sessions, a prep routine and signs worth getting checked.",
+  "story": {
+    "headline": "Playing beach volleyball?",
+    "body": "Balance 30 sec × 3 and<br>a 5-minute warm-up.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-14",
+  "created": "2026-12-14-2",
+  "status": "approved",
+  "review_warnings": []
+}

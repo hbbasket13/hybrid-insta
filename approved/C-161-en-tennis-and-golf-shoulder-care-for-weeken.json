@@ -1,0 +1,128 @@
+{
+  "id": "C-161-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Tennis and golf: shoulder care for weekend players",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Great weekend of tennis,<br><em>cranky shoulder by Monday</em>",
+      "sub": "Shoulder care for weekend players",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's get that<br>shoulder ready!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weeks off, then a<br><em>full-day tournament</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Every serve..<br>a sharp twinge?",
+      "bubble_type": "thought",
+      "note": "(skipped the warm-up, straight to full power..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Heading home Monday,<br>Toto met Hybi in <b>Chatswood</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey Toto!<br>Big weekend on court?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "So.. should I<br>stop playing?"
+      },
+      "note": "Hybi said <mark>a little, more often</mark> is the key."
+    },
+    {
+      "kind": "compare",
+      "title": "Power comes from the<br><em>legs and trunk</em>",
+      "fact": "A sudden jump in play loads the shoulder <em>before it's ready</em>",
+      "left": {
+        "label": "Little and often",
+        "char": "rabbit_happy",
+        "caption": "Spread across<br>the week, <b>build up</b>"
+      },
+      "right": {
+        "label": "All at once",
+        "char": "rabbit_tired",
+        "caption": "Weeks off, then all day:<br><em>shoulder's surprised</em>"
+      },
+      "quip": "Swing with your<br>whole body!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>shoulder prep routine</b>",
+      "sub": "2–3 times a week is enough!",
+      "sections": [
+        {
+          "heading": "1. Before play and midweek",
+          "color": "yellow",
+          "lines": [
+            "① <em>5-min</em> warm-up: arm circles, band pull-aparts.",
+            "② Side-lying <em>external rotations</em>, 3 × 10–15.",
+            "③ Band rows <em>2–3 times a week</em>, start light.",
+            "④ Add <em>hip and mid-back rotation</em> drills too."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "You feel a <em>sudden pop with bruising</em>,",
+            "or <em>pins and needles</em> down the arm."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Shoulder <em>still</em><br>bothering you?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Can't sleep on that side",
+        "Weakness lifting the arm",
+        "Pain lasting several weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Weeks off, then a full day of tennis, and Toto's shoulder is twinging by Monday 🎾\n\nA sudden jump in play is a common trigger for sore shoulders. Where you can, play a little more often rather than a lot at once, and warm up for five minutes before going full power.\n\nSide-lying external rotations and band rows two or three times a week help the shoulder handle repeated swings. Start light, three sets of 10 to 15. Power comes from the legs and trunk, so hip and mid-back mobility helps too.\n\nPain that stops you sleeping on that side, weakness lifting the arm or pain lasting weeks is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#shoulderpain",
+    "#tennis",
+    "#golf",
+    "#rotatorcuff",
+    "#sportsphysio",
+    "#shoulderstrength",
+    "#weekendwarrior",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit on shoulder care for weekend tennis and golf players, little-and-often versus all-at-once, a shoulder prep routine and signs worth checking.",
+  "story": {
+    "headline": "Weekend swings, happy shoulders",
+    "body": "5-minute warm-up, then play<br>a little more often.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-15",
+  "created": "2026-12-15-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-134-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Rib pain after coughing or twisting",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "콜록! 한 번에<br><em>갈비뼈가 찌릿</em>",
+      "sub": "기침 뒤 옆구리 통증, 하비와 알아봐요",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "숨 쉬는 법부터<br>같이 봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "감기 끝물,<br>기침이 <em>멈추질 않는</em> 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "숨만 크게 쉬어도<br>옆구리가 찌릿..",
+      "bubble_type": "thought",
+      "note": "(돌아누울 때도 깜짝 놀랄 만큼 아프다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "결국 <b>하이브리드 피지오</b>로<br>하비를 찾아갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>기침하다 다쳤어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "아플까 봐 숨도<br>얕게 쉬고 있어요.."
+      },
+      "note": "하비는 먼저 <mark>숨을 참는 습관</mark>부터 짚어주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "갈비뼈도 <em>숨 쉴 때마다</em><br>움직여요!",
+      "fact": "갈비뼈는 <em>작은 관절</em>로 척추·가슴뼈와 이어져요",
+      "left": {
+        "label": "천천히 깊게",
+        "char": "turtle_happy",
+        "caption": "깊은 숨이 갈비뼈를<br><b>부드럽게</b> 움직여요"
+      },
+      "right": {
+        "label": "숨 참기",
+        "char": "turtle_sad",
+        "caption": "얕게만 쉬면<br><em>더 뻣뻣해질 수</em> 있어요"
+      },
+      "quip": "대부분 몇 주에 걸쳐<br>서서히 가라앉아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 숨 고르기</b>",
+      "sub": "기침이 잦은 날 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 깊은 숨 + 베개 안기",
+          "color": "yellow",
+          "lines": [
+            "① 편하게 앉아 어깨 힘을 빼요.",
+            "② 코로 <em>4초</em> 들이쉬고 천천히 내쉬어요.",
+            "③ <em>5번씩</em>, 1시간에 한 번 정도.",
+            "④ 기침할 땐 <em>베개를 꼭</em> 안아요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "숨이 차거나 <em>열·피 섞인 기침</em>이 있다면",
+            "멈추고 GP 먼저 만나기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>먼저 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 GP 먼저 확인받기",
+      "items": [
+        "가슴 통증과 숨이 참",
+        "넘어지거나 부딪힌 뒤",
+        "점점 더 심해진다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "기침 한 번에 갈비뼈가 찌릿한 거북씨. 세게 기침하거나 몸을 비틀면 갈비뼈 사이 작은 관절과 근육이 놀랄 수 있어요.\n\n아플까 봐 숨을 얕게만 쉬면 오히려 더 뻣뻣해질 수 있어요. 1시간에 한 번 천천히 깊은 숨 5번, 기침할 땐 베개 꼭 안기, 가벼운 걷기가 도움이 될 수 있어요. 대부분 몇 주에 걸쳐 가라앉아요.\n\n가슴 통증과 숨참, 열, 피 섞인 기침, 넘어진 뒤 통증은 GP 먼저, 응급 시 000. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#갈비뼈통증",
+    "#기침",
+    "#옆구리통증",
+    "#물리치료",
+    "#호흡운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#ribpain"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 기침 뒤 갈비뼈 통증의 이유, 깊은 숨의 중요성, 1분 호흡법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "기침할 때 갈비뼈가 찌릿?",
+    "body": "깊은 숨 5번 + 베개 안기,<br>1시간에 한 번!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-04",
+  "created": "2026-12-04-5",
+  "status": "approved",
+  "review_warnings": []
+}

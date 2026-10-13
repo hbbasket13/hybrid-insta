@@ -1,0 +1,128 @@
+{
+  "id": "C-178-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Keeping up Pilates over the holidays: a 10-minute routine",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Off on holiday?<br>Pack <em>10 minutes</em> of Pilates",
+      "sub": "A mat routine for a hotel room or beach towel",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Just 10 minutes,<br>together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo's at the beach,<br><em>missing the studio</em>.",
+      "char": "cat_tired",
+      "bubble": "Will I lose all<br>my strength..?",
+      "bubble_type": "thought",
+      "note": "(two weeks of holiday, zero minutes of Pilates..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Before the trip, Momo<br>visits <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Momo! Heading<br>away soon?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yes! But no reformer<br>means no Pilates,<br>right..?"
+      },
+      "note": "Hybi shares a <mark>one-towel routine</mark> instead."
+    },
+    {
+      "kind": "compare",
+      "title": "Little and often<br><em>keeps it ticking</em>",
+      "fact": "No gear, 10 minutes, <em>3 times a week</em> can hold onto most of it",
+      "left": {
+        "label": "10 min, 3x/week",
+        "char": "cat_happy",
+        "caption": "Short and steady keeps<br>your <b>control sharp</b>"
+      },
+      "right": {
+        "label": "Cram it later",
+        "char": "cat_tired",
+        "caption": "Two weeks off, then a big<br>session: <em>a shock</em>"
+      },
+      "quip": "One towel.<br>Anywhere works!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>10-minute holiday mat</b>",
+      "sub": "Two minutes per block!",
+      "sections": [
+        {
+          "heading": "1. Work through in order",
+          "color": "yellow",
+          "lines": [
+            "① 5 slow breaths + <em>10 bridges</em>.",
+            "② <em>Dead bug</em>: arm and opposite leg, 8 each.",
+            "③ Side-lying <em>leg lifts x10</em> + 5 circles.",
+            "④ <em>Bird dog 8 each</em>, then 10 cat-cows."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "A move feels <em>sharp</em> — skip it, keep the rest.",
+            "Pain <em>lingers into the next day</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back from holiday<br>and <em>something niggles</em>?",
+      "bubble": "Bodies differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sharp pain during a move",
+        "Pain lasting to next day",
+        "Tingling or weakness"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Pick up where you left off<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Heading away for the holidays? Your Pilates doesn't have to go on hold. 🏖️\n\nYou don't need a reformer to keep your strength ticking over. Ten minutes on a towel, about three times a week, can help you hold onto most of what you've built.\n\nHybi's routine, two minutes per block: breathing and 10 bridges, dead bug 8 each side, side-lying leg lifts and circles, bird dog 8 each side, then 10 slow cat-cows to finish. If a move feels sharp, skip it and keep the rest.\n\nOur Pilates team at Hybrid Physio can tweak your home program before you go and progress it when you're back. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#matpilates",
+    "#homepilates",
+    "#holidayworkout",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#clinicalpilates",
+    "#hybridphysiotherapy",
+    "#summerholidays",
+    "#sydneycbd",
+    "#coreworkout"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat on keeping up Pilates on holiday with a 10-minute towel routine, why little and often helps, and signs worth getting checked.",
+  "story": {
+    "headline": "Pilates on holiday? 10 min",
+    "body": "Bridges, dead bug, bird dog.<br>Just a towel.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-22",
+  "created": "2026-12-22-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-136-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Rolling out of bed with a sore back",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "알람은 울리는데<br><em>일어나기가 무서워</em>",
+      "sub": "허리 아픈 아침, 침대에서 나오는 법",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "굴러서 일어나<br>봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "눈은 떴는데<br>허리가 <em>통나무</em>처럼 굳은 코코.",
+      "char": "koala_tired",
+      "bubble": "벌떡 일어나면<br>또 찌릿할 텐데..",
+      "bubble_type": "thought",
+      "note": "(아침이 하루 중 제일 뻣뻣하다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비에게 물어봤다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "좋은 아침이에요!<br>아침마다 뻣뻣해요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "점심쯤엔 괜찮은데<br>아침이 문제예요.."
+      },
+      "note": "하비는 <mark>아침이 왜 더 뻣뻣한지</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "아침에 <em>더 뻣뻣한 건</em><br>흔한 일이에요!",
+      "fact": "몇 시간 가만히 누워 있으면 허리가 <em>굳기 쉬워요</em>",
+      "left": {
+        "label": "옆으로 굴러서",
+        "char": "koala_happy",
+        "caption": "무릎 굽혀 한 덩어리로<br>돌면 <b>덜 비틀려요</b>"
+      },
+      "right": {
+        "label": "벌떡 일어나기",
+        "char": "koala_tired",
+        "caption": "누운 채 바로 일어나면<br>허리가 <em>비틀려요</em>"
+      },
+      "quip": "움직이면 보통 30~60분<br>안에 풀려요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 기상 루틴</b>",
+      "sub": "눈 뜨자마자 누운 채로!",
+      "sections": [
+        {
+          "heading": "1. 무릎 흔들기 + 통나무 구르기",
+          "color": "yellow",
+          "lines": [
+            "① 무릎 세우고 <em>좌우로 10번</em> 흔들어요.",
+            "② 무릎을 한쪽씩 가슴으로 <em>안아요</em>.",
+            "③ 무릎 굽힌 채 몸 전체로 옆으로 돌아요.",
+            "④ 다리를 내리며 팔로 <em>밀고</em> 일어나요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "밤에 <em>통증으로 깨고</em> 움직여도 그대로라면",
+            "멈추고 GP 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>빨리 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 GP에게 바로 확인",
+      "items": [
+        "자다가 깨는 통증",
+        "사타구니 저림·배변 변화",
+        "다리 힘 빠짐이나 열"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "아침마다 침대에서 나오기가 제일 힘든 코코. 몇 시간 가만히 누워 있으면 허리는 보통 아침에 가장 뻣뻣하고, 움직이기 시작하면 30~60분 안에 풀리는 경우가 많아요.\n\n일어나기 전 누운 채 무릎을 좌우로 10번 흔들고, 무릎 굽혀 몸 전체로 옆으로 돈 뒤 팔로 밀고 일어나 보세요. 무거운 물건 들기는 아침 첫 한 시간 뒤로 미뤄요.\n\n자다가 깨는 통증, 사타구니 저림, 배변 변화, 다리 힘 빠짐, 열은 GP에게 바로 확인받아요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#아침통증",
+    "#카이로프랙틱",
+    "#카이로프랙터",
+    "#기상루틴",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#chiropractic",
+    "#sydneychiro",
+    "#backpain"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 아침에 허리가 더 뻣뻣한 이유, 통나무 구르기, 1분 기상 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "침대에서 나오기 힘든 아침",
+    "body": "무릎 흔들기 10번,<br>그다음 옆으로 굴러요!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-05",
+  "created": "2026-12-05-1",
+  "status": "approved",
+  "review_warnings": []
+}

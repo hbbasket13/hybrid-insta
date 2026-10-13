@@ -1,0 +1,128 @@
+{
+  "id": "C-170-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Physio, chiro, Pilates and massage under one roof: how we refer",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "물리치료? 카이로? 필라테스?<br><em>누구한테</em> 가야 하지?",
+      "sub": "정답 없는 문, 어디서 시작해도 괜찮아요",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "어디로 들어와도<br>괜찮아요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "어깨도 뻐근, 허리도 묵직.<br>예약 화면 앞에서 <em>고민 중</em>.",
+      "char": "turtle_monitor",
+      "bubble": "선택지가 너무<br>많은데..?",
+      "bubble_type": "thought",
+      "note": "(물리치료, 카이로, 필라테스, 마사지..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "<b>하이브리드 피지오</b>에 전화했더니<br>하비가 받았다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>어디가 불편해요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "누구한테 예약해야<br>할지 모르겠어요."
+      },
+      "note": "하비는 <mark>잘못된 문은 없다</mark>고 말해줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "한 지붕 아래<br><em>한 팀</em>으로 움직여요",
+      "fact": "물리·카이로는 평가·치료, 필라테스는 <em>근력</em>, 마사지는 이완",
+      "left": {
+        "label": "한 팀으로",
+        "char": "turtle_happy",
+        "caption": "동의하에 기록 공유,<br><b>계획은 하나</b>"
+      },
+      "right": {
+        "label": "따로따로",
+        "char": "turtle_sad",
+        "caption": "매번 처음부터<br><em>다시 설명</em>"
+      },
+      "quip": "필요하면 팀 안에서<br>연결해 드려요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 예약 가이드</b>",
+      "sub": "어디서 시작할지 모르겠다면!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 시작해요",
+          "color": "yellow",
+          "lines": [
+            "① <em>편한 선생님</em> 누구에게나 예약해요.",
+            "② 평가 후 다른 서비스가 맞으면 안내해요.",
+            "③ 선택은 언제나 <em>본인 몫</em>, 부담 없이.",
+            "④ 필요하면 <em>GP에게 편지</em>도 써드려요."
+          ]
+        },
+        {
+          "heading": "2. 외부 연계가 필요할 땐",
+          "color": "purple",
+          "lines": [
+            "영상 검사나 전문의 의견이 필요하면",
+            "<em>분명하게</em> 말씀드려요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>헷갈린다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이럴 땐 클리닉에 물어보기",
+      "items": [
+        "어디가 문제인지 모를 때",
+        "진전이 멈춘 것 같을 때",
+        "목표가 바뀌었을 때"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "물리치료, 카이로, 필라테스, 마사지. 예약 화면 앞에서 고민하는 거북씨에게 하비가 말해요. 잘못된 문은 없어요.\n\n물리치료사와 카이로프랙터는 통증과 부상을 평가하고 치료하고, 임상 필라테스는 근력과 조절을, 리메디얼 마사지는 뭉친 근육 이완을 도와요.\n\n어느 선생님에게 예약해도 평가 후 다른 서비스가 더 맞으면 이유와 함께 안내해요. 동의하에 기록을 공유해 같은 이야기를 반복하지 않아도 되고, 선택은 언제나 본인 몫이에요. GP·영상 검사가 필요하면 분명히 말씀드려요.\n\n하이브리드 피지오 채스우드·시드니 CBD에서 만나요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니물리치료",
+    "#시드니카이로프랙틱",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#필라테스",
+    "#리메디얼마사지",
+    "#물리치료",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#sydneycbd",
+    "#sydney"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 물리치료·카이로·필라테스·마사지 중 어디서 시작할지, 한 팀으로 기록을 공유하는 방식, 예약 가이드, 클리닉에 물어볼 때.",
+  "story": {
+    "headline": "누구한테 예약하지?",
+    "body": "잘못된 문은 없어요.<br>어디서든 시작해요!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-18",
+  "created": "2026-12-18-5",
+  "status": "approved",
+  "review_warnings": []
+}

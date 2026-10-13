@@ -1,0 +1,128 @@
+{
+  "id": "C-142-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Swimming for back pain: is it a good choice?",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Sore back..<br>is <em>swimming</em> a good idea?",
+      "sub": "Making your laps work for your back",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Often, yes,<br>with a few tweaks!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko packs her bathers,<br>then <em>hesitates</em>.",
+      "char": "koala_tired",
+      "bubble": "Walking feels hard..<br>will the pool<br>be okay?",
+      "bubble_type": "thought",
+      "note": "(long walks leave her back feeling heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "She stopped by<br><b>Hybrid Physio</b> first.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Hi Koko!<br>Off for a swim?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Breaststroke always<br>leaves my back<br>a bit sore.."
+      },
+      "note": "Hybi shared <mark>a few back-friendly swim tweaks</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "In the water, you feel<br><em>lighter</em>!",
+      "fact": "Water takes some of your weight, so you move <em>without impact</em>",
+      "left": {
+        "label": "Roll to breathe",
+        "char": "koala_happy",
+        "caption": "Turn the whole body,<br>back stays <b>happier</b>"
+      },
+      "right": {
+        "label": "Head up high",
+        "char": "koala_tired",
+        "caption": "Lifting the head high<br>can <em>arch</em> the back"
+      },
+      "quip": "If breaststroke grumbles,<br>try backstroke instead!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>back-friendly lap plan</b>",
+      "sub": "Build up slowly!",
+      "sections": [
+        {
+          "heading": "1. How to start",
+          "color": "yellow",
+          "lines": [
+            "① Start with <em>15–20 min</em>, 2–3 times a week.",
+            "② Take rest breaks at the wall.",
+            "③ Same or better next day? Add <em>a few minutes</em>.",
+            "④ Breaststroke sore? Try backstroke instead."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your back is <em>clearly worse</em> the next day —",
+            "drop the volume and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to see your<br><em>GP promptly</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See your GP promptly if",
+      "items": [
+        "Pain that wakes you",
+        "Numb groin or bladder change",
+        "Leg weakness or fever"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Koko wondered if swimming was a good idea with a sore back. Often, yes. Water takes some of your weight and removes impact, so many people find the pool a comfortable way to stay active.\n\nIn freestyle, roll your body to breathe rather than lifting your head high. If breaststroke grumbles, swap in backstroke or deep-water jogging. Start with 15 to 20 minutes a few times a week and build up if your back feels the same or better next day. It suits alongside walking and strength work.\n\nPain that wakes you, numbness around the groin, bladder or bowel changes, leg weakness or fever need a prompt GP check. Our Sydney CBD and Chatswood physios can help you plan your laps. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#backpain",
+    "#swimming",
+    "#lowerbackpain",
+    "#exerciseforbackpain",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining how swimming can suit a sore back, breathing technique, a lap plan and signs worth getting checked.",
+  "story": {
+    "headline": "Can swimming help your back?",
+    "body": "Start 15–20 min, 2–3 times<br>a week, then build.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-08",
+  "created": "2026-12-08-4",
+  "status": "approved",
+  "review_warnings": []
+}

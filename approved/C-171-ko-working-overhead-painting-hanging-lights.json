@@ -1,0 +1,128 @@
+{
+  "id": "C-171-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Working overhead: painting, hanging lights and your neck",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "크리스마스 조명 달고<br><em>목이 안 돌아가요</em>",
+      "sub": "천장 작업 후 목·어깨 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "고개 덜 젖히는<br>법이 있어요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 종일 천장 페인트,<br>저녁엔 <em>트리 조명</em>까지.",
+      "char": "kanga_tired",
+      "bubble": "고개를 젖히고만<br>있었더니..?",
+      "bubble_type": "thought",
+      "note": "(목 뒤가 뻣뻣하고 어깨도 묵직..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "다음 날 <b>하이브리드 피지오</b>에서<br>하비를 만난 루루.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>위쪽 작업했군요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 고개 들기가<br>힘들어요."
+      },
+      "note": "하비는 <mark>자세와 시간</mark>의 조합을 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "작업이 아니라<br><em>자세 × 시간</em>이 문제",
+      "fact": "고개를 <em>뒤로 젖힌 채</em> 팔까지 위로 쓰면 목·어깨가 함께 지쳐요",
+      "left": {
+        "label": "가까이서",
+        "char": "kanga_happy",
+        "caption": "튼튼한 사다리로<br><b>눈높이 가까이</b>"
+      },
+      "right": {
+        "label": "멀리서",
+        "char": "kanga_tired",
+        "caption": "고개를 한껏<br><em>젖힌 채 오래</em>"
+      },
+      "quip": "10~15분마다<br>쉬어가요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 천장 작업 요령</b>",
+      "sub": "조명 달기 전에!",
+      "sections": [
+        {
+          "heading": "1. 목 아끼며 작업하기",
+          "color": "yellow",
+          "lines": [
+            "① 안정된 사다리로 <em>작업면 가까이</em>.",
+            "② <em>10~15분</em> 작업 후 정면·아래 보며 쉬기.",
+            "③ 롤러·드릴은 <em>손 바꿔가며</em> 써요.",
+            "④ 끝나면 턱 끄덕이기·어깨 돌리기 10회."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "팔 저림, <em>위를 볼 때 어지러움</em>,",
+            "사다리에서 넘어졌다면 <em>바로 확인</em>!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "며칠 지나도<br><em>목이 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호라면 확인받기",
+      "items": [
+        "팔로 퍼지는 통증",
+        "위를 보면 어지럽다",
+        "점점 심해지는 두통"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "천장 페인트에 크리스마스 조명까지, 하루 종일 위만 본 루루. 다음 날 목이 잘 안 돌아가요 🎄\n\n고개를 뒤로 젖힌 채 팔까지 머리 위로 쓰면 목과 어깨가 함께 지쳐요. 작업 자체보다 자세와 시간의 조합이 문제인 경우가 많아요.\n\n안정된 사다리로 작업면 가까이 가고, 10~15분마다 정면이나 아래를 보며 쉬고, 롤러·드릴은 손을 바꿔가며 써요. 끝나면 턱 끄덕이기와 어깨 돌리기. 보통 움직이면 며칠 안에 가라앉아요.\n\n팔 저림, 위를 볼 때 어지러움, 심해지는 두통, 사다리 낙상은 확인받아요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니물리치료",
+    "#물리치료",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#목통증",
+    "#크리스마스조명",
+    "#어깨통증",
+    "#physiotherapy",
+    "#neckpain",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 캥거루 루루가 등장하는 7장짜리 만화 카드뉴스: 천장 작업과 조명 달기 후 목이 뻐근한 이유, 작업면 가까이 가기, 1분 천장 작업 요령, 확인이 필요한 신호.",
+  "story": {
+    "headline": "크리스마스 조명 다는 중?",
+    "body": "10~15분마다<br>정면 보며 쉬어요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-18",
+  "created": "2026-12-18-3",
+  "status": "approved",
+  "review_warnings": []
+}

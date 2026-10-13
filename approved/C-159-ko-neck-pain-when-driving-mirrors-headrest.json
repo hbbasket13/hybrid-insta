@@ -1,0 +1,128 @@
+{
+  "id": "C-159-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Neck pain when driving: mirrors, headrest and breaks",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "여름 로드트립 끝,<br><em>목이 굳었다</em>",
+      "sub": "거울·헤드레스트·휴식의 비밀",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "운전석부터<br>맞춰볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "바이런베이까지 <em>9시간</em>,<br>핸들만 잡은 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "도착했는데<br>목이 안 돌아가..?",
+      "bubble_type": "thought",
+      "note": "(고개 대신 몸통째 돌리는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "휴가 다음 주,<br>거북씨는 <b>하비</b>를 찾았다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>장거리 운전했죠?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "다음 휴가엔<br>어떻게 하죠?"
+      },
+      "note": "하비는 <mark>운전석 세팅</mark>부터 바꿔보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "거울은 <em>자세 알람</em>이<br>될 수 있어요",
+      "fact": "바르게 앉아 맞추면, 구부정할 때 <em>거울이 어긋나요</em>",
+      "left": {
+        "label": "깊이 앉기",
+        "char": "turtle_happy",
+        "caption": "엉덩이 깊이, 등받이<br><b>살짝 뒤로</b>"
+      },
+      "right": {
+        "label": "구부정하게",
+        "char": "turtle_sad",
+        "caption": "앞으로 나온 머리<br><em>목이 계속 버텨요</em>"
+      },
+      "quip": "거울이 어긋나면<br>다시 바로 앉아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>장거리 운전 세팅</b>",
+      "sub": "출발 전 1분!",
+      "sections": [
+        {
+          "heading": "1. 출발 전 & 운전 중",
+          "color": "yellow",
+          "lines": [
+            "① 엉덩이 깊이 앉고 팔꿈치는 <em>살짝 굽혀요</em>.",
+            "② 바르게 앉은 상태로 <em>거울</em>을 맞춰요.",
+            "③ 헤드레스트 가운데를 <em>뒤통수 높이</em>로.",
+            "④ <em>2시간마다</em> 내려서 걷고 어깨 돌리기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "팔로 <em>통증·저림</em>이 내려가거나,",
+            "<em>교통사고 후</em> 목이 아프면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "운전 후 목이<br><em>계속 아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "팔로 통증이 내려간다",
+        "손이 저리거나 힘이 빠짐",
+        "두통이 점점 심해진다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "바이런베이까지 9시간 운전한 거북씨. 도착하니 목이 안 돌아가요 🚗\n\n오래 같은 자세로 앞만 보는 장거리 운전, 목은 버틸 수 있지만 꼼짝 않는 걸 좋아하진 않아요.\n\n엉덩이를 깊이 넣고 등받이는 살짝 뒤로, 바르게 앉은 채 거울 맞추기, 헤드레스트는 뒤통수 높이로! 그리고 2시간마다 내려서 걷고, 양쪽 어깨 너머 보기와 턱 당기기를 해봐요.\n\n팔 통증·저림, 교통사고 후 목 통증은 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#목통증",
+    "#장거리운전",
+    "#로드트립",
+    "#여름휴가",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#neckpain",
+    "#roadtrip",
+    "#sydneycbdphysio"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 장거리 운전 후 목이 뻐근한 이유, 거울을 자세 알람으로 쓰는 법, 운전석 세팅과 휴식, 확인이 필요한 신호.",
+  "story": {
+    "headline": "장거리 운전 앞두고 있나요?",
+    "body": "헤드레스트는 뒤통수 높이,<br>2시간마다 쉬기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-14",
+  "created": "2026-12-14-3",
+  "status": "approved",
+  "review_warnings": []
+}

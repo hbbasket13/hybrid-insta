@@ -1,0 +1,128 @@
+{
+  "id": "C-182-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Flare-up now: should you book in or wait it out?",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "That old pain is back.<br><em>Book in or wait it out?</em>",
+      "sub": "A simple way to decide during a flare-up",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Let's sort<br>it out!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Deadline week, and Mr Turtle's<br><em>familiar back pain</em> returns.",
+      "char": "turtle_monitor",
+      "bubble": "Same as last year..<br>maybe just wait?",
+      "bubble_type": "thought",
+      "note": "(the booking page has been open for an hour..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Eventually he calls<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Mr Turtle!<br>What's going on?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Is this even worth<br>coming in for..?"
+      },
+      "note": "Hybi sorts it with <mark>three quick questions</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's all about<br><em>the trend</em>",
+      "fact": "Familiar and <em>slowly easing</em>? A few days of a plan is fine",
+      "left": {
+        "label": "Familiar, easing",
+        "char": "turtle_happy",
+        "caption": "Gentle movement, heat<br>and <b>your usual exercises</b>"
+      },
+      "right": {
+        "label": "New or stuck",
+        "char": "turtle_sad",
+        "caption": "Different, or stuck for<br><em>a week: book in</em>"
+      },
+      "quip": "You don't have to wait<br>till it's at its worst!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>3-question check</b>",
+      "sub": "When a familiar pain comes back",
+      "sections": [
+        {
+          "heading": "1. Ask yourself",
+          "color": "yellow",
+          "lines": [
+            "① <em>Does it feel like usual?</em> If not, book in.",
+            "② Did it start <em>after a fall or knock</em>? Book in.",
+            "③ Familiar? <em>A few days</em> of movement and heat.",
+            "④ Not easing <em>after a week or so</em>? Book in."
+          ]
+        },
+        {
+          "heading": "2. GP or emergency straight away if…",
+          "color": "purple",
+          "lines": [
+            "<em>Numbness around the groin</em>, bladder or bowel",
+            "changes, <em>weakness, chest pain or fever</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>not sure</em><br>which way to go?",
+      "bubble": "Causes differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "It feels different",
+        "It began after a fall",
+        "No easing after a week"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Not sure? Chat to Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Familiar pain back again? Here's a simple way to decide whether to book in or wait a few days.\n\nIf it feels like past flare-ups and is slowly easing, gentle movement, heat and your usual exercises are often a reasonable first step. If it feels different from usual, started after a fall, or isn't improving after a week or so, an assessment can help you get a plan.\n\nNumbness around the groin, bladder or bowel changes, spreading weakness, chest pain or feeling very unwell need your GP or emergency department.\n\nYou don't need to be at your worst to book. Our team at Hybrid Physio in Chatswood and Sydney CBD can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#flareup",
+    "#backpain",
+    "#painmanagement",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#officeworker",
+    "#physio",
+    "#chiropractor"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on deciding whether to book in or wait during a flare-up, a three-question check, and signs that need prompt medical care.",
+  "story": {
+    "headline": "Flare-up: book or wait?",
+    "body": "Different, after a fall, or<br>stuck a week? Book in.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-23",
+  "created": "2026-12-23-2",
+  "status": "approved",
+  "review_warnings": []
+}

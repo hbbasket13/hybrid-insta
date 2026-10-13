@@ -1,0 +1,128 @@
+{
+  "id": "C-153-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Soft sand running: build up gradually",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Soft sand is a<br><em>different sport</em>",
+      "sub": "Toto's first beach run",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Build it up<br>bit by bit!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "5 km at Bondi,<br>run like it's the <em>footpath</em>.",
+      "char": "rabbit_tired",
+      "bubble": "I was slower than<br>usual.. so why do<br>my calves hate me?",
+      "bubble_type": "thought",
+      "note": "(next morning, the Achilles feels stiff..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Rubbing his calves,<br>Toto went to see <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey Toto!<br>Been on the sand?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. only 5 km.<br>Why so sore?"
+      },
+      "note": "Hybi explained <mark>how much extra sand asks</mark> of your legs."
+    },
+    {
+      "kind": "compare",
+      "title": "Feet <em>sink and slide</em>,<br>calves work harder",
+      "fact": "Your pace drops, but calf and Achilles <em>load climbs</em>",
+      "left": {
+        "label": "Firm sand",
+        "char": "rabbit_happy",
+        "caption": "Near the water is<br>a <b>gentler start</b>"
+      },
+      "right": {
+        "label": "Deep soft sand",
+        "char": "rabbit_tired",
+        "caption": "Long sessions too soon,<br><em>big jump in load</em>"
+      },
+      "quip": "Small steps up each week<br>is the key!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>soft sand plan</b>",
+      "sub": "Start this weekend!",
+      "sections": [
+        {
+          "heading": "1. Build gradually",
+          "color": "yellow",
+          "lines": [
+            "① Just <em>5–10 min</em> of soft sand in your usual run.",
+            "② Add <em>a few minutes</em> each week.",
+            "③ Start in shoes, keep barefoot bits short.",
+            "④ Sloping beach? Run <em>out and back</em> to even it up."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel a <em>sudden pop</em> at the back of the leg,",
+            "or pain <em>changes how you walk</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Calf or Achilles<br><em>still sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain that builds as you run",
+        "Lasting morning stiffness",
+        "A change in how you walk"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Toto swapped the footpath for the beach, ran a slow 5 km, and woke up with stiff calves.\n\nOn soft sand your foot sinks and slides with every step, so your calves, Achilles and feet do far more work to push off. Your pace drops, but the load climbs.\n\nStart with five to ten minutes of soft sand inside your usual run and add a few minutes each week. Firm sand near the water is a handy middle step, and running out and back evens out the slope.\n\nAchilles or calf pain that builds during runs, or a sudden pop, is worth getting assessed. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#beachrunning",
+    "#softsand",
+    "#running",
+    "#achillespain",
+    "#runninginjury",
+    "#sydneyrunners",
+    "#summerrunning",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit on why soft sand running loads the calves and Achilles more, firm versus soft sand, a gradual build-up plan and signs worth checking.",
+  "story": {
+    "headline": "Running on soft sand?",
+    "body": "Start with 5–10 minutes<br>inside your usual run.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-11",
+  "created": "2026-12-11-6",
+  "status": "approved",
+  "review_warnings": []
+}

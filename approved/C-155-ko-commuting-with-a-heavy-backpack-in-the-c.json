@@ -1,0 +1,128 @@
+{
+  "id": "C-155-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Commuting with a heavy backpack in the CBD",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "노트북, 충전기, 도시락,<br><em>운동화까지</em>",
+      "sub": "거북씨 가방 다이어트 대작전",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "가방 좀<br>열어볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "타운홀역에서 회사까지,<br>한쪽 어깨에 <em>꽉 찬 가방</em>.",
+      "char": "turtle_sad",
+      "bubble": "출근만 했는데<br>어깨가 왜 이리..?",
+      "bubble_type": "thought",
+      "note": "(오른쪽 어깨만 자꾸 내려간다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "점심시간,<br>거북씨는 <b>하비</b>를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "반가워요!<br>가방이 무거워 보여요"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "가방을 아예<br>안 메야 할까요?"
+      },
+      "note": "하비는 <mark>무게보다 메는 법</mark>이 먼저라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "가방은 <em>죄가 없어요</em>,<br>메는 법이 중요해요",
+      "fact": "몸은 적응해요. 문제는 <em>너무 무겁고, 한쪽, 오래</em>",
+      "left": {
+        "label": "양쪽 끈",
+        "char": "turtle_happy",
+        "caption": "등에 바짝 붙여<br><b>양쪽으로 나눠요</b>"
+      },
+      "right": {
+        "label": "한쪽 어깨",
+        "char": "turtle_sad",
+        "caption": "한쪽으로만 메면<br><em>한쪽에 쏠려요</em>"
+      },
+      "quip": "끈 하나만 바꿔도<br>달라질 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>출근 가방 정리</b>",
+      "sub": "내일 아침부터!",
+      "sections": [
+        {
+          "heading": "1. 가볍게, 가깝게",
+          "color": "yellow",
+          "lines": [
+            "① 양쪽 끈을 메고 등에 <em>바짝</em> 조여요.",
+            "② 충전기·여벌 신발은 <em>회사에</em> 두기.",
+            "③ 무거운 건 <em>등 쪽</em>에 가깝게 넣어요.",
+            "④ 로우·파머스 캐리 <em>주 2~3번</em> 근력 운동."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "팔·다리로 <em>저림이나 힘 빠짐</em>이 오거나,",
+            "가방을 줄여도 <em>계속 심해지면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "출근길이 계속<br><em>힘들다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "팔이나 다리가 저리다",
+        "손에 힘이 빠진다",
+        "가볍게 해도 더 아프다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "노트북, 충전기, 도시락, 운동화까지. 거북씨 가방 이야기 같나요?\n\n가방을 메는 건 자연스러운 일이고 몸도 적응해요. 문제는 너무 무겁거나, 한쪽 어깨로만 메거나, 매일 오래 멜 때 생기기 쉬워요.\n\n양쪽 끈을 메고 등에 바짝 붙이고, 무거운 건 등 쪽에, 여벌 신발은 회사에 두기! 로우나 파머스 캐리 같은 등 근력 운동도 도움이 돼요.\n\n팔·다리 저림이나 힘 빠짐이 있다면 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🎒\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#백팩",
+    "#출근길",
+    "#어깨통증",
+    "#직장인건강",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#backpack",
+    "#chiropractic",
+    "#sydneychiro"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 무거운 백팩 출근길, 양쪽 끈과 한쪽 어깨 비교, 가방 정리 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "출근 가방, 무거운가요?",
+    "body": "양쪽 끈, 등에 바짝!<br>여벌 신발은 회사에.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-12",
+  "created": "2026-12-12-5",
+  "status": "approved",
+  "review_warnings": []
+}

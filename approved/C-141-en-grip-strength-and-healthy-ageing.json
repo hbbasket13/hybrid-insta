@@ -1,0 +1,128 @@
+{
+  "id": "C-141-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Grip strength and healthy ageing",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko vs the<br><em>jam jar</em>",
+      "sub": "Grip strength and healthy ageing",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Let's build that<br>grip together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Toast time.<br>The jam lid <em>won't budge</em>.",
+      "char": "koala_tired",
+      "bubble": "I used to open<br>these in one go..",
+      "bubble_type": "thought",
+      "note": "(the shopping bags feel heavier lately too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko mentioned it to<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Grip giving you grief?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Isn't it just part<br>of getting older?"
+      },
+      "note": "Hybi smiled: <mark>grip can be trained at any age</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Grip is a handy little<br><em>strength signal</em>!",
+      "fact": "Research links grip strength with <em>overall strength</em>",
+      "left": {
+        "label": "Carry it",
+        "char": "koala_happy",
+        "caption": "Shopping bags,<br><b>30-second walk</b>"
+      },
+      "right": {
+        "label": "Avoid it",
+        "char": "koala_tired",
+        "caption": "Less use can mean<br><em>less grip</em> over time"
+      },
+      "quip": "Grip is muscle too,<br>and it can be trained!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute grip builder</b>",
+      "sub": "2–3 times a week is plenty!",
+      "sections": [
+        {
+          "heading": "1. Farmer's carry + ball squeeze",
+          "color": "yellow",
+          "lines": [
+            "① Hold a shopping bag in each hand.",
+            "② Stand tall and walk slowly for <em>30 sec</em>.",
+            "③ Squeeze a soft ball, <em>5 sec × 10 reps</em>.",
+            "④ 2–3 times a week, nothing heroic."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Finger joints are <em>swollen and painful</em>,",
+            "or your hand goes tingly."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it <em>checked first</em><br>if you notice..",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if",
+      "items": [
+        "One hand weaker than other",
+        "Pins and needles in hand",
+        "Dropping things more often"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Hybi's waiting for you<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Koko versus the jam jar, round three. Research suggests grip strength is linked with overall strength and how well people manage everyday life as they age. It isn't the whole story, but it's a handy marker.\n\nIt's also one of the easiest things to train. Try a 30-second walk carrying shopping bags, or squeeze a soft ball while the telly's on. Two or three short sessions a week is plenty.\n\nIf one hand is weaker, tingly or dropping things more often, get that checked before more squeezing at home. Our Sydney CBD and Chatswood physios can fit grip into a broader strength plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#gripstrength",
+    "#healthyageing",
+    "#strengthtraining",
+    "#activeageing",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why grip strength matters, carrying versus avoiding, a 1-minute grip routine and signs worth getting checked.",
+  "story": {
+    "headline": "Jam jar beating you?",
+    "body": "Carry shopping bags 30 sec,<br>2–3 times a week.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-07",
+  "created": "2026-12-07-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,129 @@
+{
+  "id": "C-179-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Holiday couch slouching: long TV sessions and your back",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "드라마 정주행 3편째,<br><em>허리가 SOS!</em>",
+      "sub": "연휴 소파 시간과 허리 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "인터미션<br>할 시간이에요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "연휴 내내 소파와<br><em>한 몸</em>이 된 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "한 편만 더..<br>근데 허리가 왜..?",
+      "bubble_type": "thought",
+      "note": "(리모컨은 손에서 떠나지 않았다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "새해 첫 주,<br><b>하이브리드 피지오</b>에 온 거북씨.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "거북씨, 연휴<br>잘 보냈어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "제가 자세가<br>나빠서 그런 거죠..?"
+      },
+      "note": "하비는 <mark>자세보다 시간</mark>이 중요하다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "완벽한 자세보다<br><em>자세 바꾸기!</em>",
+      "fact": "구부정함보다 <em>한 자세로 오래</em> 있는 게 흔한 이유",
+      "left": {
+        "label": "편마다 일어나기",
+        "char": "turtle_happy",
+        "caption": "자세를 자주 바꾸면<br>허리가 <b>덜 뻐근해요</b>"
+      },
+      "right": {
+        "label": "3편 연속",
+        "char": "turtle_sad",
+        "caption": "같은 모양으로 몇 시간,<br><em>저녁엔 뻐근해요</em>"
+      },
+      "quip": "에피소드 끝나면<br>일단 일어나요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 인터미션</b>",
+      "sub": "다음 화 넘어가기 전에!",
+      "sections": [
+        {
+          "heading": "1. 30~45분마다 1~2분",
+          "color": "yellow",
+          "lines": [
+            "① 일어나서 <em>부엌까지 걷기</em>.",
+            "② 두 팔 머리 위로 쭉, <em>뒤로 젖히기 5회</em>.",
+            "③ 허리 뒤에 <em>쿠션</em>, 발은 바닥이나 발받침에.",
+            "④ 정주행 날엔 <em>아침 산책·수영</em>도 한 번!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 GP 확인",
+          "color": "purple",
+          "lines": [
+            "<em>사타구니 감각 저하·소변/대변 변화</em>,",
+            "<em>다리 힘 빠짐·열</em>이 있으면 바로 확인받기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "새해에도<br><em>계속 뻐근하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "자다 깨고 안 풀린다",
+        "다리에 힘이 빠진다",
+        "열이 같이 난다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "새해엔 <b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "연휴 내내 소파와 한 몸이 된 거북씨. 드라마 3편째쯤 허리가 신호를 보내요.\n\n소파에 앉는 완벽한 자세는 없어요. 구부정한 자세 자체보다 한 자세로 몇 시간씩 있는 게 뻐근함의 흔한 이유예요. 에피소드가 끝나면 일어나 부엌까지 걷고, 팔을 머리 위로 뻗어 뒤로 젖히기 5회. 허리 뒤 쿠션, 아침 산책도 도움이 될 수 있어요.\n\n밤에 깨는 통증, 사타구니 감각 변화, 소변·대변 변화, 다리 힘 빠짐은 바로 GP 확인! 새해에도 뻐근하면 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 📺\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#연휴",
+    "#소파자세",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#정주행",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 연휴 소파 정주행 뒤 허리가 뻐근한 이유, 자세 바꾸기의 중요성, 1분 인터미션 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "정주행에 허리가 SOS?",
+    "body": "에피소드 끝나면 일어나<br>뒤로 젖히기 5회!",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-22",
+  "created": "2026-12-22-5",
+  "status": "approved",
+  "review_warnings": []
+}

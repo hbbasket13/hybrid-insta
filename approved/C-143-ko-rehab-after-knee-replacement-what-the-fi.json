@@ -1,0 +1,128 @@
+{
+  "id": "C-143-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Rehab after knee replacement: what the first 12 weeks look like",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "새 무릎과 함께하는<br><em>12주</em>",
+      "sub": "인공관절 수술 뒤 재활, 대략 이렇게",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "단계별로<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "수술 2주 차,<br>지팡이 짚고 걷는 <em>코코</em>.",
+      "char": "koala_tired",
+      "bubble": "저녁만 되면<br>무릎이 붓고 뻣뻣해..<br>괜찮은 걸까?",
+      "bubble_type": "thought",
+      "note": "(남들은 더 빨리 걷는 것 같아 조급하다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비와 계획을 세웠다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요, 코코!<br>새 무릎은 어때요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "언제쯤 지팡이 없이<br>걸을 수 있을까요?"
+      },
+      "note": "하비는 <mark>12주를 세 단계로</mark> 나눠 설명해줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "단계마다 <em>목표</em>가<br>달라요!",
+      "fact": "0~2주 움직이기 · 2~6주 굽히기 · 6~12주 <em>근력</em>",
+      "left": {
+        "label": "꾸준히 조금씩",
+        "char": "koala_happy",
+        "caption": "짧게 자주 걸으면<br><b>점점 편해져요</b>"
+      },
+      "right": {
+        "label": "한 번에 많이",
+        "char": "koala_tired",
+        "caption": "무리하면 붓기가<br><em>커질 수</em> 있어요"
+      },
+      "quip": "1년 넘게 좋아지는<br>분도 많아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 무릎 굽히기</b>",
+      "sub": "수술팀 안내 범위 안에서!",
+      "sections": [
+        {
+          "heading": "1. 뒤꿈치 밀기 (Heel slide)",
+          "color": "yellow",
+          "lines": [
+            "① 누워서 발뒤꿈치를 엉덩이 쪽으로 밀어요.",
+            "② 편한 만큼 굽히고 <em>5초</em> 유지해요.",
+            "③ 천천히 펴며 <em>10회</em>, 하루 3번.",
+            "④ 쉴 땐 다리를 올려 붓기를 관리해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "갑자기 <em>숨이 차면</em> 바로 000에 전화,",
+            "통증이 확 늘면 수술팀에 연락!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>바로 연락!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 수술팀·GP에게",
+      "items": [
+        "상처가 붉고 진물이 난다",
+        "열이 난다",
+        "종아리가 붓고 아프다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "하비가 <b>하이브리드 피지오</b>에서<br>기다릴게요!"
+    }
+  ],
+  "caption": "무릎 인공관절 수술 뒤 12주, 대략 이런 흐름이에요. 0~2주는 부드럽게 굽히고 펴기와 짧고 잦은 걷기, 2~6주는 굽히는 각도와 무릎 쭉 펴기, 6주쯤부터는 허벅지·엉덩이 근력이 중심이 되는 경우가 많아요.\n\n사람마다 속도는 달라요. 붓기와 뻣뻣함은 몇 달 갈 수 있고, 1년 넘게 좋아지는 분도 많아요.\n\n상처가 붉어지거나 진물, 열, 종아리 붓기는 수술팀이나 GP에게 연락하고, 갑자기 숨이 차면 000. 시드니 CBD·채스우드 물리치료사가 수술팀 안내에 맞춰 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#무릎인공관절",
+    "#무릎재활",
+    "#수술후재활",
+    "#시니어건강",
+    "#물리치료",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#kneereplacement",
+    "#rehab"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 무릎 인공관절 수술 뒤 12주 재활 단계, 꾸준히 조금씩의 중요성, 1분 무릎 굽히기, 연락이 필요한 신호.",
+  "story": {
+    "headline": "새 무릎, 첫 12주 로드맵",
+    "body": "0~2주 움직이기, 2~6주 굽히기,<br>6~12주 근력!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-08",
+  "created": "2026-12-08-5",
+  "status": "approved",
+  "review_warnings": []
+}

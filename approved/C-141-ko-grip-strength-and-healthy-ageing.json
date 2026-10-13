@@ -1,0 +1,128 @@
+{
+  "id": "C-141-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Grip strength and healthy ageing",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "잼 뚜껑 앞에서<br><em>멈춰 선</em> 코코",
+      "sub": "악력, 나이 들수록 챙겨야 할 힘",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "손힘 같이<br>길러봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "아침 토스트 시간,<br>잼 뚜껑이 <em>꿈쩍도</em> 안 한다.",
+      "char": "koala_tired",
+      "bubble": "예전엔 한 번에<br>열었던 것 같은데..",
+      "bubble_type": "thought",
+      "note": "(장바구니도 요즘 유난히 무겁다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비에게 털어놨다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요, 코코!<br>손힘이 고민이에요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "나이 들면 그냥<br>약해지는 걸까요?"
+      },
+      "note": "하비는 <mark>손힘도 기를 수 있다</mark>고 웃으며 말했다."
+    },
+    {
+      "kind": "compare",
+      "title": "악력은 <em>생활 근력</em>의<br>작은 신호예요!",
+      "fact": "연구에 따르면 악력은 <em>전신 근력</em>과 관련이 있어요",
+      "left": {
+        "label": "들고 걷기",
+        "char": "koala_happy",
+        "caption": "장바구니 들고<br><b>30초 걷기</b>"
+      },
+      "right": {
+        "label": "손 안 쓰기",
+        "char": "koala_tired",
+        "caption": "안 쓰면 손힘도<br><em>줄어들 수</em> 있어요"
+      },
+      "quip": "악력도 근육이라<br>연습하면 늘 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 손힘 운동</b>",
+      "sub": "주 2~3번이면 충분해요!",
+      "sections": [
+        {
+          "heading": "1. 들고 걷기 + 공 쥐기",
+          "color": "yellow",
+          "lines": [
+            "① 양손에 장바구니를 들어요.",
+            "② 허리 펴고 <em>30초</em> 천천히 걸어요.",
+            "③ 말랑한 공 <em>5초 쥐기 × 10회</em>.",
+            "④ 주 2~3번, 무리 없이 해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "손가락 관절이 <em>붓고 아프거나</em>",
+            "손이 저리면 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>운동보다 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "한 손만 힘이 빠진다",
+        "손가락이 저리다",
+        "물건을 자주 떨어뜨린다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "하비가 <b>하이브리드 피지오</b>에서<br>기다릴게요!"
+    }
+  ],
+  "caption": "잼 뚜껑 앞에서 멈춰 선 코코. 연구에 따르면 악력은 전신 근력, 그리고 나이 들며 일상을 얼마나 잘 해내는지와 관련이 있어요. 전부는 아니지만 간단한 신호예요.\n\n악력은 훈련하기 쉬운 힘이에요. 장바구니 들고 30초 걷기, TV 보며 말랑한 공 쥐기, 주 2~3번이면 충분해요.\n\n한 손만 힘이 빠지거나, 저리거나, 물건을 자주 떨어뜨린다면 운동보다 확인이 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#악력",
+    "#근력운동",
+    "#시니어운동",
+    "#건강한노화",
+    "#물리치료",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#gripstrength",
+    "#healthyageing"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 악력이 중요한 이유, 들고 걷기 비교, 1분 손힘 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "잼 뚜껑이 안 열린다면?",
+    "body": "장바구니 들고 30초 걷기,<br>주 2~3번!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-07",
+  "created": "2026-12-07-3",
+  "status": "approved",
+  "review_warnings": []
+}

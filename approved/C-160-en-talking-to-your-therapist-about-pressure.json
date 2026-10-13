@@ -1,0 +1,128 @@
+{
+  "id": "C-160-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Talking to your therapist about pressure",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Too hard? Too soft?<br><em>Just say so.</em>",
+      "sub": "Momo learns to talk about pressure",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "You're allowed<br>to speak up!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "An hour of <em>holding her breath</em><br>on the massage table.",
+      "char": "cat_tired",
+      "bubble": "This really hurts..<br>is it meant to?",
+      "bubble_type": "thought",
+      "note": "(she said nothing until the very end..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Next day, Momo<br>told <b>Hybi</b> all about it.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Momo!<br>How was the massage?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Harder means it's<br>working, right?"
+      },
+      "note": "Hybi said <mark>harder isn't automatically better</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Use a <em>0 to 10</em><br>scale",
+      "fact": "Around <em>5 to 7</em> is often comfortable and useful for many",
+      "left": {
+        "label": "Around 5–7",
+        "char": "cat_happy",
+        "caption": "Firm but comfy,<br>muscles <b>can relax</b>"
+      },
+      "right": {
+        "label": "Breath held",
+        "char": "cat_tired",
+        "caption": "Holding your breath?<br><em>It's too much</em>"
+      },
+      "quip": "You can speak up<br>at any point!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pressure talk guide</b>",
+      "sub": "Use it at your next session!",
+      "sections": [
+        {
+          "heading": "1. What to say",
+          "color": "yellow",
+          "lines": [
+            "① Give a number: \"That's about <em>an 8 out of 10</em>.\"",
+            "② Ask for more, less or another area <em>anytime</em>.",
+            "③ Mention injuries, easy bruising or <em>pregnancy</em>.",
+            "④ Name any areas you'd rather avoid."
+          ]
+        },
+        {
+          "heading": "2. Let your therapist know if…",
+          "color": "purple",
+          "lines": [
+            "Mild tenderness for a day or two is common, but",
+            "<em>heavy bruising or worsening pain</em> isn't."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> days after<br>your massage?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Heavy bruising",
+        "Pain that keeps worsening",
+        "New tingling or numbness"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Ever lain there thinking \"that's way too much\" and said nothing? Momo has.\n\nHarder isn't automatically better. Many people get more out of firm but comfortable pressure that lets muscles relax rather than brace. A simple 0 to 10 scale helps: around 5 to 7 is often a good zone, and if you're holding your breath, it's too much.\n\nYou can ask for more, less or a different area at any time. Mention recent injuries, easy bruising or pregnancy. Massage works well alongside active rehab rather than replacing it.\n\nOur remedial massage therapists at Hybrid Physio are always happy to adjust. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#massagepressure",
+    "#deeptissuemassage",
+    "#musclerecovery",
+    "#selfcare",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#remedialtherapy",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat on talking to your massage therapist about pressure, using a 0 to 10 scale, what to mention and what to report afterwards.",
+  "story": {
+    "headline": "Massage pressure: speak up",
+    "body": "Around 5 to 7 out of 10.<br>Holding your breath? Too much.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-15",
+  "created": "2026-12-15-4",
+  "status": "approved",
+  "review_warnings": []
+}

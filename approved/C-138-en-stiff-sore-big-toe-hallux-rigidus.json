@@ -1,0 +1,128 @@
+{
+  "id": "C-138-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Stiff, sore big toe (hallux rigidus)",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why is Koko's big toe<br>so <em>stiff and grumpy</em>?",
+      "sub": "A stiff big toe story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's start<br>with your shoes!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Summer walk, thongs on,<br><em>Koko</em> heads out.",
+      "char": "koala_tired",
+      "bubble": "Why does my big<br>toe jab every time<br>I push off..?",
+      "bubble_type": "thought",
+      "note": "(rising onto her toes feels awkward too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Instead, she headed to<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Big toe bothering you?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "It hurts right when<br>I push off.."
+      },
+      "note": "Hybi took a good look at <mark>Koko's shoes</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Your big toe works<br><em>every single step</em>!",
+      "fact": "Each step, the big toe <em>bends</em> as you roll through to push off",
+      "left": {
+        "label": "Firm sole",
+        "char": "koala_happy",
+        "caption": "The toe bends less,<br>walking feels <b>easier</b>"
+      },
+      "right": {
+        "label": "Floppy thongs",
+        "char": "koala_tired",
+        "caption": "More bend can make<br>the joint <em>grumpier</em>"
+      },
+      "quip": "Footwear is often the<br>quickest win!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute foot strength</b>",
+      "sub": "Easy to do during the telly!",
+      "sections": [
+        {
+          "heading": "1. Calf raises + towel scrunch",
+          "color": "yellow",
+          "lines": [
+            "① Stand tall, hands on a wall.",
+            "② Rise up only to a <em>comfortable height</em>.",
+            "③ <em>10 reps × 2 sets</em>, once a day.",
+            "④ Seated, scrunch a towel with your toes <em>10×</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "The toe is <em>hot, red and very swollen</em>,",
+            "or pain wakes you at night."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>jabbing</em><br>on every walk?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hot, red, very swollen toe",
+        "Pain waking you at night",
+        "Sudden change after injury"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Every time Koko pushes off, her big toe jabs. A stiff, sore big toe joint is common, tends to build over years and usually goes up and down with load.\n\nFootwear is often the quickest win. A firmer or gently rocker-shaped sole means the toe bends less each step, while thongs and very bendy sneakers can make it grumpier. Calf raises to a comfortable height and toe exercises help the foot share the load.\n\nA hot, red, very swollen toe, night pain, numbness or a sudden change after an injury is worth an assessment. Our Sydney CBD and Chatswood physios can help you keep walking comfortably. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#bigtoepain",
+    "#halluxrigidus",
+    "#footpain",
+    "#footwear",
+    "#healthyageing",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining a stiff big toe, firm soles versus floppy thongs, a 1-minute foot strength routine and signs worth getting checked.",
+  "story": {
+    "headline": "Big toe stiff on push-off?",
+    "body": "Firmer soles + 10 calf raises<br>to a comfy height.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-05",
+  "created": "2026-12-05-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-140-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for neck and shoulder tension",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "3pm, and his shoulders<br>are <em>up near his ears</em>",
+      "sub": "Easing neck and shoulder tension, Pilates-style",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's start with<br>your breathing!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Deadline day. Mr Turtle's<br>shoulders <em>creep higher</em>.",
+      "char": "turtle_monitor",
+      "bubble": "I stretched this<br>morning.. why is<br>it tight again?",
+      "bubble_type": "thought",
+      "note": "(breathing short and shallow, high in the chest..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After work, at the<br><b>Hybrid Physio</b> studio.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Hi! Those shoulders<br>look busy today."
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Stretching helps,<br>but not for long.."
+      },
+      "note": "Hybi watched <mark>how Mr Turtle was breathing</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Tight muscles are often<br><em>tired muscles</em>!",
+      "fact": "Tightness often comes from <em>working hard</em> for hours",
+      "left": {
+        "label": "Low-rib breath",
+        "char": "turtle_happy",
+        "caption": "Breathing lower lets<br>shoulders <b>drop</b>"
+      },
+      "right": {
+        "label": "Chest breath",
+        "char": "turtle_sad",
+        "caption": "High, quick breaths<br>keep the neck <em>working</em>"
+      },
+      "quip": "Let the upper back share<br>the load with your neck!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shoulder drop</b>",
+      "sub": "Try it right at your desk!",
+      "sections": [
+        {
+          "heading": "1. Lower-rib breathing",
+          "color": "yellow",
+          "lines": [
+            "① Rest your hands on your lower ribs.",
+            "② Breathe in, <em>widening</em> the ribs into your hands.",
+            "③ Breathe out and let shoulders <em>drop</em>.",
+            "④ <em>5 breaths</em>, about 3 times a day."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>dizzy</em>, or <em>pins and needles</em>",
+            "run down your arm."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check in <em>before</em><br>you start if..",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get assessed first if you notice",
+      "items": [
+        "Arm tingling or weakness",
+        "Headaches that keep building",
+        "Dizziness or a recent fall"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "By mid-afternoon, Mr Turtle's shoulders are up near his ears. Neck and shoulder muscles often feel tight because they've been working hard for hours, not because they're short, so stretching relief can fade quickly.\n\nClinical Pilates takes a different angle: slower breathing into the lower ribs, upper-back strength so it shares the load with the neck, and gentle rotation to get a stiff mid-back moving.\n\nPins and needles or weakness in the arm, building headaches, dizziness or pain after a fall are worth assessing before you start. Our Pilates team at Hybrid Physio builds programs around how you move. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#necktension",
+    "#shouldertension",
+    "#deskjob",
+    "#officeworker",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why neck and shoulders feel tight, chest versus lower-rib breathing, a 1-minute shoulder drop and signs worth getting checked.",
+  "story": {
+    "headline": "Shoulders up near your ears?",
+    "body": "5 lower-rib breaths,<br>shoulders drop on the out-breath.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-07",
+  "created": "2026-12-07-2",
+  "status": "approved",
+  "review_warnings": []
+}

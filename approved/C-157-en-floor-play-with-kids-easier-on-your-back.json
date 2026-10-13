@@ -1,0 +1,128 @@
+{
+  "id": "C-157-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Floor play with kids: easier on your back",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Floor play with the grandkids:<br><em>getting up</em> is the hard bit",
+      "sub": "Koko's back-friendly playtime",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "A few tricks<br>make it easier!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "School holidays.<br>Hours of <em>Lego</em> on the floor.",
+      "char": "koala_tired",
+      "bubble": "Have I been sitting<br>like this the whole<br>hour..?",
+      "bubble_type": "thought",
+      "note": "(and getting up comes with a creak..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko popped into<br><b>Hybrid Physio</b> with the kids.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Big playtime?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Should I give up<br>floor games?"
+      },
+      "note": "Hybi said the key is <mark>changing position often</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's not the floor, it's<br><em>one position</em> too long",
+      "fact": "Backs mind <em>the same position for an hour</em> most",
+      "left": {
+        "label": "Switch it up",
+        "char": "koala_happy",
+        "caption": "Kneel, side-sit, tummy:<br><b>swap every few minutes</b>"
+      },
+      "right": {
+        "label": "Stuck folded",
+        "char": "koala_tired",
+        "caption": "Folded for an hour,<br><em>back feels stiff</em>"
+      },
+      "quip": "Keep playing,<br>just keep moving!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>4-step floor get-up</b>",
+      "sub": "Using the couch is smart, not lazy!",
+      "sections": [
+        {
+          "heading": "1. Up off the floor",
+          "color": "yellow",
+          "lines": [
+            "① <em>Roll</em> onto your side.",
+            "② Come up onto <em>hands and knees</em>.",
+            "③ Step one foot forward.",
+            "④ Hand on the couch, <em>push up through your legs</em>."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain or <em>tingling</em> travels down a leg,",
+            "or it's <em>getting worse</em> over several days."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back <em>still grumbling</em><br>after playtime?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling down a leg",
+        "Pain getting worse each day",
+        "Too sore to lift the kids"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Hours of Lego on the floor these school holidays, and Koko's back creaks every time she gets up.\n\nThe floor itself usually isn't the problem. It's staying folded in one position for too long. Switch between kneeling, side-sitting and lying on your tummy every few minutes, and bring puzzles up to the coffee table.\n\nTo get up: roll to your side, come onto hands and knees, step a foot forward and push up through your legs, using the couch for a hand. When lifting little ones, get close first and let your legs share the work.\n\nTingling down a leg or pain that keeps building is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#lowbackpain",
+    "#grandparents",
+    "#parentlife",
+    "#schoolholidays",
+    "#lifting",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on making floor play with kids easier on the back, switching positions, a 4-step way to get up off the floor and signs worth checking.",
+  "story": {
+    "headline": "Floor play, happier back",
+    "body": "Swap positions every few<br>minutes. Use the couch to get up.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-14",
+  "created": "2026-12-14-4",
+  "status": "approved",
+  "review_warnings": []
+}

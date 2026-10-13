@@ -1,0 +1,128 @@
+{
+  "id": "C-142-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Swimming for back pain: is it a good choice?",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "허리 아픈데<br><em>수영</em>해도 될까?",
+      "sub": "허리에 맞게 수영하는 작은 요령",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "보통은 좋아요,<br>요령만 알면!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "수영복을 챙기다<br><em>망설이는</em> 코코.",
+      "char": "koala_tired",
+      "bubble": "걷기도 힘든데<br>수영은 괜찮으려나..",
+      "bubble_type": "thought",
+      "note": "(오래 걸으면 허리가 묵직하다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "수영장 가기 전,<br><b>하이브리드 피지오</b>에 들렀다.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "안녕하세요!<br>수영 가시게요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "평영만 하면<br>허리가 좀 뻐근해요.."
+      },
+      "note": "하비는 <mark>허리 편한 수영 요령</mark>을 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "물속에선 몸이<br><em>가벼워져요!</em>",
+      "fact": "물은 체중 일부를 받쳐줘 <em>충격 없이</em> 움직여요",
+      "left": {
+        "label": "몸 굴려 숨쉬기",
+        "char": "koala_happy",
+        "caption": "몸 전체를 돌려<br>숨 쉬면 <b>편해요</b>"
+      },
+      "right": {
+        "label": "고개 번쩍",
+        "char": "koala_tired",
+        "caption": "고개를 높이 들면<br>허리가 <em>젖혀져요</em>"
+      },
+      "quip": "평영이 불편하면<br>배영으로 바꿔봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>허리 편한 수영 계획</b>",
+      "sub": "천천히 늘려가요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 시작해요",
+          "color": "yellow",
+          "lines": [
+            "① 처음엔 <em>15~20분</em>, 주 2~3번.",
+            "② 벽에서 쉬어가며 천천히 돌아요.",
+            "③ 다음 날 괜찮으면 <em>몇 분씩</em> 늘려요.",
+            "④ 평영이 불편하면 배영·물속 걷기로."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "다음 날 허리가 <em>확실히 더 아프면</em>",
+            "양을 줄이고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>GP 먼저!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 GP에게 바로 확인",
+      "items": [
+        "자다 깨는 통증",
+        "사타구니 저림·배변 변화",
+        "다리 힘 빠짐이나 열"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "허리가 아픈데 수영해도 될까 고민하는 코코. 물은 체중 일부를 받쳐주고 충격이 없어서, 허리가 아플 때도 수영장에서는 편하게 움직이는 분이 많아요.\n\n자유형은 고개를 번쩍 드는 대신 몸 전체를 굴려 숨 쉬기. 평영이 불편하면 배영이나 물속 걷기로 바꿔요. 15~20분, 주 2~3번으로 시작해 다음 날 괜찮으면 조금씩 늘려요. 근력 운동, 걷기와 함께하면 더 좋아요.\n\n자다 깨는 통증, 사타구니 저림, 배변 변화, 다리 힘 빠짐, 열은 GP에게 바로 확인받아요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#수영",
+    "#요통운동",
+    "#물리치료",
+    "#시니어운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#swimming",
+    "#backpain"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 허리 통증에 수영이 도움이 될 수 있는 이유, 숨 쉬는 자세 비교, 수영 시작 계획, 확인이 필요한 신호.",
+  "story": {
+    "headline": "허리 아플 때 수영, 괜찮을까?",
+    "body": "15~20분, 주 2~3번부터<br>천천히 늘려요!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-08",
+  "created": "2026-12-08-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-164-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for men: more than stretching",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "필라테스는<br><em>스트레칭</em>뿐이라고?",
+      "sub": "스프링 위의 근력 운동 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "한번<br>해볼래요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "헬스장은 매일 가는 루루,<br>필라테스는 <em>글쎄..</em>",
+      "char": "kanga_tired",
+      "bubble": "그거 그냥<br>스트레칭 아냐..?",
+      "bubble_type": "thought",
+      "note": "(스쿼트는 자신 있는데, 몸은 늘 뻣뻣..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "친구 따라 <b>하이브리드 피지오</b>에<br>왔다가 하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>필라테스 궁금해요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "솔직히.. 운동이<br>되긴 하나요?"
+      },
+      "note": "하비는 <mark>리포머 스프링</mark>을 보여주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "스프링도<br><em>진짜 저항</em>이에요!",
+      "fact": "리포머 스프링은 <em>늘어날 때·줄어들 때</em> 모두 근육에 부하를 줘요",
+      "left": {
+        "label": "천천히·조절",
+        "char": "kanga_happy",
+        "caption": "느린 움직임이<br><b>생각보다 힘들어요</b>"
+      },
+      "right": {
+        "label": "반동으로",
+        "char": "kanga_tired",
+        "caption": "반동으로 넘기면<br><em>놓치는 게 많아요</em>"
+      },
+      "quip": "유연하지 않아도<br>시작할 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 필라테스 맛보기</b>",
+      "sub": "집에서 먼저 느껴봐요!",
+      "sections": [
+        {
+          "heading": "1. 한 다리 브릿지",
+          "color": "yellow",
+          "lines": [
+            "① 누워서 무릎 세우고, 한 다리는 펴요.",
+            "② 골반 수평 유지, 엉덩이를 <em>천천히</em> 들어요.",
+            "③ <em>3초 올리고 3초 내리기</em> × 8회, 양쪽.",
+            "④ 골반이 기울면 그게 조절 연습 포인트!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 상담",
+          "color": "purple",
+          "lines": [
+            "허리·고관절에 <em>날카로운 통증</em>이 오면",
+            "무리하지 말고 평가부터 받아요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "운동 중 <em>불편한 곳</em>이 있다면?",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이럴 땐 평가 먼저 받기",
+      "items": [
+        "운동 후 통증이 남는다",
+        "한쪽만 자꾸 불편하다",
+        "2주 넘게 그대로다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 스프링 만나요!"
+    }
+  ],
+  "caption": "필라테스는 그냥 스트레칭이라고 생각했던 루루. 리포머 위에서 생각이 바뀌었어요.\n\n임상 필라테스는 스프링을 이용한 근력 운동이에요. 근육이 늘어날 때와 줄어들 때 모두 부하가 걸리고, 느리게 조절하는 동작이 생각보다 힘들어요. 헬스에서 빠지기 쉬운 회전, 한 다리 조절도 채워줄 수 있어요.\n\n허리·어깨가 불편해도 스프링으로 부하를 조절할 수 있고, 유연하지 않아도 시작할 수 있어요.\n\n하이브리드 피지오 필라테스 팀은 평가 후 목표에 맞춰 프로그램을 짜요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니필라테스",
+    "#임상필라테스",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#남자필라테스",
+    "#리포머필라테스",
+    "#근력운동",
+    "#pilates",
+    "#reformerpilates",
+    "#sydneycbd",
+    "#menspilates",
+    "#sydney"
+  ],
+  "alt_text": "하비와 캥거루 루루가 등장하는 7장짜리 만화 카드뉴스: 필라테스가 스트레칭만이 아닌 이유, 스프링 저항, 1분 한 다리 브릿지, 평가가 필요한 신호.",
+  "story": {
+    "headline": "필라테스, 스트레칭뿐?",
+    "body": "한 다리 브릿지<br>3초 올리고 3초 내리기!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-16",
+  "created": "2026-12-16-5",
+  "status": "approved",
+  "review_warnings": []
+}

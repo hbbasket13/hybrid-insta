@@ -1,0 +1,129 @@
+{
+  "id": "C-187-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates with knee or hip osteoarthritis",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "무릎 관절염이 있는데<br><em>필라테스 해도 돼요?</em>",
+      "sub": "움직이는 게 대부분 답의 일부예요",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "물론이죠!<br>방법이 있어요"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "박싱데이 산책 후,<br>코코의 무릎이 <em>삐걱</em>.",
+      "char": "koala_tired",
+      "bubble": "관절염인데 운동하면<br>더 닳지 않을까..?",
+      "bubble_type": "thought",
+      "note": "(그래서 요즘 계속 앉아만 있었다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "망설이다<br><b>하이브리드 피지오</b>에 온 코코.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코, 무릎<br>어때요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "운동하면 관절이<br>더 나빠질까 봐요.."
+      },
+      "note": "하비는 <mark>현재 가이드라인</mark> 이야기를 해주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "관절은<br><em>움직이는 걸 좋아해요</em>",
+      "fact": "현재 가이드라인은 무릎·고관절 관절염에 <em>운동</em>을 우선 권해요",
+      "left": {
+        "label": "스프링 도움받기",
+        "char": "koala_happy",
+        "caption": "체중을 덜 싣고 시작해<br><b>천천히 키워가요</b>"
+      },
+      "right": {
+        "label": "안 움직이기",
+        "char": "koala_tired",
+        "caption": "근력이 줄면<br><em>더 뻣뻣해질 수도</em>"
+      },
+      "quip": "약간 뻐근해도<br>하루면 풀리면 OK!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>관절 친화 필라테스</b>",
+      "sub": "시작은 눕거나 앉아서!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 시작해요",
+          "color": "yellow",
+          "lines": [
+            "① 리포머 <em>풋워크</em>: 스프링 도움으로 10회.",
+            "② <em>브릿지</em> 10회로 엉덩이 근육 깨우기.",
+            "③ 옆으로 누워 <em>다리 들기</em> 10회씩.",
+            "④ 약간 뻐근함이 <em>하루 안에 풀리면</em> 괜찮아요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 강도 줄이고 상담",
+          "color": "purple",
+          "lines": [
+            "다음 날 아침 <em>훨씬 더 아프면</em> 강도 낮추기,",
+            "관절이 <em>뜨겁고 많이 부으면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "운동하면서<br><em>이런 게 느껴진다면?</em>",
+      "bubble": "관절은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "뜨겁고 많이 붓는다",
+        "걸리거나 힘이 풀린다",
+        "밤에 잠을 깨운다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 천천히 시작해요!"
+    }
+  ],
+  "caption": "무릎 관절염 진단 후 운동이 걱정된 코코. 운동하면 관절이 더 닳을까요?\n\n현재 가이드라인은 무릎·고관절 관절염에 운동을 우선 권해요. 관절 주변 근육을 키우면 뻣뻣함을 덜고 좋아하는 일을 이어가는 데 도움이 될 수 있어요. 리포머 스프링이 처음엔 몸을 받쳐주고, 눕거나 앉아서 하는 동작이 많아 시작하기 편해요.\n\n하루 안에 풀리는 약간의 뻐근함은 보통 괜찮아요. 다음 날 아침 훨씬 아프면 멈추기보다 강도를 낮춰요. 하이브리드 피지오 필라테스 팀이 맞춤으로 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#무릎관절염",
+    "#고관절",
+    "#필라테스",
+    "#리포머필라테스",
+    "#시드니필라테스",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#관절건강",
+    "#clinicalpilates",
+    "#osteoarthritis",
+    "#sydneypilates",
+    "#kneepain"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 무릎·고관절 관절염이 있어도 필라테스를 할 수 있는 이유, 관절 친화 시작 동작, 강도 조절법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "관절염인데 필라테스?",
+    "body": "스프링 도움받아 천천히,<br>하루 안에 풀리면 OK!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-26",
+  "created": "2026-12-26-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-135-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Back pain when bending to put on shoes and socks",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "The great morning<br><em>sock battle</em>",
+      "sub": "Easier dressing on a sore-back day",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Shall we try it<br>sitting down?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko, balancing on<br>one leg, <em>reaching for socks</em>.",
+      "char": "koala_tired",
+      "bubble": "Ooh, my back..<br>why are shoes<br>the hardest part?",
+      "bubble_type": "thought",
+      "note": "(picking things up is easier than this..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko met Hybi at<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko! Tough<br>mornings lately?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Every time I bend<br>forward, it grabs.."
+      },
+      "note": "Hybi explained <mark>why socks are so tricky</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Socks ask your back<br>to do <em>three things</em>!",
+      "fact": "Bend + <em>balance</em> + reach, all at the same time",
+      "left": {
+        "label": "Seated",
+        "char": "koala_happy",
+        "caption": "Back stays upright,<br>the <b>chair</b> does balance"
+      },
+      "right": {
+        "label": "On one leg",
+        "char": "koala_tired",
+        "caption": "Bending and wobbling<br>keeps the back <em>busy</em>"
+      },
+      "quip": "A simple position swap<br>can make it much easier!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute dressing plan</b>",
+      "sub": "Start tomorrow morning!",
+      "sections": [
+        {
+          "heading": "1. Sit to dress + hip hinge",
+          "color": "yellow",
+          "lines": [
+            "① Sit on the edge of the bed or a chair.",
+            "② Bring one foot <em>onto the other knee</em>.",
+            "③ Keep your back tall as you pull socks on.",
+            "④ Practise hip hinges, <em>10 reps</em>, twice a day."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain spreads <em>below the knee</em>, or your",
+            "leg goes numb — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>grabbing</em><br>every morning?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading below knee",
+        "Leg numbness or weakness",
+        "Worsening, not settling"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Hybi's waiting for you<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "For Koko, socks are the hardest part of the morning. Pulling them on means bending, balancing and reaching all at once, which is a lot to ask of an irritable back.\n\nSit on the edge of the bed, bring one foot up onto the opposite knee and keep your back tall. A long-handled shoehorn or slip-ons are sensible tools on flare-up days. Gentle hip hinges, little and often, usually help the movement feel easier again.\n\nPain spreading below the knee, or numbness or weakness in the leg, is worth an assessment first. Our chiropractors at Hybrid Physio combine hands-on care with simple exercises. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#lowerbackpain",
+    "#morningroutine",
+    "#healthyageing",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala showing why putting on socks can hurt a sore back, a seated dressing plan and signs worth getting checked.",
+  "story": {
+    "headline": "Socks the hardest part?",
+    "body": "Sit down, foot on knee,<br>back tall.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-04",
+  "created": "2026-12-04-6",
+  "status": "approved",
+  "review_warnings": []
+}

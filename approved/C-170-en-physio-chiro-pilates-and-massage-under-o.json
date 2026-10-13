@@ -1,0 +1,128 @@
+{
+  "id": "C-170-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Physio, chiro, Pilates and massage under one roof: how we refer",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Physio, chiro, Pilates..<br><em>who do I book</em>?",
+      "sub": "There's no wrong door. Here's how we refer.",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Any door<br>works here!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Sore shoulders, stiff back,<br>staring at the <em>booking page</em>.",
+      "char": "turtle_monitor",
+      "bubble": "So many<br>options..?",
+      "bubble_type": "thought",
+      "note": "(physio, chiro, Pilates, massage..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So he rang <b>Hybrid Physio</b>.<br>Hybi answered.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! What's<br>bothering you?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "I don't know who<br>I should book with."
+      },
+      "note": "Hybi said <mark>there's no wrong door</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "One roof,<br><em>one team</em>",
+      "fact": "Physio and chiro assess and treat; Pilates builds <em>strength</em>",
+      "left": {
+        "label": "One team",
+        "char": "turtle_happy",
+        "caption": "Shared notes (with consent),<br><b>one plan</b>"
+      },
+      "right": {
+        "label": "Going solo",
+        "char": "turtle_sad",
+        "caption": "Retelling your story<br><em>every visit</em>"
+      },
+      "quip": "We'll point you to<br>the right person!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute booking guide</b>",
+      "sub": "Not sure where to start?",
+      "sections": [
+        {
+          "heading": "1. How it works",
+          "color": "yellow",
+          "lines": [
+            "① Book with <em>any</em> of our practitioners.",
+            "② After assessment, we'll suggest who may help.",
+            "③ You <em>always choose</em>; no pressure to add.",
+            "④ Need your GP? We'll <em>write to them</em>."
+          ]
+        },
+        {
+          "heading": "2. When we refer out",
+          "color": "purple",
+          "lines": [
+            "Imaging or a specialist opinion needed?",
+            "We'll <em>tell you clearly</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "<em>Still unsure</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Ask the clinic if…",
+      "items": [
+        "You're not sure what's up",
+        "Progress has stalled",
+        "Your goals have changed"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Physio, chiro, Pilates or massage? Mr Turtle stared at the booking page for ages. Here's the thing: there's no wrong door.\n\nPhysios and chiropractors assess and treat pain and injuries. Clinical Pilates builds strength and control through guided exercise. Remedial massage eases tight muscles and helps you feel more comfortable.\n\nBook with anyone on our team. After an assessment, if another approach may suit you, we'll suggest it and explain why. With your consent, notes are shared so you don't repeat your story, and you always choose. If you need your GP, imaging or a specialist, we'll say so clearly.\n\nSee you at Hybrid Physio in Chatswood or Sydney CBD. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#alliedhealth",
+    "#multidisciplinary",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining how to choose between physio, chiro, Pilates and massage, how the team shares one plan, a booking guide and when to ask the clinic.",
+  "story": {
+    "headline": "Not sure who to see?",
+    "body": "No wrong door.<br>Start with anyone.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-18",
+  "created": "2026-12-18-2",
+  "status": "approved",
+  "review_warnings": []
+}

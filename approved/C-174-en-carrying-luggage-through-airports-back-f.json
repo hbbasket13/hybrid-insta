@@ -1,0 +1,128 @@
+{
+  "id": "C-174-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Carrying luggage through airports: back-friendly travel",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Bags packed.<br>Is your <em>back</em> ready?",
+      "sub": "Back-friendly airport habits for summer travel",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let me show you<br>a few tricks!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Christmas trip,<br>bags lifted <em>five or six times</em>.",
+      "char": "koala_tired",
+      "bubble": "Yanked it off the<br>carousel.. ouch?",
+      "bubble_type": "thought",
+      "note": "(then the overhead locker, with a twist..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Back home, Koko met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome back!<br>Good trip?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Lovely.. but the<br>bags got my back."
+      },
+      "note": "Hybi shared <mark>the two-step lift</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Push it beside you,<br><em>don't drag it</em>",
+      "fact": "<em>Four-wheel</em> cases roll beside you, so your arm isn't twisted",
+      "left": {
+        "label": "Four wheels",
+        "char": "koala_happy",
+        "caption": "Push beside you,<br><b>swap hands</b>"
+      },
+      "right": {
+        "label": "Two wheels",
+        "char": "koala_tired",
+        "caption": "Dragged behind,<br><em>arm twisted back</em>"
+      },
+      "quip": "Heavy items at<br>the wheel end!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute airport plan</b>",
+      "sub": "Check before you fly!",
+      "sections": [
+        {
+          "heading": "1. Lift in two steps",
+          "color": "yellow",
+          "lines": [
+            "① Carousel: wait till your bag is <em>close</em>.",
+            "② Bend your knees, pull it in, then lift.",
+            "③ Locker: <em>armrest first</em>, then up.",
+            "④ Face the locker; don't twist."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em>, with numbness",
+            "or weakness, or isn't easing <em>after days</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Home with a<br><em>stiff back</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain down one leg",
+        "Numbness or weakness",
+        "Not easing after days"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Flying for Christmas? Bags packed, but is your back ready? ✈️\n\nYou can lift a bag five or six times per trip. Spinner cases with four wheels roll beside you, so you push rather than drag with a twisted arm. Swap hands every so often.\n\nAt the carousel, wait until your bag comes close, step in, bend your knees and pull it towards you before lifting. For the overhead locker, lift your carry-on to the armrest first, then up, facing the locker. Pack heavy items at the wheel end.\n\nBack pain that spreads down a leg, comes with numbness or weakness, or isn't easing a few days after you get home is worth assessing. Our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#backpain",
+    "#travel",
+    "#holidaytravel",
+    "#christmastravel",
+    "#travelhealth",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala showing back-friendly airport habits, four-wheel versus two-wheel cases, a two-step lift for carousels and lockers, and signs worth getting checked.",
+  "story": {
+    "headline": "Flying this summer?",
+    "body": "Armrest first,<br>then the locker.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-19",
+  "created": "2026-12-19-6",
+  "status": "approved",
+  "review_warnings": []
+}

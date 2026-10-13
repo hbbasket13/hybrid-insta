@@ -1,0 +1,128 @@
+{
+  "id": "C-168-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Surfing: shoulder and neck care for paddling",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "여름 첫 서핑 후<br><em>어깨·목</em>이 뻐근하다면",
+      "sub": "패들링하는 어깨 챙기기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "서핑의 대부분은<br>패들링이에요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "겨울 내내 쉬다가<br>여름 첫날 <em>세 시간</em> 서핑.",
+      "char": "rabbit_tired",
+      "bubble": "파도는 몇 개<br>못 탔는데<br>어깨가 왜..?",
+      "bubble_type": "thought",
+      "note": "(고개 들고 패들하느라 목까지 뻐근..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "본다이에서 돌아와<br><b>하이브리드 피지오</b>로 간 토토.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>서핑 시즌이죠?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 어깨랑 목이<br>너무 뻐근해요."
+      },
+      "note": "하비는 <mark>천천히 늘리는 법</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "어깨는 <em>천천히</em><br>늘릴 때 잘 적응해요",
+      "fact": "한 세션에 <em>수백 번</em> 젓는 패들링, 목은 내내 젖혀져 있어요",
+      "left": {
+        "label": "조금씩 늘리기",
+        "char": "rabbit_happy",
+        "caption": "몇 주에 걸쳐<br><b>시간을 늘려요</b>"
+      },
+      "right": {
+        "label": "첫날부터 길게",
+        "char": "rabbit_tired",
+        "caption": "겨울 쉬고<br><em>바로 세 시간</em>"
+      },
+      "quip": "육지 운동도<br>같이 해봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 패들 준비</b>",
+      "sub": "주 2~3번, 육지에서!",
+      "sections": [
+        {
+          "heading": "1. 어깨 뒤쪽 키우기",
+          "color": "yellow",
+          "lines": [
+            "① 밴드 외회전 <em>12회 × 2세트</em>.",
+            "② 밴드 로우(당기기) 12회 × 2세트.",
+            "③ 엎드려 Y자 팔 들기 10회.",
+            "④ 세트 사이엔 <em>턱을 잠깐</em> 보드에 쉬어요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "밤에 깰 만큼 아프거나 <em>팔에 힘이 빠지면</em>,",
+            "팔로 <em>저림</em>이 퍼지면 평가받기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "어깨가 <em>계속 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호라면 확인받기",
+      "items": [
+        "밤에 깨는 통증",
+        "팔 들기가 힘들다",
+        "팔로 퍼지는 저림"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "여름 첫 서핑 몇 번에 어깨와 목이 뻐근한 토토 🏄\n\n서핑의 대부분은 파도 타기가 아니라 패들링이에요. 한 세션에 수백 번 팔을 젓고, 목은 앞을 보느라 내내 젖혀져 있어요. 조용한 겨울을 보냈다면 꽤 큰 변화예요.\n\n세션 시간은 몇 주에 걸쳐 늘리고, 육지에서 주 2~3번 밴드 외회전·로우·엎드려 Y자 들기를 해봐요. 세트 사이엔 목도 잠깐 쉬어요.\n\n밤에 깰 만큼 아프거나, 팔에 힘이 빠지거나, 팔로 저림이 퍼지면 평가받아요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니물리치료",
+    "#물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#서핑",
+    "#어깨통증",
+    "#목통증",
+    "#physiotherapy",
+    "#surfing",
+    "#shoulderpain",
+    "#sydneycbd",
+    "#sydney"
+  ],
+  "alt_text": "하비와 토끼 토토가 등장하는 7장짜리 만화 카드뉴스: 패들링 후 어깨와 목이 뻐근한 이유, 서핑 시간 서서히 늘리기, 1분 패들 준비 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "패들링 어깨, 괜찮아요?",
+    "body": "밴드 외회전·로우<br>주 2~3번 육지에서!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-17",
+  "created": "2026-12-17-3",
+  "status": "approved",
+  "review_warnings": []
+}

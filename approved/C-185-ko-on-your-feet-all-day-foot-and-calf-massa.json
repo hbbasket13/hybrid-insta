@@ -1,0 +1,129 @@
+{
+  "id": "C-185-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "On your feet all day: foot and calf massage",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하루 종일 서 있었더니<br><em>종아리가 돌덩이</em>",
+      "sub": "발·종아리 마사지가 해줄 수 있는 것",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "다리도<br>쉬어야죠!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "연말 대목, 루루는<br><em>10시간째</em> 현장에 서 있다.",
+      "char": "kanga_tired",
+      "bubble": "다리가 왜 이렇게<br>무겁지..?",
+      "bubble_type": "thought",
+      "note": "(발바닥 아치까지 욱신욱신..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "퇴근길에<br><b>하이브리드 피지오</b>에 들른 루루.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "루루, 오늘도<br>오래 서 있었죠?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "마사지 받으면<br>다 풀리겠죠..?"
+      },
+      "note": "하비는 <mark>마사지와 움직임은 한 팀</mark>이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는<br><em>움직임과 한 팀!</em>",
+      "fact": "마사지는 뭉친 느낌 완화에 도움 · <em>움직임</em>과 함께!",
+      "left": {
+        "label": "마사지+운동",
+        "char": "kanga_happy",
+        "caption": "공 굴리기·까치발로<br><b>가볍게 이어가요</b>"
+      },
+      "right": {
+        "label": "마사지만",
+        "char": "kanga_tired",
+        "caption": "다음 날 또 서 있으면<br><em>금방 다시 뻐근해요</em>"
+      },
+      "quip": "마사지는 덤,<br>움직임은 기본!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>퇴근 후 1분 다리 케어</b>",
+      "sub": "소파에 눕기 전에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 풀어줘요",
+          "color": "yellow",
+          "lines": [
+            "① 발바닥으로 <em>공 굴리기</em> 1분씩.",
+            "② 천천히 <em>까치발 들기 10회</em>.",
+            "③ 쉬는 시간마다 <em>종아리 스트레칭</em> 20초.",
+            "④ 쿠션 있는 <em>신발</em> + 틈틈이 자세 바꾸기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 의료 확인!",
+          "color": "purple",
+          "lines": [
+            "한쪽 종아리가 <em>붓고 뜨겁고 빨갛다면</em>,",
+            "특히 장거리 비행 뒤라면 <em>바로 진료받기</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "계속<br><em>다리가 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "한쪽 종아리만 붓는다",
+        "발뒤꿈치 통증이 오래간다",
+        "저리거나 힘이 빠진다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 다리 쉬어가요!"
+    }
+  ],
+  "caption": "연말 대목, 10시간째 서 있는 루루. 오래 서 있으면 종아리와 발 근육이 쉴 틈 없이 일해서 다리가 무겁고 아치가 욱신할 수 있어요.\n\n리메디얼 마사지는 뭉친 느낌을 덜어주는 데 도움이 될 수 있어요. 다만 혼자보다는 움직임과 한 팀일 때 좋아요. 발바닥 공 굴리기 1분, 까치발 10회, 쉬는 시간 종아리 스트레칭, 쿠션 있는 신발을 함께 챙겨요.\n\n한쪽 종아리가 붓고 뜨겁고 빨가면 바로 진료받기! 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#종아리마사지",
+    "#발마사지",
+    "#리메디얼마사지",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#서서일하는직업",
+    "#remedialmassage",
+    "#sydneymassage",
+    "#calfmassage",
+    "#sydneycbd",
+    "#tradielife"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 하루 종일 서 있으면 다리가 무거운 이유, 마사지와 움직임을 함께하기, 퇴근 후 다리 케어, 바로 확인이 필요한 신호.",
+  "story": {
+    "headline": "종아리가 돌덩이라면?",
+    "body": "공 굴리기 1분 + 까치발 10회,<br>퇴근 후 바로!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-24",
+  "created": "2026-12-24-5",
+  "status": "approved",
+  "review_warnings": []
+}

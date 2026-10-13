@@ -1,0 +1,128 @@
+{
+  "id": "C-153-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Soft sand running: build up gradually",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "모래 위 달리기는<br><em>완전히 다른 운동</em>",
+      "sub": "토토의 첫 해변 러닝 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "조금씩<br>늘려가요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "본다이에서 <em>5km</em>,<br>도로처럼 달린 토토.",
+      "char": "rabbit_tired",
+      "bubble": "평소보다 느렸는데<br>종아리가 왜 이래..?",
+      "bubble_type": "thought",
+      "note": "(다음 날 아침, 아킬레스가 뻣뻣..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "종아리를 주무르며<br><b>하비</b>를 찾아갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>모래에서 뛰었죠?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 겨우 5km였는데<br>왜 이럴까요?"
+      },
+      "note": "하비는 <mark>모래가 주는 부담</mark>부터 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "발이 <em>푹푹</em> 빠지면<br>종아리가 더 일해요",
+      "fact": "속도는 느려져도 종아리·아킬레스 <em>부담은 커져요</em>",
+      "left": {
+        "label": "단단한 모래",
+        "char": "rabbit_happy",
+        "caption": "물가 단단한 모래로<br><b>가볍게 시작</b>"
+      },
+      "right": {
+        "label": "푹신한 모래",
+        "char": "rabbit_tired",
+        "caption": "처음부터 길게<br><em>부담이 확 커져요</em>"
+      },
+      "quip": "조금씩 늘리는 게<br>핵심이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>모래 러닝 플랜</b>",
+      "sub": "이번 주말부터!",
+      "sections": [
+        {
+          "heading": "1. 천천히 늘리기",
+          "color": "yellow",
+          "lines": [
+            "① 평소 러닝 중 <em>5~10분만</em> 모래로.",
+            "② 매주 <em>몇 분씩만</em> 추가해요.",
+            "③ 처음엔 신발 신고, 맨발 구간은 짧게.",
+            "④ 기울어진 해변은 <em>왕복</em>으로 양쪽 고르게."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "종아리 뒤에서 <em>뚝 소리</em>가 나거나,",
+            "걸음이 <em>달라질 만큼</em> 아프면 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "종아리·아킬레스가<br><em>계속 아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "뛸수록 통증이 커진다",
+        "아침 뻣뻣함이 오래 간다",
+        "걸음걸이가 달라졌다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "여름이라 해변에서 달려본 토토. 평소보다 느렸는데 다음 날 종아리가 뻣뻣해요.\n\n모래는 발이 빠지고 미끄러져서 종아리·아킬레스·발이 훨씬 더 일해요. 속도는 느려도 부담은 커질 수 있어요.\n\n평소 러닝 중 5~10분만 모래로, 매주 몇 분씩 늘려가요. 물가 단단한 모래가 좋은 중간 단계이고, 기울어진 해변은 왕복으로 달려요.\n\n뛸수록 커지는 통증이나 뚝 하는 느낌은 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🏖\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#해변러닝",
+    "#모래러닝",
+    "#러닝",
+    "#아킬레스",
+    "#종아리통증",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#beachrunning",
+    "#sydneyrunners",
+    "#chatswoodphysio"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 모래 위 달리기가 종아리에 더 부담인 이유, 단단한 모래와 푹신한 모래 비교, 단계별 플랜, 확인이 필요한 신호.",
+  "story": {
+    "headline": "모래 위 러닝, 천천히!",
+    "body": "평소 러닝 중 5~10분만<br>모래로 시작해요.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-11",
+  "created": "2026-12-11-3",
+  "status": "approved",
+  "review_warnings": []
+}

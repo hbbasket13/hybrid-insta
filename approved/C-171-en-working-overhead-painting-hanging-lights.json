@@ -1,0 +1,128 @@
+{
+  "id": "C-171-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Working overhead: painting, hanging lights and your neck",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hung the <em>Christmas lights</em>.<br>Now the neck won't turn.",
+      "sub": "Overhead jobs and your neck, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's tip your<br>head back less!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Painting the ceiling,<br>then <em>fairy lights</em> till dark.",
+      "char": "kanga_tired",
+      "bubble": "Looked up<br>all day..<br>now what?",
+      "bubble_type": "thought",
+      "note": "(neck stiff, shoulders heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Next day, Lulu met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Been working<br>overhead?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. looking up<br>is rough now."
+      },
+      "note": "Hybi explained <mark>it's position plus time</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Head back + arms up<br>= <em>a tired neck</em>",
+      "fact": "Neck tipped back while arms work up high <em>adds up</em> over time",
+      "left": {
+        "label": "Up close",
+        "char": "kanga_happy",
+        "caption": "Stable ladder,<br><b>work near eye level</b>"
+      },
+      "right": {
+        "label": "Reaching up",
+        "char": "kanga_tired",
+        "caption": "Head right back<br><em>for hours</em>"
+      },
+      "quip": "Short blocks,<br>then look ahead!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute overhead plan</b>",
+      "sub": "Before the lights go up!",
+      "sections": [
+        {
+          "heading": "1. Spare your neck",
+          "color": "yellow",
+          "lines": [
+            "① Use a stable ladder to <em>get closer</em>.",
+            "② <em>10–15 min</em> up, then a break looking ahead.",
+            "③ <em>Swap hands</em> on the roller or drill.",
+            "④ After: 10 chin nods and shoulder rolls."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "Arm tingling, <em>dizziness looking up</em>,",
+            "or any <em>fall from a ladder</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Neck <em>still sore</em><br>days later?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down an arm",
+        "Dizziness looking up",
+        "Headaches that keep building"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Painted the ceiling, then hung the Christmas lights. Now Lulu's neck won't turn 🎄\n\nLooking up for long periods holds the neck tipped back while your shoulders work above head height. It's usually the combination and the time, not the task itself, that leaves things sore.\n\nGet closer to the job with a stable ladder, work in 10 to 15 minute blocks with a break looking straight ahead, and swap hands on the roller or drill. Afterwards, gentle chin nods and shoulder rolls. Most soreness settles within a few days with movement.\n\nArm tingling, dizziness looking up, building headaches or any fall from a ladder are worth getting checked. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#neckpain",
+    "#shoulderpain",
+    "#christmaslights",
+    "#diy",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why overhead jobs like hanging Christmas lights leave the neck sore, getting closer to the work, a 1-minute overhead plan and signs worth getting checked.",
+  "story": {
+    "headline": "Hanging lights this week?",
+    "body": "10–15 minute blocks,<br>then look ahead.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-18",
+  "created": "2026-12-18-6",
+  "status": "approved",
+  "review_warnings": []
+}

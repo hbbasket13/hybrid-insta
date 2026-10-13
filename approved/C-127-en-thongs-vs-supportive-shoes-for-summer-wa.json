@@ -1,0 +1,128 @@
+{
+  "id": "C-127-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Thongs vs supportive shoes for summer walking",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Thongs <em>all summer</em>:<br>good or bad?",
+      "sub": "Thongs vs supportive shoes for summer walks",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "It depends on<br>the distance!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every summer, Koko walks<br>everywhere in <em>thongs</em>.",
+      "char": "koala_tired",
+      "bubble": "An hour's walk to<br>the harbour, and<br>now my feet ache?",
+      "bubble_type": "thought",
+      "note": "(tight calves and a twinge in the heel..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Hi Koko!<br>Tired feet?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "So I should give<br>up thongs for good?"
+      },
+      "note": "Hybi said <mark>thongs are fine, distance matters</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "In thongs, your toes<br><em>never clock off</em>",
+      "fact": "To keep a thong on, your toes <em>grip with every step</em>",
+      "left": {
+        "label": "Long walks",
+        "char": "koala_happy",
+        "caption": "Heel strap, cushioning,<br><b>sandal or shoe</b>"
+      },
+      "right": {
+        "label": "Thongs, long way",
+        "char": "koala_tired",
+        "caption": "Feet and calves<br>can <em>tire quickly</em>"
+      },
+      "quip": "Beach, pool, quick shop?<br>Thongs are usually fine!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>summer feet plan</b>",
+      "sub": "Pick footwear for the job!",
+      "sections": [
+        {
+          "heading": "1. Make thongs work for you",
+          "color": "yellow",
+          "lines": [
+            "① Thongs for short trips, <em>shoes for long walks</em>.",
+            "② Build thong time up <em>over a week or two</em>.",
+            "③ Thongs with arch contouring are an option.",
+            "④ Toe curls, <em>10 reps × 2 sets</em>, daily."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Your heel hurts with <em>the first steps</em> each morning,",
+            "or a spot on <em>top of the foot</em> is sore or swollen."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Feet still<br><em>complaining?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Heel pain first thing",
+        "A sore spot on top of foot",
+        "Swelling that's increasing"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Happy summer feet with<br>Hybi at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Living in thongs all summer? Here's when they're fine and when your feet might prefer a shoe.\n\nThongs are usually fine for the beach, the pool and quick errands. The catch is longer walks: your toes have to grip every step to keep them on, which can tire your feet and calves.\n\nFor long walks, uneven paths or lots of standing, try a sandal with a heel strap or a cushioned shoe. Went from runners all year to thongs all summer? Build up thong time gradually.\n\nHeel pain with your first steps in the morning, or a sore spot on top of the foot, is worth getting checked. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#footpain",
+    "#heelpain",
+    "#thongs",
+    "#summerwalking",
+    "#footwear",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about wearing thongs all summer, why toes grip on long walks, a summer feet plan and signs worth getting checked.",
+  "story": {
+    "headline": "Thongs all summer?",
+    "body": "Thongs for short trips,<br>shoes for long walks.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-02",
+  "created": "2026-12-02-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-179-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Holiday couch slouching: long TV sessions and your back",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Episode three.<br>Your back wants <em>an intermission</em>.",
+      "sub": "Holiday TV, the couch and your back",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "Pause the<br>remote!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Mr Turtle and the couch<br>have become <em>one</em>.",
+      "char": "turtle_sad",
+      "bubble": "Just one more..<br>why is my back<br>so stiff..?",
+      "bubble_type": "thought",
+      "note": "(the remote hasn't left his hand since Boxing Day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "First week of January,<br>he visits <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Mr Turtle!<br>Good break?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "It's my bad posture,<br>isn't it..?"
+      },
+      "note": "Hybi says <mark>time in one position</mark> matters more."
+    },
+    {
+      "kind": "compare",
+      "title": "Forget perfect posture.<br><em>Change position.</em>",
+      "fact": "Slouching isn't harmful in itself · it's <em>hours in one shape</em>",
+      "left": {
+        "label": "Up every episode",
+        "char": "turtle_happy",
+        "caption": "Moving often usually<br>keeps backs <b>happier</b>"
+      },
+      "right": {
+        "label": "Three in a row",
+        "char": "turtle_sad",
+        "caption": "Same shape for hours,<br><em>stiff by evening</em>"
+      },
+      "quip": "Episode ends?<br>Stand up first!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute intermission</b>",
+      "sub": "Before you hit next episode!",
+      "sections": [
+        {
+          "heading": "1. Every 30–45 minutes",
+          "color": "yellow",
+          "lines": [
+            "① Stand up and <em>walk to the kitchen</em>.",
+            "② Reach overhead, <em>5 gentle back bends</em>.",
+            "③ <em>Cushion</em> behind your lower back, feet down.",
+            "④ Binge day? Add a <em>morning walk or swim</em>."
+          ]
+        },
+        {
+          "heading": "2. See your GP promptly if…",
+          "color": "purple",
+          "lines": [
+            "<em>Numbness around the groin</em>, bladder or",
+            "bowel changes, <em>leg weakness or fever</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still stiff into<br>the <em>new year</em>?",
+      "bubble": "Causes differ for everyone.<br><b>Assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain waking you at night",
+        "Weakness in a leg",
+        "Fever alongside it"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Start the year with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Binge-watching over the break? Your back would like an intermission. 📺\n\nThere's no perfect way to sit on the couch, and slouching isn't harmful in itself. What tends to stiffen backs is staying in one shape for hours.\n\nTry Hybi's 1-minute intermission every 30 to 45 minutes: stand up, walk to the kitchen, reach overhead and do 5 gentle back bends. A cushion behind your lower back helps, and so does balancing couch days with a morning walk or swim.\n\nPain that wakes you at night, numbness around the groin, bladder or bowel changes or leg weakness need a prompt GP check.\n\nIf the stiffness hangs around into the new year, our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#posture",
+    "#bingewatching",
+    "#holidayseason",
+    "#sydneycbd",
+    "#sydneycbdchiro",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#lowerbackpain",
+    "#movemore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on why long holiday TV sessions can stiffen your back, why changing position matters more than perfect posture, a 1-minute intermission routine and signs worth checking.",
+  "story": {
+    "headline": "Binge-watching? Take five.",
+    "body": "Stand up each episode,<br>5 gentle back bends.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-22",
+  "created": "2026-12-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

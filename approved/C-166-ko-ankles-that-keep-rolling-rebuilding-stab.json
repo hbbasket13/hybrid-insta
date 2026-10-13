@@ -1,0 +1,128 @@
+{
+  "id": "C-166-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Ankles that keep rolling: rebuilding stability",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "또 그 발목?<br><em>자꾸 접질리는</em> 이유",
+      "sub": "발목 균형, 다시 키울 수 있어요",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "균형도<br>훈련이 돼요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "올해만 세 번째,<br><em>같은 발목</em>을 접질린 토토.",
+      "char": "rabbit_tired",
+      "bubble": "아프던 게 나으면<br>괜찮은 거 아냐..?",
+      "bubble_type": "thought",
+      "note": "(울퉁불퉁한 길만 보면 움찔..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비를 만난 토토.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>발목이 또 말썽?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 안 아픈데<br>왜 또 접질릴까요?"
+      },
+      "note": "하비는 <mark>통증과 회복은 다르다</mark>는 걸 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "통증이 사라져도<br><em>재활은 남아 있어요</em>",
+      "fact": "접질린 뒤엔 <em>근력과 위치 감각</em>이 조금 떨어질 수 있어요",
+      "left": {
+        "label": "끝까지 재활",
+        "char": "rabbit_happy",
+        "caption": "균형·근력까지<br><b>다시 키워요</b>"
+      },
+      "right": {
+        "label": "통증만 잡고 끝",
+        "char": "rabbit_tired",
+        "caption": "반응이 느려<br><em>또 접질릴 수 있어요</em>"
+      },
+      "quip": "양치하면서<br>한 발 서기!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 발목 균형</b>",
+      "sub": "양치하면서 바로!",
+      "sections": [
+        {
+          "heading": "1. 한 발 서기부터",
+          "color": "yellow",
+          "lines": [
+            "① 한 발로 <em>30초</em> 서기, 양쪽.",
+            "② 쉬워지면 눈 감기 · 쿠션 위에서.",
+            "③ 한 발 까치발 <em>10회 × 2세트</em>, 매일.",
+            "④ 탄탄해지면 작은 점프·좌우 홉 추가."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "<em>체중을 못 싣거나</em> 뼈를 누르면 아프면",
+            "평가부터 받아요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "발목이 <em>자주 꺾인다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호라면 꼭 확인받기",
+      "items": [
+        "체중을 싣기 힘들다",
+        "뼈를 누르면 아프다",
+        "붓기가 안 빠진다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "같은 발목을 또 접질린 토토. 생각보다 흔한 패턴이에요.\n\n접질린 뒤엔 발목 근력과 위치 감각이 조금 떨어질 수 있어요. 통증이 사라지자마자 재활을 멈추면, 울퉁불퉁한 길이나 착지에서 반응이 느려질 수 있어요.\n\n다행히 균형과 근력은 훈련이 돼요. 양치하면서 한 발 서기 30초, 한 발 까치발, 밴드 운동으로 시작해 몇 주에 걸쳐 홉·좌우 점프로 늘려가요. 여름 해변 달리기 전에 딱 좋아요.\n\n체중을 싣기 힘들거나, 뼈를 누르면 아프거나, 자주 꺾이면 확인받아요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니물리치료",
+    "#물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#발목염좌",
+    "#발목접질림",
+    "#균형운동",
+    "#physiotherapy",
+    "#anklesprain",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydney"
+  ],
+  "alt_text": "하비와 토끼 토토가 등장하는 7장짜리 만화 카드뉴스: 같은 발목을 자꾸 접질리는 이유, 끝까지 하는 재활, 1분 발목 균형 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "같은 발목, 또 접질렸다면?",
+    "body": "양치하면서<br>한 발 서기 30초!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-17",
+  "created": "2026-12-17-1",
+  "status": "approved",
+  "review_warnings": []
+}

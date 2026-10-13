@@ -1,0 +1,128 @@
+{
+  "id": "C-168-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Surfing: shoulder and neck care for paddling",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "First surfs of summer,<br><em>shoulders</em> feeling it?",
+      "sub": "Paddle care for shoulders and neck",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Surfing is<br>mostly paddling!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Quiet winter, then<br>a <em>three-hour</em> first surf.",
+      "char": "rabbit_tired",
+      "bubble": "Caught three waves..<br>why are my<br>shoulders so sore?",
+      "bubble_type": "thought",
+      "note": "(head up the whole paddle, neck's cooked too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Back from Bondi, Toto<br>met Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Surf<br>season again?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep.. shoulders<br>and neck are toast."
+      },
+      "note": "Hybi started with <mark>building up gradually</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Shoulders adapt<br><em>when you build slowly</em>",
+      "fact": "Hundreds of strokes a session, with the <em>neck extended</em>",
+      "left": {
+        "label": "Build up",
+        "char": "rabbit_happy",
+        "caption": "Longer sessions<br><b>over a few weeks</b>"
+      },
+      "right": {
+        "label": "All in",
+        "char": "rabbit_tired",
+        "caption": "Three hours on<br><em>day one</em>"
+      },
+      "quip": "Add some land<br>work too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute paddle prep</b>",
+      "sub": "On land, 2–3 times a week!",
+      "sections": [
+        {
+          "heading": "1. Back-of-shoulder strength",
+          "color": "yellow",
+          "lines": [
+            "① Band external rotations, <em>12 × 2</em>.",
+            "② Band rows, 12 × 2.",
+            "③ Lying face-down Y raises, 10 reps.",
+            "④ Between sets, <em>rest your chin</em> on the board."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>wakes you at night</em>, the arm feels <em>weak</em>,",
+            "or pins and needles run down it."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Shoulder <em>still sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain waking you at night",
+        "Weakness lifting the arm",
+        "Tingling down the arm"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Shoulders and neck feeling it after the first few surfs of summer? 🏄\n\nMost of surfing is paddling. That's hundreds of strokes per session with your neck extended to look ahead, which is a big jump after a quiet winter.\n\nA few things tend to help. Build session length up over a few weeks rather than going straight to three-hour mornings. Add band external rotations, rows and face-down Y raises on land two or three times a week. And give your neck a short rest between sets.\n\nPain that wakes you at night, weakness lifting your arm or pins and needles down the arm are worth getting assessed. Our Sydney CBD and Chatswood physios can build a plan around your surf days. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#surfing",
+    "#surfer",
+    "#shoulderpain",
+    "#neckpain",
+    "#sydneysurf",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#summer"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why paddling loads the shoulders and neck, building surf time gradually, a 1-minute land routine and signs worth getting checked.",
+  "story": {
+    "headline": "Paddling shoulders feeling it?",
+    "body": "Band rotations and rows,<br>2–3 times a week.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-17",
+  "created": "2026-12-17-6",
+  "status": "approved",
+  "review_warnings": []
+}

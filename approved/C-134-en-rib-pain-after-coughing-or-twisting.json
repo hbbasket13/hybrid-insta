@@ -1,0 +1,128 @@
+{
+  "id": "C-134-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Rib pain after coughing or twisting",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "One big cough and<br>his ribs <em>said ouch</em>",
+      "sub": "Sore ribs after coughing, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's look at<br>your breathing!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Week three of a cold,<br>and <em>still coughing</em>.",
+      "char": "turtle_sad",
+      "bubble": "Why does a deep<br>breath catch<br>right here..?",
+      "bubble_type": "thought",
+      "note": "(rolling over in bed is a shock too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So he dropped into<br><b>Hybrid Physio</b> to see Hybi.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Did a cough<br>catch your ribs?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yep.. so now I only<br>breathe really<br>shallow."
+      },
+      "note": "Hybi started with <mark>that shallow-breathing habit</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Your ribs move with<br><em>every breath</em>!",
+      "fact": "Ribs join the spine and breastbone via <em>small joints</em>",
+      "left": {
+        "label": "Slow and deep",
+        "char": "turtle_happy",
+        "caption": "Deep breaths keep<br>the ribs <b>moving gently</b>"
+      },
+      "right": {
+        "label": "Holding back",
+        "char": "turtle_sad",
+        "caption": "Shallow breathing can<br>leave you <em>stiffer</em>"
+      },
+      "quip": "Most rib strains settle<br>over a few weeks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute breathing reset</b>",
+      "sub": "Try it on coughing days!",
+      "sections": [
+        {
+          "heading": "1. Deep breaths + pillow hug",
+          "color": "yellow",
+          "lines": [
+            "① Sit comfortably, shoulders soft.",
+            "② In through the nose for <em>4 sec</em>, slowly out.",
+            "③ <em>5 breaths</em>, about once an hour.",
+            "④ Coughing? <em>Hug a pillow</em> to your ribs."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You're <em>breathless</em>, feverish or coughing",
+            "up blood — see your GP first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When should it be<br><em>checked first</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See your GP first if you notice",
+      "items": [
+        "Chest pain + breathlessness",
+        "Pain after a fall or knock",
+        "Pain steadily getting worse"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "One big cough and Mr Turtle's ribs grabbed. A hard cough, sneeze or quick twist can strain the small joints and muscles between the ribs.\n\nIt's tempting to breathe shallow to avoid the sting, but that can leave you stiffer. Slow deep breaths about once an hour, hugging a pillow when you cough and easy walking can help. Most rib strains settle over a few weeks.\n\nChest pain with breathlessness, fever, coughing up blood or pain after a fall needs your GP first, and call 000 in an emergency. Our Chatswood and Sydney CBD physios can help with the rest. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#ribpain",
+    "#cough",
+    "#breathing",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#officeworker"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining rib pain after coughing, why deep breathing matters, a 1-minute breathing reset and signs worth getting checked.",
+  "story": {
+    "headline": "Ribs sting when you cough?",
+    "body": "5 slow breaths + a pillow hug,<br>once an hour.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-04",
+  "created": "2026-12-04-2",
+  "status": "approved",
+  "review_warnings": []
+}

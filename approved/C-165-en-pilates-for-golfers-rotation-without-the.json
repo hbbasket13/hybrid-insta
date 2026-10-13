@@ -1,0 +1,128 @@
+{
+  "id": "C-165-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for golfers: rotation without the pain",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Stiff swing?<br>Look <em>a little higher up</em>",
+      "sub": "Pilates ideas for a freer golf swing",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Rotation is a<br>team effort!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Golf every Saturday,<br>and the swing feels <em>rusty</em>.",
+      "char": "koala_tired",
+      "bubble": "Is my lower back<br>doing all the<br>turning..?",
+      "bubble_type": "thought",
+      "note": "(the day after 18 holes, the lower back feels heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hello! A golfer,<br>I hear?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. my back<br>feels every swing."
+      },
+      "note": "Hybi explained <mark>how rotation is shared</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Rotation works<br><em>better shared</em>!",
+      "fact": "Stiff hips or mid-back? The <em>lower back</em> often takes over",
+      "left": {
+        "label": "Shared turn",
+        "char": "koala_happy",
+        "caption": "Hips, mid-back, shoulders<br><b>all chip in</b>"
+      },
+      "right": {
+        "label": "Back does it",
+        "char": "koala_tired",
+        "caption": "The lower back<br><em>does the twisting</em>"
+      },
+      "quip": "Let's open up<br>your mid-back!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute pre-round prep</b>",
+      "sub": "Try it before you tee off!",
+      "sections": [
+        {
+          "heading": "1. Open books",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your side, knees bent, arms in front.",
+            "② Breathe out, <em>open the top arm</em> wide.",
+            "③ Let your eyes follow your hand.",
+            "④ <em>8 slow reps</em> each side."
+          ]
+        },
+        {
+          "heading": "2. Get checked first if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>travels down an arm or leg</em>",
+            "with pins and needles, or <em>wakes you</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Swing <em>still uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain lasting 2+ weeks",
+        "Pain waking you at night",
+        "Pins and needles"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Stiff swing and a sore lower back after 18 holes? Koko's story says look a little higher up ⛳\n\nA smooth golf swing shares rotation between the hips, mid-back and shoulders. When the mid-back or hips are stiff, the lower back often picks up the slack.\n\nTry open books before your round (8 slow reps each side), hip rotations, and Pilates work like side planks to build control through the trunk. Aim for rotation you can control, not just more range.\n\nPain lasting more than a couple of weeks, waking you at night, or travelling down an arm or leg with pins and needles is worth assessing first. Our clinical Pilates team at Hybrid Physio can build a program around your swing. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#golf",
+    "#golffitness",
+    "#golfswing",
+    "#golfer",
+    "#sydneygolf",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#mobility",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why the lower back takes over in a stiff golf swing, how rotation is shared, a 1-minute open book routine and signs worth getting checked.",
+  "story": {
+    "headline": "Golfers: rotate from the middle",
+    "body": "Open books before<br>your round, 8 each side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-16",
+  "created": "2026-12-16-6",
+  "status": "approved",
+  "review_warnings": []
+}

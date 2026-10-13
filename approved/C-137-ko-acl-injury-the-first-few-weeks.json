@@ -1,0 +1,128 @@
+{
+  "id": "C-137-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "ACL injury: the first few weeks",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "뚝! 소리와 함께<br>무릎이 <em>풀썩</em>",
+      "sub": "ACL 부상, 처음 몇 주는 이렇게",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "차근차근<br>같이 가요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말 축구 중<br>방향을 틀던 <em>토토</em>.",
+      "char": "rabbit_tired",
+      "bubble": "방금 그 소리 뭐지?<br>무릎이 빠지는<br>느낌이었는데..",
+      "bubble_type": "thought",
+      "note": "(몇 시간 만에 무릎이 퉁퉁 부었다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "다음 날 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "많이 놀랐죠?<br>먼저 평가부터 해요."
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "괜찮은지 계속<br>뛰어보고 싶어요.."
+      },
+      "note": "하비는 <mark>처음 몇 주의 목표</mark>를 하나씩 정리해줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "처음 몇 주는<br><em>차분하게</em> 가요!",
+      "fact": "초기 목표: <em>붓기 가라앉히기</em> + 무릎 쭉 펴기",
+      "left": {
+        "label": "살살 움직이기",
+        "char": "rabbit_happy",
+        "caption": "무릎 펴기·허벅지<br><b>깨우기</b>부터"
+      },
+      "right": {
+        "label": "자꾸 시험하기",
+        "char": "rabbit_tired",
+        "caption": "점프해서 확인하면<br><em>더 부을 수</em> 있어요"
+      },
+      "quip": "무릎을 시험하는 게<br>아니라 다독일 때예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 허벅지 깨우기</b>",
+      "sub": "물리치료사 안내에 맞춰 해요!",
+      "sections": [
+        {
+          "heading": "1. 쿼드 셋 (Quad set)",
+          "color": "yellow",
+          "lines": [
+            "① 다리를 펴고 앉아 무릎 밑에 수건을 둬요.",
+            "② 허벅지에 힘을 줘 수건을 <em>꾹</em> 눌러요.",
+            "③ <em>5초 × 10회</em>, 하루 3번.",
+            "④ 쉴 땐 다리를 올리고 냉찜질해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "무릎이 <em>걸려서 안 펴지거나</em>",
+            "종아리가 붓고 아프면 바로 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 땐 <em>바로 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "무릎이 걸려 안 펴진다",
+        "종아리가 붓고 아프다",
+        "붓기가 점점 커진다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "하비가 <b>하이브리드 피지오</b>에서<br>기다릴게요!"
+    }
+  ],
+  "caption": "뚝 소리와 함께 무릎이 풀썩한 토토. 소리, 빠른 붓기, 무릎이 빠지는 느낌이 있었다면 일찍 평가받는 게 다음 단계를 정하는 데 도움이 돼요.\n\n처음 몇 주는 붓기를 가라앉히고, 무릎을 쭉 펴고, 허벅지 근육을 다시 깨우는 시간이에요. 쿼드 셋 5초 × 10회처럼 가벼운 운동은 보통 며칠 안에 시작해요. 상체 운동과 반대쪽 다리로 체력도 지켜요.\n\n무릎이 걸려 안 펴지거나 종아리가 붓고 아프면 바로 확인받아요. 채스우드·시드니 CBD 물리치료사가 초기 몇 주를 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#acl",
+    "#무릎부상",
+    "#십자인대",
+    "#스포츠재활",
+    "#물리치료",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#kneeinjury"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: ACL 부상 직후 몇 주의 목표, 무릎을 시험하지 않기, 1분 허벅지 깨우기 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "뚝 소리, 무릎이 풀썩했다면",
+    "body": "처음 몇 주는 붓기 관리와<br>허벅지 깨우기부터!",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-05",
+  "created": "2026-12-05-5",
+  "status": "approved",
+  "review_warnings": []
+}

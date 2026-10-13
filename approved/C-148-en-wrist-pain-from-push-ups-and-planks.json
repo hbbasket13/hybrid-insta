@@ -1,0 +1,128 @@
+{
+  "id": "C-148-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Wrist pain from push-ups and planks",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Push-ups make your<br>wrists <em>grumble</em>?",
+      "sub": "Lulu's wrist story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's change how<br>you place your hands!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A 30-second plank,<br>and the <em>wrists quit first</em>.",
+      "char": "kanga_tired",
+      "bubble": "My arms are fine..<br>so why my wrists?",
+      "bubble_type": "thought",
+      "note": "(she just doubled her push-up count..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After the gym,<br>Lulu went to see <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey there!<br>Wrists feeling sore?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. should I<br>drop push-ups?"
+      },
+      "note": "Hybi suggested <mark>changing, not quitting</mark>, first."
+    },
+    {
+      "kind": "compare",
+      "title": "Your wrist is <em>bent right back</em><br>while it holds you up",
+      "fact": "Push-ups and planks load the wrist in <em>full extension</em>",
+      "left": {
+        "label": "Fingers spread",
+        "char": "kanga_happy",
+        "caption": "Fingers wide, press<br>through the <b>knuckles</b>"
+      },
+      "right": {
+        "label": "Palm heel only",
+        "char": "kanga_tired",
+        "caption": "Weight dumps into<br>the <em>heel of the hand</em>"
+      },
+      "quip": "A new hand set-up<br>can feel a lot easier!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute wrist prep</b>",
+      "sub": "Try it before your next set!",
+      "sections": [
+        {
+          "heading": "1. Set-up and strength",
+          "color": "yellow",
+          "lines": [
+            "① Spread your fingers, press through the <em>knuckles</em>.",
+            "② Sore? Hands on a <em>bench or wall</em> for now.",
+            "③ Use push-up handles, or try <em>forearm planks</em>.",
+            "④ Slow wrist curls <em>2 × 10</em>, 2–3 times a week."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "It hurts after a fall on your hand, or",
+            "there's <em>swelling or painful clicking</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> after a few weeks?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain after a fall on a hand",
+        "Swelling around the wrist",
+        "Tender on the thumb side"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Push-ups and planks leaving Lulu's wrists sore?\n\nBoth hold the wrist bent right back while it carries a lot of bodyweight. If you've just started, or ramped up quickly, the wrist often just needs time to catch up.\n\nStart with the set-up: spread your fingers and press through the knuckles. Put your hands on a bench for a while, use push-up handles, or switch to forearm planks. Add slow wrist curls two or three times a week.\n\nPain after a fall on an outstretched hand, swelling or a tender spot on the thumb side is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 💪\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#wristpain",
+    "#pushups",
+    "#planks",
+    "#gymlife",
+    "#strengthtraining",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo on why push-ups and planks can make wrists sore, a better hand set-up, a 1-minute wrist routine and signs worth getting checked.",
+  "story": {
+    "headline": "Sore wrists in push-ups?",
+    "body": "Fingers wide, press through<br>the knuckles.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-10",
+  "created": "2026-12-10-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-139-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for shoulder rehab",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Three months of<br><em>resistance bands</em>..",
+      "sub": "Pilates as the next step in shoulder rehab",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Ready for the<br>next stage?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo hangs the washing<br>and <em>hesitates</em> mid-reach.",
+      "char": "cat_tired",
+      "bubble": "Bands feel easy now..<br>so why is reaching<br>up still hard?",
+      "bubble_type": "thought",
+      "note": "(the top shelf still feels a bit daunting..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "At the <b>Hybrid Physio</b><br>Pilates studio.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Momo!<br>How's the shoulder?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "I'm not sure what<br>comes after bands.."
+      },
+      "note": "Hybi sketched out <mark>the step after bands</mark> together."
+    },
+    {
+      "kind": "compare",
+      "title": "Shoulders respond to<br><em>small steps up</em>!",
+      "fact": "Reformer springs can <em>support</em> your arm or add load",
+      "left": {
+        "label": "Step by step",
+        "char": "cat_happy",
+        "caption": "Small increases,<br>shoulder <b>keeps up</b>"
+      },
+      "right": {
+        "label": "All at once",
+        "char": "cat_tired",
+        "caption": "Big jumps in load<br>can <em>stir it up</em>"
+      },
+      "quip": "Step by step, alongside<br>your rehab plan!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute reach builder</b>",
+      "sub": "All you need is a wall!",
+      "sections": [
+        {
+          "heading": "1. Wall slide",
+          "color": "yellow",
+          "lines": [
+            "① Face a wall, forearms resting on it.",
+            "② Slide your arms <em>slowly upward</em>.",
+            "③ Only to a comfy height, <em>8 reps × 2 sets</em>.",
+            "④ On the way down, gently draw shoulder blades in."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Pins and needles</em> run down the arm,",
+            "or the pain is building."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Worth <em>checking first</em><br>if you notice..",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Review with your physio or GP if",
+      "items": [
+        "Can't lift arm after a fall",
+        "Pins and needles down arm",
+        "Night pain that keeps rising"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Hybi's waiting for you<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Momo's bands feel easy now, but reaching overhead is still hard. Many people hit this point in shoulder rehab, where the shoulder needs more varied, progressive load for everyday life.\n\nReformer springs can support part of your arm's weight or add resistance in small steps. Rows, arm work and side-lying exercises help the shoulder blade and rotator cuff share the load. If you've had surgery or are seeing a physio, sessions follow their plan.\n\nA shoulder that won't lift after a fall, pins and needles down the arm or building night pain is worth reviewing first. Our Pilates team at Hybrid Physio works alongside our physios. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#shoulderrehab",
+    "#shoulderpain",
+    "#rotatorcuff",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat showing how clinical Pilates can follow band work in shoulder rehab, a wall slide exercise and signs worth getting checked.",
+  "story": {
+    "headline": "Stuck at the band stage?",
+    "body": "Wall slides: 8 reps × 2,<br>to a comfy height.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-07",
+  "created": "2026-12-07-4",
+  "status": "approved",
+  "review_warnings": []
+}
