@@ -1,0 +1,131 @@
+{
+  "id": "C-071-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Chiro or physio? Why we work together",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "카이로? 물리치료?<br><em>사실 둘 다일 때도</em>",
+      "sub": "한 지붕 아래 함께 일하는 이유",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "헷갈리죠?<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "허리가 뻐근한 거북씨,<br><em>어디로 가야 하지?</em>",
+      "char": "turtle_monitor",
+      "bubble": "카이로? 물리치료?<br>뭐가 다른 거야..?",
+      "bubble_type": "thought",
+      "note": "(검색창에 '차이' 치다가 30분 지났다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>에<br>전화해봤다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요, 하비예요!<br>고민 중이죠?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "카이로랑 물리치료,<br>뭘 예약해야 해요?"
+      },
+      "note": "하비는 <mark>겹치는 부분이 많다</mark>고 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "둘 다 <em>평가</em>부터,<br>둘 다 <em>운동</em>까지!",
+      "fact": "평가·손치료·운동은 겹쳐요 · 차이는 <em>주로 쓰는 도구</em>",
+      "left": {
+        "label": "팀으로 보기",
+        "char": "turtle_happy",
+        "caption": "동의하에 노트 공유,<br><b>서로 연결해요</b>"
+      },
+      "right": {
+        "label": "검색만 하기",
+        "char": "turtle_sad",
+        "caption": "혼자 고민만 하다<br><em>시작을 미뤄요</em>"
+      },
+      "quip": "누구로 시작해도<br>같이 연결해 드려요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>예약 고르기 팁</b>",
+      "sub": "어디서 시작할지 고민될 때",
+      "sections": [
+        {
+          "heading": "1. 이렇게 골라봐요",
+          "color": "yellow",
+          "lines": [
+            "① 카이로: <em>관절 조정</em>과 운동을 함께.",
+            "② 물리치료: <em>단계별 운동·재활</em>에 집중.",
+            "③ 편한 쪽으로 시작해도 <em>괜찮아요</em>.",
+            "④ 필요하면 팀이 <em>서로 연결</em>해 드려요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 먼저 확인받기!",
+          "color": "purple",
+          "lines": [
+            "팔다리가 <em>저리거나 힘이 빠지면</em>",
+            "어느 쪽이든 <em>평가 먼저</em> 받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "어디든 <em>평가가 먼저</em>예요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "팔다리 저림",
+        "힘이 빠지는 느낌",
+        "갈수록 심해지는 통증"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "\"카이로를 가야 해, 물리치료를 가야 해?\" 검색만 30분째인 거북씨. 사실 겹치는 부분이 많아요.\n\n둘 다 근육·관절·움직임을 평가하고, 손치료와 운동을 써요. 카이로프랙터는 관절 조정과 가동술을 운동·조언과 함께 쓰는 경우가 많고, 물리치료사는 단계별 운동과 재활에 좀 더 집중해요.\n\n하이브리드 피지오에선 한 지붕 아래에서 서로 연결하고, 동의하에 노트를 공유해요. 편한 쪽으로 시작하면 팀이 함께 맞춰가요.\n\n팔다리 저림이나 힘 빠짐이 있다면 평가가 먼저예요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#카이로프랙틱",
+    "#물리치료",
+    "#허리통증",
+    "#시드니카이로",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#chiropractor",
+    "#physiotherapy",
+    "#sydneycbd",
+    "#teamcare"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 카이로와 물리치료의 공통점과 차이, 팀으로 보기, 예약 고르기 팁, 평가가 필요한 신호.",
+  "story": {
+    "headline": "카이로? 물리치료?",
+    "body": "편한 쪽으로 시작,<br>팀이 연결해요!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-10",
+  "created": "2026-11-10-5",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-069-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for tradies: shoulders, forearms and lower back",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "금요일이면<br><em>온몸이 쑤시는 루루</em>",
+      "sub": "현장 일하는 몸과 리메디얼 마사지",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "어디가 제일<br>뭉쳤어요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "천장 드릴, 공구 그립,<br><em>무거운 자재까지</em>.",
+      "char": "kanga_tired",
+      "bubble": "어깨, 팔뚝, 허리..<br>안 쑤신 데가 없네..?",
+      "bubble_type": "thought",
+      "note": "(일주일 현장 일이 몸에 그대로 쌓였다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "퇴근길 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "한 주 수고했어요!<br>하비예요."
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "마사지만 받으면<br>다 풀리겠죠?"
+      },
+      "note": "하비는 <mark>마사지와 움직임은 한 팀</mark>이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는 <em>잠깐</em>,<br>움직임은 <em>꾸준히</em>",
+      "fact": "마사지는 <em>뭉친 느낌</em>을 잠시 덜어줄 수 있어요",
+      "left": {
+        "label": "마사지+운동",
+        "char": "kanga_happy",
+        "caption": "휴식 시간 스트레칭과<br><b>근력 운동을 같이</b>"
+      },
+      "right": {
+        "label": "마사지만",
+        "char": "kanga_tired",
+        "caption": "같은 부하가 계속되면<br><em>다시 뭉치기 쉬워요</em>"
+      },
+      "quip": "마사지는 재활을<br>보완하는 역할이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 현장 스트레칭</b>",
+      "sub": "휴식 시간에 바로!",
+      "sections": [
+        {
+          "heading": "1. 일 사이사이",
+          "color": "yellow",
+          "lines": [
+            "① 손목·손가락 <em>뒤로 젖혀</em> 15초씩.",
+            "② 어깨 <em>뒤로 돌리기</em> 10회.",
+            "③ 허리에 손 얹고 <em>살짝 뒤로</em> 5회.",
+            "④ 주 2회 <em>근력 운동</em>도 챙기기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 전에 평가!",
+          "color": "purple",
+          "lines": [
+            "손이 <em>저리거나</em>, 밤에 깨는 통증,",
+            "<em>작업 중 다친 경우</em>는 먼저 평가받기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>물리치료 평가</em>부터",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "손 저림이 있다",
+        "밤에 깰 만큼 아프다",
+        "현장에서 다쳤다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "금요일만 되면 온몸이 쑤시는 현장 일꾼 루루. 천장 작업은 어깨에, 하루 종일 공구를 쥐는 건 팔뚝에, 들고 숙이는 일은 허리에 쌓여요.\n\n리메디얼 마사지는 뭉친 느낌을 잠시 덜어줄 수 있어요. 여기에 휴식 시간 스트레칭과 주 2회 근력 운동을 더하면 몸이 일을 따라가기 훨씬 수월해요.\n\n손 저림, 밤에 깰 만큼의 통증, 작업 중 다친 경우는 마사지 전에 평가가 먼저예요.\n\n하이브리드 피지오 리메디얼 마사지 테라피스트가 물리치료사와 함께해요. 프로필 링크에서 온라인 예약 🔧\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#마사지",
+    "#현장직",
+    "#어깨통증",
+    "#허리통증",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#remedialmassage",
+    "#tradie",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 현장 일로 뭉친 어깨·팔뚝·허리, 마사지와 운동 함께하기 비교, 1분 현장 스트레칭, 평가가 필요한 신호.",
+  "story": {
+    "headline": "현장 일로 온몸이 뻐근?",
+    "body": "마사지 + 스트레칭,<br>한 팀으로!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-09",
+  "created": "2026-11-09-3",
+  "status": "approved",
+  "review_warnings": []
+}

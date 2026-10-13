@@ -1,0 +1,131 @@
+{
+  "id": "C-073-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "How long do the effects of a massage last?",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "마사지 받은 개운함,<br><em>얼마나 갈까요?</em>",
+      "sub": "솔직한 답과 오래 가게 하는 법",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "늘리는 방법도<br>있어요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마사지 받고 날아갈 듯,<br><em>이틀 뒤 다시 뻐근</em>.",
+      "char": "turtle_monitor",
+      "bubble": "벌써 다시<br>뭉친 거야..?",
+      "bubble_type": "thought",
+      "note": "(어깨가 다시 귀 쪽으로 올라왔다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>의<br>하비에게 물었다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "또 만났네요!<br>어깨는 어때요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "이틀 만에 다시<br>뭉치는 게 정상이에요?"
+      },
+      "note": "하비는 <mark>보통 몇 시간~며칠</mark> 간다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "개운함을<br><em>늘리는 법</em>",
+      "fact": "보통 <em>몇 시간~며칠</em> · 생활 습관에 따라 달라요",
+      "left": {
+        "label": "받고 걷기",
+        "char": "turtle_happy",
+        "caption": "풀렸을 때 움직이면<br><b>더 오래 갈 수 있어요</b>"
+      },
+      "right": {
+        "label": "다시 9시간",
+        "char": "turtle_sad",
+        "caption": "같은 습관이 돌아오면<br><em>뭉침도 돌아와요</em>"
+      },
+      "quip": "풀린 날이<br>움직이기 좋은 날!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>개운함 연장법</b>",
+      "sub": "마사지 받은 날 저녁부터!",
+      "sections": [
+        {
+          "heading": "1. 마사지 후 이렇게",
+          "color": "yellow",
+          "lines": [
+            "① 그날 저녁 <em>10분 산책</em>하기.",
+            "② 받은 운동은 <em>매일 1번</em>씩 이어가기.",
+            "③ 책상에선 <em>30~60분마다</em> 일어나기.",
+            "④ 주 2회 <em>어깨·등 근력 운동</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 평가가 먼저!",
+          "color": "purple",
+          "lines": [
+            "마사지 후 통증이 <em>더 심해지거나</em>,",
+            "팔이 <em>저리면</em> 확인받기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "금방 <em>다시 뭉친다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 확인받기",
+      "items": [
+        "매번 하루 만에 재발",
+        "팔이나 손 저림",
+        "점점 넓어지는 통증"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "마사지 받고 날아갈 것 같았는데, 이틀 뒤 어깨가 다시 귀까지 올라온 거북씨. 정상일까요?\n\n대부분 개운함은 몇 시간에서 며칠 정도 가요. 마사지는 근육과 신경이 느끼는 감각을 바꿔주는데, 같은 습관이 돌아오면 뭉침도 돌아오기 쉬워요.\n\n개운함을 늘리려면 풀린 날 움직이기! 그날 저녁 10분 산책, 받은 운동 이어가기, 책상에선 30~60분마다 일어나기.\n\n마사지 후 통증이 심해지거나 팔이 저리면 평가가 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트와 리듬을 찾아봐요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#마사지",
+    "#어깨뭉침",
+    "#직장인건강",
+    "#스트레칭",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#remedialmassage",
+    "#massagetherapy",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 마사지 효과가 얼마나 가는지, 받고 움직이기와 같은 습관 비교, 개운함 연장법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "마사지 효과, 얼마나 갈까?",
+    "body": "풀린 날 10분 산책,<br>오래 가요!",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-11",
+  "created": "2026-11-11-1",
+  "status": "approved",
+  "review_warnings": []
+}

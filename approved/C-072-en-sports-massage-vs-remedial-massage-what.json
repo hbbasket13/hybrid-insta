@@ -1,0 +1,131 @@
+{
+  "id": "C-072-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Sports massage vs remedial massage: what's the difference?",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Sports massage vs<br><em>remedial massage</em>",
+      "sub": "Toto can't decide what to book!",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Easy, once you<br>know the goal!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Half marathon in 3 weeks,<br><em>legs like bricks</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Sports? Remedial?<br>What's the difference..?",
+      "bubble_type": "thought",
+      "note": "(ten minutes staring at the booking page..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Toto asked Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey, I'm Hybi!<br>Race coming up?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Which massage<br>should I book?"
+      },
+      "note": "Hybi said <mark>the reason for the session</mark> is the real difference."
+    },
+    {
+      "kind": "compare",
+      "title": "Same techniques,<br><em>different goals</em>",
+      "fact": "Both use <em>soft tissue work and stretching</em>",
+      "left": {
+        "label": "Share your goal",
+        "char": "rabbit_happy",
+        "caption": "'Race in 3 weeks' is<br><b>all we need to know</b>"
+      },
+      "right": {
+        "label": "Just pick one",
+        "char": "rabbit_tired",
+        "caption": "Booking blind can<br><em>miss the mark</em>"
+      },
+      "quip": "Tell us what you're<br>training for when you book!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>massage picker</b>",
+      "sub": "Choose in 30 seconds",
+      "sections": [
+        {
+          "heading": "1. Pick by your goal",
+          "color": "yellow",
+          "lines": [
+            "① Specific niggle (neck, hip)? <em>Remedial</em>.",
+            "② Heavy legs mid-block? <em>Sports-focused</em>.",
+            "③ Close to race day: <em>shorter, brisker</em> work.",
+            "④ Pair it with <em>sleep, strength and sensible load</em>."
+          ]
+        },
+        {
+          "heading": "2. Get assessed first if…",
+          "color": "purple",
+          "lines": [
+            "The same spot <em>keeps flaring up</em>,",
+            "or there's <em>swelling or bruising</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Keeps <em>coming back</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Same niggle keeps returning",
+        "Sharp pain while running",
+        "Swelling or bruising"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Half marathon in three weeks and Toto's legs feel like bricks. Sports massage or remedial? There's plenty of overlap.\n\nRemedial massage starts with an assessment and targets specific areas that are tight or sore. Sports massage is shaped around your training: brisker before events, slower in recovery weeks. The techniques are often the same. The reason for the session is what changes.\n\nMassage works well alongside strength work, sleep and sensible training load, rather than replacing rehab. If the same spot keeps flaring up, get it assessed.\n\nOur remedial massage therapists at Hybrid Physio tailor each session to your sport. Mention your goal when you book online via the link in bio 🏃\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#running",
+    "#halfmarathon",
+    "#recovery",
+    "#runnersofinstagram",
+    "#sydneymassage",
+    "#chatswood",
+    "#chatswoodmassage",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#massage"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining sports versus remedial massage, why sharing your goal helps, a quick massage picker and signs worth getting assessed.",
+  "story": {
+    "headline": "Sports or remedial massage?",
+    "body": "Same techniques —<br>tell us your goal.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-10",
+  "created": "2026-11-10-6",
+  "status": "approved",
+  "review_warnings": []
+}

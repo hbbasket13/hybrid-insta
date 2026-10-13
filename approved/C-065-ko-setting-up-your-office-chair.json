@@ -1,0 +1,131 @@
+{
+  "id": "C-065-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Setting up your office chair",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "거북씨 의자,<br><em>5분이면 달라져요</em>",
+      "sub": "새 의자 없이 하는 의자 세팅",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "레버만 몇 개<br>만져볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "비싼 의자를 샀는데<br><em>허리는 그대로</em>.",
+      "char": "turtle_monitor",
+      "bubble": "의자가 문제인가..<br>또 바꿔야 하나?",
+      "bubble_type": "thought",
+      "note": "(레버는 한 번도 안 만져봤다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "결국 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "반가워요, 하비예요!<br>의자 얘기 들었어요."
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "더 좋은 의자를<br>사야 할까요..?"
+      },
+      "note": "하비는 <mark>새 의자보다 세팅</mark>부터 보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "의자는 <em>세팅</em>이 먼저!",
+      "fact": "발바닥은 바닥에, 무릎은 <em>엉덩이 높이 정도</em>",
+      "left": {
+        "label": "깊숙이 앉기",
+        "char": "turtle_happy",
+        "caption": "엉덩이를 등받이 끝까지,<br>등받이가 <b>같이 일해요</b>"
+      },
+      "right": {
+        "label": "걸터앉기",
+        "char": "turtle_sad",
+        "caption": "팔걸이는 높고 등은 둥글게,<br><em>어깨가 귀 쪽으로</em>"
+      },
+      "quip": "그래도 2시간 넘게는<br>어떤 의자도 힘들어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>5분 의자 세팅</b>",
+      "sub": "지금 앉은 의자로 바로!",
+      "sections": [
+        {
+          "heading": "1. 위에서부터 차례로",
+          "color": "yellow",
+          "lines": [
+            "① 발 평평하게, 무릎은 <em>엉덩이 높이 정도</em>.",
+            "② 무릎 뒤에 <em>손가락 2~3개</em> 틈 남기기.",
+            "③ 허리 뒤엔 <em>돌돌 만 수건</em>도 좋아요.",
+            "④ 팔걸이는 낮춰 <em>어깨 힘 빼기</em>."
+          ]
+        },
+        {
+          "heading": "2. 세팅해도 이렇다면 멈추고 상담!",
+          "color": "purple",
+          "lines": [
+            "다리가 <em>저리거나</em>,",
+            "통증이 <em>점점 심해지면</em> 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "세팅 후에도 <em>그대로라면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 꼭 확인받기",
+      "items": [
+        "다리로 퍼지는 저림",
+        "앉을수록 심해지는 통증",
+        "몇 주째 그대로인 허리"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "비싼 의자를 샀는데 허리는 그대로인 거북씨. 사실 레버를 한 번도 안 만져봤대요.\n\n의자 세팅은 5분이면 돼요. 발은 바닥에 평평하게, 무릎은 엉덩이 높이 정도. 엉덩이를 등받이 끝까지 붙이고, 허리 뒤엔 돌돌 만 수건도 좋아요. 팔걸이는 낮춰서 어깨 힘을 빼요.\n\n그래도 어떤 의자든 몇 시간 내내는 힘들어요. 통화는 서서, 물 뜨러 걷기!\n\n다리 저림이나 앉을수록 심해지는 통증은 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🪑\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#사무실의자",
+    "#직장인건강",
+    "#바른자세",
+    "#시드니카이로",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#카이로프랙틱",
+    "#chiropractor",
+    "#ergonomics",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 사무실 의자 세팅법, 깊숙이 앉기 비교, 5분 의자 세팅 순서, 확인이 필요한 신호.",
+  "story": {
+    "headline": "의자 세팅, 5분이면 끝!",
+    "body": "깊숙이 앉고,<br>팔걸이는 낮게!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-07",
+  "created": "2026-11-07-5",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-067-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Golfer's elbow: pain on the inside of the elbow",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "골프도 안 치는데<br><em>골퍼스 엘보?</em>",
+      "sub": "팔꿈치 안쪽이 찌릿한 루루 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "그립 습관부터<br>볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "드릴 잡고, 턱걸이하고,<br><em>팔꿈치 안쪽이 찌릿</em>.",
+      "char": "kanga_tired",
+      "bubble": "공구만 쥐어도<br>왜 이렇게 시큰하지..?",
+      "bubble_type": "thought",
+      "note": "(골프채는 잡아본 적도 없는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "주말에 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요, 하비예요!<br>팔꿈치가 아프죠?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "푹 쉬면 낫겠죠?<br>헬스도 끊을까요?"
+      },
+      "note": "하비는 <mark>쉬기보다 부하 조절</mark>이 중요하다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "완전 휴식보다<br><em>천천히 부하 주기</em>",
+      "fact": "힘줄은 보통 <em>점진적인 부하</em>로 다시 버티는 힘이 생겨요",
+      "left": {
+        "label": "가볍게 꾸준히",
+        "char": "kanga_happy",
+        "caption": "가벼운 손목 운동으로<br><b>조금씩 키워요</b>"
+      },
+      "right": {
+        "label": "쉬다가 확",
+        "char": "kanga_tired",
+        "caption": "쉬다가 갑자기 무겁게,<br><em>다시 욱신</em>"
+      },
+      "quip": "그립 힘을 조금 빼는 것도<br>도움이 될 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 팔꿈치 운동</b>",
+      "sub": "가벼운 덤벨 하나면 OK!",
+      "sections": [
+        {
+          "heading": "1. 손목 굽히기 (Wrist curl)",
+          "color": "yellow",
+          "lines": [
+            "① 손바닥을 위로, 팔뚝은 허벅지에 올려요.",
+            "② <em>가벼운 덤벨</em>로 천천히 올리고 내려요.",
+            "③ <em>10~15회 × 3세트</em>, 이틀에 한 번.",
+            "④ 다음 날 가라앉는 <em>약한 불편</em>은 보통 OK."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 상담받기!",
+          "color": "purple",
+          "lines": [
+            "<em>약지·새끼손가락</em>이 저리거나,",
+            "<em>붓기</em>·통증이 계속 심해지면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "쉬어도 <em>계속 아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "약지·새끼손가락 저림",
+        "넘어진 뒤 갑자기 통증",
+        "붓기가 가라앉지 않음"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "골프채는 잡아본 적도 없는데 팔꿈치 안쪽이 찌릿한 루루. 골퍼스 엘보는 골프만의 이야기가 아니에요.\n\n헬스장 당기기 운동, 공구 사용, 무거운 장바구니, 긴 마우스 작업이 쌓이면 손목을 굽히는 힘줄이 예민해질 수 있어요.\n\n푹 쉬면 잠시 가라앉지만, 힘줄은 보통 천천히 부하를 줘야 다시 버티는 힘이 생겨요. 가벼운 덤벨로 손목 굽히기 10~15회 × 3세트, 이틀에 한 번!\n\n약지·새끼손가락 저림이나 계속 심해지는 통증은 확인이 필요해요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 💪\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#골퍼스엘보",
+    "#팔꿈치통증",
+    "#손목운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#헬스",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#golferselbow",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 골퍼스 엘보가 생기는 이유, 휴식과 점진적 부하 비교, 1분 손목 굽히기 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "골프 안 쳐도 골퍼스 엘보?",
+    "body": "가벼운 손목 운동,<br>이틀에 한 번!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-09",
+  "created": "2026-11-09-1",
+  "status": "approved",
+  "review_warnings": []
+}

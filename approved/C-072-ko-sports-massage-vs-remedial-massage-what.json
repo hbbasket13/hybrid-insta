@@ -1,0 +1,131 @@
+{
+  "id": "C-072-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Sports massage vs remedial massage: what's the difference?",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "스포츠 마사지 vs<br><em>리메디얼 마사지</em>",
+      "sub": "토토가 뭘 예약할지 고민 중!",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "목적만 정하면<br>쉬워요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하프마라톤 3주 전,<br><em>다리가 돌덩이</em>.",
+      "char": "rabbit_tired",
+      "bubble": "스포츠? 리메디얼?<br>뭐가 다르지..?",
+      "bubble_type": "thought",
+      "note": "(예약 페이지 앞에서 10분째 고민 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "결국 <b>하이브리드 피지오</b>에서<br>하비에게 물었다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕, 하비예요!<br>대회 준비 중이죠?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "어떤 마사지를<br>받아야 해요?"
+      },
+      "note": "하비는 <mark>세션의 목적</mark>이 진짜 차이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "기술은 비슷,<br><em>목적</em>이 달라요!",
+      "fact": "둘 다 <em>연부조직·트리거포인트·스트레칭</em>을 써요",
+      "left": {
+        "label": "목적 말하기",
+        "char": "rabbit_happy",
+        "caption": "'대회 3주 전이에요'<br><b>한마디면 충분</b>"
+      },
+      "right": {
+        "label": "아무거나",
+        "char": "rabbit_tired",
+        "caption": "목적 없이 받으면<br><em>아쉬울 수 있어요</em>"
+      },
+      "quip": "예약할 때 목표를<br>꼭 알려주세요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>마사지 고르기</b>",
+      "sub": "30초면 정할 수 있어요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 골라요",
+          "color": "yellow",
+          "lines": [
+            "① 목·골반 등 <em>특정 부위</em>가 불편 → 리메디얼.",
+            "② 훈련 중 <em>다리가 무겁다</em> → 스포츠.",
+            "③ 대회 직전엔 <em>짧고 가볍게</em>.",
+            "④ 수면·근력·훈련량 관리와 <em>같이</em> 해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지보다 평가!",
+          "color": "purple",
+          "lines": [
+            "같은 부위가 <em>자꾸 다시 아프거나</em>,",
+            "<em>붓기·멍</em>이 있으면 먼저 확인받기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "자꾸 <em>재발한다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "같은 곳이 계속 재발",
+        "달릴 때 날카로운 통증",
+        "붓기나 멍이 있다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "하프마라톤 3주 전, 다리가 돌덩이 같은 토토. 스포츠 마사지와 리메디얼 마사지 중 뭘 예약해야 할까요?\n\n리메디얼 마사지는 평가부터 시작해 특정 부위를 집중적으로 봐요. 스포츠 마사지는 훈련 주기에 맞춰, 대회 전엔 짧고 가볍게, 회복 주엔 천천히 해요. 쓰는 기술은 비슷하고, 세션의 목적이 달라요.\n\n마사지는 근력 운동, 수면, 적절한 훈련량과 함께할 때 더 도움이 돼요. 같은 부위가 자꾸 아프면 평가가 먼저!\n\n하이브리드 피지오 리메디얼 마사지 테라피스트가 목표에 맞춰드려요. 프로필 링크에서 온라인 예약 🏃\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#스포츠마사지",
+    "#리메디얼마사지",
+    "#러닝",
+    "#마라톤",
+    "#회복",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#remedialmassage",
+    "#sportsmassage",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 스포츠 마사지와 리메디얼 마사지의 차이, 목적 말하기, 마사지 고르는 법, 평가가 필요한 신호.",
+  "story": {
+    "headline": "스포츠 vs 리메디얼?",
+    "body": "기술은 비슷,<br>목적을 알려주세요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-10",
+  "created": "2026-11-10-3",
+  "status": "approved",
+  "review_warnings": []
+}

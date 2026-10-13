@@ -1,0 +1,131 @@
+{
+  "id": "C-069-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for tradies: shoulders, forearms and lower back",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Tradie body feeling<br><em>every single job?</em>",
+      "sub": "What remedial massage can and can't do",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Where's it<br>tightest?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Overhead drilling, all-day<br>grip, <em>heavy lifting</em>.",
+      "char": "kanga_tired",
+      "bubble": "Shoulders, forearms,<br>back.. what doesn't hurt?",
+      "bubble_type": "thought",
+      "note": "(by Friday, the whole week has landed on him..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After knock-off, Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Big week, mate?<br>I'm Hybi."
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "A massage will<br>sort it all out, right?"
+      },
+      "note": "Hybi said <mark>massage and movement are a team</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage <em>eases</em>,<br>movement <em>keeps up</em>",
+      "fact": "Massage can ease that <em>tight, worn-out feeling</em> for a while",
+      "left": {
+        "label": "Massage + move",
+        "char": "kanga_happy",
+        "caption": "Smoko stretches and<br><b>weekly strength work</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "kanga_tired",
+        "caption": "Same load every day,<br><em>tight again by Friday</em>"
+      },
+      "quip": "Massage helps alongside<br>movement, not instead!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute smoko stretch</b>",
+      "sub": "Between jobs, no gear needed",
+      "sections": [
+        {
+          "heading": "1. Between jobs",
+          "color": "yellow",
+          "lines": [
+            "① Stretch wrists and fingers back, <em>15 sec</em> each.",
+            "② Roll your shoulders back <em>10 times</em>.",
+            "③ Hands on hips, <em>gently lean back</em> 5 times.",
+            "④ Fit in <em>strength work twice a week</em>."
+          ]
+        },
+        {
+          "heading": "2. Get assessed first if…",
+          "color": "purple",
+          "lines": [
+            "Hands <em>tingle</em>, pain <em>wakes you at night</em>,",
+            "or you <em>got hurt on the job</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to see a <em>physio</em> first",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pins and needles in hands",
+        "Pain that wakes you at night",
+        "Hurt in a specific incident"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Sparky, chippy, plumber or painter: by Friday, a lot of tradies feel every job. Overhead work loads the shoulders, all-day gripping tires the forearms, and bending and lifting land in the lower back.\n\nRemedial massage can ease that tight, worn-out feeling for a while. Pair it with a few stretches at smoko and some strength work twice a week, and your body has a better shot at keeping up with the job.\n\nPins and needles in the hands, pain at night or a specific injury on the job should be assessed first.\n\nOur remedial massage therapists at Hybrid Physio work alongside our physios. Book online via the link in bio 🔧\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#tradie",
+    "#tradielife",
+    "#massage",
+    "#shoulderpain",
+    "#backpain",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#sydney",
+    "#musclerecovery",
+    "#hybridphysiotherapy",
+    "#sydneycbdmassage"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on remedial massage for tradies, pairing massage with movement, a 1-minute smoko stretch and when to get assessed first.",
+  "story": {
+    "headline": "Tradie body feeling the week?",
+    "body": "Massage plus smoko<br>stretches, as a team.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-09",
+  "created": "2026-11-09-6",
+  "status": "approved",
+  "review_warnings": []
+}

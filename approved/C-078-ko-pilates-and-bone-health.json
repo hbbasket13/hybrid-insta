@@ -1,0 +1,131 @@
+{
+  "id": "C-078-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates and bone health",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코의 뼈도<br><em>힘을 좋아해요</em>",
+      "sub": "필라테스와 뼈 건강 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "뼈 이야기<br>해볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "요즘 <em>뼈 건강</em>이<br>신경 쓰이는 코코.",
+      "char": "koala_tired",
+      "bubble": "뼈가 약하면<br>살살만 움직여야<br>하는 거 아닐까..?",
+      "bubble_type": "thought",
+      "note": "(낮잠은 늘고, 움직임은 줄고..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "필라테스 상담 날,<br><b>하이브리드 피지오</b>에서.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "반가워요, 코코!<br>뼈가 걱정이군요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "무리하면 오히려<br>안 좋지 않을까요?"
+      },
+      "note": "하비는 <mark>뼈가 하중에 반응한다</mark>는 것부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "뼈는 <em>살아있는 조직</em>이에요",
+      "fact": "뼈는 받는 힘에 맞춰 <em>적응</em>해요 · 점진적 근력 운동이 도움",
+      "left": {
+        "label": "조금씩 하중",
+        "char": "koala_happy",
+        "caption": "스프링으로 저항을<br><b>조금씩 올려요</b>"
+      },
+      "right": {
+        "label": "무조건 쉬기",
+        "char": "koala_tired",
+        "caption": "움직임이 줄면<br><em>자극도 줄어요</em>"
+      },
+      "quip": "뼈도 적당한 자극을<br>좋아할 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>뼈 튼튼 일주일</b>",
+      "sub": "한 가지보다 골고루 섞어요!",
+      "sections": [
+        {
+          "heading": "1. 일주일 하중 믹스",
+          "color": "yellow",
+          "lines": [
+            "① 걷기·계단 오르기를 대부분 날에.",
+            "② 필라테스 주 2회, 저항은 <em>조금씩</em> 올려요.",
+            "③ 한 발 서기 <em>20초 × 3번</em>, 양쪽 다.",
+            "&nbsp;&nbsp;&nbsp;(벤치를 가볍게 잡고 시작!)"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 먼저 상담받기",
+          "color": "purple",
+          "lines": [
+            "골밀도가 낮다는 말을 들었거나,",
+            "움직일 때 <em>새로운 통증</em>이 생기면 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>먼저 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 꼭 확인받기",
+      "items": [
+        "가벼운 충격 후 허리 통증",
+        "키가 눈에 띄게 줄었다",
+        "넘어진 뒤 통증이 남는다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "뼈가 약해질까 봐 살살만 움직이던 코코. 사실 뼈는 받는 힘에 맞춰 적응하는 살아있는 조직이에요.\n\n현재 가이드라인은 점진적인 근력 운동과 체중 부하 운동을 권하는 편이에요. 필라테스 리포머는 스프링으로 저항을 조금씩 올릴 수 있고, 서서 하는 동작은 균형과 다리 힘도 함께 다뤄요. 걷기·계단과 섞으면 더 좋아요.\n\n골밀도가 낮다는 말을 들었다면 미리 알려주세요. 일부 동작은 조정할 수 있고, 약물 관련은 GP와 상의해요. 프로필 링크에서 온라인 예약 🦴\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#뼈건강",
+    "#골밀도",
+    "#필라테스",
+    "#클리니컬필라테스",
+    "#시드니필라테스",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#시니어운동",
+    "#pilates",
+    "#bonehealth",
+    "#sydneypilates",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 뼈가 하중에 반응하는 원리, 필라테스가 도움이 되는 방식, 일주일 운동 믹스와 확인이 필요한 신호.",
+  "story": {
+    "headline": "뼈도 힘을 좋아해요",
+    "body": "걷기·계단 + 필라테스 주 2회,<br>골고루 섞어요.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-12",
+  "created": "2026-11-12-3",
+  "status": "approved",
+  "review_warnings": []
+}

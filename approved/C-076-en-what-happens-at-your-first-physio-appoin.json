@@ -1,0 +1,123 @@
+{
+  "id": "C-076-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What happens at your first physio appointment",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "First physio visit:<br><em>what actually happens?</em>",
+      "sub": "Mr Turtle's first appointment, step by step",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "I'll walk you<br>through it!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "First appointment<br>booked.. <em>bit nervous</em>.",
+      "char": "turtle_sad",
+      "bubble": "Will they just<br>start poking around..?",
+      "bubble_type": "thought",
+      "note": "(knee bouncing in the waiting room..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Hybi came out<br>to say hello.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome, I'm Hybi!<br>Have a seat."
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "I've got no idea<br>what happens today.."
+      },
+      "note": "Hybi started with <mark>today's game plan</mark>."
+    },
+    {
+      "kind": "scene",
+      "title": "It all starts with<br><em>your story</em>",
+      "char": "hybi_neutral",
+      "bubble": "When did it start,<br>and what would you<br>like to get back to?",
+      "note": "(movement tests come next, explained as you go)",
+      "h": 380
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first-visit roadmap</b>",
+      "sub": "This is the usual flow",
+      "sections": [
+        {
+          "heading": "1. How it usually goes",
+          "color": "yellow",
+          "lines": [
+            "① <em>Your story</em>: symptoms, history, goals.",
+            "② <em>Movement</em>: range, strength, specific tests.",
+            "③ A <em>plain-English</em> explanation, then treatment.",
+            "④ Leave with <em>key exercises</em> and a rough plan."
+          ]
+        },
+        {
+          "heading": "2. Pause any time",
+          "color": "purple",
+          "lines": [
+            "<em>Uncomfortable</em>? Say so and we'll stop.",
+            "We'll refer to your <em>GP or for imaging</em> if needed."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When is it <em>worth booking</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "An assessment can help if",
+      "items": [
+        "Pain lasting over 2 weeks",
+        "It's limiting work or sport",
+        "Numbness or weakness"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Booked your first physio appointment and not sure what happens once you walk in? Mr Turtle was nervous too.\n\nIt starts with your story: your symptoms, how they began, your health history and what you want to get back to. Then your physio looks at how you move, with range, strength and specific tests explained as you go.\n\nNext comes a plain-English explanation of what's likely going on, then some treatment. You'll leave with a few key exercises and a rough plan. If anything needs your GP or imaging, we'll tell you.\n\nWear comfy clothes and bring any scans. Our team at Hybrid Physio takes the time to listen. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#firstappointment",
+    "#whattoexpect",
+    "#physioassessment",
+    "#rehab",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#alliedhealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle walking through a first physio appointment, from your story and movement tests to a home plan, plus when an assessment can help.",
+  "story": {
+    "headline": "First physio visit nerves?",
+    "body": "Story, tests, explanation,<br>then your plan.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-12",
+  "created": "2026-11-12-4",
+  "status": "approved",
+  "review_warnings": []
+}

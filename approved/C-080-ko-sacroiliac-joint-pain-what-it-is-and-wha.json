@@ -1,0 +1,131 @@
+{
+  "id": "C-080-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sacroiliac joint pain: what it is and what helps",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "허리 <em>보조개</em> 옆이<br>찌릿한 루루",
+      "sub": "천장관절 통증, 무섭지 않게 알아봐요",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "어디가<br>아픈지 볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "트럭에서 내릴 때마다<br><em>찌릿!</em> 하는 루루.",
+      "char": "kanga_tired",
+      "bubble": "골반이 어긋난 건가..?<br>맞춰야 하나..?",
+      "bubble_type": "thought",
+      "note": "(계단 오를 때도, 돌아누울 때도..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "현장 퇴근길에<br><b>하이브리드 피지오</b>로.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "루루, 반가워요!<br>어디가 불편해요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "골반이 빠졌다고<br>들었는데요..?"
+      },
+      "note": "하비는 <mark>빠진 게 아니라 예민해진 것</mark>이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "천장관절은 <em>잘 안 빠져요</em>",
+      "fact": "천장관절은 척추와 골반을 잇는 <em>튼튼한</em> 관절",
+      "left": {
+        "label": "힘 기르기",
+        "char": "kanga_happy",
+        "caption": "엉덩이·몸통 근력을<br><b>천천히 키워요</b>"
+      },
+      "right": {
+        "label": "맞추기만",
+        "char": "kanga_tired",
+        "caption": "통증은 대부분<br><em>예민함과 부하</em> 문제"
+      },
+      "quip": "조금씩 힘을 기르는 게<br>보통 도움이 돼요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 골반 편하게</b>",
+      "sub": "현장에서도 바로 써봐요!",
+      "sections": [
+        {
+          "heading": "1. 아플 때 쓰는 요령",
+          "color": "yellow",
+          "lines": [
+            "① 차에서 내릴 땐 <em>무릎을 붙이고</em> 돌아요.",
+            "② 오래 서 있으면 <em>30분마다</em> 자세 바꾸기.",
+            "③ 브릿지 <em>10회 × 2세트</em>, 편한 범위만.",
+            "&nbsp;&nbsp;&nbsp;(엉덩이를 살짝만 들어도 OK!)"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "다리로 <em>저림이 퍼지거나</em> 힘이 빠지면",
+            "멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 신호는 <em>바로 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "빠르게 진료가 필요한 신호",
+      "items": [
+        "열과 함께 오는 통증",
+        "다리 저림이나 힘 빠짐",
+        "소변·대변 조절 변화"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "허리 보조개 옆이 찌릿한 루루. 천장관절은 척추와 골반을 잇는 튼튼한 관절이라 '빠지는' 경우는 드물어요. 통증은 대부분 예민함과 부하 문제예요.\n\n계단, 한 발 서기, 돌아눕기, 차에서 내리기가 흔한 자극이에요. 엉덩이·몸통 근력을 천천히 키우는 게 보통 가장 도움이 되고, 차에서 내릴 땐 무릎을 붙이고 돌아보세요.\n\n열, 다리 저림이나 힘 빠짐, 소변·대변 변화가 있다면 바로 진료받아요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#천장관절",
+    "#골반통증",
+    "#허리통증",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#트레이디",
+    "#physiotherapy",
+    "#sijointpain",
+    "#chatswood",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 천장관절 통증의 원리, 빠진 게 아닌 이유, 차에서 내리는 요령과 브릿지 운동, 바로 확인이 필요한 신호.",
+  "story": {
+    "headline": "허리 보조개 옆이 찌릿?",
+    "body": "차에서 내릴 땐 무릎 붙이고,<br>엉덩이 힘 천천히!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-13",
+  "created": "2026-11-13-5",
+  "status": "approved",
+  "review_warnings": []
+}

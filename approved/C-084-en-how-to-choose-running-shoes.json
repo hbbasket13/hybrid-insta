@@ -1,0 +1,131 @@
+{
+  "id": "C-084-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "How to choose running shoes",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto vs the<br><em>running shoe wall</em>",
+      "sub": "A physio's short list for choosing runners",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "It's simpler<br>than it looks!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Thirty minutes</em><br>in the shoe shop..",
+      "char": "rabbit_tired",
+      "bubble": "Will the priciest<br>pair stop me<br>getting injured..?",
+      "bubble_type": "thought",
+      "note": "(cushioning, drop, carbon plates.. head spinning)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Empty-handed, Toto<br>asked <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Shoe shopping<br>got you stuck?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Which pair will<br>keep me injury-free?"
+      },
+      "note": "Hybi said the <mark>first filter is comfort</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Start with <em>comfort</em>",
+      "fact": "Research suggests <em>comfy from step one</em> suits most runners",
+      "left": {
+        "label": "Comfy now",
+        "char": "rabbit_happy",
+        "caption": "Feels good from<br><b>the first few steps</b>"
+      },
+      "right": {
+        "label": "'Wear it in'",
+        "char": "rabbit_tired",
+        "caption": "Odd in the shop,<br><em>odd on the road</em>"
+      },
+      "quip": "Buy for the running<br>you actually do!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>shoe shopping list</b>",
+      "sub": "Save this before you hit the shops!",
+      "sections": [
+        {
+          "heading": "1. Choosing and switching",
+          "color": "yellow",
+          "lines": [
+            "① Jog in the shop, pick the <em>comfiest</em>.",
+            "② Match it to trails, treadmill or road.",
+            "③ Big change? Mix old and new <em>for a few weeks</em>.",
+            "④ Log kms in your app, rotate two pairs."
+          ]
+        },
+        {
+          "heading": "2. It may not be the shoes if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>keeps coming back</em> or you limp after —",
+            "check training load and strength first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When it's <em>not the shoes</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain that keeps coming back",
+        "Pain building during runs",
+        "Limping after a run"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto spent half an hour staring at the shoe wall. No shoe will make you injury-proof, but the right one can make running feel a lot better 👟\n\nA good starting point is comfort. Research suggests the shoe that feels comfortable from the first few steps is a sensible pick for most runners. Match it to the running you actually do, and if you're switching to something very different, like much lower drop, mix old and new pairs for a few weeks.\n\nIf a niggle keeps coming back, it's usually about training load, strength and recovery rather than the shoe itself. Our Chatswood physios look at the whole picture, not just your feet. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#runningshoes",
+    "#running",
+    "#runners",
+    "#runninginjury",
+    "#sydneyrunners",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining how to choose running shoes, why comfort comes first, how to switch pairs and when a niggle is worth getting checked.",
+  "story": {
+    "headline": "Choosing new runners?",
+    "body": "Start with comfort, and change styles over a few weeks.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-14",
+  "created": "2026-11-14-6",
+  "status": "approved",
+  "review_warnings": []
+}

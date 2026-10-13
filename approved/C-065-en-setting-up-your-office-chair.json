@@ -1,0 +1,131 @@
+{
+  "id": "C-065-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Setting up your office chair",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's chair,<br><em>sorted in 5 minutes</em>",
+      "sub": "Five tweaks, no new chair needed",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Just a few<br>levers to try!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A fancy new chair..<br><em>same sore back</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Do I need an<br>even fancier one..?",
+      "bubble_type": "thought",
+      "note": "(he had never touched a single lever..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So he popped in to see Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi, I'm Hybi!<br>Chair trouble?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Should I buy<br>a better one..?"
+      },
+      "note": "Hybi wanted to try <mark>setting it up first</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Set-up</em> beats<br>a new chair",
+      "fact": "Feet flat, knees about <em>level with your hips</em>",
+      "left": {
+        "label": "Sit right back",
+        "char": "turtle_happy",
+        "caption": "Hips to the backrest,<br>so it <b>shares the work</b>"
+      },
+      "right": {
+        "label": "Perched forward",
+        "char": "turtle_sad",
+        "caption": "Armrests high, back round,<br><em>shoulders hitched up</em>"
+      },
+      "quip": "No chair is comfy<br>for 8 hours straight!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>5-minute chair set-up</b>",
+      "sub": "Use the chair you've got!",
+      "sections": [
+        {
+          "heading": "1. Top to bottom",
+          "color": "yellow",
+          "lines": [
+            "① Feet flat, knees about <em>hip level</em>.",
+            "② Leave a <em>2–3 finger gap</em> behind your knees.",
+            "③ No lumbar support? Try a <em>rolled-up towel</em>.",
+            "④ Drop the armrests, <em>shoulders relaxed</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Tingling <em>runs down a leg</em>, or",
+            "pain <em>keeps building</em> as you sit."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> after the tweaks?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling down a leg",
+        "Pain building as you sit",
+        "Weeks with no change"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle bought a fancy chair and his back still grumbles. Turns out he'd never touched a single lever.\n\nFive minutes is enough. Feet flat, knees about level with your hips. Sit right back so the backrest shares the work, and pop a rolled-up towel behind your lower back if there's no lumbar support. Drop the armrests so your shoulders can relax.\n\nThen the bit most people skip: no chair is comfy for eight hours straight. Stand for calls and walk to refill your water.\n\nTingling down a leg or pain that builds as you sit is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🪑\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#officechair",
+    "#ergonomics",
+    "#deskjob",
+    "#backpain",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydney",
+    "#chiropractic",
+    "#hybridphysiotherapy",
+    "#workfromhome"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle showing how to set up an office chair in five minutes, sitting back versus perching, and signs worth getting checked.",
+  "story": {
+    "headline": "Chair set-up in 5 minutes",
+    "body": "Sit right back,<br>drop the armrests.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-07",
+  "created": "2026-11-07-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-066-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "The 'slipped disc' myth",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "디스크가<br><em>빠졌다고요?</em>",
+      "sub": "루루와 알아보는 '디스크 빠짐' 오해",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "사실 디스크는<br>안 빠져요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "자재 들다 허리가 뜨끔,<br><em>'디스크 빠졌나?'</em>",
+      "char": "kanga_tired",
+      "bubble": "이제 허리 숙이면<br>안 되는 거겠지..?",
+      "bubble_type": "thought",
+      "note": "(그날 이후 양말도 조심조심 신는 루루..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "동료 추천으로 <b>하이브리드 피지오</b>,<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요, 하비예요!<br>허리가 걱정이죠?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "디스크가 빠졌대요..<br>다시 넣어야 하나요?"
+      },
+      "note": "하비는 <mark>디스크가 어떻게 붙어 있는지</mark> 먼저 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "디스크는 <em>단단히</em><br>붙어 있어요!",
+      "fact": "디스크는 위아래 뼈에 <em>단단히 고정</em> · 미끄러져 나가지 않아요",
+      "left": {
+        "label": "살살 움직이기",
+        "char": "kanga_happy",
+        "caption": "걷고 편한 만큼 움직이면<br><b>회복을 도울 수 있어요</b>"
+      },
+      "right": {
+        "label": "겁나서 굳기",
+        "char": "kanga_tired",
+        "caption": "숙이기가 무서워 버티면<br><em>더 뻣뻣해질 수 있어요</em>"
+      },
+      "quip": "'빠졌다'는 말이<br>더 겁을 줄 때가 많아요"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 허리 움직이기</b>",
+      "sub": "겁내지 말고 살살!",
+      "sections": [
+        {
+          "heading": "1. 하루 종일 조금씩",
+          "color": "yellow",
+          "lines": [
+            "① 1~2시간마다 <em>5분 걷기</em>.",
+            "② 편한 범위에서 <em>무릎 당겨 안기</em> 5회.",
+            "③ 편하면 엎드려 <em>팔꿈치 짚고</em> 30초.",
+            "④ 매주 조금씩 <em>근력 운동</em> 늘리기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 병원으로!",
+          "color": "purple",
+          "lines": [
+            "<em>엉덩이 안쪽 감각</em>이 무뎌지거나,",
+            "<em>대소변 변화</em>·다리 힘 빠짐이 심해지면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "다리까지 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "다리 저림이 계속된다",
+        "다리 힘이 점점 빠진다",
+        "대소변 조절이 달라졌다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "'디스크가 빠졌다'는 말, 들어본 적 있죠? 그런데 디스크는 실제로 미끄러져 나가지 않아요.\n\n디스크는 위아래 뼈에 단단히 붙어 있어요. 튀어나와 주변 신경을 자극할 수는 있지만, 연구에 따르면 많은 경우 시간이 지나며 가라앉을 수 있어요.\n\n'빠졌다'는 생각에 숙이기가 무서워지면 오히려 허리가 더 뻣뻣해질 수 있어요. 자주 걷고, 편한 만큼 움직이고, 근력을 조금씩!\n\n엉덩이 안쪽 감각 저하, 대소변 변화, 심해지는 다리 힘 빠짐은 바로 진료가 필요해요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리디스크",
+    "#허리통증",
+    "#디스크",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#재활운동",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#backpain",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 디스크가 빠지지 않는 이유, 움직이기와 겁내서 굳기 비교, 1분 허리 움직이기, 확인이 필요한 신호.",
+  "story": {
+    "headline": "디스크, 정말 빠질까?",
+    "body": "단단히 붙어 있어요.<br>살살 움직여요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-07",
+  "created": "2026-11-07-3",
+  "status": "approved",
+  "review_warnings": []
+}

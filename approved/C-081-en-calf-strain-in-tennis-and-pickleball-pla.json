@@ -1,0 +1,131 @@
+{
+  "id": "C-081-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Calf strain in tennis and pickleball players",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mid-rally, Toto's calf<br>goes <em>twang!</em>",
+      "sub": "Calf strains in tennis and pickleball",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's map<br>the way back!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Third set, final game..<br>then a <em>sharp grab</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Did someone hit<br>me with a ball..?<br>Nobody's there..",
+      "bubble_type": "thought",
+      "note": "(and the club comp is next week..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto hobbled into<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Toto!<br>Court injury?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "If I rest all week,<br>can I play Saturday?"
+      },
+      "note": "Hybi talked about a <mark>step-by-step return</mark>, not just rest."
+    },
+    {
+      "kind": "compare",
+      "title": "Getting back is a <em>staircase</em>",
+      "fact": "Your calf needs <em>far more</em> capacity than walking needs",
+      "left": {
+        "label": "Step by step",
+        "char": "rabbit_happy",
+        "caption": "Double, single, then hops,<br><b>built up gradually</b>"
+      },
+      "right": {
+        "label": "Straight to comp",
+        "char": "rabbit_tired",
+        "caption": "Too much too soon<br><em>can flare it up</em>"
+      },
+      "quip": "Walk, strengthen, rally,<br>then compete!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>calf comeback ladder</b>",
+      "sub": "Start within comfort!",
+      "sections": [
+        {
+          "heading": "1. Climb the ladder",
+          "color": "yellow",
+          "lines": [
+            "① First days: walk comfortably, short steps.",
+            "② Double calf raises <em>15 × 3</em>, within comfort.",
+            "③ Then single leg, add weight, small hops.",
+            "④ Drills and short games, <em>comp last</em>."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "You <em>can't rise onto your toes</em>, or felt",
+            "a <em>kick to the back of the heel</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Worth getting <em>checked</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Can't walk or go up on toes",
+        "A 'kick' at the heel",
+        "Swelling, warmth, no injury"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Get back on court<br>with Hybi at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Felt a sharp grab in your calf mid-rally? Tennis and pickleball are full of quick push-offs and stop-start moves, and calf strains are common, especially late in a match or after a jump in how much you play.\n\nEarly on, keep walking comfortably and start gentle calf raises within comfort. Then progress to single-leg raises, add weight and small hops, and ease back in with drills and short games before competition. Most people return within a few weeks, depending on severity.\n\nGet checked if you can't rise onto your toes, felt a kick to the back of the heel, or have calf swelling and warmth without a clear injury.\n\nOur Sydney CBD and Chatswood physios can guide your return. Book online via the link in bio 🎾\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#calfstrain",
+    "#tennis",
+    "#pickleball",
+    "#sportsphysio",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#sportsinjury",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining calf strains in tennis and pickleball, a step-by-step return ladder and signs worth getting checked.",
+  "story": {
+    "headline": "Calf grab on court?",
+    "body": "Walk comfortably, calf raises, then single leg before games.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-13",
+  "created": "2026-11-13-6",
+  "status": "approved",
+  "review_warnings": []
+}

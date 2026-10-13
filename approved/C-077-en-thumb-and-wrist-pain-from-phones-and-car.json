@@ -1,0 +1,131 @@
+{
+  "id": "C-077-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Thumb and wrist pain from phones and carrying babies",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Sore thumb from<br><em>bubs and phones?</em>",
+      "sub": "New dad Lulu's thumb and wrist story",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's change<br>how you lift!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Two months of<br><em>new-dad life</em>..",
+      "char": "kanga_tired",
+      "bubble": "Tools are fine..<br>so why does lifting<br>bub hurt..?",
+      "bubble_type": "thought",
+      "note": "(plus an hour of scrolling at the 3am feed..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On parental leave, Lulu met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Congrats, new dad!<br>I'm Hybi."
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "My thumb twinges<br>every time I lift her.."
+      },
+      "note": "Hybi said the <mark>thumb tendons</mark> are taking extra load."
+    },
+    {
+      "kind": "compare",
+      "title": "Lift bub with<br><em>palms facing up</em>",
+      "fact": "Spreading your thumbs wide <em>loads the tendons</em>",
+      "left": {
+        "label": "Palms up",
+        "char": "kanga_happy",
+        "caption": "Support bottom and head,<br><b>wrists straight</b>"
+      },
+      "right": {
+        "label": "Thumbs wide",
+        "char": "kanga_tired",
+        "caption": "Scooping under the arms<br><em>loads the thumb</em>"
+      },
+      "quip": "Phone in two hands,<br>scroll with your index!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>thumb-saving swaps</b>",
+      "sub": "Start today",
+      "sections": [
+        {
+          "heading": "1. Lifting and phone swaps",
+          "color": "yellow",
+          "lines": [
+            "① Lift bub <em>palms up</em>, under bottom and head.",
+            "② Phone in <em>both hands</em>, scroll with your index.",
+            "③ Try a <em>phone stand</em> or voice-to-text.",
+            "④ A few <em>short sessions</em> beat one long scroll."
+          ]
+        },
+        {
+          "heading": "2. Get checked promptly if…",
+          "color": "purple",
+          "lines": [
+            "Pain started after a <em>fall onto the hand</em>,",
+            "or fingers go <em>numb or tingly</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Thumb <em>still grumbling</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain after a fall",
+        "Swelling not settling",
+        "Weak grip or numb fingers"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Two months into new-dad life, Lulu's thumb aches every time he lifts the baby. Tools? Fine. Bub? Ouch.\n\nPain at the base of the thumb or thumb side of the wrist often builds when those tendons get more load than they're used to. New parents and heavy phone users see it heaps.\n\nLift your baby with palms facing up, supporting under the bottom and head, rather than scooping under the arms with thumbs spread. Hold your phone in both hands and scroll with your index finger. Most people improve over a few weeks with the right changes.\n\nPain after a fall, ongoing swelling or numb fingers should be checked promptly. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 👶\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#wristpain",
+    "#thumbpain",
+    "#newdad",
+    "#newparents",
+    "#parenting",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#handtherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on thumb and wrist pain from lifting a baby and phone use, palms-up lifting versus scooping, simple swaps and signs worth getting checked.",
+  "story": {
+    "headline": "Sore thumb from lifting bub?",
+    "body": "Palms up, phone<br>in both hands.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-12",
+  "created": "2026-11-12-2",
+  "status": "approved",
+  "review_warnings": []
+}

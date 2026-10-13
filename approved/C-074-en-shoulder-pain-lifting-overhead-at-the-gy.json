@@ -1,0 +1,131 @@
+{
+  "id": "C-074-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Shoulder pain lifting overhead at the gym",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Shoulder <em>pinching</em><br>on the overhead press?",
+      "sub": "Keep training, just tweak the plan",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Keep lifting,<br>just smarter!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Two weeks of chasing numbers..<br><em>pinch at the top</em>.",
+      "char": "kanga_tired",
+      "bubble": "Do I have to drop<br>shoulders altogether..?",
+      "bubble_type": "thought",
+      "note": "(last week, he bumped up weight and sets at once..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After his session, Lulu met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Love the training!<br>I'm Hybi."
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Is overhead pressing<br>off the table now?"
+      },
+      "note": "Hybi said it's <mark>usually a load issue</mark>, not one bad rep."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Modify</em>, don't<br>necessarily stop",
+      "fact": "It often follows a <em>jump in weight, sets or training days</em>",
+      "left": {
+        "label": "Lighter, swapped",
+        "char": "kanga_happy",
+        "caption": "Landmine or incline press<br><b>for a few weeks</b>"
+      },
+      "right": {
+        "label": "Grinding through",
+        "char": "kanga_tired",
+        "caption": "Same heavy load<br><em>through the pinch</em>"
+      },
+      "quip": "Keep the moves<br>that feel OK!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>shoulder support routine</b>",
+      "sub": "2–3 times a week",
+      "sections": [
+        {
+          "heading": "1. Build the support crew",
+          "color": "yellow",
+          "lines": [
+            "① Rows: <em>3 × 10–12</em>.",
+            "② Face pulls: <em>3 × 12–15</em>.",
+            "③ Banded external rotation: <em>2 × 15</em>.",
+            "④ OK next day? Ease <em>overhead back in</em> lighter."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "<em>Sudden weakness</em> after a fall or lift,",
+            "or the shoulder <em>feels like it slips</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>pinching</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sudden weakness",
+        "Shoulder feels unstable",
+        "Night pain getting worse"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Overhead press starting to pinch at the top? Lulu bumped up his weight and sets in the same week.\n\nShoulder pain with overhead lifting usually follows a jump in load, sets or training days rather than one bad rep. Most of the time you don't need to stop training altogether.\n\nTry lighter weights or a shorter range, or swap to a landmine or incline press for a few weeks. Add rows, face pulls and external rotations to build support, then bring overhead work back gradually, checking how the shoulder feels the next day.\n\nSudden weakness or a shoulder that feels unstable is worth getting checked. Our Sydney CBD and Chatswood physios work with lifters every week. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#shoulderpain",
+    "#overheadpress",
+    "#gymlife",
+    "#strengthtraining",
+    "#liftingtips",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on shoulder pain with overhead pressing, modifying versus grinding through, a shoulder support routine and signs worth getting checked.",
+  "story": {
+    "headline": "Shoulder pinching overhead?",
+    "body": "Modify, don't stop.<br>Rows and face pulls!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-11",
+  "created": "2026-11-11-2",
+  "status": "approved",
+  "review_warnings": []
+}

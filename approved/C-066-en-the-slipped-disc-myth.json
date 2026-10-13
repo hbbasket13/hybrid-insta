@@ -1,0 +1,131 @@
+{
+  "id": "C-066-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "The 'slipped disc' myth",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Did your disc<br><em>really slip out?</em>",
+      "sub": "Busting the slipped-disc myth with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Spoiler: discs<br>don't slip!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "One heavy lift..<br><em>'I've slipped a disc!'</em>",
+      "char": "kanga_tired",
+      "bubble": "Guess I can't bend<br>ever again..?",
+      "bubble_type": "thought",
+      "note": "(since then, socks go on very, very carefully..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "A mate sent Lulu to Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "G'day, I'm Hybi!<br>Worried about your back?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Someone said it slipped..<br>can you pop it back?"
+      },
+      "note": "Hybi started with <mark>how discs are actually attached</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Discs are <em>anchored</em>,<br>not loose!",
+      "fact": "Discs are <em>firmly attached</em> to the bones above and below",
+      "left": {
+        "label": "Gentle movement",
+        "char": "kanga_happy",
+        "caption": "Walking and easy movement<br><b>can help recovery</b>"
+      },
+      "right": {
+        "label": "Scared stiff",
+        "char": "kanga_tired",
+        "caption": "Avoiding every bend<br>can leave it <em>stiffer</em>"
+      },
+      "quip": "The word 'slipped' often<br>scares more than it should"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute back moves</b>",
+      "sub": "Gentle and often, through the day",
+      "sections": [
+        {
+          "heading": "1. Little and often",
+          "color": "yellow",
+          "lines": [
+            "① Walk for <em>5 minutes</em> every 1–2 hours.",
+            "② Hug knees to chest, <em>5 slow reps</em> if comfy.",
+            "③ If it feels OK, rest on your elbows <em>30 sec</em>.",
+            "④ Add a little <em>strength work</em> each week."
+          ]
+        },
+        {
+          "heading": "2. Get urgent help if…",
+          "color": "purple",
+          "lines": [
+            "<em>Saddle numbness</em>, bladder or bowel changes,",
+            "or leg weakness that <em>keeps getting worse</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Is it going <em>down your leg</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Ongoing leg pain",
+        "Pins and needles in the leg",
+        "Bladder or bowel changes"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Ever been told you've slipped a disc? Here's the thing: discs don't actually slip.\n\nSpinal discs are firmly attached to the bones above and below. They can bulge and irritate nearby nerves, but research suggests many bulges settle over time, and most people improve with time and the right movement.\n\nThe word 'slipped' often makes people scared to bend, which can leave backs stiffer. Short walks, gentle movement and gradual strength usually help more.\n\nSaddle numbness, bladder or bowel changes or worsening leg weakness need urgent medical attention. Our Sydney CBD and Chatswood physios can help you make sense of it. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#slippeddisc",
+    "#discbulge",
+    "#backpain",
+    "#lowbackpain",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#tradie",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why discs don't slip out, gentle movement versus guarding, a 1-minute back routine and signs that need checking.",
+  "story": {
+    "headline": "Discs don't actually slip",
+    "body": "They're anchored.<br>Keep moving gently.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-07",
+  "created": "2026-11-07-6",
+  "status": "approved",
+  "review_warnings": []
+}

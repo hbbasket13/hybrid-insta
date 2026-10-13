@@ -1,0 +1,131 @@
+{
+  "id": "C-081-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Calf strain in tennis and pickleball players",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "랠리 중에<br>종아리가 <em>찌릿!</em>",
+      "sub": "테니스·피클볼 종아리 근육 손상 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "복귀 길,<br>같이 봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "3세트 막판,<br>토토의 종아리가 <em>덜컥</em>.",
+      "char": "rabbit_tired",
+      "bubble": "공에 맞은 줄 알았는데..<br>아무도 없잖아..?",
+      "bubble_type": "thought",
+      "note": "(다음 주 대회도 있는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "절뚝이며<br><b>하이브리드 피지오</b>에 왔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "토토, 코트에서<br>다쳤군요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "푹 쉬면<br>다음 주에 뛸 수<br>있을까요?"
+      },
+      "note": "하비는 <mark>쉬기보다 단계별 복귀</mark>를 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "코트 복귀는 <em>계단식</em>이에요",
+      "fact": "종아리는 걷기보다 <em>훨씬 큰 힘</em>을 버텨야 코트에 설 수 있어요",
+      "left": {
+        "label": "단계별로",
+        "char": "rabbit_happy",
+        "caption": "양발 → 한 발 → 점프<br><b>조금씩 올려요</b>"
+      },
+      "right": {
+        "label": "바로 시합",
+        "char": "rabbit_tired",
+        "caption": "준비 전 시합은<br><em>다시 무리될 수 있어요</em>"
+      },
+      "quip": "걷기 → 근력 → 랠리,<br>순서대로 가봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>종아리 복귀 단계</b>",
+      "sub": "편한 범위 안에서 시작해요!",
+      "sections": [
+        {
+          "heading": "1. 단계별 종아리 운동",
+          "color": "yellow",
+          "lines": [
+            "① 첫 며칠: 편하게 걷기, 보폭은 짧게.",
+            "② 양발 까치발 <em>15회 × 3세트</em>, 편한 만큼.",
+            "③ 괜찮으면 한 발 → 무게 → 작은 점프.",
+            "④ 짧은 랠리부터, 시합은 <em>맨 마지막</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인받기",
+          "color": "purple",
+          "lines": [
+            "까치발로 <em>서지 못하거나</em>,",
+            "발뒤꿈치를 <em>차인 느낌</em>이 들었다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 신호는 <em>꼭 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 꼭 확인받기",
+      "items": [
+        "걷기 어렵거나 까치발 불가",
+        "뒤꿈치를 차인 듯한 느낌",
+        "다친 일 없이 붓고 뜨겁다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 코트 복귀해요!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "랠리 중 종아리가 덜컥한 토토. 테니스·피클볼은 빠른 출발과 멈춤이 많아서 시합 막판이나 운동량이 갑자기 늘었을 때 종아리 근육 손상이 흔해요.\n\n첫 며칠은 편하게 걷고, 편한 범위 안에서 까치발 운동을 시작해요. 그다음 한 발, 무게, 작은 점프 순서로 올리고, 짧은 랠리부터 시합으로 돌아가요. 정도에 따라 보통 몇 주가 걸려요.\n\n까치발이 안 되거나, 뒤꿈치를 차인 느낌, 다친 일 없이 붓고 뜨겁다면 확인받아요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🎾\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#종아리부상",
+    "#테니스",
+    "#피클볼",
+    "#스포츠재활",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#calfstrain",
+    "#pickleball",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 테니스·피클볼 종아리 근육 손상의 원인, 단계별 복귀, 까치발 운동 진행과 확인이 필요한 신호.",
+  "story": {
+    "headline": "랠리 중 종아리 찌릿?",
+    "body": "편하게 걷기 → 까치발 → 한 발,<br>시합은 마지막!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-13",
+  "created": "2026-11-13-3",
+  "status": "approved",
+  "review_warnings": []
+}

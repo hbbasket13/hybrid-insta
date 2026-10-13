@@ -1,0 +1,131 @@
+{
+  "id": "C-067-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Golfer's elbow: pain on the inside of the elbow",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Golfer's elbow..<br><em>without the golf?</em>",
+      "sub": "Inside-of-elbow pain: Lulu's story",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's look at<br>your grip first!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Tools all day,<br><em>pull-ups at night</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why does my elbow<br>ache on the inside<br>every time I grip..?",
+      "bubble_type": "thought",
+      "note": "(and he's never even held a golf club..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On Saturday, Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey, I'm Hybi!<br>Elbow giving you grief?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Should I just rest it<br>and quit the gym?"
+      },
+      "note": "Hybi explained that <mark>managing the load</mark> beats total rest."
+    },
+    {
+      "kind": "compare",
+      "title": "Total rest vs<br><em>gradual loading</em>",
+      "fact": "Tendons usually rebuild capacity with <em>gradual loading</em>",
+      "left": {
+        "label": "Light and steady",
+        "char": "kanga_happy",
+        "caption": "Slow wrist curls<br><b>build it back up</b>"
+      },
+      "right": {
+        "label": "Rest, then heavy",
+        "char": "kanga_tired",
+        "caption": "Weeks off, then straight<br>back heavy: <em>ouch again</em>"
+      },
+      "quip": "A lighter grip and straps<br>can help on heavy pulls!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute elbow builder</b>",
+      "sub": "One light dumbbell is enough!",
+      "sections": [
+        {
+          "heading": "1. Wrist curl",
+          "color": "yellow",
+          "lines": [
+            "① Palm up, forearm resting on your thigh.",
+            "② Curl a <em>light dumbbell</em> up and down slowly.",
+            "③ <em>3 sets of 10–15</em>, every second day.",
+            "④ Mild ache gone <em>by tomorrow</em>? Usually OK."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Your <em>ring and little fingers</em> tingle,",
+            "or pain and swelling <em>keep building</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>aching</em> after easing off?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingly ring or little finger",
+        "Sudden pain after a fall",
+        "Swelling that won't settle"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Inside of your elbow aching every time you grip, lift or pull? Lulu has never swung a golf club, and he still got golfer's elbow.\n\nHeavy pulling at the gym, tools all day, carrying shopping and long hours on a mouse can all add up on the tendons that bend your wrist.\n\nFull rest often calms it, but the tendon usually needs gradual loading to build capacity again. Try slow wrist curls with a light dumbbell, 3 sets of 10–15 every second day, and lighten your grip where you can.\n\nTingling into the ring and little fingers, or pain that keeps building, is worth getting checked. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 💪\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#golferselbow",
+    "#elbowpain",
+    "#gripstrength",
+    "#tradie",
+    "#gymlife",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining golfer's elbow, total rest versus gradual loading, a wrist curl routine and signs worth getting checked.",
+  "story": {
+    "headline": "Golfer's elbow, no golf needed",
+    "body": "Slow wrist curls,<br>every second day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-09",
+  "created": "2026-11-09-4",
+  "status": "approved",
+  "review_warnings": []
+}

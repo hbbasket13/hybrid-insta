@@ -1,0 +1,131 @@
+{
+  "id": "C-082-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Self-massage with a ball: a 5-minute routine",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "테니스공 하나로<br><em>5분 셀프 마사지</em>",
+      "sub": "발·종아리·엉덩이·등, 네 군데면 끝",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "공 하나면<br>충분해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마사지 예약은 다음 주,<br>등은 <em>지금</em> 뻐근.",
+      "char": "turtle_monitor",
+      "bubble": "다음 예약까지<br>집에서 할 건<br>없을까..?",
+      "bubble_type": "thought",
+      "note": "(책상 서랍엔 굴러다니는 테니스공..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "마사지 끝나고<br><b>하비</b>에게 물어봤다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "그 테니스공,<br>잘 쓰면 좋아요!"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "세게 누를수록<br>좋은 거죠?"
+      },
+      "note": "하비는 <mark>적당한 압력</mark>이 핵심이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "압력은 <em>10점 중 4~6점</em>",
+      "fact": "누를수록 <em>풀리는</em> 느낌이 기준 · 점점 아파지면 멈춤",
+      "left": {
+        "label": "적당히",
+        "char": "turtle_happy",
+        "caption": "숨 내쉬며 천천히<br><b>점점 편해져요</b>"
+      },
+      "right": {
+        "label": "세게 꾹꾹",
+        "char": "turtle_sad",
+        "caption": "아픔이 커지면<br><em>몸이 더 버텨요</em>"
+      },
+      "quip": "천천히, 숨 쉬면서<br>굴려봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>테니스공 5분 루틴</b>",
+      "sub": "공 하나랑 벽만 있으면 돼요!",
+      "sections": [
+        {
+          "heading": "1. 네 군데 순서대로",
+          "color": "yellow",
+          "lines": [
+            "① 1분: 서서 발바닥, 양쪽 <em>30초씩</em>.",
+            "② 1분: 앉아서 종아리, 발목 까딱까딱.",
+            "③ 1분: 엉덩이 살 부분에 작은 원 그리기.",
+            "④ 2분: 벽에 기대 날개뼈 옆, <em>척추 X</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 피하거나 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "멍·하지정맥류·막 다친 곳은 피하고,",
+            "<em>저림이 퍼지면</em> 바로 멈추기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "공으로 안 될 땐 <em>확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 꼭 확인받기",
+      "items": [
+        "저림이 팔다리로 퍼진다",
+        "감각이 둔한 곳이 있다",
+        "2주 넘게 그대로다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "다음 마사지 예약까지 기다리기 힘든 거북씨. 테니스공 하나와 벽만 있으면 5분 루틴이 가능해요.\n\n발바닥 1분, 종아리 1분, 엉덩이 1분, 벽에 기대 날개뼈 옆 2분. 압력은 10점 중 4~6점 정도, 굴릴수록 풀리는 느낌이 기준이에요. 척추 뼈와 목 앞쪽은 피해요.\n\n셀프 마사지는 움직임과 근력 운동을 대신하진 않지만, 둘 다 조금 편하게 해줄 수 있어요. 멍, 하지정맥류, 막 다친 곳은 피하고 저림이 퍼지면 멈춰요. 리메디얼 마사지 테라피스트가 어디를 굴릴지 알려드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#셀프마사지",
+    "#테니스공마사지",
+    "#리메디얼마사지",
+    "#직장인건강",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#등통증",
+    "#remedialmassage",
+    "#selfmassage",
+    "#chatswood",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 테니스공 5분 셀프 마사지 순서, 적당한 압력 기준, 피해야 할 부위와 확인이 필요한 신호.",
+  "story": {
+    "headline": "테니스공 하나로 5분",
+    "body": "발 → 종아리 → 엉덩이 → 등,<br>4~6점 압력으로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-14",
+  "created": "2026-11-14-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-079-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for better balance",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko <em>wobbles</em><br>on one leg",
+      "sub": "Balance is a skill, and skills improve",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's practise<br>together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Putting on socks..<br>and <em>whoops!</em>",
+      "char": "koala_tired",
+      "bubble": "Is wobbling just<br>part of getting<br>older..?",
+      "bubble_type": "thought",
+      "note": "(reaching for the wall more and more..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko met Hybi at<br>the <b>Pilates studio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome, Koko!<br>Balance on<br>your mind?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Isn't balance<br>something you're<br>born with?"
+      },
+      "note": "Hybi said <mark>balance is a skill</mark> you can practise."
+    },
+    {
+      "kind": "compare",
+      "title": "Balance is a <em>skill</em>",
+      "fact": "Balance = <em>strength</em> + body awareness + quick reactions",
+      "left": {
+        "label": "A bit daily",
+        "char": "koala_happy",
+        "caption": "Short, regular practice<br><b>tends to help</b>"
+      },
+      "right": {
+        "label": "Avoiding it",
+        "char": "koala_tired",
+        "caption": "Less practice,<br><em>less confidence</em>"
+      },
+      "quip": "Train the trunk, hips<br>and legs together!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>kitchen bench balance</b>",
+      "sub": "Try it while the kettle boils!",
+      "sections": [
+        {
+          "heading": "1. Bench-supported single leg",
+          "color": "yellow",
+          "lines": [
+            "① Stand beside the bench, hold on lightly.",
+            "② Lift one foot, hold <em>20–30 sec</em>.",
+            "③ Easier? One finger, then no hands.",
+            "④ Swap sides, <em>twice a day</em>."
+          ]
+        },
+        {
+          "heading": "2. Check in first if…",
+          "color": "purple",
+          "lines": [
+            "You've had a recent fall or feel <em>dizzy</em> —",
+            "talk to your GP or physio before starting."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still feeling <em>wobbly</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A recent fall",
+        "Dizzy or light-headed spells",
+        "New numbness in your feet"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Practise balance with Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko nearly toppled over putting on a sock. Good news: balance isn't set in stone. It's a skill, and it tends to improve with regular practice.\n\nBalance relies on strength, knowing where your body is, and reacting quickly. Pilates trains your trunk, hips and legs together, and standing work on the reformer lets you practise with springs and a bar for support.\n\nTry this today: hold the kitchen bench lightly and stand on one foot for 20–30 seconds. As it gets easier, use one finger, then none. Swap sides. If you've had recent falls or feel dizzy, check with your GP or physio first.\n\nOur Pilates team at Hybrid Physio can build a balance program that starts where you are. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#balance",
+    "#fallsprevention",
+    "#healthyageing",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#sydney",
+    "#reformerpilates",
+    "#activeageing",
+    "#hybridphysiotherapy",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala showing that balance is a trainable skill, how Pilates helps, a kitchen bench single-leg exercise and signs worth getting checked.",
+  "story": {
+    "headline": "Can you stand on one leg?",
+    "body": "Hold the bench lightly, lift one foot, 20–30 sec each side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-13",
+  "created": "2026-11-13-4",
+  "status": "approved",
+  "review_warnings": []
+}

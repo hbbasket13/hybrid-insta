@@ -1,0 +1,131 @@
+{
+  "id": "C-080-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sacroiliac joint pain: what it is and what helps",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "A sharp ache by<br>Lulu's <em>back dimple</em>",
+      "sub": "Sacroiliac joint pain, minus the scary words",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's see<br>what's going on!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every time Lulu hops<br>out of the <em>ute</em>..",
+      "char": "kanga_tired",
+      "bubble": "Is my pelvis<br>out of place..?",
+      "bubble_type": "thought",
+      "note": "(stairs and rolling over in bed too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After work, straight to<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "G'day Lulu!<br>Where's it<br>bothering you?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "A mate said my<br>hip's popped out.."
+      },
+      "note": "Hybi explained it's usually <mark>sensitive, not out of place</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "SI joints <em>rarely slip out</em>",
+      "fact": "The SI joints link spine to pelvis · built for <em>stability</em>",
+      "left": {
+        "label": "Build strength",
+        "char": "kanga_happy",
+        "caption": "Glutes, hips and trunk,<br><b>built up gradually</b>"
+      },
+      "right": {
+        "label": "Just 'realign'",
+        "char": "kanga_tired",
+        "caption": "Pain is usually about<br><em>sensitivity and load</em>"
+      },
+      "quip": "Steady strength work<br>usually leads the way!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>SI survival tips</b>",
+      "sub": "Handy on site and at home!",
+      "sections": [
+        {
+          "heading": "1. While it settles",
+          "color": "yellow",
+          "lines": [
+            "① Getting out of the car? <em>Knees together</em>.",
+            "② Long standing? Shift position <em>every 30 min</em>.",
+            "③ Bridges <em>10 × 2 sets</em>, comfortable range.",
+            "&nbsp;&nbsp;&nbsp;(a small lift is plenty to start!)"
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em> or the leg",
+            "feels weak — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Some signs need a <em>prompt check</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See someone promptly if",
+      "items": [
+        "Pain comes with a fever",
+        "Leg numbness or weakness",
+        "Bladder or bowel changes"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "That sharp ache by the dimple in Lulu's lower back? It might involve the sacroiliac joint.\n\nThe SI joints link your spine to your pelvis and are built for stability. Despite what you may have heard, they very rarely slip 'out of place'. Pain here is usually about sensitivity and load, and stairs, standing on one leg, rolling over in bed and getting out of the car are common triggers.\n\nGradual strength work for the glutes, hips and trunk usually helps most. Keeping your knees together getting out of the car can help short term. Fever, leg numbness or weakness, or bladder and bowel changes need prompt medical review.\n\nOur Chatswood and Sydney CBD physios can assess it properly. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sijointpain",
+    "#lowbackpain",
+    "#pelvicpain",
+    "#tradie",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydney",
+    "#glutestrength",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining sacroiliac joint pain, why the joint rarely slips out, short-term tips and signs that need prompt review.",
+  "story": {
+    "headline": "Pain by your back dimple?",
+    "body": "Knees together out of the car, and build glute strength gradually.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-13",
+  "created": "2026-11-13-2",
+  "status": "approved",
+  "review_warnings": []
+}

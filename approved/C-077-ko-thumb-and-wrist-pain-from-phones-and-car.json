@@ -1,0 +1,131 @@
+{
+  "id": "C-077-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Thumb and wrist pain from phones and carrying babies",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "아기 안고, 폰 하고,<br><em>엄지가 시큰</em>",
+      "sub": "초보 아빠 루루의 손목 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "드는 법만<br>바꿔봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "아기가 태어난 지 두 달,<br><em>엄지 아래가 욱신</em>.",
+      "char": "kanga_tired",
+      "bubble": "공구는 괜찮은데<br>아기만 들면 왜..?",
+      "bubble_type": "thought",
+      "note": "(새벽 수유하며 폰 스크롤도 한 시간..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "육아 중 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "축하해요, 아빠!<br>하비예요."
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "아기 안을 때마다<br>엄지가 찌릿해요.."
+      },
+      "note": "하비는 <mark>엄지 힘줄에 부하</mark>가 몰린다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "아기 드는 법,<br><em>손바닥이 위로!</em>",
+      "fact": "엄지를 벌려 겨드랑이로 들면 <em>엄지 힘줄</em>이 많이 일해요",
+      "left": {
+        "label": "손바닥 위로",
+        "char": "kanga_happy",
+        "caption": "엉덩이·머리 받치고<br><b>손목은 곧게</b>"
+      },
+      "right": {
+        "label": "엄지 벌려 번쩍",
+        "char": "kanga_tired",
+        "caption": "겨드랑이 아래로 들면<br><em>엄지에 부하가 몰려요</em>"
+      },
+      "quip": "폰은 두 손으로,<br>검지로 스크롤!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>엄지 쉬게 하는 법</b>",
+      "sub": "오늘부터 바로!",
+      "sections": [
+        {
+          "heading": "1. 들기·폰 습관 바꾸기",
+          "color": "yellow",
+          "lines": [
+            "① 아기는 <em>손바닥 위로</em> 받쳐 들어요.",
+            "② 폰은 <em>두 손으로</em>, 스크롤은 검지로.",
+            "③ <em>거치대·음성 입력</em> 활용하기.",
+            "④ 길게 한 번 대신 <em>짧게 여러 번</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 빨리 확인받기!",
+          "color": "purple",
+          "lines": [
+            "손을 짚고 <em>넘어진 뒤</em> 아프거나,",
+            "손가락이 <em>저리면</em> GP·물리치료사에게!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "엄지가 <em>계속 시큰하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 빨리 확인받기",
+      "items": [
+        "넘어진 뒤 생긴 통증",
+        "가라앉지 않는 붓기",
+        "손가락 저림·쥐는 힘 약화"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "아기가 태어난 지 두 달, 엄지 아래가 욱신거리는 초보 아빠 루루. 공구는 괜찮은데 아기만 들면 시큰하대요.\n\n엄지 쪽 손목 통증은 힘줄이 평소보다 많은 부하를 받을 때 생기기 쉬워요. 초보 부모와 폰을 오래 쓰는 분들에게 흔해요.\n\n아기는 엄지를 벌려 겨드랑이로 들기보다 손바닥을 위로 해서 엉덩이와 머리를 받쳐요. 폰은 두 손으로, 스크롤은 검지로! 대부분 몇 주에 걸쳐 나아질 수 있어요.\n\n넘어진 뒤 통증, 붓기, 손가락 저림은 빨리 확인받아요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 👶\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#손목통증",
+    "#엄지통증",
+    "#육아",
+    "#초보아빠",
+    "#스마트폰",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#wristpain",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 아기 안기와 폰 사용으로 생기는 엄지·손목 통증, 아기 드는 법 비교, 습관 바꾸기, 확인이 필요한 신호.",
+  "story": {
+    "headline": "아기 들 때 엄지가 시큰?",
+    "body": "손바닥 위로 받치고,<br>폰은 두 손으로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-12",
+  "created": "2026-11-12-5",
+  "status": "approved",
+  "review_warnings": []
+}

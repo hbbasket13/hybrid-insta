@@ -1,0 +1,131 @@
+{
+  "id": "C-075-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Three mat Pilates exercises to do at home",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "No reformer?<br><em>Try these three on the mat</em>",
+      "sub": "Momo's at-home mat Pilates",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "A mat is<br>all you need!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Bendy as anything..<br><em>but not so strong</em>.",
+      "char": "cat_tired",
+      "bubble": "Isn't being flexible<br>enough..?",
+      "bubble_type": "thought",
+      "note": "(legs over her head, glutes still napping..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After class,<br>Momo asked Hybi.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Great session!<br>I'm Hybi."
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Anything I can<br>do at home?"
+      },
+      "note": "Hybi picked <mark>three moves for one mat</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Slow and <em>controlled</em><br>beats fast",
+      "fact": "The goal is <em>smooth control</em>, not speed",
+      "left": {
+        "label": "Slow control",
+        "char": "cat_happy",
+        "caption": "Breathe out, move slowly,<br><b>stay in control</b>"
+      },
+      "right": {
+        "label": "Speed reps",
+        "char": "cat_tired",
+        "caption": "Swinging through fast,<br><em>other muscles take over</em>"
+      },
+      "quip": "Slower usually feels<br>harder, in a good way!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>3 mat moves</b>",
+      "sub": "1–2 rounds, about 3 times a week",
+      "sections": [
+        {
+          "heading": "1. The home three",
+          "color": "yellow",
+          "lines": [
+            "① <em>Bridge</em>: lift hips, shoulders to knees, 8–10.",
+            "② <em>Dead bug</em>: lower opposite arm and leg, 8–10.",
+            "③ <em>Clam</em>: on your side, lift top knee, 10–12 each.",
+            "④ Move slowly and <em>breathe steadily</em>."
+          ]
+        },
+        {
+          "heading": "2. Check with us first if…",
+          "color": "purple",
+          "lines": [
+            "Recovering from injury or surgery, or <em>pregnant</em>,",
+            "or pain is <em>sharp or lingers</em> to the next day."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check with us <em>first</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Chat to us first if",
+      "items": [
+        "Recent injury or surgery",
+        "You're pregnant",
+        "Pain lingering next day"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo can get her legs over her head, but her glutes are still napping. No reformer at home? A mat and ten minutes is enough to start.\n\nThree moves to try: bridges for your glutes and back of the legs, dead bugs for control through your trunk, and side-lying clams for the side of your hips. Move slowly, breathe steadily and aim for smooth control rather than speed. One or two rounds, about three times a week, is a good start.\n\nRecovering from injury or surgery, pregnant, or getting sharp or lingering pain? Check with us first so we can adjust the moves.\n\nOur Pilates team at Hybrid Physio can tailor these to you. Book online via the link in bio 🐱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#matpilates",
+    "#pilatesathome",
+    "#homeworkout",
+    "#corestrength",
+    "#glutes",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#sydney",
+    "#clinicalpilates",
+    "#hybridphysiotherapy",
+    "#pilatesforbeginners"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo showing three mat Pilates exercises for home, slow control versus speed, how to do each move and when to check with us first.",
+  "story": {
+    "headline": "No reformer? Try the mat",
+    "body": "Bridge, dead bug, clam —<br>3 times a week.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-11",
+  "created": "2026-11-11-6",
+  "status": "approved",
+  "review_warnings": []
+}

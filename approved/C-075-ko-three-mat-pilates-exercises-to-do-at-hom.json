@@ -1,0 +1,131 @@
+{
+  "id": "C-075-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Three mat Pilates exercises to do at home",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "리포머 없어도 OK,<br><em>매트 위 3가지</em>",
+      "sub": "모모의 집에서 하는 필라테스",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "매트 하나면<br>충분해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "스트레칭은 자신 있는데<br><em>힘은 없는 모모</em>.",
+      "char": "cat_tired",
+      "bubble": "유연하기만 하면<br>되는 거 아니었어..?",
+      "bubble_type": "thought",
+      "note": "(다리는 머리 위까지, 엉덩이 힘은 글쎄..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "필라테스 수업 후,<br>하비에게 물었다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "오늘 잘했어요!<br>하비예요."
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "집에서도<br>할 수 있는 거 있어요?"
+      },
+      "note": "하비는 <mark>매트 하나로 3가지</mark>를 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "빠르게보다<br><em>천천히, 정확하게</em>",
+      "fact": "목표는 속도가 아니라 <em>부드러운 조절</em>이에요",
+      "left": {
+        "label": "천천히 조절",
+        "char": "cat_happy",
+        "caption": "숨 내쉬며 천천히,<br><b>정확하게 컨트롤</b>"
+      },
+      "right": {
+        "label": "휙휙 빠르게",
+        "char": "cat_tired",
+        "caption": "반동으로 빨리 하면<br><em>엉뚱한 곳이 일해요</em>"
+      },
+      "quip": "느리게 할수록<br>더 쫀쫀해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>매트 필라테스 3종</b>",
+      "sub": "주 3회, 1~2라운드!",
+      "sections": [
+        {
+          "heading": "1. 집에서 하는 3가지",
+          "color": "yellow",
+          "lines": [
+            "① <em>브릿지</em>: 엉덩이 들어올리기 8~10회.",
+            "② <em>데드버그</em>: 반대 팔다리 내리기 8~10회.",
+            "③ <em>클램</em>: 옆으로 누워 무릎 열기 10~12회.",
+            "④ 숨은 천천히, <em>주 3회 1~2라운드</em>."
+          ]
+        },
+        {
+          "heading": "2. 먼저 상담하고 시작하기!",
+          "color": "purple",
+          "lines": [
+            "부상·수술 회복 중이거나 <em>임신 중</em>이면,",
+            "<em>날카로운 통증</em>이 다음 날까지 가면 멈추기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>먼저 상담</em>해요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 먼저 확인받기",
+      "items": [
+        "부상·수술 회복 중",
+        "임신 중",
+        "다음 날까지 남는 통증"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "다리는 머리 위까지 올라가는데 힘은 부족한 모모. 집에 리포머가 없어도 매트 하나면 시작할 수 있어요.\n\n브릿지는 엉덩이와 허벅지 뒤, 데드버그는 몸통 조절, 클램은 엉덩이 옆을 써요. 숨은 천천히, 속도보다 부드러운 조절이 목표예요. 1~2라운드씩 주 3회 정도면 좋은 시작!\n\n부상이나 수술에서 회복 중이거나 임신 중이라면, 또는 통증이 다음 날까지 남는다면 먼저 상담해요. 동작을 몸에 맞게 조절해 드려요.\n\n하이브리드 피지오 필라테스 팀이 함께해요. 프로필 링크에서 온라인 예약 🐱\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#매트필라테스",
+    "#홈트",
+    "#코어운동",
+    "#브릿지운동",
+    "#시드니필라테스",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#matpilates",
+    "#pilatesathome",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 집에서 하는 매트 필라테스 3가지, 천천히 조절과 빠르게 하기 비교, 운동 방법, 먼저 상담이 필요한 경우.",
+  "story": {
+    "headline": "리포머 없이 매트 3종!",
+    "body": "브릿지·데드버그·클램,<br>주 3회!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-11",
+  "created": "2026-11-11-3",
+  "status": "approved",
+  "review_warnings": []
+}

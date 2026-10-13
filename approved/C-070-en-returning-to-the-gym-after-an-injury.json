@@ -1,0 +1,130 @@
+{
+  "id": "C-070-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Returning to the gym after an injury",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Back at the gym<br><em>after an injury?</em>",
+      "sub": "Lulu's comeback plan, built with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Start at<br>about half!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A month off with an ankle..<br><em>gym day at last!</em>",
+      "char": "kanga_tired",
+      "bubble": "Straight back to<br>my old weights..?",
+      "bubble_type": "thought",
+      "note": "(in his head, he's already chasing a PB..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Before training, Lulu saw Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome back!<br>I'm Hybi."
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Can I go straight<br>back to my usual?"
+      },
+      "note": "Hybi said <mark>tomorrow morning</mark> tells you the most."
+    },
+    {
+      "kind": "compare",
+      "title": "The session matters,<br><em>the next morning</em> more",
+      "fact": "Mild discomfort is often fine · check <em>24 hours later</em>",
+      "left": {
+        "label": "Start at half",
+        "char": "kanga_happy",
+        "caption": "Half your usual load,<br><b>one change at a time</b>"
+      },
+      "right": {
+        "label": "Straight to full",
+        "char": "kanga_tired",
+        "caption": "Weight, sets and days at<br>once: <em>sore next day</em>"
+      },
+      "quip": "Train around it,<br>not through it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>gym comeback rules</b>",
+      "sub": "For the first 1–2 weeks",
+      "sections": [
+        {
+          "heading": "1. Three comeback rules",
+          "color": "yellow",
+          "lines": [
+            "① Weeks 1–2: about <em>half your usual</em> load.",
+            "② Clearly worse <em>24 hours later</em>? Drop a step.",
+            "③ Add weight, sets <em>or</em> sessions, <em>not all three</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "<em>Swelling keeps returning</em>, or",
+            "the joint <em>gives way</em> under you."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check <em>before you push on</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling keeps returning",
+        "A joint that gives way",
+        "Numbness or tingling"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu is back at the gym after a month off with his ankle, and his ego is already loading the bar.\n\nMost people do well starting at about half their usual weights and volume for the first week or two, then building up gradually. Mild discomfort during a set is often fine; the next-morning check tells you more. If things are clearly worse 24 hours later, drop back a step.\n\nChange one thing at a time, and keep training the parts that aren't injured. Swelling that keeps returning, a joint that gives way or numbness is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can map out a return that fits your program. Book online via the link in bio 🏋️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#returntosport",
+    "#gymlife",
+    "#injuryrecovery",
+    "#strengthtraining",
+    "#anklesprain",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on returning to the gym after an injury, starting at half versus full load, three comeback rules and signs worth getting checked.",
+  "story": {
+    "headline": "Back to the gym after injury?",
+    "body": "Start at half,<br>check the next morning.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-10",
+  "created": "2026-11-10-4",
+  "status": "approved",
+  "review_warnings": []
+}

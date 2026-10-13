@@ -1,0 +1,131 @@
+{
+  "id": "C-079-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for better balance",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "한 발로 서면<br><em>휘청하는</em> 코코",
+      "sub": "균형도 연습하면 늘 수 있어요",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "균형 연습<br>같이 해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "양말 신다가<br><em>휘청!</em> 한 코코.",
+      "char": "koala_tired",
+      "bubble": "나이 들면 원래<br>이렇게 휘청하나..?",
+      "bubble_type": "thought",
+      "note": "(괜히 벽부터 짚게 된다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "필라테스 스튜디오에서<br><b>하비</b>를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코, 어서 와요!<br>균형이 고민이죠?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "타고나는 거라<br>어쩔 수 없잖아요?"
+      },
+      "note": "하비는 <mark>균형도 기술</mark>이라고 말했다."
+    },
+    {
+      "kind": "compare",
+      "title": "균형은 <em>연습하는 기술</em>",
+      "fact": "균형 = <em>근력</em> + 몸의 위치 감각 + 빠른 반응",
+      "left": {
+        "label": "매일 조금씩",
+        "char": "koala_happy",
+        "caption": "짧게라도 자주<br><b>연습하면 늘어요</b>"
+      },
+      "right": {
+        "label": "피하기만",
+        "char": "koala_tired",
+        "caption": "안 쓰면 감각도<br><em>점점 무뎌져요</em>"
+      },
+      "quip": "몸통·엉덩이·다리를<br>같이 키워봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>주방 벤치 균형 연습</b>",
+      "sub": "설거지 끝나고 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 벤치 잡고 한 발 서기",
+          "color": "yellow",
+          "lines": [
+            "① 주방 벤치 옆에 서서 가볍게 잡아요.",
+            "② 한 발을 들고 <em>20~30초</em> 버텨요.",
+            "③ 쉬워지면 손가락 하나 → 손 떼기.",
+            "④ 양쪽 번갈아 <em>하루 2번</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 먼저 상담받기",
+          "color": "purple",
+          "lines": [
+            "최근 넘어진 적이 있거나 <em>어지럽다면</em>,",
+            "연습 전에 GP나 물리치료사와 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "휘청함이 <em>계속된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>부터 해봐요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "최근에 넘어진 적이 있다",
+        "어지럽거나 핑 돈다",
+        "발에 새로 감각이 둔하다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 균형 연습해요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "양말 신다가 휘청한 코코. 균형은 타고나는 게 아니라 연습하면 늘 수 있는 기술이에요.\n\n균형에는 근력, 몸의 위치 감각, 빠른 반응이 함께 필요해요. 필라테스는 몸통·엉덩이·다리를 같이 키우고, 리포머 위 서서 하는 동작은 스프링과 바의 도움을 받으며 연습할 수 있어요.\n\n오늘의 연습: 주방 벤치를 가볍게 잡고 한 발로 20~30초. 쉬워지면 손가락 하나, 그다음 손 떼기. 최근 넘어졌거나 어지럽다면 먼저 상담받아요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#균형운동",
+    "#낙상예방",
+    "#필라테스",
+    "#클리니컬필라테스",
+    "#시드니필라테스",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#시니어운동",
+    "#pilates",
+    "#balance",
+    "#sydneypilates",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 균형이 연습하는 기술인 이유, 필라테스의 역할, 주방 벤치 한 발 서기와 확인이 필요한 신호.",
+  "story": {
+    "headline": "한 발로 30초, 가능해요?",
+    "body": "주방 벤치 잡고 한 발 서기,<br>양쪽 번갈아!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-13",
+  "created": "2026-11-13-1",
+  "status": "approved",
+  "review_warnings": []
+}

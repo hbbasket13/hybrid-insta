@@ -1,0 +1,131 @@
+{
+  "id": "C-073-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "How long do the effects of a massage last?",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "How long does that<br><em>looser feeling last?</em>",
+      "sub": "The honest answer, and how to stretch it",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "You can make<br>it go further!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Floating after a massage..<br><em>tight again by Thursday</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Already? It's only<br>been two days..?",
+      "bubble_type": "thought",
+      "note": "(the shoulders crept back up towards his ears..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Back at <b>Hybrid Physio</b>,<br>he asked Hybi.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Good to see you!<br>How are the shoulders?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Is it normal for it<br>to wear off so fast?"
+      },
+      "note": "Hybi said it usually lasts <mark>hours to a few days</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "How to make it<br><em>last longer</em>",
+      "fact": "Usually <em>hours to a few days</em> · it varies person to person",
+      "left": {
+        "label": "Move after",
+        "char": "turtle_happy",
+        "caption": "A walk that evening<br><b>helps hold the feeling</b>"
+      },
+      "right": {
+        "label": "Same old habits",
+        "char": "turtle_sad",
+        "caption": "Same daily load,<br><em>same tightness back</em>"
+      },
+      "quip": "The day of a massage is<br>a great day to move!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>make-it-last plan</b>",
+      "sub": "Starting the evening of your massage",
+      "sections": [
+        {
+          "heading": "1. After your massage",
+          "color": "yellow",
+          "lines": [
+            "① That evening, take a <em>10-minute walk</em>.",
+            "② Keep up home exercises, <em>once a day</em>.",
+            "③ At your desk, stand up <em>every 30–60 min</em>.",
+            "④ <em>Shoulder and upper back strength</em>, twice a week."
+          ]
+        },
+        {
+          "heading": "2. Get advice if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em> after a massage,",
+            "or your arm <em>tingles</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Tight again <em>within a day</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth checking if you notice",
+      "items": [
+        "Tightness back every day",
+        "Tingling in arm or hand",
+        "Pain that keeps spreading"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Walked out of your massage feeling brand new, then two days later the tight shoulders were back? Mr Turtle knows that one.\n\nThat's pretty normal. For most people, the looser feeling lasts somewhere between a few hours and a few days. Massage changes how muscles and nerves feel, and if the same habits keep loading you up, the tightness tends to return.\n\nYou can stretch that window: walk that evening, keep up your home exercises and break up long desk stretches. If pain gets worse after a massage or your arm tingles, get it checked.\n\nOur remedial massage therapists at Hybrid Physio can help you find a rhythm that works. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#massagetherapy",
+    "#tightshoulders",
+    "#deskjob",
+    "#selfcare",
+    "#sydneymassage",
+    "#chatswood",
+    "#chatswoodmassage",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#movementismedicine"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on how long massage effects last, moving afterwards versus old habits, a make-it-last plan and signs worth checking.",
+  "story": {
+    "headline": "How long does a massage last?",
+    "body": "Walk that evening<br>to hold the feeling.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-11",
+  "created": "2026-11-11-4",
+  "status": "approved",
+  "review_warnings": []
+}

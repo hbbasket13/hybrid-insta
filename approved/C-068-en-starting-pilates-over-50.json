@@ -1,0 +1,131 @@
+{
+  "id": "C-068-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Starting Pilates over 50",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "New to Pilates<br><em>and over 50?</em>",
+      "sub": "Koko's first-timer questions, answered",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Great time<br>to start!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Her granddaughter said<br><em>'Try Pilates, Nan!'</em>",
+      "char": "koala_tired",
+      "bubble": "But I can't even<br>touch my toes..?",
+      "bubble_type": "thought",
+      "note": "(Koko and her toes haven't met in years..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Koko popped into<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome, I'm Hybi!<br>First time?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Don't I need to be<br>flexible first?"
+      },
+      "note": "Hybi smiled: <mark>flexibility comes with practice</mark>, not before."
+    },
+    {
+      "kind": "compare",
+      "title": "Pilates isn't<br><em>just the core</em>!",
+      "fact": "Current guidelines recommend <em>strength training</em> at any age",
+      "left": {
+        "label": "Adapted to you",
+        "char": "koala_happy",
+        "caption": "Moves adjusted around<br><b>sore knees or backs</b>"
+      },
+      "right": {
+        "label": "Keeping up",
+        "char": "koala_tired",
+        "caption": "Chasing someone else's<br>pace can <em>wear you out</em>"
+      },
+      "quip": "Legs, balance and upper<br>body all get a turn!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>Pilates starter plan</b>",
+      "sub": "How a first-timer begins",
+      "sections": [
+        {
+          "heading": "1. Step by step",
+          "color": "yellow",
+          "lines": [
+            "① Start with a <em>one-on-one assessment</em>.",
+            "② Tell us about <em>past injuries or operations</em>.",
+            "③ Begin with <em>1–2 sessions a week</em>.",
+            "④ <em>Consistency</em> over intensity, build over months."
+          ]
+        },
+        {
+          "heading": "2. Stop and tell us if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>sharp pain</em> or",
+            "get <em>dizzy</em> during an exercise."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Before you <em>start</em>, tell us",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Chat to us first if you have",
+      "items": [
+        "Recent surgery or injury",
+        "Dizziness or recent falls",
+        "Joints that ache at night"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko's granddaughter suggested Pilates, but Koko worried she was too stiff. Good news: you don't need to be flexible to start, at 50 or at 70.\n\nClinical Pilates begins with an assessment, so exercises can be adapted around sore knees, backs or shoulders. Good programs go well beyond the core, with leg strength, balance and upper body work. Current guidelines recommend strength training for adults of all ages.\n\nOnce or twice a week is a good starting point, and consistency counts for more than intensity. Recent surgery, injury or dizziness? Tell us first.\n\nOur Pilates team at Hybrid Physio works with plenty of first-timers. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#pilatesover50",
+    "#healthyageing",
+    "#balance",
+    "#strengthtraining",
+    "#chatswoodpilates",
+    "#chatswood",
+    "#sydneypilates",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#pilatesforbeginners"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about starting Pilates over 50, adapted exercise versus keeping up, a starter plan and when to talk to us first.",
+  "story": {
+    "headline": "Over 50 and new to Pilates?",
+    "body": "Start with an assessment,<br>1–2 sessions a week.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-11-09",
+  "created": "2026-11-09-2",
+  "status": "approved",
+  "review_warnings": []
+}

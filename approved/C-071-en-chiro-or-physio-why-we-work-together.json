@@ -1,0 +1,131 @@
+{
+  "id": "C-071-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Chiro or physio? Why we work together",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Chiro or physio?<br><em>Honestly, often both</em>",
+      "sub": "Why our team works side by side",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Confusing?<br>Let me explain!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Stiff back, two options..<br><em>which one do I book?</em>",
+      "char": "turtle_monitor",
+      "bubble": "Chiro? Physio?<br>What's even<br>the difference..?",
+      "bubble_type": "thought",
+      "note": "(30 minutes of googling later, still no idea..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So he gave <b>Hybrid Physio</b><br>a call.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi, I'm Hybi!<br>Can't decide?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Chiro or physio..<br>which do I book?"
+      },
+      "note": "Hybi said <mark>there's a lot of overlap</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Both <em>assess</em>,<br>both use <em>exercise</em>",
+      "fact": "Big overlap · the difference is mostly <em>preferred tools</em>",
+      "left": {
+        "label": "Team approach",
+        "char": "turtle_happy",
+        "caption": "Notes shared with<br><b>your consent</b>"
+      },
+      "right": {
+        "label": "Googling alone",
+        "char": "turtle_sad",
+        "caption": "Endless searching<br><em>delays getting started</em>"
+      },
+      "quip": "Start with either one —<br>we'll link you up!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>who-to-book guide</b>",
+      "sub": "When you're not sure where to start",
+      "sections": [
+        {
+          "heading": "1. A quick guide",
+          "color": "yellow",
+          "lines": [
+            "① Chiro: <em>adjustments</em>, mobilisation, exercise.",
+            "② Physio: a strong focus on <em>progressive rehab</em>.",
+            "③ Start with whoever you <em>feel comfortable</em> with.",
+            "④ We'll <em>refer between us</em> if it suits you."
+          ]
+        },
+        {
+          "heading": "2. Get assessed first if…",
+          "color": "purple",
+          "lines": [
+            "An arm or leg feels <em>numb or weak</em> —",
+            "either one can <em>assess it first</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Either way, <em>assess first</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numbness in an arm or leg",
+        "A feeling of weakness",
+        "Pain steadily getting worse"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "\"Should I see a chiro or a physio?\" Mr Turtle spent 30 minutes googling it. The honest answer: there's plenty of overlap.\n\nBoth assess muscles, joints and movement, and both use hands-on care and exercise. Chiropractors often use adjustments and mobilisation as one tool alongside exercise and advice. Physios tend to lean into progressive rehab.\n\nBecause we're under one roof, our chiropractors and physios refer between each other, share notes with your consent and blend approaches where it helps.\n\nNumbness or weakness in an arm or leg? Get assessed first, whoever you see. Not sure where to start? Tell us what's going on. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#physiotherapy",
+    "#chiropractic",
+    "#physio",
+    "#backpain",
+    "#teamcare",
+    "#sydneychiro",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#alliedhealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining how chiropractors and physios overlap, why a team approach helps, a who-to-book guide and signs to get assessed.",
+  "story": {
+    "headline": "Chiro or physio?",
+    "body": "Start with either —<br>we work as a team.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-10",
+  "created": "2026-11-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-078-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates and bone health",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's bones<br>actually <em>like a workout</em>",
+      "sub": "A Pilates and bone health story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's talk<br>bones!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko's been thinking<br>about <em>bone health</em>.",
+      "char": "koala_tired",
+      "bubble": "Weak bones..<br>so I should just<br>take it easy, right?",
+      "bubble_type": "thought",
+      "note": "(more naps, less moving..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Pilates enquiry day<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Worried about<br>your bones?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Won't exercise<br>make things worse?"
+      },
+      "note": "Hybi started with how <mark>bone responds to load</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Bone is <em>living tissue</em>!",
+      "fact": "Bone <em>adapts</em> to the load it gets · build it up gradually",
+      "left": {
+        "label": "Small steps up",
+        "char": "koala_happy",
+        "caption": "Springs add resistance<br><b>a little at a time</b>"
+      },
+      "right": {
+        "label": "Only resting",
+        "char": "koala_tired",
+        "caption": "Less movement,<br><em>less for bone to adapt to</em>"
+      },
+      "quip": "Bones often like a bit<br>of a challenge!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>bone-friendly week</b>",
+      "sub": "Mix it up rather than doing just one thing!",
+      "sections": [
+        {
+          "heading": "1. Your weekly load mix",
+          "color": "yellow",
+          "lines": [
+            "① Walk or take the stairs most days.",
+            "② Pilates twice a week, add spring <em>gradually</em>.",
+            "③ Stand on one leg <em>20 sec × 3</em>, each side.",
+            "&nbsp;&nbsp;&nbsp;(hold a bench lightly to start!)"
+          ]
+        },
+        {
+          "heading": "2. Check in first if…",
+          "color": "purple",
+          "lines": [
+            "You've been told you have low bone density,",
+            "or a move brings on <em>new pain</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Worth a <em>check first</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Back pain after a small bump",
+        "Noticeable loss of height",
+        "Pain after a fall"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko had been taking it easy, worried about fragile bones. But bone is living tissue, and it adapts to the load you give it.\n\nCurrent guidelines suggest regular resistance and weight-bearing exercise, built up gradually, supports bone health. Clinical Pilates can be one useful piece: reformer springs let you add resistance in small steps, and standing work trains balance and leg strength too.\n\nPair it with walking and stairs across the week. If you've been told you have low bone density, let us know so moves can be chosen to suit you, and keep your GP in the loop. Our Pilates team at Hybrid Physio can get you started. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#bonehealth",
+    "#osteoporosis",
+    "#healthyageing",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#sydney",
+    "#reformerpilates",
+    "#strengthtraining",
+    "#hybridphysiotherapy",
+    "#balance"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining how bone responds to load, where Pilates fits, a bone-friendly weekly mix and signs worth getting checked.",
+  "story": {
+    "headline": "Bones like a bit of load",
+    "body": "Walking, stairs and Pilates twice a week, built up gradually.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-12",
+  "created": "2026-11-12-6",
+  "status": "approved",
+  "review_warnings": []
+}

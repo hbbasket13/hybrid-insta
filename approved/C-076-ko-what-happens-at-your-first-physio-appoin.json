@@ -1,0 +1,123 @@
+{
+  "id": "C-076-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What happens at your first physio appointment",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "첫 물리치료,<br><em>들어가면 뭘 할까?</em>",
+      "sub": "처음 예약한 거북씨의 하루",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "하나씩<br>보여줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "처음 예약한 물리치료,<br><em>괜히 긴장된다</em>.",
+      "char": "turtle_sad",
+      "bubble": "가자마자<br>꾹꾹 누르는 거 아냐..?",
+      "bubble_type": "thought",
+      "note": "(대기실에서 다리를 달달 떠는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "드디어 <b>하이브리드 피지오</b>,<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요, 하비예요!<br>편하게 앉아요."
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "오늘 뭘 하는지<br>하나도 몰라요.."
+      },
+      "note": "하비는 <mark>오늘의 순서</mark>부터 알려줬다."
+    },
+    {
+      "kind": "scene",
+      "title": "첫 진료는<br><em>이야기</em>부터!",
+      "char": "hybi_neutral",
+      "bubble": "언제부터,<br>어떻게 불편했는지<br>들려줄래요?",
+      "note": "(움직임 확인·검사도 하나하나 설명하며 진행)",
+      "h": 380
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>첫 진료 흐름</b>",
+      "sub": "보통 이 순서로 진행돼요!",
+      "sections": [
+        {
+          "heading": "1. 첫 진료 4단계",
+          "color": "yellow",
+          "lines": [
+            "① <em>이야기</em>: 증상·병력·목표 듣기.",
+            "② <em>움직임 검사</em>: 범위·근력·특수 검사.",
+            "③ <em>쉬운 설명</em> + 오늘의 치료 시작.",
+            "④ <em>집에서 할 운동</em>과 몇 주 계획 받기."
+          ]
+        },
+        {
+          "heading": "2. 언제든 멈춰도 괜찮아요!",
+          "color": "purple",
+          "lines": [
+            "검사 중 <em>불편하면</em> 언제든 말하기.",
+            "필요하면 <em>GP·영상 검사</em>로 연결해요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "언제 <em>평가받으면</em> 좋을까?",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우 평가를 추천해요",
+      "items": [
+        "2주 넘게 그대로인 통증",
+        "일상·운동이 불편하다",
+        "저림이나 힘 빠짐"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "첫 물리치료 예약, 대기실에서 괜히 긴장되는 거북씨. 들어가면 뭘 하는지 미리 알아볼까요?\n\n먼저 이야기부터 들어요. 증상, 시작된 계기, 병력, 다시 하고 싶은 활동까지. 그다음 움직임 범위와 근력, 특수 검사를 하나하나 설명하며 진행해요.\n\n쉬운 말로 지금 상황을 설명하고 오늘의 치료를 시작해요. 집에서 할 운동과 몇 주 계획을 받아 가요. 필요하면 GP나 영상 검사로 연결해요.\n\n편한 옷을 입고, 검사 결과지가 있다면 가져오세요. 하이브리드 피지오에서 하비가 기다려요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#물리치료",
+    "#첫진료",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#물리치료사",
+    "#재활",
+    "#직장인건강",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#firstappointment",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 첫 물리치료 진료에서 하는 일, 이야기부터 시작하는 진료 흐름, 4단계 순서, 평가를 추천하는 경우.",
+  "story": {
+    "headline": "첫 물리치료, 뭘 할까?",
+    "body": "이야기 → 검사 →<br>설명 → 홈 플랜!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-12",
+  "created": "2026-11-12-1",
+  "status": "approved",
+  "review_warnings": []
+}

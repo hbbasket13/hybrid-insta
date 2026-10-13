@@ -1,0 +1,131 @@
+{
+  "id": "C-082-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Self-massage with a ball: a 5-minute routine",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "One tennis ball,<br>a <em>5-minute routine</em>",
+      "sub": "Feet, calves, glutes, upper back. Done.",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "That ball's<br>all you need!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Massage booked for next<br>week. Back stiff <em>now</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Anything I can<br>do at home<br>in between..?",
+      "bubble_type": "thought",
+      "note": "(a tennis ball rolling round the desk drawer..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After his massage,<br>he asked <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "That tennis ball?<br>Put it to work!"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Harder is better,<br>right?"
+      },
+      "note": "Hybi said the trick is <mark>moderate pressure</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Aim for <em>4–6 out of 10</em>",
+      "fact": "Pressure should <em>ease</em> as you go · if it builds, back off",
+      "left": {
+        "label": "Moderate",
+        "char": "turtle_happy",
+        "caption": "Breathe out, go slow,<br><b>it softens</b>"
+      },
+      "right": {
+        "label": "Max pressure",
+        "char": "turtle_sad",
+        "caption": "More pain can make<br><em>muscles brace</em>"
+      },
+      "quip": "Slow rolls, slow breaths,<br>that's the idea!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>5-minute ball routine</b>",
+      "sub": "A ball and a wall. That's it!",
+      "sections": [
+        {
+          "heading": "1. Four spots in order",
+          "color": "yellow",
+          "lines": [
+            "① 1 min: standing, roll each sole <em>30 sec</em>.",
+            "② 1 min: sitting, calf on ball, point and flex.",
+            "③ 1 min: sit on one glute, small slow circles.",
+            "④ 2 min: wall, by shoulder blade, <em>off the spine</em>."
+          ]
+        },
+        {
+          "heading": "2. Skip or stop if…",
+          "color": "purple",
+          "lines": [
+            "Bruising, varicose veins or a fresh injury,",
+            "or <em>tingling starts to spread</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When the ball <em>isn't enough</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling that spreads",
+        "Patches of numbness",
+        "No change after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle's next massage is a week away, but his back is stiff today. All he needs is a tennis ball and a wall.\n\nOne minute on the soles of your feet, one on the calves, one on the glutes, then two minutes on the upper back against a wall, staying off the bony spine. Aim for pressure around 4–6 out of 10 that eases as you go, not builds.\n\nSelf-massage won't replace movement or strength work, but it can make both feel a bit easier between appointments. Skip bruises, varicose veins and fresh injuries, and stop if tingling spreads.\n\nOur remedial massage therapists at Hybrid Physio can show you where to focus. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#selfmassage",
+    "#tennisballmassage",
+    "#massagetherapy",
+    "#deskjob",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydney",
+    "#officeworker",
+    "#upperback",
+    "#hybridphysiotherapy",
+    "#recovery"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle showing a five-minute tennis ball self-massage routine, the right pressure, areas to skip and signs worth getting checked.",
+  "story": {
+    "headline": "Five minutes, one tennis ball",
+    "body": "Feet, calves, glutes, upper back. Pressure around 4–6 out of 10.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-14",
+  "created": "2026-11-14-4",
+  "status": "approved",
+  "review_warnings": []
+}
