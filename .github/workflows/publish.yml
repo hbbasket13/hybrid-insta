@@ -1,12 +1,16 @@
 name: Daily publish
 
-# 3 runs a day, Monday–Saturday Sydney time. Each run publishes ONE due post from approved/.
-# UTC times → Sydney: AEDT (Oct–Apr) 07:30 / 12:00 / 18:30, AEST (Apr–Oct) 06:30 / 11:00 / 17:30.
+# 6 runs a day, Monday–Saturday Sydney time. Each run publishes ONE due post from approved/
+# (3 Korean + 3 English comic posts a day, alternating).
+# UTC → Sydney AEDT (Oct–Apr): 07:30 / 09:30 / 12:00 / 15:00 / 18:30 / 20:30. AEST (Apr–Oct): one hour earlier.
 on:
   schedule:
-    - cron: "30 20 * * 0-5"   # Sydney Mon–Sat morning
-    - cron: "0 1 * * 1-6"     # Sydney Mon–Sat midday
-    - cron: "30 7 * * 1-6"    # Sydney Mon–Sat evening
+    - cron: "30 20 * * 0-5"   # 07:30
+    - cron: "30 22 * * 0-5"   # 09:30
+    - cron: "0 1 * * 1-6"     # 12:00
+    - cron: "0 4 * * 1-6"     # 15:00
+    - cron: "30 7 * * 1-6"    # 18:30
+    - cron: "30 9 * * 1-6"    # 20:30
   workflow_dispatch:
     inputs:
       dry_run:
