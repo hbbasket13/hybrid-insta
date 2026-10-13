@@ -1,0 +1,131 @@
+{
+  "id": "C-046-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hip osteoarthritis: exercise comes first",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "아침마다 뻣뻣한<br><em>코코의 고관절</em>",
+      "sub": "고관절 관절염, 운동이 먼저예요",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이 움직여<br>볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "양말 신을 때마다<br>코코는 <em>한숨</em>부터.",
+      "char": "koala_tired",
+      "bubble": "관절염이래..<br>이제 쉬어야겠지?",
+      "bubble_type": "thought",
+      "note": "(낮잠 시간만 점점 길어지는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "딸의 권유로 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "코코, 반가워요!<br>사진보다 움직임을 봐요"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "관절염인데<br>운동해도 돼요?"
+      },
+      "note": "하비는 <mark>운동이 1순위 관리</mark>라고 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "가이드라인은 <em>운동이 먼저!</em>",
+      "fact": "현재 가이드라인: 엑스레이와 상관없이 <em>운동·교육 먼저</em>",
+      "left": {
+        "label": "꾸준히 움직이기",
+        "char": "koala_happy",
+        "caption": "힘이 붙으면<br><b>일상이 편해질 수 있어요</b>"
+      },
+      "right": {
+        "label": "아플까봐 쉬기",
+        "char": "koala_tired",
+        "caption": "덜 움직이면<br><em>더 뻣뻣해지기 쉬워요</em>"
+      },
+      "quip": "조금 뻐근해도<br>다음 날 괜찮으면 OK!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>고관절 4종 세트</b>",
+      "sub": "주 2~3번, 천천히 늘려요!",
+      "sections": [
+        {
+          "heading": "1. 집에서 4가지",
+          "color": "yellow",
+          "lines": [
+            "① 의자에서 앉았다 일어나기 <em>10회</em>",
+            "② 브릿지 <em>10회</em>",
+            "③ 옆으로 누워 다리 들기 <em>한쪽 10회</em>",
+            "④ 낮은 계단 오르기 <em>10회</em>"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP에게 바로",
+          "color": "purple",
+          "lines": [
+            "넘어진 뒤 <em>체중을 못 싣거나</em>,",
+            "관절이 <em>뜨겁게 붓고 열</em>이 나면 바로 진료!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>바로 확인해요</em>",
+      "bubble": "사람마다 원인이 달라요.<br><b>정확한 평가</b>부터!",
+      "heading": "이런 신호는 GP 먼저",
+      "items": [
+        "넘어진 뒤 아프다",
+        "디딜 수가 없다",
+        "밤마다 통증이 커진다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "양말 신을 때마다 한숨부터 나오는 코코. 고관절 관절염은 나이가 들면서 흔히 생기는 변화예요. 사타구니 쪽 뻐근함, 앉았다 일어날 때 뻣뻣함으로 나타나곤 해요.\n\n좋은 소식은, 현재 가이드라인이 엑스레이 결과와 상관없이 운동과 교육을 먼저 권한다는 거예요. 앉았다 일어나기, 브릿지, 계단 오르기를 주 2~3번부터. 걷기·자전거·수영도 대부분 괜찮고, 뻐근함이 다음 날까지 남으면 거리나 속도를 줄여요.\n\n넘어진 뒤 디딜 수 없거나, 관절이 뜨겁게 부으면 GP에게 바로 확인받아요. 시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#고관절",
+    "#고관절관절염",
+    "#관절염운동",
+    "#시니어운동",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#hiparthritis",
+    "#osteoarthritis"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 고관절 관절염과 운동 가이드라인, 꾸준히 움직이기와 쉬기 비교, 고관절 4종 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "고관절 관절염, 운동이 먼저",
+    "body": "앉았다 일어나기 10회,<br>주 2~3번부터!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-31",
+  "created": "2026-10-31-1",
+  "status": "approved",
+  "review_warnings": []
+}

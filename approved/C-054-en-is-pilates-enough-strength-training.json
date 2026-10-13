@@ -1,0 +1,131 @@
+{
+  "id": "C-054-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Is Pilates enough strength training?",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Is Pilates <em>enough</em><br>strength training?",
+      "sub": "Momo asks, Hybi answers",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "It depends on<br>your goal!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A year of reformer twice<br>a week. Now a <em>new question</em>.",
+      "char": "cat_tired",
+      "bubble": "Do I need<br>the gym too..?",
+      "bubble_type": "thought",
+      "note": "(a friend swears it's weights or nothing..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Momo popped into<br><b>Hybrid Physio</b> to ask.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Great question!<br>What's the goal?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Feel stronger.<br>Strong bones too!"
+      },
+      "note": "Hybi started with <mark>what Pilates does well</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Pilates <em>does</em> build strength",
+      "fact": "Springs only go so heavy, and <em>lots of it</em> is lying down",
+      "left": {
+        "label": "Keep progressing",
+        "char": "cat_happy",
+        "caption": "More springs and reps,<br>plus <b>standing work</b>"
+      },
+      "right": {
+        "label": "Same every week",
+        "char": "cat_tired",
+        "caption": "Same load for months<br>means <em>less challenge</em>"
+      },
+      "quip": "For bone health, adding<br>weights can help!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>weekly strength mix</b>",
+      "sub": "Pilates plus weights!",
+      "sections": [
+        {
+          "heading": "1. Try this mix",
+          "color": "yellow",
+          "lines": [
+            "① Pilates <em>1–2 times a week</em> for control.",
+            "② Weights <em>once a week</em> for heavier load.",
+            "③ Make the last few reps <em>genuinely hard</em>.",
+            "④ Add single-leg and standing exercises."
+          ]
+        },
+        {
+          "heading": "2. Ease off and get advice if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>sharp pain</em> during a session,",
+            "or soreness that <em>worsens</em> the next day."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check in <em>before you start</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment first if",
+      "items": [
+        "You have joint pain",
+        "Bone density worries you",
+        "You've had a recent injury"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo has done reformer twice a week for a year and is wondering if she still needs the gym.\n\nPilates does build strength, especially around the trunk, hips and shoulders. But springs only go so heavy and a lot of it happens lying down, so whether it's enough depends on your goal. For moving well and managing a back niggle, it may be plenty. For heavier lifting or bone health, adding a weights session can help.\n\nAsk your instructor to keep progressing springs, reps and standing work. Our Pilates team at Hybrid Physio can help you plan the mix. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#strengthtraining",
+    "#bonehealth",
+    "#weights",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#fitnessgoals",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains to Momo the cat what Pilates builds, where it may fall short, a weekly Pilates and weights mix and when to get assessed first.",
+  "story": {
+    "headline": "Is Pilates enough?",
+    "body": "Want bone strength?<br>Add one weights session.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-03",
+  "created": "2026-11-03-6",
+  "status": "approved",
+  "review_warnings": []
+}

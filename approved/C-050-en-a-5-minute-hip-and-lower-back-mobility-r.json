@@ -1,0 +1,131 @@
+{
+  "id": "C-050-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "A 5-minute hip and lower back mobility routine",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's back<br><em>creaks every morning</em>",
+      "sub": "A 5-minute hip and lower back routine, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Five minutes<br>is plenty!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Putting on socks<br>shouldn't be <em>this hard</em>.",
+      "char": "turtle_sad",
+      "bubble": "Why are my hips<br>and back so stuck..?",
+      "bubble_type": "thought",
+      "note": "(another full day of sitting yesterday..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "At lunch, he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Welcome in!<br>Where's the stiffness?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Hips and lower back..<br>but stretching is a chore."
+      },
+      "note": "Hybi pulled out a routine that takes <mark>just five minutes</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Stiff body? <em>Movement</em> helps!",
+      "fact": "Long sitting keeps the <em>front of the hips</em> folded for hours",
+      "left": {
+        "label": "Move daily",
+        "char": "turtle_happy",
+        "caption": "A few minutes every day<br>can feel <b>much looser</b>"
+      },
+      "right": {
+        "label": "Sit all day",
+        "char": "turtle_sad",
+        "caption": "One position for hours<br>tends to <em>stiffen things up</em>"
+      },
+      "quip": "Five minutes a day<br>can make a difference!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>5-minute hip reset</b>",
+      "sub": "All you need is a mat!",
+      "sections": [
+        {
+          "heading": "1. Slow and comfortable",
+          "color": "yellow",
+          "lines": [
+            "① Cat-cow: about <em>8 slow rounds</em> (1 min).",
+            "② On your back, rock knees side to side (1 min).",
+            "③ Half-kneeling hip stretch, <em>30 sec each side</em>.",
+            "④ Glute stretch 30 sec a side; child's pose 1 min."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "<em>Tingling or weakness</em> runs down a leg —",
+            "stop and get it checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to <em>get it checked</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get assessed if you notice",
+      "items": [
+        "Leg tingling or weakness",
+        "Numbness around the groin",
+        "Pain after a fall"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle freezes halfway through putting his socks on. Long days of sitting can leave the hips and lower back feeling stuck.\n\nHybi's 5-minute routine: about eight slow rounds of cat-cow, a minute of knee rocks on your back, a half-kneeling hip stretch for 30 seconds each side, a glute stretch, then a minute in child's pose. Move gently and within comfort.\n\nPain spreading down a leg with pins and needles or weakness, numbness around the groin, bladder or bowel changes, fever, or pain after a fall are worth an assessment first. Our chiropractors at Hybrid Physio can tailor a routine to how you move. Book online via the link in bio 🧘\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#hipmobility",
+    "#lowerbackpain",
+    "#backstiffness",
+    "#mobilityroutine",
+    "#sydneycbd",
+    "#sydneychiro",
+    "#deskjob",
+    "#morningstretch",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi shows Mr Turtle a 5-minute hip and lower back mobility routine and the signs worth getting checked.",
+  "story": {
+    "headline": "Stiff back every morning?",
+    "body": "Five moves, five minutes,<br>one mat.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-02",
+  "created": "2026-11-02-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-056-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Meniscus tear: why surgery often isn't step one",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Meniscus tear?<br><em>Rehab often comes first</em>",
+      "sub": "Toto's knee story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "One step<br>at a time!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A twist at footy, then<br>a scan report: <em>'tear'</em>.",
+      "char": "rabbit_tired",
+      "bubble": "A tear..<br>is that it for me..?",
+      "bubble_type": "thought",
+      "note": "(just reading the report made his heart sink..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto met <b>Hybi</b><br>in Chatswood.",
+      "left": {
+        "char": "hybi_neutral",
+        "bubble": "Let's go through<br>that scan in plain<br>English!"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Does a tear mean<br>straight to surgery?"
+      },
+      "note": "Hybi started with <mark>what the meniscus actually does</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A tear <em>isn't the end</em> of the road",
+      "fact": "Tears are common with age, often in <em>knees that don't hurt</em>",
+      "left": {
+        "label": "Stepwise rehab",
+        "char": "rabbit_happy",
+        "caption": "Swelling, then movement,<br>then <b>strength</b>"
+      },
+      "right": {
+        "label": "Avoid using it",
+        "char": "rabbit_tired",
+        "caption": "Resting it completely<br>can <em>weaken the thigh</em>"
+      },
+      "quip": "For many knees, rehab<br>is the first step!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first steps for a sore knee</b>",
+      "sub": "Go gently, within comfort!",
+      "sections": [
+        {
+          "heading": "1. Early on",
+          "color": "yellow",
+          "lines": [
+            "① Settle swelling; get it <em>straightening, bending</em>.",
+            "② Seated knee straightens, <em>10 reps, 3 times a day</em>.",
+            "③ Walk comfortably, then build thigh strength.",
+            "④ Painless clicking on its own is common."
+          ]
+        },
+        {
+          "heading": "2. Get it checked promptly if…",
+          "color": "purple",
+          "lines": [
+            "The knee <em>locks and won't straighten</em>,",
+            "or it <em>keeps giving way</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to get <em>a prompt assessment</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked promptly if",
+      "items": [
+        "It locks, won't straighten",
+        "It keeps giving way",
+        "It can't take your weight"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto twisted his knee at footy, and the scan report says \"tear\". Scary word, but it doesn't automatically mean surgery.\n\nThe menisci are cartilage pads that help your knee share load. Tears can come from a twisting injury, and they're also common with age, often in knees that don't hurt. Current guidelines suggest that for many tears, especially age-related ones, exercise-based rehab is a sensible first step: settle swelling, get movement back, then build strength and balance.\n\nA knee that locks, keeps giving way or can't take weight is worth a prompt assessment, and your GP or physio can talk through options. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#meniscus",
+    "#meniscustear",
+    "#kneepain",
+    "#kneerehab",
+    "#sportsinjury",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains a meniscus tear to Toto the rabbit, why rehab is often the first step, early knee exercises and signs that need a prompt assessment.",
+  "story": {
+    "headline": "'Tear' on your knee scan?",
+    "body": "For many knees,<br>rehab is step one.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-04",
+  "created": "2026-11-04-2",
+  "status": "approved",
+  "review_warnings": []
+}

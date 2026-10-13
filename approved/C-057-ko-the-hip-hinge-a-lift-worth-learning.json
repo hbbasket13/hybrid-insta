@@ -1,0 +1,131 @@
+{
+  "id": "C-057-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "The hip hinge: a lift worth learning",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "루루가 배워야 할<br><em>들기 동작</em> 하나",
+      "sub": "엉덩이로 접는 '힙 힌지' 배우기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "빗자루 하나면<br>돼요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루에 상자 <em>수십 개</em>,<br>퇴근하면 허리가 묵직.",
+      "char": "kanga_tired",
+      "bubble": "오늘도 허리로만<br>든 것 같은데..?",
+      "bubble_type": "thought",
+      "note": "(현장에서도, 헬스장에서도 들고 또 들고..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "현장 퇴근길,<br><b>하비</b>와 마주친 루루.",
+      "left": {
+        "char": "hybi_neutral",
+        "bubble": "루루, 들 때<br>어디부터 굽혀요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "음.. 그냥<br>허리부터요?"
+      },
+      "note": "하비는 <mark>엉덩이로 접는 법</mark>을 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "허리 말고 <em>엉덩이</em>부터 접기",
+      "fact": "힙 힌지는 하중을 <em>엉덩이·다리</em>와 나눠 들게 해줘요",
+      "left": {
+        "label": "엉덩이 뒤로",
+        "char": "kanga_happy",
+        "caption": "엉덩이를 뒤로 빼면<br>다리가 <b>같이 일해요</b>"
+      },
+      "right": {
+        "label": "허리만 숙이기",
+        "char": "kanga_tired",
+        "caption": "허리로만 숙이면<br><em>쉽게 지칠 수 있어요</em>"
+      },
+      "quip": "허리가 조금 둥근 건<br>괜찮아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>빗자루 힌지 연습</b>",
+      "sub": "집에서 5분이면 OK!",
+      "sections": [
+        {
+          "heading": "1. 빗자루 드릴",
+          "color": "yellow",
+          "lines": [
+            "① 빗자루를 등에 대요: <em>머리·등·꼬리뼈</em>.",
+            "② 무릎은 살짝, <em>엉덩이를 뒤로</em> 빼요.",
+            "③ 허벅지 뒤가 당기면 <em>멈추고</em> 일어서요.",
+            "④ <em>10회 × 2세트</em>, 세 점이 닿는지 확인!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인",
+          "color": "purple",
+          "lines": [
+            "숙일 때 <em>다리 통증·저림·힘 빠짐</em>이",
+            "생기면 연습 말고 평가 먼저!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "들기가 <em>계속 힘들다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 평가 먼저",
+      "items": [
+        "다리로 내려가는 통증",
+        "다리 저림이나 힘 빠짐",
+        "가벼운 물건도 못 든다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "하루에 상자 수십 개를 드는 루루. 퇴근하면 허리가 묵직해요.\n\n힙 힌지는 허리보다 엉덩이를 뒤로 빼며 접는 동작이에요. 상자, 여행 가방, 빨래 바구니를 들 때 쓰는 패턴이죠. 빗자루를 머리·등·꼬리뼈에 닿게 대고, 무릎은 살짝 굽힌 채 엉덩이를 뒤로. 허벅지 뒤가 당기면 멈추고 엉덩이를 조이며 일어서요. 허리가 조금 둥글어지는 건 괜찮아요. 하중을 엉덩이와 다리가 나눠 드는 게 포인트예요.\n\n숙일 때 다리 통증, 저림, 힘 빠짐이 있으면 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 들기 동작을 함께 봐요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#힙힌지",
+    "#허리통증",
+    "#들기자세",
+    "#현장직",
+    "#시드니카이로프랙틱",
+    "#시드니cbd",
+    "#카이로프랙터",
+    "#하이브리드피지오",
+    "#hiphinge",
+    "#chiropractic",
+    "#liftingtechnique",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 허리 대신 엉덩이로 접는 힙 힌지, 빗자루 연습법, 평가가 먼저 필요한 신호.",
+  "story": {
+    "headline": "들 때 허리부터 굽히나요?",
+    "body": "빗자루 대고 엉덩이 뒤로,<br>10회 × 2세트!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-04",
+  "created": "2026-11-04-3",
+  "status": "approved",
+  "review_warnings": []
+}

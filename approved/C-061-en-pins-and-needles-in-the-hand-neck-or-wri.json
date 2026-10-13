@@ -1,0 +1,131 @@
+{
+  "id": "C-061-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pins and needles in the hand: neck or wrist?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's <em>tingly hand</em>:<br>neck or wrist?",
+      "sub": "Where it tingles offers useful clues",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Let's look at<br>the clues!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "3am, and Mr Turtle wakes<br>with <em>pins and needles</em>.",
+      "char": "turtle_sad",
+      "bubble": "Shaking it out<br>helps a bit..<br>but why..?",
+      "bubble_type": "thought",
+      "note": "(all day long, his wrist bent over the mouse..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Next day, he met<br><b>Hybi</b> in the Sydney CBD.",
+      "left": {
+        "char": "hybi_small",
+        "bubble": "Which fingers<br>are tingling?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Thumb and index..<br>and my neck's stiff."
+      },
+      "note": "Hybi said <mark>where it tingles</mark> is the first clue."
+    },
+    {
+      "kind": "compare",
+      "title": "Same tingle, <em>different source</em>",
+      "fact": "Hand tingling can start at the <em>wrist</em> or near the <em>neck</em>",
+      "left": {
+        "label": "Wrist breaks",
+        "char": "turtle_happy",
+        "caption": "Straight wrist, regular<br>breaks <b>can calm it</b>"
+      },
+      "right": {
+        "label": "Bent for hours",
+        "char": "turtle_sad",
+        "caption": "Long stretches with a bent<br>wrist <em>can stir it up</em>"
+      },
+      "quip": "Keep your neck moving<br>comfortably too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>tingle clue notes</b>",
+      "sub": "Notice where it tingles first!",
+      "sections": [
+        {
+          "heading": "1. Clues and daily tips",
+          "color": "yellow",
+          "lines": [
+            "① Thumb to middle finger, worse at night → <em>wrist</em>.",
+            "② Neck pain, travels down the arm → <em>neck</em>.",
+            "③ Wrist straight; rest your hands <em>every 30 min</em>.",
+            "④ Turn your neck slowly within comfort."
+          ]
+        },
+        {
+          "heading": "2. Get prompt medical review if…",
+          "color": "purple",
+          "lines": [
+            "Hand <em>weakness</em>, dropping things, both hands,",
+            "or changes to walking or balance."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Tingling <em>won't settle</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked promptly if",
+      "items": [
+        "Weakness in the hand",
+        "Tingling in both hands",
+        "Walking or balance changes"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle woke at 3am with pins and needles in his hand. Neck or wrist?\n\nBoth are common sources. Tingling in the thumb and first two fingers that wakes you at night and eases when you shake your hand often points towards the wrist. Neck pain, or symptoms that travel down the arm and change with head movement, can suggest the neck. Sometimes it's a bit of both.\n\nIn the meantime, avoid long periods with your wrist bent, take regular breaks and keep your neck moving comfortably. Hand weakness, dropping things, symptoms in both hands or changes to walking or balance need prompt medical review.\n\nOur Sydney CBD and Chatswood physios can test where it's coming from. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#pinsandneedles",
+    "#carpaltunnel",
+    "#neckpain",
+    "#handpain",
+    "#wristpain",
+    "#deskjob",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi helps Mr Turtle work out whether hand pins and needles may come from the neck or wrist, with daily tips and signs that need prompt review.",
+  "story": {
+    "headline": "Tingly hand: neck or wrist?",
+    "body": "Where it tingles<br>is the first clue.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-06",
+  "created": "2026-11-06-4",
+  "status": "approved",
+  "review_warnings": []
+}

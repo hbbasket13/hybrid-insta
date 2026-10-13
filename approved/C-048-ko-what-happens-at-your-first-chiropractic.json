@@ -1,0 +1,131 @@
+{
+  "id": "C-048-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "What happens at your first chiropractic visit",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "카이로 첫 방문,<br><em>뭘 하게 될까?</em>",
+      "sub": "거북씨의 첫 카이로프랙틱 진료",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "하나씩<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "예약은 했는데,<br>거북씨는 <em>살짝 긴장</em>.",
+      "char": "turtle_sad",
+      "bubble": "가자마자 '뚝뚝'<br>하는 건 아니겠지..?",
+      "bubble_type": "thought",
+      "note": "(검사지랑 MRI 결과는 어디 뒀더라..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "진료 날, <b>하이브리드 피지오</b>에서<br>하비가 반겨줬다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>오늘은 대화부터예요"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "교정은요?<br>바로 하는 건가요?"
+      },
+      "note": "하비는 <mark>동의 없이는 아무것도</mark> 안 한다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "궁금하면 <em>언제든 물어봐요</em>",
+      "fact": "교정은 <em>여러 도구 중 하나</em> · 항상 먼저 동의를 구해요",
+      "left": {
+        "label": "질문하기",
+        "char": "turtle_happy",
+        "caption": "부드러운 방법도<br><b>요청할 수 있어요</b>"
+      },
+      "right": {
+        "label": "꾹 참기",
+        "char": "turtle_sad",
+        "caption": "궁금한 걸 참으면<br><em>긴장만 커져요</em>"
+      },
+      "quip": "원하지 않으면<br>언제든 '아니요' OK!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>첫 방문 순서</b>",
+      "sub": "이렇게 진행돼요!",
+      "sections": [
+        {
+          "heading": "1. 진료 3단계",
+          "color": "yellow",
+          "lines": [
+            "① <b>대화</b>: 증상·병력·목표 이야기",
+            "② <b>평가</b>: 움직임·관절 범위·근력 확인",
+            "③ <b>계획</b>: 설명 듣고 함께 정하기",
+            "④ 최근 검사 결과지가 있으면 챙기기"
+          ]
+        },
+        {
+          "heading": "2. 진료 후 이럴 땐 연락하기",
+          "color": "purple",
+          "lines": [
+            "하루 이틀 <em>살짝 뻐근한 건</em> 흔해요.",
+            "<em>점점 심해지거나 이상하면</em> 클리닉에 연락!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>꼭 말해주세요</em>",
+      "bubble": "사람마다 원인이 달라요.<br><b>정확한 평가</b>부터!",
+      "heading": "진료 전에 알려주세요",
+      "items": [
+        "팔다리가 저리다",
+        "최근 크게 다쳤다",
+        "이유 없이 살이 빠졌다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "카이로프랙틱 진료가 처음이라 살짝 긴장한 거북씨. 첫 방문은 이렇게 진행돼요.\n\n먼저 증상, 시작된 계기, 병력과 목표에 대해 충분히 이야기해요. 그다음 움직임, 관절 범위, 근력을 보고 필요하면 반사와 감각도 확인해요. 최근 검사 결과지가 있으면 챙겨 오세요.\n\n설명을 듣고 함께 계획을 정해요. 교정은 여러 도구 중 하나일 뿐이고, 항상 먼저 동의를 구해요. 부드러운 방법을 원하면 말해주세요. 하루 이틀 살짝 뻐근한 건 흔해요.\n\n하이브리드 피지오 카이로프랙터가 물리치료·필라테스 팀과 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#카이로프랙틱",
+    "#카이로",
+    "#첫방문",
+    "#허리통증",
+    "#목통증",
+    "#시드니카이로",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#chiropractic",
+    "#chiropractor",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 첫 카이로프랙틱 진료에서 하는 일, 질문하기와 참기 비교, 첫 방문 3단계, 미리 알려야 할 신호.",
+  "story": {
+    "headline": "카이로 첫 방문, 뭘 할까?",
+    "body": "대화 → 평가 → 계획,<br>교정은 동의 후에!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-31",
+  "created": "2026-10-31-3",
+  "status": "approved",
+  "review_warnings": []
+}

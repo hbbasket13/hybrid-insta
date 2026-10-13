@@ -1,0 +1,131 @@
+{
+  "id": "C-059-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Buttock pain and the piriformis: what's really going on",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's <em>pain in the backside</em>:<br>who's the culprit?",
+      "sub": "Before you blame the piriformis",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's gather<br>the clues!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A long weekend drive,<br>and the buttock <em>throbs</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Must be a tight<br>piriformis..<br>I'll just stretch it!",
+      "bubble_type": "thought",
+      "note": "(with a chunky wallet in the back pocket, too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto told <b>Hybi</b> all about<br>the sore backside.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Has the stretching<br>helped much?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Feels good for a bit,<br>then it's back.."
+      },
+      "note": "Hybi said there might be <mark>more than one suspect</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Stretching alone <em>may not cut it</em>",
+      "fact": "Buttock pain can also come from <em>tendons, the hip or the back</em>",
+      "left": {
+        "label": "Build strength",
+        "char": "rabbit_happy",
+        "caption": "Bridges and step-ups<br><b>load the glutes up</b>"
+      },
+      "right": {
+        "label": "Stretch only",
+        "char": "rabbit_tired",
+        "caption": "Feels nice for a while,<br>then <em>tight again</em>"
+      },
+      "quip": "Strengthening matters<br>as much as stretching!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>backside-friendly routine</b>",
+      "sub": "Start with how you sit!",
+      "sections": [
+        {
+          "heading": "1. Try this from today",
+          "color": "yellow",
+          "lines": [
+            "① Stand up <em>every 30 min</em>; take the wallet out.",
+            "② Bridges, <em>10 reps × 2 sets</em>, once a day.",
+            "③ Side-lying leg lifts, <em>10 each side</em>.",
+            "④ Trim hills and stairs for 2 weeks, then rebuild."
+          ]
+        },
+        {
+          "heading": "2. Get checked promptly if…",
+          "color": "purple",
+          "lines": [
+            "Pain spreads <em>below the knee</em>, or you get numbness,",
+            "weakness or bladder or bowel changes."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "<em>Find the source</em> first",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain below the knee",
+        "Pins and needles or numbness",
+        "Bladder or bowel changes"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "After a long weekend drive, Toto's buttock is throbbing. Is the piriformis really the culprit?\n\nThe piriformis is a small muscle deep in the buttock that often gets the blame, but the gluteal tendons, the hip joint and the lower back can all refer pain there too. That's why stretching alone often only helps for a while.\n\nWhat usually helps: standing up every 30 minutes, taking the wallet out of your back pocket, easing off hills and stairs for a bit, and building strength with bridges and side-lying leg lifts. Pain below the knee, numbness, weakness or bladder and bowel changes are worth getting checked promptly.\n\nOur Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#buttockpain",
+    "#piriformis",
+    "#gluteus",
+    "#hippain",
+    "#running",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi helps Toto the rabbit look past the piriformis for buttock pain, with sitting habits, a glute strength routine and signs worth getting checked.",
+  "story": {
+    "headline": "Blaming the piriformis?",
+    "body": "Stand every 30 min,<br>bridges 10 × 2.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-05",
+  "created": "2026-11-05-2",
+  "status": "approved",
+  "review_warnings": []
+}

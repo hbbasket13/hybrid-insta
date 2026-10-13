@@ -1,0 +1,131 @@
+{
+  "id": "C-060-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "What 'neutral spine' means (and doesn't)",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "'Neutral spine' doesn't<br>mean <em>freeze</em>",
+      "sub": "What your Pilates cue really means, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "It's a comfy zone,<br>not a pose!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "'Find your neutral spine.'<br>Momo: <em>frozen solid</em>.",
+      "char": "cat_tired",
+      "bubble": "Am I supposed to<br>hold my breath too..?",
+      "bubble_type": "thought",
+      "note": "(tummy clenched, totally stuck..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After class,<br>Momo asked <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_neutral",
+        "bubble": "Momo, were you<br>holding your breath?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "In neutral, am I<br>never meant to move?"
+      },
+      "note": "Hybi said neutral is <mark>a range, not a single point</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Neutral is a <em>zone</em>, not a dot",
+      "fact": "Neutral = <em>natural curves</em> present, not flat or exaggerated",
+      "left": {
+        "label": "Light effort",
+        "char": "cat_happy",
+        "caption": "Easy breathing and gentle<br>effort feel <b>smoother</b>"
+      },
+      "right": {
+        "label": "Brace hard",
+        "char": "cat_tired",
+        "caption": "Clenching and breath-holding<br>can <em>make you stiff</em>"
+      },
+      "quip": "Spines are made to<br>bend and twist!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>30-second neutral finder</b>",
+      "sub": "Try it lying on a mat!",
+      "sections": [
+        {
+          "heading": "1. Pelvic see-saw",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, knees bent, feet flat.",
+            "② Gently <em>flatten</em> your lower back, then <em>arch</em> it.",
+            "③ Settle <em>about halfway</em>, a small gap underneath.",
+            "④ Breathe easy and repeat <em>5 times</em>."
+          ]
+        },
+        {
+          "heading": "2. Get advice if…",
+          "color": "purple",
+          "lines": [
+            "<em>Back pain</em> builds when lying down,",
+            "or your leg tingles — stop and get it checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Hard to <em>find on your own</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get assessed if you notice",
+      "items": [
+        "Ongoing back pain",
+        "Tingling down a leg",
+        "Discomfort in most moves"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "\"Find your neutral spine.\" Momo heard the cue and froze, breath held, tummy clenched.\n\nNeutral simply means your spine's natural curves are there, not flattened or exaggerated. It's a comfortable zone rather than one exact spot, and it looks a little different on everyone. In Pilates it's a reference point for control, not a rule that your back should never bend. Healthy spines round, arch and twist all day, and many exercises move out of neutral on purpose.\n\nTry the pelvic see-saw lying down, settle about halfway, and keep effort light and breathing easy. Our clinical Pilates team at Hybrid Physio starts with an assessment. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#neutralspine",
+    "#pilatesbeginner",
+    "#reformerpilates",
+    "#core",
+    "#mattpilates",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains to Momo the cat what neutral spine means and doesn't, with a 30-second pelvic see-saw and when to get advice.",
+  "story": {
+    "headline": "Frozen in 'neutral'?",
+    "body": "It's a comfy zone,<br>not a pose to hold.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-05",
+  "created": "2026-11-05-6",
+  "status": "approved",
+  "review_warnings": []
+}

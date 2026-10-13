@@ -1,0 +1,131 @@
+{
+  "id": "C-048-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "What happens at your first chiropractic visit",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's first<br><em>chiropractic visit</em>",
+      "sub": "What happens, step by step",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "I'll walk you<br>through it!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Appointment booked, and<br>he's <em>a little nervous</em>.",
+      "char": "turtle_sad",
+      "bubble": "They won't just<br>crack my back<br>straight away..?",
+      "bubble_type": "thought",
+      "note": "(and where did he put that scan report..?)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On the day, Hybi greeted<br>him at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome! Today<br>starts with a chat."
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "And the adjustment?<br>Straight away?"
+      },
+      "note": "Hybi said <mark>nothing happens without your consent</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Questions are<br><em>always welcome</em>",
+      "fact": "Adjustments are <em>one tool, not the whole plan</em> · consent first",
+      "left": {
+        "label": "Ask away",
+        "char": "turtle_happy",
+        "caption": "You can ask for<br><b>gentler techniques</b>"
+      },
+      "right": {
+        "label": "Stay quiet",
+        "char": "turtle_sad",
+        "caption": "Holding questions in<br><em>just adds nerves</em>"
+      },
+      "quip": "You can say no<br>to anything, anytime!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first-visit guide</b>",
+      "sub": "Here's how it goes!",
+      "sections": [
+        {
+          "heading": "1. Three steps",
+          "color": "yellow",
+          "lines": [
+            "① <b>Chat</b>: symptoms, health history, goals.",
+            "② <b>Assessment</b>: movement, joint range, strength.",
+            "③ <b>Plan</b>: a clear explanation you agree on.",
+            "④ Bring any recent scans or reports."
+          ]
+        },
+        {
+          "heading": "2. Afterwards, contact the clinic if…",
+          "color": "purple",
+          "lines": [
+            "Mild stiffness for a day or so is <em>common</em>.",
+            "If it <em>keeps getting worse</em>, call the clinic."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Please tell us<br><em>about these</em>",
+      "bubble": "Causes vary a lot.<br><b>Assessment</b> first!",
+      "heading": "Mention it before you start",
+      "items": [
+        "Tingling in arms or legs",
+        "A recent big injury",
+        "Unexplained weight loss"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Never seen a chiropractor before? Mr Turtle was a little nervous too. Here's what actually happens.\n\nYour first visit starts with a proper chat about your symptoms, health history and goals. Then comes an assessment of how you move, joint range and strength, and sometimes reflexes and sensation. Bring any recent scans or reports.\n\nYou'll get a clear explanation and a suggested plan, which may include hands-on care, soft tissue work and exercises. Adjustments are one tool, not the whole plan, and your chiropractor will always ask for consent first. Prefer gentler techniques? Just say so. Mild stiffness for a day or so afterwards is common.\n\nOur chiropractors at Hybrid Physio work alongside our physios and Pilates team. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#firstvisit",
+    "#backpain",
+    "#neckpain",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#alliedhealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining what happens at a first chiropractic visit, asking questions versus staying quiet, the three steps and signs to mention before starting.",
+  "story": {
+    "headline": "Your first chiro visit",
+    "body": "Chat, assessment, plan.<br>Consent always first.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-31",
+  "created": "2026-10-31-6",
+  "status": "approved",
+  "review_warnings": []
+}

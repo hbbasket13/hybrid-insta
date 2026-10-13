@@ -1,0 +1,131 @@
+{
+  "id": "C-054-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Is Pilates enough strength training?",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "필라테스만으로<br><em>근력 운동</em> 충분할까?",
+      "sub": "모모의 궁금증, 하비가 답해요",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "목표에 따라<br>달라요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주 2회 리포머 1년 차,<br>모모의 <em>새 고민</em>.",
+      "char": "cat_tired",
+      "bubble": "헬스장도<br>다녀야 하나..?",
+      "bubble_type": "thought",
+      "note": "(친구는 무조건 웨이트래..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>로<br>물어보러 갔다.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "좋은 질문이에요!<br>목표가 뭐예요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "튼튼해지고 싶어요.<br>뼈도요!"
+      },
+      "note": "하비는 <mark>필라테스가 잘하는 것</mark>부터 정리했다."
+    },
+    {
+      "kind": "compare",
+      "title": "필라테스도 <em>근력 운동</em>이에요",
+      "fact": "스프링 저항엔 <em>한계</em>가 있고, 누워서 하는 동작이 많아요",
+      "left": {
+        "label": "꾸준히 올리기",
+        "char": "cat_happy",
+        "caption": "스프링·횟수를 늘리고<br><b>서서 하는 동작</b>도 더해요"
+      },
+      "right": {
+        "label": "늘 같은 강도",
+        "char": "cat_tired",
+        "caption": "계속 같은 무게면<br><em>자극이 줄어들어요</em>"
+      },
+      "quip": "뼈 건강엔 무게 운동을<br>더하면 좋아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>일주일 운동 짜기</b>",
+      "sub": "필라테스 + 웨이트 조합!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 섞어봐요",
+          "color": "yellow",
+          "lines": [
+            "① 필라테스 <em>주 1~2회</em>: 조절력·유연성.",
+            "② 웨이트 <em>주 1회</em>: 더 무거운 무게.",
+            "③ 마지막 몇 개는 <em>진짜 힘들게</em>!",
+            "④ 한 발 서기·서서 하는 동작 추가."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 쉬고 상담받기",
+          "color": "purple",
+          "lines": [
+            "운동 중 <em>날카로운 통증</em>이나",
+            "다음 날까지 <em>심해지는 통증</em>은 확인받아요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "시작 전에 <em>확인</em>해요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 분은 평가 먼저 받아요",
+      "items": [
+        "관절 통증이 있다",
+        "골밀도가 걱정된다",
+        "최근에 다친 적이 있다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "주 2회 리포머 1년 차 모모. 헬스장도 다녀야 할지 고민이에요.\n\n필라테스도 근력 운동이에요. 몸통, 엉덩이, 어깨 근육을 꽤 단련해줘요. 다만 스프링 저항엔 한계가 있고 누워서 하는 동작이 많아서, '충분한지'는 목표에 따라 달라요. 잘 움직이고 허리를 관리하는 게 목표라면 충분할 수 있고, 더 무겁게 들거나 뼈 건강이 목표라면 웨이트를 더하면 좋아요.\n\n강사에게 스프링·횟수를 꾸준히 올려달라고 해봐요. 하이브리드 피지오 필라테스 팀이 일주일 조합을 함께 짜드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#근력운동",
+    "#리포머필라테스",
+    "#웨이트트레이닝",
+    "#채스우드",
+    "#시드니필라테스",
+    "#하이브리드피지오",
+    "#골밀도",
+    "#clinicalpilates",
+    "#strengthtraining",
+    "#pilates",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 필라테스가 키워주는 근력과 한계, 필라테스와 웨이트를 섞는 일주일 계획, 평가가 먼저 필요한 경우.",
+  "story": {
+    "headline": "필라테스만으로 충분할까?",
+    "body": "목표가 뼈 건강이라면<br>웨이트 주 1회 추가!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-03",
+  "created": "2026-11-03-3",
+  "status": "approved",
+  "review_warnings": []
+}

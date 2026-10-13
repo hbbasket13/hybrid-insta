@@ -1,0 +1,131 @@
+{
+  "id": "C-057-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "The hip hinge: a lift worth learning",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "One lift Lulu<br>should <em>really learn</em>",
+      "sub": "The hip hinge, step by step, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "All you need<br>is a broomstick!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Dozens of boxes</em> a day.<br>By knock-off, a heavy back.",
+      "char": "kanga_tired",
+      "bubble": "Did I lift all<br>of that with my<br>back again..?",
+      "bubble_type": "thought",
+      "note": "(lifting on site, then lifting again at the gym..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Heading home from site,<br>Lulu ran into <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_neutral",
+        "bubble": "Lulu, when you lift,<br>where do you bend?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Umm.. from<br>my back?"
+      },
+      "note": "Hybi decided to teach her <mark>how to bend from the hips</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Fold at the <em>hips</em>, not the back",
+      "fact": "A hinge shares the load with your <em>hips and legs</em>",
+      "left": {
+        "label": "Hips back",
+        "char": "kanga_happy",
+        "caption": "Push the hips back and<br>your legs <b>pitch in</b>"
+      },
+      "right": {
+        "label": "Back only",
+        "char": "kanga_tired",
+        "caption": "Bending only at the back<br>can <em>tire it out</em>"
+      },
+      "quip": "A little rounding<br>is totally normal!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>broomstick hinge drill</b>",
+      "sub": "Five minutes at home!",
+      "sections": [
+        {
+          "heading": "1. The dowel drill",
+          "color": "yellow",
+          "lines": [
+            "① Stick on your back: <em>head, upper back, tailbone</em>.",
+            "② Soften the knees, push the <em>hips back</em>.",
+            "③ Feel the hamstrings stretch, <em>stop</em>, squeeze up.",
+            "④ <em>10 reps × 2 sets</em>, all three points touching."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Bending brings <em>leg pain, numbness or weakness</em> —",
+            "get assessed before more drills."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Lifting <em>still a struggle</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if",
+      "items": [
+        "Back pain with leg pain",
+        "Leg numbness or weakness",
+        "Can't lift everyday things"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu lifts dozens of boxes on site every day, and her back feels heavy by knock-off.\n\nThe hip hinge means bending mainly from the hips, pushing them back while your chest tips forward. Try the broomstick drill: stick along your spine touching head, upper back and tailbone, soften the knees, push the hips back. When you feel the hamstrings stretch, squeeze your glutes and stand tall. Your back is allowed to round a little; the hinge just shares the load with your hips and legs.\n\nIf bending brings leg pain, numbness or weakness, get assessed first. Our chiropractors at Hybrid Physio can look at how you lift. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hiphinge",
+    "#chiropractic",
+    "#chiropractor",
+    "#lifting",
+    "#liftingtechnique",
+    "#backpain",
+    "#tradie",
+    "#sydneycbd",
+    "#sydneychiro",
+    "#movementcoaching",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi teaches Lulu the kangaroo the hip hinge with a broomstick drill and lists signs worth an assessment.",
+  "story": {
+    "headline": "Lifting from your back?",
+    "body": "Broomstick drill:<br>hips back, 10 reps × 2.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-04",
+  "created": "2026-11-04-6",
+  "status": "approved",
+  "review_warnings": []
+}

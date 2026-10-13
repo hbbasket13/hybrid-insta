@@ -1,0 +1,131 @@
+{
+  "id": "C-043-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Is deep squatting bad for your knees?",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Are deep squats<br><em>bad for Lulu's knees</em>?",
+      "sub": "Old gym rules, meet current research",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Let's check<br>the research!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Kneels all day on site,<br>but only <em>half squats</em> at the gym.",
+      "char": "kanga_tired",
+      "bubble": "Knees must never<br>pass the toes..<br>right?",
+      "bubble_type": "thought",
+      "note": "(a gym rule he has followed for 15 years..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After work, he dropped into<br><b>Hybrid Physio</b> to see Hybi.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Lulu, walking downstairs,<br>where are your knees?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Uh.. in front of<br>my toes?!"
+      },
+      "note": "Hybi laughed: <mark>knees pass the toes all day long</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Knees past toes is<br><em>a normal movement</em>!",
+      "fact": "Deep squats share the load between <em>knees and hips</em>",
+      "left": {
+        "label": "Build depth",
+        "char": "kanga_happy",
+        "caption": "Lower the box<br><b>a little at a time</b>"
+      },
+      "right": {
+        "label": "Half reps only",
+        "char": "kanga_tired",
+        "caption": "Avoiding depth can<br><em>shrink your range</em>"
+      },
+      "quip": "Depth is a skill<br>you can build!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>box squat plan</b>",
+      "sub": "Start at a height that feels OK!",
+      "sections": [
+        {
+          "heading": "1. Building depth",
+          "color": "yellow",
+          "lines": [
+            "① Sit to a box at a comfortable height, stand up.",
+            "② <em>10 reps × 3 sets</em>, 2–3 times a week.",
+            "③ Lower the box a little <em>every 1–2 weeks</em>.",
+            "④ Stiff ankles? A small wedge under the heels."
+          ]
+        },
+        {
+          "heading": "2. Ease the load if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>builds rep to rep</em>, or",
+            "the knee is <em>puffier</em> the next morning."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get these<br><em>checked first</em>",
+      "bubble": "Causes vary a lot.<br><b>Assessment</b> first!",
+      "heading": "Worth assessing if you notice",
+      "items": [
+        "Knee locks or catches",
+        "Knee gives way",
+        "Swelling after a twist"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Is deep squatting bad for your knees? For most people, no.\n\nLulu has followed the 'never let your knees pass your toes' rule for 15 years, yet his knees pass his toes every time he walks downstairs. Current research suggests healthy knees generally handle deep squats well when load is built up gradually.\n\nStart with a box at a comfortable height and lower it a little every week or two. Mild discomfort that settles within a day is usually fine; pain that builds rep to rep, or a puffy knee the next morning, means ease off.\n\nLocking, giving way or swelling after a twist is worth assessing. Our Sydney CBD and Chatswood physios can help you progress. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#squat",
+    "#deepsquat",
+    "#kneehealth",
+    "#strengthtraining",
+    "#gym",
+    "#tradie",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why knees passing the toes is normal, building depth versus half reps, a box squat plan and signs worth getting checked.",
+  "story": {
+    "headline": "Deep squats and your knees",
+    "body": "Start with a box,<br>lower it every 1–2 weeks.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-30",
+  "created": "2026-10-30-4",
+  "status": "approved",
+  "review_warnings": []
+}

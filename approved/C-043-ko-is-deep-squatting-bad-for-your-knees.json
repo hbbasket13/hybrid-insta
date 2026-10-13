@@ -1,0 +1,131 @@
+{
+  "id": "C-043-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Is deep squatting bad for your knees?",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "깊은 스쾃,<br><em>무릎에 나쁠까?</em>",
+      "sub": "루루의 오래된 헬스장 규칙 점검",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "요즘 연구를<br>볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "현장에선 쪼그려 앉고,<br>헬스장에선 <em>반만</em> 앉는 루루.",
+      "char": "kanga_tired",
+      "bubble": "무릎이 발끝 넘으면<br>안 된다던데..?",
+      "bubble_type": "thought",
+      "note": "(15년째 지켜온 헬스장 규칙..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "퇴근 후 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "루루, 계단 내려갈 때<br>무릎 어디 있어요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "어.. 발끝보다<br>앞에 있네요?!"
+      },
+      "note": "하비는 <mark>일상에서도 늘 넘는다</mark>고 웃었다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>발끝 넘는 무릎</em>,<br>자연스러운 움직임!",
+      "fact": "깊이 앉으면 부하가 <em>무릎과 엉덩이</em>로 나뉘어요",
+      "left": {
+        "label": "점점 깊게",
+        "char": "kanga_happy",
+        "caption": "박스 높이를<br><b>조금씩 낮춰요</b>"
+      },
+      "right": {
+        "label": "평생 반만",
+        "char": "kanga_tired",
+        "caption": "깊이를 피하기만 하면<br><em>범위가 줄 수 있어요</em>"
+      },
+      "quip": "깊이도 연습하면<br>늘어나는 기술!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>박스 스쾃 플랜</b>",
+      "sub": "편한 높이부터!",
+      "sections": [
+        {
+          "heading": "1. 깊이 늘리기",
+          "color": "yellow",
+          "lines": [
+            "① 편한 높이 박스에 앉았다 일어나기",
+            "② <em>10회 × 3세트</em>, 주 2~3번",
+            "③ <em>1~2주마다</em> 박스를 조금 낮추기",
+            "④ 발목이 뻣뻣하면 뒤꿈치에 작은 받침"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 무게 줄이기",
+          "color": "purple",
+          "lines": [
+            "횟수마다 <em>통증이 커지거나</em>,",
+            "다음 날 무릎이 <em>부었다면</em> 강도 낮추기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>참지 말고 확인!</em>",
+      "bubble": "사람마다 원인이 달라요.<br><b>정확한 평가</b>부터!",
+      "heading": "이런 땐 평가받아 보세요",
+      "items": [
+        "무릎이 걸려 안 움직인다",
+        "무릎이 빠지는 느낌",
+        "비튼 뒤 부었다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "'무릎이 발끝을 넘으면 안 된다'는 규칙을 15년째 지켜온 루루. 그런데 계단을 내려가거나 의자에 앉을 때도 무릎은 늘 발끝을 넘어요.\n\n요즘 연구에 따르면 건강한 무릎은 부하를 천천히 늘리면 깊은 스쾃도 대부분 잘 견뎌요.\n\n편한 높이의 박스부터 시작해서 1~2주마다 조금씩 낮춰봐요. 하루 안에 가라앉는 가벼운 불편감은 보통 괜찮지만, 횟수마다 통증이 커지거나 다음 날 붓는다면 강도를 낮춰요.\n\n무릎이 걸리거나 빠지는 느낌, 비튼 뒤 붓기는 평가가 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🏋️\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#스쾃",
+    "#깊은스쾃",
+    "#무릎건강",
+    "#헬스",
+    "#하체운동",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#squat",
+    "#kneehealth"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 무릎이 발끝을 넘는 것에 대한 오해, 점점 깊게와 평생 반만 비교, 박스 스쾃 플랜, 확인이 필요한 신호.",
+  "story": {
+    "headline": "깊은 스쾃, 무릎에 나쁠까?",
+    "body": "편한 높이 박스부터,<br>1~2주마다 조금씩!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-30",
+  "created": "2026-10-30-1",
+  "status": "approved",
+  "review_warnings": []
+}

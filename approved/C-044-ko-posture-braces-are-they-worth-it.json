@@ -1,0 +1,131 @@
+{
+  "id": "C-044-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Posture braces: are they worth it?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "거북씨, 자세 교정 밴드<br><em>사야 할까?</em>",
+      "sub": "밴드가 해주는 것과 못 하는 것",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "장바구니 담기 전에<br>잠깐만요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "밤 11시, 쇼핑앱 속<br><em>자세 교정 밴드</em>.",
+      "char": "turtle_monitor",
+      "bubble": "이거 하루 종일 차면<br>자세 펴지겠지..?",
+      "bubble_type": "thought",
+      "note": "(결제 버튼 위에서 고민 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "다음 날 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "밴드요? 알림용으론<br>쓸 만해요!"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "알림용이요?<br>펴주는 거 아니고요?"
+      },
+      "note": "하비는 <mark>가만히 있는 게 진짜 문제</mark>라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "자세 하나보다 <em>자주 바꾸기!</em>",
+      "fact": "밴드는 구부정할 때 <em>당겨서 알려주는</em> 역할이에요",
+      "left": {
+        "label": "자주 움직이기",
+        "char": "turtle_happy2",
+        "caption": "일어나고 뻗고 돌리고<br><b>등 근육도 키워요</b>"
+      },
+      "right": {
+        "label": "하루 종일 착용",
+        "char": "turtle_sad",
+        "caption": "근육은 쉬고<br><em>또 한 자세에 갇혀요</em>"
+      },
+      "quip": "밴드는 잠깐,<br>움직임은 자주!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>등 힘 키우기</b>",
+      "sub": "주 2번부터 시작해요!",
+      "sections": [
+        {
+          "heading": "1. 책상 옆 3종 운동",
+          "color": "yellow",
+          "lines": [
+            "① 고무밴드 양옆으로 벌리기 <em>12회 × 2</em>",
+            "② 수건 말아 등 대고 <em>뒤로 젖히기 8회</em>",
+            "③ <em>45분마다</em> 일어나 팔 위로 뻗기",
+            "④ 물 뜨러 갈 때 몸통 좌우로 돌리기"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "<em>팔 통증·저림·힘 빠짐</em>이 있거나,",
+            "<em>밤에 깨게 하는 통증</em>이 계속되면 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "새 도구보다 <em>평가 먼저!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 확인",
+      "items": [
+        "팔이 저리거나 힘이 없다",
+        "밤에 통증으로 깬다",
+        "체중이 이유 없이 준다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "밤 11시, 쇼핑앱에서 자세 교정 밴드를 고민하던 거북씨. 밴드는 대부분 구부정해질 때 당겨서 '알려주는' 역할이에요. 습관을 만들 때 잠깐씩 쓰기엔 괜찮지만, 차고 있는 동안 근육을 키워주진 않아요.\n\n하루 종일 차면 한 자세를 또 다른 한 자세로 바꾸는 셈이 될 수 있어요. 보통 더 도움이 되는 건 자세를 자주 바꾸기, 그리고 주 2번 짧은 등 근력 운동이에요. 카이로프랙틱 진료는 그 옆에서 함께하는 도구 중 하나예요.\n\n팔 저림, 힘 빠짐, 밤에 깨는 통증은 확인이 먼저예요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#자세교정",
+    "#자세교정밴드",
+    "#거북목",
+    "#라운드숄더",
+    "#직장인건강",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#chiropractic",
+    "#posture",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 자세 교정 밴드가 하는 역할, 자주 움직이기와 하루 종일 착용 비교, 등 힘 키우기 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "자세 교정 밴드, 살까 말까?",
+    "body": "밴드는 잠깐,<br>움직임은 자주!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-30",
+  "created": "2026-10-30-5",
+  "status": "approved",
+  "review_warnings": []
+}

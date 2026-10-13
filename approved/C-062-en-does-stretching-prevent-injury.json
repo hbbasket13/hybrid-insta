@@ -1,0 +1,131 @@
+{
+  "id": "C-062-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Does stretching prevent injury?",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Will stretching stop<br>you <em>getting injured</em>?",
+      "sub": "What Toto didn't know about injury prevention",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "The research is<br>more mixed!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Ten minutes of toe touches<br><em>before every run</em>.",
+      "char": "rabbit_tired",
+      "bubble": "If I skip this,<br>I'll get hurt..!",
+      "bubble_type": "thought",
+      "note": "(and still, a hamstring twinge last month..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Trackside, Toto<br>met <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Stretching again,<br>Toto?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "This stops injuries,<br>doesn't it?"
+      },
+      "note": "Hybi shared <mark>what the research actually says</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Move, don't just <em>hold</em>",
+      "fact": "Research leans towards <em>strength work and moving warm-ups</em>",
+      "left": {
+        "label": "Moving warm-up",
+        "char": "rabbit_happy",
+        "caption": "Leg swings and lunges<br><b>get you ready</b>"
+      },
+      "right": {
+        "label": "Long holds only",
+        "char": "rabbit_tired",
+        "caption": "Static stretches alone<br><em>may not prepare you</em>"
+      },
+      "quip": "Love stretching? Keep it,<br>just add strength!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>5-minute moving warm-up</b>",
+      "sub": "Before your next run!",
+      "sections": [
+        {
+          "heading": "1. Warm up on the move",
+          "color": "yellow",
+          "lines": [
+            "① Leg swings, <em>10 each leg</em>.",
+            "② Walking lunges, <em>10 steps</em>.",
+            "③ Easy skips, <em>20 m × 2</em>.",
+            "④ 2–3 short runs, a little faster each time."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "You feel a <em>pop</em> or sudden pain mid-session,",
+            "or notice swelling or bruising."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Same spot <em>keeps tightening</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if",
+      "items": [
+        "A pop mid-session",
+        "Swelling or bruising",
+        "Same spot keeps tightening"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto does ten minutes of toe touches before every run. Does it actually stop injuries?\n\nResearch suggests static stretching on its own doesn't reliably lower injury risk for most sports. It isn't harmful and plenty of people enjoy it, but it's not the shield many of us grew up believing in. What has stronger support is strength training and a moving warm-up: leg swings, lunges, skips and some gradually faster efforts for five to ten minutes. If your sport needs big range, like dance or martial arts, flexibility work still has a clear place.\n\nA pop, swelling, bruising or tightness that keeps returning is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio 🏃\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#stretching",
+    "#injuryprevention",
+    "#warmup",
+    "#running",
+    "#strengthtraining",
+    "#sportsphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains to Toto the rabbit what research says about stretching and injury, with a 5-minute moving warm-up and signs worth an assessment.",
+  "story": {
+    "headline": "Does stretching prevent injury?",
+    "body": "Strength work plus<br>a 5-minute moving warm-up.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-06",
+  "created": "2026-11-06-2",
+  "status": "approved",
+  "review_warnings": []
+}

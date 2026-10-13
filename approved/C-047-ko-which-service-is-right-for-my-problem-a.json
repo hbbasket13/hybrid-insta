@@ -1,0 +1,131 @@
+{
+  "id": "C-047-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Which service is right for my problem? A simple guide",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "물리치료? 카이로?<br><em>어디부터 갈까?</em>",
+      "sub": "거북씨를 위한 간단 가이드",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "어렵지 않아요,<br>같이 골라봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "검색창에 <em>'허리 아플 때'</em>,<br>탭만 20개째.",
+      "char": "turtle_monitor",
+      "bubble": "물리치료, 카이로,<br>필라테스, 마사지..?",
+      "bubble_type": "thought",
+      "note": "(고르다 지쳐서 오늘도 그냥 참는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "용기 내서 <b>하이브리드 피지오</b>에<br>문의했더니 하비가!",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "고민 많았죠?<br>큰 결정 아니에요!"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "그래도 잘못 고르면<br>어떡해요..?"
+      },
+      "note": "하비는 <mark>한 지붕 아래서 서로 연결</mark>된다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "정답보다 <em>시작이 중요해요</em>",
+      "fact": "많은 문제는 <em>여러 방법</em>으로 도움받을 수 있어요",
+      "left": {
+        "label": "일단 문의하기",
+        "char": "turtle_happy",
+        "caption": "상황을 설명하면<br><b>시작점을 안내해요</b>"
+      },
+      "right": {
+        "label": "검색만 계속",
+        "char": "turtle_sad",
+        "caption": "탭만 늘고<br><em>몸은 그대로예요</em>"
+      },
+      "quip": "완벽한 선택보다<br>첫걸음이 중요해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 선택 가이드</b>",
+      "sub": "이렇게 골라봐요!",
+      "sections": [
+        {
+          "heading": "1. 이럴 땐 여기부터",
+          "color": "yellow",
+          "lines": [
+            "① <b>물리치료</b>: 부상·통증·재활·운동 계획",
+            "② <b>카이로프랙틱</b>: 허리·목·관절 문제",
+            "③ <b>클리니컬 필라테스</b>: 근력·조절력 키우기",
+            "④ <b>리메디얼 마사지</b>: 뭉친 근육 풀기"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP·응급 진료 먼저",
+          "color": "purple",
+          "lines": [
+            "<em>다친 직후</em> 심하게 아프거나 붓거나,",
+            "<em>열·저림·힘 빠짐</em>이 함께 있으면 바로 진료!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "<em>평가</em>가 먼저인 경우",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이럴 땐 먼저 확인받기",
+      "items": [
+        "다친 뒤 붓고 아프다",
+        "저림이나 힘 빠짐",
+        "2주 넘게 그대로다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "'허리 아플 때' 검색만 하다 탭이 20개가 된 거북씨. 물리치료, 카이로, 필라테스, 마사지 중 어디로 가야 할지 고민이라면, 사실 큰 결정이 아니에요.\n\n물리치료는 부상·통증·재활과 운동 계획, 카이로프랙틱은 허리·목·관절 문제, 클리니컬 필라테스는 근력과 조절력, 리메디얼 마사지는 뭉친 근육을 푸는 데 도움이 되고 운동과 함께할 때 좋아요.\n\n하이브리드 피지오는 한 곳에서 서로 연결해 드려요. 상황을 간단히 알려주시면 시작점을 안내해요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#물리치료",
+    "#카이로프랙틱",
+    "#클리니컬필라테스",
+    "#리메디얼마사지",
+    "#허리통증",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#chiropractic",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 물리치료·카이로·필라테스·마사지 중 어디서 시작할지, 문의하기와 검색만 하기 비교, 1분 선택 가이드, 확인이 필요한 신호.",
+  "story": {
+    "headline": "어디서부터 시작할지 고민이라면?",
+    "body": "큰 결정 아니에요,<br>상황만 알려주세요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-31",
+  "created": "2026-10-31-5",
+  "status": "approved",
+  "review_warnings": []
+}

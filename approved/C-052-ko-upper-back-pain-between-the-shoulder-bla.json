@@ -1,0 +1,131 @@
+{
+  "id": "C-052-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Upper back pain between the shoulder blades",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "거북씨 <em>날개뼈 사이</em>가<br>찌릿한 이유",
+      "sub": "하비와 알아보는 등 윗부분 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "등도<br>움직여야 해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "운전 1시간, 모니터 8시간.<br>등은 <em>꼼짝 안 함</em>.",
+      "char": "turtle_monitor",
+      "bubble": "날개뼈 사이가<br>타는 것 같아..",
+      "bubble_type": "thought",
+      "note": "(스트레스 받으면 숨도 얕아지고..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "퇴근길, 시드니 CBD에서<br><b>하비</b>를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어깨 사이가<br>뻐근하죠?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네, 누가 꾹<br>누르는 것 같아요.."
+      },
+      "note": "하비는 <mark>한 자세로 오래</mark> 있는 게 문제라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "등은 <em>돌리라고</em> 있어요!",
+      "fact": "등 윗부분은 원래 <em>회전</em>을 많이 하는 부위예요",
+      "left": {
+        "label": "자주 돌리기",
+        "char": "turtle_happy",
+        "caption": "틈틈이 돌려주면<br>등이 <b>한결 편해질 수 있어요</b>"
+      },
+      "right": {
+        "label": "꼼짝 않기",
+        "char": "turtle_sad",
+        "caption": "몇 시간 그대로면<br><em>뻐근함이 쌓이기 쉬워요</em>"
+      },
+      "quip": "의자에서도<br>충분히 할 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 등 풀기</b>",
+      "sub": "의자에 앉은 채로!",
+      "sections": [
+        {
+          "heading": "1. 팔짱 끼고 몸통 돌리기",
+          "color": "yellow",
+          "lines": [
+            "① 바르게 앉아 팔짱을 껴요.",
+            "② 천천히 <em>좌우로 10번씩</em> 돌려요.",
+            "③ 의자 등받이에 기대 <em>등 펴기 5회</em>.",
+            "④ 하루 <em>3~4번</em> 반복해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 000!",
+          "color": "purple",
+          "lines": [
+            "<em>가슴 통증·숨참·식은땀</em>이 같이 오면",
+            "운동 말고 바로 000에 전화해요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 땐 <em>확인</em>받아요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "GP 상담이 필요한 신호",
+      "items": [
+        "밤에도 계속 아프다",
+        "이유 없이 살이 빠진다",
+        "몸이 전반적으로 안 좋다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "날개뼈 사이가 타는 듯 뻐근한 거북씨. 운전, 모니터, 휴대폰으로 등이 한 자세에 오래 머물고, 스트레스와 얕은 호흡도 한몫할 수 있어요.\n\n하비의 1분 등 풀기: 바르게 앉아 팔짱 끼고 좌우로 10번씩 천천히 돌리기, 의자 등받이에 기대 등 펴기 5회, 하루 3~4번. 퇴근 후엔 둥글게 만 수건 위에 몇 분 누워 있어도 좋아요.\n\n가슴 통증, 숨참, 식은땀이 같이 오면 바로 000에 전화해요. 밤 통증이나 이유 없는 체중 감소는 GP 상담을. 하이브리드 피지오 카이로프랙터가 함께 살펴봐요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#등통증",
+    "#날개뼈통증",
+    "#직장인",
+    "#시드니카이로프랙틱",
+    "#시드니cbd",
+    "#카이로프랙터",
+    "#하이브리드피지오",
+    "#자세교정",
+    "#chiropractic",
+    "#upperbackpain",
+    "#deskjob",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 날개뼈 사이가 뻐근한 이유, 앉아서 하는 1분 몸통 돌리기, 바로 도움을 받아야 하는 신호.",
+  "story": {
+    "headline": "날개뼈 사이가 뻐근하다면?",
+    "body": "팔짱 끼고 좌우 10번,<br>하루 3~4번!",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-03",
+  "created": "2026-11-03-1",
+  "status": "approved",
+  "review_warnings": []
+}

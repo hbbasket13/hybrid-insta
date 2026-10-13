@@ -1,0 +1,131 @@
+{
+  "id": "C-059-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Buttock pain and the piriformis: what's really going on",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "토토의 <em>엉덩이 통증</em>,<br>범인은 누구?",
+      "sub": "이상근만 탓하기 전에 알아둘 것",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "단서를<br>모아봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말 장거리 운전 후,<br>엉덩이가 <em>욱신욱신</em>.",
+      "char": "rabbit_tired",
+      "bubble": "이상근이<br>뭉쳤나 봐..<br>스트레칭만 하자!",
+      "bubble_type": "thought",
+      "note": "(뒷주머니엔 두툼한 지갑까지..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "토토, 하비에게<br><b>엉덩이 고민</b>을 털어놨다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "스트레칭은<br>좀 도움 됐어요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "잠깐 시원한데<br>또 아파요.."
+      },
+      "note": "하비는 <mark>범인이 여럿일 수 있다</mark>고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "스트레칭만으론 <em>부족할 수도</em>",
+      "fact": "엉덩이 통증은 <em>힘줄·고관절·허리</em>에서도 올 수 있어요",
+      "left": {
+        "label": "근력도 함께",
+        "char": "rabbit_happy",
+        "caption": "브릿지·스텝업으로<br>엉덩이 <b>힘을 키워요</b>"
+      },
+      "right": {
+        "label": "스트레칭만",
+        "char": "rabbit_tired",
+        "caption": "잠깐 시원해도<br><em>금방 다시 뻐근해요</em>"
+      },
+      "quip": "늘리는 것만큼<br>키우는 것도 중요해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>엉덩이 관리 루틴</b>",
+      "sub": "앉는 습관부터 바꿔요!",
+      "sections": [
+        {
+          "heading": "1. 오늘부터 해봐요",
+          "color": "yellow",
+          "lines": [
+            "① <em>30분마다</em> 일어나기, 지갑은 빼고 앉기.",
+            "② 브릿지 <em>10회 × 2세트</em>, 하루 1번.",
+            "③ 옆으로 누워 다리 들기 <em>10회씩</em>.",
+            "④ 언덕·계단은 2주쯤 줄이고 천천히 다시."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 빨리 확인",
+          "color": "purple",
+          "lines": [
+            "<em>무릎 아래로</em> 퍼지는 통증, 저림,",
+            "힘 빠짐, 소변·대변 변화는 바로 평가받아요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "<em>원인 찾기</em>가 먼저예요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "무릎 아래까지 아프다",
+        "저리거나 힘이 빠진다",
+        "소변·대변이 달라졌다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "주말 장거리 운전 후 엉덩이가 욱신거리는 토토. 이상근만 범인일까요?\n\n이상근은 엉덩이 깊은 곳의 작은 근육이라 자주 탓을 받지만, 엉덩이 힘줄, 고관절, 허리에서도 통증이 올 수 있어요. 그래서 스트레칭만으로는 잠깐만 시원할 때가 많아요.\n\n도움이 되는 것: 30분마다 일어나기, 뒷주머니 지갑 빼기, 언덕·계단 잠시 줄이기, 브릿지와 옆으로 누워 다리 들기로 근력 키우기. 무릎 아래로 퍼지는 통증, 저림, 힘 빠짐, 소변·대변 변화는 빨리 확인받아요. 채스우드·시드니 CBD 물리치료사가 함께 찾아봐요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#엉덩이통증",
+    "#이상근",
+    "#둔근강화",
+    "#러너",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#buttockpain",
+    "#piriformis",
+    "#physiotherapy",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 엉덩이 통증의 여러 원인, 스트레칭과 근력 운동 비교, 앉는 습관과 엉덩이 근력 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "엉덩이 통증, 이상근 탓?",
+    "body": "30분마다 일어나고<br>브릿지 10회 × 2세트!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-05",
+  "created": "2026-11-05-5",
+  "status": "approved",
+  "review_warnings": []
+}

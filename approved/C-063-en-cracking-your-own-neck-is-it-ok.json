@@ -1,0 +1,131 @@
+{
+  "id": "C-063-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Cracking your own neck: is it OK?",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "How many times a day<br>does Mr Turtle <em>crack his neck</em>?",
+      "sub": "Is self-cracking okay? Hybi explains",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "The why matters<br>more than the pop!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Crack, crack</em>, even<br>in the middle of meetings.",
+      "char": "turtle_monitor",
+      "bubble": "Feels good for<br>a second.. then<br>stiff again.",
+      "bubble_type": "thought",
+      "note": "(probably ten times a day by now..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "In Chatswood, Mr Turtle<br>ran into <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_neutral",
+        "bubble": "Was that pop<br>your neck?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. is that<br>actually okay?"
+      },
+      "note": "Hybi started with <mark>what that sound really is</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "That pop? Usually <em>gas bubbles</em>",
+      "fact": "It's <em>gas in the joint fluid</em>, not bones going back into place",
+      "left": {
+        "label": "Move it slowly",
+        "char": "turtle_happy2",
+        "caption": "Slow turns and tilts<br>feel <b>much gentler</b>"
+      },
+      "right": {
+        "label": "Forceful twists",
+        "char": "turtle_sad",
+        "caption": "Cranking it by hand<br>gives <em>brief relief</em>"
+      },
+      "quip": "The urge to crack often<br>means: move more!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute swap for cracking</b>",
+      "sub": "Try it once an hour!",
+      "sections": [
+        {
+          "heading": "1. Gentle neck movers",
+          "color": "yellow",
+          "lines": [
+            "① Chin tucks, <em>5 sec × 5</em>.",
+            "② Shoulder rolls backwards, <em>10 times</em>.",
+            "③ Slow head turns side to side, <em>5 each way</em>.",
+            "④ No pushing or twisting your head by hand."
+          ]
+        },
+        {
+          "heading": "2. Call 000 if…",
+          "color": "purple",
+          "lines": [
+            "Neck movement brings <em>dizziness, a severe headache</em>,",
+            "vision or speech changes, or numbness."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to <em>get help quickly</em>",
+      "bubble": "Urgent? Call 000.<br>Otherwise, <b>assessment</b> first!",
+      "heading": "After neck movement, watch for",
+      "items": [
+        "Dizziness or blurred vision",
+        "Sudden severe headache",
+        "Slurred speech or numbness"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle cracks his neck even in the middle of meetings. Is that okay?\n\nThe pop is usually gas bubbles changing in the joint fluid, not bones moving back into place, and occasional self-cracking rarely causes problems. The catch is the relief tends to be brief, because the stiffness often comes from long hours in one position or tight surrounding muscles.\n\nInstead of forceful twists, try chin tucks, shoulder rolls and slow head turns once an hour. If neck movement ever brings dizziness, a severe headache, vision or speech changes or numbness, call 000.\n\nOur chiropractors at Hybrid Physio can help you work out why your neck keeps feeling stuck. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#neckpain",
+    "#neckcrack",
+    "#stiffneck",
+    "#deskjob",
+    "#officeworker",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydneychiro",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains to Mr Turtle what the neck pop is, a 1-minute alternative to self-cracking and signs that need urgent help.",
+  "story": {
+    "headline": "Always cracking your neck?",
+    "body": "Swap it for one minute<br>of gentle movement.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-11-06",
+  "created": "2026-11-06-6",
+  "status": "approved",
+  "review_warnings": []
+}

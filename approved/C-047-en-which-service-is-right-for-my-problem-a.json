@@ -1,0 +1,131 @@
+{
+  "id": "C-047-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Which service is right for my problem? A simple guide",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Physio? Chiro? Pilates?<br><em>Where to start?</em>",
+      "sub": "A simple guide for Mr Turtle",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "It's easier than<br>you think!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Searching <em>\"sore back help\"</em>,<br>tab number twenty.",
+      "char": "turtle_monitor",
+      "bubble": "Physio, chiro,<br>Pilates, massage..?",
+      "bubble_type": "thought",
+      "note": "(too tired to choose, so he just puts up with it..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "He finally messaged<br><b>Hybrid Physio</b> and met Hybi.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Lots of options, huh?<br>It's not a big decision!"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "But what if I<br>pick the wrong one..?"
+      },
+      "note": "Hybi said <mark>everyone works under one roof</mark> and refers."
+    },
+    {
+      "kind": "compare",
+      "title": "Starting matters more<br>than <em>the perfect pick</em>",
+      "fact": "Many problems can be helped by <em>more than one approach</em>",
+      "left": {
+        "label": "Just ask us",
+        "char": "turtle_happy",
+        "caption": "Describe what's going on,<br>we'll <b>suggest a start</b>"
+      },
+      "right": {
+        "label": "Keep searching",
+        "char": "turtle_sad",
+        "caption": "More tabs open,<br><em>nothing changes</em>"
+      },
+      "quip": "A first step beats<br>the perfect choice!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute service guide</b>",
+      "sub": "A quick way to choose!",
+      "sections": [
+        {
+          "heading": "1. Where to start",
+          "color": "yellow",
+          "lines": [
+            "① <b>Physio</b>: injuries, pain, rehab, exercise plans.",
+            "② <b>Chiro</b>: back, neck and joint problems.",
+            "③ <b>Clinical Pilates</b>: build strength and control.",
+            "④ <b>Remedial massage</b>: ease tight, tender muscles."
+          ]
+        },
+        {
+          "heading": "2. See a GP or urgent care first if…",
+          "color": "purple",
+          "lines": [
+            "You've <em>just been injured</em> with lots of swelling,",
+            "or have <em>fever, numbness or weakness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When an <em>assessment</em><br>comes first",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling after an injury",
+        "Numbness or weakness",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Physio, chiro, clinical Pilates or remedial massage? Mr Turtle had twenty tabs open before he asked. Honestly, it's not a big decision.\n\nPhysiotherapy suits injuries, pain and rehab, with an assessment and an exercise plan. Chiropractic care focuses on back, neck and joint problems, with adjustments as one tool among several. Clinical Pilates is supervised, tailored exercise for strength and control. Remedial massage eases tight, tender muscles and works well alongside exercise rather than replacing it.\n\nMany problems respond to more than one approach, and because our team works under one roof, we refer between each other. Send us a quick description and we'll suggest a sensible place to start. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#alliedhealth",
+    "#backpain",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining how to choose between physio, chiro, clinical Pilates and remedial massage, asking versus endless searching, a 1-minute guide and signs worth getting checked.",
+  "story": {
+    "headline": "Physio, chiro or Pilates?",
+    "body": "Not a big decision.<br>Tell us what's going on.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-31",
+  "created": "2026-10-31-2",
+  "status": "approved",
+  "review_warnings": []
+}

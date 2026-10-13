@@ -1,0 +1,131 @@
+{
+  "id": "C-058-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Hurt doesn't always mean harm",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "아프면 <em>다친 걸까?</em><br>꼭 그렇진 않아요",
+      "sub": "코코와 하비의 통증 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "통증은<br>보호 신호예요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "재활 운동 중 <em>찌릿</em>,<br>그대로 멈춘 코코.",
+      "char": "koala_tired",
+      "bubble": "또 망가진 건<br>아니겠지..?",
+      "bubble_type": "thought",
+      "note": "(겁나서 일주일째 운동을 쉬는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "코코, 채스우드에서<br><b>하비</b>를 다시 만났다.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "코코, 운동은<br>잘 되고 있어요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "아프면 무조건<br>쉬어야 하잖아요?"
+      },
+      "note": "하비는 <mark>통증은 손상 측정기가 아니라고</mark> 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "통증 볼륨 ≠ <em>손상 크기</em>",
+      "fact": "잠·스트레스·걱정도 <em>통증 볼륨</em>을 바꿀 수 있어요",
+      "left": {
+        "label": "조절하며 계속",
+        "char": "koala_happy",
+        "caption": "횟수·무게를 살짝 줄여<br><b>계속 이어가요</b>"
+      },
+      "right": {
+        "label": "완전히 멈춤",
+        "char": "koala_tired",
+        "caption": "겁나서 다 쉬면<br><em>몸이 더 약해지기 쉬워요</em>"
+      },
+      "quip": "다 멈추지 말고<br>한 단계만 낮춰요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>통증 읽는 법</b>",
+      "sub": "0~10 점수로 체크해요!",
+      "sections": [
+        {
+          "heading": "1. 운동 중 · 다음 날 체크",
+          "color": "yellow",
+          "lines": [
+            "① 운동 중 <em>3~4/10 이하</em>면 대개 OK.",
+            "② 다음 날 아침 <em>평소 수준</em>이면 그대로.",
+            "③ 더 나빠졌다면 <em>한 단계만</em> 낮추기.",
+            "④ 바꾸는 건 한 번에 하나만!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인",
+          "color": "purple",
+          "lines": [
+            "<em>갑자기 심한 통증</em>, 붓기, 저림·힘 빠짐,",
+            "열, 쉬어도 안 나아지는 밤 통증은 평가받아요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 통증은 <em>달라요</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "갑자기 심한 통증",
+        "관절이 풀리는 느낌",
+        "쉬어도 계속되는 밤 통증"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "재활 운동 중 찌릿해서 일주일째 쉬고 있는 코코. 아프면 무조건 다친 걸까요?\n\n통증은 몸을 지키려는 보호 신호예요. 조직에 실리는 힘뿐 아니라 잠, 스트레스, 걱정, 과거 경험에도 영향을 받아서 통증 크기가 곧 손상 크기는 아니에요.\n\n많은 재활 프로그램에서 쓰는 방법: 운동 중 3~4/10 이하로 곧 가라앉으면 대개 괜찮아요. 다음 날 아침 평소 수준이면 그대로, 더 나빠졌다면 다 멈추지 말고 한 단계만 낮춰요. 갑작스러운 심한 통증, 붓기, 저림, 힘 빠짐, 밤 통증은 확인받아요. 하이브리드 피지오 팀이 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#통증과학",
+    "#재활운동",
+    "#통증관리",
+    "#시니어운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#물리치료",
+    "#painscience",
+    "#rehab",
+    "#physiotherapy",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 통증이 곧 손상은 아닌 이유, 0~10 점수로 운동량 조절하기, 확인이 필요한 신호.",
+  "story": {
+    "headline": "운동 중 찌릿, 다친 걸까?",
+    "body": "다 멈추지 말고<br>한 단계만 낮춰요.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-05",
+  "created": "2026-11-05-1",
+  "status": "approved",
+  "review_warnings": []
+}

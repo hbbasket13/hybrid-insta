@@ -1,0 +1,131 @@
+{
+  "id": "C-045-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Your flare-up plan: what to do in the first 48 hours",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's back flared up.<br>Here's his <em>48-hour plan</em>",
+      "sub": "A simple timeline, so you're not guessing",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "One step<br>at a time!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The day after a big haul,<br>his back <em>flares up</em>.",
+      "char": "kanga_tired",
+      "bubble": "Not this pain<br>again..!",
+      "bubble_type": "thought",
+      "note": "(should he just stay in bed all day..?)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After a quick call, he met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Lulu, scary huh?<br>Most flare-ups<br>settle in days."
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Should I just<br>lie in bed..?"
+      },
+      "note": "Hybi wrote out <mark>what to do, hour by hour</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A spike in pain usually<br>isn't <em>new damage</em>",
+      "fact": "Most flare-ups settle <em>within a few days</em>",
+      "left": {
+        "label": "Gentle movement",
+        "char": "kanga_happy",
+        "caption": "Short walks around<br>the house <b>count</b>"
+      },
+      "right": {
+        "label": "Bed all day",
+        "char": "kanga_tired",
+        "caption": "Lying still too long<br>can <em>add stiffness</em>"
+      },
+      "quip": "Ease off the trigger,<br>keep moving gently!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>48-hour timeline</b>",
+      "sub": "Stick it on the fridge!",
+      "sections": [
+        {
+          "heading": "1. Hour by hour",
+          "color": "yellow",
+          "lines": [
+            "① <em>0–12 h</em>: comfy positions, slow breathing.",
+            "② <em>12–24 h</em>: a few minutes' walk every hour.",
+            "③ <em>24–48 h</em>: normal tasks at about half the dose.",
+            "④ Heat or ice, whichever feels better."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Numbness or weakness</em> spreads down a limb, or",
+            "you have <em>fever or bladder/bowel changes</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Not easing<br><em>after two days</em>?",
+      "bubble": "Every body is different.<br>Let's <b>assess</b> first!",
+      "heading": "Get it checked if",
+      "items": [
+        "Severe pain not easing",
+        "Numbness or weakness",
+        "Fever or weight loss"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Flare-ups feel less scary with a plan. Lulu's back flared after a big day at work.\n\nA flare-up is a spike in pain, usually not new damage, and most settle within a few days. In the first 12 hours, ease off whatever set it off but avoid bed rest: comfy positions, slow breathing, heat or ice if it helps. From 12 to 24 hours, move little and often. From 24 to 48 hours, bring normal tasks back at a reduced dose.\n\nGet checked if pain is severe and not easing, spreads down a limb with numbness or weakness, or comes with fever or bladder or bowel changes.\n\nOur Sydney CBD and Chatswood physios can write a flare-up plan for you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#flareup",
+    "#backpain",
+    "#painmanagement",
+    "#tradie",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining that flare-ups usually aren't new damage, gentle movement versus bed rest, a 48-hour timeline and signs worth getting checked.",
+  "story": {
+    "headline": "Your 48-hour flare-up plan",
+    "body": "Calm it, move little and often,<br>then build back up.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-30",
+  "created": "2026-10-30-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-055-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Good pain vs bad pain during exercise",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto, is <em>this ache</em><br>okay or not?",
+      "sub": "A traffic-light guide to exercise pain",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Just remember<br>the traffic light!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Day three of a new program.<br>Calves: <em>throbbing</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Keep going,<br>or rest it..?",
+      "bubble_type": "thought",
+      "note": "(first week of a brand-new training plan..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto bumped into <b>Hybi</b><br>in the Sydney CBD.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Toto, why<br>the worried face?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "It aches when I train.<br>Am I injured?"
+      },
+      "note": "Hybi pulled out a simple <mark>pain traffic light</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A little ache often means <em>adapting</em>",
+      "fact": "Up to <em>3/10</em> that settles by next morning is usually fine",
+      "left": {
+        "label": "Green light",
+        "char": "rabbit_happy",
+        "caption": "Steady, mild ache?<br><b>Usually fine to continue</b>"
+      },
+      "right": {
+        "label": "Red light",
+        "char": "rabbit_tired",
+        "caption": "Sharp, swollen or tingly?<br><em>Stop and get it checked</em>"
+      },
+      "quip": "In between is amber:<br>adjust the dose!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pain traffic light</b>",
+      "sub": "Use it every session!",
+      "sections": [
+        {
+          "heading": "1. How to read it",
+          "color": "yellow",
+          "lines": [
+            "① Green: up to <em>3/10</em>, settles overnight → carry on.",
+            "② Amber: <em>4–5/10</em> or lingers → cut weight or reps.",
+            "③ Red: sharp pain or swelling → <em>stop</em> that one.",
+            "④ Log scores during and next morning for a week."
+          ]
+        },
+        {
+          "heading": "2. Stop straight away if…",
+          "color": "purple",
+          "lines": [
+            "Something <em>gives way</em>, or you get numbness",
+            "or tingling. Get it assessed first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Hit a <em>red light</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sharp or stabbing pain",
+        "Swelling or giving way",
+        "Numbness or tingling"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Day three of a new program and Toto's calves are throbbing. Keep going or rest?\n\nSome discomfort is common when you start something new. Think traffic light. Green: an ache up to about 3 out of 10 that stays steady and settles by next morning, carry on. Amber: 4 or 5 out of 10, or lingering into the next day, trim the weight, range or reps for a session or two. Red: sharp pain, swelling, giving way, numbness or tingling, stop and get it checked.\n\nLog your scores for a week and patterns appear fast. Our team at Hybrid Physio can help you set the right dose. Book online via the link in bio 🚦\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#exercisepain",
+    "#painscience",
+    "#strengthtraining",
+    "#gymlife",
+    "#running",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#trainingtips",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi gives Toto the rabbit a green, amber and red traffic-light guide to exercise pain and signs worth getting checked.",
+  "story": {
+    "headline": "Is this ache okay?",
+    "body": "Under 3/10 and settled by morning?<br>Usually green.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-04",
+  "created": "2026-11-04-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-051-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pacing for persistent pain: avoiding boom and bust",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Big day out, then<br><em>three days on the couch</em>?",
+      "sub": "Koko learns about pacing, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "Let's make<br>a plan!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A good day, so Koko<br>gardens <em>all day long</em>.",
+      "char": "koala_tired",
+      "bubble": "Then three days<br>on the couch..<br>again..?",
+      "bubble_type": "thought",
+      "note": "(do it all on good days, crash on bad days..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko meets <b>Hybi</b><br>in Chatswood.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>How's the week been?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Good days are great..<br>it's the after bit."
+      },
+      "note": "Hybi called it the <mark>boom and bust</mark> cycle."
+    },
+    {
+      "kind": "compare",
+      "title": "Follow the <em>plan</em>, not the mood",
+      "fact": "Overdoing it often means <em>flare → rest → less fitness</em>, repeat",
+      "left": {
+        "label": "Planned amount",
+        "char": "koala_happy",
+        "caption": "Same amount on good days,<br>then <b>build up slowly</b>"
+      },
+      "right": {
+        "label": "All or nothing",
+        "char": "koala_tired",
+        "caption": "Big effort, then days off,<br>and <em>fitness slips</em>"
+      },
+      "quip": "Stopping on time<br>is the real skill!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>3-step pacing plan</b>",
+      "sub": "Start with something simple, like walking",
+      "sections": [
+        {
+          "heading": "1. Find your baseline",
+          "color": "yellow",
+          "lines": [
+            "① Note what you can manage on a bad day.",
+            "② Start at <em>a little less</em> than that.",
+            "③ Stick to it on good days too; split big jobs.",
+            "④ Every 1–2 weeks, add <em>about 10%</em>."
+          ]
+        },
+        {
+          "heading": "2. Get advice if…",
+          "color": "purple",
+          "lines": [
+            "<em>New pain</em>, numbness or weakness appears,",
+            "or flares keep getting worse."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Pacing and still <em>struggling</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if",
+      "items": [
+        "New or different pain",
+        "Numbness or weakness",
+        "Fever or weight loss"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko gardens all day when she feels good, then spends three days on the couch. That's boom and bust, and it's really common with persistent pain.\n\nPacing can help break the cycle. Find what you can manage on a bad day, start a little under it, and stick to that amount on good days too. Split big jobs into chunks. Every week or two, add around 10%. A mild flare means hold steady, not start again.\n\nNew pain, numbness, weakness, or flares that keep getting worse are worth getting checked. Our Chatswood and Sydney CBD physios can help you set up a plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#persistentpain",
+    "#chronicpain",
+    "#pacing",
+    "#painmanagement",
+    "#boomandbust",
+    "#healthyageing",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains the boom and bust cycle to Koko the koala, a 3-step pacing plan and signs worth getting checked.",
+  "story": {
+    "headline": "Boom, then bust?",
+    "body": "Plan the amount,<br>add a little every 1–2 weeks.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-02",
+  "created": "2026-11-02-6",
+  "status": "approved",
+  "review_warnings": []
+}

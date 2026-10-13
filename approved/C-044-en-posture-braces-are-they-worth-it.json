@@ -1,0 +1,131 @@
+{
+  "id": "C-044-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Posture braces: are they worth it?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Should Mr Turtle buy<br>a <em>posture brace</em>?",
+      "sub": "What braces can do, and what they can't",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Wait! Before you<br>hit checkout.."
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "11pm, scrolling, and<br>a <em>posture brace</em> appears.",
+      "char": "turtle_monitor",
+      "bubble": "If I wear this all day,<br>I'll sit up straight..<br>right?",
+      "bubble_type": "thought",
+      "note": "(thumb hovering over the buy button..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Next day, he asked Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "A brace? Handy as<br>a reminder!"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "A reminder?<br>It doesn't<br>straighten me up?"
+      },
+      "note": "Hybi explained that <mark>staying still is often the real issue</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Changing position<br><em>beats any one posture</em>",
+      "fact": "Most braces <em>tug as a reminder</em> when you slump",
+      "left": {
+        "label": "Move often",
+        "char": "turtle_happy2",
+        "caption": "Stand, reach, rotate,<br>and <b>build back strength</b>"
+      },
+      "right": {
+        "label": "Brace all day",
+        "char": "turtle_sad",
+        "caption": "Muscles switch off,<br><em>stuck in one position</em>"
+      },
+      "quip": "Brace for a bit,<br>movement all day!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>upper back strength</b>",
+      "sub": "Twice a week is a good start!",
+      "sections": [
+        {
+          "heading": "1. Three desk-side moves",
+          "color": "yellow",
+          "lines": [
+            "① Band pull-aparts <em>12 × 2</em>.",
+            "② Extend over a rolled towel, <em>8 slow reps</em>.",
+            "③ Every <em>45 minutes</em>, stand and reach up high.",
+            "④ Turn side to side on the way to the water."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "You have <em>arm pain, pins and needles</em> or weakness,",
+            "or <em>pain that wakes you</em> and keeps building."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "An assessment<br><em>before a gadget</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get checked if you notice",
+      "items": [
+        "Arm tingling or weakness",
+        "Pain wakes you at night",
+        "Unexplained weight loss"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle nearly bought a posture brace at 11pm.\n\nMost braces work as a reminder: you feel the straps tug when you slump. That can be handy for short stints while you build new habits, but they don't strengthen anything while you wear them, and wearing one all day can swap one set position for another.\n\nWhat tends to help more is changing position often, plus a couple of short upper back strength sessions a week. Band pull-aparts and towel extensions are a good start. Chiropractic care can be one helpful tool alongside that.\n\nArm pain, pins and needles, weakness or pain that wakes you at night is worth getting checked. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#posture",
+    "#posturebrace",
+    "#upperback",
+    "#deskjob",
+    "#officeworker",
+    "#sydneycbd",
+    "#sydneychiro",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining what posture braces do, moving often versus wearing a brace all day, upper back strength moves and signs worth getting checked.",
+  "story": {
+    "headline": "Posture brace: worth buying?",
+    "body": "Brace for a bit,<br>movement all day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-30",
+  "created": "2026-10-30-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-053-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for desk workers' posture",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Momo's hunt for the<br><em>perfect desk posture</em>",
+      "sub": "What Pilates really trains, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "There's no one<br>right posture!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Sit up straight! Slump.<br>Sit up! Slump. <em>Repeat.</em>",
+      "char": "cat_tired",
+      "bubble": "What does perfect<br>posture even<br>look like..?",
+      "bubble_type": "thought",
+      "note": "(thirty minutes later, slowly sliding down again..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Curious about Pilates,<br>Momo went to see <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey Momo!<br>Posture on your mind?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Will Pilates lock me<br>into a perfect position?"
+      },
+      "note": "Hybi said <mark>changing position often</mark> matters more."
+    },
+    {
+      "kind": "compare",
+      "title": "Good posture? <em>The next one</em>",
+      "fact": "No <em>single sitting position</em> is proven to protect your back",
+      "left": {
+        "label": "Change it up",
+        "char": "cat_happy",
+        "caption": "Shifting and moving often<br>feels <b>less draining</b>"
+      },
+      "right": {
+        "label": "Hold it rigid",
+        "char": "cat_tired",
+        "caption": "Bracing in one position<br>gets <em>tiring fast</em>"
+      },
+      "quip": "Pilates builds the<br>strength and awareness!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>2-minute desk reset</b>",
+      "sub": "After every meeting this week!",
+      "sections": [
+        {
+          "heading": "1. Seated reset",
+          "color": "yellow",
+          "lines": [
+            "① Sit tall and take <em>3 slow breaths</em>.",
+            "② Seated twists, <em>5 each way</em>.",
+            "③ Shoulder blade squeezes, <em>5 reps</em>.",
+            "④ Repeat at the end of each meeting."
+          ]
+        },
+        {
+          "heading": "2. Get advice if…",
+          "color": "purple",
+          "lines": [
+            "Your arm or hand <em>tingles</em>,",
+            "or discomfort keeps <em>building</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Desk days still <em>feel heavy</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm or hand tingling",
+        "Frequent headaches with it",
+        "No change after a few weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Sit up straight, slump, sit up again. Momo has been chasing the perfect desk posture for weeks.\n\nCurrent evidence suggests no one sitting position protects your back or neck. What tends to help is changing position often and having the strength and mobility to sit comfortably for longer. Clinical Pilates trains upper back strength, moves your spine in directions desk work skips, and helps you notice when you've slumped.\n\nTry a 2-minute reset after each meeting: three slow breaths, five seated twists each way, five shoulder blade squeezes. Our Pilates team at Hybrid Physio starts with an assessment. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#posture",
+    "#deskjob",
+    "#officeworker",
+    "#workfromhome",
+    "#upperback",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains to Momo the cat why there's no single perfect desk posture, with a 2-minute seated reset and signs worth getting checked.",
+  "story": {
+    "headline": "Chasing the perfect posture?",
+    "body": "Your good posture<br>is your next one.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-03",
+  "created": "2026-11-03-2",
+  "status": "approved",
+  "review_warnings": []
+}

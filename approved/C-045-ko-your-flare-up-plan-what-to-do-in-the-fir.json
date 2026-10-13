@@ -1,0 +1,131 @@
+{
+  "id": "C-045-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Your flare-up plan: what to do in the first 48 hours",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "허리가 확 올라왔을 때,<br><em>48시간 플랜</em>",
+      "sub": "당황하지 않게 시간표로 정리했어요",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "순서대로<br>해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "무거운 자재 옮긴 다음 날,<br>허리가 <em>확</em> 올라왔다.",
+      "char": "kanga_tired",
+      "bubble": "예전 그 통증이<br>또 왔다..!",
+      "bubble_type": "thought",
+      "note": "(일단 침대에 누워만 있어야 하나..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "통화 후 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "루루, 놀랐죠?<br>대부분 며칠이면<br>가라앉아요"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "누워만 있으면<br>될까요..?"
+      },
+      "note": "하비는 <mark>시간대별 할 일</mark>을 정리해 줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "확 아파도<br><em>새 손상은 아닐 때가 많아요</em>",
+      "fact": "대부분의 통증 급악화는 <em>며칠 안에</em> 가라앉아요",
+      "left": {
+        "label": "조금씩 움직이기",
+        "char": "kanga_happy",
+        "caption": "집 안 짧게 걷기도<br><b>충분히 도움돼요</b>"
+      },
+      "right": {
+        "label": "종일 누워있기",
+        "char": "kanga_tired",
+        "caption": "오래 누워 있으면<br><em>더 뻣뻣해질 수 있어요</em>"
+      },
+      "quip": "아픈 데 맞춰<br>양을 줄여요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>48시간 시간표</b>",
+      "sub": "냉장고에 붙여둬요!",
+      "sections": [
+        {
+          "heading": "1. 시간대별로",
+          "color": "yellow",
+          "lines": [
+            "① <em>0~12시간</em>: 편한 자세, 천천히 숨쉬기",
+            "② <em>12~24시간</em>: 매시간 몇 분씩 걷기",
+            "③ <em>24~48시간</em>: 평소 일을 절반 양으로",
+            "④ 온찜질·냉찜질은 편한 쪽으로"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인받기",
+          "color": "purple",
+          "lines": [
+            "다리로 <em>저림·힘 빠짐</em>이 퍼지거나,",
+            "<em>열·배뇨 변화</em>가 있으면 바로 진료!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이틀 지나도 <em>그대로라면?</em>",
+      "bubble": "원인은 저마다 달라요.<br>먼저 <b>평가</b>해봐요!",
+      "heading": "이럴 땐 꼭 확인받기",
+      "items": [
+        "심한 통증이 안 줄어든다",
+        "다리 저림·힘 빠짐",
+        "열이나 체중 감소"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "무거운 자재를 옮긴 다음 날, 허리가 확 올라온 루루. 미리 할 일을 알고 있으면 덜 당황할 수 있어요.\n\n통증이 확 올라오는 건 보통 새 손상이 아니고, 대부분 며칠 안에 가라앉아요. 0~12시간: 원인이 된 동작은 줄이되 종일 눕지 않기, 편한 자세와 천천히 숨쉬기. 12~24시간: 조금씩 자주 움직이기. 24~48시간: 평소 일을 절반 양으로 다시 시작해요.\n\n심한 통증이 줄지 않거나, 다리 저림·힘 빠짐, 열, 배뇨·배변 변화가 있으면 확인받아요. 시드니 CBD·채스우드 물리치료사가 나만의 플랜을 함께 만들어요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#통증관리",
+    "#허리삐끗",
+    "#현장직",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#flareup",
+    "#backpain"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 통증이 확 올라왔을 때의 오해, 조금씩 움직이기와 종일 누워있기 비교, 48시간 시간표, 확인이 필요한 신호.",
+  "story": {
+    "headline": "통증이 확 올라왔다면?",
+    "body": "0~12·12~24·24~48시간,<br>시간표대로 천천히!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-30",
+  "created": "2026-10-30-3",
+  "status": "approved",
+  "review_warnings": []
+}

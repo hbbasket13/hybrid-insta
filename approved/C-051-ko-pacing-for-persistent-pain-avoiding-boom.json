@@ -1,0 +1,131 @@
+{
+  "id": "C-051-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pacing for persistent pain: avoiding boom and bust",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코는 <em>좋은 날</em> 다음엔<br>왜 꼭 앓아누울까?",
+      "sub": "하비와 알아보는 '페이싱' 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "같이 계획<br>세워봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "컨디션 좋은 날,<br>정원일을 <em>하루 종일</em>.",
+      "char": "koala_tired",
+      "bubble": "그러고 사흘은<br>소파 신세..<br>또 이러네..?",
+      "bubble_type": "thought",
+      "note": "(좋은 날 몰아서, 나쁜 날 푹 쉬고..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "코코, 채스우드에서<br><b>하비</b>를 만나다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "반가워요, 코코!<br>요즘 어때요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "좋은 날은 신나는데<br>그다음이 문제야.."
+      },
+      "note": "하비는 이걸 <mark>붐 앤 버스트</mark>라고 불렀다."
+    },
+    {
+      "kind": "compare",
+      "title": "기분 말고 <em>계획</em>대로!",
+      "fact": "몰아서 하면 <em>통증↑ → 휴식 → 체력↓</em> 반복돼요",
+      "left": {
+        "label": "정해진 만큼",
+        "char": "koala_happy",
+        "caption": "좋은 날도 계획한 만큼만,<br>꾸준히 <b>조금씩 늘려요</b>"
+      },
+      "right": {
+        "label": "몰아서 하기",
+        "char": "koala_tired",
+        "caption": "신나게 하고 며칠 앓으면<br><em>체력이 점점 떨어져요</em>"
+      },
+      "quip": "멈출 때 멈추는 게<br>진짜 실력이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>페이싱 3단계</b>",
+      "sub": "걷기부터 시작해봐요!",
+      "sections": [
+        {
+          "heading": "1. 나만의 기준선 찾기",
+          "color": "yellow",
+          "lines": [
+            "① 나쁜 날에도 할 수 있는 양을 재요.",
+            "② 그보다 <em>조금 적게</em> 시작해요.",
+            "③ 좋은 날에도 <em>정한 만큼만</em>, 큰일은 나눠서.",
+            "④ 1~2주마다 <em>10% 정도</em>씩 늘려요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 상담받기",
+          "color": "purple",
+          "lines": [
+            "<em>새로운 통증</em>, 저림·힘 빠짐이 생기거나",
+            "계속 악화되면 확인받아요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "페이싱해도 <em>힘들다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 평가가 먼저",
+      "items": [
+        "새롭거나 다른 통증",
+        "저림이나 힘 빠짐",
+        "열·이유 없는 체중 감소"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "컨디션 좋은 날 정원일을 몰아서 하고, 사흘은 소파 신세인 코코. 이런 패턴을 '붐 앤 버스트'라고 해요.\n\n페이싱은 이 고리를 끊는 방법이에요. 나쁜 날에도 할 수 있는 양을 기준선으로 잡고, 그보다 조금 적게 시작해요. 좋은 날에도 정한 만큼만 하고, 큰일은 나눠서. 1~2주마다 10% 정도씩 늘리고, 가벼운 악화는 처음부터가 아니라 '잠시 유지'예요.\n\n새로운 통증, 저림, 힘 빠짐이 있으면 확인받아요. 채스우드·시드니 CBD 물리치료사가 계획을 함께 세워요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#만성통증",
+    "#페이싱",
+    "#통증관리",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#시니어건강",
+    "#physiotherapy",
+    "#persistentpain",
+    "#pacing",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 붐 앤 버스트 패턴, 계획대로 하는 페이싱 3단계, 확인이 필요한 신호.",
+  "story": {
+    "headline": "좋은 날 몰아서 하나요?",
+    "body": "계획한 만큼만,<br>1~2주마다 조금씩!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-02",
+  "created": "2026-11-02-3",
+  "status": "approved",
+  "review_warnings": []
+}

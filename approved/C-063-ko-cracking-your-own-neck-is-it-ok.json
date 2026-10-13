@@ -1,0 +1,131 @@
+{
+  "id": "C-063-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Cracking your own neck: is it OK?",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "거북씨는 하루에<br>목을 <em>몇 번</em> 꺾을까?",
+      "sub": "목 '뚝뚝' 습관, 괜찮은 걸까?",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "소리보다<br>이유가 중요해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "회의 중에도 <em>뚝, 뚝</em>.<br>습관이 된 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "꺾으면 시원한데..<br>금방 또 뻐근해.",
+      "bubble_type": "thought",
+      "note": "(하루에 열 번은 꺾는 듯..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "채스우드에서<br><b>하비</b>를 만난 거북씨.",
+      "left": {
+        "char": "hybi_neutral",
+        "bubble": "방금 그 소리,<br>목이었죠?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 이거<br>괜찮은 거예요?"
+      },
+      "note": "하비는 <mark>소리의 정체</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "'뚝' 소리의 정체는 <em>기포</em>!",
+      "fact": "<em>기체 방울</em> 소리예요, 뼈가 맞춰지는 게 아니에요",
+      "left": {
+        "label": "천천히 움직이기",
+        "char": "turtle_happy2",
+        "caption": "천천히 돌리고 기울이면<br>목이 <b>한결 부드러워요</b>"
+      },
+      "right": {
+        "label": "세게 꺾기",
+        "char": "turtle_sad",
+        "caption": "손으로 세게 꺾으면<br><em>시원함은 잠깐뿐</em>"
+      },
+      "quip": "꺾고 싶은 건<br>움직이라는 신호예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>꺾기 대신 1분</b>",
+      "sub": "1시간마다 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 부드럽게 풀기",
+          "color": "yellow",
+          "lines": [
+            "① 턱 당기기 <em>5초 × 5회</em>.",
+            "② 어깨 뒤로 돌리기 <em>10회</em>.",
+            "③ 고개 천천히 좌우로 돌리기 <em>5회씩</em>.",
+            "④ 손으로 세게 밀거나 비틀지 않기!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 000",
+          "color": "purple",
+          "lines": [
+            "목 움직인 뒤 <em>어지러움·심한 두통</em>,",
+            "시야·말하기 변화, 저림은 바로 000!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 땐 <em>바로 도움</em> 받아요",
+      "bubble": "급하면 000,<br>평소엔 <b>평가</b>가 먼저!",
+      "heading": "목 움직인 뒤 이런 신호",
+      "items": [
+        "어지럽거나 시야가 흐리다",
+        "갑자기 심한 두통",
+        "말이 어눌하거나 저리다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "회의 중에도 목을 뚝뚝 꺾는 거북씨. 괜찮은 걸까요?\n\n'뚝' 소리는 대개 관절액 속 기체 방울이 변하는 소리예요. 뼈가 제자리로 맞춰지는 게 아니고, 가끔 꺾는 건 대부분 문제를 일으키지 않아요. 다만 시원함이 잠깐뿐인 건, 뻐근함이 오래 같은 자세나 주변 근육에서 오기 때문일 때가 많아요.\n\n세게 꺾는 대신 1시간마다 턱 당기기, 어깨 돌리기, 고개 천천히 돌리기를 해봐요. 목 움직인 뒤 어지러움, 심한 두통, 시야·말하기 변화, 저림이 생기면 바로 000에 연락해요. 하이브리드 피지오 카이로프랙터가 함께 살펴봐요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#목꺾기",
+    "#목뻐근함",
+    "#거북목",
+    "#직장인",
+    "#시드니카이로프랙틱",
+    "#채스우드",
+    "#카이로프랙터",
+    "#하이브리드피지오",
+    "#chiropractic",
+    "#neckpain",
+    "#neckcrack",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 목에서 나는 '뚝' 소리의 정체, 세게 꺾는 대신 하는 1분 움직임, 바로 도움이 필요한 신호.",
+  "story": {
+    "headline": "목을 자꾸 꺾게 된다면?",
+    "body": "꺾는 대신<br>1시간마다 1분 움직이기!",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-11-06",
+  "created": "2026-11-06-3",
+  "status": "approved",
+  "review_warnings": []
+}

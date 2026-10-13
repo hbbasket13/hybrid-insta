@@ -1,0 +1,131 @@
+{
+  "id": "C-050-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "A 5-minute hip and lower back mobility routine",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "거북씨 허리가 <em>아침마다</em><br>삐걱대는 이유",
+      "sub": "하비의 5분 고관절·허리 루틴",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "5분이면<br>충분해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "출근 전, 양말 신다가<br><em>멈칫</em>한 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "허리랑 엉덩이가<br>왜 이렇게 굳었지..?",
+      "bubble_type": "thought",
+      "note": "(어제도 하루 종일 앉아 있었는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "점심시간, <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "어서 와요!<br>어디가 굳었어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "엉덩이랑 허리요..<br>스트레칭은 귀찮은데.."
+      },
+      "note": "하비는 <mark>딱 5분짜리</mark> 루틴을 꺼냈다."
+    },
+    {
+      "kind": "compare",
+      "title": "굳은 몸엔 <em>움직임</em>이 답!",
+      "fact": "오래 앉아 있으면 <em>고관절 앞쪽</em>이 접힌 채로 있어요",
+      "left": {
+        "label": "자주 움직이기",
+        "char": "turtle_happy",
+        "caption": "짧게라도 매일 움직이면<br>훨씬 <b>가벼워질 수 있어요</b>"
+      },
+      "right": {
+        "label": "하루 종일 앉기",
+        "char": "turtle_sad",
+        "caption": "한 자세로 오래 있으면<br><em>더 뻣뻣해지기 쉬워요</em>"
+      },
+      "quip": "5분만 투자해도<br>몸이 달라질 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>5분 엉덩이·허리 루틴</b>",
+      "sub": "매트 하나면 OK!",
+      "sections": [
+        {
+          "heading": "1. 천천히, 편한 범위에서",
+          "color": "yellow",
+          "lines": [
+            "① 고양이-소 자세 <em>8회</em> (1분)",
+            "② 누워서 무릎 좌우로 넘기기 (1분)",
+            "③ 한쪽 무릎 꿇고 고관절 앞 <em>30초씩</em>",
+            "④ 엉덩이 스트레칭 30초씩, 아기 자세 1분"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인!",
+          "color": "purple",
+          "lines": [
+            "다리로 <em>저림·힘 빠짐</em>이 내려가면",
+            "멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 땐 <em>꼭 확인</em>받아요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 평가 먼저",
+      "items": [
+        "다리 저림·힘 빠짐",
+        "사타구니 감각이 둔하다",
+        "넘어진 뒤 생긴 통증"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "아침마다 양말 신다가 멈칫하는 거북씨. 오래 앉아 있으면 고관절과 허리가 굳기 쉬워요.\n\n하비의 5분 루틴: 고양이-소 자세 8회, 누워서 무릎 좌우로 넘기기 1분, 한쪽 무릎 꿇고 고관절 앞 스트레칭 30초씩, 엉덩이 스트레칭 30초씩, 마지막은 아기 자세로 1분 호흡. 편한 범위에서 천천히 해요.\n\n다리로 저림이나 힘 빠짐이 내려가거나, 사타구니 감각 저하, 소변·대변 변화, 열, 넘어진 뒤 통증이 있다면 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 움직임을 보고 루틴을 함께 짜드려요. 프로필 링크에서 온라인 예약 🧘\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리뻐근함",
+    "#고관절스트레칭",
+    "#시드니카이로프랙틱",
+    "#시드니cbd",
+    "#카이로프랙터",
+    "#하이브리드피지오",
+    "#직장인스트레칭",
+    "#아침스트레칭",
+    "#chiropractic",
+    "#hipmobility",
+    "#lowerback",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 아침마다 허리와 고관절이 굳는 이유, 5분 스트레칭 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "아침마다 허리가 굳는다면?",
+    "body": "5분 루틴,<br>매트 하나면 OK!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-02",
+  "created": "2026-11-02-5",
+  "status": "approved",
+  "review_warnings": []
+}

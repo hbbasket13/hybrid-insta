@@ -1,0 +1,131 @@
+{
+  "id": "C-061-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pins and needles in the hand: neck or wrist?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "거북씨 손이 <em>찌릿찌릿</em>,<br>목일까 손목일까?",
+      "sub": "저림 위치가 주는 단서 찾기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "단서부터<br>봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "새벽 3시, <em>손이 저려서</em><br>깬 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "손을 털면<br>좀 나아지는데..<br>왜 이러지..?",
+      "bubble_type": "thought",
+      "note": "(낮엔 마우스 잡은 손목이 꺾인 채로..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "다음 날, 시드니 CBD에서<br><b>하비</b>를 만났다.",
+      "left": {
+        "char": "hybi_small",
+        "bubble": "어느 손가락이<br>저려요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "엄지랑 검지요..<br>목도 좀 뻐근하고요."
+      },
+      "note": "하비는 <mark>저린 위치</mark>가 단서가 된다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "손 저림, <em>출발지</em>가 달라요",
+      "fact": "손 저림은 <em>손목</em>에서도, <em>목</em>에서도 시작될 수 있어요",
+      "left": {
+        "label": "손목 쉬어주기",
+        "char": "turtle_happy",
+        "caption": "손목 펴고 자주 쉬면<br><b>덜 예민해질 수 있어요</b>"
+      },
+      "right": {
+        "label": "꺾은 채 오래",
+        "char": "turtle_sad",
+        "caption": "손목 꺾고 오래 쥐면<br><em>저림이 심해지기 쉬워요</em>"
+      },
+      "quip": "목도 편한 범위에서<br>자주 움직여줘요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>저림 단서 노트</b>",
+      "sub": "어디가 저린지 먼저 봐요!",
+      "sections": [
+        {
+          "heading": "1. 단서 체크 + 생활 팁",
+          "color": "yellow",
+          "lines": [
+            "① 엄지~중지, 밤에 심함 → <em>손목</em> 단서.",
+            "② 목 통증, 팔 따라 내려옴 → <em>목</em> 단서.",
+            "③ 손목은 펴고, <em>30분마다</em> 손 쉬기.",
+            "④ 목은 편한 범위에서 천천히 돌리기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 빨리 진료",
+          "color": "purple",
+          "lines": [
+            "손 <em>힘 빠짐</em>, 물건 떨어뜨림, 양손 저림,",
+            "걸음·균형 변화는 바로 진료받아요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "저림이 <em>계속된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 빨리 확인",
+      "items": [
+        "손에 힘이 빠진다",
+        "양손이 같이 저리다",
+        "걸음·균형이 달라졌다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "새벽에 손이 저려서 깬 거북씨. 목 때문일까요, 손목 때문일까요?\n\n둘 다 흔한 원인이에요. 엄지부터 중지까지 저리고 밤에 심하며 손을 털면 나아진다면 손목 쪽 단서일 수 있어요. 목 통증이 있거나 어깨부터 팔을 따라 내려오고 고개 움직임에 따라 달라진다면 목 쪽일 수 있어요. 둘 다일 때도 있어요.\n\n그동안은 손목을 꺾은 채 오래 있지 말고 자주 쉬어주고, 목은 편한 범위에서 움직여요. 손 힘 빠짐, 물건 떨어뜨림, 양손 저림, 걸음·균형 변화는 빨리 진료받아요. 시드니 CBD·채스우드 물리치료사가 어디서 오는지 확인해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#손저림",
+    "#손목터널증후군",
+    "#목디스크",
+    "#직장인",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#pinsandneedles",
+    "#carpaltunnel",
+    "#physiotherapy",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 손 저림이 손목 또는 목에서 올 수 있는 이유, 위치별 단서와 생활 팁, 빨리 확인이 필요한 신호.",
+  "story": {
+    "headline": "손 저림, 목일까 손목일까?",
+    "body": "어디가 저린지가<br>첫 단서예요.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-06",
+  "created": "2026-11-06-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-049-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "What happens at your first clinical Pilates assessment",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Momo's first Pilates<br>assessment: <em>a test?</em>",
+      "sub": "What happens at your first appointment",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "No pass or fail<br>here!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Super bendy, but brand<br><em>new</em> to the reformer.",
+      "char": "cat_tired",
+      "bubble": "What if everyone else<br>is better than me..?",
+      "bubble_type": "thought",
+      "note": "(she even watched videos the night before..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On the day, Hybi met her<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Momo, today we just<br>find your starting point"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Being flexible<br>means I'll be<br>good at it, right?"
+      },
+      "note": "Hybi said they look at <mark>flexibility and control together</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "An assessment is<br><em>not an exam</em>",
+      "fact": "<em>Squats, balance and rotation</em> show where to start",
+      "left": {
+        "label": "Just be yourself",
+        "char": "cat_happy",
+        "caption": "Moving as you are shows<br>the <b>right starting point</b>"
+      },
+      "right": {
+        "label": "Trying too hard",
+        "char": "cat_tired",
+        "caption": "Forcing it can<br><em>blur the picture</em>"
+      },
+      "quip": "First time?<br>That's totally fine!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first-assessment guide</b>",
+      "sub": "Here's the order of things!",
+      "sections": [
+        {
+          "heading": "1. What happens",
+          "color": "yellow",
+          "lines": [
+            "① A chat about goals, injuries and health history.",
+            "② <em>Movement checks</em>: squats, balance, rotation.",
+            "③ Try <em>a few exercises</em> on the mat and reformer.",
+            "④ Leave with a plan, plus 2 things to do at home."
+          ]
+        },
+        {
+          "heading": "2. Let us know if…",
+          "color": "purple",
+          "lines": [
+            "You've had <em>recent surgery or injury</em>, and",
+            "stop if you feel <em>pain or dizziness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check these<br><em>before you start</em>",
+      "bubble": "Every body is different.<br>Let's <b>assess</b> first!",
+      "heading": "Get assessed first if",
+      "items": [
+        "You've had recent surgery",
+        "You feel dizzy exercising",
+        "Pain keeps building"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Nervous about your first clinical Pilates session? Momo is very bendy, but the reformer was brand new to her.\n\nIt starts with a conversation about your goals, injuries and health history. Then we look at how you move with simple tests like squats, balance and rotation. There's no pass or fail; we're just working out where to start.\n\nNext, you'll try a few exercises on the mat and reformer to get a feel for the springs and breathing cues. You'll leave with a program, whether one-on-one or small classes suit you, and a couple of things to practise at home.\n\nBring comfortable clothes, grip socks and any recent scans. Our Pilates team at Hybrid Physio welcomes complete beginners. Book online via the link in bio 🐱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#pilatesbeginner",
+    "#firstclass",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#reformer"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining what happens at a first clinical Pilates assessment, moving naturally versus trying too hard, the steps and signs to mention first.",
+  "story": {
+    "headline": "Your first Pilates assessment",
+    "body": "No pass or fail.<br>Just your starting point.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-02",
+  "created": "2026-11-02-4",
+  "status": "approved",
+  "review_warnings": []
+}

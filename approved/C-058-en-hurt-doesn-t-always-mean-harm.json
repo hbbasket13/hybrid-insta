@@ -1,0 +1,131 @@
+{
+  "id": "C-058-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Hurt doesn't always mean harm",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Sore during rehab?<br><em>Hurt isn't always harm</em>",
+      "sub": "Koko and Hybi on reading pain",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Pain is a<br>protector!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A twinge mid-exercise,<br>and Koko <em>froze</em>.",
+      "char": "koala_tired",
+      "bubble": "Did I just<br>undo everything..?",
+      "bubble_type": "thought",
+      "note": "(a week off exercises since, just in case..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Back in Chatswood,<br>Koko caught up with <b>Hybi</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Hi Koko! How are<br>the exercises going?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "If it hurts, I should<br>stop, right?"
+      },
+      "note": "Hybi explained that <mark>pain isn't a damage meter</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Pain volume <em>≠ amount of damage</em>",
+      "fact": "Sleep, stress and worry can all turn the <em>pain volume</em> up",
+      "left": {
+        "label": "Adjust and go",
+        "char": "koala_happy",
+        "caption": "Fewer reps or less weight,<br>but <b>keep moving</b>"
+      },
+      "right": {
+        "label": "Stop everything",
+        "char": "koala_tired",
+        "caption": "Complete rest out of worry<br>can <em>leave you weaker</em>"
+      },
+      "quip": "Don't stop everything,<br>just ease back a step!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>how to read your pain</b>",
+      "sub": "Score it from 0 to 10!",
+      "sections": [
+        {
+          "heading": "1. During and next morning",
+          "color": "yellow",
+          "lines": [
+            "① During exercise, up to <em>3–4/10</em> is often okay.",
+            "② Back to <em>your usual</em> next morning? Carry on.",
+            "③ Noticeably worse? Ease back <em>one step</em>.",
+            "④ Change one thing at a time."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Sudden severe pain</em>, swelling, numbness, weakness,",
+            "fever, or night pain that doesn't ease with rest."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When pain means <em>get it checked</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if you notice",
+      "items": [
+        "Sudden, severe pain",
+        "A joint giving way",
+        "Night pain that won't ease"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko felt a twinge during her rehab exercises and hasn't done them for a week. Does hurt always mean harm?\n\nPain is your body's protection system. It's shaped by sleep, stress, worry and past experience as well as what your tissues are doing, so it isn't a reliable damage meter on its own.\n\nA practical guide many rehab programs use: mild pain during exercise, often up to 3 or 4 out of 10, that settles soon after is usually okay. Back to your usual by next morning? Carry on. Noticeably worse? Ease back one step rather than stopping everything.\n\nSudden severe pain, swelling, numbness, weakness or night pain are worth getting checked. Our team at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#painscience",
+    "#rehab",
+    "#persistentpain",
+    "#exercise",
+    "#painmanagement",
+    "#healthyageing",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains to Koko the koala why pain isn't a damage meter, how to use a 0 to 10 score during rehab and signs worth getting checked.",
+  "story": {
+    "headline": "Hurt during rehab?",
+    "body": "Don't stop everything.<br>Ease back one step.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-05",
+  "created": "2026-11-05-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-053-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for desk workers' posture",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "모모는 <em>바른 자세</em>를<br>찾아 헤맨다",
+      "sub": "필라테스가 키워주는 진짜 자세 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "정답 자세는<br>하나가 아니에요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "허리 펴! 다시 구부정..<br><em>무한 반복</em>인 모모.",
+      "char": "cat_tired",
+      "bubble": "완벽한 자세는<br>대체 뭘까..?",
+      "bubble_type": "thought",
+      "note": "(30분만 지나면 다시 스르륵..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "필라테스가 궁금했던 모모,<br><b>하비</b>를 찾아갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "모모 왔구나!<br>자세 고민이에요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "필라테스 하면<br>자세가 딱 고정돼요?"
+      },
+      "note": "하비는 <mark>자주 바꾸는 게 핵심</mark>이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "좋은 자세 = <em>다음 자세</em>",
+      "fact": "<em>정답 자세 하나</em>보다 자주 바꾸는 게 중요해요",
+      "left": {
+        "label": "자주 바꾸기",
+        "char": "cat_happy",
+        "caption": "자세를 바꾸고 움직이면<br>오래 앉아도 <b>덜 지쳐요</b>"
+      },
+      "right": {
+        "label": "꼿꼿이 버티기",
+        "char": "cat_tired",
+        "caption": "한 자세로 힘주고 있으면<br><em>금방 뻐근해져요</em>"
+      },
+      "quip": "필라테스는 그 힘과<br>감각을 길러줘요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>2분 책상 리셋</b>",
+      "sub": "회의 끝날 때마다!",
+      "sections": [
+        {
+          "heading": "1. 앉은 채로 리셋",
+          "color": "yellow",
+          "lines": [
+            "① 바르게 앉아 <em>천천히 3번</em> 숨쉬기.",
+            "② 앉아서 몸통 비틀기 <em>좌우 5번씩</em>.",
+            "③ 날개뼈 모으기 <em>5번</em>.",
+            "④ 이번 주는 회의 끝날 때마다!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 상담받기",
+          "color": "purple",
+          "lines": [
+            "팔·손이 <em>저리거나</em>,",
+            "통증이 <em>점점 심해지면</em> 확인받아요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>계속 뻐근하면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이럴 땐 평가부터 받아요",
+      "items": [
+        "팔이나 손이 저리다",
+        "두통이 자주 같이 온다",
+        "몇 주째 그대로다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "허리 펴고, 다시 구부정, 또 허리 펴고. 완벽한 자세를 찾아 헤매는 모모.\n\n연구에 따르면 허리나 목을 지켜주는 '정답 자세' 하나가 있다는 근거는 부족해요. 자세를 자주 바꾸고, 오래 앉아도 버틸 근력과 유연성이 있는 게 더 도움이 돼요. 클리니컬 필라테스는 등 윗부분 근력, 몸통 회전, 내 몸을 알아차리는 감각을 길러줘요.\n\n2분 리셋: 천천히 숨 3번, 몸통 비틀기 좌우 5번씩, 날개뼈 모으기 5번. 하이브리드 피지오 필라테스 팀은 평가부터 시작해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#클리니컬필라테스",
+    "#바른자세",
+    "#직장인운동",
+    "#채스우드",
+    "#시드니필라테스",
+    "#하이브리드피지오",
+    "#리포머필라테스",
+    "#clinicalpilates",
+    "#posture",
+    "#deskjob",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 정답 자세보다 자주 바꾸는 게 중요한 이유, 2분 책상 리셋, 확인이 필요한 신호.",
+  "story": {
+    "headline": "완벽한 자세를 찾고 있나요?",
+    "body": "좋은 자세는<br>다음 자세예요!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-03",
+  "created": "2026-11-03-5",
+  "status": "approved",
+  "review_warnings": []
+}

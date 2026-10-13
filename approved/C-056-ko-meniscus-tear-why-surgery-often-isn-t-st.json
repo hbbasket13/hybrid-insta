@@ -1,0 +1,131 @@
+{
+  "id": "C-056-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Meniscus tear: why surgery often isn't step one",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "반월상연골 파열,<br><em>재활이 먼저</em>일 때가 많아요",
+      "sub": "토토의 무릎 이야기, 하비와 함께",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "차근차근<br>가봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "축구하다 <em>무릎이 삐끗</em>,<br>검사지엔 '파열'.",
+      "char": "rabbit_tired",
+      "bubble": "파열이면..<br>이제 끝인가..?",
+      "bubble_type": "thought",
+      "note": "(검사지 글자만 봐도 심장이 쿵..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "토토, 채스우드에서<br><b>하비</b>를 만났다.",
+      "left": {
+        "char": "hybi_neutral",
+        "bubble": "검사 결과 같이<br>쉬운 말로 봐요!"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "파열이면 바로<br>수술해야 해요?"
+      },
+      "note": "하비는 <mark>연골이 하는 일</mark>부터 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "파열 = 끝, <em>아니에요!</em>",
+      "fact": "나이 들면 <em>통증 없이도</em> 연골 파열이 흔히 보여요",
+      "left": {
+        "label": "단계별 재활",
+        "char": "rabbit_happy",
+        "caption": "붓기→움직임→근력 순으로<br><b>차근차근 회복해요</b>"
+      },
+      "right": {
+        "label": "무조건 안 쓰기",
+        "char": "rabbit_tired",
+        "caption": "겁나서 안 움직이면<br><em>허벅지 힘이 빠지기 쉬워요</em>"
+      },
+      "quip": "많은 경우 재활이<br>첫 단계예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>무릎 재활 첫걸음</b>",
+      "sub": "통증 범위 안에서 천천히!",
+      "sections": [
+        {
+          "heading": "1. 초기엔 이렇게",
+          "color": "yellow",
+          "lines": [
+            "① 붓기 가라앉히고 무릎 <em>펴고 굽히기</em>.",
+            "② 앉아서 무릎 펴기 <em>10회 × 하루 3번</em>.",
+            "③ 편하게 걷기, 다음은 허벅지·엉덩이 근력.",
+            "④ 통증 없는 '딸깍' 소리는 흔해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 빨리 확인",
+          "color": "purple",
+          "lines": [
+            "무릎이 <em>걸려서 안 펴지거나</em>,",
+            "자꾸 <em>풀리면</em> 바로 평가받아요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>빨리 평가</em>받아요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 바로 확인",
+      "items": [
+        "무릎이 걸려 안 펴진다",
+        "자꾸 힘이 풀린다",
+        "체중을 못 싣는다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "축구하다 무릎이 삐끗한 토토. 검사지에 '파열'이라는 글자를 보고 놀랐어요.\n\n반월상연골은 무릎에 실리는 힘을 나눠주는 연골 패드예요. 비틀리는 부상으로 찢어지기도 하고, 나이가 들면 통증이 없는 무릎에서도 흔히 보여요. 현재 가이드라인에 따르면 많은 경우, 특히 나이와 관련된 파열은 운동 재활이 합리적인 첫 단계예요. 붓기를 가라앉히고, 움직임을 되찾고, 근력·균형을 키워요.\n\n무릎이 걸려 안 펴지거나, 자꾸 풀리거나, 체중을 못 실으면 빨리 평가받고 GP나 물리치료사와 상의해요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#반월상연골",
+    "#무릎통증",
+    "#무릎재활",
+    "#스포츠부상",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#meniscus",
+    "#kneepain",
+    "#physiotherapy",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 반월상연골이 하는 일, 많은 경우 재활이 첫 단계인 이유, 초기 무릎 재활 방법, 빨리 확인이 필요한 신호.",
+  "story": {
+    "headline": "검사지에 '연골 파열'?",
+    "body": "많은 경우<br>재활이 첫 단계예요.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-04",
+  "created": "2026-11-04-5",
+  "status": "approved",
+  "review_warnings": []
+}

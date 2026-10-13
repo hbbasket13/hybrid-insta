@@ -1,0 +1,131 @@
+{
+  "id": "C-052-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Upper back pain between the shoulder blades",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "That ache <em>between<br>the shoulder blades</em>",
+      "sub": "Mr Turtle's upper back story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Your upper back<br>loves to move!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "An hour of driving, eight at<br>a screen. Back: <em>frozen</em>.",
+      "char": "turtle_monitor",
+      "bubble": "It feels like<br>it's burning between<br>my shoulder blades..",
+      "bubble_type": "thought",
+      "note": "(and when stress hits, the breathing gets shallow..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On the way home, he met<br><b>Hybi</b> in the CBD.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Achy between<br>the shoulders?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yes.. like someone's<br>pressing a thumb in."
+      },
+      "note": "Hybi said <mark>staying in one position</mark> was a big part of it."
+    },
+    {
+      "kind": "compare",
+      "title": "Your upper back is <em>built to turn</em>",
+      "fact": "The upper back is designed to do a lot of <em>rotating</em>",
+      "left": {
+        "label": "Turn it often",
+        "char": "turtle_happy",
+        "caption": "Little twists through the day<br>can feel <b>much easier</b>"
+      },
+      "right": {
+        "label": "Stay locked",
+        "char": "turtle_sad",
+        "caption": "Hours without moving<br>let <em>stiffness build</em>"
+      },
+      "quip": "You can do it<br>right from your chair!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute upper back unlock</b>",
+      "sub": "No need to leave your chair!",
+      "sections": [
+        {
+          "heading": "1. Seated rotation",
+          "color": "yellow",
+          "lines": [
+            "① Sit tall and cross your arms over your chest.",
+            "② Turn slowly side to side, <em>10 each way</em>.",
+            "③ Lean back over your chair: <em>5 gentle extensions</em>.",
+            "④ Repeat <em>3–4 times</em> a day."
+          ]
+        },
+        {
+          "heading": "2. Call 000 if…",
+          "color": "purple",
+          "lines": [
+            "Back pain with <em>chest pain or breathlessness</em>,",
+            "or sweating? Skip the drill and call 000."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to <em>see your GP</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Book a GP visit if you notice",
+      "items": [
+        "Pain at night",
+        "Unexplained weight loss",
+        "Feeling generally unwell"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle's upper back aches like something is burning between his shoulder blades. Hours driving, at a desk or on the phone keep it in one spot, and stress and shallow breathing often add to it.\n\nHybi's 1-minute unlock: sit tall, arms crossed, turn slowly 10 times each way, then 5 gentle extensions over the back of your chair, 3–4 times a day. Lying on a rolled towel after work is another easy option.\n\nUpper back pain with chest pain, breathlessness or sweating needs urgent care, so call 000. Night pain or weight loss is worth a GP visit. Our chiropractors at Hybrid Physio can help too. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#upperbackpain",
+    "#shoulderblade",
+    "#backpain",
+    "#deskjob",
+    "#officeworker",
+    "#sydneycbd",
+    "#sydneychiro",
+    "#posture",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel where Hybi explains upper back pain between the shoulder blades to Mr Turtle, with a seated rotation drill and signs that need urgent care.",
+  "story": {
+    "headline": "Ache between the shoulder blades?",
+    "body": "Arms crossed, 10 turns each way,<br>3–4 times a day.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-03",
+  "created": "2026-11-03-4",
+  "status": "approved",
+  "review_warnings": []
+}

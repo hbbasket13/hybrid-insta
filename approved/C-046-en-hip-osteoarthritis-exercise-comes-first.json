@@ -1,0 +1,131 @@
+{
+  "id": "C-046-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hip osteoarthritis: exercise comes first",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's hip is <em>stiff</em><br><em>every morning</em>",
+      "sub": "Hip osteoarthritis: exercise comes first",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we get<br>moving together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every time she puts<br>on socks, a <em>big sigh</em>.",
+      "char": "koala_tired",
+      "bubble": "The X-ray says arthritis..<br>I should rest, yes?",
+      "bubble_type": "thought",
+      "note": "(and the afternoon naps keep getting longer..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Her daughter sent her to<br>see Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko! Let's look<br>at how you move,<br>not just the X-ray"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Is it safe to<br>exercise with<br>arthritis?"
+      },
+      "note": "Hybi explained that <mark>exercise is first-line care</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Guidelines say<br><em>exercise first</em>!",
+      "fact": "Guidelines put <em>exercise and education first</em>",
+      "left": {
+        "label": "Keep moving",
+        "char": "koala_happy",
+        "caption": "Getting stronger can<br><b>make daily life easier</b>"
+      },
+      "right": {
+        "label": "Rest to be safe",
+        "char": "koala_tired",
+        "caption": "Moving less often<br>means <em>more stiffness</em>"
+      },
+      "quip": "A bit of ache is OK<br>if it settles by tomorrow!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>four hip moves</b>",
+      "sub": "2–3 times a week, building slowly!",
+      "sections": [
+        {
+          "heading": "1. Four moves at home",
+          "color": "yellow",
+          "lines": [
+            "① Sit to stand from a chair, <em>10 reps</em>.",
+            "② Bridges, <em>10 reps</em>.",
+            "③ Side-lying leg lifts, <em>10 each side</em>.",
+            "④ Step-ups on a low step, <em>10 reps</em>."
+          ]
+        },
+        {
+          "heading": "2. See your GP promptly if…",
+          "color": "purple",
+          "lines": [
+            "You <em>can't take weight</em> after a fall, or",
+            "the joint is <em>hot and swollen</em> with a fever."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get these<br><em>checked promptly</em>",
+      "bubble": "Causes vary a lot.<br><b>Assessment</b> first!",
+      "heading": "Check with your GP if",
+      "items": [
+        "Hip pain after a fall",
+        "Can't put weight on it",
+        "Pain building every night"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Hip stiff first thing, or after a long sit? Koko sighs every time she puts her socks on.\n\nHip osteoarthritis is a common change as we age, often felt as a groin ache or stiffness after sitting. The good news: current guidelines put exercise and education first, whatever your X-ray looks like.\n\nSimple strength work like sit to stands, bridges and step-ups, two or three times a week, is a good place to start. Keep walking, cycling or swimming, and shorten the distance if the ache hangs around past the next day.\n\nPain after a fall or a hot swollen joint should be checked by your GP. Our Sydney CBD physios can help you get started. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#hiparthritis",
+    "#osteoarthritis",
+    "#hippain",
+    "#healthyageing",
+    "#strengthtraining",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why exercise comes first for hip osteoarthritis, moving versus resting, four home exercises and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff hip? Exercise comes first.",
+    "body": "Sit to stand × 10,<br>2–3 times a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-31",
+  "created": "2026-10-31-4",
+  "status": "approved",
+  "review_warnings": []
+}
