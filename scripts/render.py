@@ -11,6 +11,7 @@ Output: assets/<id>/slide-01.png ... slide-NN.png, story.png, preview.html
 from __future__ import annotations
 
 import argparse
+import json
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -18,10 +19,46 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from common import APPROVED, ASSETS, DRAFTS, TEMPLATES, brand, list_drafts, load_json, services
 
 
+CHARACTERS = ASSETS.parent / "characters"
+STRINGS = {
+    "ko": {"book": "예약", "phone": "전화", "chatswood_hint": "(I-MED 영상의학 내)", "cbd_hint": "(QVB 근처)",
+           "story_tag": "전체 내용은 피드에서 확인하세요", "disclaimer": "일반 건강 정보이며 개인 진료를 대신하지 않아요"},
+    "en": {"book": "Book", "phone": "Call", "chatswood_hint": "(inside I-MED Radiology)", "cbd_hint": "(near QVB)",
+           "story_tag": "Full post on our feed", "disclaimer": "General information only — not a substitute for an individual assessment."},
+}
+
+
+def load_characters() -> tuple[dict, dict]:
+    """Inline SVG per character name, with ids namespaced so several can share one page."""
+    import re
+    chars, ratio = {}, {}
+    bundle = CHARACTERS / "bundle.json"
+    sources = list(json.loads(bundle.read_text(encoding="utf-8")).items()) if bundle.exists() else \
+        [(p.stem, p.read_text(encoding="utf-8")) for p in sorted(CHARACTERS.glob("*.svg"))]
+    for name, svg in sources:
+        svg = re.sub(r"<\?xml[^>]*>\s*", "", svg)
+        ids = set(re.findall(r'id="([^"]+)"', svg))
+        for i in ids:
+            svg = svg.replace(f'id="{i}"', f'id="{name}-{i}"').replace(f"url(#{i})", f"url(#{name}-{i})").replace(f'href="#{i}"', f'href="#{name}-{i}"')
+        m = re.search(r'viewBox="([-\d.]+) ([-\d.]+) ([-\d.]+) ([-\d.]+)"', svg)
+        if m:
+            w, h = float(m.group(3)), float(m.group(4))
+            ratio[name] = w / h if h else 1
+        chars[name] = svg
+    return chars, ratio
+
+
 def render_html(draft: dict) -> str:
     env = Environment(loader=FileSystemLoader(str(TEMPLATES)), autoescape=select_autoescape(["html"]))
-    tpl = env.get_template("carousel.html")
     svc = services()[draft["service"]]
+    if draft.get("style") == "comic":
+        tpl = env.get_template("comic.html")
+        chars, ratio = load_characters()
+        lang = draft.get("lang", "en")
+        t = STRINGS.get(lang, STRINGS["en"])
+        return tpl.render(brand=brand(), svc=svc, slides=draft["slides"], story=draft.get("story"), lang=lang,
+                          chars=chars, chars_ratio=ratio, t=t, disclaimer=t["disclaimer"])
+    tpl = env.get_template("carousel.html")
     return tpl.render(brand=brand(), svc=svc, slides=draft["slides"], story=draft.get("story"))
 
 
