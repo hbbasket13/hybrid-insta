@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="{{ lang }}">
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Jua&family=Gaegu:wght@400;700&family=Gothic+A1:wght@500;700&family=Fredoka:wght@500;600;700&family=Patrick+Hand&family=Nunito:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #222222; --muted: #6B6B6B;
+    --paper: #FFFDF5; --blue: #1B9FBD; --red: #E8574C; --green: #7FB069; --yellow: #FDE68A;
+    --band-blue: #D9F0F3; --band-purple: #DCD9EE; --band-yellow: #FBEFC0; --band-green: #DCEFD2; --band-pink: #FBE0DC;
+    {% if lang == 'ko' %}
+    --display: "Jua", "Gothic A1", sans-serif;
+    --hand: "Gaegu", "Gothic A1", sans-serif;
+    --small: "Gothic A1", sans-serif;
+    --hand-weight: 700;
+    {% else %}
+    --display: "Fredoka", "Nunito", sans-serif;
+    --hand: "Patrick Hand", "Nunito", sans-serif;
+    --small: "Nunito", sans-serif;
+    --hand-weight: 400;
+    {% endif %}
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #ddd; color: var(--ink); font-family: var(--hand); -webkit-font-smoothing: antialiased; word-break: keep-all; overflow-wrap: break-word; }
+  .slide { width: 1080px; height: 1350px; position: relative; overflow: hidden; background: var(--paper); margin-bottom: 24px; display: flex; flex-direction: column; padding: 70px 64px 56px; }
+  .slide.story { height: 1920px; padding: 150px 64px 120px; }
+
+  h1 { font-family: var(--display); font-weight: 600; font-size: 72px; line-height: 1.22; text-align: center; letter-spacing: -0.01em; }
+  h1.sm { font-size: 62px; }
+  h2 { font-family: var(--display); font-weight: 600; font-size: 44px; white-space: nowrap; line-height: 1.3; }
+  em { font-style: normal; color: var(--red); }
+  b { font-weight: inherit; color: var(--blue); }
+  mark { background: var(--yellow); padding: 0 8px; border-radius: 8px; }
+  .sub { font-family: var(--hand); font-weight: var(--hand-weight); font-size: 36px; text-align: center; color: #444; margin-top: 18px; letter-spacing: .04em; }
+
+  /* wavy band */
+  .band { position: relative; margin: 36px -64px 0; padding: 60px 72px; min-height: 560px; flex: 1; display: flex; align-items: center; justify-content: space-around;
+    clip-path: polygon(0 14px, 3% 0, 7% 16px, 11% 2px, 15% 14px, 19% 0, 23% 16px, 27% 2px, 31% 14px, 35% 0, 39% 16px, 43% 2px, 47% 14px, 51% 0, 55% 16px, 59% 2px, 63% 14px, 67% 0, 71% 16px, 75% 2px, 79% 14px, 83% 0, 87% 16px, 91% 2px, 95% 14px, 100% 0,
+      100% calc(100% - 14px), 97% 100%, 93% calc(100% - 16px), 89% calc(100% - 2px), 85% calc(100% - 14px), 81% 100%, 77% calc(100% - 16px), 73% calc(100% - 2px), 69% calc(100% - 14px), 65% 100%, 61% calc(100% - 16px), 57% calc(100% - 2px), 53% calc(100% - 14px), 49% 100%, 45% calc(100% - 16px), 41% calc(100% - 2px), 37% calc(100% - 14px), 33% 100%, 29% calc(100% - 16px), 25% calc(100% - 2px), 21% calc(100% - 14px), 17% 100%, 13% calc(100% - 16px), 9% calc(100% - 2px), 5% calc(100% - 14px), 0 100%); }
+  .band.blue { background: var(--band-blue); } .band.purple { background: var(--band-purple); } .band.yellow { background: var(--band-yellow); }
+  .band.green { background: var(--band-green); } .band.pink { background: var(--band-pink); }
+
+  .actor { position: relative; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; }
+  .char { position: relative; display: block; }
+  .char svg { width: 100%; height: 100%; display: block; overflow: visible; }
+  .shadow { position: absolute; left: 10%; right: 10%; bottom: -14px; height: 26px; border-radius: 50%; background: rgba(0,0,0,.08); }
+
+  .bubble { position: relative; background: #fff; border: 3px solid var(--ink); border-radius: 34px; padding: 22px 34px; font-family: var(--hand); font-weight: var(--hand-weight); font-size: 34px; line-height: 1.35; text-align: center; max-width: 560px; margin-bottom: 46px; letter-spacing: .03em; }
+  .bubble:before, .bubble:after { content: ""; position: absolute; width: 0; height: 0; border-style: solid; }
+  /* tail down (default) */
+  .bubble:before { left: 50%; bottom: -24px; margin-left: -17px; border-width: 24px 17px 0 17px; border-color: var(--ink) transparent transparent transparent; }
+  .bubble:after { left: 50%; bottom: -17px; margin-left: -13px; border-width: 18px 13px 0 13px; border-color: #fff transparent transparent transparent; }
+  .bubble.thought { border-radius: 60px; }
+  .bubble.thought:before, .bubble.thought:after { border: 3px solid var(--ink); border-radius: 50%; background: #fff; width: 18px; height: 18px; left: 44px; bottom: -40px; margin: 0; }
+  .bubble.thought:after { width: 10px; height: 10px; left: 26px; bottom: -66px; }
+  /* tail left (bubble sits to the right of a character) */
+  .bubble.side { margin-bottom: 0; }
+  .bubble.side:before { left: -26px; bottom: auto; top: 40px; margin: 0; border-width: 17px 26px 17px 0; border-color: transparent var(--ink) transparent transparent; }
+  .bubble.side:after { left: -19px; bottom: auto; top: 44px; margin: 0; border-width: 13px 20px 13px 0; border-color: transparent #fff transparent transparent; }
+  /* tail right */
+  .bubble.side.r:before { left: auto; right: -26px; border-width: 17px 0 17px 26px; border-color: transparent transparent transparent var(--ink); }
+  .bubble.side.r:after { left: auto; right: -19px; border-width: 13px 0 13px 20px; border-color: transparent transparent transparent #fff; }
+
+  .badge { display: inline-block; font-family: var(--display); font-size: 30px; padding: 10px 28px; border-radius: 999px; border: 3px solid var(--ink); background: var(--blue); color: #fff; margin-top: 30px; }
+  .badge.green { background: #A8D08D; color: var(--ink); }
+  .desc { font-family: var(--hand); font-weight: var(--hand-weight); font-size: 28px; line-height: 1.45; text-align: center; color: #444; margin-top: 14px; max-width: 460px; letter-spacing: .03em; }
+
+  .note { margin: 36px auto 0; font-family: var(--hand); font-weight: var(--hand-weight); font-size: 32px; line-height: 1.5; text-align: center; color: #333; letter-spacing: .03em; max-width: 900px; }
+  .note.box { background: var(--band-yellow); border-radius: 20px; padding: 14px 30px; display: table; }
+
+  .fact { margin: 22px auto 0; border: 3px solid var(--ink); border-radius: 22px; padding: 14px 32px; font-family: var(--hand); font-weight: var(--hand-weight); font-size: 31px; text-align: center; letter-spacing: .03em; background: #fff; }
+  .cols { display: flex; justify-content: space-around; align-items: flex-start; width: 100%; }
+  .col { display: flex; flex-direction: column; align-items: center; width: 46%; }
+  .pill { font-family: var(--display); font-size: 30px; padding: 8px 26px; border-radius: 999px; border: 3px solid var(--ink); margin-bottom: 26px; }
+  .pill.good { background: #BFE8D6; } .pill.bad { background: #F9C9C3; }
+  .caption { font-family: var(--hand); font-weight: var(--hand-weight); font-size: 29px; line-height: 1.45; text-align: center; margin-top: 22px; letter-spacing: .03em; }
+  .quip { display: flex; align-items: center; gap: 24px; margin-top: 34px; }
+  .quip .bubble { margin: 0; flex: 1; max-width: none; font-size: 31px; }
+  .quip .bubble:before { left: auto; right: -26px; bottom: auto; top: 50%; margin: -17px 0 0 0; border-width: 17px 0 17px 26px; border-color: transparent transparent transparent var(--ink); }
+  .quip .bubble:after { left: auto; right: -19px; bottom: auto; top: 50%; margin: -13px 0 0 0; border-width: 13px 0 13px 20px; border-color: transparent transparent transparent #fff; }
+
+  .ribbon { display: flex; justify-content: space-between; align-items: center; background: var(--band-blue); margin: 0 -64px; padding: 24px 80px 24px 110px; clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 30px 50%); }
+  .ribbon > div { flex: 1; padding-right: 30px; }
+  .ribbon h1 { text-align: left; font-size: 54px; line-height: 1.2; }
+  .ribbon .sub { text-align: left; margin-top: 6px; font-size: 32px; }
+  .fill { flex: 1; display: flex; flex-direction: column; justify-content: center; }
+  .section { margin-top: 38px; }
+  .sechead { display: inline-block; font-family: var(--display); font-size: 40px; padding: 10px 30px; border-radius: 22px 22px 0 0; position: relative; top: 4px; }
+  .sechead.yellow { background: var(--band-yellow); } .sechead.purple { background: var(--band-purple); } .sechead.blue { background: var(--band-blue); } .sechead.green { background: var(--band-green); }
+  .secbody { border: 3px solid #555; border-radius: 0 26px 26px 26px; background: #F3F3F1; padding: 30px 40px; font-family: var(--hand); font-weight: var(--hand-weight); font-size: 36px; line-height: 1.6; letter-spacing: .03em; }
+  .secbody p { margin: 4px 0; }
+
+  .check { display: flex; align-items: center; gap: 20px; border: 3px solid #555; border-radius: 999px; background: #F3F3F1; padding: 18px 34px; font-family: var(--hand); font-weight: var(--hand-weight); font-size: 36px; margin-top: 22px; width: 660px; letter-spacing: .03em; }
+  .check:before { content: "✓"; font-family: var(--small); font-weight: 700; font-size: 34px; }
+
+  .info { border: 3px solid #555; border-radius: 30px; background: #F3F3F1; padding: 32px 40px; font-family: var(--hand); font-weight: var(--hand-weight); font-size: 30px; line-height: 1.75; letter-spacing: .03em; margin-top: 40px; }
+  .info b { font-family: var(--display); color: var(--blue); }
+
+  .foot { margin-top: auto; display: flex; justify-content: space-between; align-items: flex-end; padding-top: 24px; }
+  .brand { font-family: var(--display); font-size: 26px; color: var(--blue); }
+  .handle { font-family: var(--small); font-weight: 500; font-size: 22px; color: var(--muted); }
+  .disc { font-family: var(--small); font-size: 20px; color: #8a8a8a; text-align: center; margin-top: 14px; }
+</style>
+</head>
+<body>
+{% set total = slides|length %}
+{% macro actor(a, h) -%}
+  <div class="actor">
+    {% if a.bubble %}<div class="bubble{% if a.bubble_type == 'thought' %} thought{% endif %}">{{ a.bubble|safe }}</div>{% endif %}
+    <div class="char" style="height:{{ h }}px;width:{{ (h * (chars_ratio[a.char] if a.char in chars_ratio else 1))|round|int }}px">{{ chars[a.char]|safe }}<div class="shadow"></div></div>
+    {% if a.label %}<span class="badge{% if a.label_color %} {{ a.label_color }}{% endif %}">{{ a.label }}</span>{% endif %}
+    {% if a.desc %}<p class="desc">{{ a.desc|safe }}</p>{% endif %}
+  </div>
+{%- endmacro %}
+{% macro foot() -%}
+  <div class="foot"><span class="brand">Hybrid Physiotherapy</span><span class="handle">{{ brand.handle }}</span></div>
+  <p class="disc">{{ disclaimer }}</p>
+{%- endmacro %}
+
+{% for s in slides %}
+{% if s.kind == 'cover' %}
+<section class="slide cover" data-index="{{ loop.index }}">
+  <h1>{{ s.title|safe }}</h1>
+  {% if s.sub %}<p class="sub">{{ s.sub|safe }}</p>{% endif %}
+  <div class="band {{ s.band or 'blue' }}">{{ actor(s.left, s.h or 370) }}{{ actor(s.right, s.h or 370) }}</div>
+  {% if s.note %}<p class="note">{{ s.note|safe }}</p>{% endif %}
+  {{ foot() }}
+</section>
+
+{% elif s.kind == 'scene' %}
+<section class="slide scene" data-index="{{ loop.index }}">
+  <h1 class="sm">{{ s.title|safe }}</h1>
+  {% if s.sub %}<p class="sub">{{ s.sub|safe }}</p>{% endif %}
+  <div class="band {{ s.band or 'purple' }}" style="justify-content:center">{{ actor({'char': s.char, 'bubble': s.bubble, 'bubble_type': s.bubble_type}, s.h or 460) }}</div>
+  {% if s.note %}<p class="note box">{{ s.note|safe }}</p>{% endif %}
+  {{ foot() }}
+</section>
+
+{% elif s.kind == 'duo' %}
+<section class="slide duo" data-index="{{ loop.index }}">
+  <h1 class="sm">{{ s.title|safe }}</h1>
+  <div class="band {{ s.band or 'blue' }}">{{ actor(s.left, s.h or 360) }}{{ actor(s.right, s.h or 360) }}</div>
+  {% if s.note %}<p class="note">{{ s.note|safe }}</p>{% endif %}
+  {{ foot() }}
+</section>
+
+{% elif s.kind == 'compare' %}
+<section class="slide compare" data-index="{{ loop.index }}">
+  <h1 class="sm">{{ s.title|safe }}</h1>
+  {% if s.fact %}<p class="fact">{{ s.fact|safe }}</p>{% endif %}
+  <div class="band {{ s.band or 'blue' }}" style="min-height:520px;align-items:flex-start">
+    <div class="cols">
+      <div class="col"><span class="pill good">{{ s.left.label }}</span>{{ actor({'char': s.left.char}, 300) }}<p class="caption">{{ s.left.caption|safe }}</p></div>
+      <div class="col"><span class="pill bad">{{ s.right.label }}</span>{{ actor({'char': s.right.char}, 300) }}<p class="caption">{{ s.right.caption|safe }}</p></div>
+    </div>
+  </div>
+  {% if s.quip %}<div class="quip"><div class="bubble">{{ s.quip|safe }}</div>{{ actor({'char': s.quip_char or 'hybi_small'}, 170) }}</div>{% endif %}
+  {{ foot() }}
+</section>
+
+{% elif s.kind == 'tips' %}
+<section class="slide tips" data-index="{{ loop.index }}">
+  <div class="ribbon"><div><h1>{{ s.title|safe }}</h1>{% if s.sub %}<p class="sub">{{ s.sub|safe }}</p>{% endif %}</div>{{ actor({'char': s.char or 'hybi_neutral'}, 180) }}</div>
+  <div class="fill">
+  {% for sec in s.sections %}
+  <div class="section"><span class="sechead {{ sec.color or 'yellow' }}">{{ sec.heading|safe }}</span>
+    <div class="secbody">{% for line in sec.lines %}<p>{{ line|safe }}</p>{% endfor %}</div></div>
+  {% endfor %}
+  </div>
+  {{ foot() }}
+</section>
+
+{% elif s.kind == 'checklist' %}
+<section class="slide checklist" data-index="{{ loop.index }}">
+  <h1 class="sm">{{ s.title|safe }}</h1>
+  <div class="band {{ s.band or 'blue' }}" style="min-height:340px;flex:0 0 auto;padding:40px 64px;align-items:center;justify-content:flex-start;gap:40px">
+    {{ actor({'char': s.char or 'hybi_neutral'}, 240) }}<div class="bubble side">{{ s.bubble|safe }}</div>
+  </div>
+  <div class="fill" style="flex-direction:row;justify-content:space-between;align-items:center;margin-top:20px">
+    <div style="width:660px"><h2>{{ s.heading|safe }}</h2>{% for it in s['items'] %}<div class="check">{{ it|safe }}</div>{% endfor %}</div>
+    {% if s.char2 %}{{ actor({'char': s.char2}, 220) }}{% endif %}
+  </div>
+  {{ foot() }}
+</section>
+
+{% elif s.kind == 'cta' %}
+<section class="slide cta" data-index="{{ loop.index }}">
+  <h1>{{ s.title|safe }}</h1>
+  <div class="band {{ s.band or 'yellow' }}" style="min-height:460px">{{ actor(s.left or {'char': 'hybi_arms_up'}, 340) }}{{ actor(s.right or {'char': 'turtle_happy2'}, 340) }}</div>
+  <div class="info">
+    <b>Chatswood</b> · Level 1, 38B Albert Ave {{ t.chatswood_hint }}<br>
+    <b>Sydney CBD</b> · 1102/99 York St {{ t.cbd_hint }}<br>
+    <b>{{ t.book }}</b> · hybridphysio.com.au/onlinebooking<br>
+    <b>{{ t.phone }}</b> · 02 9419 5866
+  </div>
+  {{ foot() }}
+</section>
+{% endif %}
+{% endfor %}
+
+{% if story %}
+<section class="slide story" data-index="story">
+  <h1>{{ story.headline|safe }}</h1>
+  <div class="band {{ story.band or 'blue' }}" style="min-height:760px;justify-content:center">{{ actor({'char': story.char or 'hybi_wave', 'bubble': story.body}, 460) }}</div>
+  <p class="note" style="font-size:36px;margin-top:60px">{{ t.story_tag }}</p>
+  {{ foot() }}
+</section>
+{% endif %}
+</body>
+</html>
