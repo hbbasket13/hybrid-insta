@@ -16,6 +16,9 @@ on:
       - "scripts/remove_excluded.py"
       - "config/excluded_topics.json"
       - "scripts/no_private_insurance.py"
+      - "characters/**"
+      - "scripts/retire_legacy.py"
+      - "config/retire.json"
   workflow_dispatch:
     inputs:
       all:
@@ -53,9 +56,11 @@ jobs:
         run: python scripts/remove_excluded.py
       - name: Remove private health insurance mentions
         run: python scripts/no_private_insurance.py
+      - name: Retire legacy (non-comic) posts
+        run: python scripts/retire_legacy.py
       - name: Render
         run: |
-          if [ "${{ github.event.inputs.all }}" = "true" ] || git diff --name-only HEAD~1 HEAD | grep -qE '^(templates/|config/|scripts/sydney_only.py|scripts/no_private_insurance.py)'; then
+          if [ "${{ github.event.inputs.all }}" = "true" ] || git diff --name-only HEAD~1 HEAD | grep -qE '^(templates/|config/brand.json|config/services.json|characters/|scripts/sydney_only.py|scripts/no_private_insurance.py)'; then
             python scripts/render.py --all
           else
             python scripts/render.py
