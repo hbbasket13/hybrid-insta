@@ -1,0 +1,127 @@
+{
+  "id": "C-014-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Morning back stiffness explained",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코의 허리가<br>아침마다 <em>뻣뻣한 이유</em>",
+      "sub": "하비와 알아보는 아침 허리 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "아침 7시,<br>주전자까지 <em>엉금엉금</em>..",
+      "char": "koala_tired",
+      "bubble": "자고 나면 왜<br>허리가 이렇게<br>굳어있지..?",
+      "bubble_type": "thought",
+      "note": "(샤워하고 나면 좀 풀리긴 하는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>아침에 허리가<br>뻣뻣하구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 자고 일어나면<br>30살은 늙은 기분.."
+      },
+      "note": "하비는 <mark>밤사이 몸에서 생기는 일</mark>을 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "밤새 거의 안 움직이면<br>아침엔 <em>뻣뻣</em>할 수 있어요",
+      "fact": "30분 안에 풀리는 뻣뻣함은 대부분 흔한 종류예요",
+      "left": {
+        "label": "살살 움직임",
+        "char": "koala_happy",
+        "caption": "몸이 데워지고<br>혈액순환이 <b>살아나요</b>"
+      },
+      "right": {
+        "label": "그대로 누워",
+        "char": "koala_tired",
+        "caption": "관절·근육이<br>계속 <em>굳은 채</em>로.."
+      },
+      "quip": "샤워하고 걷고 나면<br>보통 풀려요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 아침 루틴</b>",
+      "sub": "일어나기 전 침대에서!",
+      "sections": [
+        {
+          "heading": "1. 침대 안에서 살살",
+          "color": "yellow",
+          "lines": [
+            "① 누워서 무릎 좌우로 <em>천천히</em> 흔들기 10회.",
+            "② 골반 기울이기 <em>10회</em>.",
+            "③ 따뜻한 샤워 후 <em>5분 걷기</em>.",
+            "④ 첫 1시간은 <em>무거운 것 들기</em> 피하기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP 확인받기!",
+          "color": "purple",
+          "lines": [
+            "뻣뻣함이 <em>30분 넘게</em> 매일 이어지거나,",
+            "<em>새벽에 깰 정도</em>라면 먼저 확인!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>뻣뻣하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "매일 30분 넘게 뻣뻣하다",
+        "새벽에 허리 때문에 깬다",
+        "열이나 체중 감소가 있다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "아침 7시, 주전자까지 엉금엉금 가는 코코. 샤워하고 나면 좀 풀려요.\n\n아침 허리 뻣뻣함은 아주 흔해요. 밤새 거의 움직이지 않았고 디스크도 수분을 조금 머금어요. 대부분 30분 안에 풀려요.\n\n하비의 1분 아침 루틴: 침대에서 무릎 좌우로 천천히 흔들기 10회, 골반 기울이기 10회, 따뜻한 샤워 후 5분 걷기. 첫 1시간은 무거운 것 들기를 피해요.\n\n매일 30분 넘게 이어지거나, 새벽에 깨거나, 열·체중 감소가 함께라면 GP 확인이 먼저예요. 하이브리드 피지오 카이로프랙터가 도수 치료와 운동을 함께 안내해요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#아침허리통증",
+    "#허리뻣뻣",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#채스우드",
+    "#chiropractic",
+    "#sydneychiro",
+    "#backpain",
+    "#morningstiffness",
+    "#sydney"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 아침에 허리가 뻣뻣한 이유, 살살 움직이기와 그대로 누워있기 비교, 1분 아침 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "아침마다 허리가 뻣뻣하다면?",
+    "body": "침대에서 무릎 흔들기 10회,<br>샤워 후 5분 걷기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-19",
+  "created": "2026-10-19-5",
+  "status": "approved",
+  "review_warnings": []
+}

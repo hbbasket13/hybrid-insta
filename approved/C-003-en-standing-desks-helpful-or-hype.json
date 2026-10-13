@@ -1,0 +1,127 @@
+{
+  "id": "C-003-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Standing desks: helpful or hype?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Standing desks:<br><em>helpful or hype</em>?",
+      "sub": "What they can and can't do, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Mr Turtle bought a<br>standing desk. And yet..",
+      "char": "turtle_monitor",
+      "bubble": "I stand all day now..<br>so why is my back<br>still grumbling?",
+      "bubble_type": "thought",
+      "note": "(and now his feet ache too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>New desk, same back?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. I thought<br>standing would sort it."
+      },
+      "note": "Hybi said the secret is <mark>variety, not furniture</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The goal isn't standing,<br>it's <em>changing</em>!",
+      "fact": "A standing desk simply makes <em>changing position</em> easier",
+      "left": {
+        "label": "Sit, stand, walk",
+        "char": "turtle_happy",
+        "caption": "Switch every 30–45 min<br>and the body <b>feels better</b>"
+      },
+      "right": {
+        "label": "Stands all day",
+        "char": "turtle_sad",
+        "caption": "Feet, legs and lower back<br>start to <em>ache</em> instead"
+      },
+      "quip": "One static posture swapped<br>for another, that's all!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>standing desk setup</b>",
+      "sub": "Set it up well, then keep moving!",
+      "sections": [
+        {
+          "heading": "1. Setup and rhythm",
+          "color": "yellow",
+          "lines": [
+            "① Desk at <em>elbow height</em>, screen at eye level",
+            "② Soft mat or supportive shoes, shift your weight",
+            "③ Switch every <em>30–45 min</em>, stand for phone calls",
+            "&nbsp;&nbsp;&nbsp;(plus a short walk every hour!)"
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em> the longer you stand,",
+            "or a leg <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still <em>grumbling</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling down the leg",
+        "Pain that wakes you at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Mr Turtle bought a standing desk and his back still grumbles. Standing desks are genuinely handy because they make it easy to change position. On their own, though, they're not a solution for back or neck pain.\n\nStand still all day and the feet, legs and lower back start to ache instead. That's one static posture swapped for another. The goal is variety: sit, stand, walk and move.\n\nHybi's setup: desk at about elbow height, screen at eye level, a soft mat or supportive shoes. Switch every 30 to 45 minutes, stand for calls, sit for focused work, and take a short walk every hour. Regular activity outside work tends to matter more than any piece of furniture. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#standingdesk",
+    "#ergonomics",
+    "#desklife",
+    "#officeworker",
+    "#backpain",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#movemore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining what a standing desk can and can't do, a variety-versus-standing-still comparison, a desk setup routine and signs worth getting checked.",
+  "story": {
+    "headline": "Standing desk, still sore?",
+    "body": "It's not about standing.<br>Switch every 30–45 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-14",
+  "created": "2026-10-14-6",
+  "status": "approved",
+  "review_warnings": []
+}

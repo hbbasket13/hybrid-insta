@@ -1,0 +1,127 @@
+{
+  "id": "C-007-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "첫 방문 때 챙겨올 것",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "거북씨의 <em>첫 방문</em>,<br>뭘 챙겨가지?",
+      "sub": "첫 예약 전 준비물 체크리스트",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "제가 알려<br>드릴게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "드디어 예약했는데<br><em>뭘</em> 들고 가야 하지?",
+      "char": "turtle_sad",
+      "bubble": "MRI 결과지..?<br>운동복..?<br>아 모르겠다..",
+      "bubble_type": "thought",
+      "note": "(예약은 했는데 괜히 긴장되는 거북씨..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>첫 방문이구나?<br>환영해요!"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 뭘 챙겨야<br>할지 모르겠어요."
+      },
+      "note": "하비는 <mark>딱 4가지</mark>만 챙기면 된다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "준비물은 <em>딱 4가지</em>면<br>충분해요!",
+      "fact": "평가의 대부분은 <em>어떻게 움직이는지</em>와 이야기로 이뤄져요",
+      "left": {
+        "label": "준비 완료",
+        "char": "turtle_happy",
+        "caption": "편한 옷, 자료, 질문 메모<br>평가가 <b>술술</b>"
+      },
+      "right": {
+        "label": "빈손+정장",
+        "char": "turtle_sad",
+        "caption": "꽉 끼는 옷이면<br>어깨 보기가 <em>어려워요</em>"
+      },
+      "quip": "뭘 빠뜨려도 괜찮아요.<br>같이 채우면 돼요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>첫 방문 체크리스트</b>",
+      "sub": "이것만 챙기면 준비 끝!",
+      "sections": [
+        {
+          "heading": "1. 가방에 넣을 것",
+          "color": "yellow",
+          "lines": [
+            "① GP <em>의뢰서</em>나 클레임 번호 (있다면)",
+            "② 영상 검사 결과지, 수술·전문의 소견서",
+            "③ <em>편한 옷</em>: 무릎엔 반바지, 어깨엔 헐렁한 옷",
+            "④ 언제 시작됐는지, 뭘 하고 싶은지 <em>메모</em>"
+          ]
+        },
+        {
+          "heading": "2. 이것도 기억해요!",
+          "color": "purple",
+          "lines": [
+            "몇 분 일찍 오면 서류 작성 여유가 있어요.",
+            "궁금한 건 전화로 미리 물어봐도 괜찮아요!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "첫 방문, <em>긴장된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 꼭 미리 알려주세요",
+      "items": [
+        "최근 넘어지거나 사고 후",
+        "팔·다리 저림, 힘 빠짐",
+        "열이 나거나 밤에 더 아픔"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "드디어 예약한 거북씨, 그런데 뭘 들고 가야 할지 몰라 긴장했어요. 하비의 답은 딱 4가지!\n\n① GP 의뢰서나 클레임 번호가 있다면 챙기기. ② 영상 검사 결과지, 수술·전문의 소견서. 평가의 대부분은 어떻게 움직이는지와 이야기로 이뤄져요. ③ 움직이기 편한 옷. 무릎이면 반바지, 어깨면 헐렁한 상의. ④ 언제 시작됐는지, 뭘 다시 하고 싶은지 메모.\n\n몇 분 일찍 오면 서류 작성 여유가 있고, 뭘 빠뜨려도 같이 채우면 돼요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#첫방문",
+    "#물리치료예약",
+    "#시드니물리치료",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#필라테스",
+    "#physiotherapy",
+    "#firstappointment",
+    "#chatswood",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 첫 방문 때 챙길 4가지, 준비된 경우와 아닌 경우 비교, 첫 방문 체크리스트, 미리 알려줄 신호.",
+  "story": {
+    "headline": "첫 방문, 뭘 챙겨가지?",
+    "body": "편한 옷, 검사 결과지,<br>궁금한 것 메모!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-16",
+  "created": "2026-10-16-1",
+  "status": "approved",
+  "review_warnings": []
+}

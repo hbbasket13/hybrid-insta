@@ -1,0 +1,127 @@
+{
+  "id": "C-013-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Balance training after 60: small habits that prevent falls",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코의 걱정,<br><em>휘청하면 어쩌지?</em>",
+      "sub": "하비와 알아보는 균형 훈련 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "균형은<br>연습하면 늘어요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "밤에 화장실 가다<br>살짝 <em>휘청</em>한 코코.",
+      "char": "koala_tired",
+      "bubble": "나이 들면<br>원래 이런 건가..?",
+      "bubble_type": "thought",
+      "note": "(요즘은 산책도 괜히 꺼려지고..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>균형이 걱정되는구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 이제 와서<br>연습해도 될까요?"
+      },
+      "note": "하비는 <mark>균형도 근력처럼 훈련된다</mark>고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "균형은 <em>기술</em>이에요,<br>연습하면 늘어요",
+      "fact": "연구에 따르면 운동은 낙상을 줄이는 데 도움이 돼요",
+      "left": {
+        "label": "매일 연습",
+        "char": "koala_happy",
+        "caption": "주전자 끓는 동안<br>한 발 서기 <b>30초</b>"
+      },
+      "right": {
+        "label": "걱정만",
+        "char": "koala_tired",
+        "caption": "덜 걸을수록<br>다리 힘이 <em>줄어요</em>"
+      },
+      "quip": "작은 습관이<br>매일 쌓여요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 균형 습관</b>",
+      "sub": "주방에서 바로!",
+      "sections": [
+        {
+          "heading": "1. 한 발 서기 & 앉았다 일어나기",
+          "color": "yellow",
+          "lines": [
+            "① 싱크대 잡고 한 발 들기, <em>10~30초</em>씩.",
+            "② 쉬워지면 손가락만, 다음엔 <em>손 떼기</em>.",
+            "③ 손 없이 일어나기 <em>10회</em>, 하루 1~2번.",
+            "④ 밤길 조명 켜고, 미끄러운 러그 치우기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 꼭 상담받기!",
+          "color": "purple",
+          "lines": [
+            "최근 <em>넘어졌거나</em> 일어설 때 <em>어지럽다면</em>",
+            "혼자 하지 말고 먼저 확인!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>불안하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "최근에 넘어진 적 있다",
+        "일어설 때 어지럽다",
+        "다리 힘이 새로 약해졌다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "밤에 화장실 가다 살짝 휘청한 코코. 산책도 꺼려지기 시작했어요.\n\n균형은 연습하면 느는 기술이에요. 연구에 따르면 꾸준한 운동은 노년층의 낙상을 줄이는 데 도움이 돼요.\n\n하비의 1분 습관: 주전자 끓는 동안 싱크대 잡고 한 발 들기 10~30초씩, 의자에서 손 없이 일어나기 10회, 하루 1~2번. 밤길엔 조명을 켜고 미끄러운 러그는 치워요.\n\n최근에 넘어졌거나, 일어설 때 어지럽거나, 다리 힘이 새로 약해졌다면 GP나 물리치료사와 먼저 상담해요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#균형운동",
+    "#낙상예방",
+    "#시니어건강",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#fallsprevention"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 균형은 연습으로 느는 기술이라는 이야기, 매일 연습과 걱정만 하기 비교, 1분 균형 습관, 확인이 필요한 신호.",
+  "story": {
+    "headline": "휘청할까 봐 걱정된다면?",
+    "body": "주전자 끓는 동안<br>한 발 서기 10~30초!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-19",
+  "created": "2026-10-19-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "C-016-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee pain when kneeling: tradies and gardeners",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's knees are sore<br><em>from kneeling all day</em>",
+      "sub": "A tradie-knee story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Tiling, floors, low jobs..<br>Lulu lives on her <em>knees</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why does the front<br>of my knee throb<br>every time I stand..?",
+      "bubble_type": "thought",
+      "note": "(by knock-off, the kneecaps are red and tender..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Knees bothering you?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. do I have to<br>give up kneeling?"
+      },
+      "note": "Hybi explained <mark>why the front of the knee</mark> gets sore."
+    },
+    {
+      "kind": "compare",
+      "title": "A <em>sensitive sac</em> sits<br>at the front of the knee",
+      "fact": "A bursa and tendon there get <em>irritated</em> by hours of pressure",
+      "left": {
+        "label": "Pads + switching",
+        "char": "kanga_happy",
+        "caption": "Thick pads or a mat<br><b>spread the load</b>"
+      },
+      "right": {
+        "label": "Bare knees",
+        "char": "kanga_tired",
+        "caption": "Hours in one spot,<br><em>same point pressed</em>"
+      },
+      "quip": "Change position<br>every 10–15 minutes!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute knee saver</b>",
+      "sub": "Right there on site!",
+      "sections": [
+        {
+          "heading": "1. Knee-friendly work habits",
+          "color": "yellow",
+          "lines": [
+            "① Wear <em>knee pads</em> that stay put.",
+            "② Sit-to-stands 10 × 2 sets, 3 times a week.",
+            "③ Alternate kneeling, squatting and a low stool.",
+            "④ Switch position <em>every 10–15 min</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "The knee is <em>hot, red or very swollen</em>,",
+            "or it locks or gives way — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hot, red and swollen",
+        "Locking or giving way",
+        "Pain after a knock persists"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Lulu tiles floors and works low to the ground all day. Every time she stands up, the front of her knee throbs.\n\nAt the front of the knee sit a small fluid-filled sac called a bursa and the patellar tendon. Hours of kneeling can leave them irritated.\n\nHybi's knee saver: wear thick knee pads that stay put and replace them once the foam flattens. Alternate kneeling, squatting and a low stool every 10 to 15 minutes. Sit-to-stands a few times a week help the thighs too.\n\nA hot, red or very swollen knee, locking, giving way, or pain after a knock that persists is worth an assessment. Our Sydney CBD and Chatswood physios can help, including with NSW WorkCover claims. Book online via the link in bio 🦘\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#tradies",
+    "#tradielife",
+    "#gardening",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#workplacehealth",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why kneeling all day makes the front of the knee sore, pads versus bare knees, 1-minute knee-friendly work habits and signs worth getting checked.",
+  "story": {
+    "headline": "Knees sore from kneeling?",
+    "body": "Pads on, and switch<br>position every 10–15 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-20",
+  "created": "2026-10-20-4",
+  "status": "approved",
+  "review_warnings": []
+}

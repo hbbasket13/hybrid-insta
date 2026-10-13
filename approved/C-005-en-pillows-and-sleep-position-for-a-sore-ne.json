@@ -1,0 +1,127 @@
+{
+  "id": "C-005-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Pillows and sleep position for a sore neck",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's morning neck ache:<br>is it the <em>pillow</em>?",
+      "sub": "Pillows and sleep position, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A drawer full of pillows,<br>still <em>stiff</em> every morning.",
+      "char": "koala_tired",
+      "bubble": "Did I sleep on<br>my tummy again..?",
+      "bubble_type": "thought",
+      "note": "(naps are fine, it's the nights..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff neck each morning?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. is there<br>a magic pillow?"
+      },
+      "note": "Hybi started with <mark>what matters more than the pillow</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Aim for head and spine<br>roughly <em>in line</em>",
+      "fact": "Pillow height should <em>fill the gap</em> between head and mattress",
+      "left": {
+        "label": "Neutral neck",
+        "char": "koala_happy",
+        "caption": "Head sits in line with<br>the spine, <b>relaxed</b>"
+      },
+      "right": {
+        "label": "Too high or low",
+        "char": "koala_tired",
+        "caption": "Chin pushed down or head<br>dropping, <em>stiff by morning</em>"
+      },
+      "quip": "There's no magic pillow,<br>the right height for you!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pillow guide by position</b>",
+      "sub": "Which way do you sleep?",
+      "sections": [
+        {
+          "heading": "1. Match your position",
+          "color": "yellow",
+          "lines": [
+            "① Side: <em>firmer, higher</em> pillow + hug one in front",
+            "② Back: <em>thinner</em> pillow, rolled towel in the case",
+            "③ Tummy: head twisted for hours, go very flat",
+            "&nbsp;&nbsp;&nbsp;(or slowly train yourself onto your side)"
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Arm <em>tingling or weakness</em> —",
+            "stop and get advice promptly."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em> every morning?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm tingling or weakness",
+        "Dizziness or severe headache",
+        "Pain after a fall or crash"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Koko has a drawer full of pillows and her neck is still stiff every morning. There's no magic pillow. What matters is keeping the head roughly in line with the spine, so the pillow height should fill the gap between your head and the mattress.\n\nSide sleepers usually need a firmer, higher pillow to fill the space above the shoulder, and hugging a pillow in front stops you rolling forward. Back sleepers often do better with a thinner pillow, maybe a rolled towel inside the case. Tummy sleeping twists the neck for hours, so go very flat or slowly train yourself onto your side.\n\nArm tingling or weakness, dizziness, severe headaches or pain after a fall should be checked promptly. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#neckpain",
+    "#stiffneck",
+    "#pillow",
+    "#sleepposition",
+    "#sleepbetter",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#wellbeing"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why a neutral neck matters more than the pillow, a pillow-height comparison, a guide by sleep position and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff neck every morning?",
+    "body": "Pillow height should fill the gap<br>between head and mattress.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-15",
+  "created": "2026-10-15-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "C-002-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "There is no perfect posture",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Sit up straight all day?<br><em>There's a catch</em>",
+      "sub": "Why there's no perfect posture, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Mr Turtle sat <em>bolt upright</em><br>all day long.",
+      "char": "turtle_monitor",
+      "bubble": "I'm sitting properly..<br>so why am I<br>more tired?",
+      "bubble_type": "thought",
+      "note": "(holding 'good' posture is hard work..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Worried about posture?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. is my<br>posture wrong?"
+      },
+      "note": "Hybi had news: <mark>there's no perfect posture</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's not the posture,<br>it's <em>staying still</em>!",
+      "fact": "Research suggests posture and pain <em>aren't strongly linked</em>",
+      "left": {
+        "label": "Keeps changing",
+        "char": "turtle_happy",
+        "caption": "Sit, stand, walk.<br>Your body <b>likes variety</b>"
+      },
+      "right": {
+        "label": "One pose, hours",
+        "char": "turtle_sad",
+        "caption": "Even a textbook position<br>gets <em>uncomfortable</em>"
+      },
+      "quip": "Slouching isn't dangerous.<br>An ache just means: move!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>30-minute nudge</b>",
+      "sub": "Chase movement, not a perfect pose!",
+      "sections": [
+        {
+          "heading": "1. Every 30 minutes",
+          "color": "yellow",
+          "lines": [
+            "① Set a gentle <em>reminder</em> to shift position",
+            "② Stand up, refill your water, have a stretch",
+            "③ Mix sitting, standing and walking all day",
+            "&nbsp;&nbsp;&nbsp;(walks + 2 strength sessions a week help too!)"
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your",
+            "leg or arm <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> after desk days?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg or arm tingling",
+        "Pain that wakes you at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Mr Turtle sat bolt upright all day and ended up more tired, not less. Research suggests there's no strong link between how people sit or stand and whether they get back or neck pain. Plenty of people with 'bad' posture have none, and the reverse is true too.\n\nWhat usually bothers us is staying in one position for hours, even a textbook one. Slouching on the couch is fine. If it starts to ache, take that as a nudge to move.\n\nHybi's habit: a gentle reminder every 30 minutes to shift, stand or stretch, mixing sitting, standing and walking through the day, plus regular walks and a couple of strength sessions a week. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#posture",
+    "#posturemyths",
+    "#backpain",
+    "#deskjob",
+    "#officeworker",
+    "#movemore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why there is no perfect posture, a variety-versus-stillness comparison, a 30-minute movement habit and signs worth getting checked.",
+  "story": {
+    "headline": "There's no perfect posture",
+    "body": "Change position every 30 min.<br>That matters more.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-14",
+  "created": "2026-10-14-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "C-019-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Mat vs reformer Pilates: which one for you?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mat or reformer?<br>Momo <em>can't decide</em>",
+      "sub": "A Pilates-picking story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo loves a stretch,<br>but Pilates is <em>new</em>.",
+      "char": "cat_tired",
+      "bubble": "Mat class or<br>reformer class..<br>what's the difference?",
+      "bubble_type": "thought",
+      "note": "(the more she googles, the more confusing it gets..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Curious about Pilates?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. mat or reformer,<br>which one suits me?"
+      },
+      "note": "Hybi explained that <mark>both have strengths</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Mat</em> vs <em>reformer</em>:<br>the load is different",
+      "fact": "Mat uses <b>your bodyweight</b>, the reformer uses <b>springs</b>",
+      "left": {
+        "label": "Mat",
+        "char": "cat_happy",
+        "caption": "Small props only,<br><b>take it anywhere</b>"
+      },
+      "right": {
+        "label": "Reformer",
+        "char": "cat_surprised",
+        "caption": "Springs scale the load<br>up or down <b>in small steps</b>"
+      },
+      "quip": "Neither wins overall.<br>It depends on your goals!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute picking guide</b>",
+      "sub": "Which one is for you?",
+      "sections": [
+        {
+          "heading": "1. How to choose",
+          "color": "yellow",
+          "lines": [
+            "① Returning from injury or new → <em>reformer</em> first.",
+            "② Want a routine you can do anywhere → <em>mat</em>.",
+            "③ Many do <em>both</em>: reformer sessions + mat at home.",
+            "④ Session one starts with a movement check."
+          ]
+        },
+        {
+          "heading": "2. Check in first if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em> during exercise,",
+            "or you feel dizzy or breathless — stop."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>undecided</em>?",
+      "bubble": "Every body is different.<br><b>A movement check</b> first!",
+      "heading": "Get assessed first if you",
+      "items": [
+        "Are recovering from injury",
+        "Have pain during exercise",
+        "Are pregnant or postnatal"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Momo loves a stretch, but Pilates is new to her. Mat class or reformer class? The more she googles, the more confusing it gets.\n\nMat Pilates uses your bodyweight and small props. It's easy to keep going at home or while travelling, and gets surprisingly hard once you slow down. The reformer's springs can assist or add resistance, so exercises scale in small steps. That often suits people returning from injury or new to exercise.\n\nNeither wins overall. Plenty of people do guided reformer sessions plus a short mat routine at home in between.\n\nHybi's tip: let the Pilates team at Hybrid Physio look at how you move first, then suggest mat, reformer or a mix. Book online via the link in bio 🐱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#matpilates",
+    "#pilatesforbeginners",
+    "#pilatesathome",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#sydney",
+    "#exercise",
+    "#hybridphysiotherapy",
+    "#movemore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat comparing mat and reformer Pilates, who each often suits, a 1-minute picking guide and when to get assessed first.",
+  "story": {
+    "headline": "Mat or reformer Pilates?",
+    "body": "Both have strengths.<br>Start with a movement check.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-21",
+  "created": "2026-10-21-4",
+  "status": "approved",
+  "review_warnings": []
+}

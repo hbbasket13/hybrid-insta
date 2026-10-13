@@ -1,0 +1,127 @@
+{
+  "id": "C-014-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Morning back stiffness explained",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's back is<br><em>stiffest at 7am</em>",
+      "sub": "A morning-stiffness story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "7am, shuffling to<br>the kettle..",
+      "char": "koala_tired",
+      "bubble": "Why is my back<br>so stiff after<br>a night's sleep..?",
+      "bubble_type": "thought",
+      "note": "(it does loosen up after a shower, though..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff mornings?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. I feel 30 years<br>older when I wake up."
+      },
+      "note": "Hybi explained <mark>what happens overnight</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Barely moving all night<br>can leave you <em>stiff</em>",
+      "fact": "Eases within 30 min? Usually the common, mechanical kind",
+      "left": {
+        "label": "Gentle movement",
+        "char": "koala_happy",
+        "caption": "Tissues warm up,<br>circulation <b>gets going</b>"
+      },
+      "right": {
+        "label": "Stay still",
+        "char": "koala_tired",
+        "caption": "Joints and muscles<br>stay <em>locked up</em>.."
+      },
+      "quip": "A shower and a walk<br>usually loosen it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute morning routine</b>",
+      "sub": "In bed, before you get up!",
+      "sections": [
+        {
+          "heading": "1. Wake up gently",
+          "color": "yellow",
+          "lines": [
+            "① Lying down, rock knees side to side <em>× 10</em>.",
+            "② Pelvic tilts, <em>× 10</em>.",
+            "③ Warm shower, then a <em>5-min walk</em>.",
+            "④ Skip <em>heavy lifting</em> for the first hour."
+          ]
+        },
+        {
+          "heading": "2. Check with your GP if…",
+          "color": "purple",
+          "lines": [
+            "Stiffness lasts <em>well over 30 min</em> most days,",
+            "or it <em>wakes you</em> in the early hours."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Over 30 min stiff most days",
+        "Woken in the early hours",
+        "Fever or weight loss with it"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "7am, and Koko shuffles to the kettle feeling 30 years older than last night.\n\nMorning back stiffness is really common. You've barely moved for hours, and discs take on a little fluid overnight. Movement warms tissues up, which is why most people loosen up within half an hour.\n\nHybi's 1-minute morning routine: in bed, rock your knees side to side × 10 and do pelvic tilts × 10, then a warm shower and a 5-minute walk. Go easy on heavy lifting in the first hour.\n\nStiffness lasting well over 30 minutes most mornings, waking you in the early hours, or coming with fever or weight loss deserves a GP check. Our chiropractors at Hybrid Physio combine hands-on care with simple exercises. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydneychiropractor",
+    "#backpain",
+    "#morningstiffness",
+    "#lowerbackpain",
+    "#stiffback",
+    "#sydney",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#backhealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why backs feel stiff in the morning, gentle movement versus staying still, a 1-minute wake-up routine and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff back every morning?",
+    "body": "Knee rocks × 10 in bed,<br>then a 5-min walk.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-19",
+  "created": "2026-10-19-2",
+  "status": "approved",
+  "review_warnings": []
+}

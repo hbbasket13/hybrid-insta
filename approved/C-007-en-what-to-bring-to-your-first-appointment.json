@@ -1,0 +1,127 @@
+{
+  "id": "C-007-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What to bring to your first appointment",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's <em>first visit</em>:<br>what to bring?",
+      "sub": "A quick checklist before your first appointment",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "I've got you<br>covered!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Finally booked in..<br>but <em>what</em> do I take?",
+      "char": "turtle_sad",
+      "bubble": "The scan report..?<br>Gym clothes..?<br>No idea..",
+      "bubble_type": "thought",
+      "note": "(booked, and a little nervous about it..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>First visit? Welcome!"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. I don't know<br>what to bring."
+      },
+      "note": "Hybi said <mark>just four things</mark> would do."
+    },
+    {
+      "kind": "compare",
+      "title": "Four things is<br><em>all you need</em>!",
+      "fact": "Most of the assessment is <em>how you move</em> and what you tell us",
+      "left": {
+        "label": "All set",
+        "char": "turtle_happy",
+        "caption": "Comfy clothes, reports,<br>questions: assessment <b>flows</b>"
+      },
+      "right": {
+        "label": "Empty-handed",
+        "char": "turtle_sad",
+        "caption": "Tight clothes make the<br>shoulder <em>hard to see</em>"
+      },
+      "quip": "Forgot something? No stress,<br>we'll work it out together!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first-visit checklist</b>",
+      "sub": "Pack these and you're ready!",
+      "sections": [
+        {
+          "heading": "1. In your bag",
+          "color": "yellow",
+          "lines": [
+            "① GP <em>referral</em> or claim number, if you have one",
+            "② Scan reports, surgery or specialist letters",
+            "③ <em>Comfy clothes</em> so we can see the sore area",
+            "④ A <em>note</em>: when it started, what you want back"
+          ]
+        },
+        {
+          "heading": "2. Also handy",
+          "color": "purple",
+          "lines": [
+            "Arrive a few minutes early for the paperwork.",
+            "Questions beforehand? Just call the clinic!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "First visit <em>nerves</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Let us know beforehand if",
+      "items": [
+        "A recent fall or accident",
+        "Limb tingling or weakness",
+        "Fever or pain worse at night"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Mr Turtle finally booked his first visit, then froze: what does he actually take? Hybi's answer is four things.\n\nOne: a GP referral or claim number, if you have one. Two: scan reports, surgery letters or specialist notes. Most of the assessment is about how you move and what you tell us. Three: clothes you can move in. Shorts for a knee, a loose top for a shoulder. Four: a note on when it started, what makes it better or worse, and what you want to get back to. Your goals shape the plan.\n\nArrive a few minutes early for the paperwork. Our physios, chiropractors, Pilates team and remedial massage therapists are under one roof at Hybrid Physio. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#alliedhealth",
+    "#firstappointment",
+    "#chatswood",
+    "#sydney",
+    "#sydneyphysio",
+    "#physio",
+    "#hybridphysiotherapy",
+    "#newpatient"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle covering the four things to bring to a first appointment, a prepared-versus-unprepared comparison, a first-visit checklist and things to mention beforehand.",
+  "story": {
+    "headline": "First visit: what to bring?",
+    "body": "Comfy clothes, any reports,<br>and your questions.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-16",
+  "created": "2026-10-16-4",
+  "status": "approved",
+  "review_warnings": []
+}

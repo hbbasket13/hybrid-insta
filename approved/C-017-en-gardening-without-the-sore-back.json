@@ -1,0 +1,127 @@
+{
+  "id": "C-017-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Gardening without the sore back",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's <em>Monday back</em><br>after a weekend in the garden",
+      "sub": "A gardening-back story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All Saturday bent over,<br>pulling <em>weeds</em>.",
+      "char": "kanga_tired",
+      "bubble": "Monday morning..<br>why is my back<br>so stiff..?",
+      "bubble_type": "thought",
+      "note": "(that bag of soil she heaved into the barrow..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back bothering you?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. should I give<br>up the garden?"
+      },
+      "note": "Hybi explained that <mark>gardening is a workout</mark> too."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Kneel</em>, don't stoop",
+      "fact": "Long spells bent from the waist often leave the back <em>stiff</em>",
+      "left": {
+        "label": "Pad or low stool",
+        "char": "kanga_happy",
+        "caption": "Kneeling or sitting<br><b>eases</b> the back"
+      },
+      "right": {
+        "label": "Stooping",
+        "char": "kanga_tired",
+        "caption": "One position for hours<br>tends to <em>stiffen up</em>"
+      },
+      "quip": "Swap jobs every 20 min<br>and stand up for a bit!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute garden routine</b>",
+      "sub": "Before the first bag of soil!",
+      "sections": [
+        {
+          "heading": "1. Treat gardening like sport",
+          "color": "yellow",
+          "lines": [
+            "① Walk a lap of the yard, 5 squats, trunk turns.",
+            "② Long-handled tools, a kneeling pad, a low stool.",
+            "③ <em>Swap jobs every 20 min</em>, walk a minute.",
+            "④ Lift close, hips and knees, turn with your feet."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain spreading down the leg, <em>numbness</em>",
+            "or weakness — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Bladder or bowel changes",
+        "Still stiff after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Lulu spent Saturday bent over the garden beds and heaved a bag of soil into the barrow. By Monday morning, her back is stiff.\n\nGardening is a genuine workout. Long spells bent from the waist often leave the back stiff, so a kneeling pad, a low stool and long-handled tools help.\n\nHybi's garden routine: warm up with a lap of the yard and a few squats. Swap jobs every 20 minutes and stand up for a short walk. Keep bags close, bend at the hips and knees, and turn with your feet.\n\nPain down a leg, numbness or weakness needs prompt attention. Our chiropractors at Hybrid Physio can assess how you move and help you stay active outdoors. Book online via the link in bio 🌱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sydney",
+    "#sydneycbd",
+    "#gardening",
+    "#gardeninglife",
+    "#backpain",
+    "#lowerbackpain",
+    "#liftingtechnique",
+    "#weekendwarrior",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why gardening leaves the back stiff, kneeling versus stooping, a 1-minute garden routine and signs worth getting checked.",
+  "story": {
+    "headline": "Monday back after gardening?",
+    "body": "Kneel, don't stoop,<br>swap jobs every 20 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-20",
+  "created": "2026-10-20-2",
+  "status": "approved",
+  "review_warnings": []
+}

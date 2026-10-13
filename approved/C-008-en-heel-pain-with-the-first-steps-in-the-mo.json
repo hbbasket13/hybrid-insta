@@ -1,0 +1,127 @@
+{
+  "id": "C-008-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Heel pain with the first steps in the morning (plantar heel pain)",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's first steps<br>out of bed <em>sting</em>",
+      "sub": "A heel-pain story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>First steps</em> out of bed,<br>every morning..",
+      "char": "rabbit_tired",
+      "bubble": "Ouch.. why does my heel<br>feel like I stepped<br>on a stone..?",
+      "bubble_type": "thought",
+      "note": "(it eases a little after a few steps, then repeats..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Heel giving you grief?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. do I have to<br>stop running?"
+      },
+      "note": "Hybi explained <mark>why the first step hurts</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Why the <em>first step</em><br>hurts most after rest",
+      "fact": "Tissue under the foot stiffens at rest, then pulls tight",
+      "left": {
+        "label": "After moving",
+        "char": "rabbit_happy",
+        "caption": "Tissue warms up and<br>pain often <b>eases off</b>"
+      },
+      "right": {
+        "label": "After resting",
+        "char": "rabbit_tired",
+        "caption": "Stiff tissue gets<br><em>yanked</em> on step one"
+      },
+      "quip": "That's why mornings can<br>feel the sharpest!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute heel care</b>",
+      "sub": "Before you get out of bed!",
+      "sections": [
+        {
+          "heading": "1. Calf and foot stretch first",
+          "color": "yellow",
+          "lines": [
+            "① Sitting, loop a towel and pull toes to you.",
+            "② Hold <em>20 sec × 3</em>, both sides.",
+            "③ Cushioned shoes, <em>even at home</em>.",
+            "④ Slow heel raises <em>× 10</em>, twice a day."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain is <em>getting worse</em>, or the foot",
+            "<em>swells or tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain after a fall or jump",
+        "Heel pain at night",
+        "Swelling or tingling"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Toto's heel stings with the first steps out of bed. It eases after a few steps, then it's back the next morning.\n\nThe thick tissue under the foot, where it joins the heel, stiffens while you rest and pulls tight on that first step. It's common in runners and often follows a jump in activity, new shoes or tight calves.\n\nHybi's 1-minute heel care: a towel stretch before you get up, 20 seconds × 3, cushioned shoes even at home, and slow heel raises × 10 twice a day. Research suggests strength work plus load changes helps.\n\nPain after a fall, heel pain at night, swelling or tingling are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#heelpain",
+    "#plantarheelpain",
+    "#footpain",
+    "#runninginjury"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining morning heel pain, why the first step hurts, a 1-minute towel stretch and heel-raise routine and signs worth getting checked.",
+  "story": {
+    "headline": "First steps sting?",
+    "body": "Towel stretch before you get up:<br>20 sec × 3.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-16",
+  "created": "2026-10-16-2",
+  "status": "approved",
+  "review_warnings": []
+}

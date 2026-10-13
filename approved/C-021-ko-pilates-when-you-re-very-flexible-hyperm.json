@@ -1,0 +1,128 @@
+{
+  "id": "C-021-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates when you're very flexible (hypermobility)",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "유연한 모모,<br>그런데 왜 <em>자꾸 아플까?</em>",
+      "sub": "하비와 함께 알아보는 유연한 몸 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "수업에서 늘 제일<br><em>유연한</em> 모모. 그런데..",
+      "char": "cat_tired",
+      "bubble": "스트레칭은 쉬운데<br>왜 관절이 쉽게<br>피곤하지..?",
+      "bubble_type": "thought",
+      "note": "(깊게 늘일수록 시원한데 다음 날 욱신..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>몸이 많이 유연하구나?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 그런데 왜<br>자꾸 쑤실까요?"
+      },
+      "note": "하비는 <mark>유연함과 힘은 다르다</mark>는 것부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>끝까지 늘이기</em>보다<br>중간에서 조절하기",
+      "fact": "관절이 많이 움직이면 근육이 <em>더 일해야</em> 할 수 있어요",
+      "left": {
+        "label": "중간 범위",
+        "char": "cat_happy",
+        "caption": "천천히, 작은 범위로<br>근육이 <b>일하게</b> 해요"
+      },
+      "right": {
+        "label": "끝까지 늘이기",
+        "char": "cat_tired",
+        "caption": "관절에 매달리듯<br><em>버티게 돼요</em>"
+      },
+      "quip": "느리게 할수록 더 힘들면<br>보통 좋은 신호예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 조절 연습</b>",
+      "sub": "유연한 몸을 위한 루틴!",
+      "sections": [
+        {
+          "heading": "1. 범위 말고 조절을 연습해요",
+          "color": "yellow",
+          "lines": [
+            "① 끝까지 늘이는 스트레칭은 잠시 쉬어요.",
+            "② <em>느리게</em>, 가벼운 스프링, 작은 범위로.",
+            "③ 어떤 근육이 일하는지 <em>느끼면서</em> 해요.",
+            "④ 밴드·체중으로 무게를 조금씩 더해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 먼저 상담하세요!",
+          "color": "purple",
+          "lines": [
+            "관절이 <em>빠질 것 같거나</em>,",
+            "통증이 여기저기 퍼지면 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>쑤신다면?</em>",
+      "bubble": "몸은 사람마다 달라요.<br><b>움직임 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "관절이 자주 빠질 것 같다",
+        "통증이 여기저기 퍼진다",
+        "이유 없이 많이 피곤하다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "수업에서 늘 제일 유연한 모모. 깊게 늘일수록 시원한데, 다음 날이면 관절이 욱신거려요.\n\n관절이 평균보다 많이 움직이는 분들은 그 범위를 조절하느라 근육이 더 일해야 해서 피로나 통증이 생길 수 있어요. 유연함과 힘은 달라요.\n\n하비의 조절 연습: 끝까지 늘이는 스트레칭은 잠시 쉬고, 중간 범위에서 느리게, 가벼운 스프링으로 어떤 근육이 일하는지 느끼면서 해요. 연구에서는 근력 운동이 도움이 될 수 있다고 제안해요.\n\n관절이 자주 빠질 것 같거나 통증이 여기저기 퍼지면 평가가 먼저예요. 하이브리드 피지오의 필라테스 팀이 함께해요. 프로필 링크에서 온라인 예약 🐱\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#클리니컬필라테스",
+    "#유연성",
+    "#관절안정성",
+    "#시드니필라테스",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#pilates",
+    "#clinicalpilates",
+    "#hypermobility",
+    "#flexibility",
+    "#sydneypilates",
+    "#strengthtraining"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 유연한 몸이 자꾸 쑤실 수 있는 이유, 끝까지 늘이기와 중간 범위 조절 비교, 1분 조절 연습, 확인이 필요한 신호.",
+  "story": {
+    "headline": "너무 유연해서 자꾸 아프다면?",
+    "body": "끝까지 늘이기 대신<br>중간에서 조절 연습!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-21",
+  "created": "2026-10-21-3",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "C-018-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "3 signs your back pain is probably not serious",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's back went..<br><em>time to panic?</em>",
+      "sub": "An acute-back story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lifting a pack of tiles,<br>Lulu's back <em>went</em>.",
+      "char": "kanga_tired",
+      "bubble": "I can't stand up<br>straight.. is this<br>something serious..?",
+      "bubble_type": "thought",
+      "note": "(her mind is already racing through worst cases..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Tweaked your back?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. should I go<br>and get a scan?"
+      },
+      "note": "Hybi started with <mark>three reassuring signs</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Three signs of the<br><em>common kind</em>",
+      "fact": "Most back pain is <em>not damage</em>, and usually settles in weeks",
+      "left": {
+        "label": "Common pattern",
+        "char": "kanga_happy",
+        "caption": "Stays in the back<br>and <b>buttock</b>"
+      },
+      "right": {
+        "label": "Worth a check",
+        "char": "kanga_tired",
+        "caption": "Pins and needles or<br><em>weakness</em> in the legs"
+      },
+      "quip": "The common kind usually<br>settles in a few weeks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute self-check</b>",
+      "sub": "Three signs to look for!",
+      "sections": [
+        {
+          "heading": "1. Signs of the common kind",
+          "color": "yellow",
+          "lines": [
+            "① A clear <em>moment it started</em>: lift, twist, sneeze.",
+            "② <em>Changes with position</em>: sitting vs walking.",
+            "③ Stays in the back or buttock, <em>no leg tingling</em>.",
+            "→ All three? Usually safe to keep moving gently."
+          ]
+        },
+        {
+          "heading": "2. Get checked promptly if…",
+          "color": "purple",
+          "lines": [
+            "Groin numbness, bladder or bowel changes,",
+            "or leg weakness that's getting worse."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg weakness getting worse",
+        "Bladder or bowel changes",
+        "Fever or a serious fall"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Lulu's back went while lifting a pack of tiles. She couldn't stand up straight and feared the worst.\n\nMost back pain, even the kind that stops you standing tall, is not damage, and it usually settles within a few weeks. Three signs it's the common kind: a clear moment it started, it changes with position, and it stays in the back or buttock without leg tingling or weakness. That pattern responds to movement and time.\n\nA few things do need a prompt check: groin numbness, bladder or bowel changes, worsening leg weakness, fever, or pain after a serious fall.\n\nOur Chatswood and Sydney CBD physios assess what's driving it and get you moving on day one. Book online via the link in bio 🦘\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#backpain",
+    "#lowerbackpain",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#painscience",
+    "#keepmoving",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why most acute back pain is not damage, the common pattern versus signs worth a check, a 1-minute self-check and when to get checked promptly.",
+  "story": {
+    "headline": "Back's gone. Time to panic?",
+    "body": "Three signs it's the common,<br>settles-in-weeks kind.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-20",
+  "created": "2026-10-20-6",
+  "status": "approved",
+  "review_warnings": []
+}

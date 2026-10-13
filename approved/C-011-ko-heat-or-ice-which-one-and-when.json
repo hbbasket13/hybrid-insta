@@ -1,0 +1,127 @@
+{
+  "id": "C-011-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Heat or ice: which one and when",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "토토의 고민,<br><em>찜질은 온? 냉?</em>",
+      "sub": "하비와 알아보는 온찜질·냉찜질",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "발목을 <em>삐끗</em>한 토토,<br>찜질팩 앞에서 고민 중.",
+      "char": "rabbit_tired",
+      "bubble": "뜨겁게? 차갑게?<br>뭘 해야 하지..?",
+      "bubble_type": "thought",
+      "note": "(냉동실엔 아이스팩, 서랍엔 핫팩..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>발목 삐끗했구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 온찜질이랑<br>냉찜질 중 뭐가<br>맞아요?"
+      },
+      "note": "하비는 <mark>둘 다 마법은 아니라고</mark> 먼저 말했다."
+    },
+    {
+      "kind": "compare",
+      "title": "찜질보다 <em>움직임</em>이<br>더 중요해요",
+      "fact": "냉: 새로 다친 곳 1~2일 · 온: 뻐근하고 뭉친 근육",
+      "left": {
+        "label": "찜질+움직임",
+        "char": "rabbit_happy",
+        "caption": "편해진 김에<br><b>살살 움직여요</b>"
+      },
+      "right": {
+        "label": "찜질만",
+        "char": "rabbit_tired",
+        "caption": "팩만 올리고 가만히,<br><em>회복은 더뎌요</em>"
+      },
+      "quip": "편한 쪽을 골라서<br>움직임과 함께해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 찜질 가이드</b>",
+      "sub": "뭘 고를지 헷갈릴 때!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 골라요",
+          "color": "yellow",
+          "lines": [
+            "① 새로 삐끗·부딪힘: <em>냉</em>, 처음 1~2일.",
+            "② 뻐근·뭉침·오래된 통증: <em>온</em>.",
+            "③ 수건에 싸서 <em>10~15분</em>씩만.",
+            "④ 그리고 <em>살살 움직이기</em>가 핵심!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 하지 말고 확인!",
+          "color": "purple",
+          "lines": [
+            "<em>감각이 없는</em> 피부엔 온·냉 모두 금지,",
+            "다리에 <em>체중을 못 싣겠다면</em> 바로 확인!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>이상하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "체중을 실을 수 없다",
+        "많이 붓거나 모양이 이상",
+        "저리거나 색이 변한다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "발목을 삐끗한 토토, 아이스팩과 핫팩 사이에서 고민 중이에요. 하비의 솔직한 답: 뭘 고르느냐는 생각보다 덜 중요해요.\n\n냉찜질은 새로 삐끗하거나 부딪힌 곳에 처음 1~2일, 수건에 싸서 10~15분씩. 온찜질은 뻐근하고 뭉친 근육에, 특히 움직이기 전에 좋아요. 지침상 둘 다 회복을 크게 앞당기진 않으니, 편한 쪽을 고르고 살살 움직이는 게 핵심이에요.\n\n체중을 실을 수 없거나, 많이 붓거나, 저리거나 색이 변하면 평가가 먼저예요. 감각이 없는 피부엔 온·냉 모두 피해요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐰\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#온찜질",
+    "#냉찜질",
+    "#발목염좌",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#heatorice"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 온찜질과 냉찜질 고르는 법, 찜질만 하기와 움직임 함께하기 비교, 1분 찜질 가이드, 확인이 필요한 신호.",
+  "story": {
+    "headline": "온찜질? 냉찜질?",
+    "body": "냉은 새 부상, 온은 뻐근함.<br>둘 다 움직임과 함께!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-17",
+  "created": "2026-10-17-5",
+  "status": "approved",
+  "review_warnings": []
+}

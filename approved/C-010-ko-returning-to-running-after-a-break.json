@@ -1,0 +1,127 @@
+{
+  "id": "C-010-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Returning to running after a break",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "몇 달 만에 다시<br><em>달리기 시작한</em> 토토",
+      "sub": "하비와 짜는 러닝 복귀 계획",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>계획 세워볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "오랜만에 <em>예전 페이스</em>로<br>달렸더니..",
+      "char": "rabbit_tired",
+      "bubble": "숨은 괜찮은데<br>다리가 왜 이렇게<br>무겁지..?",
+      "bubble_type": "thought",
+      "note": "(다음 날 종아리·무릎이 묵직..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>다시 달리기 시작했구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 예전처럼<br>바로 뛰어도 될까요?"
+      },
+      "note": "하비는 <mark>천천히 돌아오는 법</mark>을 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "심폐는 빨리,<br>힘줄과 뼈는 <em>천천히</em>",
+      "fact": "체력은 금방 돌아오지만 힘줄·뼈는 적응이 느려요",
+      "left": {
+        "label": "걷기+뛰기",
+        "char": "rabbit_happy",
+        "caption": "몸이 따라올<br><b>시간을 줘요</b>"
+      },
+      "right": {
+        "label": "바로 전력",
+        "char": "rabbit_tired",
+        "caption": "숨은 되는데<br>다리가 <em>못 버텨요</em>"
+      },
+      "quip": "처음엔 생각보다<br>낮게 시작해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>러닝 복귀 1분 플랜</b>",
+      "sub": "한 번에 하나씩 늘려요!",
+      "sections": [
+        {
+          "heading": "1. 걷기-뛰기부터",
+          "color": "yellow",
+          "lines": [
+            "① <em>1분 뛰고 2분 걷기</em>, 총 20~30분.",
+            "② 처음엔 <em>이틀에 한 번</em>만 달려요.",
+            "③ 속도보다 <em>시간</em>을 먼저 늘려요.",
+            "④ 3~4주마다 한 주는 <em>쉬어가기</em>."
+          ]
+        },
+        {
+          "heading": "2. 다음 날 아침 테스트!",
+          "color": "purple",
+          "lines": [
+            "다음 날 <em>더 아프거나</em> 절뚝이면",
+            "한 단계 <em>전으로</em> 돌아가기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "뼈 한 곳이 콕 아프다",
+        "뛸 때마다 더 아프다",
+        "붓거나 밤에 아프다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "몇 달 만에 다시 달리기 시작한 토토. 숨은 괜찮은데 다음 날 다리가 묵직해요. 심폐 체력은 금방 돌아오지만 힘줄과 뼈는 적응이 느리기 때문이에요.\n\n하비의 복귀 플랜: 1분 뛰고 2분 걷기를 총 20~30분, 처음엔 이틀에 한 번만. 속도보다 시간을 먼저 늘리고, 3~4주마다 한 주는 쉬어가요. 다음 날 더 아프거나 절뚝이면 한 단계 전으로. 종아리 들기와 브릿지를 주 2회 더하면 좋아요.\n\n뼈 한 곳이 콕 아프거나, 뛸 때마다 더 아프거나, 붓거나 밤에 아프면 평가가 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐰\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#러닝복귀",
+    "#달리기",
+    "#러닝부상",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#returntorunning"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 쉬었다가 달리기로 돌아올 때 다리가 무거운 이유, 걷기-뛰기 복귀 플랜, 다음 날 아침 테스트, 확인이 필요한 신호.",
+  "story": {
+    "headline": "다시 달리기 시작했다면?",
+    "body": "1분 뛰고 2분 걷기,<br>속도보다 시간 먼저!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-17",
+  "created": "2026-10-17-1",
+  "status": "approved",
+  "review_warnings": []
+}

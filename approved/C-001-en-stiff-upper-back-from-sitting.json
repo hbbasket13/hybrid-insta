@@ -1,0 +1,127 @@
+{
+  "id": "C-001-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Stiff upper back from sitting",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's upper back<br>feels like a <em>brick</em>",
+      "sub": "A stiff mid-back story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we loosen<br>it together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "3pm. His mid back<br>has turned to <em>stone</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Why does my back<br>feel so locked up..?",
+      "bubble_type": "thought",
+      "note": "(a big stretch helps.. for about a minute)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Upper back feeling stiff?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. is something<br>out of place in there?"
+      },
+      "note": "Hybi explained <mark>why it stiffens up</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Your mid back is built<br>to <em>move</em>!",
+      "fact": "Built to <em>twist and extend</em> · sit still and it stiffens up",
+      "left": {
+        "label": "Moves often",
+        "char": "turtle_happy",
+        "caption": "A few twists and leans<br>keep it <b>supple</b>"
+      },
+      "right": {
+        "label": "Hours still",
+        "char": "turtle_sad",
+        "caption": "Slightly slumped for hours<br>and it <em>locks up</em>"
+      },
+      "quip": "It's stiffness,<br>not damage!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>2-minute back loosener</b>",
+      "sub": "Right at your desk!",
+      "sections": [
+        {
+          "heading": "1. Three desk-side moves",
+          "color": "yellow",
+          "lines": [
+            "① Arms crossed, turn to look behind, 5 each way",
+            "② Hands behind head, lean back over chair top ×10",
+            "③ Wall angels: arms slide up and down the wall ×10",
+            "&nbsp;&nbsp;&nbsp;(2–3 times a day, small range, no forcing!)"
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your",
+            "arm <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still stiff after <em>a week</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Chest pain or breathlessness",
+        "Arm tingling or weakness",
+        "Worse at night, even resting"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "By mid-afternoon Mr Turtle's upper back feels like a brick. The mid back is built to rotate and extend. Sit slightly slumped for a few hours and it simply stops doing either. That's stiffness, not damage.\n\nHybi's 2-minute loosener: arms crossed, turn to look behind you, 5 each way. Hands behind your head, lean gently back over the chair top, 10 slow reps. Wall angels, 10 reps. Two or three times a day, small range, no forcing.\n\nStill stiff after a week or so? Hands-on treatment from a chiropractor can free up a stubborn segment so the exercises are easier to do well. It works alongside movement, not instead of it. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#upperbackpain",
+    "#thoracicspine",
+    "#deskjob",
+    "#officeworker",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#sydney",
+    "#mobility",
+    "#hybridphysiotherapy",
+    "#movemore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why the upper back stiffens from sitting, a movement comparison, three desk-side moves and signs worth getting checked.",
+  "story": {
+    "headline": "Upper back like a brick?",
+    "body": "Arms crossed, look behind:<br>5 each way, right at your desk.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-14",
+  "created": "2026-10-14-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,126 @@
+{
+  "id": "C-004-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for tension headaches",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "The 3pm headache<br>that starts in your <em>neck</em>",
+      "sub": "Tension headaches and massage, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we ease<br>it together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "By afternoon, a tight <em>band</em><br>around his head.",
+      "char": "turtle_monitor",
+      "bubble": "Neck and shoulders<br>feel like rocks too...",
+      "bubble_type": "thought",
+      "note": "(a dull press, not a throb..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Head feeling heavy?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. will a massage<br>make it go away?"
+      },
+      "note": "Hybi explained what massage <mark>can and can't do</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage is <em>one piece</em><br>of the puzzle",
+      "fact": "Tension headaches often travel with <em>tight neck muscles</em>",
+      "left": {
+        "label": "Massage + habits",
+        "char": "turtle_happy",
+        "caption": "Ease the neck, plus<br>breaks, sleep and <b>movement</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "turtle_sad",
+        "caption": "Same habits, and relief<br>is often <em>short-lived</em>"
+      },
+      "quip": "It complements the rest,<br>it doesn't replace it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>three things for today</b>",
+      "sub": "Habits to keep it settled between visits",
+      "sections": [
+        {
+          "heading": "1. Try today",
+          "color": "yellow",
+          "lines": [
+            "① Every <em>30 min</em>: roll shoulders, eyes off screen",
+            "② A few gentle chin tucks, 5 sec × 10",
+            "③ Warm pack on the shoulders, 10 min each evening"
+          ]
+        },
+        {
+          "heading": "2. See your GP first if…",
+          "color": "purple",
+          "lines": [
+            "A <em>sudden severe</em> headache, fever, stiff neck,",
+            "vision changes or weakness — get a medical check."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Headaches that <em>keep coming</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sudden, severe headache",
+        "Fever, stiff neck, weakness",
+        "New headaches later in life"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "By 3pm Mr Turtle has a tight band around his head. Tension-type headaches feel like a dull press rather than a throb, and they often travel with tight, tender muscles in the neck, upper shoulders and base of the skull.\n\nRemedial massage can ease that tenderness, and research suggests it may reduce how often some people get these headaches. It's one piece of the puzzle, though. Without desk breaks, movement, sleep and stress management, relief is often short-lived.\n\nHybi's three: roll your shoulders every 30 minutes, a few gentle chin tucks, and a warm pack on the shoulders for 10 minutes in the evening. A sudden severe headache, fever, stiff neck, vision changes or weakness need a GP first. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#tensionheadache",
+    "#neckpain",
+    "#neckandshoulders",
+    "#desklife",
+    "#officeworker",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#selfcare"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining tension headaches, what remedial massage can and can't do, three habits to try today and signs that need a GP first.",
+  "story": {
+    "headline": "Headache that starts in your neck?",
+    "body": "Massage is one piece.<br>Roll shoulders every 30 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-15",
+  "created": "2026-10-15-4",
+  "status": "approved",
+  "review_warnings": []
+}

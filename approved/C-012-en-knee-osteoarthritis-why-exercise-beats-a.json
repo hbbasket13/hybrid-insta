@@ -1,0 +1,127 @@
+{
+  "id": "C-012-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee osteoarthritis: why exercise beats another scan",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's knee: another<br>scan, or <em>exercise</em>?",
+      "sub": "A knee-arthritis story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Stairs make Koko's knee<br><em>twinge</em>..",
+      "char": "koala_tired",
+      "bubble": "Should I get<br>another scan<br>of this knee..?",
+      "bubble_type": "thought",
+      "note": "(naps are lovely, but the walks are getting shorter..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Knee bothering you?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. it's arthritis.<br>Should I just rest it?"
+      },
+      "note": "Hybi suggested <mark>movement over rest</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Scans and pain often<br><em>don't match up</em>",
+      "fact": "Current guidelines put exercise and education first",
+      "left": {
+        "label": "Keeps moving",
+        "char": "koala_happy",
+        "caption": "Joints are <b>built</b><br>to be loaded"
+      },
+      "right": {
+        "label": "Rests too much",
+        "char": "koala_tired",
+        "caption": "Less movement often<br>means <em>more stiffness</em>"
+      },
+      "quip": "Exercise before<br>another scan!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute knee routine</b>",
+      "sub": "Right in the living room!",
+      "sections": [
+        {
+          "heading": "1. Sit-to-stands",
+          "color": "yellow",
+          "lines": [
+            "① Sit on a chair, stand up <em>slowly</em>, no hands.",
+            "② Sit back down slowly, <em>10 × 2 sets</em>.",
+            "③ Step-ups on the bottom stair, <em>× 10</em>.",
+            "④ Start with a <em>10–20 min walk</em> daily."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Discomfort <em>hasn't settled</em> by the next day,",
+            "or the knee gets <em>hot and swollen</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hot, very swollen knee",
+        "Suddenly locks or gives way",
+        "Pain after a fall or twist"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Stairs make Koko's knee twinge, and he wondered about another scan. Hybi's answer was a little different.\n\nX-ray changes and pain often don't match well. Another scan usually won't change what helps day to day.\n\nCurrent guidelines recommend exercise and education first for knee osteoarthritis. Joints are built to be loaded, and resting too much often makes stiffness worse. Hybi's 1-minute routine: sit-to-stands with no hands, 10 × 2 sets, step-ups on the bottom stair × 10, and a daily 10–20 minute walk.\n\nA hot, very swollen knee, one that locks or gives way, or pain after a fall needs a prompt assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#kneeosteoarthritis",
+    "#kneepain",
+    "#osteoarthritis",
+    "#healthyageing"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why exercise comes before another scan for knee arthritis, moving versus over-resting, a 1-minute knee routine and signs worth getting checked.",
+  "story": {
+    "headline": "Knee arthritis: scan or move?",
+    "body": "Sit-to-stands 10 × 2.<br>Exercise comes first.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-17",
+  "created": "2026-10-17-6",
+  "status": "approved",
+  "review_warnings": []
+}

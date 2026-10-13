@@ -1,0 +1,127 @@
+{
+  "id": "C-013-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Balance training after 60: small habits that prevent falls",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's worry:<br><em>what if I wobble?</em>",
+      "sub": "A balance story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Balance can be<br>trained!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A little <em>wobble</em> on the<br>way to the loo at night..",
+      "char": "koala_tired",
+      "bubble": "Is this just<br>what getting<br>older is like..?",
+      "bubble_type": "thought",
+      "note": "(and the daily walk is quietly getting skipped..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Worried about balance?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. is it too late<br>to work on it?"
+      },
+      "note": "Hybi said <mark>balance trains like strength</mark> does."
+    },
+    {
+      "kind": "compare",
+      "title": "Balance is a <em>skill</em>,<br>and skills improve",
+      "fact": "Research suggests exercise can reduce falls in older adults",
+      "left": {
+        "label": "Daily practice",
+        "char": "koala_happy",
+        "caption": "One-leg stand<br>while the kettle boils"
+      },
+      "right": {
+        "label": "Worry only",
+        "char": "koala_tired",
+        "caption": "Fewer walks, and<br>leg strength <em>fades</em>"
+      },
+      "quip": "Small habits,<br>done daily, add up!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute balance habits</b>",
+      "sub": "Right there in the kitchen!",
+      "sections": [
+        {
+          "heading": "1. One-leg stand & sit-to-stand",
+          "color": "yellow",
+          "lines": [
+            "① Hold the bench, lift one foot, <em>10–30 sec</em>.",
+            "② Easier? Fingertips only, then <em>hover</em>.",
+            "③ Stand from a chair, no hands, <em>× 10</em>, 1–2 a day.",
+            "④ Light the hallway at night; ditch loose rugs."
+          ]
+        },
+        {
+          "heading": "2. Check in first if…",
+          "color": "purple",
+          "lines": [
+            "You've had a <em>fall</em>, or feel <em>dizzy</em> standing up —",
+            "get checked before going solo."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>unsteady</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A fall in recent months",
+        "Dizzy when you stand up",
+        "New weakness in the legs"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "A little wobble on the way to the loo at night, and Koko started skipping the daily walk.\n\nBalance isn't something you simply lose with age. It's a skill, and it responds to practice. Research suggests regular exercise can reduce falls in older adults.\n\nHybi's 1-minute habits: hold the bench and lift one foot while the kettle boils, 10–30 seconds each side, then fingertips only. Stand from a chair with no hands, 10 times, once or twice a day. Light the hallway at night and ditch the loose rugs.\n\nA recent fall, dizziness when you stand, or new weakness in the legs is worth a chat with your GP or physio. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#balancetraining",
+    "#fallsprevention",
+    "#healthyageing",
+    "#over60"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining that balance is a trainable skill, daily practice versus worry, 1-minute balance habits and signs worth getting checked.",
+  "story": {
+    "headline": "Worried about a wobble?",
+    "body": "One-leg stand while the<br>kettle boils: 10–30 sec.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-19",
+  "created": "2026-10-19-4",
+  "status": "approved",
+  "review_warnings": []
+}

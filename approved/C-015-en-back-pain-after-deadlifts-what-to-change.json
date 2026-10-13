@@ -1,0 +1,127 @@
+{
+  "id": "C-015-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Back pain after deadlifts: what to change",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's back is sore<br><em>after deadlifts</em>",
+      "sub": "A gym-back story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Saturday at the gym,<br>Lulu <em>jumped the weight</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why is my back<br>so stiff<br>the next day..?",
+      "bubble_type": "thought",
+      "note": "(and there's a full day on site tomorrow..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back bothering you?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. should I stop<br>lifting altogether?"
+      },
+      "note": "Hybi explained it's <mark>usually a strain</mark>, not damage."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Lighter</em>, not stopped!",
+      "fact": "Most gym back pain is a <em>strain</em>, not damage, and settles",
+      "left": {
+        "label": "Keep the hinge",
+        "char": "kanga_happy",
+        "caption": "Light load,<br>keep the <b>pattern</b> going"
+      },
+      "right": {
+        "label": "Chase the PB",
+        "char": "kanga_tired",
+        "caption": "Jumping straight back<br>often <em>flares it up</em>"
+      },
+      "quip": "Add weight over weeks,<br>not days!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute return plan</b>",
+      "sub": "For your next gym session!",
+      "sections": [
+        {
+          "heading": "1. Lighter, then build",
+          "color": "yellow",
+          "lines": [
+            "① Drop the load to <em>comfortably light</em>.",
+            "② Cut sets and reps; rest after a poor sleep.",
+            "③ Try a trap bar, block pull or light RDL.",
+            "④ Add weight gradually over <em>weeks</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain spreads down the leg with <em>numbness</em>",
+            "or weakness — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Bladder or bowel changes",
+        "Severe pain past 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Lulu jumped the weight on Saturday and woke up with a stiff back. Should she stop lifting altogether?\n\nUsually not. Most gym back pain is a strain rather than damage, and it tends to settle within days to a couple of weeks.\n\nHybi's return plan: drop the load to comfortably light, cut back sets and reps, and try a friendlier variation like a trap bar, block pull or light Romanian deadlift. Then add weight gradually over weeks, not days.\n\nLeg numbness or weakness, bladder or bowel changes, or severe pain not easing after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can look at your lift and your program. Book online via the link in bio 🦘\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#deadlift",
+    "#backpain",
+    "#gym",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#strengthtraining",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why back pain after deadlifts is usually a strain, lighter-not-stopped training, a 1-minute return plan and signs worth getting checked.",
+  "story": {
+    "headline": "Back sore after deadlifts?",
+    "body": "Go lighter, keep the hinge,<br>build over weeks.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-19",
+  "created": "2026-10-19-6",
+  "status": "approved",
+  "review_warnings": []
+}

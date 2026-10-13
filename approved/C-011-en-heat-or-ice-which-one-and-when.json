@@ -1,0 +1,127 @@
+{
+  "id": "C-011-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Heat or ice: which one and when",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's dilemma:<br><em>heat or ice?</em>",
+      "sub": "A simple way to choose, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Toto rolled an ankle<br>on the trail..",
+      "char": "rabbit_tired",
+      "bubble": "Hot pack? Cold pack?<br>Which one do<br>I reach for..?",
+      "bubble_type": "thought",
+      "note": "(ice in the freezer, heat pack in the drawer..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Rolled your ankle?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. so is it<br>heat or ice?"
+      },
+      "note": "Hybi said first: <mark>neither one is magic</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Movement</em> matters more<br>than the pack",
+      "fact": "Ice: fresh sprains, day 1–2 · Heat: stiff, achy muscles",
+      "left": {
+        "label": "Pack + movement",
+        "char": "rabbit_happy",
+        "caption": "Feels easier, so<br><b>move gently</b>"
+      },
+      "right": {
+        "label": "Pack only",
+        "char": "rabbit_tired",
+        "caption": "Sits still with the pack,<br>recovery <em>drags on</em>"
+      },
+      "quip": "Pick what feels good,<br>then get moving!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute heat-or-ice guide</b>",
+      "sub": "When you can't decide!",
+      "sections": [
+        {
+          "heading": "1. How to choose",
+          "color": "yellow",
+          "lines": [
+            "① Fresh sprain or knock: <em>ice</em>, first 1–2 days.",
+            "② Stiff, achy or tight muscles: <em>heat</em>.",
+            "③ Wrap it in a cloth, <em>10–15 min</em> at a time.",
+            "④ Then <em>gentle movement</em> does the real work."
+          ]
+        },
+        {
+          "heading": "2. Skip it and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Skin is <em>numb</em> — no heat or ice there,",
+            "and you <em>can't take weight</em> on the leg."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Not sure <em>what you've done</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Can't take weight on it",
+        "Big swelling or odd shape",
+        "Numbness or colour change"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Toto rolled an ankle and is stuck between ice pack and heat pack. Hybi's honest answer: it matters less than you think.\n\nAs a rough guide, ice suits fresh sprains and knocks in the first couple of days, wrapped in a cloth for 10–15 minutes. Heat tends to suit stiffness and tight muscles, especially before you get moving.\n\nCurrent guidelines suggest neither one speeds healing much on its own. They're comfort tools, so pick whichever helps you move more easily, and pair it with gentle movement.\n\nGet checked if you can't take weight on the leg, there's big swelling or an odd shape, or numbness or colour change. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#heatorice",
+    "#icepack",
+    "#sprainedankle",
+    "#injuryrecovery"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining when to use heat or ice, why movement matters more than the pack, a 1-minute guide and signs worth getting checked.",
+  "story": {
+    "headline": "Heat or ice?",
+    "body": "Ice for fresh knocks, heat for<br>stiffness. Both: keep moving.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-17",
+  "created": "2026-10-17-2",
+  "status": "approved",
+  "review_warnings": []
+}

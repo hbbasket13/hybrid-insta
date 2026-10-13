@@ -1,0 +1,127 @@
+{
+  "id": "C-006-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "The 'crack' sound during an adjustment explained",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "What's that <em>crack</em><br>during an adjustment?",
+      "sub": "Spoiler: nothing is popping back in",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Curious?<br>Let me explain!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Booked a chiro visit..<br>but <em>that sound</em> scares him.",
+      "char": "turtle_sad",
+      "bubble": "Is something going<br>to snap in there..?",
+      "bubble_type": "thought",
+      "note": "(he saw it in a video once..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Worried about the noise?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. is it a bone<br>going back into place?"
+      },
+      "note": "Hybi explained <mark>what the sound really is</mark>, step by step."
+    },
+    {
+      "kind": "compare",
+      "title": "The sound is usually<br>a <em>gas bubble</em>",
+      "fact": "Stretch a joint fast: pressure drops, <em>a gas bubble forms</em>",
+      "left": {
+        "label": "Gas bubble",
+        "char": "turtle_happy",
+        "caption": "A pressure change in<br>joint fluid, bones <b>stay put</b>"
+      },
+      "right": {
+        "label": "Bone popping in?",
+        "char": "turtle_sad",
+        "caption": "Nothing slipped out and<br>nothing is <em>put back</em>"
+      },
+      "quip": "Some adjustments are silent.<br>A louder pop isn't the goal!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>before-you're-adjusted notes</b>",
+      "sub": "Ask anything, any time!",
+      "sections": [
+        {
+          "heading": "1. Good to know",
+          "color": "yellow",
+          "lines": [
+            "① The sound is a <em>gas bubble</em>, not bones grinding",
+            "② No crack doesn't mean <em>no effect</em>",
+            "③ How you <em>move afterwards</em> matters more",
+            "&nbsp;&nbsp;&nbsp;(not keen on adjustments? Just say so!)"
+          ]
+        },
+        {
+          "heading": "2. Chat to us first if…",
+          "color": "purple",
+          "lines": [
+            "<em>Sudden severe</em> pain, dizziness or arm",
+            "tingling — tell us before any adjustment."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>curious</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm or hand tingling",
+        "Dizziness or severe headache",
+        "Pain after a fall or crash"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Mr Turtle booked a chiro visit, but that crack sound makes him nervous. The sound is usually a gas bubble. Joints sit in a pocket of fluid, and when a joint is stretched quickly, pressure drops and a bubble forms. That rapid change is widely thought to make the pop.\n\nIt doesn't mean a bone was out of place and has been put back. Some adjustments are silent, and research suggests the sound isn't what makes treatment feel helpful. How you move afterwards matters more.\n\nNot keen on being adjusted? Just say so. Our chiropractors combine hands-on care with exercise and advice, and gentler options are always available. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#chiro",
+    "#sydneychiro",
+    "#chatswood",
+    "#sydney",
+    "#jointhealth",
+    "#neckpain",
+    "#backpain",
+    "#mobility",
+    "#movemore",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining the gas-bubble sound during an adjustment, why nothing is popped back in, what to know before being adjusted and signs worth getting checked.",
+  "story": {
+    "headline": "What's that crack, really?",
+    "body": "A gas bubble in the joint,<br>not a bone popping back.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-15",
+  "created": "2026-10-15-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "C-009-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Shin splints: it's a load problem",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's shins<br><em>complain</em> on big weeks",
+      "sub": "A shin-splints story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Toto <em>doubled</em> his k's<br>this week..",
+      "char": "rabbit_tired",
+      "bubble": "Why does the inside<br>of my shin ache<br>so much..?",
+      "bubble_type": "thought",
+      "note": "(squeezing in extra runs before race day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shins playing up?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. do I need<br>new shoes?"
+      },
+      "note": "Hybi asked about <mark>training pattern</mark> before shoes."
+    },
+    {
+      "kind": "compare",
+      "title": "Bone and muscle need<br><em>time to adapt</em>",
+      "fact": "Load rising faster than your legs can adapt often hurts",
+      "left": {
+        "label": "Build gradually",
+        "char": "rabbit_happy",
+        "caption": "Bone and muscle<br><b>keep up</b> with the load"
+      },
+      "right": {
+        "label": "Big jump",
+        "char": "rabbit_tired",
+        "caption": "Load outruns adaptation,<br>shins <em>send a signal</em>"
+      },
+      "quip": "Training pattern often<br>matters more than shoes!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shin plan</b>",
+      "sub": "Adjust — you may not need to stop!",
+      "sections": [
+        {
+          "heading": "1. Trim, then build",
+          "color": "yellow",
+          "lines": [
+            "① Cut distance or pace; cycle or swim instead.",
+            "② Calf raises <em>15 × 3 sets</em>, daily.",
+            "③ Single-leg stand <em>30 sec</em>, twice each side.",
+            "④ Coming back: distance first, speed later."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain in <em>one small spot</em> on the bone, or",
+            "pain <em>at rest</em> — get checked before running."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "One tender spot on the bone",
+        "Pain at rest or at night",
+        "You start to limp"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Toto squeezed in extra runs before race day, and now his shins ache. Hybi asked about the training, not the shoes.\n\nShin splints usually show up when running load rises faster than bone and muscle can adapt: a jump in weekly k's or a rush back after a break.\n\nYou often don't have to stop completely. Trim distance or pace, keep fitness ticking over with cycling or swimming, and build capacity with calf raises 15 × 3 sets and 30-second single-leg stands. Coming back, add distance first and speed later.\n\nOne tender spot on the bone, pain at rest or at night, or a limp needs checking before you run again. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#shinsplints",
+    "#runninginjury",
+    "#runners",
+    "#loadmanagement"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining shin splints as a load problem, gradual versus sudden increases, a 1-minute shin plan and signs worth getting checked.",
+  "story": {
+    "headline": "Shins ache on big weeks?",
+    "body": "Trim distance, cross-train,<br>calf raises 15 × 3.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-16",
+  "created": "2026-10-16-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,126 @@
+{
+  "id": "C-004-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "긴장성 두통과 마사지",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "오후 3시, 머리를<br>조이는 <em>두통의 정체</em>",
+      "sub": "긴장성 두통과 마사지 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>풀어볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "오후만 되면 머리에<br>띠를 두른 듯 <em>지끈</em>.",
+      "char": "turtle_monitor",
+      "bubble": "목이랑 어깨도<br>돌처럼 뭉쳤네...",
+      "bubble_type": "thought",
+      "note": "(욱신이 아니라 꾹 누르는 느낌..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>머리가 무겁구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 마사지 받으면<br>두통이 사라질까요?"
+      },
+      "note": "하비는 마사지가 <mark>할 수 있는 것과 없는 것</mark>을 말해줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는 <em>퍼즐 한 조각</em>,<br>전부는 아니에요",
+      "fact": "긴장성 두통은 목·어깨·뒤통수 <em>근육 긴장</em>과 자주 함께해요",
+      "left": {
+        "label": "마사지+습관",
+        "char": "turtle_happy",
+        "caption": "목·어깨를 풀고<br>휴식·움직임도 <b>같이</b>"
+      },
+      "right": {
+        "label": "마사지만",
+        "char": "turtle_sad",
+        "caption": "습관이 그대로면<br>효과가 <em>오래 안 가요</em>"
+      },
+      "quip": "마사지는 대신이 아니라<br>보완이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>오늘 바로 3가지</b>",
+      "sub": "마사지 사이에 챙기는 습관!",
+      "sections": [
+        {
+          "heading": "1. 오늘부터 해보기",
+          "color": "yellow",
+          "lines": [
+            "① <em>30분마다</em> 어깨 돌리고 화면에서 눈 떼기",
+            "② 턱 당기기 5초 × 10회, 가볍게",
+            "③ 저녁에 어깨 위 <em>온찜질 10분</em>"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP 먼저 보세요!",
+          "color": "purple",
+          "lines": [
+            "갑자기 <em>심한</em> 두통, 열·목 뻣뻣함,",
+            "시야 변화·힘 빠짐이 있다면 바로 진료!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 두통이 <em>계속된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "갑자기 심한 두통",
+        "열·시야 변화·힘 빠짐",
+        "나이 들어 생긴 새 두통"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "오후만 되면 머리에 띠를 두른 듯 지끈한 거북씨. 긴장성 두통은 꾹 누르는 느낌이고, 목·어깨·뒤통수 근육이 뭉친 것과 자주 함께 나타나요.\n\n리메디얼 마사지는 그 근육 긴장을 풀어줄 수 있고, 연구에 따르면 두통 빈도가 줄어드는 사람도 있어요. 다만 마사지는 퍼즐 한 조각이에요. 휴식, 움직임, 수면, 스트레스 관리가 같이 바뀌지 않으면 효과가 오래가지 않을 수 있어요.\n\n하비의 3가지: 30분마다 어깨 돌리기, 가벼운 턱 당기기, 저녁 온찜질 10분. 갑자기 심한 두통, 열, 시야 변화, 힘 빠짐은 마사지 전에 GP 먼저! 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#긴장성두통",
+    "#두통",
+    "#리메디얼마사지",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#시드니물리치료",
+    "#remedialmassage",
+    "#tensionheadache",
+    "#chatswood",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 긴장성 두통의 특징, 마사지와 습관을 함께하는 것의 비교, 오늘 바로 해보는 3가지, GP 확인이 필요한 신호.",
+  "story": {
+    "headline": "머리에 띠 두른 듯 지끈?",
+    "body": "마사지는 한 조각,<br>30분마다 어깨 돌리기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-15",
+  "created": "2026-10-15-1",
+  "status": "approved",
+  "review_warnings": []
+}

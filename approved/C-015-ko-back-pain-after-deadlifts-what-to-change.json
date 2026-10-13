@@ -1,0 +1,128 @@
+{
+  "id": "C-015-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Back pain after deadlifts: what to change",
+  "location_tag": "Chatswood",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "데드리프트 후<br>허리가 <em>뻐근한 루루</em>",
+      "sub": "하비와 함께 알아보는 헬스장 허리 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말 헬스장,<br><em>무게</em>를 확 올린 루루.",
+      "char": "kanga_tired",
+      "bubble": "다음 날 허리가<br>왜 이렇게<br>뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(현장 일도 해야 하는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>허리가 불편해서 왔구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 운동을 아예<br>쉬어야 할까요?"
+      },
+      "note": "하비는 먼저 <mark>대부분은 근육 긴장</mark>이라고 안심시켰다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>멈추기</em>보다<br>가볍게 이어가기!",
+      "fact": "헬스장 허리 통증은 대부분 <em>근육 긴장</em>, 손상이 아니에요",
+      "left": {
+        "label": "가볍게 유지",
+        "char": "kanga_happy",
+        "caption": "가벼운 무게로<br>힌지 동작은 <b>계속</b>"
+      },
+      "right": {
+        "label": "무리해서 복귀",
+        "char": "kanga_tired",
+        "caption": "예전 무게를 바로<br><em>따라가려다</em> 재발"
+      },
+      "quip": "무게는 주 단위로<br>천천히 올려요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 복귀 플랜</b>",
+      "sub": "다음 헬스장 갈 때 이렇게!",
+      "sections": [
+        {
+          "heading": "1. 가볍게 다시 시작하기",
+          "color": "yellow",
+          "lines": [
+            "① 무게는 <em>편하게 가벼운</em> 정도로 낮춰요.",
+            "② 세트·횟수도 줄이고, 잠 부족하면 쉬기.",
+            "③ 트랩바·블록풀 등 <em>편한 변형</em>부터.",
+            "④ 몇 주에 걸쳐 조금씩 무게를 올려요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>더 심해지거나</em>,",
+            "다리가 저리거나 힘이 빠지면 멈추고 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리로 저림·힘 빠짐",
+        "대소변 조절이 달라짐",
+        "2주 지나도 심한 통증"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "주말 헬스장에서 무게를 확 올렸다가 허리가 뻐근해진 루루. 운동을 아예 쉬어야 할까 고민이에요.\n\n헬스장 허리 통증은 대부분 근육 긴장이고, 손상이 아닌 경우가 많아요. 보통 며칠에서 2주 정도면 많이 나아져요.\n\n하비의 복귀 플랜: 무게는 편하게 가벼운 정도로 낮추고, 세트와 횟수도 줄이기. 트랩바나 블록풀 같은 편한 변형부터 몇 주에 걸쳐 천천히 올려요.\n\n다리가 저리거나 힘이 빠지면, 대소변 조절이 달라지면, 2주 지나도 심하면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🦘\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#데드리프트",
+    "#허리통증",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#헬스",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#deadlift",
+    "#backpain"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 데드리프트 후 허리 통증이 대부분 근육 긴장인 이유, 가볍게 이어가기 비교, 1분 복귀 플랜, 확인이 필요한 신호.",
+  "story": {
+    "headline": "데드리프트 후 허리가 뻐근하다면?",
+    "body": "무게는 가볍게,<br>동작은 계속!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-19",
+  "created": "2026-10-19-3",
+  "status": "approved",
+  "review_warnings": []
+}

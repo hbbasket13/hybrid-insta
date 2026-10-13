@@ -1,0 +1,127 @@
+{
+  "id": "C-012-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee osteoarthritis: why exercise beats another scan",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코의 무릎,<br><em>또 사진 찍어야 할까?</em>",
+      "sub": "하비와 알아보는 무릎 관절염 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "계단만 보면<br>무릎이 <em>시큰</em>한 코코.",
+      "char": "koala_tired",
+      "bubble": "사진을 한 번 더<br>찍어봐야 하나..?",
+      "bubble_type": "thought",
+      "note": "(낮잠은 좋은데 걷는 건 점점 줄어들고..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>무릎이 불편하구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 관절염이래요.<br>그냥 쉬는 게<br>좋겠죠?"
+      },
+      "note": "하비는 <mark>쉬는 것보다 움직임</mark>을 권했다."
+    },
+    {
+      "kind": "compare",
+      "title": "사진과 통증은<br>생각보다 <em>안 맞아요</em>",
+      "fact": "현재 지침은 운동과 교육을 1순위로 권해요",
+      "left": {
+        "label": "꾸준히 움직임",
+        "char": "koala_happy",
+        "caption": "관절은 <b>쓰라고</b><br>만들어졌어요"
+      },
+      "right": {
+        "label": "너무 쉬기",
+        "char": "koala_tired",
+        "caption": "덜 움직일수록<br>더 <em>뻣뻣</em>해질 수 있어요"
+      },
+      "quip": "사진 한 장 더보다<br>운동이 먼저예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 무릎 운동</b>",
+      "sub": "거실에서 바로!",
+      "sections": [
+        {
+          "heading": "1. 의자에서 일어나기",
+          "color": "yellow",
+          "lines": [
+            "① 의자에 앉아 손 없이 <em>천천히</em> 일어나요.",
+            "② 다시 천천히 앉기, <em>10회 × 2세트</em>.",
+            "③ 낮은 계단 오르내리기 <em>10회</em>.",
+            "④ 매일 <em>10~20분 걷기</em>부터 시작!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인하기!",
+          "color": "purple",
+          "lines": [
+            "불편함이 <em>하루가 지나도</em> 안 가라앉거나,",
+            "무릎이 <em>붓고 뜨거워지면</em> 멈추기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "무릎이 뜨겁고 많이 붓는다",
+        "갑자기 잠기거나 꺾인다",
+        "넘어지거나 삔 뒤 아프다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "계단만 보면 무릎이 시큰한 코코. 사진을 한 번 더 찍어봐야 하나 고민 중이에요.\n\n엑스레이 변화와 통증은 생각보다 잘 맞지 않아요. 현재 지침은 무릎 관절염에 운동과 교육을 1순위로 권해요. 너무 쉬면 오히려 더 뻣뻣해질 수 있어요.\n\n하비의 1분 운동: 의자에서 손 없이 천천히 일어나기 10회 × 2세트, 낮은 계단 오르내리기 10회, 매일 10~20분 걷기.\n\n무릎이 뜨겁고 많이 붓거나, 갑자기 잠기거나 꺾이거나, 넘어진 뒤 아프면 평가가 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#무릎관절염",
+    "#무릎통증",
+    "#퇴행성관절염",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#kneepain"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 무릎 관절염에서 사진보다 운동이 먼저인 이유, 움직임과 과한 휴식 비교, 1분 무릎 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "무릎 관절염, 사진 한 장 더?",
+    "body": "의자에서 일어나기 10회 × 2,<br>운동이 먼저!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-10-17",
+  "created": "2026-10-17-3",
+  "status": "approved",
+  "review_warnings": []
+}
