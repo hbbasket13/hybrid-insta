@@ -1,0 +1,128 @@
+{
+  "id": "C-121-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Carrying kids and bags on one side",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Kid on the <em>left</em> hip,<br>bag on the <em>right</em>?",
+      "sub": "A story about the one-sided carry",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's share<br>the load!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Laptop bag on weekdays,<br><em>a toddler</em> on weekends.",
+      "char": "turtle_sad",
+      "bubble": "Why is it always<br>the same shoulder<br>that aches..?",
+      "bubble_type": "thought",
+      "note": "(the right side feels heavy by Sunday night..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So he took that shoulder<br>to <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Hey there!<br>One side sore?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Is carrying on one<br>side bad for me?"
+      },
+      "note": "Hybi said it's <mark>not bad, just lopsided</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Same load,<br><em>shared out</em>",
+      "fact": "One-sided carrying is normal · <em>hours every day</em> can tire it",
+      "left": {
+        "label": "Swap sides",
+        "char": "turtle_happy",
+        "caption": "Switch at every<br>doorway, <b>easy win</b>"
+      },
+      "right": {
+        "label": "Same side",
+        "char": "turtle_sad",
+        "caption": "One side does<br><em>all the work</em>"
+      },
+      "quip": "Hold it close and split it<br>into two even loads!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute carry drill</b>",
+      "sub": "Train the carry like a lift!",
+      "sections": [
+        {
+          "heading": "1. Suitcase carry",
+          "color": "yellow",
+          "lines": [
+            "① Hold a heavy bag in one hand.",
+            "② Stand <em>tall, no leaning</em>, and walk.",
+            "③ <em>20 steps per hand</em>, 2–3 rounds.",
+            "④ Twice a week, plus squats and rows."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Pain spreads with <em>numbness or weakness</em>,",
+            "or it keeps <em>waking you at night</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Swapped sides and<br><em>still sore?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling down an arm or leg",
+        "Pain waking you at night",
+        "No easing after a few weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Toddler always on the left hip, bag always on the right shoulder?\n\nOne-sided carrying is normal and not harmful, but hours of it every day can leave one side tired and achy. Swap sides on purpose, like at every doorway. Use both backpack straps, split shopping into two even bags, and hold kids close rather than perched out on a hip.\n\nCarrying is lifting, so train for it: suitcase carries, squats and rows twice a week. Pain spreading with numbness or weakness, or waking you at night, is worth getting checked.\n\nOur chiropractors at Hybrid Physio pair hands-on care with simple exercises. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#parenting",
+    "#shoulderpain",
+    "#backpain",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#strengthtraining",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle about carrying kids and bags on one side, why swapping sides helps, a suitcase carry drill and signs worth getting checked.",
+  "story": {
+    "headline": "Always carry on one side?",
+    "body": "Swap at every doorway<br>and share the load.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-30",
+  "created": "2026-11-30-4",
+  "status": "approved",
+  "review_warnings": []
+}

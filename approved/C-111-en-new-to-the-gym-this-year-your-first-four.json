@@ -1,0 +1,128 @@
+{
+  "id": "C-111-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "New to the gym this year: your first four weeks",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Week one at the gym,<br>and Lulu <em>went way too hard</em>",
+      "sub": "Your first four weeks, without burning out",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Let's go week<br>by week!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Two hours</em> on day one,<br>and heavy weights too.",
+      "char": "kanga_tired",
+      "bubble": "Why can't I walk<br>down the stairs..?",
+      "bubble_type": "thought",
+      "note": "(a week later, the gym bag hasn't moved..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Ready for a restart,<br>Lulu came to <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>New gym membership?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "This time I want<br>to actually stick to it!"
+      },
+      "note": "Hybi helped Lulu sketch <mark>a four-week plan</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "In month one, <em>a bit less</em><br>goes a lot further",
+      "fact": "Small, steady increases are kinder on <em>tendons and joints</em>",
+      "left": {
+        "label": "Leave some in",
+        "char": "kanga_happy",
+        "caption": "Stop while you<br><b>could do more</b>"
+      },
+      "right": {
+        "label": "All in, day one",
+        "char": "kanga_tired",
+        "caption": "Week one until<br><em>totally flattened</em>"
+      },
+      "quip": "Finish wanting more,<br>and you'll come back!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first four weeks</b>",
+      "sub": "One week at a time!",
+      "sections": [
+        {
+          "heading": "1. Week-by-week goals",
+          "color": "yellow",
+          "lines": [
+            "① Wk 1: light weights, full body, <em>2–3 times</em>.",
+            "② Wk 2: next-day soreness is <em>common</em>; move gently.",
+            "③ Wk 3: set feels easy? <em>Add a little</em> or 2 reps.",
+            "④ Wk 4: check sleep and recovery, then build."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "You get <em>sharp pain</em> during a lift, or",
+            "<em>pins and needles</em> down an arm or leg."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Noticing <em>any of these</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth a physio check if",
+      "items": [
+        "Pain lasts more than days",
+        "A joint swells up",
+        "Pins and needles in a limb"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Signed up to a gym for the new year? The first month matters most.\n\nLots of new starters go too hard in week one, feel wrecked, and quietly stop going. A gradual start tends to stick.\n\nWeek 1: two or three full-body sessions with light weights. Week 2: some muscle soreness is common and usually settles within a few days. Week 3: if a set feels easy, add a little weight or a couple of reps. Week 4: check your sleep, recovery and enjoyment, then keep building.\n\nSharp pain during a lift, lingering pain or pins and needles down a limb is worth getting assessed. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio. 💪\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#gymbeginner",
+    "#strengthtraining",
+    "#newyearnewyou",
+    "#fitnessjourney",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu laying out a week-by-week plan for the first four weeks at the gym and signs worth getting checked.",
+  "story": {
+    "headline": "New to the gym?",
+    "body": "Light weights, 2–3 times.<br>Finish wanting more.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-25",
+  "created": "2026-11-25-6",
+  "status": "approved",
+  "review_warnings": []
+}

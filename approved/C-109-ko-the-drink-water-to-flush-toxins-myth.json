@@ -1,0 +1,128 @@
+{
+  "id": "C-109-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "The 'drink water to flush toxins' myth",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "\"독소 빼려면 물 마셔요\"<br>그거 <em>진짜일까?</em>",
+      "sub": "마사지 후 물 이야기, 사실은 이래요",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "같이<br>확인해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마사지 받은 다음 날,<br>몸이 <em>살짝 욱신</em>한 모모.",
+      "char": "cat_tired",
+      "bubble": "독소가 빠져나가는<br>중인가..?",
+      "bubble_type": "thought",
+      "note": "(물을 2리터나 억지로 마셨다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "궁금해서 <b>하이브리드 피지오</b>에<br>물어보러 간 모모.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>궁금한 게 있구나?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "물 많이 마셔야<br>독소가 빠지죠?"
+      },
+      "note": "하비는 <mark>연구가 말하는 내용</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "노폐물 처리는<br><em>간과 콩팥</em>의 일이에요",
+      "fact": "마사지가 독소를 쏟아낸다는 근거는 <em>부족해요</em>",
+      "left": {
+        "label": "갈증에 맞춰",
+        "char": "cat_happy",
+        "caption": "평소처럼 <b>갈증에 맞춰</b><br>물 마시기"
+      },
+      "right": {
+        "label": "억지로 들이켜기",
+        "char": "cat_tired",
+        "caption": "\"씻어내야지!\"<br><em>억지로 몇 리터</em>"
+      },
+      "quip": "물은 좋아요. 다만<br>평범한 수분 보충일 뿐!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>마사지 후 1분 체크</b>",
+      "sub": "받은 날 저녁에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 마사지 후 이렇게",
+          "color": "yellow",
+          "lines": [
+            "① 물은 <em>목마를 때</em> 평소처럼 마시기",
+            "② 가볍게 <em>10분 걷기</em>로 몸 풀어주기",
+            "③ 살짝 욱신거림은 보통 <em>1~2일</em>이면 가라앉아요",
+            "④ 다음엔 압이 셌는지 테라피스트에게 말하기"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "욱신거림이 <em>점점 심해지거나</em>",
+            "붓기·멍이 크게 생기면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 반응은 <em>그냥 넘기지 말기</em>",
+      "bubble": "사람마다 반응이 달라요.<br><b>확인</b>이 먼저예요!",
+      "heading": "이럴 땐 꼭 확인받기",
+      "items": [
+        "2~3일 넘게 계속 아프다",
+        "어지러움이 오래간다",
+        "크게 붓거나 멍이 든다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "\"마사지 후엔 독소 빼려면 물 많이 마셔요!\" 한 번쯤 들어본 말이죠.\n\n인기 있는 이야기지만 연구로는 뒷받침되지 않아요. 노폐물은 간과 콩팥이 늘 처리하고, 마사지가 독소를 쏟아내는 건 아니에요. 다음 날 살짝 욱신하거나 나른한 건 흔하고 보통 1~2일이면 가라앉아요.\n\n물 한 잔은 좋아요. 그냥 평소의 수분 보충이에요. 리메디얼 마사지는 근육 긴장을 덜고 움직임을 편하게 하는 데 도움이 될 수 있어요. 하이브리드 피지오에서 만나요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#마사지",
+    "#리메디얼마사지",
+    "#건강상식",
+    "#마사지팁",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#근육통",
+    "#remedialmassage",
+    "#massagemyths",
+    "#sydneycbd",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 마사지 후 물로 독소를 뺀다는 이야기의 사실, 마사지 후 1분 체크, 확인이 필요한 신호.",
+  "story": {
+    "headline": "마사지 후 독소 배출?",
+    "body": "물은 목마를 때<br>평소처럼 마시면 돼요.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-25",
+  "created": "2026-11-25-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-118-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage, stress and sleep",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "1am, staring at the ceiling,<br>shoulders <em>still tight</em>",
+      "sub": "What massage can and can't do for stress and sleep",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's unwind<br>together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Big week. In bed, but<br>his brain <em>won't switch off</em>.",
+      "char": "turtle_sad",
+      "bubble": "So tired..<br>so why can't I sleep..?",
+      "bubble_type": "thought",
+      "note": "(shoulders by his ears, breathing quick..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On Saturday, he visited<br><b>Hybrid Physio</b> Chatswood.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Come on in!<br>Sleeping okay lately?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Will a massage<br>help me sleep?"
+      },
+      "note": "Hybi was honest about <mark>what massage can and can't do</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage is a <em>helpful</em><br>add-on",
+      "fact": "Research suggests massage can ease tension in the <em>short term</em>",
+      "left": {
+        "label": "The whole mix",
+        "char": "turtle_happy",
+        "caption": "Massage + walks<br>+ <b>slow breathing</b>"
+      },
+      "right": {
+        "label": "Massage alone",
+        "char": "turtle_sad",
+        "caption": "Nothing else changes,<br><em>all hopes on massage</em>"
+      },
+      "quip": "If sleep stays poor,<br>chat with your GP!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute wind-down</b>",
+      "sub": "Try it tonight!",
+      "sections": [
+        {
+          "heading": "1. Keep the calm going",
+          "color": "yellow",
+          "lines": [
+            "① A <em>slow walk</em> after your session.",
+            "② A <em>warm shower</em> before bed.",
+            "③ Breathe in 4, <em>out 6</em>. Repeat 5 times.",
+            "④ <em>Move a little</em> every day."
+          ]
+        },
+        {
+          "heading": "2. Tell your therapist…",
+          "color": "purple",
+          "lines": [
+            "If you'd like <em>calm, steady pressure</em>, and",
+            "about any health conditions or <em>pregnancy</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check in with <em>your GP</em> if…",
+      "bubble": "Causes differ for everyone.<br><b>Getting checked</b> comes first!",
+      "heading": "Worth raising with your GP",
+      "items": [
+        "Weeks of poor sleep",
+        "Low mood that hangs around",
+        "Pain wakes you at night"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Busy week, tight shoulders and lying awake at midnight?\n\nStress often shows up in the body: tense muscles, quicker breathing, shoulders creeping up. Many people find a massage helps them feel calmer, and some sleep better that night.\n\nIt's worth keeping expectations realistic. Massage is a helpful add-on, not a treatment for ongoing sleep problems or high stress. If poor sleep or low mood is sticking around, have a chat with your GP. A slow walk, a warm shower and a few minutes of slow breathing can help the calm last longer.\n\nOur remedial massage therapists at Hybrid Physio tailor each session to you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#stress",
+    "#sleep",
+    "#relaxation",
+    "#windown",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydneymassage",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#selfcare"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining what massage can and can't do for stress and sleep, a 1-minute wind-down and when to talk to a GP.",
+  "story": {
+    "headline": "Stressed and sleeping badly?",
+    "body": "Breathe in 4, out 6.<br>Repeat 5 times.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-11-28",
+  "created": "2026-11-28-4",
+  "status": "approved",
+  "review_warnings": []
+}

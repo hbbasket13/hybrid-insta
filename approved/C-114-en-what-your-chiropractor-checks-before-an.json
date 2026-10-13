@@ -1,0 +1,128 @@
+{
+  "id": "C-114-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "What your chiropractor checks before an adjustment",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "\"Wait, no instant<br><em>crack</em>?\"",
+      "sub": "Why a first chiro visit starts with questions",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Let me<br>explain!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "First chiro booking,<br>and he's <em>a bit nervous</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Do they just crack<br>my neck straight away..?",
+      "bubble_type": "thought",
+      "note": "(an hour of googling later..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "His first visit to<br><b>Hybrid Physio</b> Sydney CBD.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome! First,<br>a few questions."
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Questions before<br>any adjusting?"
+      },
+      "note": "Hybi walked through <mark>what gets checked first</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The plan comes <em>after</em><br>the checks",
+      "fact": "Adjustments aren't right for <em>everyone or every visit</em>",
+      "left": {
+        "label": "Check first",
+        "char": "turtle_happy",
+        "caption": "Story, movement and<br><b>nerve checks</b>"
+      },
+      "right": {
+        "label": "Straight in",
+        "char": "turtle_sad",
+        "caption": "No questions,<br><em>just get started</em>"
+      },
+      "quip": "Ask anything, and you<br>can always say no!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first-visit prep</b>",
+      "sub": "Jot it down before you go!",
+      "sections": [
+        {
+          "heading": "1. What to expect",
+          "color": "yellow",
+          "lines": [
+            "① Share when it started and <em>what helps or hurts</em>.",
+            "② Mention your work, sport and <em>general health</em>.",
+            "③ Expect movement and <em>reflex/strength</em> checks.",
+            "④ Hear the plan, then <em>give consent</em> first."
+          ]
+        },
+        {
+          "heading": "2. Always mention…",
+          "color": "purple",
+          "lines": [
+            "Unexplained <em>weight loss, fever or numbness</em>,",
+            "or a recent fall or accident."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Please <em>tell us</em> about these",
+      "bubble": "Every situation differs.<br><b>An assessment</b> comes first!",
+      "heading": "Bring these up at your visit",
+      "items": [
+        "Numbness or weakness",
+        "Bladder or bowel changes",
+        "A recent fall or accident"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Ever wondered why your chiropractor asks so many questions before doing anything?\n\nA good adjustment starts well before anyone touches your spine. Your history, some screening questions and simple movement and nerve checks help your chiropractor work out what's likely going on and what suits you.\n\nSometimes that means an adjustment. Sometimes it means soft tissue work, mobilisation, exercises, or a referral to your GP or one of our physios. You're always welcome to ask questions or say no to any technique.\n\nAt Hybrid Physio, our chiropractors work alongside our physios, Pilates instructors and remedial massage therapists. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#sydneychiro",
+    "#firstvisit",
+    "#backpain",
+    "#neckpain",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#informedconsent",
+    "#hybridphysiotherapy",
+    "#spinehealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining what a chiropractor checks before an adjustment, how to prepare for a first visit and things to always mention.",
+  "story": {
+    "headline": "Why so many questions?",
+    "body": "History, safety and movement<br>checks come first.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-26",
+  "created": "2026-11-26-6",
+  "status": "approved",
+  "review_warnings": []
+}

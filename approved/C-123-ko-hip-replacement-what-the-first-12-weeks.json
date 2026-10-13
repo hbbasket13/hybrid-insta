@@ -1,0 +1,120 @@
+{
+  "id": "C-123-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hip replacement: what the first 12 weeks look like",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "고관절 수술 후<br><em>12주</em>, 어떻게 흘러갈까?",
+      "sub": "수술 후 회복 그림을 미리 봐요",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "주차별로<br>살펴볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "고관절 수술을 마치고<br><em>집에 돌아온</em> 코코.",
+      "char": "koala_tired",
+      "bubble": "옆집 친구는 벌써<br>잘 걷던데..<br>나는 왜 느리지?",
+      "bubble_type": "thought",
+      "note": "(보행기를 짚고 거실 한 바퀴..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "코코는 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "반가워요, 코코!<br>수술 잘 받았죠?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "언제쯤이면<br>예전처럼 걸을까요?"
+      },
+      "note": "하비는 <mark>사람마다 속도가 다르다</mark>는 것부터 말했다."
+    },
+    {
+      "kind": "scene",
+      "title": "대략 이런 <em>흐름</em>이에요<br>(집도의 지침이 먼저!)",
+      "char": "hybi_neutral",
+      "bubble": "1~2주: 짧게 자주 걷기<br>2~6주: 근력·균형 쌓기<br>6~12주: 보행기 줄이기",
+      "note": "(나이, 수술 전 체력, 수술 방법에 따라 달라요)",
+      "h": 380
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>하루 회복 루틴</b>",
+      "sub": "집도의 지침 안에서 해요!",
+      "sections": [
+        {
+          "heading": "1. 초기 몇 주의 기본",
+          "color": "yellow",
+          "lines": [
+            "① 하루 <em>여러 번, 짧게</em> 걷기.",
+            "② 병원에서 받은 <em>운동을 매일</em> 해요.",
+            "③ 움직임 제한·운전은 <em>집도의 말씀</em> 먼저.",
+            "④ 친구와 비교 말고 <em>내 속도</em>로!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 연락하기!",
+          "color": "purple",
+          "lines": [
+            "상처가 <em>붉고 뜨겁거나</em>, 열·종아리 붓기 →",
+            "집도의나 GP에게. <em>가슴 통증·숨참은 응급</em>!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "천천히 가도<br><em>괜찮아요</em>",
+      "bubble": "회복은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 변화는 바로 알리기",
+      "items": [
+        "상처에 진물이 난다",
+        "종아리가 붓고 아프다",
+        "고관절 느낌이 확 변했다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "재활도 하비랑 함께,<br><b>하이브리드 피지오</b>!"
+    }
+  ],
+  "caption": "고관절 수술을 앞두고 있거나 막 퇴원했다면? 초기 몇 달은 대략 이렇게 흘러가요.\n\n처음 1~2주는 짧고 잦은 걷기와 병원에서 받은 운동이 중심이에요. 그다음엔 보통 근력과 균형 운동이 늘고, 6~12주쯤엔 많은 분들이 보행기에 덜 의지하게 돼요.\n\n회복 속도는 나이, 수술 전 체력, 수술 방법에 따라 달라요. 집도의 지침이 항상 먼저예요. 상처 변화, 열, 종아리 붓기는 바로 진료받기!\n\n채스우드·시드니 CBD 물리치료사가 집도의 계획에 맞춰 재활을 도와드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#고관절수술",
+    "#인공관절",
+    "#수술후재활",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#hipreplacement",
+    "#rehab",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 고관절 인공관절 수술 후 12주 흐름, 하루 회복 루틴, 바로 알려야 할 변화.",
+  "story": {
+    "headline": "고관절 수술 후 12주는?",
+    "body": "짧게 자주 걷기,<br>내 속도로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-30",
+  "created": "2026-11-30-3",
+  "status": "approved",
+  "review_warnings": []
+}

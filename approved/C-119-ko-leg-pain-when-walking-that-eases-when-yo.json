@@ -1,0 +1,128 @@
+{
+  "id": "C-119-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Leg pain when walking that eases when you sit (spinal stenosis)",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "마트 카트만 잡으면<br>다리가 <em>편해지는 코코</em>",
+      "sub": "걸으면 아프고 앉으면 편한 다리, 왜?",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "이유가<br>있어요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "동네 한 바퀴 걷다 보면<br>다리가 <em>묵직하고 저릿</em>.",
+      "char": "koala_tired",
+      "bubble": "앉으면 괜찮은데<br>왜 그렇지..?",
+      "bubble_type": "thought",
+      "note": "(벤치를 찾아 두리번두리번..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "<b>하이브리드 피지오</b><br>시드니 CBD를 찾은 코코.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>걷기가 힘들어요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "이제 걷기를<br>줄여야 할까요?"
+      },
+      "note": "하비는 <mark>앞으로 숙이면 편해지는 이유</mark>를 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "앞으로 숙이면 신경 주변<br><em>공간이 살짝 넓어져요</em>",
+      "fact": "흔한 원인 하나: 허리 <em>신경 주변 통로</em>가 좁아지는 것",
+      "left": {
+        "label": "나눠 걷기",
+        "char": "koala_happy",
+        "caption": "짧게 걷고 쉬고,<br><b>조금씩 늘리기</b>"
+      },
+      "right": {
+        "label": "참고 오래 걷기",
+        "char": "koala_tired",
+        "caption": "아파도 쉬지 않고<br><em>끝까지 버티기</em>"
+      },
+      "quip": "걷기는 여전히<br>도움이 될 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>나눠 걷기 플랜</b>",
+      "sub": "오늘 산책부터!",
+      "sections": [
+        {
+          "heading": "1. 걷기를 이어가는 법",
+          "color": "yellow",
+          "lines": [
+            "① 증상 오기 전까지 걷고 <em>1~2분 앉아 쉬기</em>",
+            "② 이렇게 <em>3~4번</em> 반복하기",
+            "③ 실내 자전거로 체력 챙기기",
+            "④ 엉덩이·다리 근력 운동 <em>주 2~3회</em>"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료받기",
+          "color": "purple",
+          "lines": [
+            "<em>사타구니 감각 저하</em>, 소변·대변 변화,",
+            "<em>점점 심해지는 힘 빠짐</em>이 있다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 신호는 <em>바로 확인</em>해요",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이럴 땐 빨리 진료받기",
+      "items": [
+        "사타구니 감각이 둔하다",
+        "소변·대변이 달라졌다",
+        "다리 힘이 점점 빠진다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "걸으면 다리가 아프다가 앉으면 금세 편해지나요?\n\n이런 패턴은 허리 신경 주변 통로가 좁아지는 것(척추관 협착)과 관련된 경우가 많아요. 카트에 기대듯 앞으로 숙이면 공간이 조금 넓어져 편해질 수 있어요.\n\n현재 가이드라인은 운동을 첫 단계로 권해요. 쉬어가며 나눠 걷기, 실내 자전거, 엉덩이·다리 근력 운동이 일상을 편하게 할 수 있어요. 사타구니 감각 저하, 소변·대변 변화, 점점 심해지는 힘 빠짐은 바로 진료받으세요. 혈액순환 문제도 비슷할 수 있어 평가가 중요해요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#척추관협착",
+    "#다리저림",
+    "#허리통증",
+    "#걷기운동",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#spinalstenosis",
+    "#sydneyphysio",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 걸으면 아프고 앉으면 편한 다리의 흔한 원인, 나눠 걷기 플랜, 바로 진료받아야 할 신호.",
+  "story": {
+    "headline": "걸으면 다리가 아프다면?",
+    "body": "짧게 걷고 1~2분 쉬기,<br>3~4번 반복!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-28",
+  "created": "2026-11-28-5",
+  "status": "approved",
+  "review_warnings": []
+}

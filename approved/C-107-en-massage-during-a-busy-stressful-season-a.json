@@ -1,0 +1,128 @@
+{
+  "id": "C-107-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage during a busy, stressful season at work",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "End of quarter, and<br>his shoulders <em>know it first</em>",
+      "sub": "Where massage fits in a busy season at work",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Let's plan<br>ahead!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Late nights, deadlines,<br>shoulders up by his <em>ears</em>.",
+      "char": "turtle_monitor",
+      "bubble": "I'll just push<br>through this week..?",
+      "bubble_type": "thought",
+      "note": "(jaw clenched, breathing shallow..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "On his lunch break, he<br>dropped into <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Come on in!<br>Busy few weeks?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Will one massage<br>sort all this out?"
+      },
+      "note": "Hybi explained <mark>what massage can and can't do</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage works better<br>when it's <em>booked early</em>",
+      "fact": "Massage <em>helps</em> · but it can't replace sleep and movement",
+      "left": {
+        "label": "Before the rush",
+        "char": "turtle_happy",
+        "caption": "Booked at the start,<br>plus a <b>lunch walk</b>"
+      },
+      "right": {
+        "label": "After the crash",
+        "char": "turtle_sad",
+        "caption": "Only once you're<br><em>totally wrecked</em>"
+      },
+      "quip": "Treat it like a meeting<br>you can't move!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute crunch routine</b>",
+      "sub": "Between meetings, right now!",
+      "sections": [
+        {
+          "heading": "1. Small breaks for your body",
+          "color": "yellow",
+          "lines": [
+            "① Between meetings: <em>3 slow breaths</em>.",
+            "② Shrug to your ears, then drop. <em>5 times</em>.",
+            "③ A <em>10-minute walk</em> at lunch.",
+            "④ Look away from the screen every hour."
+          ]
+        },
+        {
+          "heading": "2. Don't leave it to massage if…",
+          "color": "purple",
+          "lines": [
+            "Poor sleep or <em>low mood</em> keeps hanging",
+            "around — have a chat with your GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to <em>get it checked</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth checking if you notice",
+      "items": [
+        "Arm or hand tingling",
+        "Regular headaches with it",
+        "No change after a few weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Busy season tends to land in Mr Turtle's neck and shoulders first.\n\nLong hours, deadlines and less sleep often mean more clenching, shallow breathing and hours without moving.\n\nRemedial massage can help tight muscles feel easier and give your mind a break. It works well as a support alongside sleep, movement and a manageable workload, not instead of them.\n\nHybi's tip: book your session at the start of a busy stretch, not the end. Add a ten-minute lunch walk and a few slow breaths between meetings.\n\nOur remedial massage therapists at Hybrid Physio work on the tension that builds up in demanding weeks. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#worklife",
+    "#stress",
+    "#officeworker",
+    "#neckandshoulders",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydneymassage",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#selfcare"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why to book massage early in a busy work season, a 1-minute routine between meetings and signs worth getting checked.",
+  "story": {
+    "headline": "Busy season coming up?",
+    "body": "Book massage at the start,<br>walk 10 minutes at lunch.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-24",
+  "created": "2026-11-24-2",
+  "status": "approved",
+  "review_warnings": []
+}

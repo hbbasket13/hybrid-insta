@@ -1,0 +1,128 @@
+{
+  "id": "C-116-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Prehab: getting stronger before surgery",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "수술 날짜가 잡혔다.<br>코코의 <em>훈련</em>이 시작된다",
+      "sub": "프리햅: 수술 전에 미리 튼튼해지기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "지금부터<br>준비해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "무릎 수술까지<br>남은 시간 <em>6주</em>.",
+      "char": "koala_tired",
+      "bubble": "그때까지 그냥<br>쉬어야 하나..?",
+      "bubble_type": "thought",
+      "note": "(달력만 보며 한숨..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "<b>하이브리드 피지오</b><br>시드니 CBD를 찾은 코코.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>수술 준비 중이죠?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "수술 전에도<br>할 게 있어요?"
+      },
+      "note": "하비는 <mark>수술 전 몇 주가 재활의 시작</mark>이라고 말했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>준비하고</em> 들어가면<br>덜 낯설어요",
+      "fact": "수술 전 근력을 키우면 <em>초기 회복</em>이 수월할 수 있어요",
+      "left": {
+        "label": "미리 준비",
+        "char": "koala_happy",
+        "caption": "근력 키우고<br><b>재활 동작 연습</b>"
+      },
+      "right": {
+        "label": "그냥 기다리기",
+        "char": "koala_tired",
+        "caption": "아무것도 안 하고<br><em>수술 날만 기다림</em>"
+      },
+      "quip": "단, 수술팀 조언이<br>언제나 먼저예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>수술 전 준비 4가지</b>",
+      "sub": "수술팀과 상의한 뒤 시작!",
+      "sections": [
+        {
+          "heading": "1. 프리햅 체크리스트",
+          "color": "yellow",
+          "lines": [
+            "① 수술팀 OK 후 <em>근력·체력 운동</em> 시작",
+            "② 수술 후 첫 재활 동작을 <em>미리 연습</em>",
+            "③ 자주 쓰는 물건은 <em>허리 높이</em>로 옮기기",
+            "④ 목발 쓸 예정이면 <em>계단·샤워</em> 미리 연습"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 알리기",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>빠르게 변하거나</em> 새로 붓거나",
+            "몸이 안 좋으면 물리치료사·수술팀에 연락!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "수술 전 <em>이런 변화</em>가 있다면",
+      "bubble": "사람마다 상황이 달라요.<br><b>수술팀 조언</b>이 먼저예요!",
+      "heading": "이럴 땐 꼭 알리기",
+      "items": [
+        "통증이 빠르게 변한다",
+        "새로운 붓기가 생겼다",
+        "몸이 안 좋고 열이 난다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "계획된 수술 전 몇 주는 재활에서 가장 쓸모 있는 시간이 될 수 있어요.\n\n프리햅은 수술 전에 근력·체력·자신감을 키우는 거예요. 연구에 따르면 일부 관절 수술 전에 이렇게 준비하면 초기 회복이 더 수월할 수 있어요. 몸이 괜찮을 때 첫 재활 동작을 미리 배우고, 집도 미리 정리해두세요.\n\n수술팀의 조언이 언제나 먼저예요. 새로운 걸 시작하기 전에 꼭 상의하세요. 시드니 CBD·채스우드 물리치료사가 수술 일정에 맞춰 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#프리햅",
+    "#수술전운동",
+    "#무릎수술",
+    "#재활",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#prehab",
+    "#sydneyphysio",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 수술 전 프리햅이 도움이 되는 이유, 준비 비교, 수술 전 준비 4가지, 알려야 할 신호.",
+  "story": {
+    "headline": "수술 날짜가 잡혔다면?",
+    "body": "수술팀과 상의 후<br>근력부터 미리 챙겨요.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-27",
+  "created": "2026-11-27-5",
+  "status": "approved",
+  "review_warnings": []
+}

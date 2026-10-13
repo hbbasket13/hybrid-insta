@@ -1,0 +1,128 @@
+{
+  "id": "C-120-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Chiropractic care for lower back pain: what guidelines say",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "허리 아플 땐<br><em>누워만 있어야</em> 할까?",
+      "sub": "가이드라인이 말하는 허리 통증 관리",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "가이드라인을<br>같이 볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말 내내 <em>소파</em>에<br>누워 있던 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "허리 아프니까<br>가만히 있어야지..<br>MRI도 찍어야 하나?",
+      "bubble_type": "thought",
+      "note": "(월요일 아침, 허리는 더 뻣뻣..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>허리가 불편하군요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "교정 한 번이면<br>다 풀리나요?"
+      },
+      "note": "하비는 <mark>가이드라인의 순서</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "가이드라인의 첫 순서는<br><em>움직이기!</em>",
+      "fact": "대부분의 허리 통증은 <em>가벼운 움직임</em>이 도움이 돼요",
+      "left": {
+        "label": "가볍게 걷기",
+        "char": "turtle_happy",
+        "caption": "편한 만큼 걷고<br>일상을 <b>이어가요</b>"
+      },
+      "right": {
+        "label": "계속 눕기",
+        "char": "turtle_sad",
+        "caption": "오래 누워 있으면<br><em>더 뻣뻣할 수</em> 있어요"
+      },
+      "quip": "교정은 운동과 함께 쓰는<br>도구 중 하나예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 허리 루틴</b>",
+      "sub": "아침저녁으로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 무릎 좌우로 넘기기",
+          "color": "yellow",
+          "lines": [
+            "① 누워서 무릎을 세우고 발은 바닥에.",
+            "② 두 무릎을 <em>좌우로 천천히</em> 넘겨요.",
+            "③ <em>양쪽 10회</em>, 하루 2~3번.",
+            "④ 하루 <em>10~20분 걷기</em>도 함께!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료받기!",
+          "color": "purple",
+          "lines": [
+            "사타구니 감각 저하, 다리 힘 빠짐,",
+            "소변·대변 변화가 있으면 <em>바로 진료</em>!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "스캔부터 찍어야<br><em>하는 건 아니에요</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 꼭 확인받기",
+      "items": [
+        "열이 나거나 살이 빠진다",
+        "넘어진 뒤 허리가 아프다",
+        "다리가 저리고 힘이 없다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "허리가 신경 쓰이면<br><b>하이브리드 피지오</b>로!"
+    }
+  ],
+  "caption": "허리가 아프면 누워만 있어야 할까요? 허리 통증 가이드라인은 안심하고 움직이기부터 시작해요. 편한 만큼 걷고 일상을 이어가는 게 보통 오래 눕는 것보다 도움이 돼요.\n\n경고 신호가 없다면 X-ray나 MRI가 꼭 필요한 경우는 많지 않아요. 척추 교정·가동술은 일부 사람에게 선택지가 될 수 있지만, 운동·조언과 함께 쓰는 도구예요.\n\n사타구니 감각 저하, 다리 힘 빠짐, 소변·대변 변화가 있으면 바로 진료받기! 하이브리드 피지오 카이로프랙터가 물리치료사와 함께 도와드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니물리치료",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#lowbackpain",
+    "#chiropractor",
+    "#chatswood",
+    "#sydneychiro",
+    "#backpain"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 허리 통증 가이드라인, 걷기와 눕기 비교, 1분 허리 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "허리 아플 때, 눕기만 할까?",
+    "body": "편한 만큼 걷기,<br>가이드라인의 첫 순서!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-28",
+  "created": "2026-11-28-3",
+  "status": "approved",
+  "review_warnings": []
+}

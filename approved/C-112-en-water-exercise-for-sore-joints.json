@@ -1,0 +1,128 @@
+{
+  "id": "C-112-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Water exercise for sore joints",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's knees grumble.<br>Time to <em>try the pool!</em>",
+      "sub": "Water exercise for sore joints this summer",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "No swimming<br>needed!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every hot summer walk,<br>her <em>knees and hips</em> ache.",
+      "char": "koala_tired",
+      "bubble": "Walking's getting<br>harder work..",
+      "bubble_type": "thought",
+      "note": "(so the naps have been getting longer..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "At <b>Hybrid Physio</b><br>Chatswood, Koko met Hybi.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Knees bothering you?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "But I can't really<br>swim..?"
+      },
+      "note": "Hybi showed Koko <mark>pool exercise that's just walking</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Water takes <em>some of<br>your weight</em>",
+      "fact": "Buoyancy means hips, knees and ankles <em>take less load</em>",
+      "left": {
+        "label": "Pool walking",
+        "char": "koala_happy",
+        "caption": "Waist-deep water,<br><b>more comfy range</b>"
+      },
+      "right": {
+        "label": "Hot pavement",
+        "char": "koala_tired",
+        "caption": "Gritting it out<br><em>in the midday sun</em>"
+      },
+      "quip": "Start in the water, keep<br>strength work on land!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>10-minute pool routine</b>",
+      "sub": "Right at the pool edge!",
+      "sections": [
+        {
+          "heading": "1. No swimming required",
+          "color": "yellow",
+          "lines": [
+            "① Walk laps in waist-deep water, <em>5 minutes</em>.",
+            "② Side steps, <em>2 lengths each way</em>.",
+            "③ At the edge: knee lifts, heel raises, <em>10 each</em>.",
+            "④ 1–2 pool days + 1–2 land strength days a week."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "A joint is <em>hot, red and swollen</em>, or",
+            "pain keeps getting worse, not settling."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Joints sending <em>signals</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain after a fall or twist",
+        "A knee locks or gives way",
+        "Hot, red, swollen joint"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Knees or hips grumbling on hot summer walks? The pool might be your friend.\n\nWater supports part of your body weight, so sore joints often tolerate movement more comfortably there. You don't need to swim: walking laps, side steps, knee lifts and heel raises at the edge all count, and water aerobics classes are a good option too.\n\nMoving faster through the water adds resistance as you get stronger. Current guidelines recommend strength work on land as well, so many people do a bit of both.\n\nA hot, red, swollen joint or a knee that locks or gives way is worth getting assessed. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#waterexercise",
+    "#hydrotherapy",
+    "#jointpain",
+    "#kneepain",
+    "#healthyageing",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why water exercise can feel easier on sore joints, a 10-minute no-swimming pool routine and signs worth getting checked.",
+  "story": {
+    "headline": "Sore knees or hips?",
+    "body": "Try 10 minutes of walking<br>in waist-deep water.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-26",
+  "created": "2026-11-26-4",
+  "status": "approved",
+  "review_warnings": []
+}

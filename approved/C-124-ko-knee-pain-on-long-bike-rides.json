@@ -1,0 +1,128 @@
+{
+  "id": "C-124-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee pain on long bike rides",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "<em>60km</em>만 넘으면<br>무릎이 시큰?",
+      "sub": "장거리 라이딩과 무릎 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "안장부터<br>볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말마다 해안도로를<br>달리는 <em>라이더</em> 토토.",
+      "char": "rabbit_tired",
+      "bubble": "처음 한 시간은<br>괜찮았는데..<br>왜 끝엔 시큰하지?",
+      "bubble_type": "thought",
+      "note": "(마지막 언덕에서 무릎 앞쪽이 찌릿..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "토토는 자전거 이야기를 들고<br><b>하이브리드 피지오</b>에 왔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕, 토토!<br>라이딩 많이 했죠?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "무릎이 약한<br>체질인가요?"
+      },
+      "note": "하비는 <mark>안장·클릿·거리</mark>를 먼저 살펴보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "안장 높이, <em>몇 mm</em>가<br>무릎을 바꿀 수 있어요",
+      "fact": "안장이 <em>너무 낮으면</em> 무릎 앞쪽에 부담이 갈 수 있어요",
+      "left": {
+        "label": "맞는 높이",
+        "char": "rabbit_happy",
+        "caption": "페달 아래에서<br>무릎이 <b>살짝 굽어요</b>"
+      },
+      "right": {
+        "label": "너무 낮은 안장",
+        "char": "rabbit_tired",
+        "caption": "무릎이 많이 굽어<br><em>앞쪽이 버텨요</em>"
+      },
+      "quip": "거리는 한 번에 한 가지씩<br>천천히 늘려요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>라이더 무릎 루틴</b>",
+      "sub": "자전거 밖에서도 준비해요!",
+      "sections": [
+        {
+          "heading": "1. 주 2회 근력 운동",
+          "color": "yellow",
+          "lines": [
+            "① 스쿼트 <em>10회 × 3세트</em>.",
+            "② 스텝업 <em>양쪽 10회 × 3세트</em>.",
+            "③ 옆으로 누워 다리 들기로 <em>엉덩이 근력</em>.",
+            "④ 주간 거리·언덕은 <em>하나씩만</em> 늘리기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 세팅보다 평가!",
+          "color": "purple",
+          "lines": [
+            "무릎이 <em>붓거나 걸리거나 빠지는</em> 느낌,",
+            "라이딩 후에도 <em>잠·걷기가 불편</em>하면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "안장을 바꿔도<br><em>계속 시큰하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "무릎이 붓는다",
+        "걸리거나 빠지는 느낌",
+        "잘 때도 쑤신다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "처음 한 시간은 괜찮은데, 장거리 끝무렵 무릎이 시큰하다면? 흔한 패턴이에요.\n\n자주 보는 원인은 안장 높이, 클릿·발 위치, 그리고 갑자기 늘어난 거리나 언덕이에요. 안장이 너무 낮으면 무릎 앞쪽에 부담이 갈 수 있고, 몇 mm 조정이 차이를 만들기도 해요. 전문 바이크 피팅도 도움이 돼요.\n\n자전거 밖 근력도 중요해요. 스쿼트, 스텝업, 엉덩이 운동을 주 2회! 붓기, 걸림, 빠지는 느낌이 있으면 평가가 먼저예요. 시드니 CBD·채스우드 물리치료사가 도와드려요. 프로필 링크에서 온라인 예약 🚴\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#무릎통증",
+    "#자전거",
+    "#로드바이크",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#cycling",
+    "#kneepain",
+    "#sydneyphysio",
+    "#physiotherapy",
+    "#bikefit"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 장거리 라이딩 무릎 통증, 안장 높이 비교, 라이더 근력 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "60km 넘으면 무릎이 시큰?",
+    "body": "안장 높이부터<br>몇 mm씩 점검!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-01",
+  "created": "2026-12-01-1",
+  "status": "approved",
+  "review_warnings": []
+}

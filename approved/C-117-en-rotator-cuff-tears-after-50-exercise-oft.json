@@ -1,0 +1,128 @@
+{
+  "id": "C-117-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Rotator cuff tears after 50: exercise often comes first",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "\"A rotator cuff tear?\"<br>Koko <em>wasn't expecting that</em>",
+      "sub": "After 50, exercise is often the first step",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "Let's talk it<br>through!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Scan report in hand,<br>Koko's mind <em>goes blank</em>.",
+      "char": "koala_tired",
+      "bubble": "A tear..? Is that<br>it for my shoulder..?",
+      "bubble_type": "thought",
+      "note": "(hanging the washing had been a bit sore..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "A chat at <b>Hybrid Physio</b><br>in Sydney CBD.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Let's read it together."
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Does a tear mean<br>I need an operation?"
+      },
+      "note": "Hybi started with <mark>how common tears are with age</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "After 50, tears are<br><em>more common</em> than you'd think",
+      "fact": "Research suggests many people have <em>tears with no pain</em> at all",
+      "left": {
+        "label": "Steady exercise",
+        "char": "koala_happy",
+        "caption": "Building strength<br><b>step by step</b>"
+      },
+      "right": {
+        "label": "Total rest",
+        "char": "koala_tired",
+        "caption": "Protecting the arm<br><em>and never using it</em>"
+      },
+      "quip": "For many tears, exercise<br>is the first step!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>shoulder starter plan</b>",
+      "sub": "2–3 times a week, nice and steady!",
+      "sections": [
+        {
+          "heading": "1. Build it in stages",
+          "color": "yellow",
+          "lines": [
+            "① Wall press holds: <em>5 sec × 10</em>.",
+            "② Band external rotation, <em>2 sets of 10</em>.",
+            "③ Shoulder blade squeezes, <em>10 reps</em>.",
+            "④ Give it <em>about 3 months</em>; track reaching overhead."
+          ]
+        },
+        {
+          "heading": "2. Get checked sooner if…",
+          "color": "purple",
+          "lines": [
+            "You <em>suddenly lose strength</em> after a fall,",
+            "or <em>can't lift your arm</em> at all."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to get it <em>checked sooner</em>",
+      "bubble": "Every shoulder is different.<br><b>An assessment</b> comes first!",
+      "heading": "See your physio or GP if",
+      "items": [
+        "Sudden weakness after a fall",
+        "Can't lift the arm at all",
+        "A hot, swollen shoulder"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Told you have a rotator cuff tear and wondering what now?\n\nAfter 50, some rotator cuff tearing is common, even in people with no pain. For many age-related tears, current guidelines suggest starting with a structured exercise program, and many people see meaningful improvement in pain and everyday function.\n\nA typical plan starts gently, then builds strength through the cuff, shoulder blade and upper back two to three times a week. Give it a fair trial of around three months and track real tasks like reaching overhead. A sudden loss of strength after a fall, or being unable to lift your arm, is worth a prompt check.\n\nOur Sydney CBD and Chatswood physios can walk you through it. Book online via the link in bio. 💪\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#rotatorcuff",
+    "#shoulderpain",
+    "#shoulderrehab",
+    "#over50",
+    "#healthyageing",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why rotator cuff tears are common after 50, why exercise often comes first, a staged starter plan and signs to get checked sooner.",
+  "story": {
+    "headline": "Shoulder tear after 50?",
+    "body": "Exercise is often step one.<br>Give it about 3 months.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-27",
+  "created": "2026-11-27-6",
+  "status": "approved",
+  "review_warnings": []
+}

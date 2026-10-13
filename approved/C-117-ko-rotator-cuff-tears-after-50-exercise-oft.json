@@ -1,0 +1,128 @@
+{
+  "id": "C-117-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Rotator cuff tears after 50: exercise often comes first",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "\"회전근개 파열이래요\"<br>코코는 <em>깜짝 놀랐다</em>",
+      "sub": "50대 이후 파열, 보통 운동이 먼저예요",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "너무 걱정<br>말아요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "영상 검사 결과지를 든<br>코코, <em>머릿속이 하얗다</em>.",
+      "char": "koala_tired",
+      "bubble": "찢어졌으면<br>이제 끝인가..?",
+      "bubble_type": "thought",
+      "note": "(빨래 널 때 어깨가 뻐근하긴 했다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "<b>하이브리드 피지오</b><br>시드니 CBD에서 상담.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>결과지 같이 봐요."
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "파열이면 꼭<br>수술해야 하나요?"
+      },
+      "note": "하비는 <mark>나이 들수록 흔한 변화</mark>라는 것부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "50대 이후 파열은<br><em>생각보다 흔해요</em>",
+      "fact": "연구에 따르면 통증 없이 <em>파열이 있는 사람</em>도 많아요",
+      "left": {
+        "label": "꾸준한 운동",
+        "char": "koala_happy",
+        "caption": "어깨 주변 근력을<br><b>차근차근 키우기</b>"
+      },
+      "right": {
+        "label": "아예 안 쓰기",
+        "char": "koala_tired",
+        "caption": "겁나서 팔을<br><em>계속 아끼기</em>"
+      },
+      "quip": "많은 경우 운동이<br>첫 단계예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>어깨 운동 첫걸음</b>",
+      "sub": "주 2~3회, 천천히!",
+      "sections": [
+        {
+          "heading": "1. 단계별로 쌓기",
+          "color": "yellow",
+          "lines": [
+            "① 벽 밀기 <em>등척성 5초 × 10회</em>부터",
+            "② 밴드로 팔 바깥 돌리기 <em>10회 × 2세트</em>",
+            "③ 견갑골 모으기 <em>10회</em>로 등 위쪽까지",
+            "④ 약 <em>3개월</em>, 팔 올리기로 변화 체크"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 빨리 확인받기",
+          "color": "purple",
+          "lines": [
+            "넘어진 뒤 <em>갑자기 힘이 빠지거나</em>",
+            "팔을 <em>전혀 못 들면</em> 바로 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 땐 <em>빨리 확인받아요</em>",
+      "bubble": "어깨는 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이런 신호라면",
+      "items": [
+        "넘어진 뒤 힘이 확 빠졌다",
+        "팔을 전혀 못 든다",
+        "어깨가 뜨겁고 붓는다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "회전근개 파열이라는 말을 듣고 걱정되셨나요?\n\n50대 이후엔 통증이 없는 사람에게도 회전근개 파열이 흔하게 보여요. 나이와 관련된 파열은 많은 경우 현재 가이드라인이 체계적인 운동을 첫 선택으로 권하고, 통증과 일상 기능이 나아지는 경우가 많아요.\n\n보통 가벼운 동작부터 시작해 어깨·견갑골·등 위쪽 근력을 주 2~3회 키워요. 약 3개월은 꾸준히 해보세요. 넘어진 뒤 힘이 빠지거나 팔을 못 들면 빨리 확인받기! 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#회전근개",
+    "#어깨통증",
+    "#어깨운동",
+    "#50대건강",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#rotatorcuff",
+    "#shoulderpain",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 50대 이후 회전근개 파열이 흔한 이유, 운동이 먼저인 경우, 단계별 어깨 운동, 빨리 확인받아야 할 신호.",
+  "story": {
+    "headline": "어깨 파열, 50대 이후라면?",
+    "body": "운동이 첫 단계인 경우가<br>많아요. 약 3개월 꾸준히!",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-27",
+  "created": "2026-11-27-3",
+  "status": "approved",
+  "review_warnings": []
+}

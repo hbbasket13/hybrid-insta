@@ -1,0 +1,128 @@
+{
+  "id": "C-122-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage and recovery for weekend warriors",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "토요일엔 날았는데<br>월요일엔 <em>계단이 무서워</em>",
+      "sub": "주말 운동 후 회복과 마사지",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "회복 순서,<br>정리해줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "토요일 축구 90분,<br>일요일엔 <em>온몸이 뻐근</em>.",
+      "char": "rabbit_tired",
+      "bubble": "계단 내려갈 때<br>다리가 왜 이러지..?",
+      "bubble_type": "thought",
+      "note": "(옆으로 걸어서 계단 내려가는 토토..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "토토는 <b>하이브리드 피지오</b>에<br>마사지를 받으러 왔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요, 토토!<br>주말에 달렸군요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "세게 받을수록<br>빨리 풀리죠?"
+      },
+      "note": "하비는 <mark>마사지보다 먼저 챙길 것</mark>을 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는 좋은 <em>보조 도구</em>,<br>회복의 기본은 따로!",
+      "fact": "운동 후 근육통은 보통 <em>1~2일째 가장 심하고</em> 며칠이면 풀려요",
+      "left": {
+        "label": "잠·밥·가볍게",
+        "char": "rabbit_happy",
+        "caption": "잘 자고 잘 먹고<br><b>살살 움직이기</b>"
+      },
+      "right": {
+        "label": "바로 세게",
+        "char": "rabbit_tired",
+        "caption": "아플 때 깊은 압은<br><em>더 예민할 수</em> 있어요"
+      },
+      "quip": "마사지는 1~2일 뒤,<br>가볍게 시작해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>주말 회복 루틴</b>",
+      "sub": "월요일이 덜 무섭게!",
+      "sections": [
+        {
+          "heading": "1. 다음 날 회복 3단계",
+          "color": "yellow",
+          "lines": [
+            "① 일요일엔 <em>20분 가볍게</em> 걷거나 자전거.",
+            "② 단백질 있는 식사와 <em>물 충분히</em>.",
+            "③ 마사지는 <em>1~2일 뒤 가볍게</em>.",
+            "④ 주중에도 <em>1~2번 운동</em>해두기!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 말고 평가!",
+          "color": "purple",
+          "lines": [
+            "운동 중 <em>찌르는 통증</em>, 붓기·멍이 있거나",
+            "<em>체중을 싣기 힘들면</em> 평가받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "근육통이 아닌<br><em>다른 신호라면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이럴 땐 물리치료 평가 먼저",
+      "items": [
+        "붓기나 멍이 올라온다",
+        "며칠 지나도 그대로다",
+        "발을 딛기가 힘들다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "하이브리드 피지오에서<br><b>회복도 챙겨요!</b>"
+    }
+  ],
+  "caption": "토요일엔 신나게 뛰었는데, 월요일엔 계단을 옆으로 내려가고 있다면? 평소보다 많이 움직인 뒤 오는 근육통은 흔하고 보통 며칠이면 풀려요.\n\n연구에 따르면 마사지는 운동 후 뻐근함을 덜 느끼고 이완하는 데 도움이 될 수 있어요. 1~2일 뒤 가벼운 세션이 보통 편하고, 깊은 압은 뻐근함이 줄어든 뒤가 좋아요.\n\n그래도 기본은 잠, 단백질 있는 식사, 물, 다음 날 가벼운 움직임이에요. 찌르는 통증, 붓기, 멍, 딛기 힘든 통증은 물리치료 평가가 먼저예요. 프로필 링크에서 온라인 예약 🐰\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#근육통",
+    "#리메디얼마사지",
+    "#운동회복",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#주말운동",
+    "#remedialmassage",
+    "#recovery",
+    "#weekendwarrior",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 주말 운동 후 근육통, 회복 기본기와 마사지 타이밍, 주말 회복 루틴, 평가가 필요한 신호.",
+  "story": {
+    "headline": "주말 운동 후 월요일이 무섭다면?",
+    "body": "잠·밥·가볍게 걷기,<br>마사지는 그다음!",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-30",
+  "created": "2026-11-30-5",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-110-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for persistent pain",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "몇 달째 떠나지 않는 통증,<br>모모는 <em>움직이기가 겁나요</em>",
+      "sub": "오래가는 통증과 클리니컬 필라테스",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "천천히<br>같이 가요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "스트레칭을 좋아하던 모모,<br>요즘은 <em>몸을 사린다</em>.",
+      "char": "cat_tired",
+      "bubble": "또 아플까 봐<br>못 움직이겠어..",
+      "bubble_type": "thought",
+      "note": "(다친 건 몇 달 전인데 아직도..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "조심스럽게 찾아간<br><b>하이브리드 피지오</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "와줘서 반가워요.<br>천천히 얘기해요."
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "필라테스 해도<br>정말 괜찮을까요?"
+      },
+      "note": "하비는 <mark>통증이 꼭 손상만은 아니라는 것</mark>부터 말했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>쉬운 것부터</em>가<br>오히려 빨라요",
+      "fact": "오래가는 통증에선 신경계가 <em>더 예민하게 지켜요</em>",
+      "left": {
+        "label": "작은 성공부터",
+        "char": "cat_happy",
+        "caption": "편한 동작부터<br><b>조금씩 늘리기</b>"
+      },
+      "right": {
+        "label": "한 번에 크게",
+        "char": "cat_tired",
+        "caption": "아파도 참고<br><em>무리하게 많이</em>"
+      },
+      "quip": "몸이 \"움직여도 괜찮네\"<br>다시 배우는 과정이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>플레어업 아래 시작법</b>",
+      "sub": "오늘부터 한 칸씩!",
+      "sections": [
+        {
+          "heading": "1. 작게, 자주",
+          "color": "yellow",
+          "lines": [
+            "① 오늘 <em>편하게 되는 동작</em> 2~3개 고르기",
+            "② 너무 쉽다 싶은 강도로 <em>5분</em>부터",
+            "③ 이틀 괜찮으면 <em>1~2분씩</em> 늘리기",
+            "④ 주 2~3회, 짧게라도 꾸준히"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 쉬고 확인받기",
+          "color": "purple",
+          "lines": [
+            "<em>새로운 증상</em>이 생기거나 점점 심해지면",
+            "GP나 물리치료사와 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 변화가 <em>있다면?</em>",
+      "bubble": "통증은 사람마다 달라요.<br><b>평가</b>가 먼저예요!",
+      "heading": "이럴 땐 꼭 확인받기",
+      "items": [
+        "새로운 증상이 생겼다",
+        "저림이나 힘 빠짐이 있다",
+        "점점 심해지기만 한다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b> 필라테스에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "몇 달째 이어지는 통증은 움직임 하나하나를 겁나게 만들 수 있어요.\n\n오래가는 통증에선 신경계가 더 예민하게 몸을 지켜서, 조직이 회복된 뒤에도 아플 수 있어요. 그 통증은 진짜이고, 바뀔 수 있어요.\n\n클리니컬 필라테스는 플레어업 아래 강도에서 시작해 리포머 스프링의 도움을 받으며 조금씩 늘려가요. 플레어업은 뒤로 간 게 아니라 며칠 쉬어가라는 신호인 경우가 많아요. 하이브리드 피지오 필라테스 팀과 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#만성통증",
+    "#클리니컬필라테스",
+    "#필라테스",
+    "#리포머필라테스",
+    "#시드니필라테스",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#재활운동",
+    "#pilates",
+    "#persistentpain",
+    "#chatswood",
+    "#sydneypilates"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 오래가는 통증에서 필라테스를 작게 시작하는 이유, 작은 성공 비교, 단계별 시작법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "오래가는 통증, 어디서 시작?",
+    "body": "편한 동작 5분부터,<br>조금씩 늘려가요.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-25",
+  "created": "2026-11-25-5",
+  "status": "approved",
+  "review_warnings": []
+}

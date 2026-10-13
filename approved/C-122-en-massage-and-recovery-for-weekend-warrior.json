@@ -1,0 +1,128 @@
+{
+  "id": "C-122-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage and recovery for weekend warriors",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Flying on Saturday,<br><em>stairs scare you</em> Monday?",
+      "sub": "Weekend recovery, and where massage fits",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's sort your<br>recovery order!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "90 minutes of footy,<br>then <em>sore all over</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why are stairs<br>so hard today..?",
+      "bubble_type": "thought",
+      "note": "(Toto takes the stairs sideways on Monday..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto booked a massage<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Toto!<br>Big weekend?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Harder pressure means<br>faster recovery, right?"
+      },
+      "note": "Hybi shared <mark>what matters before massage</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage is a <em>handy add-on</em>,<br>not the whole plan",
+      "fact": "Soreness often <em>peaks at day 1–2</em>, then settles",
+      "left": {
+        "label": "Sleep, eat, move",
+        "char": "rabbit_happy",
+        "caption": "Rest well, eat well,<br><b>move gently</b>"
+      },
+      "right": {
+        "label": "Deep at once",
+        "char": "rabbit_tired",
+        "caption": "Deep pressure on sore<br>legs can <em>feel worse</em>"
+      },
+      "quip": "Book a lighter session<br>a day or two later!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>weekend recovery plan</b>",
+      "sub": "Make Monday a bit kinder!",
+      "sections": [
+        {
+          "heading": "1. The day-after routine",
+          "color": "yellow",
+          "lines": [
+            "① <em>20 minutes</em> of easy walking or cycling.",
+            "② A meal with protein and <em>plenty of water</em>.",
+            "③ Massage <em>a day or two later</em>, lighter.",
+            "④ Train <em>once or twice midweek</em> too."
+          ]
+        },
+        {
+          "heading": "2. Skip the massage and get assessed if…",
+          "color": "purple",
+          "lines": [
+            "<em>Sharp pain</em> during play, swelling or bruising,",
+            "or you <em>can't take weight</em> comfortably."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "More than<br><em>just soreness?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See a physio first if you notice",
+      "items": [
+        "Swelling or bruising",
+        "No easing after a few days",
+        "Trouble taking weight"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Recover well with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Big game on Saturday, walking down stairs sideways on Monday?\n\nThat muscle soreness is common after unusual effort and usually settles within a few days. Research suggests massage can ease how sore you feel and help you relax after hard exercise. A lighter session a day or two later often feels good, with deeper work saved until the soreness eases.\n\nMassage complements the basics rather than replacing them: sleep, a meal with protein, fluids and easy movement the next day. A bit of midweek training helps too.\n\nSharp pain, swelling, bruising or trouble taking weight is worth a physio assessment instead. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsrecovery",
+    "#weekendwarrior",
+    "#musclesoreness",
+    "#massagetherapy",
+    "#chatswood",
+    "#sydneymassage",
+    "#sydney",
+    "#recovery",
+    "#hybridphysiotherapy",
+    "#footy",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto about weekend sport soreness, why sleep and movement matter more than massage, a recovery routine and signs that need a physio assessment.",
+  "story": {
+    "headline": "Sore Monday after a big Saturday?",
+    "body": "Sleep, food, easy movement,<br>then massage.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-30",
+  "created": "2026-11-30-2",
+  "status": "approved",
+  "review_warnings": []
+}

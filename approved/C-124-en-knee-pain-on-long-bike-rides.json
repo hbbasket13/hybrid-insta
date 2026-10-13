@@ -1,0 +1,128 @@
+{
+  "id": "C-124-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee pain on long bike rides",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Knees fine for an hour,<br><em>grumpy by 60km</em>?",
+      "sub": "Long rides, sore knees and what to check",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's start<br>with the saddle!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every weekend, Toto<br>rides the <em>coast road</em>.",
+      "char": "rabbit_tired",
+      "bubble": "The first hour<br>was great..<br>why the ache now?",
+      "bubble_type": "thought",
+      "note": "(that last climb, and the front of the knee twinges..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto wheeled in to<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hey Toto!<br>Big kilometres lately?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Do I just have<br>weak knees?"
+      },
+      "note": "Hybi wanted to check <mark>saddle, cleats and load</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "A few <em>millimetres</em><br>can change your knees",
+      "fact": "A saddle that's <em>too low</em> often loads the front of the knee",
+      "left": {
+        "label": "Right height",
+        "char": "rabbit_happy",
+        "caption": "A <b>slight bend</b> at the<br>bottom of the stroke"
+      },
+      "right": {
+        "label": "Saddle too low",
+        "char": "rabbit_tired",
+        "caption": "Knee stays deeply bent,<br><em>front works harder</em>"
+      },
+      "quip": "Build distance or hills,<br>one thing at a time!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>rider knee routine</b>",
+      "sub": "Strength off the bike counts too!",
+      "sections": [
+        {
+          "heading": "1. Twice a week",
+          "color": "yellow",
+          "lines": [
+            "① Squats, <em>10 reps × 3 sets</em>.",
+            "② Step-ups, <em>10 each leg × 3 sets</em>.",
+            "③ Side-lying leg lifts for <em>hip strength</em>.",
+            "④ Add distance <em>or</em> climbing, not both."
+          ]
+        },
+        {
+          "heading": "2. Get assessed instead of tweaking if…",
+          "color": "purple",
+          "lines": [
+            "The knee <em>swells, locks or gives way</em>,",
+            "or pain lingers into <em>sleep or walking</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "New saddle height,<br><em>same ache?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling in the knee",
+        "Locking or giving way",
+        "Aching at night"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Knees fine for the first hour, then grumbling by the end of the long ride? That's a common pattern.\n\nA few usual suspects: saddle height, cleat and foot position, and big jumps in distance or climbing. A saddle that's too low often loads the front of the knee, and changes of a few millimetres can matter. A professional bike fit can help too.\n\nStrength off the bike counts. Squats, step-ups and hip work twice a week can help your knees cope with longer rides.\n\nSwelling, locking, giving way or pain that disrupts sleep or walking is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#cycling",
+    "#kneepain",
+    "#roadcycling",
+    "#bikefit",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#sydneycycling",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto about knee pain on long bike rides, how saddle height affects the knee, a rider strength routine and signs worth getting checked.",
+  "story": {
+    "headline": "Knees grumpy by 60km?",
+    "body": "Check saddle height first,<br>a few mm at a time.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-12-01",
+  "created": "2026-12-01-4",
+  "status": "approved",
+  "review_warnings": []
+}

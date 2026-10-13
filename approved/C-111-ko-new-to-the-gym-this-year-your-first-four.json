@@ -1,0 +1,128 @@
+{
+  "id": "C-111-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "New to the gym this year: your first four weeks",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "헬스장 등록 첫 주,<br>루루는 <em>너무 달렸다</em>",
+      "sub": "처음 4주, 지치지 않고 쌓는 법",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "주차별로<br>가봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "첫날부터 <em>2시간</em>,<br>무게도 욕심껏.",
+      "char": "kanga_tired",
+      "bubble": "다음 날 계단을<br>못 내려가겠어..",
+      "bubble_type": "thought",
+      "note": "(일주일 뒤, 헬스장 가방은 현관에 그대로..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "다시 시작하려고<br><b>하이브리드 피지오</b>를 찾았다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>새해 운동 시작?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "이번엔 진짜<br>꾸준히 하고 싶어요!"
+      },
+      "note": "하비는 <mark>4주 계획표</mark>를 같이 짜보기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "첫 달은 <em>조금 덜</em>이<br>더 오래가요",
+      "fact": "작고 꾸준한 증량이 <em>힘줄과 관절</em>에 더 부드러워요",
+      "left": {
+        "label": "조금 남기기",
+        "char": "kanga_happy",
+        "caption": "\"더 할 수 있겠다\"<br>에서 <b>멈추기</b>"
+      },
+      "right": {
+        "label": "첫날 올인",
+        "char": "kanga_tired",
+        "caption": "첫 주부터<br><em>녹초가 될 때까지</em>"
+      },
+      "quip": "남겨두고 끝내야<br>다음 날도 가요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>첫 4주 플랜</b>",
+      "sub": "주차별로 하나씩!",
+      "sections": [
+        {
+          "heading": "1. 주차별 목표",
+          "color": "yellow",
+          "lines": [
+            "① 1주: 가벼운 무게로 <em>주 2~3회</em> 전신",
+            "② 2주: 다음 날 근육통은 <em>흔해요</em>",
+            "③ 3주: 쉬우면 <em>무게 조금 or 2회 더</em>",
+            "④ 4주: 잠·회복·재미 점검 후 계속"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기",
+          "color": "purple",
+          "lines": [
+            "들다가 <em>날카로운 통증</em>이 오거나",
+            "팔·다리가 <em>저리면</em> 멈추기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "운동 후 <em>이런 신호</em>가 있다면",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>부터 받아봐요!",
+      "heading": "이럴 땐 확인받기",
+      "items": [
+        "며칠 넘게 통증이 남는다",
+        "관절이 붓는다",
+        "팔·다리가 저리다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "새해 헬스장 등록! 처음 한 달이 제일 중요해요.\n\n첫 주에 너무 달리면 지쳐서 조용히 그만두기 쉬워요. 천천히 시작해야 오래가요.\n\n1주: 가벼운 무게로 주 2~3회 전신 운동. 2주: 1~2일 뒤 근육통은 흔하고 보통 며칠이면 가라앉아요. 3주: 세트가 쉬우면 무게를 조금 또는 2회 더. 4주: 잠·회복·재미를 점검하고 계속!\n\n들다가 날카로운 통증, 오래가는 통증, 팔다리 저림은 평가받아 보세요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 💪\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#헬스초보",
+    "#운동시작",
+    "#근력운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#gymbeginner",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 헬스장 첫 4주를 주차별로 쌓는 법, 첫날 올인과 비교, 확인이 필요한 신호.",
+  "story": {
+    "headline": "헬스장 첫 주, 이렇게!",
+    "body": "가벼운 무게로 주 2~3회,<br>조금 남기고 끝내기.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-25",
+  "created": "2026-11-25-3",
+  "status": "approved",
+  "review_warnings": []
+}

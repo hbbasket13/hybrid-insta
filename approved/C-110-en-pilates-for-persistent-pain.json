@@ -1,0 +1,128 @@
+{
+  "id": "C-110-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for persistent pain",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Months on, and Momo's<br>a bit <em>scared to move</em>",
+      "sub": "Persistent pain and clinical Pilates",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_small",
+        "bubble": "We'll go at<br>your pace!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo used to love stretching.<br>Now she <em>holds back</em>.",
+      "char": "cat_tired",
+      "bubble": "What if it hurts<br>again..?",
+      "bubble_type": "thought",
+      "note": "(the injury was months ago, but still..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "A careful first visit to<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Glad you came.<br>No rush at all."
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Is Pilates really<br>okay for me?"
+      },
+      "note": "Hybi began with <mark>why pain isn't only about tissue</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Starting <em>easy</em> often<br>gets you further",
+      "fact": "With lasting pain, the nervous system often <em>gets protective</em>",
+      "left": {
+        "label": "Small wins",
+        "char": "cat_happy",
+        "caption": "Comfortable moves,<br><b>built up slowly</b>"
+      },
+      "right": {
+        "label": "All at once",
+        "char": "cat_tired",
+        "caption": "Pushing through<br><em>big sessions</em>"
+      },
+      "quip": "Your body relearns that<br>moving is okay!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>below-the-flare-up start</b>",
+      "sub": "One small step today!",
+      "sections": [
+        {
+          "heading": "1. Small and often",
+          "color": "yellow",
+          "lines": [
+            "① Pick <em>2–3 moves</em> that feel comfortable today.",
+            "② Start at an easy level for <em>5 minutes</em>.",
+            "③ Two good days? Add <em>1–2 minutes</em>.",
+            "④ 2–3 short sessions a week beats one big one."
+          ]
+        },
+        {
+          "heading": "2. Ease off and get advice if…",
+          "color": "purple",
+          "lines": [
+            "You notice <em>new symptoms</em>, or things",
+            "keep getting worse — see your GP or physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Something <em>changed</em>?",
+      "bubble": "Pain differs for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "New symptoms appear",
+        "Numbness or weakness",
+        "Steadily getting worse"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi at<br><b>Hybrid Physio</b> Pilates!"
+    }
+  ],
+  "caption": "Pain that hangs around for months can make every movement feel like a risk.\n\nWith persistent pain, the nervous system often turns up its protection, so things can hurt even after tissues have healed. That pain is real, and it can change.\n\nClinical Pilates can help by starting below your flare-up line, using reformer springs for support, and building up gradually. Flare-ups usually mean easing back for a few days, not starting over. New, changing or worsening symptoms are always worth checking with your GP or physio.\n\nOur Pilates team works closely with our physios to keep your plan joined up. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#persistentpain",
+    "#chronicpain",
+    "#reformerpilates",
+    "#movementconfidence",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydneypilates",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#rehab"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining how clinical Pilates can start below the flare-up line for persistent pain, a small-and-often plan and signs worth getting checked.",
+  "story": {
+    "headline": "Pain that hangs around?",
+    "body": "Start with 5 easy minutes.<br>Build from small wins.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-25",
+  "created": "2026-11-25-2",
+  "status": "approved",
+  "review_warnings": []
+}

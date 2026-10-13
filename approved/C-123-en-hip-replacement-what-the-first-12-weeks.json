@@ -1,0 +1,120 @@
+{
+  "id": "C-123-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hip replacement: what the first 12 weeks look like",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "New hip: what do the<br><em>first 12 weeks</em> look like?",
+      "sub": "A rough picture, not your personal plan",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's go<br>week by week!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Home from hospital<br>with a <em>brand-new hip</em>.",
+      "char": "koala_tired",
+      "bubble": "My neighbour was<br>walking so fast..<br>why am I slower?",
+      "bubble_type": "thought",
+      "note": "(one lap of the lounge room with the walker..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Hi Koko!<br>How's the new hip?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "When will I walk<br>like I used to?"
+      },
+      "note": "Hybi began with <mark>everyone's pace is different</mark>."
+    },
+    {
+      "kind": "scene",
+      "title": "Roughly how it <em>goes</em><br>(surgeon's plan first!)",
+      "char": "hybi_neutral",
+      "bubble": "Wk 1–2: short, often walks<br>Wk 2–6: strength, balance<br>Wk 6–12: less walking aid",
+      "note": "(age, fitness before surgery and approach all matter)",
+      "h": 380
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>daily recovery routine</b>",
+      "sub": "Always within your surgeon's protocol!",
+      "sections": [
+        {
+          "heading": "1. Early-weeks basics",
+          "color": "yellow",
+          "lines": [
+            "① <em>Short walks, several times</em> a day.",
+            "② Your hospital <em>exercises, daily</em>.",
+            "③ Movement limits and driving: <em>surgeon first</em>.",
+            "④ Skip comparing. Go at <em>your own pace</em>."
+          ]
+        },
+        {
+          "heading": "2. Call your surgeon or GP if…",
+          "color": "purple",
+          "lines": [
+            "Wound <em>redness, warmth</em>, fever or calf swelling.",
+            "<em>Chest pain or breathlessness</em>: urgent care."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Slow and steady<br><em>is fine</em>",
+      "bubble": "Every recovery is different.<br><b>An assessment</b> comes first!",
+      "heading": "Get advice promptly if you notice",
+      "items": [
+        "Discharge from the wound",
+        "New calf pain or swelling",
+        "A sudden change in the hip"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Hip rehab with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Hip replacement coming up, or just home from hospital? Here's a rough picture of the early months.\n\nThe first couple of weeks are mostly short, frequent walks and the exercises from your hospital team. After that, strength and balance work usually builds, and by weeks 6–12 many people gradually rely less on walking aids.\n\nEveryone's timeline differs. Fitness before surgery, other health conditions and the surgical approach all play a part, and your surgeon's protocol always comes first.\n\nWound changes, fever or new calf swelling need prompt medical advice. Our Chatswood and Sydney CBD physios can guide your rehab alongside your surgeon's plan. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hipreplacement",
+    "#hiprehab",
+    "#physiotherapy",
+    "#postoprehab",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#healthyageing",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko outlining the first 12 weeks after a hip replacement, a daily recovery routine and changes to report promptly.",
+  "story": {
+    "headline": "New hip? The first 12 weeks",
+    "body": "Short walks, often,<br>at your own pace.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-30",
+  "created": "2026-11-30-6",
+  "status": "approved",
+  "review_warnings": []
+}

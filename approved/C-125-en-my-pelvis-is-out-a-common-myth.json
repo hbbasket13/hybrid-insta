@@ -1,0 +1,128 @@
+{
+  "id": "C-125-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "'My pelvis is out': a common myth",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "\"Your pelvis is <em>out</em>\"<br>Is it really?",
+      "sub": "A common myth, explained",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's bust<br>this one!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The day after yoga,<br>Momo's hip <em>twinges</em>.",
+      "char": "cat_tired",
+      "bubble": "Someone said my<br>pelvis is out..<br>do I pop it back?",
+      "bubble_type": "thought",
+      "note": "(Momo checks her hip height in the mirror..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "A worried Momo visited<br><b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave2",
+        "bubble": "Hi Momo!<br>Pelvis on your mind?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Can you put my<br>pelvis back in?"
+      },
+      "note": "Hybi explained that <mark>pelvises don't pop out</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Your pelvis is<br><em>really stable</em>",
+      "fact": "The SI joints are held by strong ligaments and move <em>a few mm</em>",
+      "left": {
+        "label": "Likely cause",
+        "char": "cat_happy",
+        "caption": "Overloaded tissues<br>that are <b>sensitive</b>"
+      },
+      "right": {
+        "label": "The myth",
+        "char": "cat_tired",
+        "caption": "It slipped out and<br><em>needs pushing back</em>"
+      },
+      "quip": "Small side differences<br>are usually normal!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute hip routine</b>",
+      "sub": "Settle it with movement and load!",
+      "sections": [
+        {
+          "heading": "1. Glute bridge",
+          "color": "yellow",
+          "lines": [
+            "① Lie down, knees bent, feet hip-width.",
+            "② Squeeze your glutes and <em>lift slowly</em>.",
+            "③ Hold <em>3 sec × 10 reps</em>, twice a day.",
+            "④ Stay in a <em>comfortable range</em>."
+          ]
+        },
+        {
+          "heading": "2. Get advice first if…",
+          "color": "purple",
+          "lines": [
+            "Pain follows a fall, comes on in pregnancy,",
+            "or brings <em>numbness or leg weakness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Adjustments don't<br><em>put things back</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked promptly if",
+      "items": [
+        "Pain after a fall",
+        "Fever with back pain",
+        "Bladder or bowel changes"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Questions? Ask Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Ever been told your pelvis is \"out\"? It's one of the most common myths we hear.\n\nYour sacroiliac joints are held by some of the strongest ligaments in the body and only move a few millimetres. Small side-to-side differences are normal, and research suggests they usually don't match who has pain.\n\nPain around the pelvis is more often sensitive, overloaded tissues that settle with movement and gradual loading. Adjustments can be a useful tool to ease pain and help you move, alongside exercise, not a way to put anything back.\n\nPain after a fall, in pregnancy, or with numbness, weakness or bladder changes is worth getting checked. Our chiropractors at Hybrid Physio are happy to explain. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#pelvicpain",
+    "#sijoint",
+    "#lowbackpain",
+    "#mythbusting",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#yoga",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo busting the myth that a pelvis can be out, what usually causes the pain, a glute bridge routine and signs worth getting checked.",
+  "story": {
+    "headline": "Told your pelvis is out?",
+    "body": "It's very stable.<br>Movement helps it settle.",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-01",
+  "created": "2026-12-01-2",
+  "status": "approved",
+  "review_warnings": []
+}

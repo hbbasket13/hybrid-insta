@@ -1,0 +1,128 @@
+{
+  "id": "C-109-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "The 'drink water to flush toxins' myth",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "\"Drink water to flush<br>the <em>toxins</em> out!\" Really?",
+      "sub": "Why you hear it after a massage, and what's true",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "Let's check<br>the facts!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The day after a massage,<br>Momo feels <em>a bit tender</em>.",
+      "char": "cat_tired",
+      "bubble": "Is that the toxins<br>leaving my body..?",
+      "bubble_type": "thought",
+      "note": "(she forced down two litres of water..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Curious, Momo asked<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Got a question?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Don't I need water<br>to flush toxins?"
+      },
+      "note": "Hybi started with <mark>what the research says</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Your <em>liver and kidneys</em><br>handle waste",
+      "fact": "Research doesn't back massage <em>releasing toxins</em>",
+      "left": {
+        "label": "Drink to thirst",
+        "char": "cat_happy",
+        "caption": "A glass of water,<br><b>just like any day</b>"
+      },
+      "right": {
+        "label": "Forced litres",
+        "char": "cat_tired",
+        "caption": "\"Must flush it out!\"<br><em>litres on purpose</em>"
+      },
+      "quip": "Water's great. It's just<br>ordinary hydration!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>after-massage check-in</b>",
+      "sub": "Try it the evening after!",
+      "sections": [
+        {
+          "heading": "1. After your session",
+          "color": "yellow",
+          "lines": [
+            "① Drink water <em>to thirst</em>, same as usual.",
+            "② An easy <em>10-minute walk</em> to loosen up.",
+            "③ Mild tenderness usually settles in <em>1–2 days</em>.",
+            "④ Too firm? Tell your therapist next time."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Soreness keeps <em>getting worse</em>, or you",
+            "notice big swelling or bruising."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Not your <em>usual</em> after-feel?",
+      "bubble": "Everyone reacts differently.<br><b>Check in</b> first!",
+      "heading": "Worth getting checked if",
+      "items": [
+        "Sore for more than 2–3 days",
+        "Dizziness that lingers",
+        "Large swelling or bruising"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "\"Drink lots of water to flush out the toxins.\" Momo heard it after her massage, too.\n\nIt's a popular idea, but research doesn't support it. Massage doesn't release a wave of toxins, and your liver and kidneys handle waste around the clock. Feeling a bit tender or tired the next day is common and usually passes within a day or two.\n\nA glass of water is still fine. It's just ordinary hydration, so drink to thirst.\n\nWhat remedial massage can do is ease muscle tension and help you move more comfortably, especially alongside exercise. Our remedial massage therapists at Hybrid Physio keep expectations realistic. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#massagemyths",
+    "#healthmyths",
+    "#hydration",
+    "#musclesoreness",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydneymassage",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#wellbeing"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo unpacking the myth that you drink water after massage to flush toxins, an after-massage check-in and signs worth getting checked.",
+  "story": {
+    "headline": "Massage releases toxins?",
+    "body": "Not really. Drink water<br>because you're thirsty.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-25",
+  "created": "2026-11-25-4",
+  "status": "approved",
+  "review_warnings": []
+}

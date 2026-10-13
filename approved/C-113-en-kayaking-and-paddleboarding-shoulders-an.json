@@ -1,0 +1,128 @@
+{
+  "id": "C-113-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Kayaking and paddleboarding: shoulders and back",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Three hours on a SUP,<br>and Toto's shoulders <em>object</em>",
+      "sub": "Kayaks, paddleboards, shoulders and backs",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "Paddle from<br>your trunk!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "First paddle of summer,<br>a <em>three-hour</em> trip.",
+      "char": "rabbit_tired",
+      "bubble": "Can't lift my arms..<br>and my back's stiff..",
+      "bubble_type": "thought",
+      "note": "(a very quiet drive home..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Monday, at <b>Hybrid Physio</b><br>in Sydney CBD.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big day on the water?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "I just pulled hard<br>with my arms..?"
+      },
+      "note": "Hybi explained that <mark>the power comes from your trunk</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Paddle power comes from<br><em>turning your trunk</em>",
+      "fact": "Pulling with arms alone <em>tires the shoulders</em> fast",
+      "left": {
+        "label": "Trunk paddling",
+        "char": "rabbit_happy",
+        "caption": "Rotate and share it<br>with <b>bigger muscles</b>"
+      },
+      "right": {
+        "label": "Arms only",
+        "char": "rabbit_tired",
+        "caption": "Long reaches, and<br><em>shoulders do it all</em>"
+      },
+      "quip": "Paddle close, top hand<br>around eye height!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute paddle check</b>",
+      "sub": "Before you hit the water!",
+      "sections": [
+        {
+          "heading": "1. Out on the water",
+          "color": "yellow",
+          "lines": [
+            "① <em>Turn your trunk</em> with every stroke.",
+            "② Paddle close, top hand <em>at eye height</em>.",
+            "③ SUP: feet hip-width, <em>knees softly bent</em>.",
+            "④ First outing: <em>30–45 min</em> with breaks."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Your hand <em>tingles</em>, or your arm feels",
+            "<em>weak</em> — don't paddle through it."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Sore after <em>every paddle</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth getting checked if",
+      "items": [
+        "Shoulder pain wakes you",
+        "Weakness lifting your arm",
+        "Back pain down a leg"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Paddled out feeling great, drove home with sore shoulders and a stiff back?\n\nKayaking and paddleboarding are fantastic summer exercise, but the first few outings often ask more of your shoulders and back than they're used to.\n\nA few tweaks usually help: turn through your trunk rather than pulling with your arms, keep the paddle close, soften your knees on a SUP, and build up from 30 to 45 minutes over several trips. 🏄\n\nShoulder pain that wakes you at night, weakness lifting your arm or pins and needles in the hand are worth assessing. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#paddleboarding",
+    "#kayaking",
+    "#sup",
+    "#shoulderpain",
+    "#backpain",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#summer"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto showing how to paddle from the trunk to spare the shoulders, a 1-minute pre-paddle check and signs worth getting checked.",
+  "story": {
+    "headline": "Paddling this weekend?",
+    "body": "Turn your trunk, paddle<br>close, start with 30 min.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-11-26",
+  "created": "2026-11-26-2",
+  "status": "approved",
+  "review_warnings": []
+}

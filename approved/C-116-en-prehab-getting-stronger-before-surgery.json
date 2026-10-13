@@ -1,0 +1,128 @@
+{
+  "id": "C-116-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Prehab: getting stronger before surgery",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Surgery's booked.<br>Koko's <em>training starts now</em>",
+      "sub": "Prehab: getting stronger before an operation",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's get<br>ready!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Six weeks</em> until<br>her knee operation.",
+      "char": "koala_tired",
+      "bubble": "Do I just rest<br>until then..?",
+      "bubble_type": "thought",
+      "note": "(staring at the calendar..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko visited <b>Hybrid Physio</b><br>in Sydney CBD.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Getting ready for surgery?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Is there anything<br>to do beforehand?"
+      },
+      "note": "Hybi said <mark>rehab can start before surgery</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Go in <em>prepared</em>, and rehab<br>feels more familiar",
+      "fact": "Research suggests prehab can ease <em>early recovery</em>",
+      "left": {
+        "label": "Prepared",
+        "char": "koala_happy",
+        "caption": "Building strength,<br><b>practising rehab</b>"
+      },
+      "right": {
+        "label": "Just waiting",
+        "char": "koala_tired",
+        "caption": "Doing nothing<br><em>until the day</em>"
+      },
+      "quip": "Your surgical team's<br>advice always comes first!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>4-step prehab plan</b>",
+      "sub": "Check with your surgical team first!",
+      "sections": [
+        {
+          "heading": "1. Before the big day",
+          "color": "yellow",
+          "lines": [
+            "① With your team's OK, <em>build strength and fitness</em>.",
+            "② <em>Practise</em> your first post-op exercises now.",
+            "③ Move everyday things to <em>waist height</em>.",
+            "④ Using crutches? <em>Practise stairs and showers</em>."
+          ]
+        },
+        {
+          "heading": "2. Let us know if…",
+          "color": "purple",
+          "lines": [
+            "Pain is <em>changing quickly</em>, there's new",
+            "swelling, or you feel unwell."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Any <em>changes</em> before surgery?",
+      "bubble": "Every situation differs.<br><b>Your surgeon's advice</b> first!",
+      "heading": "Tell your team and physio if",
+      "items": [
+        "Pain changes quickly",
+        "New swelling appears",
+        "You feel unwell or feverish"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "The weeks before a planned operation can be some of the most useful weeks of your rehab.\n\nPrehab means building strength, fitness and confidence before surgery. Research suggests people who do this before some joint operations often find early recovery more manageable. It's also a chance to learn your first rehab exercises while you feel well, and to set up your home for the first days back.\n\nYour surgical team's advice always comes first, so check with them before starting anything new and follow any limits they set.\n\nOur Sydney CBD and Chatswood physios can build a prehab plan around your procedure and your life. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#prehab",
+    "#surgeryprep",
+    "#kneesurgery",
+    "#hipreplacement",
+    "#rehab",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining prehab before surgery, a four-step preparation plan and changes to tell your team about.",
+  "story": {
+    "headline": "Surgery on the calendar?",
+    "body": "With your team's OK,<br>build strength now.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-27",
+  "created": "2026-11-27-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-120-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Chiropractic care for lower back pain: what guidelines say",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Sore back? Should you<br>just <em>lie down</em>?",
+      "sub": "What back pain guidelines actually say",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's check the<br>guidelines!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A whole weekend<br>on the <em>couch</em>.",
+      "char": "turtle_sad",
+      "bubble": "My back hurts..<br>better stay still.<br>Do I need an MRI?",
+      "bubble_type": "thought",
+      "note": "(by Monday morning, it feels even stiffer..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back giving you grief?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Can one adjustment<br>sort it all out?"
+      },
+      "note": "Hybi started with <mark>what guidelines put first</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Step one in the guidelines:<br><em>keep moving!</em>",
+      "fact": "Most back pain does better with <em>movement</em> than bed rest",
+      "left": {
+        "label": "Easy walking",
+        "char": "turtle_happy",
+        "caption": "Walk as comfort allows,<br>keep <b>daily life going</b>"
+      },
+      "right": {
+        "label": "Lying still",
+        "char": "turtle_sad",
+        "caption": "Hours in bed can<br>leave it <em>stiffer</em>"
+      },
+      "quip": "Adjustments are one tool,<br>used alongside exercise!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute back routine</b>",
+      "sub": "Try it morning and night!",
+      "sections": [
+        {
+          "heading": "1. Knee rocks",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, knees bent, feet flat.",
+            "② Let both knees <em>sway slowly</em> side to side.",
+            "③ <em>10 each way</em>, 2–3 times a day.",
+            "④ Add a <em>10–20 min walk</em> most days."
+          ]
+        },
+        {
+          "heading": "2. See a doctor promptly if…",
+          "color": "purple",
+          "lines": [
+            "Numbness around the groin, leg weakness,",
+            "or <em>bladder or bowel changes</em> appear."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "A scan usually<br><em>isn't step one</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Fever or weight loss",
+        "Pain after a big fall",
+        "Leg tingling or weakness"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Back on your mind?<br>Meet Hybi at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Sore back, so you stay on the couch all weekend? Back pain guidelines actually start with reassurance and staying active. Walking and normal daily activity, adjusted to comfort, usually help more than bed rest.\n\nWithout warning signs, routine X-rays or MRI often aren't needed. Spinal manipulation and mobilisation are listed as options for some people, usually alongside exercise and advice rather than on their own.\n\nNumbness around the groin, leg weakness or bladder and bowel changes need prompt medical attention. Our chiropractors at Hybrid Physio work alongside our physios. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#lowbackpain",
+    "#backpain",
+    "#chiropractor",
+    "#chiropractic",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydney",
+    "#stayactive",
+    "#hybridphysiotherapy",
+    "#officeworker",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining what back pain guidelines recommend, why movement comes first, a 1-minute knee rock routine and signs worth getting checked.",
+  "story": {
+    "headline": "Sore back? Keep moving gently",
+    "body": "Walk as comfort allows,<br>guideline step one.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-28",
+  "created": "2026-11-28-6",
+  "status": "approved",
+  "review_warnings": []
+}

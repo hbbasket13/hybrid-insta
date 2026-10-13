@@ -1,0 +1,128 @@
+{
+  "id": "C-106-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Getting in and out of the car all day: back care for drivers",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Forty stops a day,<br>and <em>Lulu's back</em> feels each one",
+      "sub": "Back habits for people who drive for work",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Let's change how<br>you get in!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Deliveries, site to site,<br>all day <em>in the van</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why does my back<br>grumble every time<br>I hop out..?",
+      "bubble_type": "thought",
+      "note": "(and lifting gear from the boot doesn't help..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Lulu booked in with<br>a <b>Hybrid Physio</b> chiro.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back working hard?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "I can't drive less..<br>so what can I do?"
+      },
+      "note": "Hybi started with <mark>how Lulu gets in and out</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Getting in can be harder<br>than the <em>driving</em>!",
+      "fact": "Backs often feel it most when you <em>bend and twist</em> at once",
+      "left": {
+        "label": "Sit, then swing",
+        "char": "kanga_happy",
+        "caption": "Sit first, then swing<br>both legs in <b>together</b>"
+      },
+      "right": {
+        "label": "Duck and twist",
+        "char": "kanga_tired",
+        "caption": "One leg in, then<br><em>twist and duck</em>"
+      },
+      "quip": "Same trip, kinder order<br>for your back!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute driver habits</b>",
+      "sub": "Use them at every stop!",
+      "sections": [
+        {
+          "heading": "1. In, out and moving",
+          "color": "yellow",
+          "lines": [
+            "① Sit first, knees together, <em>swing both legs in</em>.",
+            "② Each stop: <em>10 sec</em> stand tall, lean back.",
+            "③ Slide boot loads <em>to the edge</em> before lifting.",
+            "④ Set the seat once: knees slightly bent."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Your legs <em>tingle or go numb</em>, or the pain",
+            "keeps getting worse despite rest."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still <em>bugging you</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get these checked promptly",
+      "items": [
+        "Numb legs or saddle area",
+        "Bladder or bowel changes",
+        "Worse and worse with rest"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Forty stops a day and Lulu's back feels every one of them.\n\nFor couriers, tradies and reps, it's often the getting in and out that bothers the back more than the driving. Try sitting first with your feet outside, then swinging both legs in together. Reverse it to get out.\n\nAt each stop, take ten seconds to stand tall, lean back gently and walk a few steps. Slide boot loads to the edge before you lift.\n\nNumbness in the legs or saddle area, or bladder or bowel changes, need prompt medical attention.\n\nOur chiropractors at Hybrid Physio can look at your back and your workday. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#drivingforwork",
+    "#tradielife",
+    "#couriers",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#backcare",
+    "#hybridphysiotherapy",
+    "#workhealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu showing a back-friendly way to get in and out of a vehicle, a 10-second stop habit, boot lifting tips and signs worth getting checked.",
+  "story": {
+    "headline": "Back sore from driving?",
+    "body": "Sit first, then swing<br>both legs in together.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-24",
+  "created": "2026-11-24-4",
+  "status": "approved",
+  "review_warnings": []
+}

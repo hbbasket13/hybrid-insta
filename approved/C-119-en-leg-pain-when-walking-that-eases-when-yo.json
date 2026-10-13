@@ -1,0 +1,128 @@
+{
+  "id": "C-119-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Leg pain when walking that eases when you sit (spinal stenosis)",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's legs feel better<br>leaning on a <em>shopping trolley</em>",
+      "sub": "Leg pain walking that eases when you sit",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_neutral",
+        "bubble": "There's a<br>reason!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A lap of the block, and<br>her legs feel <em>heavy and tingly</em>.",
+      "char": "koala_tired",
+      "bubble": "Fine when I sit..<br>so why does walking<br>do this..?",
+      "bubble_type": "thought",
+      "note": "(always on the lookout for a bench..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko came to <b>Hybrid Physio</b><br>in Sydney CBD.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Walking getting hard?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Should I just<br>walk less now?"
+      },
+      "note": "Hybi explained <mark>why leaning forward helps</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Leaning forward gives<br>the nerves <em>a bit more room</em>",
+      "fact": "One common reason: less room <em>around low-back nerves</em>",
+      "left": {
+        "label": "Walk in bouts",
+        "char": "koala_happy",
+        "caption": "Short walks, rests,<br><b>build gradually</b>"
+      },
+      "right": {
+        "label": "Push through",
+        "char": "koala_tired",
+        "caption": "Walking on through<br><em>big symptoms</em>"
+      },
+      "quip": "Walking can still<br>be worthwhile!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>walk-in-bouts plan</b>",
+      "sub": "Start with today's walk!",
+      "sections": [
+        {
+          "heading": "1. Keep walking, your way",
+          "color": "yellow",
+          "lines": [
+            "① Walk until it builds, then <em>sit 1–2 minutes</em>.",
+            "② Repeat <em>3–4 times</em>.",
+            "③ A <em>stationary bike</em> keeps you fit too.",
+            "④ Hip and leg strength work, <em>2–3 times a week</em>."
+          ]
+        },
+        {
+          "heading": "2. See a doctor promptly if…",
+          "color": "purple",
+          "lines": [
+            "<em>Numbness around the groin</em>, bladder or",
+            "bowel changes, or <em>worsening weakness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get these <em>checked promptly</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See a doctor promptly for",
+      "items": [
+        "Numbness around the groin",
+        "Bladder or bowel changes",
+        "Weakness getting worse"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Legs aching when you walk, but easing as soon as you sit down?\n\nThat pattern is often linked to narrowing around the nerves in the lower back, sometimes called spinal stenosis. Leaning forward, like on a shopping trolley, usually opens up a bit more space and brings relief.\n\nCurrent guidelines suggest exercise as a first step. Walking in shorter bouts with rests, cycling and building hip and leg strength can make daily life more comfortable. Poor circulation can feel similar, so it's worth an assessment. Numbness in the groin, bladder or bowel changes, or worsening weakness need a doctor promptly.\n\nOur Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#spinalstenosis",
+    "#legpain",
+    "#backpain",
+    "#walking",
+    "#healthyageing",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why leg pain on walking can ease when you sit or lean forward, a walk-in-bouts plan and signs to see a doctor promptly.",
+  "story": {
+    "headline": "Legs tire walking, ease sitting?",
+    "body": "Walk in short bouts<br>with planned rests.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-11-28",
+  "created": "2026-11-28-2",
+  "status": "approved",
+  "review_warnings": []
+}

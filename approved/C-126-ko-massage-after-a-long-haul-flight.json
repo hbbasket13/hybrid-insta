@@ -1,0 +1,128 @@
+{
+  "id": "C-126-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage after a long-haul flight",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "14시간 비행 끝,<br><em>몸이 접힌 느낌</em>?",
+      "sub": "장거리 비행 후 마사지와 회복",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "착륙 후<br>순서가 있어요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "한국에서 돌아온 코코,<br><em>목도 허리도</em> 뻣뻣.",
+      "char": "koala_tired",
+      "bubble": "좁은 좌석에서<br>앉아서 잤더니..<br>온몸이 굳었네",
+      "bubble_type": "thought",
+      "note": "(종아리까지 묵직한 코코..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "코코는 <b>하이브리드 피지오</b>에<br>마사지를 예약했다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요, 코코!<br>긴 여행이었죠?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "도착하자마자<br>세게 받으면 되죠?"
+      },
+      "note": "하비는 <mark>먼저 움직이고, 그다음 마사지</mark>라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "비행 후 뻣뻣함은<br>대부분 <em>가만히 있어서</em>",
+      "fact": "오래 앉아 있던 몸은 <em>다치기보다 굳은</em> 경우가 많아요",
+      "left": {
+        "label": "걷고 마사지",
+        "char": "koala_happy",
+        "caption": "햇볕 아래 걷고<br><b>1~2일 뒤</b> 마사지"
+      },
+      "right": {
+        "label": "바로 깊은 압",
+        "char": "koala_tired",
+        "caption": "지친 몸은<br><em>더 예민할 수</em> 있어요"
+      },
+      "quip": "여행 직후엔 중간 압이<br>보통 편해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>착륙 후 회복 루틴</b>",
+      "sub": "도착한 날부터 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 도착 첫날~이틀",
+          "color": "yellow",
+          "lines": [
+            "① 도착한 날 <em>햇볕 아래 20분</em> 걷기.",
+            "② 목·등·종아리 <em>가벼운 스트레칭</em>.",
+            "③ <em>1~2일 뒤</em> 중간 압 마사지.",
+            "④ 물 충분히, 그날은 <em>여유롭게</em>!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 말고 바로 병원!",
+          "color": "purple",
+          "lines": [
+            "한쪽 종아리가 <em>붓고 아프고 뜨겁거나</em>,",
+            "<em>가슴 통증·숨참</em>이 있으면 바로 진료(000)!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "뻣뻣함이 아닌<br><em>다른 신호라면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "비행 후 이런 증상은 병원으로",
+      "items": [
+        "한쪽 종아리가 붓는다",
+        "다리가 붉고 뜨겁다",
+        "숨이 차거나 가슴이 아프다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "여행 후 회복도<br><b>하이브리드 피지오</b>에서!"
+    }
+  ],
+  "caption": "장거리 비행에서 내렸는데 몸이 반으로 접힌 느낌이라면? ✈️\n\n좁은 좌석, 적은 움직임, 뒤척인 잠 때문에 목·허리·다리가 뻣뻣해지는 건 흔해요. 다쳤다기보다 오래 가만히 있었다는 신호인 경우가 많아요.\n\n먼저 움직이기! 도착한 날 햇볕 아래 걷고 가볍게 스트레칭해요. 1~2일 뒤 리메디얼 마사지가 목, 등, 종아리를 푸는 데 도움이 될 수 있어요. 깊은 압보다 중간 압이 보통 편해요.\n\n한쪽 종아리가 붓거나 아프면 마사지가 아니라 바로 진료받아요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#장거리비행",
+    "#리메디얼마사지",
+    "#여행후회복",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#마사지",
+    "#remedialmassage",
+    "#longhaulflight",
+    "#travelrecovery",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 장거리 비행 후 뻣뻣함, 걷기 후 마사지와 바로 깊은 압 비교, 착륙 후 회복 루틴, 병원에 가야 할 신호.",
+  "story": {
+    "headline": "비행 후 몸이 굳었다면?",
+    "body": "먼저 걷고,<br>마사지는 1~2일 뒤!",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-01",
+  "created": "2026-12-01-3",
+  "status": "approved",
+  "review_warnings": []
+}

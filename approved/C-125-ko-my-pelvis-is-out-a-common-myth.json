@@ -1,0 +1,128 @@
+{
+  "id": "C-125-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "'My pelvis is out': a common myth",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "\"골반이 <em>빠졌대요</em>\"<br>정말일까?",
+      "sub": "골반이 '틀어졌다'는 오해 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "사실을<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "요가 다음 날,<br>엉덩이 쪽이 <em>찌릿한</em> 모모.",
+      "char": "cat_tired",
+      "bubble": "누가 골반이<br>빠졌다던데..<br>제자리로 넣어야 하나?",
+      "bubble_type": "thought",
+      "note": "(거울 앞에서 골반 높이를 재보는 모모..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "걱정 가득한 모모가<br><b>하이브리드 피지오</b>를 찾았다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕, 모모!<br>골반이 걱정돼요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "골반, 다시<br>맞춰야 하죠?"
+      },
+      "note": "하비는 <mark>골반은 쉽게 빠지지 않는다</mark>고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "골반은 생각보다<br><em>아주 튼튼해요</em>",
+      "fact": "천장관절은 강한 인대로 묶여 <em>몇 mm</em> 정도만 움직여요",
+      "left": {
+        "label": "흔한 원인",
+        "char": "cat_happy",
+        "caption": "과부하로 <b>예민해진</b><br>근육·관절·힘줄"
+      },
+      "right": {
+        "label": "흔한 오해",
+        "char": "cat_tired",
+        "caption": "골반이 쑥 빠져서<br><em>넣어야 한다</em>?"
+      },
+      "quip": "좌우 차이는 대부분<br>정상 범위예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 골반 주변 운동</b>",
+      "sub": "움직임과 부하로 진정시켜요!",
+      "sections": [
+        {
+          "heading": "1. 브릿지 (Bridge)",
+          "color": "yellow",
+          "lines": [
+            "① 누워서 무릎을 세우고 발은 골반 너비.",
+            "② 엉덩이에 힘 주고 <em>천천히 들어올려요</em>.",
+            "③ <em>3초 유지 × 10회</em>, 하루 2번.",
+            "④ 편한 범위에서만, <em>통증 없이</em>!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 상담받기!",
+          "color": "purple",
+          "lines": [
+            "넘어진 뒤 통증, 임신 중 통증,",
+            "<em>다리 저림·힘 빠짐</em>이 있으면 평가 먼저!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "교정은 '넣는 것'이<br><em>아니에요</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 꼭 확인받기",
+      "items": [
+        "사고나 낙상 뒤 아프다",
+        "열과 함께 허리가 아프다",
+        "소변·대변이 달라졌다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "궁금한 건 하비에게,<br><b>하이브리드 피지오</b>!"
+    }
+  ],
+  "caption": "골반이 '빠졌다'는 말, 들어본 적 있나요? 아주 흔한 오해예요.\n\n천장관절은 몸에서 가장 강한 인대들로 묶여 있고 몇 mm 정도만 움직여요. 일상에서 골반이 쑥 빠질 가능성은 매우 낮아요. 좌우 차이도 대부분 정상이고, 연구에 따르면 통증과 잘 맞지 않는 경우가 많아요.\n\n골반 주변 통증은 과부하로 예민해진 근육·관절·힘줄인 경우가 많고, 움직임과 점진적 부하로 보통 가라앉아요. 카이로 교정은 '넣는 것'이 아니라 운동과 함께 통증을 줄이고 움직임을 돕는 도구예요.\n\n하이브리드 피지오 카이로프랙터가 설명해드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#골반통증",
+    "#골반틀어짐",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#허리통증",
+    "#chiropractor",
+    "#pelvicpain",
+    "#sijoint",
+    "#sydneychiro",
+    "#sydney"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 골반이 빠졌다는 오해, 흔한 원인과 오해 비교, 1분 브릿지 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "골반이 빠졌다고요?",
+    "body": "골반은 튼튼해요,<br>움직이며 진정시켜요!",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-12-01",
+  "created": "2026-12-01-5",
+  "status": "approved",
+  "review_warnings": []
+}

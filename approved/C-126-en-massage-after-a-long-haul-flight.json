@@ -1,0 +1,128 @@
+{
+  "id": "C-126-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage after a long-haul flight",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Off a 14-hour flight<br>and <em>folded in half</em>?",
+      "sub": "Massage after long-haul travel, and what helps",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "There's an<br>order to it!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Back from overseas,<br><em>stiff from neck to calves</em>.",
+      "char": "koala_tired",
+      "bubble": "Sleeping upright<br>in that seat..<br>I'm all seized up",
+      "bubble_type": "thought",
+      "note": "(even the calves feel heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko booked a massage<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome back, Koko!<br>Long trip?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Should I get a deep<br>massage straight away?"
+      },
+      "note": "Hybi said <mark>move first, massage next</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Post-flight stiffness is<br>mostly from <em>sitting still</em>",
+      "fact": "After a long flight, it's usually <em>stiffness, not injury</em>",
+      "left": {
+        "label": "Walk first",
+        "char": "koala_happy",
+        "caption": "A daylight walk, then<br>massage <b>a day later</b>"
+      },
+      "right": {
+        "label": "Deep at once",
+        "char": "koala_tired",
+        "caption": "Tired bodies can<br>feel <em>more tender</em>"
+      },
+      "quip": "Moderate pressure usually<br>suits after travel!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>after-landing routine</b>",
+      "sub": "Start the day you land!",
+      "sections": [
+        {
+          "heading": "1. Days one and two",
+          "color": "yellow",
+          "lines": [
+            "① A <em>20-minute walk in daylight</em> on arrival.",
+            "② <em>Gentle stretches</em> for neck, back, calves.",
+            "③ A moderate massage <em>a day or two later</em>.",
+            "④ Drink water and plan an <em>easy day</em>."
+          ]
+        },
+        {
+          "heading": "2. See a doctor, not a massage, if…",
+          "color": "purple",
+          "lines": [
+            "One calf is <em>swollen, painful or warm</em>,",
+            "or <em>chest pain or breathlessness</em>: call 000."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "More than<br><em>travel stiffness?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See a doctor promptly if",
+      "items": [
+        "One calf is swollen",
+        "A leg is red and warm",
+        "Chest pain or breathlessness"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Travel recovery with Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Landed after a long-haul flight feeling like you've been folded in half? ✈️\n\nHours in a cramped seat, little movement and patchy sleep leave most people stiff. It's usually a sign you've been still for too long, not that something is wrong.\n\nMoving first helps most: a walk in daylight and some gentle stretches on the day you land. A remedial massage a day or two later can ease the neck, back and calves, as a complement to getting moving again. Go moderate rather than deep, and plan an easy day afterwards.\n\nCalf swelling or pain in one leg needs a doctor, not a massage. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#longhaulflight",
+    "#travelrecovery",
+    "#jetlag",
+    "#massagetherapy",
+    "#chatswood",
+    "#sydneymassage",
+    "#sydney",
+    "#travel",
+    "#hybridphysiotherapy",
+    "#stiffneck",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about stiffness after a long-haul flight, why moving comes before massage, an after-landing routine and signs that need a doctor.",
+  "story": {
+    "headline": "Stiff after a long flight?",
+    "body": "Walk first, then massage<br>a day or two later.",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-12-01",
+  "created": "2026-12-01-6",
+  "status": "approved",
+  "review_warnings": []
+}

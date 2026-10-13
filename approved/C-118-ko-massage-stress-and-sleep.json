@@ -1,0 +1,128 @@
+{
+  "id": "C-118-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage, stress and sleep",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "새벽 1시, 천장만 보는<br>거북씨의 <em>뭉친 어깨</em>",
+      "sub": "스트레스·잠, 마사지가 할 수 있는 것",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "같이<br>풀어봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "바쁜 한 주,<br>누워도 <em>머리가 안 꺼진다</em>.",
+      "char": "turtle_sad",
+      "bubble": "피곤한데<br>왜 잠이 안 오지..?",
+      "bubble_type": "thought",
+      "note": "(어깨는 귀 옆에, 숨은 짧게..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "주말, <b>하이브리드 피지오</b><br>채스우드를 찾았다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>요즘 잠은 잘 자요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "마사지 받으면<br>잠도 잘 올까요?"
+      },
+      "note": "하비는 마사지의 <mark>역할과 한계</mark>를 솔직히 말했다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는 <em>도움이 되는</em><br>보조예요",
+      "fact": "연구에 따르면 마사지는 <em>단기간</em> 긴장을 덜어줄 수 있어요",
+      "left": {
+        "label": "같이 챙기기",
+        "char": "turtle_happy",
+        "caption": "마사지 + 산책<br>+ <b>느린 호흡</b>"
+      },
+      "right": {
+        "label": "마사지만 믿기",
+        "char": "turtle_sad",
+        "caption": "다른 건 그대로,<br><em>마사지만 기대</em>"
+      },
+      "quip": "잠 문제가 계속되면<br>GP와 상의해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>잠들기 전 1분</b>",
+      "sub": "오늘 밤 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 차분함 이어가기",
+          "color": "yellow",
+          "lines": [
+            "① 마사지 후 <em>천천히 산책</em>하기",
+            "② 자기 전 <em>따뜻한 샤워</em>",
+            "③ 4초 들이쉬고 <em>6초 내쉬기 × 5번</em>",
+            "④ 낮에 조금이라도 <em>꾸준히 움직이기</em>"
+          ]
+        },
+        {
+          "heading": "2. 테라피스트에게 미리 말하기",
+          "color": "purple",
+          "lines": [
+            "<em>차분한 압</em>을 원하는지, 건강 상태나",
+            "<em>임신</em> 여부를 시작 전에 알려주기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>GP와 먼저</em> 상의해요",
+      "bubble": "원인은 사람마다 달라요.<br><b>확인</b>이 먼저예요!",
+      "heading": "이런 신호가 있다면",
+      "items": [
+        "몇 주째 잠을 못 잔다",
+        "기분 저하가 계속된다",
+        "통증 때문에 깬다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "바쁜 한 주, 뭉친 어깨로 새벽까지 깨어 있나요?\n\n스트레스는 몸에 먼저 나타나요. 근육이 긴장하고 숨이 짧아지고 어깨가 올라가죠. 마사지 후 마음이 차분해지고 그날 밤 더 잘 자는 분들도 많아요.\n\n다만 마사지는 도움이 되는 보조예요. 잠 문제나 기분 저하가 계속되면 GP와 상의하세요. 산책, 따뜻한 샤워, 길게 내쉬는 호흡이 차분함을 이어가는 데 도움이 될 수 있어요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#마사지",
+    "#리메디얼마사지",
+    "#스트레스",
+    "#수면",
+    "#어깨뭉침",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#sleep",
+    "#chatswood",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 스트레스와 잠에 마사지가 할 수 있는 것과 없는 것, 잠들기 전 1분 루틴, GP와 상의할 신호.",
+  "story": {
+    "headline": "스트레스로 잠 못 들 때",
+    "body": "4초 들이쉬고 6초 내쉬기,<br>5번 반복!",
+    "char": "hybi_wave2"
+  },
+  "scheduled_date": "2026-11-28",
+  "created": "2026-11-28-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": "C-108-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for cyclists",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "An 80 km ride, and<br>Toto's back is <em>set like concrete</em>",
+      "sub": "What clinical Pilates adds to a riding week",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's move the<br>other way!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Hours in the <em>same shape</em>,<br>just pedalling away.",
+      "char": "rabbit_tired",
+      "bubble": "Quads on fire..<br>glutes on holiday..?",
+      "bubble_type": "thought",
+      "note": "(and the back is stiff when she gets off..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Over at the <b>Hybrid Physio</b><br>Pilates studio.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Keen rider, hey?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Can Pilates actually<br>help on the bike?"
+      },
+      "note": "Hybi showed Toto <mark>the directions the bike skips</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The bike keeps you<br>in <em>one shape</em> for hours",
+      "fact": "Riding holds you <em>bent forward</em> · Pilates fills in the rest",
+      "left": {
+        "label": "Glutes helping",
+        "char": "rabbit_happy",
+        "caption": "Bridges get the glutes<br><b>sharing the load</b>"
+      },
+      "right": {
+        "label": "Quads and back",
+        "char": "rabbit_tired",
+        "caption": "Front thighs and back<br><em>do all the work</em>"
+      },
+      "quip": "Glutes pitching in can make<br>climbs feel more even!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>3 moves for riders</b>",
+      "sub": "On your rest day, on the floor!",
+      "sections": [
+        {
+          "heading": "1. Off-the-bike routine",
+          "color": "yellow",
+          "lines": [
+            "① Bridge: lift hips, <em>hold 3 sec × 10</em>.",
+            "② Side-lying leg lifts, <em>10 each side</em>.",
+            "③ Seated twists, <em>5 each way</em>.",
+            "④ 1–2 times a week, not the day before a big ride."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Back pain <em>spreads down a leg</em>, or it",
+            "gets worse the more you do."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff after rides</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg tingling or pulling",
+        "A sore or swollen knee",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi at<br><b>Hybrid Physio</b> Pilates!"
+    }
+  ],
+  "caption": "Long rides leaving Toto's back stiff? 🚴\n\nCycling is brilliant for fitness, but it keeps you folded in one shape for hours. Clinical Pilates works on what the bike doesn't: glutes that share the load with your quads, a mid-back that can extend and rotate, and a trunk that stays steady when your legs are tired.\n\nStart with one or two sessions a week, ideally on an easy spin day rather than the day before a big ride, and build gradually.\n\nOur Pilates team at Hybrid Physio starts with an assessment, so your program suits your riding and any niggles. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#cycling",
+    "#roadcycling",
+    "#cyclist",
+    "#reformerpilates",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydneypilates",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#backpain"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto showing why Pilates suits cyclists, how glutes can share the load, three rest-day moves and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff after big rides?",
+    "body": "Rest day: 10 bridges<br>and 5 twists each way.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-24",
+  "created": "2026-11-24-6",
+  "status": "approved",
+  "review_warnings": []
+}

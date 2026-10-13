@@ -1,0 +1,128 @@
+{
+  "id": "C-107-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage during a busy, stressful season at work",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "분기 마감 주간,<br>거북씨 어깨가 <em>먼저 알아요</em>",
+      "sub": "바쁜 시즌, 마사지는 어디에 쓸까?",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave2",
+        "bubble": "미리<br>준비해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "야근, 마감, 짧은 잠.<br>어깨가 <em>귀까지</em> 올라왔다.",
+      "char": "turtle_monitor",
+      "bubble": "이번 주만<br>버티면 되겠지..?",
+      "bubble_type": "thought",
+      "note": "(이를 꽉 물고 숨도 얕아진 채로..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "점심시간, <b>하이브리드 피지오</b>에<br>들른 거북씨.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요!<br>요즘 많이 바빴죠?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "마사지 한 번이면<br>다 풀릴까요?"
+      },
+      "note": "하비는 <mark>마사지가 할 수 있는 일</mark>부터 말했다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는 <em>미리</em> 잡아두면<br>더 좋아요",
+      "fact": "마사지는 <em>도움이 되는 보조</em> · 잠과 움직임을 대신하진 않아요",
+      "left": {
+        "label": "바쁘기 전",
+        "char": "turtle_happy",
+        "caption": "시즌 시작에 예약,<br>짧은 산책도 <b>같이</b>"
+      },
+      "right": {
+        "label": "녹초 된 뒤",
+        "char": "turtle_sad",
+        "caption": "다 끝나고 나서야<br><em>몰아서 풀기</em>"
+      },
+      "quip": "회의처럼 일정에<br>먼저 넣어두기!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 마감 시즌 루틴</b>",
+      "sub": "회의 사이에 바로!",
+      "sections": [
+        {
+          "heading": "1. 몸이 쉬는 틈 만들기",
+          "color": "yellow",
+          "lines": [
+            "① 회의 사이 <em>천천히 숨 3번</em>, 내쉬기는 길게",
+            "② 어깨를 귀까지 올렸다 <em>툭 내리기 × 5회</em>",
+            "③ 점심엔 <em>10분 걷기</em>",
+            "④ 1시간마다 화면에서 눈 떼기"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지만으로 넘기지 않기",
+          "color": "purple",
+          "lines": [
+            "잠 못 드는 날이나 <em>기분 저하</em>가 계속되면",
+            "GP와 먼저 이야기해보기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 땐 <em>확인이 먼저예요</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>평가</b>부터 해봐요!",
+      "heading": "이런 신호가 있다면",
+      "items": [
+        "팔이나 손이 저리다",
+        "두통이 자주 같이 온다",
+        "몇 주째 그대로다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서<br>하비랑 만나요!"
+    }
+  ],
+  "caption": "마감 시즌이 오면 거북씨 어깨가 먼저 알아요. 긴 근무, 짧은 잠, 오래 앉아 있기가 겹치면 목·턱·등 위쪽이 뻐근해지기 쉬워요.\n\n리메디얼 마사지는 뭉친 근육을 편하게 하고 머리를 쉬게 하는 데 도움이 될 수 있어요. 다만 잠·움직임·업무 조절을 대신하진 않아요.\n\n팁: 마사지는 바쁜 시즌 시작에 미리 예약! 점심 10분 걷기와 회의 사이 느린 호흡도 함께요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#마사지",
+    "#리메디얼마사지",
+    "#어깨뭉침",
+    "#직장인건강",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#스트레스",
+    "#remedialmassage",
+    "#chatswood",
+    "#sydneymassage",
+    "#worklife"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 바쁜 업무 시즌에 마사지를 미리 예약하는 이유, 회의 사이 1분 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "마감 시즌, 어깨가 먼저 알아요",
+    "body": "마사지는 시즌 시작에,<br>점심엔 10분 걷기!",
+    "char": "hybi_small"
+  },
+  "scheduled_date": "2026-11-24",
+  "created": "2026-11-24-5",
+  "status": "approved",
+  "review_warnings": []
+}

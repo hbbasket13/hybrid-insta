@@ -1,0 +1,128 @@
+{
+  "id": "C-115-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Exercising in the heat: staying safe this summer",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "35 degrees and chasing<br>a PB? Toto, <em>hang on!</em>",
+      "sub": "Training safely through a hot Sydney summer",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Let's tweak<br>the plan!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Midday sun, and Toto's<br>after her <em>usual pace</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why am I so<br>puffed today..?",
+      "bubble_type": "thought",
+      "note": "(same speed, way more effort..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Post-run, Toto popped into<br><b>Hybrid Physio</b> CBD.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>You look flushed!"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Why are my times<br>so slow?"
+      },
+      "note": "Hybi explained <mark>what heat does to heart rate</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "In the heat, the same pace<br>feels <em>much harder</em>",
+      "fact": "Heart rate climbs <em>faster</em> when it's hot",
+      "left": {
+        "label": "Go by effort",
+        "char": "rabbit_happy",
+        "caption": "Early start, run by<br><b>how it feels</b>"
+      },
+      "right": {
+        "label": "Chase the pace",
+        "char": "rabbit_tired",
+        "caption": "Midday sun and<br><em>holding PB pace</em>"
+      },
+      "quip": "Most people adapt over<br>one to two weeks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>hot-day checklist</b>",
+      "sub": "Run through it before you go!",
+      "sections": [
+        {
+          "heading": "1. Summer training habits",
+          "color": "yellow",
+          "lines": [
+            "① Move sessions to <em>early morning or evening</em>.",
+            "② Go by <em>effort</em>, not pace.",
+            "③ Start shorter, build over <em>1–2 weeks</em>.",
+            "④ Start hydrated; on long sessions, <em>sip often</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop straight away if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>dizzy or sick</em> — cool off in the shade.",
+            "Confusion or collapse? Call <em>000</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Heat sending <em>warning signs</em>?",
+      "bubble": "Heat affects us differently.<br><b>Listen to your body</b> first!",
+      "heading": "Stop and get help if",
+      "items": [
+        "Dizzy or nauseous",
+        "You suddenly stop sweating",
+        "A worsening headache"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Come and meet Hybi<br>at <b>Hybrid Physio</b>!"
+    }
+  ],
+  "caption": "Summer training in Sydney means planning around the heat. ☀️\n\nThe same pace feels harder when it's hot, because your heart rate climbs faster. Most people adapt over one to two weeks of regular, shorter sessions, so build up gradually rather than starting with your longest effort.\n\nTrain early or late, go by effort instead of pace, start well hydrated and sip regularly, and wear light, loose clothing and a hat. Stop if you feel dizzy, nauseous or get a headache that keeps building. Confusion or collapse is an emergency, so call 000.\n\nOur Sydney CBD and Chatswood physios can adjust your program around the heat and any niggles. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#summertraining",
+    "#running",
+    "#heatsafety",
+    "#exercise",
+    "#sydneyrunners",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why training feels harder in the heat, summer exercise habits and signs to stop and get help.",
+  "story": {
+    "headline": "Hot day? Train smarter",
+    "body": "Go early, run by effort,<br>stop if you feel dizzy.",
+    "char": "hybi_arms_up"
+  },
+  "scheduled_date": "2026-11-27",
+  "created": "2026-11-27-4",
+  "status": "approved",
+  "review_warnings": []
+}
