@@ -121,6 +121,12 @@
   },
   "scheduled_date": "2026-10-15",
   "created": "2026-10-15-1",
-  "status": "approved",
-  "review_warnings": []
+  "status": "posted",
+  "review_warnings": [],
+  "posted": {
+    "date": "2026-10-15",
+    "media_id": "18019123007736733",
+    "permalink": "https://www.instagram.com/p/DeenaTjG7UG/",
+    "story_id": "18116197163466978"
+  }
 }
