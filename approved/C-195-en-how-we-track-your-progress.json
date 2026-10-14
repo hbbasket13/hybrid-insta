@@ -1,0 +1,131 @@
+{
+  "id": "C-195-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "How we track your progress",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Am I actually<br><em>getting better</em>?",
+      "sub": "How Hybrid Physio tracks your progress",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's check<br>the numbers!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Four weeks into rehab,<br>Toto felt <em>unsure</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Fine yesterday,<br>sore again today..<br>am I improving?",
+      "bubble_type": "thought",
+      "note": "(hard to tell if it's better or the same..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Toto asked Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Toto!<br>Got a question?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Am I actually<br>making progress?"
+      },
+      "note": "Hybi brought out <mark>Toto's goals and records</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Not just a feeling:<br><em>the same tests</em>",
+      "fact": "Repeating the same tests <em>every few weeks</em> shows real change",
+      "left": {
+        "label": "Re-test",
+        "char": "rabbit_happy",
+        "caption": "Strength, range, reps<br><b>show the change</b>"
+      },
+      "right": {
+        "label": "Feel alone",
+        "char": "rabbit_tired",
+        "caption": "Easily swayed by<br><em>a bad day</em>"
+      },
+      "quip": "The pain number isn't<br>the whole story!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>4-step progress check</b>",
+      "sub": "Here's how we track it!",
+      "sections": [
+        {
+          "heading": "1. From goals to re-tests",
+          "color": "yellow",
+          "lines": [
+            "① Set <em>goals that matter to you</em> at visit one.",
+            "② <em>Measure</em> strength, range and balance.",
+            "③ Add a <em>short questionnaire</em> if it suits.",
+            "④ Repeat the <em>same tests</em> every few weeks."
+          ]
+        },
+        {
+          "heading": "2. If progress stalls…",
+          "color": "purple",
+          "lines": [
+            "We <em>adjust exercises and load</em> together,",
+            "or <em>refer you back to your GP</em> if needed."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Time to <em>review the plan</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Tell us if you notice",
+      "items": [
+        "Pain steadily getting worse",
+        "New numbness or tingling",
+        "No change after a few weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Fine yesterday, sore again today. How do you know you're actually getting better?\n\nAt Hybrid Physio we start with your goals, like running 10 km or sitting through a meeting. Then your practitioner may measure strength, range of movement, balance or reps, and repeat the same tests every few weeks to show real change. For some problems, a short questionnaire helps too.\n\nPain can go up and down day to day, so sleep, work, exercise and confidence all count. If progress stalls, we review the plan with you, adjust exercises or load, or refer you back to your GP.\n\nOur physios, chiropractors, Pilates team and remedial massage therapists check in on your goals regularly. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#rehab",
+    "#progress",
+    "#goalsetting",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#exerciserehab",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit showing how progress is tracked with goals, repeat tests and short questionnaires, and when to review the plan.",
+  "story": {
+    "headline": "Are you getting better?",
+    "body": "Set goals, then re-test<br>every few weeks.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-29",
+  "created": "2026-12-29-6",
+  "status": "approved",
+  "review_warnings": []
+}

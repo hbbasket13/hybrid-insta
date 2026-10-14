@@ -1,0 +1,131 @@
+{
+  "id": "C-192-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates and scoliosis: what to expect",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "측만증이 있어도<br><em>필라테스</em> 할 수 있을까?",
+      "sub": "모모가 궁금한 필라테스 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "기대할 것부터<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "거울 앞에서<br>한쪽 어깨가 <em>더 높은</em> 모모.",
+      "char": "cat_tired",
+      "bubble": "측만증이 있으면<br>운동하면<br>안 되나..?",
+      "bubble_type": "thought",
+      "note": "(필라테스는 해보고 싶은데 망설여진다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>필라테스가<br>궁금해요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "필라테스로 척추를<br>똑바로 펼 수 있나요?"
+      },
+      "note": "하비는 <mark>현실적인 목표</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "목표는 곧은 척추가 아니라<br><em>편하게 움직이기</em>",
+      "fact": "측만증은 흔하고, <em>휜 정도와 모양</em>은 사람마다 달라요",
+      "left": {
+        "label": "현실적 목표",
+        "char": "cat_happy",
+        "caption": "근력·조절·편안함을<br><b>조금씩 키워요</b>"
+      },
+      "right": {
+        "label": "완벽한 자세",
+        "char": "cat_tired",
+        "caption": "곧게 펴려다<br><em>지치기 쉬워요</em>"
+      },
+      "quip": "내 몸에 맞게<br>시작해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>필라테스 시작 순서</b>",
+      "sub": "이렇게 진행돼요!",
+      "sections": [
+        {
+          "heading": "1. 평가부터 프로그램까지",
+          "color": "yellow",
+          "lines": [
+            "① 움직임·호흡·좌우 차이를 <em>먼저 평가</em>해요.",
+            "② 내 휜 모양과 <em>목표</em>에 맞춰 운동을 골라요.",
+            "③ 한쪽 운동 조금 + <em>양쪽 근력</em>은 기본!",
+            "④ 보통 <em>주 1~2회</em>, 꾸준히 이어가요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP·전문의와 상담",
+          "color": "purple",
+          "lines": [
+            "휜 모양이 <em>달라지는 것 같거나</em>,",
+            "다리가 <em>저리거나 힘이 빠진다면</em> 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "시작 전에 <em>확인할 것</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 변화는 상담받기",
+      "items": [
+        "휜 모양이 변한 것 같다",
+        "새 통증이 심해진다",
+        "숨쉬기가 달라졌다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "측만증이 있는데 필라테스를 해도 될지 궁금한 모모.\n\n측만증은 척추가 옆으로 휘고 약간 회전된 상태로, 정도와 모양이 사람마다 많이 달라요. 측만증이 있어도 활동적으로 편하게 지내는 분들이 많아요.\n\n클리닉 필라테스의 목표는 척추를 곧게 펴는 게 아니라 근력, 조절, 편안함, 움직임에 대한 자신감이에요. 먼저 움직임과 호흡을 평가하고, 한쪽 운동과 양쪽 근력 운동을 함께 구성해요. 휜 모양이 변하는 것 같거나 다리가 저리면 GP나 전문의와 상담하기!\n\n하이브리드 피지오 필라테스 팀이 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#측만증",
+    "#필라테스",
+    "#클리닉필라테스",
+    "#척추건강",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#scoliosis",
+    "#clinicalpilates",
+    "#chatswood",
+    "#sydneypilates"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 측만증과 필라테스의 현실적인 목표, 평가부터 시작하는 순서, 상담이 필요한 신호.",
+  "story": {
+    "headline": "측만증, 필라테스 해도 될까?",
+    "body": "목표는 곧은 척추보다<br>편하게 움직이기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-28",
+  "created": "2026-12-28-3",
+  "status": "approved",
+  "review_warnings": []
+}

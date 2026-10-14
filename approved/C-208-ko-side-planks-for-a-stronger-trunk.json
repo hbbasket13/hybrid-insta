@@ -1,0 +1,131 @@
+{
+  "id": "C-208-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Side planks for a stronger trunk",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "사이드 플랭크,<br>루루는 <em>3초 만에 털썩</em>",
+      "sub": "옆구리·엉덩이를 함께 키우는 운동",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "무릎부터<br>시작해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "자재를 한쪽으로 들고<br>하루 종일 <em>현장</em>을 걷는 루루.",
+      "char": "kanga_tired",
+      "bubble": "한쪽으로 들면<br>왜 이렇게 기우뚱하지..?",
+      "bubble_type": "thought",
+      "note": "(사이드 플랭크는 3초 만에 무너짐..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>옆구리 힘 키워볼까요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "저는 왜 이렇게<br>버티기가 힘들죠?"
+      },
+      "note": "하비는 <mark>무릎 버전부터</mark> 시작하자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>짧고 깔끔하게</em>가<br>길고 흔들리기보다 나아요",
+      "fact": "사이드 플랭크는 <em>옆구리와 엉덩이</em>를 함께 써요",
+      "left": {
+        "label": "깔끔한 자세",
+        "char": "kanga_happy",
+        "caption": "머리부터 무릎까지<br><b>일직선</b>, 숨은 편하게"
+      },
+      "right": {
+        "label": "흔들리는 자세",
+        "char": "kanga_tired",
+        "caption": "엉덩이가 처지고<br><em>숨을 참아요</em>"
+      },
+      "quip": "시간을 먼저 늘리고<br>난이도는 나중에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 사이드 플랭크</b>",
+      "sub": "오늘 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 무릎 사이드 플랭크",
+          "color": "yellow",
+          "lines": [
+            "① 옆으로 누워 <em>팔꿈치는 어깨 아래</em>로.",
+            "② 무릎 굽히고 엉덩이 들어 <em>일직선</em>으로.",
+            "③ <em>10~20초 × 3번</em>, 양쪽 모두.",
+            "④ 쉬워지면 다리를 펴서 <em>시간부터</em> 늘려요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기",
+          "color": "purple",
+          "lines": [
+            "허리가 <em>찌르듯 아프거나</em>",
+            "다리로 통증이 <em>내려가면</em> 멈추기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "허리가 찌르듯 아프다",
+        "다리로 통증이 퍼진다",
+        "어깨가 계속 불편하다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "자재를 한쪽으로 들고 하루 종일 현장을 걷는 루루. 사이드 플랭크는 3초 만에 무너졌어요.\n\n사이드 플랭크는 옆구리와 엉덩이 근육을 함께 써서, 한쪽으로 물건 들기나 한 발로 버티기에 도움이 될 수 있어요.\n\n무릎을 굽힌 채 팔꿈치는 어깨 아래, 머리부터 무릎까지 일직선으로 10~20초 × 3번, 양쪽 모두. 쉬워지면 다리를 펴고, 난이도보다 시간부터 늘리기. 짧고 깔끔한 자세가 길고 흔들리는 자세보다 나아요.\n\n허리 통증이나 다리로 퍼지는 통증은 확인이 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#사이드플랭크",
+    "#코어운동",
+    "#허리건강",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sideplank",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 사이드 플랭크가 필요한 이유, 깔끔한 자세와 흔들리는 자세 비교, 무릎 사이드 플랭크 방법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "사이드 플랭크, 무릎부터!",
+    "body": "팔꿈치는 어깨 아래,<br>10~20초 × 3번.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-05",
+  "created": "2027-01-05-1",
+  "status": "approved",
+  "review_warnings": []
+}

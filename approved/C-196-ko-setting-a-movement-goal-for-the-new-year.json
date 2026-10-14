@@ -1,0 +1,131 @@
+{
+  "id": "C-196-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Setting a movement goal for the new year",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "새해엔 거창한 결심 말고<br><em>움직임 목표 하나</em>",
+      "sub": "모모와 세우는 새해 운동 목표",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "작게 시작해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "1월 1일, 모모의 결심:<br><em>올해는 운동 매일!</em>",
+      "char": "cat_tired",
+      "bubble": "작년에도<br>이랬는데..<br>이번엔 될까?",
+      "bubble_type": "thought",
+      "note": "(작년 결심은 2주 만에 끝났다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "새해 복 많이<br>받아요 모모!"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "목표를 세우면<br>왜 금방 포기할까요?"
+      },
+      "note": "하비는 <mark>구체적이고 작은 목표</mark>를 권했다."
+    },
+    {
+      "kind": "compare",
+      "title": "막연한 목표보다<br><em>구체적인 목표!</em>",
+      "fact": "\"건강해지기\"보다 <em>언제·무엇을</em> 할지 정하면 지키기 쉬워요",
+      "left": {
+        "label": "구체적으로",
+        "char": "cat_happy",
+        "caption": "평일 아침 <b>30분 걷기</b><br>주 2회 근력 운동"
+      },
+      "right": {
+        "label": "막연하게",
+        "char": "cat_tired",
+        "caption": "\"올해는 운동!\"<br><em>뭘 할지 모호해요</em>"
+      },
+      "quip": "바쁜 주에도 할 수<br>있는 만큼만!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 목표 세우기</b>",
+      "sub": "지금 바로 적어봐요!",
+      "sections": [
+        {
+          "heading": "1. 목표 만드는 4단계",
+          "color": "yellow",
+          "lines": [
+            "① <em>언제·무엇을·얼마나</em> 할지 정해요.",
+            "② 내가 아끼는 <em>이유</em>를 한 줄 적어요.",
+            "③ 바쁜 주엔 <em>10분 버전</em>을 미리 정해요.",
+            "④ <em>한 달에 한 번</em> 돌아보고 조정해요."
+          ]
+        },
+        {
+          "heading": "2. 시작 전에 확인받기",
+          "color": "purple",
+          "lines": [
+            "오래 쉬었거나 <em>아픈 곳</em>이 있다면,",
+            "새 운동 전에 <em>평가</em>부터 받아요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "시작이 <em>망설여진다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이럴 땐 먼저 확인받기",
+      "items": [
+        "예전 부상이 신경 쓰인다",
+        "운동하면 통증이 는다",
+        "어지럽거나 숨이 차다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "새해마다 \"올해는 운동 매일!\"을 외치는 모모. 올해는 거창한 결심 대신 움직임 목표 하나를 세워봐요.\n\n\"건강해지기\"보다 \"평일 아침 30분 걷기\"처럼 언제, 무엇을 할지 정하면 지키기 쉬워요. 아이와 뛰어놀기, 좋아하는 산책로 걷기처럼 나만의 이유도 적어두기! 바쁜 주를 위한 10분 버전을 미리 정하고, 한 달에 한 번 돌아보며 조정해요.\n\n오래 쉬었거나 아픈 곳이 있다면 시작 전에 평가부터 받아보세요. 하이브리드 피지오 팀이 함께 계획을 세워드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#새해목표",
+    "#새해운동",
+    "#운동습관",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#newyeargoals",
+    "#movement",
+    "#chatswood",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 새해 움직임 목표를 구체적으로 세우는 법, 막연한 목표와의 비교, 1분 목표 세우기, 시작 전 확인할 신호.",
+  "story": {
+    "headline": "새해 움직임 목표 하나!",
+    "body": "언제·무엇을·얼마나,<br>작게 시작해요.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-30",
+  "created": "2026-12-30-1",
+  "status": "approved",
+  "review_warnings": []
+}

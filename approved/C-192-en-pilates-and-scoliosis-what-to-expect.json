@@ -1,0 +1,131 @@
+{
+  "id": "C-192-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates and scoliosis: what to expect",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Scoliosis and Pilates:<br><em>what to expect</em>",
+      "sub": "Momo's question, answered by Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's set the<br>right goals!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "In the mirror, one shoulder<br>sits <em>a bit higher</em>.",
+      "char": "cat_tired",
+      "bubble": "Is exercise okay<br>with scoliosis..?",
+      "bubble_type": "thought",
+      "note": "(Momo really wants to try Pilates..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Curious about<br>Pilates?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Can Pilates make<br>my spine straight?"
+      },
+      "note": "Hybi started with <mark>realistic goals</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The goal isn't straight,<br>it's <em>moving with ease</em>",
+      "fact": "Scoliosis is common, and <em>every curve is different</em>",
+      "left": {
+        "label": "Real goals",
+        "char": "cat_happy",
+        "caption": "Strength, control,<br><b>comfort, confidence</b>"
+      },
+      "right": {
+        "label": "Perfect posture",
+        "char": "cat_tired",
+        "caption": "Chasing straight<br>can <em>wear you out</em>"
+      },
+      "quip": "Start where<br>your body is!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>Pilates roadmap</b>",
+      "sub": "Here's how it usually goes!",
+      "sections": [
+        {
+          "heading": "1. From assessment to program",
+          "color": "yellow",
+          "lines": [
+            "① We look at how you <em>move, breathe and load</em>.",
+            "② Exercises are chosen for <em>your curve and goals</em>.",
+            "③ Some one-sided work, <em>both sides</em> as the base.",
+            "④ Often <em>1–2 sessions a week</em>, built steadily."
+          ]
+        },
+        {
+          "heading": "2. Talk to your GP or specialist if…",
+          "color": "purple",
+          "lines": [
+            "Your curve seems to be <em>changing</em>,",
+            "or your legs feel <em>numb or weak</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Before you <em>start</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth discussing if you notice",
+      "items": [
+        "Your curve seems to change",
+        "New or worsening pain",
+        "Changes to your breathing"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Living with scoliosis and wondering whether Pilates is a good fit? Here's what to expect.\n\nScoliosis is a sideways curve of the spine, often with some rotation, and it varies a lot between people. Many live active, comfortable lives with it.\n\nClinical Pilates isn't about straightening the spine. Goals usually centre on strength, control, comfort and confidence in movement. A program starts with an assessment of how you move and breathe, then mixes some side-specific work with plenty of training for both sides.\n\nA curve that seems to be changing, or numbness or weakness in the legs, is worth discussing with your GP or specialist. Our Pilates team at Hybrid Physio tailors each program to you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#scoliosis",
+    "#pilates",
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#spinehealth",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneycbd",
+    "#sydney",
+    "#sydneypilates",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining realistic Pilates goals with scoliosis, how a program is built from an assessment and signs worth discussing with a doctor.",
+  "story": {
+    "headline": "Scoliosis and Pilates?",
+    "body": "Goals: strength, control,<br>comfort. Not a straight spine.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-28",
+  "created": "2026-12-28-6",
+  "status": "approved",
+  "review_warnings": []
+}

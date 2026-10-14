@@ -1,0 +1,131 @@
+{
+  "id": "C-207-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "First week back at the desk: ease your neck in",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Eight-hour desk days again,<br>and Mr Turtle's neck <em>creaks</em>",
+      "sub": "Easing your neck into week one",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Your neck needs<br>time to catch up!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Holidays over. Back to<br><em>eight hours</em> at a screen.",
+      "char": "turtle_monitor",
+      "bubble": "Two days back and<br>my neck's already<br>grumbling..?",
+      "bubble_type": "thought",
+      "note": "(laptop flat on the desk, looking down all day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Neck a bit surprised?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Will it stay<br>like this?"
+      },
+      "note": "Hybi said week-one stiffness is <mark>common and usually settles</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Get that laptop screen<br>up to <em>eye level</em>!",
+      "fact": "A laptop flat on the desk pulls your gaze <em>down</em>",
+      "left": {
+        "label": "Riser + keyboard",
+        "char": "turtle_happy",
+        "caption": "Eyes level with the<br><b>top of the screen</b>"
+      },
+      "right": {
+        "label": "Flat on the desk",
+        "char": "turtle_sad",
+        "caption": "Looking down all day,<br><em>head drifts forward</em>"
+      },
+      "quip": "A few books under it<br>is a good start!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>week-one neck plan</b>",
+      "sub": "Try it right at your desk!",
+      "sections": [
+        {
+          "heading": "1. Move every 30 minutes",
+          "color": "yellow",
+          "lines": [
+            "① Turn your head slowly side to side, <em>5 times</em>.",
+            "② Gently tuck your chin: <em>5 sec × 5 reps</em>.",
+            "③ Roll your shoulders back <em>10 times</em>.",
+            "④ Keep a shorter <em>holiday walk or swim</em> going."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain runs <em>into your arm</em>, or you get",
+            "<em>pins and needles</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Not settling by <em>week two</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain running into the arm",
+        "Pins and needles or weakness",
+        "Headaches that keep building"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Two days back at the desk and Mr Turtle's neck is already grumbling.\n\nOver the break, most people move more and sit still less. Going straight back to eight-hour screen days asks a lot, so some stiffness in week one is common and usually settles.\n\nEase in: move every 30 minutes for the first week with head turns, chin tucks and shoulder rolls. Raise your laptop so your eyes sit level with the top of the screen, and keep a shorter version of that holiday walk or swim going.\n\nPain into the arm, pins and needles, hand weakness or building headaches are worth getting checked. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#techneck",
+    "#neckpain",
+    "#deskjob",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#officeworker",
+    "#backtowork",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining week-one neck stiffness after the break, laptop height, a 30-minute movement routine and signs worth getting checked.",
+  "story": {
+    "headline": "Back at the desk this week?",
+    "body": "Move every 30 minutes<br>and raise your laptop.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-04",
+  "created": "2027-01-04-6",
+  "status": "approved",
+  "review_warnings": []
+}

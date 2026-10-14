@@ -1,0 +1,131 @@
+{
+  "id": "C-195-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "How we track your progress",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "나 정말 <em>좋아지고</em><br>있는 걸까?",
+      "sub": "하이브리드 피지오가 회복을 확인하는 법",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "숫자로도<br>확인해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "재활 4주 차,<br>토토는 <em>헷갈렸다</em>.",
+      "char": "rabbit_tired",
+      "bubble": "어제는 괜찮았는데<br>오늘은 또<br>쑤시네..?",
+      "bubble_type": "thought",
+      "note": "(좋아지는 건지 그대로인지 모르겠다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>에서<br>하비에게 물었다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요 토토!<br>궁금한 게<br>있어요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "제가 나아지고<br>있긴 한 건가요?"
+      },
+      "note": "하비는 <mark>목표와 기록</mark>을 함께 꺼내 보였다."
+    },
+    {
+      "kind": "compare",
+      "title": "느낌만 말고<br><em>같은 검사</em>로 비교해요",
+      "fact": "같은 검사를 <em>몇 주마다</em> 반복하면 변화가 보여요",
+      "left": {
+        "label": "다시 재보기",
+        "char": "rabbit_happy",
+        "caption": "근력·범위·횟수로<br><b>변화가 보여요</b>"
+      },
+      "right": {
+        "label": "느낌만으로",
+        "char": "rabbit_tired",
+        "caption": "그날 컨디션에<br><em>흔들리기 쉬워요</em>"
+      },
+      "quip": "통증 숫자만이<br>전부가 아니에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>회복 확인 4단계</b>",
+      "sub": "이렇게 함께 봐요!",
+      "sections": [
+        {
+          "heading": "1. 목표부터 점검까지",
+          "color": "yellow",
+          "lines": [
+            "① 첫 방문 때 <em>나에게 중요한 목표</em>를 정해요.",
+            "② 근력·관절 범위·균형을 <em>측정</em>해요.",
+            "③ 필요하면 <em>짧은 설문</em>으로 일상도 체크.",
+            "④ <em>몇 주마다</em> 같은 검사로 다시 비교!"
+          ]
+        },
+        {
+          "heading": "2. 진행이 더디다면",
+          "color": "purple",
+          "lines": [
+            "운동·부하를 <em>함께 조정</em>하고,",
+            "필요하면 <em>GP에게 다시 안내</em>해요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>계획을 다시</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 변화는 바로 알려주세요",
+      "items": [
+        "점점 더 아파진다",
+        "새로운 저림이 생겼다",
+        "몇 주째 변화가 없다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "어제는 괜찮았는데 오늘은 또 쑤시는 토토. 정말 좋아지고 있는 걸까요?\n\n하이브리드 피지오에서는 첫 방문 때 나에게 중요한 목표를 먼저 정해요. 달리기 10km, 회의 내내 앉아 있기처럼요. 그리고 근력, 관절 범위, 균형 같은 검사를 몇 주마다 똑같이 반복해 변화를 확인해요. 필요하면 짧은 설문도 함께 써요.\n\n통증은 날마다 오르내릴 수 있어서, 잠·일·운동·자신감까지 함께 봐요. 진행이 더디면 계획을 같이 조정하고, 필요하면 GP에게 다시 안내해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#재활",
+    "#회복",
+    "#운동재활",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#rehab",
+    "#chatswood",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 목표 설정, 반복 검사와 설문으로 회복을 확인하는 방법, 계획을 다시 볼 신호.",
+  "story": {
+    "headline": "나 좋아지고 있는 걸까?",
+    "body": "목표를 정하고,<br>같은 검사로 다시 비교해요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-29",
+  "created": "2026-12-29-3",
+  "status": "approved",
+  "review_warnings": []
+}

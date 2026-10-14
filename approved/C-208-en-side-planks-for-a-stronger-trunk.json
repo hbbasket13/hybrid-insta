@@ -1,0 +1,131 @@
+{
+  "id": "C-208-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Side planks for a stronger trunk",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Side planks? Lulu lasts<br><em>three seconds</em>",
+      "sub": "A trunk exercise that works your hips too",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Let's start<br>on your knees!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Carrying gear on one side<br>across the <em>site</em> all day.",
+      "char": "kanga_tired",
+      "bubble": "Why do I tip over<br>when I carry on<br>one side..?",
+      "bubble_type": "thought",
+      "note": "(and the side plank collapsed in three seconds..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Want a stronger trunk?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Why is holding<br>it so hard?"
+      },
+      "note": "Hybi suggested <mark>starting on the knees</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Short and clean</em><br>beats long and wobbly",
+      "fact": "Side planks load the side of your <em>trunk and hip</em> together",
+      "left": {
+        "label": "Clean hold",
+        "char": "kanga_happy",
+        "caption": "Straight from head<br>to knees, <b>breathing</b>"
+      },
+      "right": {
+        "label": "Wobbly hold",
+        "char": "kanga_tired",
+        "caption": "Hips sagging,<br><em>breath held</em>"
+      },
+      "quip": "Add time first,<br>difficulty later!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute side plank</b>",
+      "sub": "Try it today!",
+      "sections": [
+        {
+          "heading": "1. Knee side plank",
+          "color": "yellow",
+          "lines": [
+            "① On your side, <em>elbow under shoulder</em>.",
+            "② Knees bent, lift hips: <em>straight</em> head to knees.",
+            "③ Hold <em>10–20 sec × 3</em>, each side.",
+            "④ Easy? Straighten your legs and add <em>time first</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You get <em>sharp back pain</em>, or pain",
+            "<em>spreading into a leg</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sharp back pain",
+        "Pain spreading into a leg",
+        "Shoulder keeps grumbling"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu carries gear on one side across the site all day, but her first side plank collapsed in three seconds.\n\nSide planks load the muscles along the side of your trunk and hip together. That can help with carrying on one side, changing direction and balancing on one leg.\n\nStart on your knees with your elbow under your shoulder. Hold 10 to 20 seconds, 3 times each side, breathing normally. When that feels easy, straighten your legs. Add time before difficulty, and keep holds clean rather than long.\n\nA grumbly shoulder may just need a different version. Sharp back pain or pain into a leg is worth getting checked. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sideplank",
+    "#corestrength",
+    "#trunkstrength",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#tradie",
+    "#strengthtraining",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why side planks help, a clean versus wobbly hold, a knee side plank routine and signs worth getting checked.",
+  "story": {
+    "headline": "Try a side plank today",
+    "body": "Knees bent, elbow under<br>shoulder, 10–20 sec × 3.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-05",
+  "created": "2027-01-05-4",
+  "status": "approved",
+  "review_warnings": []
+}

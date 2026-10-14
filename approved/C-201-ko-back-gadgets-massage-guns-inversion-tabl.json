@@ -1,0 +1,131 @@
+{
+  "id": "C-201-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Back gadgets: massage guns, inversion tables and more",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "마사지건, 거꾸리…<br>허리 기구 <em>괜찮을까?</em>",
+      "sub": "거북씨의 기구 장바구니 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "기구의 역할부터<br>알아봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "허리가 뻐근한 거북씨,<br>장바구니엔 <em>기구가 한가득</em>.",
+      "char": "turtle_sad",
+      "bubble": "이거 하나면<br>허리가<br>나아지겠지..?",
+      "bubble_type": "thought",
+      "note": "(마사지건, 거꾸리, 자세 교정 밴드까지..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>의<br>카이로프랙터를 찾았다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>뭘 사려고요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "이 중에 뭐가<br>제일 효과 있어요?"
+      },
+      "note": "하비는 <mark>기구는 도우미일 뿐</mark>이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "기구보다 <em>움직임</em>이<br>더 큰 일을 해요",
+      "fact": "꾸준한 걷기와 근력 운동을 <em>대신하는 기구</em>는 없어요",
+      "left": {
+        "label": "움직이기",
+        "char": "turtle_happy",
+        "caption": "걷기·근력 운동이<br><b>중심</b>이에요"
+      },
+      "right": {
+        "label": "기구에만 의존",
+        "char": "turtle_sad",
+        "caption": "잠깐 시원해도<br><em>금방 돌아오기 쉬워요</em>"
+      },
+      "quip": "기구는 준비운동<br>도우미로!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>기구 사용 가이드</b>",
+      "sub": "이렇게 써봐요!",
+      "sections": [
+        {
+          "heading": "1. 기구별 사용법",
+          "color": "yellow",
+          "lines": [
+            "① 마사지건: <em>근육에만, 약하게</em> 시작.",
+            "② 목 앞쪽·감각 없는 곳은 <em>피해요</em>.",
+            "③ 자세 밴드: <em>알림용</em>, 오래 차지 않기.",
+            "④ 거꾸리: 혈압·눈·심장 질환은 <em>먼저 상담</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 기구 말고 확인받기",
+          "color": "purple",
+          "lines": [
+            "다리가 <em>저리거나 힘이 빠지거나</em>,",
+            "<em>대소변 변화</em>가 있으면 바로 진료!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 허리가<br><em>계속 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "다리가 저리고 힘이 없다",
+        "몇 주째 점점 심해진다",
+        "대소변에 변화가 있다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "허리가 뻐근할 때마다 장바구니에 기구를 담는 거북씨. 마사지건, 거꾸리, 자세 교정 밴드, 다 괜찮을까요?\n\n마사지건은 잠깐 뭉친 느낌을 덜어줄 수 있어요. 근육에만, 약하게 시작하고 목 앞쪽은 피하기! 거꾸리는 혈압, 눈, 심장 질환이 있거나 임신 중이라면 먼저 GP와 상담해요. 자세 밴드는 알림용으로 짧게만.\n\n어떤 기구도 꾸준한 걷기와 근력 운동을 대신하진 못해요. 다리 저림, 점점 심해지는 통증, 대소변 변화는 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#마사지건",
+    "#거꾸리",
+    "#카이로프랙틱",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#chiropractor",
+    "#backpain",
+    "#massagegun",
+    "#sydneychiro"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 마사지건·거꾸리·자세 밴드의 역할과 한계, 기구별 사용 가이드, 확인이 필요한 신호.",
+  "story": {
+    "headline": "허리 기구, 괜찮을까?",
+    "body": "기구는 도우미,<br>움직임이 중심이에요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-31",
+  "created": "2026-12-31-3",
+  "status": "approved",
+  "review_warnings": []
+}

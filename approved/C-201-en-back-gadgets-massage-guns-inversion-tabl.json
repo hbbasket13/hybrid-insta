@@ -1,0 +1,131 @@
+{
+  "id": "C-201-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Back gadgets: massage guns, inversion tables and more",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Massage guns, inversion<br>tables: <em>worth it?</em>",
+      "sub": "Mr Turtle's shopping cart, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's see what<br>they really do!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Sore back, and Mr Turtle's<br>cart is <em>full of gadgets</em>.",
+      "char": "turtle_sad",
+      "bubble": "One of these will<br>sort my back,<br>surely..?",
+      "bubble_type": "thought",
+      "note": "(massage gun, inversion table, posture brace..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So he visited the<br>chiros at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shopping for<br>your back?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Which gadget<br>works the most?"
+      },
+      "note": "Hybi said <mark>gadgets are helpers, not the plan</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Movement</em> does<br>the heavy lifting",
+      "fact": "No gadget <em>replaces</em> regular walking and strength work",
+      "left": {
+        "label": "Keep moving",
+        "char": "turtle_happy",
+        "caption": "Walking and strength<br>are <b>the main plan</b>"
+      },
+      "right": {
+        "label": "Gadgets only",
+        "char": "turtle_sad",
+        "caption": "Short relief that<br><em>often wears off</em>"
+      },
+      "quip": "Use gadgets as a<br>warm-up helper!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>gadget guide</b>",
+      "sub": "Use them wisely!",
+      "sections": [
+        {
+          "heading": "1. Gadget by gadget",
+          "color": "yellow",
+          "lines": [
+            "① Massage gun: <em>on muscle, low setting</em>.",
+            "② Avoid the <em>front of the neck</em> and numb areas.",
+            "③ Posture brace: <em>a reminder</em>, not all day.",
+            "④ Inversion: <em>check with your GP</em> first."
+          ]
+        },
+        {
+          "heading": "2. Skip the gadgets and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You have <em>leg numbness or weakness</em>,",
+            "or <em>bladder or bowel changes</em> — promptly."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back <em>still sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Pain building over weeks",
+        "Bladder or bowel changes"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Sore back and a cart full of gadgets? Here's how to keep them in perspective.\n\nMany people find a massage gun eases tightness for a while. Keep it on muscle, start low and avoid the front of the neck. Inversion tables aren't suitable for everyone: blood pressure, eye or heart conditions and pregnancy are reasons to check with your GP first. A posture brace is a short reminder, not all-day wear.\n\nNo gadget replaces regular walking, strength work and staying active.\n\nLeg numbness or weakness, pain building over weeks, or bladder or bowel changes need a proper assessment. Our chiropractors at Hybrid Physio can talk through what you use at home. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#backpain",
+    "#massagegun",
+    "#inversiontable",
+    "#posture",
+    "#chiropractor",
+    "#chiropractic",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#officeworker"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining what massage guns, inversion tables and posture braces can and can't do, a gadget guide and signs worth getting checked.",
+  "story": {
+    "headline": "Back gadgets: worth it?",
+    "body": "Helpers, not the plan.<br>Movement comes first.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-31",
+  "created": "2026-12-31-6",
+  "status": "approved",
+  "review_warnings": []
+}

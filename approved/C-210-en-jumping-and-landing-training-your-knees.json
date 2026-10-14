@@ -1,0 +1,131 @@
+{
+  "id": "C-210-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Jumping and landing: training your knees for sport",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Every landing, Momo's<br>knees go <em>thud!</em>",
+      "sub": "Landing is a skill you can train",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "Shall we train<br>your landings?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekend <em>netball</em>:<br>Momo loves it.",
+      "char": "cat_tired",
+      "bubble": "Why do my knees<br>feel it every time<br>I land..?",
+      "bubble_type": "thought",
+      "note": "(landing loud and stiff-legged..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Knees on your mind?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "I can't really<br>stop jumping.."
+      },
+      "note": "Hybi explained that <mark>landing can be trained</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Land <em>soft and quiet</em>!",
+      "fact": "Landings and sudden stops put <em>big loads</em> through the knee",
+      "left": {
+        "label": "Soft landing",
+        "char": "cat_happy",
+        "caption": "Ankles, knees and hips<br><b>bend together</b>"
+      },
+      "right": {
+        "label": "Stiff landing",
+        "char": "cat_tired",
+        "caption": "Straight legs,<br><em>loud thud</em>"
+      },
+      "quip": "Keep your knees in line<br>with your toes!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute landing drill</b>",
+      "sub": "Grab a low step!",
+      "sections": [
+        {
+          "heading": "1. Two-foot landings",
+          "color": "yellow",
+          "lines": [
+            "① Jump off a <em>low step</em> with both feet.",
+            "② Land <em>quietly</em> on the balls of your feet.",
+            "③ Stick it for <em>2 seconds × 10 reps</em>.",
+            "④ Then add height, <em>single-leg</em>, direction changes."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel a <em>pop with swelling</em>, or",
+            "your knee <em>gives way</em> — stop playing."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A pop, then swelling",
+        "Knee giving way or locking",
+        "Kneecap pain with jumping"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo loves weekend netball, but every landing makes her knees grumble.\n\nJumping and landing put some of the biggest loads through your knees in sport, especially in netball, basketball, volleyball and touch. When ankles, knees and hips bend together, that load is shared.\n\nHybi's drill: jump off a low step with both feet, land soft and quiet with knees in line with toes, and hold 2 seconds. Do 10 reps, then progress to single-leg hops and direction changes. Squats, lunges and step-downs build the strength behind it.\n\nA pop with swelling or a knee giving way needs an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sportsphysio",
+    "#kneehealth",
+    "#netball",
+    "#landingmechanics",
+    "#injuryprevention",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo about training jump landings, a soft versus stiff landing, a 1-minute two-foot landing drill and signs worth getting checked.",
+  "story": {
+    "headline": "Try this landing drill",
+    "body": "Jump off a low step,<br>land soft, hold 2 sec.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-05",
+  "created": "2027-01-05-6",
+  "status": "approved",
+  "review_warnings": []
+}

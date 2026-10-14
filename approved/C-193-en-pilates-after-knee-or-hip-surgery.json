@@ -1,0 +1,131 @@
+{
+  "id": "C-193-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates after knee or hip surgery",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Pilates after knee<br>surgery: <em>where it fits</em>",
+      "sub": "Koko's rehab story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Surgeon's plan<br>comes first!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Six weeks after surgery,<br>Koko pauses at <em>the stairs</em>.",
+      "char": "koala_tired",
+      "bubble": "Will I walk like<br>I used to..?",
+      "bubble_type": "thought",
+      "note": "(even getting out of the car takes care..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome, Koko!<br>In rehab mode?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Is Pilates okay<br>for me now?"
+      },
+      "note": "Hybi said <mark>your surgeon's guidance</mark> comes first."
+    },
+    {
+      "kind": "compare",
+      "title": "Reformer <em>springs</em><br>take some of the load",
+      "fact": "Springs support part of your weight, so moves feel <em>lighter</em>",
+      "left": {
+        "label": "Small steps",
+        "char": "koala_happy",
+        "caption": "Build up in<br><b>small, steady steps</b>"
+      },
+      "right": {
+        "label": "Too much, fast",
+        "char": "koala_tired",
+        "caption": "Rushing can mean<br><em>more soreness</em>"
+      },
+      "quip": "Think months,<br>not weeks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>rehab Pilates plan</b>",
+      "sub": "Within your surgeon's limits!",
+      "sections": [
+        {
+          "heading": "1. Step by step",
+          "color": "yellow",
+          "lines": [
+            "① Bring your <em>surgeon's notes</em> to session one.",
+            "② Light <em>squats and bridges</em> on the reformer.",
+            "③ Build range, thigh strength and <em>balance</em>.",
+            "④ Practise <em>stairs and car transfers</em>."
+          ]
+        },
+        {
+          "heading": "2. Contact your surgeon or GP if…",
+          "color": "purple",
+          "lines": [
+            "Wound <em>redness, heat or discharge</em>, fever,",
+            "<em>calf swelling</em> or sudden breathlessness."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Call your surgeon <em>promptly</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Contact your surgeon or GP for",
+      "items": [
+        "A red, hot wound",
+        "Calf pain or swelling",
+        "Sudden breathlessness"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Had knee or hip surgery and wondering where Pilates fits in?\n\nFirst things first: your surgeon's instructions on weight bearing, movement limits and timelines come before anything else. Clinical Pilates is planned around them.\n\nThe reformer suits rehab because springs can take some of your bodyweight, so you can practise squats and bridges with less load, then build up in small steps. Sessions often focus on range of motion, strength, balance and everyday tasks like stairs and getting out of the car. Expect months, not weeks.\n\nContact your surgeon or GP promptly for wound redness or discharge, fever, calf swelling or sudden breathlessness. Bring your surgeon's notes to your first session with our Pilates team. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneesurgery",
+    "#hipreplacement",
+    "#rehab",
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#pilates",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#sydneypilates",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining where clinical Pilates fits after knee or hip surgery, how reformer springs help, a step-by-step plan and signs to contact the surgeon.",
+  "story": {
+    "headline": "Pilates after joint surgery?",
+    "body": "Surgeon's plan first,<br>then small steady steps.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-29",
+  "created": "2026-12-29-4",
+  "status": "approved",
+  "review_warnings": []
+}

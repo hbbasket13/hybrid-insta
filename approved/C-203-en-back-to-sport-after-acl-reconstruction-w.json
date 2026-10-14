@@ -1,0 +1,131 @@
+{
+  "id": "C-203-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Back to sport after ACL reconstruction: why it takes time",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Back to sport after ACL:<br>why it <em>takes time</em>",
+      "sub": "Toto's comeback story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Step by step,<br>no rushing!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Four months post-op,<br>Toto's knee <em>feels fine</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Surely I can play<br>footy again now..?",
+      "bubble_type": "thought",
+      "note": "(the team chat just posted this week's game..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Toto!<br>Thinking about<br>a comeback?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "It feels good..<br>why can't I play yet?"
+      },
+      "note": "Hybi explained that <mark>feeling good isn't the same as ready</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A new graft keeps<br>settling <em>for months</em>",
+      "fact": "Research links <em>returning too early</em> with reinjury",
+      "left": {
+        "label": "Staged return",
+        "char": "rabbit_happy",
+        "caption": "Strength, run, jump,<br>then <b>change direction</b>"
+      },
+      "right": {
+        "label": "Date-based",
+        "char": "rabbit_tired",
+        "caption": "Trusting the feeling,<br><em>rushing back</em>"
+      },
+      "quip": "Let testing guide it,<br>not the calendar!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>4-stage comeback</b>",
+      "sub": "Within your surgeon's protocol!",
+      "sections": [
+        {
+          "heading": "1. Stage by stage",
+          "color": "yellow",
+          "lines": [
+            "① Build <em>quad and hamstring strength</em> first.",
+            "② Then <em>running</em>, jumping and landing.",
+            "③ Add <em>change of direction</em> and sport drills.",
+            "④ Compare hop tests <em>with the other leg</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "The knee <em>swells or feels like giving way</em>,",
+            "or pain <em>keeps building</em> — pause and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Watch for <em>these signs</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling after training",
+        "The knee gives way",
+        "Pain that keeps building"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Four months after ACL surgery and the knee feels fine. So why not play this weekend?\n\nA new graft keeps remodelling for many months, and the knee can feel good well before it's ready for cutting, jumping and contact. Rehab usually builds strength first, then running, then jumping and landing, then change of direction.\n\nRather than a calendar date, return decisions often use strength and hop tests compared with the other leg, plus confidence in the knee. Research suggests returning to pivoting sport too early is linked with a higher chance of reinjury.\n\nSwelling, giving way or building pain is worth getting checked. Our Chatswood and Sydney CBD physios work alongside your surgeon's protocol. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#acl",
+    "#aclrehab",
+    "#aclreconstruction",
+    "#returntosport",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why return to sport after ACL reconstruction takes time, staged versus rushed returns, a 4-stage plan and signs worth getting checked.",
+  "story": {
+    "headline": "ACL comeback: why patience?",
+    "body": "Let testing, not the calendar,<br>guide your return.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-02",
+  "created": "2027-01-02-2",
+  "status": "approved",
+  "review_warnings": []
+}

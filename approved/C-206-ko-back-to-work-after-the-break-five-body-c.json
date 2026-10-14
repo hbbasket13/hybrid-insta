@@ -1,0 +1,131 @@
+{
+  "id": "C-206-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Back to work after the break: five body checks",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "출근 첫 주 거북씨,<br><em>몸 점검</em> 해볼까요?",
+      "sub": "연휴 후 출근, 다섯 가지 몸 체크",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_arms_up",
+        "bubble": "5가지만<br>확인해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "연휴 내내 걷다가<br>하루아침에 <em>책상 모드</em>.",
+      "char": "turtle_monitor",
+      "bubble": "휴가 때보다<br>몸이 더 무겁네..?",
+      "bubble_type": "thought",
+      "note": "(가방도 한쪽 어깨에만 메고..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>출근 첫 주 어때요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "몸이 아직<br>휴가 모드인가 봐요.."
+      },
+      "note": "하비는 <mark>다섯 가지 몸 체크</mark>를 보여주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "휴가 모드에서 책상 모드,<br><em>하룻밤</em>에 바뀌어요",
+      "fact": "휴가엔 걷기 많고, 출근하면 <em>앉아 있는 시간</em>이 확 늘어요",
+      "left": {
+        "label": "자주 움직이기",
+        "char": "turtle_happy",
+        "caption": "<b>30~45분</b>마다<br>잠깐 일어나요"
+      },
+      "right": {
+        "label": "계속 앉기",
+        "char": "turtle_sad",
+        "caption": "점심까지 꼼짝 않고<br><em>앉아만 있어요</em>"
+      },
+      "quip": "짧게라도 자주 움직이면<br>몸이 덜 무거워요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>출근 첫 주 체크</b>",
+      "sub": "하나씩 체크해봐요!",
+      "sections": [
+        {
+          "heading": "1. 다섯 가지 몸 체크",
+          "color": "yellow",
+          "lines": [
+            "① 책상: 모니터는 <em>눈높이</em>, 발은 바닥에.",
+            "② 움직임: <em>30~45분</em>마다 일어나기.",
+            "③ 출퇴근: 가방은 <em>양쪽 어깨</em>로 메기.",
+            "④ 운동: <em>주 2~3번</em> 캘린더에 미리 넣기."
+          ]
+        },
+        {
+          "heading": "2. 다섯 번째: 남은 통증 체크",
+          "color": "purple",
+          "lines": [
+            "휴가 때 생긴 통증이 <em>2주가 지나도</em>",
+            "그대로라면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우라면 확인받아 보기",
+      "items": [
+        "2주 넘게 그대로다",
+        "점점 더 심해진다",
+        "팔이나 다리가 저리다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "연휴 내내 걷다가 하루아침에 책상 모드가 된 거북씨. 출근 첫 주엔 몸도 함께 점검해 보세요.\n\n다섯 가지 체크: 모니터는 눈높이에 맞추고, 30~45분마다 잠깐 일어나기. 무거운 가방은 양쪽 어깨로 메고, 휴가 때 생긴 통증이 2주 넘게 남아 있는지 확인하기. 운동은 회의처럼 주 2~3번 캘린더에 미리 넣어두기.\n\n하이브리드 피지오에는 물리치료, 카이로프랙틱, 클리니컬 필라테스, 리메디얼 마사지가 함께 있어 어디서 시작하면 좋을지 같이 찾아드려요. 프로필 링크에서 온라인 예약 💼\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#출근첫주",
+    "#직장인건강",
+    "#거북목",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#backtowork"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 연휴 후 출근 첫 주의 몸 변화, 자주 움직이기 비교, 다섯 가지 몸 체크, 확인이 필요한 신호.",
+  "story": {
+    "headline": "출근 첫 주, 몸 점검했나요?",
+    "body": "책상·움직임·가방·운동,<br>그리고 남은 통증!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-04",
+  "created": "2027-01-04-5",
+  "status": "approved",
+  "review_warnings": []
+}

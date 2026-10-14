@@ -1,0 +1,131 @@
+{
+  "id": "C-203-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Back to sport after ACL reconstruction: why it takes time",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "ACL 수술 후 복귀,<br>왜 <em>시간이 걸릴까?</em>",
+      "sub": "토토의 복귀 준비, 하비와 함께",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "서두르지 말고<br>단계별로!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "수술 4개월 차,<br>토토의 무릎은 <em>멀쩡해 보인다</em>.",
+      "char": "rabbit_tired",
+      "bubble": "이제 축구<br>다시 해도<br>되지 않을까..?",
+      "bubble_type": "thought",
+      "note": "(팀 단톡방엔 이번 주 경기 공지가..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요 토토!<br>복귀가 궁금해요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "느낌은 괜찮은데<br>왜 아직 안 돼요?"
+      },
+      "note": "하비는 <mark>괜찮은 느낌과 준비된 몸</mark>은 다르다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "새 인대는 <em>몇 달 동안</em><br>계속 자리 잡아요",
+      "fact": "연구에 따르면 <em>너무 이른 복귀</em>는 재부상 위험과 관련 있어요",
+      "left": {
+        "label": "단계별 복귀",
+        "char": "rabbit_happy",
+        "caption": "근력→달리기→점프<br>→<b>방향 전환</b> 순서로"
+      },
+      "right": {
+        "label": "날짜만 보고",
+        "char": "rabbit_tired",
+        "caption": "느낌만 믿고<br><em>급하게 복귀</em>"
+      },
+      "quip": "날짜보다<br>검사로 정해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>복귀 4단계</b>",
+      "sub": "집도의 지침 안에서!",
+      "sections": [
+        {
+          "heading": "1. 단계별 복귀 순서",
+          "color": "yellow",
+          "lines": [
+            "① 허벅지 앞·뒤 <em>근력</em>부터 쌓아요.",
+            "② 그다음 <em>달리기</em>, 점프·착지 연습.",
+            "③ <em>방향 전환</em>과 종목별 동작 훈련.",
+            "④ 근력·홉 검사를 <em>반대쪽 다리</em>와 비교."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기",
+          "color": "purple",
+          "lines": [
+            "무릎이 <em>붓거나 빠질 듯한</em> 느낌,",
+            "통증이 <em>점점 심해지면</em> 멈추고 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "복귀 중 <em>이런 신호는?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 꼭 확인받기",
+      "items": [
+        "운동 후 무릎이 붓는다",
+        "무릎이 빠질 듯하다",
+        "통증이 점점 심해진다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "ACL 수술 4개월 차, 무릎 느낌은 괜찮은 토토. 그런데 왜 아직 복귀하면 안 될까요?\n\n새 인대는 수술 후 몇 달 동안 계속 자리를 잡아요. 무릎이 괜찮게 느껴져도 방향 전환, 점프, 몸싸움을 할 준비는 아직일 수 있어요. 재활은 보통 근력, 달리기, 점프·착지, 방향 전환 순서로 쌓아요.\n\n복귀는 날짜보다 근력·홉 검사를 반대쪽 다리와 비교해 정하는 경우가 많아요. 연구에 따르면 너무 이른 복귀는 재부상 위험과 관련이 있어요. 채스우드·시드니 CBD 물리치료사가 집도의 지침에 맞춰 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#acl",
+    "#십자인대",
+    "#acl재활",
+    "#스포츠재활",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#aclrehab",
+    "#returntosport",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: ACL 수술 후 복귀에 시간이 걸리는 이유, 단계별 복귀와 급한 복귀 비교, 복귀 4단계, 확인이 필요한 신호.",
+  "story": {
+    "headline": "ACL 복귀, 왜 오래 걸릴까?",
+    "body": "날짜보다 검사로,<br>단계별로 돌아가요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-02",
+  "created": "2027-01-02-5",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-197-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates through menopause: strength and confidence",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Menopause: a great time<br>to get <em>stronger</em>",
+      "sub": "Koko's Pilates story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we<br>start together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lately Koko's shopping<br>feels <em>heavier</em>.",
+      "char": "koala_tired",
+      "bubble": "Achy joints, and<br>I'm not as strong<br>as I was..",
+      "bubble_type": "thought",
+      "note": "(even the stairs feel a bit wobbly..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Welcome, Koko!<br>How are things?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Is strength work<br>okay at my age?"
+      },
+      "note": "Hybi said the key is <mark>load that builds gradually</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Muscle and bone<br>like <em>the right load</em>",
+      "fact": "Research suggests <em>strength work</em> supports muscle and bone",
+      "left": {
+        "label": "Build gradually",
+        "char": "koala_happy",
+        "caption": "Springs let you go<br><b>at your own pace</b>"
+      },
+      "right": {
+        "label": "Too cautious",
+        "char": "koala_tired",
+        "caption": "Unused muscle<br><em>tends to fade</em>"
+      },
+      "quip": "Ease off on tough days,<br>add more on good ones!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>menopause Pilates tips</b>",
+      "sub": "Start with 2–3 a week!",
+      "sections": [
+        {
+          "heading": "1. How to begin",
+          "color": "yellow",
+          "lines": [
+            "① An <em>assessment</em> first: goals and joints.",
+            "② Reformer springs add load <em>bit by bit</em>.",
+            "③ Move sore joints in a <em>comfortable range</em>.",
+            "④ Include <em>pelvic floor awareness</em> too."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "A joint gets <em>swollen or keeps hurting more</em>,",
+            "or you feel <em>dizzy or breathless</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Worth <em>getting checked</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A swollen, warm joint",
+        "Big pain after a small knock",
+        "Leaking that's getting worse"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Shopping bags feeling heavier lately? Menopause can be a great time to build strength.\n\nHormone changes around menopause are linked to faster loss of muscle and bone. Research suggests regular, progressive resistance exercise is one of the most helpful ways to support both.\n\nReformer springs let you add resistance gradually, easing back on tougher days. Achy joints can often still move in a comfortable range, and pelvic floor awareness can be part of your sessions too. Feeling strong and steady can make everyday tasks and travel feel more doable.\n\nA swollen joint, worsening pain, dizziness or breathlessness is worth getting checked. Our Pilates team at Hybrid Physio starts with an assessment. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#menopause",
+    "#strengthtraining",
+    "#bonehealth",
+    "#pilates",
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#womenshealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why progressive strength work helps through menopause, how reformer springs adjust the load, tips to begin and signs worth getting checked.",
+  "story": {
+    "headline": "Menopause: time to get stronger",
+    "body": "Reformer springs let you<br>build load bit by bit.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-30",
+  "created": "2026-12-30-2",
+  "status": "approved",
+  "review_warnings": []
+}

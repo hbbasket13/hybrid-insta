@@ -1,0 +1,131 @@
+{
+  "id": "C-194-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Stomach sleeping and your neck",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Sleep face down?<br>Momo's <em>neck notices</em>",
+      "sub": "Tummy sleeping and stiff mornings, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's check your<br>sleep position!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every morning, Momo's neck<br>won't turn <em>one way</em>.",
+      "char": "cat_tired",
+      "bubble": "Slept on my<br>tummy again..",
+      "bubble_type": "thought",
+      "note": "(and Momo loves a big fluffy pillow..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Momo visited the<br>chiros at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff neck most<br>mornings?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "But tummy sleeping<br>feels so comfy.."
+      },
+      "note": "Hybi suggested starting with <mark>pillow height</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Face down means<br>a <em>full head turn</em>",
+      "fact": "Lying face down, you turn your head <em>all the way</em> to breathe",
+      "left": {
+        "label": "Thin pillow",
+        "char": "cat_happy",
+        "caption": "Less tilt, so<br>the neck <b>twists less</b>"
+      },
+      "right": {
+        "label": "Thick pillow",
+        "char": "cat_tired",
+        "caption": "Head propped up,<br><em>more twist</em>"
+      },
+      "quip": "Waking up fine?<br>No need to change!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>tonight's sleep tweaks</b>",
+      "sub": "Try them at bedtime!",
+      "sections": [
+        {
+          "heading": "1. Ease into it",
+          "color": "yellow",
+          "lines": [
+            "① Use a <em>thin pillow</em>, or none, under your face.",
+            "② Hug a <em>long pillow</em> and lie half on your side.",
+            "③ Pop <em>a pillow</em> under your top knee.",
+            "④ Morning: slow neck turns, <em>5 each side</em>."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "You have <em>arm pain or pins and needles</em>,",
+            "or it's not easing after <em>a week or two</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Neck <em>still stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm pain or tingling",
+        "Headaches that keep building",
+        "No easing after 1–2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Waking up with a stiff neck? Sleeping face down could be part of it.\n\nLying on your stomach means turning your head fully to one side to breathe, and holding that end position for hours can leave some people stiff. A thick pillow adds more twist. If you wake up fine, there's no need to change a thing.\n\nIf you're stiff most mornings, try a thin pillow or none under your face, and ease towards side sleeping by hugging a long pillow with one under your top knee.\n\nArm pain, pins and needles, building headaches or stiffness that isn't easing after a week or two is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#neckpain",
+    "#stiffneck",
+    "#sleepposition",
+    "#pillow",
+    "#chiropractor",
+    "#chiropractic",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#sleeptips"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why tummy sleeping can stiffen the neck, thin versus thick pillows, simple sleep tweaks and signs worth getting checked.",
+  "story": {
+    "headline": "Tummy sleeper with a stiff neck?",
+    "body": "Thinner pillow, hug a long one,<br>ease onto your side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-29",
+  "created": "2026-12-29-2",
+  "status": "approved",
+  "review_warnings": []
+}

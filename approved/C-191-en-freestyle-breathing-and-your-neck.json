@@ -1,0 +1,131 @@
+{
+  "id": "C-191-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Freestyle breathing and your neck",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Laps done, but Toto's<br>neck feels <em>stiff</em>",
+      "sub": "How freestyle breathing can load your neck",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's look at<br>your breathing!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Thirty laps</em> every<br>summer morning.",
+      "char": "rabbit_tired",
+      "bubble": "Swimming's meant<br>to be good for me..<br>why the stiff neck?",
+      "bubble_type": "thought",
+      "note": "(and always breathing to the right side..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Toto visited the<br>chiros at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Neck stiff after<br>your swim?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. should I<br>stop swimming?"
+      },
+      "note": "Hybi decided to look at <mark>the breathing stroke</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Roll your <em>body</em>,<br>not just your neck!",
+      "fact": "A flat torso means the neck <em>turns further</em> every breath",
+      "left": {
+        "label": "Body roll",
+        "char": "rabbit_happy",
+        "caption": "The whole body turns,<br>so the neck <b>turns less</b>"
+      },
+      "right": {
+        "label": "Head lift",
+        "char": "rabbit_tired",
+        "caption": "The neck tips back<br>and <em>twists more</em>"
+      },
+      "quip": "Keep one goggle<br>in the water!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute pre-swim prep</b>",
+      "sub": "Do it before you dive in!",
+      "sections": [
+        {
+          "heading": "1. Loosen up, breathe smarter",
+          "color": "yellow",
+          "lines": [
+            "① Open-book rotations on your side, <em>10 each way</em>.",
+            "② Breathe with <em>one goggle underwater</em>.",
+            "③ Mix in <em>both-side breathing</em> for a few laps.",
+            "④ Build both-side breathing <em>gradually</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop swimming if…",
+          "color": "purple",
+          "lines": [
+            "Your arm feels <em>tingly, numb or weak</em>,",
+            "or you feel <em>dizzy</em> — stop and get checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Neck <em>still stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm tingling or weakness",
+        "Headaches that keep building",
+        "Dizziness with neck pain"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Stiff neck after your morning laps? Your breathing might be part of the story.\n\nIn freestyle, much of the turn to breathe should come from rolling the torso. When the body stays flat, the neck does more of the turning, and lifting your head for air adds extra twist. Over a full session, that adds up.\n\nWhat tends to help: roll your body to breathe, keep one goggle in the water, mix in breaths to both sides, and loosen your mid-back on land first.\n\nArm tingling or weakness, building headaches or dizziness are worth an assessment. Our chiropractors at Hybrid Physio combine hands-on care with exercises for the pool. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#swimming",
+    "#freestyle",
+    "#neckpain",
+    "#chiropractor",
+    "#chiropractic",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#summerswim",
+    "#hybridphysiotherapy",
+    "#swimtips"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit showing how freestyle breathing can stiffen the neck, body roll versus head lift, a 1-minute pre-swim routine and signs worth getting checked.",
+  "story": {
+    "headline": "Neck stiff after laps?",
+    "body": "Roll your body to breathe,<br>one goggle in the water.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-28",
+  "created": "2026-12-28-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-193-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates after knee or hip surgery",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "무릎 수술 후<br><em>필라테스</em>는 언제부터?",
+      "sub": "코코의 재활 이야기, 하비와 함께",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "수술 지침이<br>먼저예요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "무릎 수술 6주 차,<br>코코는 <em>계단 앞</em>에서 멈칫.",
+      "char": "koala_tired",
+      "bubble": "다시 예전처럼<br>걸을 수 있을까..?",
+      "bubble_type": "thought",
+      "note": "(차에서 내리는 것도 아직 조심조심..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요 코코!<br>재활 중이군요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "필라테스를<br>해도 될까요?"
+      },
+      "note": "하비는 <mark>집도의 지침</mark>을 먼저 챙기라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "리포머 <em>스프링</em>이<br>체중을 덜어줘요",
+      "fact": "스프링이 체중 일부를 받쳐 <em>더 가볍게</em> 연습할 수 있어요",
+      "left": {
+        "label": "단계별로",
+        "char": "koala_happy",
+        "caption": "작은 단계로<br><b>조금씩</b> 늘려요"
+      },
+      "right": {
+        "label": "한 번에 많이",
+        "char": "koala_tired",
+        "caption": "욕심내면<br><em>더 붓고 아플 수</em>"
+      },
+      "quip": "몇 주가 아니라<br>몇 달이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>재활 필라테스 순서</b>",
+      "sub": "집도의 지침 안에서!",
+      "sections": [
+        {
+          "heading": "1. 단계별 목표",
+          "color": "yellow",
+          "lines": [
+            "① 집도의 메모를 <em>첫 세션에 가져와요</em>.",
+            "② 리포머로 <em>스쿼트·브릿지</em>를 가볍게.",
+            "③ 관절 범위·허벅지 근력·<em>균형</em>을 쌓아요.",
+            "④ 계단·차 타기 같은 <em>일상 동작</em> 연습."
+          ]
+        },
+        {
+          "heading": "2. 바로 집도의·GP에게 연락!",
+          "color": "purple",
+          "lines": [
+            "상처 <em>붉어짐·열감·분비물</em>, 열이 나거나",
+            "<em>종아리 붓기</em>, 갑자기 숨이 차면 바로!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 신호는 <em>바로 연락!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "집도의·GP에게 바로 연락하기",
+      "items": [
+        "상처가 붉고 뜨겁다",
+        "종아리가 붓고 아프다",
+        "갑자기 숨이 차다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "무릎이나 고관절 수술 후, 필라테스는 어디쯤 들어갈까요?\n\n먼저 체중 싣기, 움직임 제한, 일정에 대한 집도의 지침이 가장 우선이에요. 클리닉 필라테스는 그 지침 안에서 계획해요.\n\n리포머 스프링이 체중 일부를 받쳐줘서 스쿼트, 브릿지를 더 가볍게 연습하고 조금씩 늘려갈 수 있어요. 관절 범위, 허벅지 근력, 균형, 계단 같은 일상 동작이 보통 목표예요. 회복은 대개 몇 달이 걸려요.\n\n상처가 붉어지거나 열, 종아리 붓기, 갑작스러운 숨참이 있으면 바로 집도의나 GP에게 연락하기! 첫 세션엔 집도의 메모를 챙겨오세요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#무릎수술",
+    "#고관절수술",
+    "#재활",
+    "#필라테스",
+    "#클리닉필라테스",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#clinicalpilates",
+    "#kneerehab",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 무릎·고관절 수술 후 필라테스의 위치, 리포머 스프링의 역할, 단계별 목표, 바로 연락해야 할 신호.",
+  "story": {
+    "headline": "수술 후 필라테스, 언제부터?",
+    "body": "집도의 지침 먼저,<br>그다음 작은 단계로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-29",
+  "created": "2026-12-29-1",
+  "status": "approved",
+  "review_warnings": []
+}

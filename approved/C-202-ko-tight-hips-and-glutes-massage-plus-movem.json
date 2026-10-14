@@ -1,0 +1,131 @@
+{
+  "id": "C-202-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Tight hips and glutes: massage plus movement",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "엉덩이가 뻐근할 땐<br>마사지 + <em>움직임</em>!",
+      "sub": "토토의 엉덩이·골반 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "둘이 함께일 때<br>더 좋아요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주중엔 책상, 주말엔 러닝.<br>토토의 <em>엉덩이가 뻐근</em>.",
+      "char": "rabbit_tired",
+      "bubble": "마사지 받을 땐<br>시원한데<br>왜 또 뭉치지..?",
+      "bubble_type": "thought",
+      "note": "(사무실에선 몇 시간씩 앉아 있다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요 토토!<br>엉덩이가<br>뻐근해요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "마사지를 더 자주<br>받으면 될까요?"
+      },
+      "note": "하비는 <mark>마사지 뒤 움직임</mark>이 반쪽이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "뻐근함은 <em>지친 근육</em>의<br>신호일 때가 많아요",
+      "fact": "덜 쓰거나 <em>한 자세로 오래</em> 있으면 뻐근해지기 쉬워요",
+      "left": {
+        "label": "마사지+운동",
+        "char": "rabbit_happy",
+        "caption": "풀고 나서<br><b>움직여 유지해요</b>"
+      },
+      "right": {
+        "label": "마사지만",
+        "char": "rabbit_tired",
+        "caption": "잠깐 시원하고<br><em>다시 뭉치기 쉬워요</em>"
+      },
+      "quip": "풀고, 움직이고,<br>자주 일어나요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 엉덩이 루틴</b>",
+      "sub": "하루 1~2번 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 마사지 후 3가지 동작",
+          "color": "yellow",
+          "lines": [
+            "① 브릿지: 천천히 <em>10회</em>.",
+            "② 4자 스트레칭: <em>30초씩</em> 양쪽.",
+            "③ 옆으로 누워 다리 들기 <em>10회씩</em>.",
+            "④ <em>30분마다</em> 일어나 1~2분 걷기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 말고 확인받기",
+          "color": "purple",
+          "lines": [
+            "<em>사타구니 통증</em>, 걸리거나 잠기는 느낌,",
+            "다리가 <em>저리면</em> 물리치료사·GP와 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>계속 뻐근하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "사타구니가 아프다",
+        "밤에 아파서 깬다",
+        "다리로 저림이 내려간다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "주중엔 책상, 주말엔 러닝. 엉덩이가 늘 뻐근한 토토.\n\n엉덩이와 골반 근육의 뻐근함은 덜 쓰거나 한 자세로 오래 일한 근육의 신호일 때가 많아요. 리메디얼 마사지는 긴장을 풀고 한동안 더 편하게 움직이게 도와줄 수 있어요. 하지만 그건 계획의 반쪽!\n\n마사지 후 브릿지 10회, 4자 스트레칭 30초, 옆으로 누워 다리 들기 10회를 하루 1~2번, 그리고 30분마다 일어나 걷기. 사타구니 통증, 걸리는 느낌, 밤에 깨는 통증, 다리 저림은 확인이 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#엉덩이통증",
+    "#골반",
+    "#리메디얼마사지",
+    "#스트레칭",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#tighthips",
+    "#glutes",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 엉덩이·골반 뻐근함의 이유, 마사지만 받을 때와 움직임을 더할 때 비교, 1분 엉덩이 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "엉덩이가 뻐근하다면?",
+    "body": "마사지로 풀고,<br>움직여서 유지해요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-02",
+  "created": "2027-01-02-1",
+  "status": "approved",
+  "review_warnings": []
+}

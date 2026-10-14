@@ -1,0 +1,131 @@
+{
+  "id": "C-194-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Stomach sleeping and your neck",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "엎드려 자고 나면<br><em>목이 뻣뻣</em>한 모모",
+      "sub": "엎드려 자는 습관과 목 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "자는 자세부터<br>살펴봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "아침마다 목이<br><em>한쪽으로만</em> 안 돌아간다.",
+      "char": "cat_tired",
+      "bubble": "또 엎드려서<br>잤나 봐..",
+      "bubble_type": "thought",
+      "note": "(베개는 두툼한 걸 좋아한다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>의<br>카이로프랙터를 찾았다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>아침마다<br>목이 뻣뻣해요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "엎드려 자는 게<br>편한데 어쩌죠?"
+      },
+      "note": "하비는 <mark>베개 높이</mark>부터 바꿔보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "엎드리면 목이<br><em>끝까지 돌아가요</em>",
+      "fact": "엎드려 자면 숨 쉬려고 고개를 <em>한쪽 끝까지</em> 돌리게 돼요",
+      "left": {
+        "label": "얇은 베개",
+        "char": "cat_happy",
+        "caption": "덜 꺾이고<br>목이 <b>덜 비틀려요</b>"
+      },
+      "right": {
+        "label": "두툼한 베개",
+        "char": "cat_tired",
+        "caption": "고개가 들리고<br><em>더 비틀려요</em>"
+      },
+      "quip": "괜찮다면 바꿀 필요<br>없어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>오늘 밤 수면 팁</b>",
+      "sub": "자기 전에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 조금씩 바꾸기",
+          "color": "yellow",
+          "lines": [
+            "① 얼굴 밑 베개는 <em>얇게, 또는 없이</em>.",
+            "② 긴 베개를 <em>앞으로 안고</em> 옆으로 누워요.",
+            "③ 위쪽 무릎 밑에도 <em>베개 하나</em>.",
+            "④ 아침엔 목 돌리기 <em>좌우 5회</em> 천천히."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "팔이 <em>아프거나 저리거나</em>,",
+            "<em>1~2주</em> 지나도 안 풀리면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 목이<br><em>계속 뻣뻣하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호면 확인받기",
+      "items": [
+        "팔이 아프거나 저리다",
+        "두통이 점점 심해진다",
+        "1~2주째 그대로다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "아침마다 목이 한쪽으로 잘 안 돌아가는 모모. 엎드려 자는 습관이 이유 중 하나일 수 있어요.\n\n엎드려 자면 숨 쉬려고 고개를 한쪽 끝까지 돌린 채 몇 시간을 보내게 돼요. 두툼한 베개는 비틀림을 더할 수 있어요. 물론 엎드려 자도 아침에 괜찮다면 바꿀 필요는 없어요.\n\n얼굴 밑 베개는 얇게 하거나 빼보고, 긴 베개를 안고 옆으로 누워보세요. 팔 저림, 심해지는 두통, 1~2주 넘게 안 풀리는 뻣뻣함은 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#목통증",
+    "#수면자세",
+    "#베개",
+    "#카이로프랙틱",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#chiropractor",
+    "#neckpain",
+    "#sleeptips",
+    "#sydneychiro"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 엎드려 자는 자세와 목 뻣뻣함, 얇은 베개와 두툼한 베개 비교, 오늘 밤 수면 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "엎드려 자면 목이 뻣뻣?",
+    "body": "얇은 베개, 긴 베개 안고<br>옆으로 누워봐요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-29",
+  "created": "2026-12-29-5",
+  "status": "approved",
+  "review_warnings": []
+}

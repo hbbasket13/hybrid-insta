@@ -1,0 +1,131 @@
+{
+  "id": "C-204-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Neck and shoulder tension for new parents",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "New baby, and Lulu's<br>shoulders are <em>up by her ears</em>",
+      "sub": "A new-parent tension story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's ease<br>that together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Feeding, rocking, carrying,<br>head <em>down for hours</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why do my shoulders<br>feel like concrete..?",
+      "bubble_type": "thought",
+      "note": "(and broken sleep makes it feel heavier..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shoulders a bit tight?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "I can't exactly stop<br>carrying the baby.."
+      },
+      "note": "Hybi started with <mark>small position swaps</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Bring baby <em>up</em>,<br>not your head down",
+      "fact": "Feeding and carrying can keep your head down <em>for hours</em>",
+      "left": {
+        "label": "Baby on pillows",
+        "char": "kanga_happy",
+        "caption": "Pillows lift baby up,<br>you can <b>sit back</b>"
+      },
+      "right": {
+        "label": "Hunched over",
+        "char": "kanga_tired",
+        "caption": "Leaning down to baby,<br>the neck <em>keeps holding</em>"
+      },
+      "quip": "Look down with your eyes,<br>not only your neck!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shoulder ease</b>",
+      "sub": "Try it before or after a feed!",
+      "sections": [
+        {
+          "heading": "1. Swap, lift, shrug",
+          "color": "yellow",
+          "lines": [
+            "① <em>Swap</em> the arm you carry on, and your chair.",
+            "② Use pillows to raise baby to <em>chest height</em>.",
+            "③ Shrug up, then let go: <em>5 sec × 10 reps</em>.",
+            "④ Do it <em>2–3 times</em> a day, even briefly."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your arm <em>tingles</em> or headaches keep building",
+            "— see a physio or your GP first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>tight</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down the arm",
+        "Headaches that keep building",
+        "Wrist pain when lifting baby"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "New parent, and your shoulders have crept up to your ears? Lulu knows the feeling.\n\nFeeding, rocking and carrying keep your head down and arms forward for hours, often on very little sleep. Small changes can help: swap the arm you carry on, raise baby on pillows during feeds so you can sit back, and look down with your eyes rather than your whole neck.\n\nRemedial massage can help tight muscles feel easier, and it works well alongside gentle movement rather than replacing it. Pins and needles in the arm or building headaches are worth a physio or GP check first.\n\nOur remedial massage therapists at Hybrid Physio are here for new parents. Book online via the link in bio 👶\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#newparents",
+    "#newmum",
+    "#newdad",
+    "#neckpain",
+    "#shouldertension",
+    "#remedialmassage",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#parenting",
+    "#postpartum"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu showing why new parents get neck and shoulder tension, a pillow-supported feeding position, a 1-minute shoulder routine and signs worth getting checked.",
+  "story": {
+    "headline": "New parent, tight shoulders?",
+    "body": "Raise baby on pillows,<br>swap your carrying arm.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-02",
+  "created": "2027-01-02-6",
+  "status": "approved",
+  "review_warnings": []
+}

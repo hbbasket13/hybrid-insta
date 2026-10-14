@@ -1,0 +1,131 @@
+{
+  "id": "C-190-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Should you stretch after a massage?",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Stretch after a massage?<br>Yes, <em>but gently</em>",
+      "sub": "Momo's massage aftercare story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Gently is<br>the way!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The evening after a massage,<br>Momo stretched <em>harder</em>.",
+      "char": "cat_tired",
+      "bubble": "More stretch means<br>more benefit,<br>right..?",
+      "bubble_type": "thought",
+      "note": "(but the tender spot started to throb..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Wondering about<br>aftercare?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Shouldn't I stretch<br>hard to make it count?"
+      },
+      "note": "Hybi said the key is <mark>gentle and short</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "You often feel <em>looser</em><br>for a few hours",
+      "fact": "Many people feel <em>looser for a few hours</em> after a massage",
+      "left": {
+        "label": "Gentle stretch",
+        "char": "cat_happy",
+        "caption": "Slow, comfortable range,<br><b>easy does it</b>"
+      },
+      "right": {
+        "label": "Hard pulling",
+        "char": "cat_tired",
+        "caption": "Can <em>stir up</em><br>tender spots"
+      },
+      "quip": "Easy movement<br>is plenty!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute aftercare</b>",
+      "sub": "Try it on massage day!",
+      "sections": [
+        {
+          "heading": "1. Move gently",
+          "color": "yellow",
+          "lines": [
+            "① Go for an easy <em>10–15 min</em> walk.",
+            "② Shoulder rolls and hip circles, <em>10 each</em>.",
+            "③ Do your home exercises in the <em>looser window</em>.",
+            "④ Stretches: <em>20–30 sec</em>, comfortable only."
+          ]
+        },
+        {
+          "heading": "2. Go easy if…",
+          "color": "purple",
+          "lines": [
+            "An area felt <em>tender</em> during treatment,",
+            "or pain <em>keeps building</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still feeling <em>tight</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain building over days",
+        "Lots of swelling or bruising",
+        "Pins and needles"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Should you stretch after a massage? Gently, yes.\n\nMany people feel looser for a few hours after a remedial massage. That's a handy window for an easy walk or the home exercises you've been given. If an area felt tender during treatment, keep it light for the rest of the day rather than stretching hard.\n\nMassage and stretching can help you feel less tight, but strength and regular movement usually do more over time. Think of massage as one part of an active plan.\n\nOur remedial massage therapists at Hybrid Physio can suggest one or two aftercare stretches suited to what they find. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#stretching",
+    "#aftercare",
+    "#sydneycbd",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydney",
+    "#musclerecovery",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydneymassage"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining how to stretch gently after a remedial massage, the looser window, a 1-minute aftercare routine and signs worth getting checked.",
+  "story": {
+    "headline": "Stretch after a massage?",
+    "body": "Yes, gently. An easy walk<br>or your home exercises.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-28",
+  "created": "2026-12-28-4",
+  "status": "approved",
+  "review_warnings": []
+}

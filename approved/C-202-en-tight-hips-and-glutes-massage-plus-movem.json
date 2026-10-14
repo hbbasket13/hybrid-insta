@@ -1,0 +1,131 @@
+{
+  "id": "C-202-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Tight hips and glutes: massage plus movement",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Tight hips? Massage<br>plus <em>movement</em>!",
+      "sub": "Toto's tight glutes, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Better as<br>a team!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Desk all week, runs on<br>weekends: <em>tight glutes</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Feels great after<br>a massage.. so why<br>is it tight again?",
+      "bubble_type": "thought",
+      "note": "(hours of sitting at the office every day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Toto!<br>Hips feeling tight?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Should I just get<br>more massages?"
+      },
+      "note": "Hybi said <mark>moving afterwards</mark> is the other half."
+    },
+    {
+      "kind": "compare",
+      "title": "Tight is often<br><em>tired</em>",
+      "fact": "Tight glutes are often <em>under-used</em> or stuck in one position",
+      "left": {
+        "label": "Massage + moves",
+        "char": "rabbit_happy",
+        "caption": "Ease it, then<br><b>move to keep it</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "rabbit_tired",
+        "caption": "Short relief, then<br><em>tight again</em>"
+      },
+      "quip": "Ease it, move it,<br>stand up often!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute hip routine</b>",
+      "sub": "Once or twice a day!",
+      "sections": [
+        {
+          "heading": "1. Three moves after your session",
+          "color": "yellow",
+          "lines": [
+            "① Glute bridges: <em>10 slow reps</em>.",
+            "② Figure-four stretch: <em>30 sec</em> each side.",
+            "③ Side-lying leg lifts: <em>10 each side</em>.",
+            "④ Every <em>30 minutes</em>, stand and walk 1–2 min."
+          ]
+        },
+        {
+          "heading": "2. Skip the massage and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You have <em>groin pain</em>, catching or locking,",
+            "or <em>tingling down the leg</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Hips <em>still tight</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain in the groin",
+        "Pain that wakes you at night",
+        "Tingling down the leg"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Desk all week, runs on the weekend, and glutes that always feel tight?\n\nTight hips and glutes are often under-used, or stuck working in one position all day. The feeling is real.\n\nRemedial massage can ease the tension and help you move more comfortably for a while. Movement helps it last: try glute bridges, a figure-four stretch and side-lying leg lifts once or twice a day, and stand up to walk every half hour.\n\nGroin pain, catching or locking, pain that wakes you at night or tingling down the leg is worth assessing with a physio or GP. Our remedial massage therapists at Hybrid Physio work on the tension and send you home with simple moves. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#tighthips",
+    "#glutes",
+    "#hipmobility",
+    "#massage",
+    "#stretching",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydney",
+    "#sydneymassage",
+    "#hybridphysiotherapy",
+    "#deskjob"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why hips and glutes feel tight, massage alone versus massage plus movement, a 1-minute hip routine and signs worth getting checked.",
+  "story": {
+    "headline": "Tight hips and glutes?",
+    "body": "Massage eases it,<br>movement helps it last.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-02",
+  "created": "2027-01-02-4",
+  "status": "approved",
+  "review_warnings": []
+}

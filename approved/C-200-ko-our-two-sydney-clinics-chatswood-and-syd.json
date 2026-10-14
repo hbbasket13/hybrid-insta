@@ -1,0 +1,123 @@
+{
+  "id": "C-200-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Our two Sydney clinics: Chatswood and Sydney CBD",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "채스우드와 시드니 CBD,<br><em>두 곳</em>에서 만나요",
+      "sub": "거북씨의 클리닉 고르기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "가까운 곳으로<br>오세요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "목이 뻐근한 거북씨,<br><em>어디로</em> 가야 하지?",
+      "char": "turtle_monitor",
+      "bubble": "회사는 시티,<br>집은 노스쇼어..",
+      "bubble_type": "thought",
+      "note": "(점심시간도 빠듯하고 퇴근은 늦다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>어디가 편해요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "두 곳 중에<br>어디로 가야 하죠?"
+      },
+      "note": "하비는 <mark>두 클리닉</mark>을 하나씩 소개했다."
+    },
+    {
+      "kind": "scene",
+      "title": "두 곳, <em>한 팀</em>이에요!",
+      "char": "hybi_neutral",
+      "bubble": "채스우드: 역 근처,<br>시티 CBD: 윈야드 옆!<br>같은 팀이 함께해요",
+      "note": "(물리치료·카이로·필라테스·마사지가 서로 연결돼요)",
+      "h": 380
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 예약 가이드</b>",
+      "sub": "이렇게 예약해요!",
+      "sections": [
+        {
+          "heading": "1. 예약 4단계",
+          "color": "yellow",
+          "lines": [
+            "① 프로필 bio 링크로 <em>온라인 예약</em>.",
+            "② 편한 <em>클리닉</em>을 골라요.",
+            "③ 치료사와 <em>시간</em>을 선택해요.",
+            "④ 의뢰서·스캔·<em>클레임 정보</em> 챙기기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP 먼저",
+          "color": "purple",
+          "lines": [
+            "<em>열이 나거나</em> 갑자기 심하게 아프면,",
+            "예약 전에 <em>GP나 응급실</em>로 가요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "어디서든 <em>평가가 먼저</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이럴 땐 확인받기 좋아요",
+      "items": [
+        "2주 넘게 불편하다",
+        "팔·다리가 저리다",
+        "일상이 힘들어졌다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "채스우드와 시드니 CBD, 하이브리드 피지오는 두 곳에서 같은 팀으로 함께해요.\n\n채스우드(Level 1, 38B Albert Ave)는 채스우드역에서 가까워 노스쇼어에 살거나 근처에서 일하는 분들께 편해요. 시드니 CBD(Suite 1102, 99 York St)는 윈야드역 근처라 시티 직장인이 업무 사이에 들르기 좋아요.\n\n물리치료사, 카이로프랙터, 필라테스 팀, 리메디얼 마사지 테라피스트가 한 팀으로 소통해요. 메디케어 만성질환 관리 플랜, NSW WorkCover, CTP, NDIS, DVA도 진료해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#채스우드",
+    "#시드니cbd",
+    "#시드니물리치료",
+    "#물리치료",
+    "#카이로프랙틱",
+    "#필라테스",
+    "#하이브리드피지오",
+    "#시드니",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydneyphysio",
+    "#physiotherapy"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 채스우드와 시드니 CBD 두 클리닉 소개, 한 팀으로 일하는 방식, 1분 예약 가이드.",
+  "story": {
+    "headline": "채스우드 & 시드니 CBD",
+    "body": "가까운 클리닉에서<br>같은 팀을 만나요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-31",
+  "created": "2026-12-31-5",
+  "status": "approved",
+  "review_warnings": []
+}

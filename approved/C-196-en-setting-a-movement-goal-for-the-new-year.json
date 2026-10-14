@@ -1,0 +1,131 @@
+{
+  "id": "C-196-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Setting a movement goal for the new year",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "New year, <em>one</em><br>movement goal",
+      "sub": "Skip the big resolution, with Momo and Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Start small!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "1 January, Momo's plan:<br><em>exercise every day!</em>",
+      "char": "cat_tired",
+      "bubble": "I said this<br>last year too..<br>will it stick?",
+      "bubble_type": "thought",
+      "note": "(last year's resolution lasted two weeks..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Happy new year,<br>Momo!"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Why do my goals<br>always fizzle out?"
+      },
+      "note": "Hybi suggested <mark>one small, specific goal</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Vague goals fade,<br><em>specific ones stick</em>",
+      "fact": "Deciding <em>what and when</em> beats \"get fit\" for sticking with it",
+      "left": {
+        "label": "Specific",
+        "char": "cat_happy",
+        "caption": "<b>30-min walk</b> weekdays,<br>2 strength sessions"
+      },
+      "right": {
+        "label": "Vague",
+        "char": "cat_tired",
+        "caption": "\"Get fit this year!\"<br><em>but how?</em>"
+      },
+      "quip": "Pick a level you can<br>do on a busy week!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute goal setter</b>",
+      "sub": "Grab a pen right now!",
+      "sections": [
+        {
+          "heading": "1. Four steps to a goal",
+          "color": "yellow",
+          "lines": [
+            "① Decide <em>what, when and how much</em>.",
+            "② Write down <em>why it matters</em> to you.",
+            "③ Plan a <em>10-minute version</em> for busy weeks.",
+            "④ Review it <em>once a month</em> and adjust."
+          ]
+        },
+        {
+          "heading": "2. Get checked before you start if…",
+          "color": "purple",
+          "lines": [
+            "You've had a long break or an <em>ongoing niggle</em>,",
+            "an <em>assessment</em> first can guide the plan."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Not sure <em>where to start</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth a check first if",
+      "items": [
+        "An old injury worries you",
+        "Exercise makes pain worse",
+        "You feel dizzy or breathless"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "New year, new resolution? Try one movement goal you'll actually keep.\n\n\"Get fit\" is hard to act on. \"Walk 30 minutes before work on weekdays\" or \"two strength sessions a week\" tells you exactly what to do. Write down why it matters, like keeping up with the kids or hiking a favourite track.\n\nStart smaller than you think, and plan a 10-minute version for busy weeks so the habit survives. Take a minute each month to review and adjust rather than giving up.\n\nIf you're coming back after a long break or have an ongoing niggle, an assessment first can help shape the plan. Our team at Hybrid Physio can help you set a realistic goal. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#newyeargoals",
+    "#newyear",
+    "#movement",
+    "#exercisehabits",
+    "#goalsetting",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydney",
+    "#physiotherapy",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat showing how to set one specific new year movement goal, specific versus vague goals, a 1-minute goal setter and when to get checked first.",
+  "story": {
+    "headline": "One movement goal for 2027",
+    "body": "What, when, how much.<br>Start small.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2026-12-30",
+  "created": "2026-12-30-4",
+  "status": "approved",
+  "review_warnings": []
+}
