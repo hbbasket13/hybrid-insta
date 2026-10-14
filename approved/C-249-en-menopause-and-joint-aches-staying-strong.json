@@ -1,0 +1,131 @@
+{
+  "id": "C-249-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Menopause and joint aches: staying strong",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's joints feel<br><em>stiffer lately</em>",
+      "sub": "Menopause and joint aches, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Strength can be<br>your friend!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Stiff fingers and knees<br><em>every morning</em>.",
+      "char": "koala_tired",
+      "bubble": "Should I just rest<br>more at my age..?",
+      "bubble_type": "thought",
+      "note": "(it seems to have started around menopause..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>How are the joints?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Achy.. is it OK<br>to exercise?"
+      },
+      "note": "Hybi decided to explain <mark>why strength matters</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't just rest:<br><em>build strength!</em>",
+      "fact": "Research suggests strength work helps keep <em>muscle and bone</em>",
+      "left": {
+        "label": "Strength work",
+        "char": "koala_happy",
+        "caption": "2–3 times a week,<br><b>building slowly</b>"
+      },
+      "right": {
+        "label": "Rest only",
+        "char": "koala_tired",
+        "caption": "Moving less can<br><em>leave you stiffer</em>"
+      },
+      "quip": "Start light,<br>build gradually!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute strength starter</b>",
+      "sub": "Start at home today!",
+      "sections": [
+        {
+          "heading": "1. Three basic moves",
+          "color": "yellow",
+          "lines": [
+            "① Sit to stand from a chair, <em>10 reps</em>.",
+            "② Wall push-ups, <em>10 reps</em>.",
+            "③ Band rows, <em>10 reps</em>.",
+            "④ <em>2–3 times a week</em>, adding a little over weeks."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "A joint is <em>hot and swollen</em>, or you have a",
+            "fever or feel unwell — stop and <em>see your GP</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Joints still<br><em>bothering you?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A hot, swollen joint",
+        "Pain after a fall",
+        "Pain waking you every night"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko's fingers and knees feel stiff every morning lately. Many women notice more joint aches around menopause, as hormone changes can affect muscles, tendons and joints.\n\nResearch suggests strength training is one of the most useful tools at this stage, helping to maintain muscle and bone. Start with sit to stands from a chair, wall push-ups and band rows, 2–3 times a week, and build gradually. Keep walking and look after your sleep too.\n\nA hot, swollen joint or aches with fever need your GP, and your GP is the place for broader menopause care. Our Chatswood and Sydney CBD physios can build a program that fits your life. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#menopause",
+    "#jointpain",
+    "#strengthtraining",
+    "#womenshealth",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#healthyageing"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining joint aches around menopause, why strength training helps, three basic home exercises and signs worth getting checked.",
+  "story": {
+    "headline": "Menopause aches? Build strength",
+    "body": "Sit to stand, 10 reps,<br>2–3 times a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-20",
+  "created": "2027-01-20-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-266-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain at the back of the heel from shoes",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "새 구두 신은 거북씨,<br><em>뒤꿈치가 아픈 이유</em>",
+      "sub": "하비와 함께 알아보는 뒤꿈치 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "신발부터<br>볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "여름 샌들 대신<br><em>딱딱한 새 구두</em>로 출근.",
+      "char": "turtle_sad",
+      "bubble": "왜 뒤꿈치가<br>이렇게<br>쓰라리지..?",
+      "bubble_type": "thought",
+      "note": "(퇴근길엔 뒤꿈치 위가 욱신욱신..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>뒤꿈치가 아프구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 종아리 스트레칭을<br>세게 하면 될까요?"
+      },
+      "note": "하비는 먼저 <mark>신발 뒤축</mark>을 살펴보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "범인은 <em>신발 뒤축</em>일 수<br>있어요!",
+      "fact": "딱딱하고 높은 뒤축이 <em>아킬레스 아래쪽</em>을 누를 수 있어요",
+      "left": {
+        "label": "부드러운 뒤축",
+        "char": "turtle_happy",
+        "caption": "누르는 힘이 줄어<br>뒤꿈치가 <b>편해요</b>"
+      },
+      "right": {
+        "label": "딱딱한 뒤축",
+        "char": "turtle_sad",
+        "caption": "같은 곳을<br><em>계속 눌러요</em>"
+      },
+      "quip": "신발부터 바꿔보는 게<br>첫걸음이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 뒤꿈치 관리</b>",
+      "sub": "출근 전에 챙겨봐요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 해봐요",
+          "color": "yellow",
+          "lines": [
+            "① 1~2주는 <em>뒤축이 부드러운</em> 신발로.",
+            "② 아픈 곳 주변에 <em>패드</em>를 대요.",
+            "③ <em>작은 힐 리프트</em>로 압박을 줄여봐요.",
+            "④ 평지 <em>까치발 들기 10회</em>, 천천히 늘려요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "계단 끝에서 <em>뒤꿈치 떨어뜨리는</em> 스트레칭은",
+            "아픈 곳을 <em>더 누를 수</em> 있어요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "혹이 점점 커진다",
+        "붉고 열감이 있다",
+        "걸음걸이가 달라졌다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "샌들 대신 딱딱한 새 구두로 출근한 거북씨. 며칠 만에 뒤꿈치 위쪽이 욱신거려요.\n\n딱딱하거나 높은 뒤축은 뒤꿈치 뒤와 아킬레스 아래쪽을 누를 수 있어요. 특히 새 신발이거나 샌들에서 구두로 바꿨을 때 그래요.\n\n1~2주는 뒤축이 부드러운 신발로 바꾸고, 아픈 곳 주변에 패드를 대고, 작은 힐 리프트를 써보세요. 계단 끝에서 하는 깊은 종아리 스트레칭보다 평지 까치발 들기가 보통 더 나은 시작이에요.\n\n혹이 커지거나, 붉고 열감이 있거나, 걸음이 달라지면 평가가 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#뒤꿈치통증",
+    "#아킬레스",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#heelpain",
+    "#footcare"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 신발 뒤축 때문에 생기는 뒤꿈치 통증, 부드러운 뒤축 비교, 1분 뒤꿈치 관리, 확인이 필요한 신호.",
+  "story": {
+    "headline": "새 신발에 뒤꿈치가 아프다면?",
+    "body": "뒤축이 부드러운<br>신발부터 바꿔봐요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-28",
+  "created": "2027-01-28-5",
+  "status": "approved",
+  "review_warnings": []
+}

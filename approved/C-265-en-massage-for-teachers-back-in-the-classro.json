@@ -1,0 +1,131 @@
+{
+  "id": "C-265-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for teachers back in the classroom",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's back in the<br>classroom, and <em>so is the ache</em>",
+      "sub": "A teacher's term-one story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's look after<br>you this term!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Teaching this term,<br>Mr Turtle <em>stands all day</em>.",
+      "char": "turtle_sad",
+      "bubble": "Only a few weeks<br>in and my back<br>already knows it..",
+      "bubble_type": "thought",
+      "note": "(then marking on the couch every night..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Term's started?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yep.. would a massage<br>help at all?"
+      },
+      "note": "Hybi explained <mark>where massage fits</mark> for teachers."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage plus <em>small habits</em><br>work as a team!",
+      "fact": "Remedial massage can help <em>ease muscle tightness</em>",
+      "left": {
+        "label": "Crouch beside",
+        "char": "turtle_happy",
+        "caption": "Sit beside students,<br>back <b>bends less</b>"
+      },
+      "right": {
+        "label": "Bend over desks",
+        "char": "turtle_sad",
+        "caption": "Low desks keep the<br>back <em>holding on</em>"
+      },
+      "quip": "Massage complements,<br>not replaces, movement!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute classroom habits</b>",
+      "sub": "Easy wins between lessons!",
+      "sections": [
+        {
+          "heading": "1. Swap these in",
+          "color": "yellow",
+          "lines": [
+            "① <em>Crouch or sit</em> beside students, don't bend over.",
+            "② Standing? Rest <em>one foot on a low step</em>.",
+            "③ Mark <em>at a table</em>, not hunched on the couch.",
+            "④ Each break: <em>10 calf raises</em>."
+          ]
+        },
+        {
+          "heading": "2. See a physio or GP instead if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>wakes you</em>, <em>spreads</em> down a limb",
+            "or comes with <em>numbness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em> by Friday?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain that wakes you",
+        "Pain spreading or numbness",
+        "Building despite rest"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle is teaching this term, and a few weeks in, his calves and back already know it.\n\nStanding at the board, bending over low desks, carrying tubs of books and marking hunched at home all add up. Calves, lower back, neck and shoulders usually feel it first.\n\nRemedial massage can ease that tightness and help you feel less stiff by Friday. It works well alongside small habits: crouch beside students, rest a foot on a low step when standing, and mark at a table.\n\nPain that wakes you, spreads down a limb or comes with numbness is worth a physio or GP assessment instead. Our remedial massage therapists at Hybrid Physio can help through term one. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sydneymassage",
+    "#teacherlife",
+    "#teachersofinstagram",
+    "#backpain",
+    "#calfpain",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#selfcare",
+    "#sydney",
+    "#physiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle as a teacher, explaining where term-one aches come from, massage alongside habits, 1-minute classroom habits and signs worth getting checked.",
+  "story": {
+    "headline": "Back on your feet all term?",
+    "body": "Crouch beside students,<br>don't bend over.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-28",
+  "created": "2027-01-28-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-267-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Wrist fracture: rehab after the cast comes off",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "깁스를 푼 코코,<br>손목이 <em>왜 이렇게 뻣뻣할까?</em>",
+      "sub": "하비와 함께 알아보는 손목 재활",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "다시 움직여<br>볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "6주 만에 깁스를 풀었는데<br>손목이 <em>내 것 같지 않다</em>.",
+      "char": "koala_tired",
+      "bubble": "왜 이렇게<br>안 굽혀지지..?",
+      "bubble_type": "thought",
+      "note": "(살짝 붓고 힘도 하나도 없다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>의<br>하비를 찾아갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>깁스 풀었구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 이렇게 뻣뻣한 게<br>정상이에요?"
+      },
+      "note": "하비는 <mark>깁스 후 흔한 느낌</mark>부터 알려주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "뻣뻣하고 약한 건<br>보통 <em>자연스러워요</em>!",
+      "fact": "몇 주 가만히 있던 관절과 근육은 <em>천천히 다시</em> 써야 해요",
+      "left": {
+        "label": "조금씩 자주",
+        "char": "koala_happy",
+        "caption": "하루 여러 번 움직이면<br>보통 <b>더 편해요</b>"
+      },
+      "right": {
+        "label": "한 번에 많이",
+        "char": "koala_tired",
+        "caption": "몰아서 하면<br><em>더 시큰할 수</em> 있어요"
+      },
+      "quip": "속도는 사람마다 달라요.<br>담당 의사 계획대로!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 손목 깨우기</b>",
+      "sub": "담당 의사 허락 후에 해요!",
+      "sections": [
+        {
+          "heading": "1. 하루 3~4번",
+          "color": "yellow",
+          "lines": [
+            "① 손목 <em>위아래로 천천히</em> 굽히기 × 10회.",
+            "② 팔꿈치 붙이고 <em>손바닥 뒤집기</em> × 10회.",
+            "③ 손가락 <em>쫙 폈다 주먹</em> 쥐기 × 10회.",
+            "&nbsp;&nbsp;&nbsp;(따뜻한 물에서 하면 더 편해요!)"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 담당 의사에게!",
+          "color": "purple",
+          "lines": [
+            "통증·붓기가 <em>점점 심해지거나</em>,",
+            "<em>저림</em>이나 손 색깔·온도가 변한다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>바로 연락</em>해요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "통증·붓기가 늘어난다",
+        "저리고 따끔거린다",
+        "손 색이나 온도가 변했다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "6주 만에 깁스를 푼 코코. 손목이 뻣뻣하고, 살짝 붓고, 힘도 없어요.\n\n몇 주 가만히 있던 관절과 근육은 보통 이래요. 골절마다 다르니 무엇을 언제 할지는 담당 의사의 계획이 먼저예요.\n\n허락을 받으면 손목 굽히기, 손바닥 뒤집기, 주먹 쥐기 같은 쉬운 움직임을 하루 여러 번 조금씩. 따뜻한 물에서 하면 더 편할 수 있어요. 이후 쥐기, 가벼운 무게, 손 짚기로 천천히 늘려가요.\n\n통증·붓기가 늘거나 저림, 손 색이나 온도 변화가 있으면 담당 의사나 골절 클리닉에 연락하세요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#손목골절",
+    "#손목재활",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#깁스",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#wristfracture",
+    "#rehab"
+  ],
+  "alt_text": "하비와 코알라 코코가 등장하는 7장짜리 만화 카드뉴스: 깁스를 푼 뒤 손목이 뻣뻣한 이유, 조금씩 자주 움직이기, 1분 손목 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "깁스 풀고 손목이 뻣뻣하다면?",
+    "body": "조금씩 자주,<br>담당 의사 계획대로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-28",
+  "created": "2027-01-28-3",
+  "status": "approved",
+  "review_warnings": []
+}

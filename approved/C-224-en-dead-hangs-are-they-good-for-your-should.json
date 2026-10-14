@@ -1,0 +1,131 @@
+{
+  "id": "C-224-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Dead hangs: are they good for your shoulders?",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Dead hangs: good for<br>Lulu's <em>shoulders</em>?",
+      "sub": "What hanging can do, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's start<br>sensibly!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Dead-hang challenges<br>all over <em>the feed</em>.",
+      "char": "kanga_tired",
+      "bubble": "Should I try a<br>1-minute hang..?<br>My shoulders though..",
+      "bubble_type": "thought",
+      "note": "(Lulu uses those arms on site all day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Keen to try hangs?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. are they really<br>good for shoulders?"
+      },
+      "note": "Hybi decided to show <mark>how to start sensibly</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Start with your<br><em>feet supported</em>!",
+      "fact": "Research on hangs is <em>limited</em> · one tool, not a reset",
+      "left": {
+        "label": "Feet on a box",
+        "char": "kanga_happy",
+        "caption": "Toes on a box,<br><b>10–20 sec</b> to start"
+      },
+      "right": {
+        "label": "1 min, day one",
+        "char": "kanga_tired",
+        "caption": "Too long too soon can<br><em>overload the shoulder</em>"
+      },
+      "quip": "Build time gradually<br>over several weeks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first dead hang</b>",
+      "sub": "Read before you hang!",
+      "sections": [
+        {
+          "heading": "1. Supported hang",
+          "color": "yellow",
+          "lines": [
+            "① Toes on a box, <em>take some weight</em> through legs.",
+            "② Hang <em>10–20 sec</em>, a few sets.",
+            "③ Build time gradually over several weeks.",
+            "④ Mix in <em>active hangs</em>: shoulder blades down."
+          ]
+        },
+        {
+          "heading": "2. Hold off and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>lingers</em> after hanging, or your",
+            "hand gets <em>pins and needles</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check <em>before</em> you hang",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get assessed first if you have",
+      "items": [
+        "A recent dislocation",
+        "Pins and needles in the hand",
+        "An unstable-feeling shoulder"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Dead hangs are all over Lulu's feed. Are they actually good for your shoulders?\n\nFor many people, hanging from a bar is a handy way to build grip strength and get used to having the arms overhead. Research on hangs specifically is limited, though, so treat them as one useful tool rather than a shoulder reset.\n\nStart with your toes on a box so your legs take some weight, hang for 10 to 20 seconds for a few sets, and build time over several weeks. Mix passive hangs with active ones where you draw the shoulder blades down. Lingering pain, a recent dislocation or tingling into the hand are reasons to get assessed first.\n\nOur Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#deadhang",
+    "#shoulderhealth",
+    "#shoulderpain",
+    "#gymtips",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#strengthtraining",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on whether dead hangs suit your shoulders, starting with feet supported, a gradual plan and reasons to get assessed first.",
+  "story": {
+    "headline": "New to dead hangs?",
+    "body": "Toes on a box,<br>10–20 seconds to start.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-11",
+  "created": "2027-01-11-2",
+  "status": "approved",
+  "review_warnings": []
+}

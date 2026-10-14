@@ -1,0 +1,131 @@
+{
+  "id": "C-267-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Wrist fracture: rehab after the cast comes off",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's cast is off.<br>So why is the <em>wrist so stiff</em>?",
+      "sub": "A post-fracture rehab story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's get it<br>moving again!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Six weeks in a cast,<br>and the wrist <em>feels foreign</em>.",
+      "char": "koala_tired",
+      "bubble": "Why won't it<br>bend properly..?",
+      "bubble_type": "thought",
+      "note": "(a bit puffy, and weaker than expected..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko went to see Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Cast just came off?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. is it normal<br>to feel this stiff?"
+      },
+      "note": "Hybi explained <mark>what's normal after a cast</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Stiff and weak is<br>usually <em>expected</em>!",
+      "fact": "Joints kept still for weeks need <em>gradual loading</em> again",
+      "left": {
+        "label": "Little and often",
+        "char": "koala_happy",
+        "caption": "Short goes all day,<br>usually <b>feels easier</b>"
+      },
+      "right": {
+        "label": "One big session",
+        "char": "koala_tired",
+        "caption": "Too much at once<br>can <em>flare it up</em>"
+      },
+      "quip": "Everyone's pace differs.<br>Follow your doctor's plan!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute wrist wake-up</b>",
+      "sub": "Only once your doctor clears it!",
+      "sections": [
+        {
+          "heading": "1. Three to four times a day",
+          "color": "yellow",
+          "lines": [
+            "① Bend the wrist <em>up and down slowly</em> × 10.",
+            "② Elbow tucked, <em>turn palm up and down</em> × 10.",
+            "③ <em>Spread fingers, then make a fist</em> × 10.",
+            "&nbsp;&nbsp;&nbsp;(warm water can make it feel easier!)"
+          ]
+        },
+        {
+          "heading": "2. Contact your doctor if…",
+          "color": "purple",
+          "lines": [
+            "Pain or swelling <em>keeps increasing</em>, or",
+            "<em>numbness</em> or hand colour changes appear."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to <em>call your doctor</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain or swelling increasing",
+        "Pins and needles",
+        "Hand colour or temp changes"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko's cast came off after six weeks, and the wrist feels stiff, a bit puffy and weaker than expected.\n\nThat's usually normal. The joint and muscles have been still for a while and need gradual loading again. Every fracture is different, so your treating doctor's plan sets what you do and when.\n\nOnce cleared, gentle wrist bends, forearm turns and finger movements through the day are a good start. Little and often tends to beat one big session. Later, rehab builds grip, light weights and pushing through the hand.\n\nIncreasing pain or swelling, pins and needles, or colour or temperature changes mean contacting your doctor or fracture clinic. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#wristfracture",
+    "#fracturerehab",
+    "#handtherapy",
+    "#rehab",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#healthyageing",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why a wrist feels stiff after a cast, little-and-often movement, a 1-minute wrist routine and signs worth checking with a doctor.",
+  "story": {
+    "headline": "Cast off, wrist still stiff?",
+    "body": "Little and often,<br>on your doctor's plan.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-28",
+  "created": "2027-01-28-6",
+  "status": "approved",
+  "review_warnings": []
+}

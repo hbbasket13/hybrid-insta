@@ -1,0 +1,131 @@
+{
+  "id": "C-253-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Yoga with a sore back: what to know",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Sore back today:<br><em>yoga or skip it?</em>",
+      "sub": "Yoga with a sore back, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "A few tweaks<br>can help!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo hesitates<br>at the <em>yoga mat</em>.",
+      "char": "cat_tired",
+      "bubble": "My back is stiff..<br>should I skip today..?",
+      "bubble_type": "thought",
+      "note": "(forward folds pull on the lower back..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Momo!<br>Back feeling stiff?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. should I<br>stop yoga for now?"
+      },
+      "note": "Hybi decided to share <mark>a simple pain rule</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't skip it,<br><em>adapt it</em>!",
+      "fact": "Mild discomfort that settles <em>within a day</em> is usually OK",
+      "left": {
+        "label": "Adapted poses",
+        "char": "cat_happy",
+        "caption": "Bent knees, blocks,<br><b>smaller range</b>"
+      },
+      "right": {
+        "label": "Pushing through",
+        "char": "cat_tired",
+        "caption": "Holding on through<br><em>sharp pain</em>"
+      },
+      "quip": "Worse next morning?<br>Scale that pose back!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute yoga swaps</b>",
+      "sub": "Try these in your next class!",
+      "sections": [
+        {
+          "heading": "1. Back-friendly options",
+          "color": "yellow",
+          "lines": [
+            "① Forward folds with <em>bent knees</em> and blocks.",
+            "② Swap big backbends for a <em>small sphinx</em>.",
+            "③ Child's pose with a <em>pillow under the chest</em>.",
+            "④ <em>Tell your teacher</em> before class starts."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em>, numbness or weakness:",
+            "get checked. Bladder/bowel changes: <em>doctor now</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still<br><em>bothering you?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Numbness or weakness",
+        "Worsening week to week"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo's back is stiff and she's wondering whether to skip yoga. For most everyday back pain, gentle movement tends to help more than rest, and yoga is easy to slow down and adapt.\n\nA simple rule: mild discomfort that settles within a day is usually fine. Sharp pain in a pose, or feeling clearly worse next morning, means scale that pose back next time. Try forward folds with bent knees and blocks, a small sphinx instead of big backbends, and child's pose with a pillow under your chest.\n\nLeg pain, numbness or weakness are worth an assessment, and any bladder or bowel change needs a doctor straight away. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#yoga",
+    "#backpain",
+    "#lowbackpain",
+    "#yogamodifications",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining how to keep doing yoga with a sore back, a simple pain rule, back-friendly pose swaps and signs worth getting checked.",
+  "story": {
+    "headline": "Sore back? Adapt your yoga",
+    "body": "Bent knees, blocks<br>and a smaller range.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-22",
+  "created": "2027-01-22-4",
+  "status": "approved",
+  "review_warnings": []
+}

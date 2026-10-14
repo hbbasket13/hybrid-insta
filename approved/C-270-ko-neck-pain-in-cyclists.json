@@ -1,0 +1,131 @@
+{
+  "id": "C-270-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Neck pain in cyclists",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "자전거 탄 뒤 토토의<br><em>목이 뻐근한 이유</em>",
+      "sub": "하비와 함께 알아보는 사이클 목 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "자전거 자세,<br>같이 볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말마다 <em>장거리 라이딩</em>,<br>집에 오면 목이 뻣뻣.",
+      "char": "rabbit_tired",
+      "bubble": "달릴 땐 좋은데<br>왜 목만<br>이러지..?",
+      "bubble_type": "thought",
+      "note": "(어깨 너머로 뒤를 돌아보기도 힘들다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>라이딩 후 목이 뻐근해?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "응.. 자전거를<br>줄여야 하나?"
+      },
+      "note": "하비는 먼저 <mark>자전거 위 자세</mark>를 보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "자전거 위에서 목은<br><em>계속 일하고</em> 있어요!",
+      "fact": "자세가 <em>낮을수록</em> 목 뒤 근육이 더 열심히 일해요",
+      "left": {
+        "label": "자세 바꾸기",
+        "char": "rabbit_happy",
+        "caption": "손 위치를 바꿔주면<br>목이 <b>나눠서 버텨요</b>"
+      },
+      "right": {
+        "label": "한 자세 고정",
+        "char": "rabbit_tired",
+        "caption": "낮게 오래 있으면<br>목이 <em>계속 버텨요</em>"
+      },
+      "quip": "자전거를 줄이기보다<br>세팅부터 봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 라이딩 목 관리</b>",
+      "sub": "다음 라이딩부터 바로!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 해봐요",
+          "color": "yellow",
+          "lines": [
+            "① 후드·탑·드롭으로 <em>손 위치를 자주</em> 바꿔요.",
+            "② 한산한 구간에선 <em>상체를 세우고</em> 목 돌리기.",
+            "③ 핸들이 너무 낮거나 멀면 <em>세팅 점검</em>.",
+            "④ 쉬는 날 <em>턱 당기기·로우</em>, 주 2회."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인받기!",
+          "color": "purple",
+          "lines": [
+            "<em>사고·낙차 후</em> 목이 아프거나,",
+            "팔이 <em>저리고 힘이 빠지면</em> 바로 평가!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>뻐근하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔로 통증이 퍼진다",
+        "손에 힘이 빠진다",
+        "두통이 점점 심해진다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "주말마다 장거리 라이딩을 즐기는 토토. 그런데 집에 오면 목이 뻣뻣해요.\n\n자전거 위에서 목은 앞을 보려고 몇 시간이고 머리를 들고 있어요. 자세가 낮을수록 목 뒤 근육이 더 열심히 일하죠.\n\n핸들이 너무 멀거나 낮으면 세팅을 점검하고, 후드·탑·드롭으로 손 위치를 자주 바꾸고, 한산한 구간에선 상체를 세워 목을 살살 돌려요. 쉬는 날엔 턱 당기기와 로우를 주 2회.\n\n팔로 퍼지는 통증, 저림, 손 힘 빠짐, 점점 심해지는 두통, 낙차 후 목 통증은 평가가 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐰\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#사이클",
+    "#목통증",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#자전거",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#cycling",
+    "#neckpain"
+  ],
+  "alt_text": "하비와 토끼 토토가 등장하는 7장짜리 만화 카드뉴스: 자전거 탈 때 목이 뻐근한 이유, 자세 바꾸기 비교, 1분 라이딩 목 관리, 확인이 필요한 신호.",
+  "story": {
+    "headline": "라이딩 후 목이 뻐근하다면?",
+    "body": "손 위치를 자주<br>바꿔봐요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-29",
+  "created": "2027-01-29-3",
+  "status": "approved",
+  "review_warnings": []
+}

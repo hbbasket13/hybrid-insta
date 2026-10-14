@@ -1,0 +1,131 @@
+{
+  "id": "C-220-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Festivals and concerts: hours on your feet",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "공연 다음 날,<br><em>허리가 뻐근</em>한 모모",
+      "sub": "하비와 알아보는 오래 서 있기 요령",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "다음 공연은<br>편하게 즐겨요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "페스티벌에서<br><em>몇 시간째</em> 서 있는 모모.",
+      "char": "cat_tired",
+      "bubble": "춤출 땐 괜찮았는데<br>왜 허리랑 발이..?",
+      "bubble_type": "thought",
+      "note": "(다음 날 아침, 허리와 발바닥이 묵직..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>공연 재밌었어요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 근데 춤보다<br>서 있는 게 더 힘들어요"
+      },
+      "note": "하비는 <mark>서 있기의 함정</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "가만히 서 있는 게<br><em>더 힘들어요!</em>",
+      "fact": "걸으면 하중이 분산, <em>서 있으면 같은 근육만</em>",
+      "left": {
+        "label": "체중 옮기기",
+        "char": "cat_happy",
+        "caption": "몇 분마다 체중을 옮기면<br>근육이 <b>잠깐 쉬어요</b>"
+      },
+      "right": {
+        "label": "한 자세로 쭉",
+        "char": "cat_tired",
+        "caption": "같은 근육만 계속 일해<br><em>허리·발이 지쳐요</em>"
+      },
+      "quip": "흔들흔들, 자주<br>움직여 주세요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>공연장 생존 요령</b>",
+      "sub": "다음 공연 전에 체크해요!",
+      "sections": [
+        {
+          "heading": "1. 공연 날엔 이렇게",
+          "color": "yellow",
+          "lines": [
+            "① <em>몇 분마다</em> 앞뒤로 체중을 살짝 옮겨요.",
+            "② 길들인 <em>쿠션 있는 운동화</em> 신기.",
+            "③ 가방은 가볍게, 세트 사이엔 <em>앉아 쉬기</em>.",
+            "④ 다음 날엔 소파보다 <em>가벼운 산책</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "뻐근함이 <em>며칠 넘게</em> 계속되거나",
+            "다리 저림이 함께 오면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "며칠째 <em>뻐근하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "며칠 지나도 그대로다",
+        "다리가 저리거나 당긴다",
+        "통증이 점점 심해진다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "공연 내내 신나게 놀고, 다음 날 허리와 발이 묵직한 모모. 범인은 춤보다 '가만히 서 있기'일 수 있어요.\n\n걸을 땐 하중이 여기저기 나뉘지만, 한자리에 오래 서 있으면 같은 근육만 계속 일해요. 몇 분마다 체중을 옮기고, 길들인 쿠션 운동화를 신고, 가방은 가볍게, 세트 사이엔 앉아서 쉬어요. 다음 날 뻐근함은 보통 하루 이틀이면 풀리고, 가벼운 산책이 도움이 될 수 있어요.\n\n며칠이 지나도 그대로라면 하이브리드 피지오 카이로프랙터에게 확인받아요. 프로필 링크에서 온라인 예약 🎶\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#페스티벌",
+    "#공연",
+    "#허리통증",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#chiropractic",
+    "#sydneychiro",
+    "#chatswood",
+    "#festivalseason"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 공연에서 오래 서 있으면 허리와 발이 지치는 이유, 체중 옮기기 비교, 공연장 요령, 확인이 필요한 신호.",
+  "story": {
+    "headline": "공연 다음 날 허리 뻐근?",
+    "body": "몇 분마다 체중 옮기고<br>세트 사이엔 앉기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-09",
+  "created": "2027-01-09-1",
+  "status": "approved",
+  "review_warnings": []
+}

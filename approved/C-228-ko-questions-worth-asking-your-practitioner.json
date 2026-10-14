@@ -1,0 +1,131 @@
+{
+  "id": "C-228-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Questions worth asking your practitioner",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "진료실에서<br><em>물어보면 좋은 질문</em>",
+      "sub": "하비와 알아보는 진료실 질문 리스트",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "궁금한 건<br>다 물어봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "진료 끝나고 집에 와서<br><em>생각난 질문들</em>..",
+      "char": "koala_tired",
+      "bubble": "그때 물어볼걸..<br>이 운동 왜 하지..?",
+      "bubble_type": "thought",
+      "note": "(설명 들을 땐 고개만 끄덕였던 코코..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>궁금한 게 많구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 이런 거<br>물어봐도 돼요?"
+      },
+      "note": "하비는 <mark>물어보면 좋은 질문</mark>을 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "이유를 알면<br><em>운동이 쉬워져요!</em>",
+      "fact": "<em>왜</em> 하는지 알면 운동이 더 와닿을 수 있어요",
+      "left": {
+        "label": "물어보기",
+        "char": "koala_happy",
+        "caption": "계획이 <b>더 명확해지고</b><br>꾸준히 하기 쉬워요"
+      },
+      "right": {
+        "label": "끄덕끄덕",
+        "char": "koala_tired",
+        "caption": "집에 가면<br><em>헷갈릴 수 있어요</em>"
+      },
+      "quip": "질문은 휴대폰에<br>미리 적어 와요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>진료실 질문 4가지</b>",
+      "sub": "다음 예약 전에 적어봐요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 물어보세요",
+          "color": "yellow",
+          "lines": [
+            "① <em>지금 무슨 일</em>이 생긴 걸까요?",
+            "② 계속해도 되는 것, <em>줄일 것</em>은요?",
+            "③ 좋아지는 걸 <em>뭘로 확인</em>할까요?",
+            "④ 대략 <em>얼마나</em> 걸리고, 언제 다시 볼까요?"
+          ]
+        },
+        {
+          "heading": "2. 갑자기 심해지면?",
+          "color": "purple",
+          "lines": [
+            "<em>심해질 때 할 일</em>과",
+            "언제 연락하면 좋을지 미리 물어보기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>바로 연락해요</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "새로운 증상이 생겼다",
+        "통증이 점점 심해진다",
+        "계획대로 해도 그대로다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "진료 땐 고개만 끄덕이다가, 집에 와서야 질문이 떠오르는 코코. 좋은 질문은 계획을 더 명확하고 꾸준히 하기 쉽게 만들어요.\n\n물어보면 좋은 질문: 지금 무슨 일이 생긴 걸까요? 계속해도 되는 것과 줄일 것은요? 좋아지는 걸 뭘로 확인할까요? 대략 얼마나 걸리고 언제 다시 볼까요? 그리고 갑자기 심해지면 뭘 하고 언제 연락할지도요.\n\n어려운 용어는 쉬운 말로 다시 물어봐도 괜찮아요. 휴대폰에 미리 적어 오면 편해요. 하이브리드 피지오 팀은 언제든 질문을 환영해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#진료팁",
+    "#물리치료",
+    "#건강상식",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#카이로프랙틱",
+    "#physiotherapy",
+    "#patienttips",
+    "#chatswood",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 진료실에서 물어보면 좋은 질문 4가지, 질문하기 비교, 심해질 때 대처, 바로 연락이 필요한 신호.",
+  "story": {
+    "headline": "진료실에서 이건 물어봐요",
+    "body": "질문은 휴대폰에<br>미리 적어 오기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-12",
+  "created": "2027-01-12-3",
+  "status": "approved",
+  "review_warnings": []
+}

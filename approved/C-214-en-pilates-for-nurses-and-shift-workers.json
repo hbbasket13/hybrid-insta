@@ -1,0 +1,131 @@
+{
+  "id": "C-214-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for nurses and shift workers",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's on rotating shifts:<br><em>no time to train!</em>",
+      "sub": "Pilates that fits around shift work",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's fit it<br>to your roster!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Early starts, night shifts,<br><em>on her feet</em> all day.",
+      "char": "kanga_tired",
+      "bubble": "I can never make<br>the same class<br>each week..",
+      "bubble_type": "thought",
+      "note": "(and after nights, everything feels heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Roster all over the place?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Can I still keep<br>up with exercise?"
+      },
+      "note": "Hybi showed how to <mark>work with your roster</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It doesn't need<br>to be the <em>same day</em>",
+      "fact": "<em>Two sessions</em> in a seven-day stretch is a good start",
+      "left": {
+        "label": "Two per week",
+        "char": "kanga_happy",
+        "caption": "Slotted into days off<br>or <b>before late starts</b>"
+      },
+      "right": {
+        "label": "All or nothing",
+        "char": "kanga_tired",
+        "caption": "Can't make Tuesday,<br><em>skip the week</em>"
+      },
+      "quip": "Small and regular<br>keeps the habit going!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>shift-worker Pilates plan</b>",
+      "sub": "Check your roster and slot it in!",
+      "sections": [
+        {
+          "heading": "1. Fit it to your shifts",
+          "color": "yellow",
+          "lines": [
+            "① Aim for <em>2 sessions</em> in any 7-day stretch.",
+            "② After nights, go <em>lighter</em>: mobility, breath.",
+            "③ Busy week? <em>5 minutes</em> at home: 10 bridges,",
+            "&nbsp;&nbsp;&nbsp;10 side-lying leg lifts, 5 cat-cows."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain when lifting or bending <em>keeps building</em>,",
+            "or your leg <em>tingles</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Back pain with every lift",
+        "Leg tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu works early starts and night shifts, on her feet all day. Making the same class every week just isn't happening.\n\nIt doesn't need to be the same day. Two sessions in any seven-day stretch is a good starting point, slotted into days off or before a later start. Pilates for the hips, trunk and upper back can help you feel more capable when lifting, pushing and turning.\n\nAfter a run of nights, a lighter session focused on mobility and breathing often suits better. On busy weeks, five minutes at home of bridges, side-lying leg lifts and cat-cows keeps the habit going.\n\nOur Pilates team at Hybrid Physio can build a program around your shifts. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#shiftwork",
+    "#nurses",
+    "#shiftworker",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#strength",
+    "#healthcareworkers",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu about Pilates for shift workers, two flexible sessions a week versus all-or-nothing, a roster-friendly plan and signs worth getting checked.",
+  "story": {
+    "headline": "Shift work? Pilates still fits",
+    "body": "Two sessions in any<br>7 days, lighter after nights.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-07",
+  "created": "2027-01-07-4",
+  "status": "approved",
+  "review_warnings": []
+}

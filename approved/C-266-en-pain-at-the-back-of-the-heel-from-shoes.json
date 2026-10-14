@@ -1,0 +1,131 @@
+{
+  "id": "C-266-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain at the back of the heel from shoes",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "New work shoes, and Mr Turtle's<br><em>heel is not happy</em>",
+      "sub": "A back-of-the-heel story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's start with<br>the shoes!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Sandals out,<br><em>stiff new shoes</em> in.",
+      "char": "turtle_sad",
+      "bubble": "Why does the back<br>of my heel sting<br>so much..?",
+      "bubble_type": "thought",
+      "note": "(by the commute home, it's really throbbing..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Heel giving you grief?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. should I stretch<br>my calves really hard?"
+      },
+      "note": "Hybi asked to look at <mark>the shoes</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "The culprit might be<br>the <em>heel counter</em>!",
+      "fact": "A firm, high heel counter can press on the <em>Achilles base</em>",
+      "left": {
+        "label": "Soft heel back",
+        "char": "turtle_happy",
+        "caption": "Less pressure,<br>heel feels <b>easier</b>"
+      },
+      "right": {
+        "label": "Stiff heel back",
+        "char": "turtle_sad",
+        "caption": "Keeps pressing on<br>the <em>same spot</em>"
+      },
+      "quip": "Changing the shoes<br>is often step one!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute heel care</b>",
+      "sub": "Sort it before work tomorrow!",
+      "sections": [
+        {
+          "heading": "1. Try this",
+          "color": "yellow",
+          "lines": [
+            "① Shoes with a <em>softer, lower back</em> for 1–2 weeks.",
+            "② <em>Pad around</em> the sore spot.",
+            "③ Try a <em>small heel lift</em> to ease the pressure.",
+            "④ <em>10 calf raises on flat ground</em>, build up slowly."
+          ]
+        },
+        {
+          "heading": "2. Skip this for now",
+          "color": "purple",
+          "lines": [
+            "Dropping your heel <em>off a step</em> to stretch",
+            "can <em>squeeze</em> the sore area."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> after the swap?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A lump that keeps growing",
+        "Redness and heat",
+        "Pain changing how you walk"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle swapped sandals for stiff new work shoes, and now his heel throbs by home time.\n\nA firm or high heel counter can press on the back of the heel and the base of the Achilles, especially in new shoes or after switching from sandals.\n\nWhat often helps: shoes with a softer or lower back for a while, padding around the sore spot and a small heel lift. Deep calf stretches off a step can squeeze the area, so flat-ground calf raises built up over a few weeks are usually a better start.\n\nA growing lump, redness and heat, or pain that changes how you walk is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#heelpain",
+    "#achilles",
+    "#footcare",
+    "#workshoes",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#officeworker",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining back-of-heel pain from stiff shoes, soft versus stiff heel counters, a 1-minute heel care routine and signs worth getting checked.",
+  "story": {
+    "headline": "New shoes rubbing your heel?",
+    "body": "Swap to a softer<br>heel back first.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-28",
+  "created": "2027-01-28-2",
+  "status": "approved",
+  "review_warnings": []
+}

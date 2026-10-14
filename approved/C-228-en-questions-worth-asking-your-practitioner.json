@@ -1,0 +1,131 @@
+{
+  "id": "C-228-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Questions worth asking your practitioner",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Questions worth<br>asking <em>your practitioner</em>",
+      "sub": "Clearer plans start with questions, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Ask me<br>anything!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Home after the visit,<br>and <em>the questions</em> arrive..",
+      "char": "koala_tired",
+      "bubble": "Why am I doing<br>this exercise<br>again..?",
+      "bubble_type": "thought",
+      "note": "(Koko nodded along in the session..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Got questions?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. is it okay<br>to ask all this?"
+      },
+      "note": "Hybi shared <mark>questions worth asking</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Knowing the why<br>makes it <em>easier to stick</em>!",
+      "fact": "Understanding <em>why</em> makes exercises make sense",
+      "left": {
+        "label": "Asking",
+        "char": "koala_happy",
+        "caption": "A <b>clearer plan</b>,<br>easier to follow"
+      },
+      "right": {
+        "label": "Just nodding",
+        "char": "koala_tired",
+        "caption": "Easy to get<br><em>confused at home</em>"
+      },
+      "quip": "Jot questions in<br>your phone first!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>4 smart questions</b>",
+      "sub": "Write them down before you go!",
+      "sections": [
+        {
+          "heading": "1. Try asking",
+          "color": "yellow",
+          "lines": [
+            "① What do you think is <em>going on</em>?",
+            "② What's fine to keep doing, and <em>ease back on</em>?",
+            "③ How will we <em>measure progress</em>?",
+            "④ Rough timeframe, and when do we review?"
+          ]
+        },
+        {
+          "heading": "2. Also ask: what if it flares?",
+          "color": "purple",
+          "lines": [
+            "What to scale back, and <em>when to call</em>",
+            "rather than wait it out."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get in touch <em>sooner</em> if",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Check in with us if you notice",
+      "items": [
+        "New symptoms appear",
+        "Pain keeps building",
+        "No change on the plan"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko nodded along in the session, then got home and the questions arrived. Good questions make your plan clearer and easier to stick to.\n\nTry asking: What do you think is going on? What's fine to keep doing, and what should I ease back on for now? How will we measure progress? What's a rough timeframe, and when do we review the plan?\n\nFlare-ups are common and usually settle, so ask what to scale back and when to get in touch rather than wait. If a term sounds like jargon, ask what it means.\n\nOur team at Hybrid Physio welcomes questions at every visit. Jot them in your phone before you arrive. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#patienttips",
+    "#healthliteracy",
+    "#chiropractic",
+    "#pilates",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydney",
+    "#healthtips",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko on four questions worth asking your practitioner, planning for flare-ups and when to get in touch sooner.",
+  "story": {
+    "headline": "Questions for your next visit",
+    "body": "Jot them in your phone<br>before you arrive.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-12",
+  "created": "2027-01-12-6",
+  "status": "approved",
+  "review_warnings": []
+}

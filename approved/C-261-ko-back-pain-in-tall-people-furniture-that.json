@@ -1,0 +1,131 @@
+{
+  "id": "C-261-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Back pain in tall people: furniture that fits",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "키 큰 루루의 허리가<br>자꾸 <em>뻐근한 이유</em>",
+      "sub": "하비와 함께 알아보는 가구 높이 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "가구부터<br>볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "책상도, 의자도, 차도<br>루루에겐 <em>너무 낮다</em>.",
+      "char": "kanga_tired",
+      "bubble": "하루 종일<br>몸을 접고 사는<br>기분이야..",
+      "bubble_type": "thought",
+      "note": "(주방 싱크대 앞에선 허리까지 묵직..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>허리가 뻐근하구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 키가 커서<br>어쩔 수 없나요?"
+      },
+      "note": "하비는 먼저 <mark>가구 높이</mark>부터 보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "가구가 <em>몸에 맞아야</em><br>허리가 편해요!",
+      "fact": "책상은 <em>팔꿈치 높이</em> 근처, 화면 위쪽은 눈높이 정도",
+      "left": {
+        "label": "맞춘 책상",
+        "char": "kanga_happy",
+        "caption": "높이를 올리면<br>허리가 <b>덜 숙여요</b>"
+      },
+      "right": {
+        "label": "낮은 책상",
+        "char": "kanga_tired",
+        "caption": "계속 숙이면<br>허리가 <em>오래 버텨요</em>"
+      },
+      "quip": "몸을 접지 말고<br>가구를 올려봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 키 큰 사람 세팅</b>",
+      "sub": "오늘 바로 바꿔봐요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 맞춰요",
+          "color": "yellow",
+          "lines": [
+            "① 책상 받침이나 <em>높이조절 책상</em>을 써요.",
+            "② 의자는 <em>엉덩이가 무릎보다 살짝 위</em>로.",
+            "③ 운전석은 <em>뒤로·아래로</em>, 등받이는 세워요.",
+            "④ 낮은 싱크대에선 <em>엉덩이부터 접어요</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인받기!",
+          "color": "purple",
+          "lines": [
+            "다리가 <em>저리거나 힘이 빠지거나</em>,",
+            "<em>대소변 변화</em>가 있으면 바로 진료받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리가 저리거나 약하다",
+        "몇 주째 점점 심해진다",
+        "대소변 조절이 달라졌다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "키가 커서 책상도, 의자도, 차도 늘 낮게 느껴지는 루루.\n\n낮은 책상, 짧은 의자, 좁은 운전석, 낮은 싱크대는 키 큰 사람을 하루 종일 숙이게 만들어요. 몸은 적응을 잘하지만 이런 부담이 쌓이면 허리가 뻐근해질 수 있어요.\n\n책상은 팔꿈치 높이 근처로 올리고, 화면은 눈높이로, 운전석은 뒤로·아래로. 낮은 싱크대에선 엉덩이부터 접어요.\n\n다리 저림·힘 빠짐, 대소변 변화가 있으면 바로 진료받으세요. 하이브리드 피지오 카이로프랙터가 자세 세팅과 운동을 함께 봐드려요. 프로필 링크에서 온라인 예약 🦘\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#카이로프랙틱",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#책상높이",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#ergonomics"
+  ],
+  "alt_text": "하비와 캥거루 루루가 등장하는 7장짜리 만화 카드뉴스: 키 큰 사람에게 가구가 낮을 때 생기는 허리 부담, 책상 높이 비교, 1분 세팅 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "키 커서 허리가 뻐근하다면?",
+    "body": "몸을 접지 말고<br>가구를 올려봐요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-25",
+  "created": "2027-01-25-3",
+  "status": "approved",
+  "review_warnings": []
+}

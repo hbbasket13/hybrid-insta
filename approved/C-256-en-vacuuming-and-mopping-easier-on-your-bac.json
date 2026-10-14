@@ -1,0 +1,131 @@
+{
+  "id": "C-256-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Vacuuming and mopping: easier on your back",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Vacuuming leaves<br>Koko's <em>back grumbling</em>",
+      "sub": "Easier cleaning for your back, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's tweak<br>a few things!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Big weekend clean,<br><em>vacuum and mop</em>.",
+      "char": "koala_tired",
+      "bubble": "Why is my back<br>so stiff after<br>every clean..?",
+      "bubble_type": "thought",
+      "note": "(long reaching strokes, leaning the whole time..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Koko!<br>Cleaning day again?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. should I<br>avoid bending?"
+      },
+      "note": "Hybi said it's <mark>the long stints</mark>, not the bending."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't reach,<br>keep it <em>close!</em>",
+      "fact": "Bending is fine; <em>long, unbroken stints</em> are the issue",
+      "left": {
+        "label": "Lunge stance",
+        "char": "koala_happy",
+        "caption": "Short strokes,<br><b>feet moving</b> too"
+      },
+      "right": {
+        "label": "Long reach",
+        "char": "koala_tired",
+        "caption": "Arms out,<br><em>leaning for ages</em>"
+      },
+      "quip": "One room done?<br>Take a break!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute cleaning setup</b>",
+      "sub": "Try it on your next clean!",
+      "sections": [
+        {
+          "heading": "1. Easier on the back",
+          "color": "yellow",
+          "lines": [
+            "① Short strokes <em>close to you</em>, feet following.",
+            "② One foot forward, <em>lunge stance</em>, shift weight.",
+            "③ Handle height with <em>elbows slightly bent</em>.",
+            "④ Break every <em>1–2 rooms</em>; swap front foot."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em>, numbness or weakness:",
+            "get checked. Bladder or bowel changes: <em>doctor now</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still<br><em>bothering you?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Numbness or weakness",
+        "Building over 1–2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko's back grumbles after every big clean. Usually it's not the bending itself. It's the long, reaching strokes and the unbroken stints.\n\nA few tweaks help. Take short strokes close to your body and walk with the vacuum. Use a lunge stance and shift your weight forward and back. Adjust the handle so you can stand taller with elbows slightly bent. Then break it up: one or two rooms, a quick walk or a cuppa, and swap your front foot.\n\nLeg pain, numbness, weakness or pain building over a week or two is worth an assessment, and any bladder or bowel change needs a doctor straight away. Our chiropractors can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#backpain",
+    "#lowbackpain",
+    "#housework",
+    "#cleaningtips",
+    "#sydneychiro",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#chiropractic",
+    "#everydaymovement"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko showing how short strokes, a lunge stance, the right handle height and regular breaks make vacuuming easier on the back, plus signs worth getting checked.",
+  "story": {
+    "headline": "Vacuuming hurts your back?",
+    "body": "Short strokes, close in,<br>break every 1–2 rooms.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-23",
+  "created": "2027-01-23-4",
+  "status": "approved",
+  "review_warnings": []
+}

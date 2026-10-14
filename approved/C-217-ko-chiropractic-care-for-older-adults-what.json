@@ -1,0 +1,131 @@
+{
+  "id": "C-217-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Chiropractic care for older adults: what to expect",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "카이로프랙틱이 처음인<br>코코, <em>무엇을 할까?</em>",
+      "sub": "어르신 카이로프랙틱, 미리 알아보기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "요즘 등이 뻣뻣해<br><em>손주 안기</em>가 힘든 코코.",
+      "char": "koala_tired",
+      "bubble": "카이로프랙틱은<br>세게 하는 거 아닐까..?",
+      "bubble_type": "thought",
+      "note": "(뼈 건강도 살짝 걱정..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>처음이라 걱정돼요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "어떤 걸<br>하게 되나요?"
+      },
+      "note": "하비는 <mark>이야기 듣기부터</mark> 시작한다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "평가가 먼저,<br>방법은 <em>그다음</em>이에요",
+      "fact": "어르신 진료엔 <em>부드러운 방법</em>이 흔히 쓰여요",
+      "left": {
+        "label": "평가 후 맞춤",
+        "char": "koala_happy",
+        "caption": "건강·약·뼈 상태 듣고<br><b>부드러운 방법</b>선택"
+      },
+      "right": {
+        "label": "무작정 시작",
+        "char": "koala_tired",
+        "caption": "이야기 없이<br><em>바로 시작해요</em>"
+      },
+      "quip": "원하지 않는 건<br>언제든 거절해도 돼요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>첫 방문 체크</b>",
+      "sub": "방문 전에 준비해봐요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 준비해요",
+          "color": "yellow",
+          "lines": [
+            "① 복용 약·과거 부상·<em>뼈 건강</em>을 정리해요.",
+            "② 계속하고 싶은 일(산책 등)을 말해요.",
+            "③ 집에서 할 <em>근력·균형 운동</em>도 함께 배워요.",
+            "④ 필요하면 <em>GP와 협의</em>할 수 있어요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP 먼저",
+          "color": "purple",
+          "lines": [
+            "넘어진 뒤 <em>새로 생긴 허리 통증</em>,",
+            "<em>갑작스러운 심한 통증</em>은 진료 먼저!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>GP 먼저</em> 만나요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 GP 먼저",
+      "items": [
+        "넘어진 뒤 허리가 아프다",
+        "이유 없이 살이 빠진다",
+        "다리가 저리거나 힘없다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "요즘 등이 뻣뻣해 손주 안기가 힘든 코코. 카이로프랙틱이 처음이라 조금 걱정이에요.\n\n첫 방문은 이야기부터 시작해요. 건강 상태, 복용 약, 과거 부상, 뼈 건강, 계속하고 싶은 일을 듣고 맞는 방법을 골라요. 어르신 진료엔 부드러운 모빌리제이션이나 연부조직 치료 같은 방법이 흔히 쓰이고, 원하지 않는 건 언제든 거절해도 돼요.\n\n집에서 할 근력·균형 운동도 중요한 부분이에요. 넘어진 뒤 생긴 허리 통증이나 다리 저림은 GP 먼저예요.\n\n하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#카이로프랙틱",
+    "#시니어건강",
+    "#균형운동",
+    "#시드니카이로",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#물리치료",
+    "#chiropractic",
+    "#healthyageing",
+    "#chatswood",
+    "#sydneychiro"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 어르신 카이로프랙틱 첫 방문, 평가 후 맞춤과 무작정 시작 비교, 첫 방문 준비, GP를 먼저 만나야 하는 신호.",
+  "story": {
+    "headline": "어르신 카이로, 처음이라면?",
+    "body": "건강 이야기부터,<br>부드러운 방법으로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-08",
+  "created": "2027-01-08-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-221-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Forefoot pain and burning toes (Morton's neuroma)",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's toes<br>feel like they're <em>burning</em>",
+      "sub": "Forefoot pain and Morton's neuroma, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's start<br>with your shoes!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After a run, the ball<br>of the foot <em>burns</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Is there a pebble<br>in my shoe..?",
+      "bubble_type": "thought",
+      "note": "(taking the shoe off and rubbing it helps a bit..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Toes tingling?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. burning between<br>my third and fourth toes"
+      },
+      "note": "Hybi explained <mark>why the forefoot gets squeezed</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Narrow shoes can<br><em>squeeze the toes</em>!",
+      "fact": "Morton's neuroma: an <em>irritated nerve</em> between toes",
+      "left": {
+        "label": "Roomy toe box",
+        "char": "rabbit_happy",
+        "caption": "Wide front, low heel,<br>toes get <b>room</b>"
+      },
+      "right": {
+        "label": "Narrow & pointy",
+        "char": "rabbit_tired",
+        "caption": "A tight front can<br><em>press on the nerve</em>"
+      },
+      "quip": "Simple changes often<br>help a lot!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>forefoot room plan</b>",
+      "sub": "Check your shoes today!",
+      "sections": [
+        {
+          "heading": "1. Give your toes room",
+          "color": "yellow",
+          "lines": [
+            "① Pick a <em>wide toe box</em>, low heel, cushioning.",
+            "② <em>Loosen the laces</em> across the front.",
+            "③ Try a <em>metatarsal pad</em> behind the sore spot.",
+            "④ Adjust run load, add calf and foot strength."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Numbness is <em>constant</em>, or there's",
+            "swelling, redness or <em>no change in weeks</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>burning</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Constant numbness",
+        "Swelling or redness",
+        "Pain waking you at night"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto's runs end with a burning forefoot, like standing on a pebble or a folded sock.\n\nBurning or tingling between the toes, often the third and fourth, can come from an irritated nerve known as Morton's neuroma. It's common, and many people improve with fairly simple changes.\n\nStart with your shoes: a wider toe box, a lower heel and laces loosened across the front give the forefoot room. A metatarsal pad just behind the sore spot, adjusting your running load, and calf and foot strength work can help too.\n\nConstant numbness, swelling, redness or night pain are worth getting checked. Our Sydney CBD and Chatswood physios can assess your feet and footwear. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#footpain",
+    "#mortonsneuroma",
+    "#running",
+    "#runners",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#sydneyrunners",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto on burning toes from Morton's neuroma, roomy versus narrow shoes, forefoot tips and signs worth getting checked.",
+  "story": {
+    "headline": "Burning between your toes?",
+    "body": "Wider toe box, lower heel,<br>looser laces up front.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-09",
+  "created": "2027-01-09-2",
+  "status": "approved",
+  "review_warnings": []
+}

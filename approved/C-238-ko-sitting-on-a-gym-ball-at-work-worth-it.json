@@ -1,0 +1,131 @@
+{
+  "id": "C-238-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Sitting on a gym ball at work: worth it?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "의자 대신 짐볼,<br>거북씨 <em>허리에 좋을까?</em>",
+      "sub": "사무실 짐볼, 하비가 알려줘요",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "짧게 써보면<br>어때요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "의자를 치우고<br><em>짐볼</em>에 앉은 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "오후가 되니<br>더 구부정해졌네..?",
+      "bubble_type": "thought",
+      "note": "(일어날 때마다 공이 데굴데굴..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>짐볼로 바꿨구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "짐볼이 코어를<br>계속 써준다던데요?"
+      },
+      "note": "하비는 <mark>자주 움직이기</mark>가 더 중요하다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "좌석보다 중요한 건<br><em>자세 바꾸기!</em>",
+      "fact": "연구에 따르면 근육 사용 차이는 <em>크지 않아요</em>",
+      "left": {
+        "label": "자주 움직이기",
+        "char": "turtle_happy",
+        "caption": "일어나서 걷고<br><b>자세를 바꿔요</b>"
+      },
+      "right": {
+        "label": "한 자리 고정",
+        "char": "turtle_sad",
+        "caption": "지치면 결국<br><em>구부정해져요</em>"
+      },
+      "quip": "짐볼은 짧게,<br>움직임은 자주!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 짐볼 사용법</b>",
+      "sub": "좋아한다면 이렇게 써봐요!",
+      "sections": [
+        {
+          "heading": "1. 짧게, 제대로",
+          "color": "yellow",
+          "lines": [
+            "① 짐볼은 <em>15~20분</em>, 그다음 의자로.",
+            "② 엉덩이가 무릎보다 <em>살짝 높게</em> 공기 조절.",
+            "③ 발은 바닥에, 허용 체중도 확인.",
+            "④ 자주 일어나 <em>걷고 스트레칭</em>하기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 퍼지거나</em> 저리고,",
+            "<em>몇 주째 심해진다면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리로 퍼지는 통증",
+        "저림이나 감각 저하",
+        "몇 주째 점점 심해진다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "사무실 의자 대신 짐볼에 앉은 거북씨. 정말 허리에 도움이 될까요?\n\n흔들리는 공이 몸통 근육을 계속 쓰게 해준다는 아이디어지만, 연구에 따르면 그 차이는 크지 않고 지치면 대부분 구부정해져요.\n\n허리에 더 중요한 건 자세를 자주 바꾸는 거예요. 짐볼이 좋다면 15~20분씩 짧게, 높이를 맞추고, 다시 의자로!\n\n다리로 퍼지는 통증이나 저림은 확인받아요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#짐볼",
+    "#직장인건강",
+    "#허리통증",
+    "#카이로프랙틱",
+    "#시드니카이로프랙틱",
+    "#시드니cbd",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#chiropractor",
+    "#gymball",
+    "#sydneycbd",
+    "#deskjob"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 사무실에서 짐볼에 앉는 것의 장단점, 자주 움직이기의 중요성, 짐볼 사용법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "의자 대신 짐볼?",
+    "body": "15~20분씩 짧게,<br>자세는 자주 바꾸기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-16",
+  "created": "2027-01-16-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-244-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Keeping your home exercises going between visits",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's home exercises<br><em>keep slipping..</em>",
+      "sub": "Keeping your program going between visits",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's tie it<br>to a habit!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Program on the fridge,<br>exercises <em>tomorrow..</em>",
+      "char": "koala_tired",
+      "bubble": "Eight exercises?<br>When will I<br>fit them in..?",
+      "bubble_type": "thought",
+      "note": "(nap time, though, never gets missed..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>How's the homework?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Am I just<br>not disciplined?"
+      },
+      "note": "Hybi said <mark>a cue beats willpower</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Three you do beat<br><em>eight you skip</em>!",
+      "fact": "Linking to a daily habit makes it <em>harder to forget</em>",
+      "left": {
+        "label": "Three daily",
+        "char": "koala_happy",
+        "caption": "While the kettle boils,<br><b>three a day</b>"
+      },
+      "right": {
+        "label": "Eight later",
+        "char": "koala_tired",
+        "caption": "Waiting for spare time,<br><em>it keeps slipping</em>"
+      },
+      "quip": "It's fine to ask<br>for a shorter list!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>stick-with-it plan</b>",
+      "sub": "Keep going until next visit!",
+      "sections": [
+        {
+          "heading": "1. Try this",
+          "color": "yellow",
+          "lines": [
+            "① Tie it to a <em>daily habit</em>, like the kettle.",
+            "② Ask to trim it to the <em>top three</em>.",
+            "③ <em>Film each exercise</em> during your visit.",
+            "④ Tick a calendar; bring the tally next time."
+          ]
+        },
+        {
+          "heading": "2. Tell us if…",
+          "color": "purple",
+          "lines": [
+            "An exercise <em>hurts more</em> or feels too easy,",
+            "or doesn't <em>fit your week</em>, so we can adjust."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Exercises hurt more",
+        "Pain steadily building",
+        "New tingling or numbness"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko's program is stuck on the fridge, and the exercises are always starting tomorrow. It may not be a willpower problem.\n\nLinking your exercises to something you already do, like brushing your teeth or waiting for the kettle, makes them far easier to remember. Three exercises you actually do beat eight you skip, and it's fine to ask for a shorter list.\n\nFilm each exercise during your visit, tick a calendar and bring your tally next time. If an exercise hurts more or doesn't fit your week, tell us so the plan can change. Our physios, chiropractors and Pilates team at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#homeexercise",
+    "#rehab",
+    "#exercisehabits",
+    "#habits",
+    "#chiropractor",
+    "#clinicalpilates",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about keeping home exercises going between visits, linking them to a daily habit, doing fewer exercises and signs worth getting checked.",
+  "story": {
+    "headline": "Home exercises slipping?",
+    "body": "Tie them to the kettle.<br>Three you do beat eight.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-19",
+  "created": "2027-01-19-4",
+  "status": "approved",
+  "review_warnings": []
+}

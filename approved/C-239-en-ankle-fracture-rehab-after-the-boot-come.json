@@ -1,0 +1,131 @@
+{
+  "id": "C-239-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Ankle fracture: rehab after the boot comes off",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Boot off, but Koko's<br>ankle <em>feels stiff</em>",
+      "sub": "Rehab after an ankle fracture, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "One stage<br>at a time!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After weeks in a boot,<br><em>finally free!</em>",
+      "char": "koala_tired",
+      "bubble": "So why is it<br>this puffy and stiff..?",
+      "bubble_type": "thought",
+      "note": "(and that limp keeps sneaking in..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Boot finally off?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Can I just walk<br>normally now?"
+      },
+      "note": "Hybi said <mark>your doctor's plan</mark> comes first."
+    },
+    {
+      "kind": "compare",
+      "title": "Rehab works <em>within</em><br>your doctor's plan!",
+      "fact": "Every fracture differs, so <em>timelines vary</em> a lot",
+      "left": {
+        "label": "Stage by stage",
+        "char": "koala_happy",
+        "caption": "Within the plan,<br><b>build gradually</b>"
+      },
+      "right": {
+        "label": "Rushing it",
+        "char": "koala_tired",
+        "caption": "Pushing before clearance<br>can <em>set you back</em>"
+      },
+      "quip": "Timelines really differ<br>person to person!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute ankle start</b>",
+      "sub": "If your doctor agrees!",
+      "sections": [
+        {
+          "heading": "1. Gentle movement",
+          "color": "yellow",
+          "lines": [
+            "① Rest with your leg <em>raised</em>.",
+            "② Ankle pumps, <em>10 reps</em>, a few times a day.",
+            "③ Trace the <em>alphabet</em> with your toes.",
+            "④ Short walks, rolling <em>heel to toe</em>."
+          ]
+        },
+        {
+          "heading": "2. Contact your doctor promptly if…",
+          "color": "purple",
+          "lines": [
+            "Calf pain or swelling <em>gets worse</em>, a wound",
+            "is red or hot, or your foot goes <em>numb</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Contact your <em>doctor</em> if",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "These need medical review",
+      "items": [
+        "Calf pain or swelling grows",
+        "Wound red or hot",
+        "Numbness in the foot"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Boot off after weeks, and Koko's ankle feels stiff, puffy and a bit unfamiliar. That's common.\n\nEvery fracture and every repair is different, so your surgeon or treating doctor sets how much weight you can take. Good rehab works within that plan. If your doctor agrees, elevation, gentle ankle pumps and tracing the alphabet with your toes are often a good starting point, followed by even walking, strength and balance.\n\nWorsening calf pain or swelling, a red or hot wound, or numbness in the foot need prompt medical review. Our Chatswood and Sydney CBD physios work alongside your doctor's protocol. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#anklefracture",
+    "#anklerehab",
+    "#fracturerehab",
+    "#bootoff",
+    "#rehab",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about ankle fracture rehab after the boot comes off, working within the doctor's plan, gentle first exercises and signs that need prompt medical review.",
+  "story": {
+    "headline": "Boot off? Next steps",
+    "body": "Follow your doctor's plan,<br>start with ankle pumps.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-16",
+  "created": "2027-01-16-2",
+  "status": "approved",
+  "review_warnings": []
+}

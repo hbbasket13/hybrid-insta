@@ -1,0 +1,131 @@
+{
+  "id": "C-227-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Should you exercise after a massage?",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "마사지 받고 바로<br><em>헬스장 가도 될까?</em>",
+      "sub": "하비와 알아보는 마사지 후 운동",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "세션 종류에<br>따라 달라요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마사지 끝,<br>오늘은 <em>하체 데이</em>인데..",
+      "char": "kanga_tired",
+      "bubble": "바로 스쿼트<br>해도 되나..?",
+      "bubble_type": "thought",
+      "note": "(다리가 살짝 묵직한 느낌..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>운동 갈 거예요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 무겁게<br>들어도 될까요?"
+      },
+      "note": "하비는 <mark>운동 강도별</mark>로 나눠서 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "가벼운 운동은 OK,<br><em>고강도는 다음 날!</em>",
+      "fact": "깊은 마사지 후엔 몇 시간 <em>다리가 묵직할 수 있어요</em>",
+      "left": {
+        "label": "가볍게 걷기",
+        "char": "kanga_happy",
+        "caption": "산책·가벼운 자전거는<br>보통 <b>괜찮아요</b>"
+      },
+      "right": {
+        "label": "최대 중량",
+        "char": "kanga_tired",
+        "caption": "최대 무게·스프린트는<br><em>다음 날로 미뤄요</em>"
+      },
+      "quip": "중요한 운동 뒤에<br>마사지를 잡아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>마사지·운동 타이밍</b>",
+      "sub": "이번 주 일정에 맞춰봐요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 계획해요",
+          "color": "yellow",
+          "lines": [
+            "① 마사지 후엔 <em>걷기·가벼운 운동</em>.",
+            "② 고강도·최대 중량은 <em>다음 날</em>로.",
+            "③ 마사지는 <em>큰 경기 뒤</em>나 1~2일 전에.",
+            "④ 다음 날 아침 아프면 <em>강도 낮추기</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "하루 넘게 <em>통증이 계속되거나</em>",
+            "붓기가 있다면 물리치료사와 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "운동 중 <em>계속 아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "며칠째 아픈 곳이 있다",
+        "붓거나 멍이 든다",
+        "운동할 때 찌릿하다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "마사지 끝나고 바로 하체 데이, 루루는 무겁게 들어도 될까요? 세션 종류와 운동 강도에 따라 달라요.\n\n걷기나 가벼운 자전거는 보통 괜찮고, 풀린 느낌을 즐기기에도 좋아요. 깊은 마사지 후엔 몇 시간 다리가 묵직할 수 있어서, 최대 중량이나 스프린트는 다음 날로 미루는 경우가 많아요. 큰 경기가 있다면 그 뒤나 1~2일 전에 마사지를 잡아요.\n\n마사지는 근력 운동을 대신하지 않고 보완해요. 통증이 며칠 가거나 붓기가 있다면 확인받아요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 훈련 일정에 맞춰줘요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#마사지",
+    "#운동회복",
+    "#헬스",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#recovery",
+    "#sydneycbd",
+    "#gymlife"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 마사지 후 운동해도 되는지, 가벼운 운동과 고강도 비교, 마사지·운동 타이밍, 확인이 필요한 신호.",
+  "story": {
+    "headline": "마사지 후 바로 운동?",
+    "body": "가볍게는 OK,<br>고강도는 다음 날!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-12",
+  "created": "2027-01-12-5",
+  "status": "approved",
+  "review_warnings": []
+}

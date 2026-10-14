@@ -1,0 +1,131 @@
+{
+  "id": "C-258-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain on the outside of the ankle (peroneal tendons)",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's <em>outer ankle</em><br>keeps aching",
+      "sub": "The peroneal tendons, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Summer of <em>trail runs</em><br>and soft-sand jogs.",
+      "char": "rabbit_tired",
+      "bubble": "Why does it ache<br>behind the bony bump<br>on the outside..?",
+      "bubble_type": "thought",
+      "note": "(worse on uneven ground..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Toto!<br>Ankle playing up?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. do I have<br>to stop running?"
+      },
+      "note": "Hybi decided to introduce <mark>the outer ankle tendons</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't stop:<br><em>ease back, then build!</em>",
+      "fact": "The peroneals run <em>behind</em> the outer ankle bone",
+      "left": {
+        "label": "Ease + build",
+        "char": "rabbit_happy",
+        "caption": "Less load, then<br><b>gradual strength</b>"
+      },
+      "right": {
+        "label": "Same as usual",
+        "char": "rabbit_tired",
+        "caption": "Long soft-sand runs<br><em>through the ache</em>"
+      },
+      "quip": "Tendons like<br>steady loading!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute ankle builder</b>",
+      "sub": "Once a day, at home!",
+      "sections": [
+        {
+          "heading": "1. Strengthen the outer ankle",
+          "color": "yellow",
+          "lines": [
+            "① Band, push the foot <em>outward</em>, <em>15 × 2</em>.",
+            "② Calf raises, <em>slowly, 15 reps</em>.",
+            "③ Single-leg stand, <em>30 sec × 3</em>.",
+            "④ Swap <em>worn-out shoes</em>; build distance slowly."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>snapping</em> behind the ankle bone, or",
+            "it <em>keeps giving way</em> — stop and get checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Ankle still<br><em>aching?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Snapping behind ankle bone",
+        "Swelling that won't ease",
+        "Ankle keeps giving way"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "After a summer of trail runs and soft-sand jogs, Toto has an ache along the outside of his ankle. The peroneal tendons are a common reason.\n\nThese tendons run behind the bony bump on the outside of your ankle and steady your foot on uneven ground. They often get cranky after a jump in load, a new trail, long sand walks or an old sprain that never quite settled. Ease back without stopping altogether, then build up with band work, calf raises and balance drills. Supportive shoes help too.\n\nSnapping behind the ankle bone, swelling that won't ease or an ankle that keeps giving way are worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#anklepain",
+    "#peronealtendon",
+    "#running",
+    "#trailrunning",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydneyrunners"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining outer ankle pain from the peroneal tendons, how to ease back and build strength, and signs worth getting checked.",
+  "story": {
+    "headline": "Ache on the outer ankle?",
+    "body": "Ease back, then build:<br>band work 15 × 2.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-23",
+  "created": "2027-01-23-6",
+  "status": "approved",
+  "review_warnings": []
+}

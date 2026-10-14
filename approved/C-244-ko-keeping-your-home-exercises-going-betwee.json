@@ -1,0 +1,131 @@
+{
+  "id": "C-244-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Keeping your home exercises going between visits",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코의 홈 운동,<br>또 <em>까먹었어요..</em>",
+      "sub": "방문 사이 운동을 이어가는 방법",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "습관에<br>붙여볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "운동지는 냉장고에,<br>운동은 <em>내일부터..</em>",
+      "char": "koala_tired",
+      "bubble": "8개나 되는데<br>언제 다 하지..?",
+      "bubble_type": "thought",
+      "note": "(낮잠 시간은 꼬박꼬박 지키는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>홈 운동 어때요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "저는 의지가<br>약한 걸까요?"
+      },
+      "note": "하비는 <mark>의지보다 신호</mark>가 중요하다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "8개 건너뛰기보다<br><em>3개 꾸준히!</em>",
+      "fact": "이미 하는 습관에 붙이면 <em>잊기 어려워요</em>",
+      "left": {
+        "label": "3개 꾸준히",
+        "char": "koala_happy",
+        "caption": "주전자 끓는 동안<br><b>매일 3개</b>"
+      },
+      "right": {
+        "label": "8개 몰아서",
+        "char": "koala_tired",
+        "caption": "시간 날 때 하려다<br><em>계속 미뤄져요</em>"
+      },
+      "quip": "줄여달라고 해도<br>괜찮아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>홈 운동 지속법</b>",
+      "sub": "다음 방문까지 이어가요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 해봐요",
+          "color": "yellow",
+          "lines": [
+            "① 양치·주전자 같은 <em>매일 습관</em>에 붙이기.",
+            "② 꼭 필요한 <em>3개만</em> 남겨달라고 하기.",
+            "③ 진료 중 <em>폰으로 영상</em> 찍어두기.",
+            "④ 달력에 체크하고 다음 방문 때 보여주기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 말해주세요!",
+          "color": "purple",
+          "lines": [
+            "운동이 <em>더 아프거나</em> 너무 쉽거나,",
+            "일상에 <em>안 맞으면</em> 바로 조정해요!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "운동하면 더 아프다",
+        "통증이 점점 심해진다",
+        "새로운 저림이 생겼다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "운동지는 냉장고에 붙여놨는데 운동은 늘 내일부터인 코코. 의지 문제가 아닐 수도 있어요.\n\n양치나 주전자 끓이기처럼 이미 하는 일에 운동을 붙이면 훨씬 잊기 어려워요. 건너뛰는 8개보다 꾸준히 하는 3개! 줄여달라고 해도 괜찮아요.\n\n진료 중 영상을 찍어두고, 달력에 체크해서 다음 방문 때 보여주세요. 운동이 더 아프거나 안 맞으면 말해주세요. 하이브리드 피지오 팀이 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#홈트",
+    "#홈운동",
+    "#재활운동",
+    "#운동습관",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#homeexercise",
+    "#chatswood",
+    "#rehab"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 방문 사이 홈 운동을 꾸준히 하는 법, 습관에 붙이기, 3개만 하기, 확인이 필요한 신호.",
+  "story": {
+    "headline": "홈 운동이 자꾸 밀린다면?",
+    "body": "주전자 끓는 동안 3개,<br>매일!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-19",
+  "created": "2027-01-19-1",
+  "status": "approved",
+  "review_warnings": []
+}

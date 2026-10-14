@@ -1,0 +1,131 @@
+{
+  "id": "C-211-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Footy and rugby preseason: building up running load",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "A summer off, then Toto<br>goes <em>straight into preseason</em>",
+      "sub": "Build running load week by week",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we build<br>it up steadily?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Week one of preseason:<br><em>three hard sessions</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why are my hamstrings<br>already tight..?",
+      "bubble_type": "thought",
+      "note": "(barely ran all summer, too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Getting ready for footy?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "I need to be fit<br>by round one!"
+      },
+      "note": "Hybi explained that <mark>sudden spikes</mark> are the issue."
+    },
+    {
+      "kind": "compare",
+      "title": "Big jumps in load can<br><em>outpace</em> your body",
+      "fact": "Research suggests sharp load spikes link with <em>more niggles</em>",
+      "left": {
+        "label": "Step by step",
+        "char": "rabbit_happy",
+        "caption": "Add <b>one thing</b><br>each week"
+      },
+      "right": {
+        "label": "All at once",
+        "char": "rabbit_tired",
+        "caption": "Summer off, then<br><em>3 hard sessions</em>"
+      },
+      "quip": "Ease back a little every<br>third or fourth week!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>preseason running plan</b>",
+      "sub": "Start this week!",
+      "sections": [
+        {
+          "heading": "1. Build steady, train fast",
+          "color": "yellow",
+          "lines": [
+            "① Each week, add <em>one</em> run or a little distance.",
+            "② Every <em>3rd or 4th week</em>, ease back slightly.",
+            "③ Include short <em>sprints early</em>, at low volume.",
+            "④ Bridges and Nordics <em>twice a week</em> for hamstrings."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel a <em>sudden sharp pain</em> in the thigh,",
+            "or your knee <em>gives way</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>niggly</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sudden sharp pain in thigh",
+        "A knee that gives way",
+        "Pain building each session"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto had a summer off, then jumped straight into three hard preseason sessions a week. The hamstrings complained first.\n\nResearch suggests sharp increases in training load are linked with more soft tissue niggles. Build steadily: add a little distance or one extra session each week, and ease back slightly every third or fourth week.\n\nInclude short sprints early in preseason at lower volumes, plus strength work like bridges and Nordics, rather than saving speed for later. Add change-of-direction drills slowly too.\n\nOur Chatswood physios can look at your training week and help plan a steady build to round one. Book online via the link in bio 🏉\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#preseason",
+    "#footy",
+    "#rugby",
+    "#hamstrings",
+    "#runningload",
+    "#sportsphysio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto about building preseason running load steadily, step-by-step versus all-at-once training, a running plan and signs worth getting checked.",
+  "story": {
+    "headline": "Preseason: build it steady",
+    "body": "Add one thing a week,<br>sprint early, go easy.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-06",
+  "created": "2027-01-06-4",
+  "status": "approved",
+  "review_warnings": []
+}

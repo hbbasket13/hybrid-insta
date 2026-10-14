@@ -1,0 +1,131 @@
+{
+  "id": "C-272-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Evening back stiffness after a long day",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's back is<br><em>stiff by dinner time</em>",
+      "sub": "An evening back story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's look at<br>your day!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Same position all day,<br>and a <em>stiff back</em> by 6pm.",
+      "char": "turtle_monitor",
+      "bubble": "Why does my back<br>seize up every<br>evening..?",
+      "bubble_type": "thought",
+      "note": "(getting up off the couch is a whole effort..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff by evening?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. does that mean<br>something's damaged?"
+      },
+      "note": "Hybi asked about <mark>a typical day</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Often it's your body<br>asking for <em>a change</em>!",
+      "fact": "Moving <em>every 30–45 min</em> often beats one long stretch at night",
+      "left": {
+        "label": "Vary it",
+        "char": "turtle_happy",
+        "caption": "Stand, walk, sit,<br>the load <b>is shared</b>"
+      },
+      "right": {
+        "label": "Stuck all day",
+        "char": "turtle_sad",
+        "caption": "One position,<br>back <em>stiffens up</em>"
+      },
+      "quip": "Adjustments are one tool,<br>not the whole plan!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>5-minute evening wind-down</b>",
+      "sub": "Right after dinner!",
+      "sections": [
+        {
+          "heading": "1. In this order",
+          "color": "yellow",
+          "lines": [
+            "① Lying on your back, <em>knee rocks</em> × 10.",
+            "② On hands and knees, <em>cat-cow</em> × 8.",
+            "③ An easy <em>10-minute walk</em> after dinner.",
+            "④ During the day, <em>stand for calls</em>!"
+          ]
+        },
+        {
+          "heading": "2. Seek prompt care if…",
+          "color": "purple",
+          "lines": [
+            "<em>Leg numbness or weakness</em>, <em>bladder or bowel</em>",
+            "changes, fever or unexplained weight loss."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em> most evenings?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Stiffness building for weeks",
+        "Fever or weight loss"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Same position all day, and by dinner time Mr Turtle's back feels tight and achy.\n\nAfter hours of sitting, standing or driving in similar positions, that evening stiffness is often your body asking for a change of position rather than a sign of harm.\n\nChange position every 30 to 45 minutes: stand for calls, refill your water, take the stairs. In the evening, try knee rocks, cat-cow and a short walk after dinner.\n\nLeg numbness or weakness, bladder or bowel changes, fever or unexplained weight loss need prompt medical review. Our chiropractors at Hybrid Physio assess how your back moves and may use hands-on care alongside exercise and habit changes. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#backstiffness",
+    "#deskjob",
+    "#officeworker",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#movemore",
+    "#sydney",
+    "#lowerbackpain"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why the back stiffens by evening, varying position versus staying still, a 5-minute evening wind-down and signs worth getting checked.",
+  "story": {
+    "headline": "Back stiff by dinner time?",
+    "body": "Change position<br>every 30–45 minutes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-30",
+  "created": "2027-01-30-2",
+  "status": "approved",
+  "review_warnings": []
+}

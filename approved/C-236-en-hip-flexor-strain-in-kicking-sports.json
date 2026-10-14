@@ -1,0 +1,131 @@
+{
+  "id": "C-236-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hip flexor strain in kicking sports",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Front of Toto's hip<br><em>grabs on every kick</em>",
+      "sub": "Hip flexor strain in kicking sports, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Step by step,<br>back to the pitch!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Late in the game,<br>a <em>grab mid-shot</em>!",
+      "char": "rabbit_tired",
+      "bubble": "Why does the front<br>of my hip pull<br>like this..?",
+      "bubble_type": "thought",
+      "note": "(even climbing stairs catches it the next day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Hip bothering you?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Do I need to<br>rest completely?"
+      },
+      "note": "Hybi suggested <mark>adjusting, not stopping</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Keep moving,<br><em>but adjust</em>!",
+      "fact": "Walking, cycling or swimming <em>within comfort</em> usually helps",
+      "left": {
+        "label": "Move gently",
+        "char": "rabbit_happy",
+        "caption": "Walk or cycle,<br><b>stay fit</b>"
+      },
+      "right": {
+        "label": "Total rest",
+        "char": "rabbit_tired",
+        "caption": "Stopping everything<br>can <em>slow things down</em>"
+      },
+      "quip": "Strength first,<br>kicking comes last!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute hip start</b>",
+      "sub": "Start within comfort!",
+      "sections": [
+        {
+          "heading": "1. Knee lift hold",
+          "color": "yellow",
+          "lines": [
+            "① Sit tall, hand resting on top of your knee.",
+            "② Lift the knee <em>gently into your hand</em>.",
+            "③ Hold <em>10 sec × 5</em>, twice a day.",
+            "④ Then march → lunge → kick, step by step."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You felt a <em>pop</em> with sudden pain,",
+            "or there's <em>bruising</em> or trouble walking."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A pop with sudden pain",
+        "A lump or bruising",
+        "Recurring groin pain"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Front of Toto's hip grabbing every time there's a kick or sprint?\n\nSoccer, footy, touch and Oztag all put big demands on the hip flexors, especially late in a game. A strain usually shows up as pain at the front of the hip or top of the thigh.\n\nMost people do better staying active within comfort, then building strength gradually: gentle knee lift holds, then marching and lunges, then resisted drives. Kicking comes last, starting short and slow.\n\nA pop, bruising or trouble walking is worth an assessment. Our Sydney CBD and Chatswood physios can build your return-to-kicking plan. Book online via the link in bio ⚽\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#hipflexor",
+    "#hippain",
+    "#sportsinjury",
+    "#football",
+    "#oztag",
+    "#sportsphysio",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining hip flexor strain in kicking sports, staying active versus total rest, a knee lift hold and signs worth getting checked.",
+  "story": {
+    "headline": "Hip grabs when you kick?",
+    "body": "Walk or cycle first,<br>then gentle knee lifts.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-15",
+  "created": "2027-01-15-2",
+  "status": "approved",
+  "review_warnings": []
+}

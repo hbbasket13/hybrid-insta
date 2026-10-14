@@ -1,0 +1,131 @@
+{
+  "id": "C-215-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Quads cooked after leg day: massage and recovery",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "레그 데이 다음 날,<br>루루 <em>허벅지가 터질 듯</em>",
+      "sub": "마사지와 회복, 하비와 알아보기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "회복법<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "새 런지 루틴 이틀 뒤,<br>계단이 <em>무서운</em> 루루.",
+      "char": "kanga_tired",
+      "bubble": "내가 어디<br>다친 걸까..?",
+      "bubble_type": "thought",
+      "note": "(계단 내려갈 때 허벅지가 비명..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>레그 데이 했구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "마사지 받으면<br>바로 풀릴까요?"
+      },
+      "note": "하비는 이건 <mark>근육통(DOMS)</mark>일 수 있다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "가만히 눕기보다<br><em>가볍게 움직이기</em>",
+      "fact": "근육통은 보통 운동 후 <em>1~2일</em>에 가장 심해요",
+      "left": {
+        "label": "가볍게 움직이기",
+        "char": "kanga_happy",
+        "caption": "가벼운 걷기·자전거로<br><b>뻣뻣함이 덜해요</b>"
+      },
+      "right": {
+        "label": "소파에 누워만",
+        "char": "kanga_tired",
+        "caption": "하루 종일 누워 있으면<br><em>더 뻣뻣해요</em>"
+      },
+      "quip": "마사지는 회복을<br>돕는 보조 역할이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>레그 데이 회복법</b>",
+      "sub": "오늘 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 회복 루틴",
+          "color": "yellow",
+          "lines": [
+            "① 가벼운 걷기나 자전거 <em>10~15분</em>.",
+            "② 편한 범위로 맨몸 스쿼트 <em>10회 × 2</em>.",
+            "③ 다음 레그 데이는 세트를 <em>조금씩</em> 늘려요.",
+            "④ 매 세트 <em>2회 정도 여유</em>를 남겨요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지보다 확인 먼저",
+          "color": "purple",
+          "lines": [
+            "운동 중 <em>날카로운 통증</em>, 갑자기 붓거나 멍,",
+            "<em>아주 진한 소변</em>이 보이면 진료받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "근육통이 <em>아닐 수도?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "운동 중 찌르는 통증",
+        "갑자기 붓거나 멍이 든다",
+        "소변이 아주 진하다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "새 런지 루틴 이틀 뒤, 계단을 내려갈 때마다 허벅지가 비명을 지르는 루루.\n\n이런 근육통(DOMS)은 보통 새롭거나 더 무거운 운동 후 1~2일에 가장 심하고, 부하에 대한 정상적인 반응이에요. 연구에 따르면 마사지는 뻐근함을 덜 느끼게 하는 데 도움이 될 수 있지만, 잠·식사·운동 계획을 대신하진 않아요.\n\n가벼운 걷기나 자전거, 편한 범위의 스쿼트가 소파보다 나을 때가 많아요. 다음 레그 데이는 세트를 조금씩 늘리기!\n\n리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약 🦵\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#레그데이",
+    "#근육통",
+    "#헬스",
+    "#리메디얼마사지",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#legday",
+    "#doms",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 레그 데이 후 근육통, 가볍게 움직이기와 누워만 있기 비교, 회복 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "레그 데이 후 허벅지 뻐근?",
+    "body": "가볍게 걷고, 다음엔<br>세트를 조금씩!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-07",
+  "created": "2027-01-07-5",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-225-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Ankle mobility and squat depth",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's heels lift<br>in a <em>deep squat</em>",
+      "sub": "Ankle mobility and squat depth, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's check<br>those ankles!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Going deeper, and<br>the heels <em>pop up</em>!",
+      "char": "kanga_tired",
+      "bubble": "Why does my chest<br>tip forward..?",
+      "bubble_type": "thought",
+      "note": "(kneeling on site, the ankles feel stiff too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Squat feeling shallow?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. is it<br>my hips?"
+      },
+      "note": "Hybi suggested <mark>an ankle check</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Your ankles help<br><em>set your depth</em>!",
+      "fact": "In a squat, knees travel <em>forward over the toes</em>",
+      "left": {
+        "label": "Bendy ankle",
+        "char": "kanga_happy",
+        "caption": "Knees travel forward,<br>heels stay <b>down</b>"
+      },
+      "right": {
+        "label": "Stiff ankle",
+        "char": "kanga_tired",
+        "caption": "Heels lift or the<br><em>chest tips forward</em>"
+      },
+      "quip": "It's common, and<br>very workable!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute ankle routine</b>",
+      "sub": "Try it before you squat!",
+      "sections": [
+        {
+          "heading": "1. Knee-to-wall + squat",
+          "color": "yellow",
+          "lines": [
+            "① Kneel, front foot <em>a hand-width</em> from a wall.",
+            "② Heel down, touch knee to wall. Compare sides.",
+            "③ Rock knee over toes, <em>10–15 slow reps</em>.",
+            "④ Straight into a <em>few squats</em> to use it."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "The front of the ankle <em>pinches</em>,",
+            "or it swells after training."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Ankle <em>still stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Stiff since an old sprain",
+        "Pinching at the front",
+        "Swelling after training"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu's heels lift and the chest tips forward every time the squat goes deep. The ankles might be setting the limit.\n\nAs you squat, your knees need to travel forward over your toes. If the ankles don't bend enough, the heels lift or you stop short. It's common and very workable.\n\nHybi's 1-minute routine: kneel with your front foot a hand-width from a wall, heel down, and touch your knee to the wall. Compare sides. Rock the knee over the toes for 10 to 15 slow reps, then do a few squats straight away.\n\nStiffness since an old sprain, pinching at the front or swelling after training is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#anklemobility",
+    "#squats",
+    "#squatdepth",
+    "#legday",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#mobility",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on how ankle mobility sets squat depth, a knee-to-wall check, a 1-minute ankle routine and signs worth getting checked.",
+  "story": {
+    "headline": "Heels lifting when you squat?",
+    "body": "Knee-to-wall check,<br>then 10–15 ankle rocks.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-11",
+  "created": "2027-01-11-6",
+  "status": "approved",
+  "review_warnings": []
+}

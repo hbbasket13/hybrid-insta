@@ -1,0 +1,131 @@
+{
+  "id": "C-223-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for knee rehab",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's knee is better..<br>but <em>stairs feel shaky</em>",
+      "sub": "Where Pilates fits in knee rehab, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's build it<br>one spring at a time!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The knee's on the mend,<br>but stairs feel <em>wobbly</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Can I trust<br>this knee yet..?",
+      "bubble_type": "thought",
+      "note": "(getting out of the car feels a bit unsure too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Knee in rehab?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. could Pilates<br>help from here?"
+      },
+      "note": "Hybi decided to start with <mark>spring-loaded footwork</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's not just the knee,<br>it's <em>the whole leg</em>!",
+      "fact": "When hips and ankles slack off, <em>knees work harder</em>",
+      "left": {
+        "label": "Whole leg",
+        "char": "rabbit_happy",
+        "caption": "Bridges and calf raises<br>share the <b>load</b>"
+      },
+      "right": {
+        "label": "Knee only",
+        "char": "rabbit_tired",
+        "caption": "Train the knee alone,<br>it <em>does all the work</em>"
+      },
+      "quip": "Slow and steady beats<br>fast and wobbly!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>knee rehab steps</b>",
+      "sub": "Always within your rehab plan!",
+      "sections": [
+        {
+          "heading": "1. Build it on the reformer",
+          "color": "yellow",
+          "lines": [
+            "① <em>Footwork</em> lying down, springs set the load.",
+            "② Bridges and calf raises for hips and ankles.",
+            "③ Single-leg presses, <em>slow and steady</em>.",
+            "④ After surgery? Your <em>surgeon and physio</em> lead."
+          ]
+        },
+        {
+          "heading": "2. Pause and get advice if…",
+          "color": "purple",
+          "lines": [
+            "The knee <em>swells fast or locks</em> —",
+            "check in with your physio or GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check with us <em>first</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it reviewed if the knee",
+      "items": [
+        "Swells quickly",
+        "Locks or gives way",
+        "Becomes hot and red"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto's knee is feeling better, but not quite trustworthy on the stairs yet.\n\nThat in-between stage is where clinical Pilates can be useful. Reformer footwork lets you build leg strength lying down, with springs setting the load. Knees share the job with the hips and ankles, so bridges and calf raises belong in the plan too.\n\nSingle-leg control comes next, slow and steady, so the knee is ready for stairs and getting out of the car. If you've had surgery, your surgeon's protocol and your physio's plan always come first. A knee that swells quickly, locks or turns hot and red is worth reviewing before you continue.\n\nOur Pilates team at Hybrid Physio works alongside our physios. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#kneerehab",
+    "#kneepain",
+    "#sydneypilates",
+    "#chatswoodpilates",
+    "#chatswood",
+    "#sydney",
+    "#rehab",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto on where Pilates fits in knee rehab, training the whole leg, reformer steps and signs to check before continuing.",
+  "story": {
+    "headline": "Knee rehab next step?",
+    "body": "Reformer footwork,<br>springs set the load.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-11",
+  "created": "2027-01-11-4",
+  "status": "approved",
+  "review_warnings": []
+}

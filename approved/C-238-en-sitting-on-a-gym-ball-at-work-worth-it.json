@@ -1,0 +1,131 @@
+{
+  "id": "C-238-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Sitting on a gym ball at work: worth it?",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "A gym ball for a chair:<br><em>good for Mr Turtle's back?</em>",
+      "sub": "Sitting on a ball at work, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "How about<br>short bursts?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Chair out,<br><em>gym ball</em> in.",
+      "char": "turtle_monitor",
+      "bubble": "Why am I slumping<br>more by 3pm..?",
+      "bubble_type": "thought",
+      "note": "(and the ball rolls away every time he stands..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Swapped your chair?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Doesn't a ball keep<br>my core switched on?"
+      },
+      "note": "Hybi pointed out that <mark>moving often</mark> matters more."
+    },
+    {
+      "kind": "compare",
+      "title": "Changing position<br>beats <em>the seat</em>!",
+      "fact": "Research suggests the extra muscle activity is <em>small</em>",
+      "left": {
+        "label": "Move often",
+        "char": "turtle_happy",
+        "caption": "Stand, walk,<br><b>change position</b>"
+      },
+      "right": {
+        "label": "Sitting still",
+        "char": "turtle_sad",
+        "caption": "Once tired, most<br>people <em>slump</em>"
+      },
+      "quip": "Ball in short bursts,<br>movement often!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute ball guide</b>",
+      "sub": "Like it? Use it this way!",
+      "sections": [
+        {
+          "heading": "1. Short and set up right",
+          "color": "yellow",
+          "lines": [
+            "① <em>15–20 min</em> on the ball, then a chair.",
+            "② Pump it so hips sit <em>slightly above</em> knees.",
+            "③ Feet flat; check it's rated for your weight.",
+            "④ Get up, walk and stretch <em>regularly</em>."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads into a leg</em> or you feel numb,",
+            "or it <em>keeps building</em> over weeks."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading into a leg",
+        "Numbness or pins and needles",
+        "Pain building over weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle swapped his office chair for a gym ball. Does it actually help?\n\nThe idea is that an unstable seat keeps your trunk working. Research suggests the extra muscle activity is small, and most people end up slumping once they get tired.\n\nWhat usually matters more for your back is how often you change position. If you enjoy the ball, use it in 15 to 20 minute bursts, get the height right, and swap back to a supportive chair.\n\nPain spreading into a leg, numbness or pain that keeps building is worth an assessment, whatever you're sitting on. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#gymball",
+    "#deskjob",
+    "#backpain",
+    "#officeworker",
+    "#ergonomics",
+    "#sydneycbd",
+    "#sydneychiro",
+    "#sydney",
+    "#workplacehealth",
+    "#hybridphysiotherapy",
+    "#chiro"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle weighing up sitting on a gym ball at work, why changing position matters more, how to use a ball and signs worth getting checked.",
+  "story": {
+    "headline": "Gym ball instead of a chair?",
+    "body": "15–20 minute bursts.<br>Move often.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-16",
+  "created": "2027-01-16-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-229-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Remedial massage for lower back pain: what to expect",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's aching<br><em>lower back</em>",
+      "sub": "What to expect for a sore lower back, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Here's what<br>to expect!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Nine hours sitting,<br>and the <em>lower back</em> aches.",
+      "char": "turtle_monitor",
+      "bubble": "First massage..<br>will it hurt a lot..?",
+      "bubble_type": "thought",
+      "note": "(by home time, the back feels like a brick..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling stiff?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. what actually<br>happens in a session?"
+      },
+      "note": "Hybi decided to walk through <mark>the session</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Firm doesn't have<br>to mean <em>painful</em>!",
+      "fact": "Pressure is <em>your call</em> · ask to change it anytime",
+      "left": {
+        "label": "Comfy pressure",
+        "char": "turtle_happy",
+        "caption": "Relaxed muscles are<br><b>easier to work on</b>"
+      },
+      "right": {
+        "label": "Gritting teeth",
+        "char": "turtle_sad",
+        "caption": "Bracing through pain<br>makes muscles <em>tense up</em>"
+      },
+      "quip": "Lighter or firmer?<br>Just say so!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>massage preview</b>",
+      "sub": "No need to feel nervous!",
+      "sections": [
+        {
+          "heading": "1. What usually happens",
+          "color": "yellow",
+          "lines": [
+            "① Questions first: <em>where, when, what helps</em>.",
+            "② Work through back, glutes and hips.",
+            "③ Ask for <em>lighter or firmer</em> anytime.",
+            "④ Keep up <em>walking and strength work</em>."
+          ]
+        },
+        {
+          "heading": "2. See a GP or physio first if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em>, or there's",
+            "numbness, weakness, or it followed a fall."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check these <em>first</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See a GP or physio first if",
+      "items": [
+        "Pain spreading down a leg",
+        "Numbness or weakness",
+        "Bladder or bowel changes"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Nine hours of sitting has left Mr Turtle's lower back aching, and his first remedial massage is coming up. Here's what to expect.\n\nIt starts with questions: where it hurts, what eases or aggravates it, and your health history. Lower back pain often involves the muscles around it, so expect work through the back, glutes and hips. Firm doesn't have to mean painful, and you can ask for lighter or firmer pressure at any time.\n\nMassage complements walking and strength work rather than replacing them. Pain spreading down a leg, numbness, weakness, bladder or bowel changes, or pain after a fall should be assessed by a GP or physio first.\n\nOur remedial massage therapists at Hybrid Physio tailor each session. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#lowerbackpain",
+    "#backpain",
+    "#deskjob",
+    "#sydneymassage",
+    "#chatswoodmassage",
+    "#chatswood",
+    "#sydney",
+    "#officeworker",
+    "#hybridphysiotherapy",
+    "#massage"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on what happens in a remedial massage for lower back pain, pressure being your call and signs to see a GP or physio first.",
+  "story": {
+    "headline": "First back massage?",
+    "body": "Pressure is your call.<br>Just say so.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-13",
+  "created": "2027-01-13-4",
+  "status": "approved",
+  "review_warnings": []
+}

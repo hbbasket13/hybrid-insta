@@ -1,0 +1,131 @@
+{
+  "id": "C-269-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates props: ball, ring and band",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "공, 링, 밴드..<br>모모는 <em>뭐부터 쓸까?</em>",
+      "sub": "하비와 함께 알아보는 필라테스 소도구",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "하나씩<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "필라테스가 궁금한 모모,<br>소도구 앞에서 <em>멈칫</em>.",
+      "char": "cat_tired",
+      "bubble": "이건 다 어디에<br>쓰는 거지..?",
+      "bubble_type": "thought",
+      "note": "(공을 들었다, 링을 들었다, 결국 내려놓음..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>의<br>하비에게 물어봤다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>소도구가 궁금하구나?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네! 이거 쓰면<br>더 힘들어지죠?"
+      },
+      "note": "하비는 소도구마다 <mark>하는 일</mark>을 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "소도구는 <em>더 쉽게</em><br>만들기도 해요!",
+      "fact": "공을 머리 밑에 두면 <em>동작을 배우기</em> 더 쉬워져요",
+      "left": {
+        "label": "도움 받기",
+        "char": "cat_happy",
+        "caption": "공·밴드가 받쳐주면<br>동작을 <b>잘 익혀요</b>"
+      },
+      "right": {
+        "label": "무조건 버티기",
+        "char": "cat_tired",
+        "caption": "힘들게만 하면<br><em>자세가 흐트러져요</em>"
+      },
+      "quip": "소도구는 각자<br>하는 일이 달라요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 소도구 가이드</b>",
+      "sub": "집에서 하나만 골라봐요!",
+      "sections": [
+        {
+          "heading": "1. 각자 하는 일",
+          "color": "yellow",
+          "lines": [
+            "① <em>작은 공</em>: 등 뒤에 두고 느낌 찾기.",
+            "② <em>링</em>: 허벅지 사이 <em>5초 × 10회</em>.",
+            "③ <em>밴드</em>: 잡는 길이로 강도를 조절해요.",
+            "④ 하나로 <em>2~3가지 동작</em>부터 익혀요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 상담받기!",
+          "color": "purple",
+          "lines": [
+            "동작 중 <em>날카로운 통증</em>이 있거나",
+            "<em>저림</em>이 생기면 멈추기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "어떤 걸 쓸지 <em>모르겠다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우엔 먼저 평가받기",
+      "items": [
+        "부상 후 다시 시작한다",
+        "통증이 몇 주째 있다",
+        "저리거나 힘이 빠진다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "필라테스가 궁금한 모모. 공, 링, 밴드 앞에서 뭘 들어야 할지 망설였어요.\n\n작은 공은 등 뒤나 무릎 사이에 두면 무엇이 움직이고 무엇이 버티는지 느끼기 쉬워요. 링은 손이나 허벅지 사이에서 가볍게 눌러 저항을 주고, 밴드는 잡는 길이나 색으로 강도를 바꿀 수 있어요.\n\n소도구는 더 힘들게만 만드는 게 아니에요. 동작을 먼저 잘 익히게 도와주기도 해요. 하나를 골라 2~3가지 동작부터 익혀봐요.\n\n통증이 몇 주째거나 부상 후 다시 시작한다면 평가가 먼저예요. 하이브리드 피지오 필라테스 팀이 함께해요. 프로필 링크에서 온라인 예약 🐱\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#필라테스소도구",
+    "#시드니필라테스",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#홈트",
+    "#clinicalpilates",
+    "#sydneypilates",
+    "#pilatesprops",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 고양이 모모가 등장하는 7장짜리 만화 카드뉴스: 필라테스 공·링·밴드의 역할, 소도구가 동작을 쉽게 만드는 방법, 1분 소도구 가이드, 평가가 필요한 경우.",
+  "story": {
+    "headline": "공, 링, 밴드 뭐부터 쓸까?",
+    "body": "하나만 골라<br>2~3가지 동작부터!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-29",
+  "created": "2027-01-29-5",
+  "status": "approved",
+  "review_warnings": []
+}

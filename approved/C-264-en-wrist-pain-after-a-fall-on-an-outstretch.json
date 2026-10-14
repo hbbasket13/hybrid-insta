@@ -1,0 +1,131 @@
+{
+  "id": "C-264-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Wrist pain after a fall on an outstretched hand",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko fell on one hand.<br>Why is the <em>wrist still sore</em>?",
+      "sub": "A wrist story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's take<br>a closer look!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A wet deck, a <em>slip</em>,<br>and a hand thrown out.",
+      "char": "koala_tired",
+      "bubble": "It's been days..<br>why is it still<br>so sore..?",
+      "bubble_type": "thought",
+      "note": "(even lifting a cuppa makes it twinge..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Koko went to see Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Landed on your hand?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. it's only<br>a sprain, isn't it?"
+      },
+      "note": "Hybi showed Koko <mark>the spot worth checking</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Check the <em>hollow</em> at<br>the base of the thumb!",
+      "fact": "A <em>small bone</em> at the thumb base can be easy to miss",
+      "left": {
+        "label": "Checked early",
+        "char": "koala_happy",
+        "caption": "An X-ray if needed<br><b>clears it up</b>"
+      },
+      "right": {
+        "label": "Wait it out",
+        "char": "koala_tired",
+        "caption": "A missed injury can<br><em>show up later</em>"
+      },
+      "quip": "Most are sprains,<br>but check first!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute wrist first aid</b>",
+      "sub": "For the first few days!",
+      "sections": [
+        {
+          "heading": "1. Early care",
+          "color": "yellow",
+          "lines": [
+            "① Take rings off <em>early</em>, before swelling.",
+            "② Keep it raised, cold pack <em>10–15 minutes</em>.",
+            "③ Keep fingers, elbow and shoulder <em>moving gently</em>.",
+            "④ Avoid <em>leaning or lifting</em> on it for now."
+          ]
+        },
+        {
+          "heading": "2. Get checked soon if…",
+          "color": "purple",
+          "lines": [
+            "The thumb-base hollow is <em>tender</em>, or the",
+            "wrist <em>changes shape</em> — see a GP or ED."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Not easing after a <em>week or two</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tender at the thumb base",
+        "Swelling or a shape change",
+        "Trouble gripping"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko slipped on a wet deck and put a hand out. Days later, the wrist is still sore.\n\nThrowing a hand out when you fall is instinctive. Many of these are sprains that settle, but some involve a small bone at the base of the thumb that can be easy to miss.\n\nTenderness in the hollow at the base of the thumb, swelling, a change in shape or trouble gripping are worth checking, often with an X-ray through your GP or emergency department. Once that's ruled out, rehab rebuilds movement and grip step by step.\n\nOur Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#wristpain",
+    "#wristinjury",
+    "#falls",
+    "#handtherapy",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#healthyageing",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining wrist pain after a fall on an outstretched hand, why the thumb-base hollow matters, a 1-minute first aid routine and signs worth getting checked.",
+  "story": {
+    "headline": "Wrist still sore after a fall?",
+    "body": "Tender at the thumb base?<br>Get it checked.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-27",
+  "created": "2027-01-27-6",
+  "status": "approved",
+  "review_warnings": []
+}

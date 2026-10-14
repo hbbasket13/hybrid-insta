@@ -1,0 +1,131 @@
+{
+  "id": "C-230-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for weekend cricketers",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Long day in the field?<br>Toto's <em>body knows</em>",
+      "sub": "Massage for weekend cricketers, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's go<br>position by position!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Bowling and fielding<br><em>all day long</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why are my back<br>and shoulders<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(Monday morning, even the legs feel heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big weekend match?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. when's the<br>right time for a massage?"
+      },
+      "note": "Hybi mapped out <mark>what each role loads</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Each role tires<br><em>different areas</em>!",
+      "fact": "Bowlers: back and hips · keepers: <em>hips and thighs</em>",
+      "left": {
+        "label": "1–2 days after",
+        "char": "rabbit_happy",
+        "caption": "Lighter massage often<br><b>suits most players</b>"
+      },
+      "right": {
+        "label": "Deep, day before",
+        "char": "rabbit_tired",
+        "caption": "Deep work right before<br>can leave legs <em>heavy</em>"
+      },
+      "quip": "Save deeper work<br>for midweek!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>cricket recovery plan</b>",
+      "sub": "Check it before next Saturday!",
+      "sections": [
+        {
+          "heading": "1. By position",
+          "color": "yellow",
+          "lines": [
+            "① Bowlers: back, glutes, sides + strength work.",
+            "② Keepers: hips, quads, calves + <em>hip mobility</em>.",
+            "③ Fielders: <em>shoulders and hamstrings</em>.",
+            "④ Light after the match, <em>deeper midweek</em>."
+          ]
+        },
+        {
+          "heading": "2. See a physio if…",
+          "color": "purple",
+          "lines": [
+            "<em>Sharp pain</em> or swelling shows up, or",
+            "your back gets <em>worse each week</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>feeling it</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sharp pain",
+        "Swelling",
+        "A back worse each week"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "A long day in the field, and by Monday Toto feels every over.\n\nEach role loads the body differently. Bowling works the lower back, trunk and hips hard. Keepers spend hours squatting, so hips, quads and calves get tired. Fielders throw and sprint, loading shoulders and hamstrings.\n\nLighter massage a day or two after the match tends to suit most players, with deeper work saved for midweek so your legs feel fresh by Saturday's first ball. Massage complements warm-ups, strength work and hydration in the heat. Sharp pain, swelling or a back that's worse each week is worth a physio assessment.\n\nOur remedial massage therapists at Hybrid Physio tailor each session to your role on the field. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#cricket",
+    "#weekendcricket",
+    "#remedialmassage",
+    "#sportsmassage",
+    "#recovery",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#sydney",
+    "#weekendwarrior",
+    "#bowlers",
+    "#hybridphysiotherapy",
+    "#massagetherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto on where massage fits for weekend cricketers by position, timing your sessions and signs worth a physio assessment.",
+  "story": {
+    "headline": "Cricket legs feeling every over?",
+    "body": "Light massage 1–2 days after,<br>deeper work midweek.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-13",
+  "created": "2027-01-13-2",
+  "status": "approved",
+  "review_warnings": []
+}

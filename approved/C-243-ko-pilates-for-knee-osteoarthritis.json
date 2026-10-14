@@ -1,0 +1,131 @@
+{
+  "id": "C-243-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for knee osteoarthritis",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "무릎이 시큰한 코코,<br><em>리포머</em> 해도 될까?",
+      "sub": "무릎 관절염과 필라테스 첫 몇 주",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "계단 내려갈 때마다<br>무릎이 <em>시큰시큰</em>.",
+      "char": "koala_tired",
+      "bubble": "운동하면 무릎이<br>더 나빠지려나..?",
+      "bubble_type": "thought",
+      "note": "(차에서 내릴 때도 끙..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>무릎이 불편하구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "무릎이 아픈데<br>운동해도 되나요?"
+      },
+      "note": "하비는 <mark>누워서 하는 풋워크</mark>를 소개했다."
+    },
+    {
+      "kind": "compare",
+      "title": "누워서 하면 무릎<br>부담이 <em>덜해요!</em>",
+      "fact": "리포머 풋워크: <em>체중 부담은 줄이고</em> 근력은 키우고",
+      "left": {
+        "label": "풋워크",
+        "char": "koala_happy",
+        "caption": "누워서 밀며<br><b>허벅지·엉덩이 강화</b>"
+      },
+      "right": {
+        "label": "안 움직이기",
+        "char": "koala_tired",
+        "caption": "움직임이 줄면<br><em>더 뻣뻣해질 수 있어요</em>"
+      },
+      "quip": "가벼운 시큰함은<br>보통 하루면 가라앉아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>첫 몇 주 플랜</b>",
+      "sub": "무릎에 맞춰 조절해요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 진행해요",
+          "color": "yellow",
+          "lines": [
+            "① 첫 시간엔 무릎·목표 <em>상담과 체크</em>.",
+            "② 리포머 풋워크, 스프링은 <em>맞춤 조절</em>.",
+            "③ 다음 날 아침 무릎 상태 <em>알려주기</em>.",
+            "④ 점차 스텝업·앉았다 일어서기 추가."
+          ]
+        },
+        {
+          "heading": "2. 시작 전에 확인받기!",
+          "color": "purple",
+          "lines": [
+            "무릎이 <em>잠기거나 꺾이거나</em>,",
+            "<em>뜨겁고 많이 붓는다면</em> 먼저 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "무릎이 잠기거나 꺾인다",
+        "뜨겁고 많이 붓는다",
+        "밤에 아파서 깬다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "계단 내려갈 때마다 무릎이 시큰한 코코. 리포머 필라테스, 해도 될까요?\n\n첫 시간은 무릎, 일상, 목표에 대한 상담과 간단한 움직임 체크로 시작해요. 리포머 풋워크는 누워서 하니까 무릎에 실리는 체중은 줄이고 허벅지·엉덩이 근력은 키울 수 있어요.\n\n운동 중이나 후 가벼운 시큰함은 흔하고 보통 하루면 가라앉아요. 무릎이 잠기거나 많이 붓는다면 먼저 확인받아요. 하이브리드 피지오 필라테스 팀이 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#무릎관절염",
+    "#무릎통증",
+    "#필라테스",
+    "#리포머필라테스",
+    "#시드니필라테스",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#clinicalpilates",
+    "#kneeosteoarthritis",
+    "#chatswood",
+    "#pilates"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 무릎 관절염이 있을 때 리포머 필라테스 첫 몇 주, 누워서 하는 풋워크, 진행 방법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "무릎 관절염, 필라테스?",
+    "body": "누워서 하는 풋워크로<br>부담은 줄이고 근력은 UP!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-18",
+  "created": "2027-01-18-3",
+  "status": "approved",
+  "review_warnings": []
+}

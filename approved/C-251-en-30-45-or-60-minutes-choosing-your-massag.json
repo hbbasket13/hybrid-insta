@@ -1,0 +1,131 @@
+{
+  "id": "C-251-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "30, 45 or 60 minutes: choosing your massage length",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "30, 45 or 60 minutes?<br><em>Which one to book?</em>",
+      "sub": "Choosing your massage length, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's match it<br>to your goal!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo stares at<br>the <em>booking screen</em>.",
+      "char": "cat_tired",
+      "bubble": "Longer is always<br>better.. right..?",
+      "bubble_type": "thought",
+      "note": "(tight shoulders, tight calves too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Momo asked Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Momo!<br>What's bothering you?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "A bit of everything..<br>how long should I book?"
+      },
+      "note": "Hybi explained that <mark>the length should match the goal</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Not longer, just<br><em>right for the goal</em>!",
+      "fact": "30 min: one area · 45: two linked areas · 60: several",
+      "left": {
+        "label": "Goal-matched",
+        "char": "cat_happy",
+        "caption": "A length you can keep<br>booking, plus <b>exercise</b>"
+      },
+      "right": {
+        "label": "Always longest",
+        "char": "cat_tired",
+        "caption": "More time on one spot<br><em>isn't always more help</em>"
+      },
+      "quip": "Tell us your goal<br>when you book!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute length guide</b>",
+      "sub": "Check before you book!",
+      "sections": [
+        {
+          "heading": "1. Pick it like this",
+          "color": "yellow",
+          "lines": [
+            "① One area (shoulders, calves)? <em>30 min</em>.",
+            "② Two linked areas, like neck + back? <em>45 min</em>.",
+            "③ First visit, several areas, big training? <em>60</em>.",
+            "④ Tell us <em>your goal</em> when you book."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You have <em>numbness or weakness</em>, or pain that",
+            "keeps <em>building</em> — get assessed first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em><br>after a massage?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in arms or legs",
+        "Pain getting worse",
+        "Swelling or warmth"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Staring at the booking screen, wondering whether to pick 30, 45 or 60 minutes? Momo was too.\n\nA quick guide: 30 minutes suits one focused area, like tight shoulders or post-run calves. 45 minutes works for two connected areas, such as neck and upper back. 60 minutes is useful for a first visit, several areas, or a heavy training block.\n\nLonger isn't automatically better. The right length is usually the one you can book consistently, paired with movement and exercise between sessions. Not sure? Tell your therapist your goal.\n\nOur remedial massage therapists at Hybrid Physio plan each session around you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#massagetherapy",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydneycbd",
+    "#musclerecovery",
+    "#deskjob",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#chatswoodmassage",
+    "#selfcare"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining how to choose a 30, 45 or 60 minute remedial massage based on your goal, plus signs worth getting assessed first.",
+  "story": {
+    "headline": "30, 45 or 60 minutes?",
+    "body": "One area 30, two areas 45,<br>several areas 60.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-21",
+  "created": "2027-01-21-2",
+  "status": "approved",
+  "review_warnings": []
+}

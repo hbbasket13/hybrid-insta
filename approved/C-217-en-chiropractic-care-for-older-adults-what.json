@@ -1,0 +1,131 @@
+{
+  "id": "C-217-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Chiropractic care for older adults: what to expect",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's first chiro visit:<br><em>what happens?</em>",
+      "sub": "Chiropractic care for older adults",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A stiff back is making<br><em>cuddling grandkids</em> hard.",
+      "char": "koala_tired",
+      "bubble": "Isn't chiro all<br>big cracks..?",
+      "bubble_type": "thought",
+      "note": "(and a little worried about bone health..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>A bit nervous?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "What actually<br>happens there?"
+      },
+      "note": "Hybi said it all <mark>starts with your history</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Assessment first,<br>techniques <em>second</em>",
+      "fact": "<em>Gentle techniques</em> are common in care for older adults",
+      "left": {
+        "label": "Assessed first",
+        "char": "koala_happy",
+        "caption": "Health, meds, bones,<br>then <b>gentle options</b>"
+      },
+      "right": {
+        "label": "Straight in",
+        "char": "koala_tired",
+        "caption": "No questions,<br><em>straight to it</em>"
+      },
+      "quip": "You can say no to<br>anything, any time!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first-visit checklist</b>",
+      "sub": "Get ready before you come in!",
+      "sections": [
+        {
+          "heading": "1. Come prepared",
+          "color": "yellow",
+          "lines": [
+            "① List <em>medications</em>, injuries, bone health.",
+            "② Share what you want to <em>keep doing</em>.",
+            "③ Expect simple <em>strength and balance</em> exercises.",
+            "④ Your chiropractor may <em>liaise with your GP</em>."
+          ]
+        },
+        {
+          "heading": "2. See your GP first if…",
+          "color": "purple",
+          "lines": [
+            "You have <em>new back pain after a fall</em>,",
+            "or <em>sudden severe pain</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "See your <em>GP first</em> if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See your GP before any care if",
+      "items": [
+        "New back pain after a fall",
+        "Unexplained weight loss",
+        "Leg numbness or weakness"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko's stiff back is making it hard to cuddle the grandkids, and she's nervous about her first chiro visit.\n\nIt starts with a conversation: your health, medications, past injuries, bone health and what you want to keep doing. Care for older adults often uses gentle options like low-force mobilisation or soft tissue work, chosen after assessment, and you can say no to anything.\n\nExpect simple strength, balance and mobility exercises for home. If you have osteoporosis, your chiropractor will adapt their approach and may liaise with your GP. New back pain after a fall or leg numbness means a GP visit first.\n\nOur chiropractors at Hybrid Physio take time to assess you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#healthyageing",
+    "#seniorhealth",
+    "#activeageing",
+    "#balance",
+    "#sydneychiro",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about chiropractic care for older adults, assessment-first care, a first-visit checklist and signs to see a GP first.",
+  "story": {
+    "headline": "First chiro visit at 60+?",
+    "body": "It starts with your history<br>and gentle options.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-08",
+  "created": "2027-01-08-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-263-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Finger sprains and jams in ball sports",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu jammed a finger<br><em>catching the ball</em>",
+      "sub": "A finger sprain story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Hold on, don't<br>yank it yet!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekend cricket.<br>One catch, <em>one jammed finger</em>.",
+      "char": "kanga_tired",
+      "bubble": "Should I just tug<br>it back straight..?",
+      "bubble_type": "thought",
+      "note": "(the middle knuckle is already puffing up..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Jammed a finger?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. can't I just<br>pull it straight?"
+      },
+      "note": "Hybi explained <mark>why tugging isn't the move</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Protect</em> it first,<br>don't pull it!",
+      "fact": "Tugging can stress the <em>ligaments that just got sprained</em>",
+      "left": {
+        "label": "Buddy tape",
+        "char": "kanga_happy",
+        "caption": "Support that still<br>lets it <b>bend</b>"
+      },
+      "right": {
+        "label": "Tug it back",
+        "char": "kanga_tired",
+        "caption": "Stresses the same<br><em>injured ligaments</em>"
+      },
+      "quip": "Cool it, raise it,<br>keep the rest moving!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute finger care</b>",
+      "sub": "Jammed it? Try this!",
+      "sections": [
+        {
+          "heading": "1. The first few days",
+          "color": "yellow",
+          "lines": [
+            "① Wrapped cold pack for <em>about 15 minutes</em>.",
+            "② Keep your hand <em>raised above your heart</em>.",
+            "③ <em>Buddy tape</em> to the next finger, snug not tight.",
+            "④ Make a <em>loose fist</em> a few times an hour."
+          ]
+        },
+        {
+          "heading": "2. Get it checked soon if…",
+          "color": "purple",
+          "lines": [
+            "The fingertip <em>won't straighten</em>, or",
+            "the joint <em>looks out of place</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>puffy and stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Fingertip won't straighten",
+        "Joint looks bent or odd",
+        "Numbness or weak grip"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu jammed a finger catching a ball at weekend cricket. The urge is to tug it straight, but hold on.\n\nFinger sprains are common in cricket, netball, basketball and beach volleyball. Pulling on the joint can stress the ligaments that were just injured, so cool it, raise it and keep the other knuckles moving gently. Buddy taping to the next finger gives support while it still bends.\n\nMost jammed fingers settle with time, though a puffy joint can hang around for weeks. A fingertip that won't straighten, a joint that looks out of place, numbness or big swelling are worth checking soon, as some do better with early splinting.\n\nOur Chatswood and Sydney CBD physios can help. Book online via the link in bio 🦘\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#fingerinjury",
+    "#sportsphysio",
+    "#cricket",
+    "#netball",
+    "#buddytaping",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sportsinjury"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why not to tug a jammed finger, buddy taping versus pulling, a 1-minute finger care routine and signs worth getting checked.",
+  "story": {
+    "headline": "Jammed a finger catching?",
+    "body": "Don't tug it.<br>Cool it and raise it.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-27",
+  "created": "2027-01-27-2",
+  "status": "approved",
+  "review_warnings": []
+}

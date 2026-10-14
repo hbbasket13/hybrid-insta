@@ -1,0 +1,131 @@
+{
+  "id": "C-249-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Menopause and joint aches: staying strong",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "요즘 들어 관절이<br><em>뻐근한</em> 코코",
+      "sub": "갱년기와 관절 이야기, 하비와 함께",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "근력이<br>친구가 돼줄 거예요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "아침마다 손가락·무릎이<br><em>뻣뻣한</em> 코코.",
+      "char": "koala_tired",
+      "bubble": "나이 들면 그냥<br>쉬어야 하는 걸까..?",
+      "bubble_type": "thought",
+      "note": "(갱년기 들어 부쩍 그런 것 같은데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "어서 와요, 코코!<br>요즘 어때요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "관절이 뻐근해서..<br>운동해도 될까요?"
+      },
+      "note": "하비는 <mark>근력운동의 힘</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "쉬기만 하기보다<br><em>힘을 길러요!</em>",
+      "fact": "연구에 따르면 근력운동은 <em>근육·뼈</em> 유지에 도움돼요",
+      "left": {
+        "label": "근력운동",
+        "char": "koala_happy",
+        "caption": "주 2~3번<br><b>조금씩 늘려요</b>"
+      },
+      "right": {
+        "label": "쉬기만",
+        "char": "koala_tired",
+        "caption": "움직임이 줄수록<br><em>더 뻣뻣해질 수 있어요</em>"
+      },
+      "quip": "가볍게 시작해서<br>천천히 늘려요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 근력 스타터</b>",
+      "sub": "집에서 바로 시작해요!",
+      "sections": [
+        {
+          "heading": "1. 기본 근력 3종",
+          "color": "yellow",
+          "lines": [
+            "① 의자에 앉았다 일어나기 <em>10회</em>.",
+            "② 벽 짚고 푸시업 <em>10회</em>.",
+            "③ 밴드로 당기기(로우) <em>10회</em>.",
+            "④ <em>주 2~3번</em>, 몇 주에 걸쳐 조금씩 늘리기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기!",
+          "color": "purple",
+          "lines": [
+            "관절이 <em>뜨겁고 붓거나</em>, 열·몸살 기운이",
+            "같이 있으면 운동 멈추고 <em>GP 먼저</em>!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 관절이<br><em>계속 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "관절이 뜨겁고 붓는다",
+        "넘어진 뒤 통증",
+        "매일 밤 깨는 통증"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "요즘 들어 아침마다 손가락과 무릎이 뻣뻣한 코코. 갱년기 무렵 관절이 뻐근해지는 건 생각보다 흔해요. 호르몬 변화가 근육·힘줄·관절에 영향을 줄 수 있거든요.\n\n연구에 따르면 근력운동은 이 시기에 줄기 쉬운 근육과 뼈를 지키는 데 도움이 될 수 있어요. 의자 스쿼트, 벽 푸시업, 밴드 로우로 주 2~3번 시작해서 천천히 늘려요. 걷기, 좋은 잠도 함께 챙겨요.\n\n관절이 뜨겁게 붓거나 열이 함께 있으면 GP 먼저, 갱년기 관리도 GP와 상의해요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#갱년기",
+    "#관절통",
+    "#근력운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#menopause"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 갱년기 관절 뻐근함, 근력운동이 도움이 되는 이유, 집에서 하는 기본 근력 3종, 확인이 필요한 신호.",
+  "story": {
+    "headline": "갱년기 관절, 근력이 친구예요",
+    "body": "의자 스쿼트 10회부터,<br>주 2~3번!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-20",
+  "created": "2027-01-20-3",
+  "status": "approved",
+  "review_warnings": []
+}

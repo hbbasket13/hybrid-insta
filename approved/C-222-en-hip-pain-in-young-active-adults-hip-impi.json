@@ -1,0 +1,131 @@
+{
+  "id": "C-222-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hip pain in young active adults (hip impingement)",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's hip<br><em>pinches</em> in deep squats",
+      "sub": "Hip impingement in active adults, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every deep squat,<br>a <em>pinch</em> in the groin.",
+      "char": "rabbit_tired",
+      "bubble": "Even getting out<br>of the car pinches..?",
+      "bubble_type": "thought",
+      "note": "(sitting on a low couch makes it ache more..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Front of the hip pinchy?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. do I have to<br>stop training?"
+      },
+      "note": "Hybi explained <mark>why stopping everything</mark> isn't needed."
+    },
+    {
+      "kind": "compare",
+      "title": "Ease the pinch,<br><em>keep moving</em>!",
+      "fact": "Lots of people have these hip shapes <em>and no pain</em>",
+      "left": {
+        "label": "Adjusted load",
+        "char": "rabbit_happy",
+        "caption": "Walk, cycle or swim<br>if they <b>feel okay</b>"
+      },
+      "right": {
+        "label": "Deep and often",
+        "char": "rabbit_tired",
+        "caption": "Repeated deep squats can<br><em>stir it up</em> for now"
+      },
+      "quip": "Strength work is usually<br>the first step!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute glute bridge</b>",
+      "sub": "Try it on the mat today!",
+      "sections": [
+        {
+          "heading": "1. Glute bridge",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, knees bent, feet hip-width.",
+            "② Squeeze your glutes, <em>lift slowly</em>.",
+            "③ Hold <em>3 sec × 10 reps</em>, once or twice a day.",
+            "④ For now, <em>sit a little higher</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or the hip",
+            "<em>catches or locks</em> — stop and check in."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Hip <em>still pinching</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain after a fall",
+        "Pain at night that builds",
+        "A limp that won't settle"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "That pinch at the front of Toto's hip when squatting deep or sitting low? It's common in young, active adults.\n\nSome hip shapes mean the joint meets a little earlier in deep bending, but plenty of people have those shapes and no pain. Symptoms usually relate to load and irritation, and load can be adjusted.\n\nFor now, ease off the positions that pinch, sit a little higher, and keep walking, cycling or swimming if they feel okay. Current guidelines support exercise therapy first: hip, glute and trunk strength plus control in deeper ranges. A locking hip, night pain or a limp that won't settle is worth getting checked.\n\nOur Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#hippain",
+    "#hipimpingement",
+    "#squats",
+    "#activelife",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#strengthtraining",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto on hip impingement in active adults, adjusting load instead of stopping, a 1-minute glute bridge and signs worth getting checked.",
+  "story": {
+    "headline": "Hip pinch when you squat?",
+    "body": "Sit a little higher,<br>glute bridge 3 sec × 10.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-09",
+  "created": "2027-01-09-6",
+  "status": "approved",
+  "review_warnings": []
+}

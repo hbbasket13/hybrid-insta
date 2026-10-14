@@ -1,0 +1,131 @@
+{
+  "id": "C-260-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "What your massage therapist is feeling for",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "모모의 마사지 선생님은<br><em>무엇을 느끼고</em> 있을까?",
+      "sub": "하비와 함께 알아보는 마사지 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "손끝의 비밀,<br>같이 볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마사지를 좋아하는 모모,<br>그런데 늘 <em>궁금하다</em>.",
+      "char": "cat_tired",
+      "bubble": "선생님 손은<br>뭘 찾고 있는<br>걸까..?",
+      "bubble_type": "thought",
+      "note": "(어깨를 꾹꾹 눌러보며 혼자 추리 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>의<br>하비에게 물어봤다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>마사지가 궁금하구나?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네! 뭉친 데가 있으면<br>문제 있는 거예요?"
+      },
+      "note": "하비는 손이 <mark>무엇을 확인하는지</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "손은 <em>단서</em>를 모을 뿐,<br>진단은 아니에요!",
+      "fact": "보통 <em>양쪽을 비교</em>하며 어디에 시간을 쓸지 정해요",
+      "left": {
+        "label": "말해주기",
+        "char": "cat_happy",
+        "caption": "압이 어떤지 말하면<br>선생님이 <b>조절해요</b>"
+      },
+      "right": {
+        "label": "꾹 참기",
+        "char": "cat_tired",
+        "caption": "숨 참고 버티면<br>근육이 <em>더 굳어요</em>"
+      },
+      "quip": "내 피드백도 손만큼<br>중요한 정보예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 마사지 준비</b>",
+      "sub": "받기 전에 알아두면 좋아요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 소통해요",
+          "color": "yellow",
+          "lines": [
+            "① 시작 전 <em>불편한 곳</em>을 먼저 말해요.",
+            "② 압이 들어올 때 <em>천천히 숨</em>을 내쉬어요.",
+            "③ <em>\"더 약하게\"</em>는 언제든 말해도 돼요.",
+            "④ 끝나면 <em>가볍게 10분</em> 걸어봐요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 전에 확인받기!",
+          "color": "purple",
+          "lines": [
+            "부위가 <em>뜨겁거나 부었거나</em>,",
+            "통증이 <em>퍼진다면</em> 물리치료사·GP 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "마사지 후에도 <em>계속 아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "열감이나 붓기가 있다",
+        "팔다리로 통증이 퍼진다",
+        "2주 넘게 그대로다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "마사지 받을 때마다 선생님 손이 뭘 찾는지 궁금했던 모모.\n\n리메디얼 마사지 테라피스트는 근육이 부드러운지, 단단하게 굳어 있는지, 어디가 예민한지, 압에 어떻게 반응하는지를 느끼고 보통 양쪽을 비교해요. 다만 손으로 느낀 건 단서일 뿐 진단은 아니에요.\n\n압이 세면 언제든 말해주세요. 내 피드백도 손만큼 중요해요. 부위가 뜨겁거나 붓거나 통증이 퍼지면 물리치료사나 GP 확인이 먼저예요.\n\n하이브리드 피지오 리메디얼 마사지 테라피스트가 하면서 설명해드려요. 프로필 링크에서 온라인 예약 🐱\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#마사지",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#근육뭉침",
+    "#remedialmassage",
+    "#sydneymassage",
+    "#chatswood",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 고양이 모모가 등장하는 7장짜리 만화 카드뉴스: 마사지 테라피스트가 손으로 느끼는 것, 피드백의 중요성, 마사지 전 소통 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "마사지 선생님 손은 뭘 찾을까?",
+    "body": "압이 세면 언제든<br>말해도 돼요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-25",
+  "created": "2027-01-25-5",
+  "status": "approved",
+  "review_warnings": []
+}

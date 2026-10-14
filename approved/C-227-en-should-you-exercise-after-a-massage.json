@@ -1,0 +1,131 @@
+{
+  "id": "C-227-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Should you exercise after a massage?",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Gym after a massage:<br><em>yes or no</em>?",
+      "sub": "Massage and training timing, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "It depends on<br>the session!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Massage done, and<br>it's <em>leg day</em>..",
+      "char": "kanga_tired",
+      "bubble": "Can I squat<br>heavy right now..?",
+      "bubble_type": "thought",
+      "note": "(the legs feel a little heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Off to the gym?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. is it okay<br>to lift heavy?"
+      },
+      "note": "Hybi split it up <mark>by how hard you train</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Light movement: yes.<br><em>Max efforts: tomorrow</em>!",
+      "fact": "After deep work, legs can feel <em>heavy for a few hours</em>",
+      "left": {
+        "label": "Easy walk",
+        "char": "kanga_happy",
+        "caption": "A walk or easy spin is<br>usually <b>fine</b>"
+      },
+      "right": {
+        "label": "Max lift",
+        "char": "kanga_tired",
+        "caption": "Save max lifts and<br>sprints <em>for tomorrow</em>"
+      },
+      "quip": "Book it after your<br>big session!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>massage timing plan</b>",
+      "sub": "Fit it into your week!",
+      "sections": [
+        {
+          "heading": "1. Plan it like this",
+          "color": "yellow",
+          "lines": [
+            "① After a massage: <em>walk or easy cycling</em>.",
+            "② Max lifts and sprints: <em>next day</em>.",
+            "③ Book it <em>after</em> a key session, or 1–2 days before.",
+            "④ Sore next morning? <em>Drop the intensity</em>."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "A spot stays <em>sore for days</em>, or",
+            "you notice swelling or bruising."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still sore when <em>training</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Soreness lasting days",
+        "Swelling or bruising",
+        "Sharp pain when training"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Massage done, and it's leg day. Should Lulu go heavy? It depends on the session and what you're training.\n\nA walk, easy cycling or your physio exercises are generally fine afterwards, and a nice way to enjoy that looser feeling. After deep work, some people feel heavy or less springy for a few hours, so many save max lifts and sprints for the next day.\n\nGot a key session this week? Book your massage after it, or a day or two before. Massage complements strength training rather than replacing it, so keep your usual program going. Soreness lasting days or swelling is worth getting checked.\n\nOur remedial massage therapists at Hybrid Physio ask about your training week and tailor pressure and timing. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#recovery",
+    "#legday",
+    "#gymlife",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#sydney",
+    "#strengthtraining",
+    "#sportsmassage",
+    "#hybridphysiotherapy",
+    "#training"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on exercising after a massage: light movement versus max efforts, a timing plan and signs worth getting checked.",
+  "story": {
+    "headline": "Gym after a massage?",
+    "body": "Light movement yes,<br>max efforts tomorrow.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-12",
+  "created": "2027-01-12-2",
+  "status": "approved",
+  "review_warnings": []
+}

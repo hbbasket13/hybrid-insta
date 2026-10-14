@@ -1,0 +1,131 @@
+{
+  "id": "C-245-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Watching weekend sport from the sidelines: back care",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "주말 경기 응원 후<br>코코 <em>허리가 뻐근</em>",
+      "sub": "사이드라인 응원, 허리 관리법",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "쉬는 시간에<br>움직여봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "손주 축구 경기,<br>낮은 의자에서 <em>하루 종일</em>.",
+      "char": "koala_tired",
+      "bubble": "응원만 했는데<br>왜 허리가 아프지..?",
+      "bubble_type": "thought",
+      "note": "(경기 사이 차 안에서도 몇 시간..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>허리가 뻐근하구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "운동한 것도<br>아닌데요?"
+      },
+      "note": "하비는 <mark>한 자세로 오래 있기</mark>가 원인일 수 있다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "큰 스트레칭 한 번보다<br><em>자주 조금씩!</em>",
+      "fact": "엉덩이가 무릎과 같거나 <em>살짝 높은 의자</em>가 편해요",
+      "left": {
+        "label": "등받이 의자",
+        "char": "koala_happy",
+        "caption": "쉬는 시간마다<br><b>한 바퀴 걷기</b>"
+      },
+      "right": {
+        "label": "낮은 비치 의자",
+        "char": "koala_tired",
+        "caption": "깊이 파묻혀<br><em>몇 시간 그대로</em>"
+      },
+      "quip": "작게 자주 움직이는<br>게 더 나아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 응원석 루틴</b>",
+      "sub": "쿼터 타임마다 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 경기장에서",
+          "color": "yellow",
+          "lines": [
+            "① 등받이 의자, 깊으면 <em>수건 깔기</em>.",
+            "② 쉬는 시간마다 <em>경기장 한 바퀴</em> 걷기.",
+            "③ 허리에 손 얹고 <em>뒤로 젖히기 5회</em>.",
+            "④ 짐은 양손에 나눠 <em>몸 가까이</em> 들기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 퍼지거나</em> 힘이 빠지면 상담,",
+            "<em>대소변 변화·사타구니 감각 저하</em>는 응급!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리로 퍼지는 통증",
+        "다리 힘이 빠진다",
+        "대소변 변화는 응급"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "손주 축구 경기를 하루 종일 응원한 코코. 뛴 것도 아닌데 허리가 뻐근해요.\n\n딱딱한 땅에 서 있기, 낮은 접이식 의자, 펜스에 기대기, 경기 사이 긴 운전. 힘든 일은 아니지만 한 자세로 오래 있으면 허리가 뻣뻣해질 수 있어요.\n\n등받이 의자, 쉬는 시간마다 한 바퀴 걷기, 짐은 몸 가까이! 다리로 퍼지는 통증은 확인받고, 대소변 변화는 바로 응급 진료를 받아요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#주말스포츠",
+    "#허리관리",
+    "#카이로프랙틱",
+    "#시드니카이로프랙틱",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#chiropractor",
+    "#backpain",
+    "#chatswood",
+    "#weekendsport"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 주말 경기 응원 후 허리가 뻐근한 이유, 의자 고르기, 쉬는 시간 움직이기, 확인이 필요한 신호.",
+  "story": {
+    "headline": "사이드라인 시즌이에요",
+    "body": "등받이 의자 챙기고<br>쉬는 시간마다 한 바퀴!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-19",
+  "created": "2027-01-19-5",
+  "status": "approved",
+  "review_warnings": []
+}

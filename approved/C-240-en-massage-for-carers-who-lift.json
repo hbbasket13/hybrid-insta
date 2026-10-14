@@ -1,0 +1,131 @@
+{
+  "id": "C-240-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for carers who lift",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu cares for Mum.<br><em>Who cares for Lulu?</em>",
+      "sub": "Massage for carers who lift, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "You need<br>looking after too!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After work,<br>helping Mum <em>in and out</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why are my back<br>and shoulders<br>so tight..?",
+      "bubble_type": "thought",
+      "note": "(the tension has been building quietly for weeks..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling worn out?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Will a massage<br>sort it all out?"
+      },
+      "note": "Hybi explained that <mark>massage complements</mark> other habits."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage <em>complements</em>,<br>it doesn't replace!",
+      "fact": "Remedial massage <em>can ease</em> muscle tightness",
+      "left": {
+        "label": "All together",
+        "char": "kanga_happy",
+        "caption": "Massage + strength<br>+ <b>lifting habits</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "kanga_tired",
+        "caption": "Same habits, tension<br>can <em>build again</em>"
+      },
+      "quip": "Regular sessions are<br>easier to keep!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute lifting habits</b>",
+      "sub": "Try them at every transfer!",
+      "sections": [
+        {
+          "heading": "1. Before you lift",
+          "color": "yellow",
+          "lines": [
+            "① Get <em>close</em> before you lift.",
+            "② <em>Bend your knees</em>, keep your back long.",
+            "③ <em>Turn with your feet</em>, not your back.",
+            "④ Use slide sheets and ask for a hand."
+          ]
+        },
+        {
+          "heading": "2. See a physio if…",
+          "color": "purple",
+          "lines": [
+            "Back pain <em>spreads into the leg</em>,",
+            "or started after a <em>sudden awkward lift</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading into the leg",
+        "Pins and needles",
+        "Pain after an awkward lift"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "After work, Lulu helps Mum in and out of bed, the car and the shower. Lower back, shoulders and forearms quietly take the load.\n\nRemedial massage can ease muscle tightness and help you feel less wound up, and many carers find regular sessions easier to keep than a one-off. It complements, rather than replaces, staying active, strength work and good lifting habits.\n\nGet close, bend your knees and turn with your feet. Back pain spreading into the leg or pain after an awkward lift is worth a physio assessment. Our remedial massage therapists at Hybrid Physio are here for carers too. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#carers",
+    "#carerhealth",
+    "#backpain",
+    "#shouldertension",
+    "#selfcare",
+    "#massagetherapy",
+    "#chatswood",
+    "#chatswoodmassage",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#massage"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu about looking after your body as a carer who lifts, massage as a complement, safer lifting habits and signs worth getting checked.",
+  "story": {
+    "headline": "Carers need care too",
+    "body": "Get close, bend your knees,<br>turn with your feet.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-16",
+  "created": "2027-01-16-6",
+  "status": "approved",
+  "review_warnings": []
+}

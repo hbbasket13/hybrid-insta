@@ -1,0 +1,131 @@
+{
+  "id": "C-241-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Quad strain in sprinting and kicking",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's thigh <em>grabbed</em><br>mid-sprint",
+      "sub": "Quad strain in sprinting and kicking, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Back step<br>by step!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Summer comp,<br>a <em>grab mid-sprint</em>!",
+      "char": "rabbit_tired",
+      "bubble": "Why does the front<br>of my thigh<br>pull like this..?",
+      "bubble_type": "thought",
+      "note": "(and stretching it only makes it worse..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Thigh bothering you?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Should I stretch<br>it out hard?"
+      },
+      "note": "Hybi suggested <mark>keeping it calm</mark> for the first few days."
+    },
+    {
+      "kind": "compare",
+      "title": "First few days:<br><em>keep it calm</em>!",
+      "fact": "Gentle movement <em>usually helps more</em> than rest or pushing",
+      "left": {
+        "label": "Easy walking",
+        "char": "rabbit_happy",
+        "caption": "Walk within comfort,<br><b>strength slowly</b>"
+      },
+      "right": {
+        "label": "Hard stretching",
+        "char": "rabbit_tired",
+        "caption": "Stretching into pain<br>can <em>stir it up</em>"
+      },
+      "quip": "Sprints and kicks<br>come last!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute thigh start</b>",
+      "sub": "Once walking feels easier!",
+      "sections": [
+        {
+          "heading": "1. Holds and bridges",
+          "color": "yellow",
+          "lines": [
+            "① Sit, knee straight, <em>tighten the thigh</em>.",
+            "② Hold <em>10 sec × 5</em>, twice a day.",
+            "③ Add bridges and partial squats slowly.",
+            "④ Jog → strides → <em>full sprints</em>, in order."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "A <em>pop</em> came with heavy bruising,",
+            "or there's a <em>dent</em> in the thigh."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A pop with heavy bruising",
+        "A dent in the thigh",
+        "Pain getting worse"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Felt a grab in the front of the thigh mid-sprint, like Toto?\n\nSprinting, kicking and sudden changes of pace ask the quads to lengthen and contract hard at once. For the first few days, walk within comfort, skip hard stretching into the pain, and park sprinting and kicking.\n\nOnce walking feels easier, light holds, bridges and partial squats can build strength gradually. Running builds from jogging to strides before full sprints, and kicking starts with short, light passes.\n\nA pop with heavy bruising, a dent in the thigh or worsening pain is worth an assessment. Our Chatswood and Sydney CBD physios can plan your way back. Book online via the link in bio ⚽\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#quadstrain",
+    "#thighpain",
+    "#sportsinjury",
+    "#sprinting",
+    "#football",
+    "#sportsphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining quad strains in sprinting and kicking, the first few days, gradual strength work and signs worth getting checked.",
+  "story": {
+    "headline": "Thigh grab mid-sprint?",
+    "body": "Walk within comfort.<br>Sprints and kicks last.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-18",
+  "created": "2027-01-18-4",
+  "status": "approved",
+  "review_warnings": []
+}

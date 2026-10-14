@@ -1,0 +1,131 @@
+{
+  "id": "C-233-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Hot-desking at a new office: a quick setup",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "매일 바뀌는 책상,<br>거북씨 <em>등이 뻣뻣</em>",
+      "sub": "하비와 알아보는 핫데스킹 2분 세팅",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "2분이면<br>충분해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "새 사무실, 매일<br><em>다른 자리</em>에 앉는 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "금요일만 되면<br>등이 왜 이러지..?",
+      "bubble_type": "thought",
+      "note": "(노트북 하나 들고 아무 자리나 앉는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>등이 뻣뻣하구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "좋은 의자만 있으면<br>괜찮지 않을까요?"
+      },
+      "note": "하비는 <mark>자리 세팅 순서</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "세팅 순서가<br><em>중요해요!</em>",
+      "fact": "의자 → 모니터 → 키보드, <em>2분</em>이면 끝",
+      "left": {
+        "label": "자리 맞춤",
+        "char": "turtle_happy",
+        "caption": "발은 바닥에,<br>팔꿈치는 <b>옆구리 옆</b>"
+      },
+      "right": {
+        "label": "그냥 앉기",
+        "char": "turtle_sad",
+        "caption": "노트북 내려보며<br>팔을 <em>쭉 뻗은 채</em>"
+      },
+      "quip": "앞으로 뻗은 팔이<br>어깨를 지치게 해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 자리 세팅</b>",
+      "sub": "앉자마자 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 의자부터 순서대로",
+          "color": "yellow",
+          "lines": [
+            "① 발은 바닥에, <em>엉덩이는 무릎 높이</em> 이상.",
+            "② 모니터는 <em>팔 길이</em> 거리, 위쪽은 눈높이.",
+            "③ 키보드·마우스는 <em>몸 가까이</em> 당기기.",
+            "④ 가방에 노트북 거치대·허리 쿠션 챙기기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>팔·다리로 퍼지거나</em>,",
+            "<em>저리거나 감각이 둔하다면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔이나 다리로 퍼지는 통증",
+        "저림이나 감각 저하",
+        "몇 주째 점점 심해진다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "새 사무실에서 매일 다른 자리에 앉는 거북씨. 금요일쯤이면 등이 뻣뻣해요.\n\n자리에 앉으면 2분만 투자해요. 의자 먼저: 발은 바닥에, 엉덩이는 무릎과 같거나 살짝 높게. 다음은 모니터: 팔 길이 거리, 위쪽은 눈높이. 키보드와 마우스는 몸 가까이!\n\n노트북 거치대와 허리 쿠션을 가방에 챙기면 어느 자리든 편해질 수 있어요. 그래도 자주 일어나 움직이는 게 중요해요.\n\n통증이 팔·다리로 퍼지거나 저리면 확인받아요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#핫데스킹",
+    "#직장인건강",
+    "#허리통증",
+    "#카이로프랙틱",
+    "#시드니카이로프랙틱",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#chiropractor",
+    "#hotdesking",
+    "#chatswood",
+    "#officeworker"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 핫데스킹 자리에서 의자, 모니터, 키보드 순서로 2분 만에 세팅하는 법과 확인이 필요한 신호.",
+  "story": {
+    "headline": "핫데스킹 자리, 2분 세팅",
+    "body": "의자 → 모니터 → 키보드<br>순서로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-14",
+  "created": "2027-01-14-5",
+  "status": "approved",
+  "review_warnings": []
+}

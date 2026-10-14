@@ -1,0 +1,131 @@
+{
+  "id": "C-241-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Quad strain in sprinting and kicking",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "전력질주 중 토토의<br><em>허벅지 앞이 찌릿</em>",
+      "sub": "대퇴사두근 염좌, 하비와 알아봐요",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "차근차근<br>돌아가요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "여름 경기 중<br><em>스프린트 순간</em> 찌릿!",
+      "char": "rabbit_tired",
+      "bubble": "허벅지 앞이<br>왜 이렇게 당기지..?",
+      "bubble_type": "thought",
+      "note": "(스트레칭하면 오히려 더 아프다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>허벅지가 불편하구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "세게 스트레칭하면<br>풀리지 않을까요?"
+      },
+      "note": "하비는 <mark>처음 며칠은 차분하게</mark>라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "처음 며칠은<br><em>차분하게!</em>",
+      "fact": "보통 부드러운 움직임이 <em>더 도움돼요</em>",
+      "left": {
+        "label": "편하게 걷기",
+        "char": "rabbit_happy",
+        "caption": "편한 만큼 걷고<br><b>천천히 근력</b>"
+      },
+      "right": {
+        "label": "세게 스트레칭",
+        "char": "rabbit_tired",
+        "caption": "아픈 데를 세게 늘리면<br><em>더 자극될 수 있어요</em>"
+      },
+      "quip": "스프린트와 킥은<br>마지막이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 허벅지 운동</b>",
+      "sub": "걷기가 편해지면 시작해요!",
+      "sections": [
+        {
+          "heading": "1. 버티기와 브릿지",
+          "color": "yellow",
+          "lines": [
+            "① 앉아서 무릎 펴고 허벅지에 <em>힘주기</em>.",
+            "② <em>10초 유지 × 5회</em>, 하루 2번.",
+            "③ 브릿지·하프 스쿼트를 천천히 추가.",
+            "④ 조깅 → 스트라이드 → <em>전력질주</em> 순서."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "<em>뚝 소리</em>와 큰 멍이 생겼거나,",
+            "허벅지가 <em>움푹 패였다면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "뚝 소리와 큰 멍",
+        "허벅지가 움푹 패였다",
+        "점점 더 아파진다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "여름 경기 중 전력질주하다 허벅지 앞이 찌릿한 토토. 스프린트와 킥은 대퇴사두근에 큰 부담을 줘요.\n\n처음 며칠은 편한 만큼 걷고, 아픈 데를 세게 스트레칭하지 않고, 스프린트와 킥은 잠시 쉬어요. 걷기가 편해지면 버티기·브릿지로 천천히 근력을 키워요.\n\n달리기는 조깅부터, 킥은 짧은 패스부터! 뚝 소리와 큰 멍, 허벅지가 패였다면 확인받아요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 ⚽\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허벅지통증",
+    "#근육염좌",
+    "#스포츠부상",
+    "#축구",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#quadstrain",
+    "#sportsphysio",
+    "#chatswoodphysio"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 스프린트와 킥 중 생기는 대퇴사두근 염좌, 처음 며칠 관리, 단계별 근력 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "질주 중 허벅지가 찌릿?",
+    "body": "편하게 걷고,<br>스프린트는 마지막에!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-18",
+  "created": "2027-01-18-1",
+  "status": "approved",
+  "review_warnings": []
+}

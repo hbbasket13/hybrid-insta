@@ -1,0 +1,131 @@
+{
+  "id": "C-259-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for ankle stability",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Momo's ankles<br><em>keep rolling</em>",
+      "sub": "Pilates for steadier ankles, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's build<br>your balance!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Two sprains later,<br><em>uneven ground</em> feels risky.",
+      "char": "cat_tired",
+      "bubble": "It doesn't hurt..<br>so why so wobbly..?",
+      "bubble_type": "thought",
+      "note": "(especially on bushwalks and the sand..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Momo!<br>Ankles feeling shaky?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. can Pilates<br>help with that?"
+      },
+      "note": "Hybi started with <mark>strength and sense of position</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Ankles need <em>strength</em><br>and <em>position sense</em>!",
+      "fact": "After a sprain, ankles can lose <em>strength and position sense</em>",
+      "left": {
+        "label": "Little and often",
+        "char": "cat_happy",
+        "caption": "1–2 minutes a day<br>of <b>balance work</b>"
+      },
+      "right": {
+        "label": "Leave it",
+        "char": "cat_tired",
+        "caption": "No pain, so<br><em>it gets ignored</em>"
+      },
+      "quip": "Short and regular<br>works well!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute ankle balance</b>",
+      "sub": "Next to a bench or wall!",
+      "sections": [
+        {
+          "heading": "1. Build steadier ankles",
+          "color": "yellow",
+          "lines": [
+            "① Rise and lower over <em>3–4 sec</em>, <em>10 reps</em>.",
+            "② Once easy, do the same on <em>one leg</em>.",
+            "③ Single-leg stand by a bench, <em>30 sec</em>.",
+            "④ Easy? Try <em>eyes closed</em>; 1–2 min a day."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your ankle <em>keeps giving way</em>, <em>swells</em> again,",
+            "or can't take weight — get a physio assessment."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Ankles still<br><em>feeling shaky?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Ankle keeps giving way",
+        "Swelling after activity",
+        "Clicking with pain"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Two sprains later, Momo's ankles feel wobbly on bushwalks and the sand. Even once pain has gone, ankles can lose some strength and some sense of where they are.\n\nClinical Pilates can work on both: reformer footwork for calf and foot strength, slow heel raises over three to four seconds for control, and balance drills that get progressively harder.\n\nTry this today: stand on one leg near a bench for 30 seconds, then try it with eyes closed if that's easy. A minute or two a day is a good start.\n\nAn ankle that keeps giving way, recurring swelling or pain taking weight are worth a physio assessment. Our Pilates team at Hybrid Physio can tailor a program. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#anklestability",
+    "#anklesprain",
+    "#balance",
+    "#reformerpilates",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#pilatesforrehab"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why ankles feel wobbly after sprains and how Pilates footwork, slow heel raises and balance drills can help, plus signs worth getting checked.",
+  "story": {
+    "headline": "Ankles keep rolling?",
+    "body": "Single-leg stand, 30 sec,<br>1–2 minutes a day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-25",
+  "created": "2027-01-25-4",
+  "status": "approved",
+  "review_warnings": []
+}

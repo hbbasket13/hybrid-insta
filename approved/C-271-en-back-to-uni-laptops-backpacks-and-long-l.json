@@ -1,0 +1,131 @@
+{
+  "id": "C-271-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Back to uni: laptops, backpacks and long lectures",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's back at uni,<br>and his <em>neck isn't thrilled</em>",
+      "sub": "A back-to-uni story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's get you<br>semester-ready!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Night classes after work:<br>laptop, backpack, <em>3-hour lectures</em>.",
+      "char": "turtle_sad",
+      "bubble": "Is my neck working<br>harder than<br>my brain..?",
+      "bubble_type": "thought",
+      "note": "(backpack on one shoulder, laptop on his knees..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Semester's started?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yep.. isn't a sore neck<br>just part of study?"
+      },
+      "note": "Hybi suggested starting with <mark>small habits</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Lift the laptop,<br><em>use both straps</em>!",
+      "fact": "Long walks: <em>both straps</em>, heavy items close to your back",
+      "left": {
+        "label": "Both straps",
+        "char": "turtle_happy",
+        "caption": "Load is shared,<br>shoulders <b>feel easier</b>"
+      },
+      "right": {
+        "label": "One shoulder",
+        "char": "turtle_sad",
+        "caption": "Long treks, one side<br><em>does all the work</em>"
+      },
+      "quip": "Small habits can<br>change a semester!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute semester setup</b>",
+      "sub": "Start this week!",
+      "sections": [
+        {
+          "heading": "1. Try this",
+          "color": "yellow",
+          "lines": [
+            "① Laptop <em>on a few books</em>, separate keyboard.",
+            "② Long walks: <em>both straps</em>, pack light.",
+            "③ Lecture break? <em>Stand up</em> and take the stairs.",
+            "④ Book exercise like a class, <em>twice a week</em>."
+          ]
+        },
+        {
+          "heading": "2. Get it checked first if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads</em> into an arm or leg, or you",
+            "notice <em>pins and needles or numbness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> mid-semester?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading to a limb",
+        "Pins and needles or numbness",
+        "Pain building over weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle signed up for night classes. Laptop, heavy backpack and three-hour lectures, and his neck and shoulders feel it first.\n\nHunching over a laptop on a low desk for hours tends to load the neck and upper back. Prop it on a few books and plug in a separate keyboard.\n\nFor a long trek across campus, use both straps and pack heavy items close to your back. Stand at lecture breaks, take the stairs, and book two short exercise sessions into your week like a class.\n\nPain spreading into an arm or leg, pins and needles, numbness or pain building over weeks is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#unilife",
+    "#studentlife",
+    "#techneck",
+    "#backpack",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#studytips",
+    "#neckpain"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining how laptops, backpacks and long lectures load the neck, both straps versus one, a 1-minute semester setup and signs worth getting checked.",
+  "story": {
+    "headline": "Studying with a sore neck?",
+    "body": "Lift the laptop,<br>use both straps.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-30",
+  "created": "2027-01-30-4",
+  "status": "approved",
+  "review_warnings": []
+}

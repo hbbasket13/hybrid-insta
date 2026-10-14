@@ -1,0 +1,131 @@
+{
+  "id": "C-229-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Remedial massage for lower back pain: what to expect",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "허리 뻐근한 거북씨의<br><em>첫 리메디얼 마사지</em>",
+      "sub": "하비와 알아보는 마사지 시간 미리보기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "무엇을 하는지<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 9시간 앉아 있다 보니<br>허리가 <em>뻐근</em>.",
+      "char": "turtle_monitor",
+      "bubble": "마사지는 처음인데..<br>많이 아프려나..?",
+      "bubble_type": "thought",
+      "note": "(퇴근 무렵엔 허리가 돌처럼..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>허리가 뻐근하구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 마사지는<br>어떻게 진행돼요?"
+      },
+      "note": "하비는 <mark>세션 흐름</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "세게 할수록 좋은 건<br><em>아니에요!</em>",
+      "fact": "압력은 <em>내가 정해요</em> · 언제든 조절 요청 OK",
+      "left": {
+        "label": "편안한 압력",
+        "char": "turtle_happy",
+        "caption": "근육이 풀려 있어야<br><b>작업이 수월해요</b>"
+      },
+      "right": {
+        "label": "꾹 참기",
+        "char": "turtle_sad",
+        "caption": "아픈데 참으면<br><em>근육이 더 굳어요</em>"
+      },
+      "quip": "더 약하게, 더 세게<br>언제든 말해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>마사지 미리보기</b>",
+      "sub": "처음이라도 걱정 마요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 진행돼요",
+          "color": "yellow",
+          "lines": [
+            "① 어디가, 언제 불편한지 <em>질문부터</em>.",
+            "② 허리·엉덩이·고관절까지 <em>함께 풀어요</em>.",
+            "③ 압력은 <em>언제든</em> 조절 요청하기.",
+            "④ 끝나고도 <em>걷기·근력 운동</em>은 계속!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 먼저 진료받기",
+          "color": "purple",
+          "lines": [
+            "다리로 <em>퍼지는 통증·저림·힘 빠짐</em>,",
+            "넘어진 뒤 허리 통증은 GP·물리치료사 먼저!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "마사지 전 <em>먼저 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 먼저 진료받기",
+      "items": [
+        "다리로 통증이 퍼진다",
+        "저리거나 힘이 빠진다",
+        "소변·대변 조절 변화"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "하루 9시간 앉아 있다 보니 허리가 뻐근한 거북씨, 첫 리메디얼 마사지를 앞두고 긴장 중이에요.\n\n세션은 어디가 언제 불편한지 질문부터 시작해요. 허리 통증은 주변 근육도 관련될 때가 많아서 허리·엉덩이·고관절까지 함께 풀어요. 세게 한다고 아파야 하는 건 아니고, 압력은 언제든 조절 요청할 수 있어요.\n\n마사지는 걷기·근력 운동을 대신하지 않고 보완해요. 다리로 퍼지는 통증, 저림·힘 빠짐, 소변·대변 변화, 넘어진 뒤 통증은 GP나 물리치료사 진료가 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#허리통증",
+    "#마사지",
+    "#직장인건강",
+    "#시드니마사지",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#lowerbackpain",
+    "#chatswood",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 허리 리메디얼 마사지 진행 과정, 압력 조절 비교, 세션 미리보기, 먼저 진료가 필요한 신호.",
+  "story": {
+    "headline": "허리 마사지, 처음이라면?",
+    "body": "압력은 언제든<br>조절 요청 OK!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-13",
+  "created": "2027-01-13-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-242-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Nordic walking with poles",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko now walks<br>with <em>two poles</em>",
+      "sub": "Nordic walking, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we walk<br>together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Same footpath walk,<br>but <em>balance</em> is a worry.",
+      "char": "koala_tired",
+      "bubble": "Could I feel<br>a bit steadier..?",
+      "bubble_type": "thought",
+      "note": "(and the knee grumbles now and then..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Love a good walk?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "What do the poles<br>actually do?"
+      },
+      "note": "Hybi showed how to <mark>plant and push back</mark> with each stride."
+    },
+    {
+      "kind": "compare",
+      "title": "Poles turn a walk into<br>a <em>full-body</em> session!",
+      "fact": "Arms, shoulders and trunk join in for a <em>light workout</em>",
+      "left": {
+        "label": "Push back",
+        "char": "koala_happy",
+        "caption": "Plant and push,<br><b>arms join in</b>"
+      },
+      "right": {
+        "label": "Just tapping",
+        "char": "koala_tired",
+        "caption": "Tapping in front,<br><em>no push</em>"
+      },
+      "quip": "Many people say they<br>feel steadier too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute pole setup</b>",
+      "sub": "Start shorter than you think!",
+      "sections": [
+        {
+          "heading": "1. Height and stride",
+          "color": "yellow",
+          "lines": [
+            "① Pole tip by your foot, elbow near <em>90 degrees</em>.",
+            "② Plant by the opposite heel, <em>push back</em>.",
+            "③ Keep your grip relaxed.",
+            "④ <em>15–20 min</em> on flat ground, in the cool."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "Joint pain <em>builds walk after walk</em>,",
+            "or you notice <em>chest discomfort or breathlessness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Joint pain building up",
+        "A swollen knee or ankle",
+        "Chest discomfort"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Balance has been on Koko's mind lately, so two poles came along on the morning walk.\n\nNordic walking uses two specially designed poles that you plant behind you and push back on as you stride. Arms, shoulders and trunk join in, turning a regular walk into a light full-body session, and many people say they feel steadier too.\n\nWith the pole tip beside your foot, your elbow should sit near a right angle. Start with 15 to 20 minutes on flat ground in the cool of the morning.\n\nJoint pain that builds, a swollen knee or ankle, or chest discomfort is worth getting checked. Our Chatswood and Sydney CBD physios can check your technique. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#nordicwalking",
+    "#walking",
+    "#healthyageing",
+    "#balance",
+    "#activeageing",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining Nordic walking, pushing back with the poles, setting pole height and signs worth getting checked.",
+  "story": {
+    "headline": "Try Nordic walking",
+    "body": "Elbow near 90 degrees.<br>Start with 15–20 flat minutes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-18",
+  "created": "2027-01-18-2",
+  "status": "approved",
+  "review_warnings": []
+}

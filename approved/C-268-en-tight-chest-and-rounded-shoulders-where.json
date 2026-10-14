@@ -1,0 +1,131 @@
+{
+  "id": "C-268-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Tight chest and rounded shoulders: where massage fits",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's shoulders<br>keep <em>rolling forward</em>",
+      "sub": "A tight-chest story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's open<br>things up!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Desk, driving, phone..<br>arms <em>forward all day</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Why does my chest<br>feel so tight<br>when I reach up..?",
+      "bubble_type": "thought",
+      "note": "(opening his arms wide feels like a stretch..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shoulders rounding?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. will a massage<br>open them up?"
+      },
+      "note": "Hybi explained the <mark>front-back balance</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage plus <em>back strength</em><br>work as a team!",
+      "fact": "Ease the front, <em>strengthen the back</em>, shoulders sit easier",
+      "left": {
+        "label": "Balanced",
+        "char": "turtle_happy",
+        "caption": "Back as strong as<br>front, sits <b>easier</b>"
+      },
+      "right": {
+        "label": "Front only",
+        "char": "turtle_sad",
+        "caption": "Arms forward all day,<br>chest <em>feels tight</em>"
+      },
+      "quip": "Massage works best<br>paired with movement!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute chest opener</b>",
+      "sub": "All you need is a doorway!",
+      "sections": [
+        {
+          "heading": "1. Doorway stretch",
+          "color": "yellow",
+          "lines": [
+            "① Rest your forearms on the door frame.",
+            "② Take a <em>gentle step forward</em>.",
+            "③ Hold <em>about 30 sec</em>, a few times a day.",
+            "④ Add <em>10 band pull-aparts</em> for the back."
+          ]
+        },
+        {
+          "heading": "2. Chest pain is different!",
+          "color": "purple",
+          "lines": [
+            "With <em>breathlessness, sweating or jaw/arm pain</em>,",
+            "call <em>000</em> straight away."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still feeling <em>tight</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm tingling or weakness",
+        "Shoulder pain building",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Desk, driving and phone: Mr Turtle's arms are forward all day, and his chest feels tight when he reaches overhead.\n\nThe chest muscles get used to that position. Remedial massage to the chest, front of the shoulder and upper back can help these areas feel easier, and it's most useful paired with movement.\n\nTry a doorway stretch, forearms on the frame with a gentle step forward, for about 30 seconds a few times a day. Rows and band pull-aparts train the back half of the shoulder too.\n\nChest pain with breathlessness, sweating, nausea or pain spreading to the jaw or arm needs urgent help: call 000. Our remedial massage therapists at Hybrid Physio can help with the rest. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sydneymassage",
+    "#roundedshoulders",
+    "#posture",
+    "#deskjob",
+    "#cheststretch",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#officeworker",
+    "#sydney",
+    "#physiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why the chest tightens and shoulders round, massage alongside back strength, a 1-minute doorway stretch and signs worth getting checked.",
+  "story": {
+    "headline": "Shoulders creeping forward?",
+    "body": "Doorway stretch,<br>30 sec, a few times a day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-29",
+  "created": "2027-01-29-4",
+  "status": "approved",
+  "review_warnings": []
+}

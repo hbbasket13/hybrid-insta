@@ -1,0 +1,131 @@
+{
+  "id": "C-220-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Festivals and concerts: hours on your feet",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Big gig, then Momo's<br><em>back aches</em> next day?",
+      "sub": "Hours on your feet, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's make the<br>next gig comfier!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Hours in one spot<br>at a <em>music festival</em>.",
+      "char": "cat_tired",
+      "bubble": "Dancing felt fine..<br>so why do my back<br>and feet ache..?",
+      "bubble_type": "thought",
+      "note": "(next morning: stiff back, sore feet..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Good gig?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Great! But standing<br>was harder than dancing."
+      },
+      "note": "Hybi explained <mark>why standing still</mark> is the hard part."
+    },
+    {
+      "kind": "compare",
+      "title": "Standing still is<br>the <em>hard part</em>!",
+      "fact": "Walking shares the load · <em>standing still doesn't</em>",
+      "left": {
+        "label": "Shifting weight",
+        "char": "cat_happy",
+        "caption": "Small shifts give tired<br>muscles a <b>short break</b>"
+      },
+      "right": {
+        "label": "Frozen in place",
+        "char": "cat_tired",
+        "caption": "Same muscles, hour after<br>hour, <em>get tired</em>"
+      },
+      "quip": "Rock, sway and shift<br>every few minutes!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>gig survival plan</b>",
+      "sub": "Check it before your next show!",
+      "sections": [
+        {
+          "heading": "1. On the day",
+          "color": "yellow",
+          "lines": [
+            "① Shift weight <em>every few minutes</em>, heel to toe.",
+            "② Wear <em>broken-in, cushioned</em> shoes.",
+            "③ Small backpack, and <em>sit between sets</em>.",
+            "④ Next day: a <em>gentle walk</em> beats the couch."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Stiffness lasts <em>more than a few days</em>,",
+            "or tingling runs down your leg."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff days later</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "No better after a few days",
+        "Tingling down the leg",
+        "Pain building each day"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Danced through the whole set, then woke up feeling it in your back and feet? Momo knows the feeling. 🎶\n\nStanding in one spot for hours is surprisingly hard work. Walking spreads the load around, but stillness keeps the same muscles busy, so backs, hips and feet often feel it most.\n\nShift your weight every few minutes, wear supportive shoes you've already broken in, keep your bag light and sit between sets when you can. Most next-day stiffness settles within a day or two, and a gentle walk usually helps more than the couch.\n\nStill stiff after a few days? Our chiropractors at Hybrid Physio can take a look. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#backpain",
+    "#festivalseason",
+    "#concerts",
+    "#sydneychiro",
+    "#chatswoodchiro",
+    "#chatswood",
+    "#sydney",
+    "#footpain",
+    "#hybridphysiotherapy",
+    "#posture"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo on why hours of standing at gigs tire the back and feet, a weight-shifting comparison, gig tips and signs worth getting checked.",
+  "story": {
+    "headline": "Long gig coming up?",
+    "body": "Shift your weight often<br>and sit between sets.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-09",
+  "created": "2027-01-09-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-232-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Skipping rope: go easy on your calves and shins",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "줄넘기 다시 시작한 토토,<br><em>종아리가 땅땅?</em>",
+      "sub": "하비와 알아보는 줄넘기 다리 관리",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "천천히<br>늘려볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "여름 맞이 줄넘기,<br>첫날부터 <em>500개!</em>",
+      "char": "rabbit_tired",
+      "bubble": "왜 정강이가<br>이렇게 욱신하지..?",
+      "bubble_type": "thought",
+      "note": "(다음 날 계단 내려가기가 힘들다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>다리가 뻐근하구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "줄넘기가 저한테<br>안 맞는 걸까요?"
+      },
+      "note": "하비는 <mark>점프가 다리에 주는 부담</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "점프 한 번 한 번이<br><em>다리에 쌓여요!</em>",
+      "fact": "점프마다 종아리·<em>아킬레스건</em>·정강이가 충격을 받아요",
+      "left": {
+        "label": "낮고 부드럽게",
+        "char": "rabbit_happy",
+        "caption": "발 앞꿈치로 살짝,<br>무릎은 <b>부드럽게</b>"
+      },
+      "right": {
+        "label": "높고 쿵쿵",
+        "char": "rabbit_tired",
+        "caption": "높이 뛰고 세게 착지,<br>다리가 <em>더 버텨야 해요</em>"
+      },
+      "quip": "보통은 너무 빨리<br>늘린 게 문제예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 줄넘기 루틴</b>",
+      "sub": "다리가 적응할 시간을 줘요!",
+      "sections": [
+        {
+          "heading": "1. 짧게 시작하기",
+          "color": "yellow",
+          "lines": [
+            "① <em>30초 뛰고 30초 쉬기</em>, 5~10분.",
+            "② 줄은 <em>2~3cm</em>만 넘는 느낌으로 낮게.",
+            "③ 콘크리트보다 매트·마루 위에서.",
+            "④ 종아리 들기 천천히, <em>주 2회</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 확인받기!",
+          "color": "purple",
+          "lines": [
+            "정강이 <em>한 곳만 콕</em> 아프거나,",
+            "쉴 때·밤에도 <em>아프다면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "정강이 한 곳이 콕 아프다",
+        "쉴 때나 밤에도 아프다",
+        "아킬레스건 주위가 붓는다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "여름 맞이 줄넘기를 다시 시작한 토토. 다음 날 종아리랑 정강이가 땅땅해졌어요.\n\n점프할 때마다 종아리, 아킬레스건, 정강이가 충격을 받아요. 다리가 아픈 건 줄넘기가 나빠서라기보다 너무 빨리 늘린 탓일 때가 많아요.\n\n하비의 팁: 30초 뛰고 30초 쉬기로 5~10분, 줄은 2~3cm만 넘게 낮고 부드럽게, 매트나 마루 위에서, 종아리 들기는 주 2회!\n\n정강이 한 곳만 아프거나 쉴 때·밤에도 아프면 확인받아요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐰\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#줄넘기",
+    "#종아리통증",
+    "#정강이통증",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#홈트",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#skippingrope"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 줄넘기가 종아리와 정강이에 주는 부담, 낮고 부드러운 점프, 짧게 시작하는 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "줄넘기 후 종아리가 땅땅?",
+    "body": "30초 뛰고 30초 쉬기,<br>낮고 부드럽게!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-14",
+  "created": "2027-01-14-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-270-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Neck pain in cyclists",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's neck is stiff<br><em>after every long ride</em>",
+      "sub": "A cyclist's neck story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's check your<br>bike position!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Long rides every weekend,<br>and a <em>stiff neck</em> after.",
+      "char": "rabbit_tired",
+      "bubble": "Legs feel great..<br>so why is it<br>my neck..?",
+      "bubble_type": "thought",
+      "note": "(even shoulder checks feel awkward..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto went to see Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Neck sore after rides?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. do I need<br>to ride less?"
+      },
+      "note": "Hybi suggested checking <mark>the bike position</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "On the bike, your neck<br>is <em>working hard</em>!",
+      "fact": "The <em>lower your position</em>, the harder the neck works",
+      "left": {
+        "label": "Mix it up",
+        "char": "rabbit_happy",
+        "caption": "Changing hand spots<br>helps <b>share the load</b>"
+      },
+      "right": {
+        "label": "Locked low",
+        "char": "rabbit_tired",
+        "caption": "Hours in one spot,<br>neck <em>keeps holding</em>"
+      },
+      "quip": "Check the set-up<br>before riding less!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute rider's neck care</b>",
+      "sub": "Try it on your next ride!",
+      "sections": [
+        {
+          "heading": "1. On and off the bike",
+          "color": "yellow",
+          "lines": [
+            "① Move between <em>hoods, tops and drops</em> often.",
+            "② Quiet stretch? <em>Sit up</em> and turn your head.",
+            "③ Reach too long or bars too low? <em>Check set-up</em>.",
+            "④ Off the bike: <em>chin tucks and rows</em>, twice a week."
+          ]
+        },
+        {
+          "heading": "2. Get it checked first if…",
+          "color": "purple",
+          "lines": [
+            "Neck pain follows <em>a crash</em>, or your",
+            "arm <em>tingles or feels weak</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em> after rides?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading into the arm",
+        "Hand weakness",
+        "Headaches that keep building"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto loves a long weekend ride, but his neck is stiff every time he gets home.\n\nOn the bike, your neck holds your head up for hours so you can see the road. The lower the position, the harder those muscles work.\n\nA reach that's too long or bars that are too low can add strain, so a set-up check can help. Move between the hoods, tops and drops, sit up on quiet stretches and gently turn your head. Off the bike, chin tucks and rows twice a week build capacity.\n\nPain spreading into the arm, pins and needles, hand weakness, building headaches or neck pain after a crash are worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#cycling",
+    "#neckpain",
+    "#roadcycling",
+    "#bikefit",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sportsphysio",
+    "#sydneycycling"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why cyclists' necks get stiff, changing hand positions versus staying low, a 1-minute rider's neck routine and signs worth getting checked.",
+  "story": {
+    "headline": "Neck stiff after long rides?",
+    "body": "Swap hand positions<br>often. Sit up sometimes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-29",
+  "created": "2027-01-29-6",
+  "status": "approved",
+  "review_warnings": []
+}

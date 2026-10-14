@@ -1,0 +1,131 @@
+{
+  "id": "C-237-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates after a long break from exercise",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "몇 년 만의 운동,<br>코코는 <em>어디서부터?</em>",
+      "sub": "다시 시작하는 필라테스 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "생각보다<br>가볍게 해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마지막 운동이<br><em>언제였더라..?</em>",
+      "char": "koala_tired",
+      "bubble": "다시 하면<br>몸이 놀라지 않을까..?",
+      "bubble_type": "thought",
+      "note": "(낮잠은 매일, 운동은 몇 년째 쉬는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>다시 운동해보려고?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "예전만큼<br>할 수 있을까요?"
+      },
+      "note": "하비는 <mark>생각보다 작게 시작하기</mark>를 권했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>작게</em> 시작할수록<br>오래 가요!",
+      "fact": "가벼운 근육통은 보통 <em>며칠 안에</em> 풀려요",
+      "left": {
+        "label": "작게 시작",
+        "char": "koala_happy",
+        "caption": "더 할 수 있을 때<br><b>멈추고 다음 주에</b>"
+      },
+      "right": {
+        "label": "예전처럼 무리",
+        "char": "koala_tired",
+        "caption": "첫날부터 세게 하면<br><em>다음 주가 힘들어요</em>"
+      },
+      "quip": "다음 주에도 오는 게<br>제일 중요해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>다시 시작 플랜</b>",
+      "sub": "주 2회면 충분해요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 시작해요",
+          "color": "yellow",
+          "lines": [
+            "① 첫 수업 전 <em>짧은 평가</em> 받기.",
+            "② 필라테스 <em>주 2회</em> + 사이사이 산책.",
+            "③ 예전 수준보다 <em>훨씬 가볍게</em> 시작.",
+            "④ 부상·수술·복용 약 이력 알려주기."
+          ]
+        },
+        {
+          "heading": "2. GP와 먼저 상담해요",
+          "color": "purple",
+          "lines": [
+            "<em>심장·폐 질환</em>이 있거나,",
+            "운동 중 <em>가슴 통증·어지럼</em>이 있다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "시작 전에 <em>확인해요!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우 GP와 먼저 상담",
+      "items": [
+        "심장·폐 질환이 있다",
+        "운동 중 가슴 통증",
+        "운동 중 어지러움"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "마지막 운동이 언제였는지 기억도 안 나는 코코. 괜찮아요, 다시 시작하면 돼요.\n\n몇 년 만의 운동은 몸보다 마음이 더 어려울 때가 많아요. 비결은 생각보다 작게 시작해서, 더 할 수 있을 것 같을 때 멈추는 것!\n\n클리니컬 필라테스는 평가로 시작해 이력에 맞춰 조절하며 천천히 늘려가요. 초반 가벼운 근육통은 보통 며칠 안에 풀려요. 주 2회 + 산책이면 좋은 출발이에요.\n\n심장·폐 질환이 있거나 운동 중 가슴 통증이 있다면 GP와 먼저 상담해요. 하이브리드 피지오 필라테스 팀이 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#클리니컬필라테스",
+    "#운동시작",
+    "#중년건강",
+    "#시드니필라테스",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#clinicalpilates",
+    "#pilates",
+    "#chatswood",
+    "#backtoexercise"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 오랜만에 운동을 다시 시작할 때 작게 시작하는 법, 주 2회 필라테스 플랜, GP와 먼저 상담할 경우.",
+  "story": {
+    "headline": "오랜만의 운동, 작게 시작!",
+    "body": "더 할 수 있을 때 멈추고<br>다음 주에 또!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-15",
+  "created": "2027-01-15-3",
+  "status": "approved",
+  "review_warnings": []
+}

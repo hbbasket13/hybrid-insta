@@ -1,0 +1,130 @@
+{
+  "id": "C-219-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Walking lunges: knee-friendly tips",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Walking lunges making<br>Lulu's <em>knees grumble</em>?",
+      "sub": "Knee-friendly lunge tips, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's tweak<br>your setup!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Leg day at the gym:<br><em>walking lunges</em> again.",
+      "char": "kanga_tired",
+      "bubble": "Why do my knees<br>ache every time<br>I lunge..?",
+      "bubble_type": "thought",
+      "note": "(isn't the knee meant to stay behind the toes?..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Knees grumbling?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. should I just<br>drop lunges for good?"
+      },
+      "note": "Hybi decided to check <mark>Lulu's lunge setup</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Slow on the way down,<br><em>kinder on the knees</em>!",
+      "fact": "Knees past toes is <em>normal for most people</em>",
+      "left": {
+        "label": "2–3 sec lower",
+        "char": "kanga_happy",
+        "caption": "Controlled lowering<br>often feels <b>smoother</b>"
+      },
+      "right": {
+        "label": "Dropping down",
+        "char": "kanga_tired",
+        "caption": "Crashing onto the back<br>knee can <em>feel worse</em>"
+      },
+      "quip": "A slightly longer stride<br>shares work with the hip!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>knee-friendly lunge</b>",
+      "sub": "Try it next leg day!",
+      "sections": [
+        {
+          "heading": "1. Tweak your setup",
+          "color": "yellow",
+          "lines": [
+            "① Take a <em>slightly longer</em> stride, stay balanced.",
+            "② Lower over <em>2–3 seconds</em> to the back knee.",
+            "③ Sore? Go <em>halfway</em> or hold a rail.",
+            "④ Reverse lunges first, build up <em>over weeks</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "The knee <em>swells, locks</em> or gives way."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Knees <em>still unhappy</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling in the knee",
+        "Locking or giving way",
+        "Pain lasting for days"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Walking lunges on every leg day, and Lulu's knees aren't keen? Knees are usually well able to handle lunges. A few tweaks often make them feel smoother.\n\nYour knee travelling past your toes is normal for most people. Try a slightly longer stride so your hip shares the work, and lower over two or three seconds instead of dropping onto the back knee.\n\nIf full depth is sore, go halfway or hold a rail, or start with reverse lunges and build back over a few weeks. Swelling, locking, giving way or pain that lingers for days is worth an assessment.\n\nOur Sydney CBD and Chatswood physios can watch your lunge and adjust your program. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#lunges",
+    "#legday",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#gymtips",
+    "#strengthtraining",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on knee-friendly walking lunges: slow lowering, stride length, easier options and signs worth getting checked.",
+  "story": {
+    "headline": "Lunges bugging your knees?",
+    "body": "Lower over 2–3 seconds,<br>slightly longer stride.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-08",
+  "created": "2027-01-08-6",
+  "status": "approved",
+  "review_warnings": []
+}

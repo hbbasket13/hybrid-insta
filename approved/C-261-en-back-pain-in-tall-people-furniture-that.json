@@ -1,0 +1,131 @@
+{
+  "id": "C-261-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Back pain in tall people: furniture that fits",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why tall Lulu's back<br>keeps <em>feeling achy</em>",
+      "sub": "A furniture-that-fits story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's check your<br>setup together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Desk, chair, car, bench..<br>all <em>too low</em> for Lulu.",
+      "char": "kanga_tired",
+      "bubble": "I spend all day<br>folded in half..",
+      "bubble_type": "thought",
+      "note": "(the kitchen bench is the worst one..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling achy?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. is that just<br>part of being tall?"
+      },
+      "note": "Hybi suggested looking at <mark>the furniture</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Make the furniture<br><em>fit you</em>, not vice versa!",
+      "fact": "Desk near <em>elbow height</em>, top of screen near eye level",
+      "left": {
+        "label": "Raised desk",
+        "char": "kanga_happy",
+        "caption": "Upright posture,<br>back <b>bends less</b>"
+      },
+      "right": {
+        "label": "Low desk",
+        "char": "kanga_tired",
+        "caption": "Hours of hunching<br>the back <em>keeps holding</em>"
+      },
+      "quip": "Raise the furniture,<br>not your shoulders!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute tall-person setup</b>",
+      "sub": "Small tweaks, starting today!",
+      "sections": [
+        {
+          "heading": "1. Adjust your setup",
+          "color": "yellow",
+          "lines": [
+            "① Use <em>desk risers</em> or a sit-stand desk.",
+            "② Set hips <em>level with or above</em> your knees.",
+            "③ Car seat <em>back and down</em>, backrest upright.",
+            "④ At low benches, <em>hinge from the hips</em>."
+          ]
+        },
+        {
+          "heading": "2. Get checked promptly if…",
+          "color": "purple",
+          "lines": [
+            "Legs feel <em>numb or weak</em>, or you notice",
+            "<em>bladder or bowel changes</em> — seek care fast."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>achy</em> after the tweaks?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Pain building over weeks",
+        "Bladder or bowel changes"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Desk, chair, car and kitchen bench: for Lulu, everything is built for someone shorter.\n\nLow desks, short chair seats, cramped car seats and low benches keep tall people bending and hunching for hours. Bodies adapt well, but that steady load often shows up as a stiff, achy back.\n\nTry desk risers or a sit-stand desk near elbow height, a screen lifted to eye level, a deeper seat, the car seat slid back and down, and hinging from the hips at low benches.\n\nLeg numbness, weakness or bladder or bowel changes need prompt attention. Our chiropractors at Hybrid Physio can look at your setup and pair adjustments with exercise. Book online via the link in bio 🦘\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#ergonomics",
+    "#tallpeople",
+    "#standingdesk",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#officehealth",
+    "#lowerbackpain"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why low furniture can strain a tall person's back, desk height comparison, a 1-minute setup routine and signs worth getting checked.",
+  "story": {
+    "headline": "Too tall for your desk?",
+    "body": "Raise the furniture,<br>not your shoulders.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-25",
+  "created": "2027-01-25-6",
+  "status": "approved",
+  "review_warnings": []
+}

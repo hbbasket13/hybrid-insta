@@ -1,0 +1,131 @@
+{
+  "id": "C-273-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Where chiropractic care fits for active people",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Training hard? Where does<br>a <em>chiro fit</em> for Toto?",
+      "sub": "A chiropractic story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's find where<br>it fits!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Training is going well,<br>but his mid-back <em>feels stuck</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why won't my arms<br>go fully overhead..?",
+      "bubble_type": "thought",
+      "note": "(and shoulder checks on the bike feel awkward..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Toto went to see Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling stiff in training?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. one adjustment<br>and I'm sorted, right?"
+      },
+      "note": "Hybi explained <mark>where chiro fits</mark> in training."
+    },
+    {
+      "kind": "compare",
+      "title": "An adjustment opens<br>a <em>window</em>, that's all!",
+      "fact": "Eased stiffness is a window: <em>move in it</em> to keep it",
+      "left": {
+        "label": "Adjust + move",
+        "char": "rabbit_happy",
+        "caption": "Exercise after helps<br>you <b>hold the change</b>"
+      },
+      "right": {
+        "label": "Adjust only",
+        "char": "rabbit_tired",
+        "caption": "Without movement,<br>it can <em>creep back</em>"
+      },
+      "quip": "Training load still<br>leads the way!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute training check</b>",
+      "sub": "Before your next session!",
+      "sections": [
+        {
+          "heading": "1. Try this",
+          "color": "yellow",
+          "lines": [
+            "① Has your weekly load <em>jumped suddenly</em>?",
+            "② After an adjustment, do <em>easy mobility work</em>.",
+            "③ Build up <em>bit by bit</em>, not all at once.",
+            "④ Keep <em>strength work twice a week</em>."
+          ]
+        },
+        {
+          "heading": "2. Get assessed first if…",
+          "color": "purple",
+          "lines": [
+            "Pain follows <em>a fall or collision</em>, or you",
+            "have <em>numbness or weakness</em> in a limb."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stuck</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain after a fall or knock",
+        "Limb numbness or weakness",
+        "Night pain that won't ease"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto's training is going well, but a stiff mid-back is stopping his arms going fully overhead.\n\nWhen stiffness blocks training, hands-on care can often help it feel easier in the short term. That's the window to move: the exercises you do afterwards help you hold onto the change.\n\nMost training niggles come from doing a bit too much, too soon, so your chiropractor should ask about your training week, not just your spine. At Hybrid Physio our chiropractors work alongside physios, Pilates and remedial massage, and refer in-house when that suits you better.\n\nPain after a fall, numbness or weakness, or night pain that won't ease needs a thorough assessment first. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#sydneychiro",
+    "#chiropractic",
+    "#sportsrecovery",
+    "#training",
+    "#running",
+    "#mobility",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#activelife",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining where chiropractic care fits for active people, adjusting plus moving versus adjusting alone, a 1-minute training check and signs worth getting checked.",
+  "story": {
+    "headline": "Training hard? Where chiro fits",
+    "body": "Adjustment opens a window.<br>Move in it.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-30",
+  "created": "2027-01-30-6",
+  "status": "approved",
+  "review_warnings": []
+}

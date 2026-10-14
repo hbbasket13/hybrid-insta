@@ -1,0 +1,131 @@
+{
+  "id": "C-271-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Back to uni: laptops, backpacks and long lectures",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "대학원 다시 간 거북씨,<br><em>목과 어깨가</em> 비명",
+      "sub": "하비와 함께 알아보는 개강 몸 관리",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "개강 준비,<br>같이 해볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "퇴근 후엔 <em>야간 대학원</em>,<br>노트북과 가방과 3시간 강의.",
+      "char": "turtle_sad",
+      "bubble": "공부보다<br>목이 더<br>힘드네..",
+      "bubble_type": "thought",
+      "note": "(가방은 한쪽 어깨에, 노트북은 무릎 위에..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>개강했구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 공부하면<br>원래 이런 거죠?"
+      },
+      "note": "하비는 <mark>작은 습관</mark>부터 바꿔보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "노트북은 <em>올리고</em>,<br>가방은 <em>양쪽으로</em>!",
+      "fact": "긴 이동엔 <em>양쪽 끈</em>, 무거운 건 등 가까이 넣어요",
+      "left": {
+        "label": "양쪽 끈",
+        "char": "turtle_happy",
+        "caption": "무게가 나뉘어<br>어깨가 <b>편해요</b>"
+      },
+      "right": {
+        "label": "한쪽 어깨",
+        "char": "turtle_sad",
+        "caption": "먼 길을 가면<br>한쪽이 <em>계속 버텨요</em>"
+      },
+      "quip": "작은 습관이<br>학기를 바꿔요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 개강 습관</b>",
+      "sub": "이번 학기부터 바로!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 해봐요",
+          "color": "yellow",
+          "lines": [
+            "① 노트북은 <em>책 몇 권 위</em>에, 키보드는 따로.",
+            "② 긴 이동엔 가방 <em>양쪽 끈</em>, 필요한 것만.",
+            "③ 강의 쉬는 시간엔 <em>일어나서 계단</em>으로.",
+            "④ 운동은 수업처럼 <em>주 2회</em> 시간표에!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인받기!",
+          "color": "purple",
+          "lines": [
+            "팔다리로 <em>퍼지는 통증</em>이나",
+            "<em>저림·감각 둔함</em>이 있다면 평가부터!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔다리로 통증이 퍼진다",
+        "저리거나 감각이 둔하다",
+        "몇 주째 점점 심해진다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "퇴근 후 야간 대학원에 다니는 거북씨. 노트북, 무거운 가방, 3시간 강의에 목과 어깨가 먼저 지쳐요.\n\n낮은 책상에서 노트북에 몇 시간씩 숙이면 목과 등에 부담이 갈 수 있어요. 노트북은 책 몇 권 위에 올리고 키보드를 따로 써보세요.\n\n긴 이동엔 가방 양쪽 끈을 쓰고, 무거운 건 등 가까이. 강의 쉬는 시간엔 일어나서 계단으로. 운동은 수업처럼 주 2회 시간표에 넣어요.\n\n팔다리로 퍼지는 통증, 저림, 몇 주째 심해지는 통증은 평가가 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#개강",
+    "#대학생건강",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#거북목",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#unilife",
+    "#studentlife"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 노트북과 가방, 긴 강의가 목과 어깨에 주는 부담, 가방 끈 비교, 1분 개강 습관, 확인이 필요한 신호.",
+  "story": {
+    "headline": "개강 후 목이 뻐근하다면?",
+    "body": "노트북은 올리고,<br>가방은 양쪽으로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-30",
+  "created": "2027-01-30-1",
+  "status": "approved",
+  "review_warnings": []
+}

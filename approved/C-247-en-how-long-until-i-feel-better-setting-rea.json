@@ -1,0 +1,131 @@
+{
+  "id": "C-247-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "How long until I feel better? Setting realistic expectations",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu asks:<br><em>how long until it's better?</em>",
+      "sub": "Realistic recovery timeframes, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Two weeks into rehab,<br>Lulu is <em>getting impatient</em>.",
+      "char": "kanga_tired",
+      "bubble": "Yesterday was good..<br>why is today worse?",
+      "bubble_type": "thought",
+      "note": "(one good day, one stiff day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Lulu asked Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Lulu!<br>How's it going?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Honestly.. how long<br>until it feels better?"
+      },
+      "note": "Hybi explained that <mark>recovery isn't a straight line</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Watch the trend<br>over <em>weeks</em>, not days!",
+      "fact": "Recent strains: <em>days–weeks</em> · tendons: <em>weeks–months</em>",
+      "left": {
+        "label": "The trend",
+        "char": "kanga_happy",
+        "caption": "Look at 2–3 weeks and<br>keep exercises <b>steady</b>"
+      },
+      "right": {
+        "label": "Day by day",
+        "char": "kanga_tired",
+        "caption": "One bad day feels like<br><em>back to square one</em>"
+      },
+      "quip": "A bad day doesn't<br>erase a good week!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute progress check</b>",
+      "sub": "Once a week, jot it down!",
+      "sections": [
+        {
+          "heading": "1. Track your trend",
+          "color": "yellow",
+          "lines": [
+            "① Same day each week, rate pain <em>0–10</em>.",
+            "② Note sleep, stress and activity in a line.",
+            "③ Keep exercises <em>steady</em>; on bad days, do less.",
+            "④ Judge progress over <em>2–3 weeks</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Things get <em>steadily worse</em>, pain is severe at",
+            "night, or <em>new numbness or weakness</em> appears."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to check in<br>instead of <em>waiting it out</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain getting steadily worse",
+        "Severe pain at night",
+        "New numbness or weakness"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Two weeks into rehab, Lulu has one good day, then one stiff day, and wonders how long this takes. It's one of the most common questions we hear.\n\nThe honest answer depends on what's going on. Many recent strains ease within days to a few weeks. Tendon pain and longer-standing joint issues often take weeks to months, because tendons adapt to load slowly. A bad day doesn't erase a good week, so look at the trend. Sleep, stress, activity and steady exercise all shape recovery.\n\nIf things keep getting worse or you notice new numbness or weakness, let your practitioner or GP know. At Hybrid Physio we set goals with you and review them. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#recovery",
+    "#rehab",
+    "#painmanagement",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#tradie"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining realistic recovery timeframes, why the weekly trend matters more than one day, a simple progress check and signs worth getting checked.",
+  "story": {
+    "headline": "How long until it feels better?",
+    "body": "Track the trend over<br>2–3 weeks, not one day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-20",
+  "created": "2027-01-20-4",
+  "status": "approved",
+  "review_warnings": []
+}

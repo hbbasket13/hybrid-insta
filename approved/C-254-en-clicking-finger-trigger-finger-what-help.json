@@ -1,0 +1,131 @@
+{
+  "id": "C-254-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Clicking finger (trigger finger): what helps",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's finger<br><em>clicks and catches</em>",
+      "sub": "A trigger finger story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A weekend of <em>gardening</em>,<br>then Monday morning..",
+      "char": "turtle_sad",
+      "bubble": "Why does my finger<br>catch every time<br>I make a fist..?",
+      "bubble_type": "thought",
+      "note": "(and it's stiffest first thing..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Finger<br>catching on you?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. it clicks<br>when I straighten it."
+      },
+      "note": "Hybi decided to explain <mark>the tendon's little tunnel</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Hard, long gripping</em><br>is tough on the tendon!",
+      "fact": "The tendon can't glide smoothly through its <em>tunnel</em>",
+      "left": {
+        "label": "Shared load",
+        "char": "turtle_happy",
+        "caption": "Padded handles,<br><b>swap hands</b>"
+      },
+      "right": {
+        "label": "Hours of grip",
+        "char": "turtle_sad",
+        "caption": "Gripping hard<br><em>for hours</em>"
+      },
+      "quip": "Break up the<br>gripping jobs!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute finger routine</b>",
+      "sub": "Great first thing in the morning!",
+      "sections": [
+        {
+          "heading": "1. Keep it gliding",
+          "color": "yellow",
+          "lines": [
+            "① Soak the hand in <em>warm water</em> in the morning.",
+            "② Straight → hook → fist, <em>slowly, 5 times</em>.",
+            "③ <em>Pad</em> tool and bag handles.",
+            "④ Break long tasks every <em>20–30 minutes</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "A finger <em>locks and won't straighten</em>, or turns",
+            "<em>hot, red and swollen</em> — see your GP or physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>catching</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Finger locks and stays bent",
+        "Hot, red, swollen finger",
+        "Swelling after a cut"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "After a weekend of gardening, Mr Turtle's finger catches and clicks every time he makes a fist. It may be what's often called trigger finger.\n\nIt happens when a finger tendon doesn't glide smoothly through its tunnel at the base of the finger, and it's often stiffest in the morning. Early on, a few things tend to help: easing off long, hard gripping, padding handles, breaking up tasks, and gentle finger movements in warm water. For some people, a small splint worn overnight can help too.\n\nA finger that locks and won't straighten, or turns hot, red and swollen, needs prompt attention. Our Sydney CBD and Chatswood physios can assess your hand. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#triggerfinger",
+    "#handpain",
+    "#fingerpain",
+    "#handtherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#gardening"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why a trigger finger catches, how to share the gripping load, a morning finger routine and signs worth getting checked.",
+  "story": {
+    "headline": "Finger catching or clicking?",
+    "body": "Warm water, then move it<br>slowly 5 times.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-22",
+  "created": "2027-01-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

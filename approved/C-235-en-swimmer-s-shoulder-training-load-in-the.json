@@ -1,0 +1,131 @@
+{
+  "id": "C-235-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Swimmer's shoulder: training load in the pool",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's shoulder grumbles<br><em>after squad</em>",
+      "sub": "Training load in the pool, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's check<br>your load first!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "New training block:<br>more km, <em>paddles too!</em>",
+      "char": "rabbit_tired",
+      "bubble": "Why does freestyle<br>make my shoulder<br>twinge..?",
+      "bubble_type": "thought",
+      "note": "(add an ocean swim, and it aches even more..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shoulder grumbling?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Is my stroke<br>all wrong?"
+      },
+      "note": "Hybi looked at <mark>what changed in training</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Swimming means<br><em>thousands</em> of strokes!",
+      "fact": "One session can mean <em>thousands</em> of arm strokes",
+      "left": {
+        "label": "Build slowly",
+        "char": "rabbit_happy",
+        "caption": "One change a week,<br>time to <b>adapt</b>"
+      },
+      "right": {
+        "label": "All at once",
+        "char": "rabbit_tired",
+        "caption": "Distance, paddles, fly<br><em>in the same week</em>"
+      },
+      "quip": "Shoulders dislike<br>sudden load spikes!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shoulder plan</b>",
+      "sub": "In the pool and on land!",
+      "sections": [
+        {
+          "heading": "1. Manage the load",
+          "color": "yellow",
+          "lines": [
+            "① Add paddles and pull sets <em>gradually</em>.",
+            "② Sore week? Kick sets, drills, backstroke.",
+            "③ <em>Breathe both sides</em> to share the load.",
+            "④ Band rotator cuff work, <em>2–3 times a week</em>."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Night pain</em>, weakness lifting the arm,",
+            "or <em>pins and needles</em> down the arm."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Night pain in the shoulder",
+        "Weakness lifting the arm",
+        "Tingling down the arm"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto's shoulder starting to grumble after squad or ocean swims? Check what's changed in training.\n\nSwimming can mean thousands of arm strokes every session. Most shoulders cope well, but big jumps in distance, new paddle or pull sets, or a run of long open water swims can outpace what your shoulder is ready for.\n\nHybi's plan: add load gradually, use kick sets, drills and backstroke to lighten a sore week, breathe to both sides, and do rotator cuff and shoulder blade work on land two or three times a week.\n\nNight pain, weakness or pins and needles down the arm are worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio 🏊\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#swimmersshoulder",
+    "#swimming",
+    "#shoulderpain",
+    "#squadswimming",
+    "#oceanswim",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining how pool training load affects the shoulder, gradual versus sudden increases, a shoulder care plan and signs worth getting checked.",
+  "story": {
+    "headline": "Sore shoulder after squad?",
+    "body": "Build load gradually<br>and train the shoulder on land.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-15",
+  "created": "2027-01-15-4",
+  "status": "approved",
+  "review_warnings": []
+}

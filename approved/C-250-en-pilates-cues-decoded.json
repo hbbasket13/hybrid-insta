@@ -1,0 +1,131 @@
+{
+  "id": "C-250-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates cues decoded",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "What does 'zip up'<br><em>actually mean?</em>",
+      "sub": "Pilates cues decoded, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's translate<br>them together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo's in Pilates class,<br>looking <em>a bit puzzled</em>.",
+      "char": "cat_tired",
+      "bubble": "Zip up..? Am I meant<br>to hold my breath..?",
+      "bubble_type": "thought",
+      "note": "(following along, but it feels awkward..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "After class, Momo met<br>Hybi at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Momo!<br>How was class?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Fun! But the cues<br>are so confusing!"
+      },
+      "note": "Hybi decided to translate <mark>the common cues</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "'Zip up' only needs<br><em>a gentle hug</em>!",
+      "fact": "Lower tummy at about <em>a third</em> of your effort, like snug jeans",
+      "left": {
+        "label": "Gentle hug",
+        "char": "cat_happy",
+        "caption": "Keep breathing,<br>tighten <b>just a little</b>"
+      },
+      "right": {
+        "label": "Sucking in",
+        "char": "cat_tired",
+        "caption": "Pull in hard and<br><em>hold your breath</em>"
+      },
+      "quip": "Keep the breath<br>easy and flowing!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute cue translator</b>",
+      "sub": "Remember these next class!",
+      "sections": [
+        {
+          "heading": "1. Three cues, decoded",
+          "color": "yellow",
+          "lines": [
+            "① Soften ribs: <em>breathe out</em> as arms go up.",
+            "② Grow tall: lift the <em>crown</em>, not the chin.",
+            "③ Shoulders from ears: a <em>light</em> idea, no yanking.",
+            "④ Cue not clicking? <em>Ask your instructor</em>!"
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>sharp pain</em> in a move, or your",
+            "arms or legs <em>tingle</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em><br>doing the moves?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain lasting after class",
+        "Tingling in arms or legs",
+        "Pain with certain moves"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Ever heard \"zip up\" in Pilates and quietly wondered what it means? Momo did too. Cues are shortcuts, and plain English helps them land.\n\n\"Zip up\" is a gentle lower tummy hug, about a third of your effort, like doing up snug jeans, with no breath holding. \"Soften your ribs\" means breathing out as your arms go overhead so the ribs settle. \"Grow tall\" lifts the crown of your head, not your chin. \"Shoulders away from your ears\" is a light suggestion, not a hard pull down.\n\nIf a cue doesn't click, ask. A different image or a quick demo often helps. Our Pilates team at Hybrid Physio explains the why behind each move. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#pilatescues",
+    "#reformerpilates",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#chatswood",
+    "#corestrength",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#pilatesinstructor",
+    "#pilateslife"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo translating common Pilates cues like zip up, soften your ribs, grow tall and shoulders away from your ears, plus signs worth getting checked.",
+  "story": {
+    "headline": "What 'zip up' really means",
+    "body": "A third of your effort,<br>breath flowing.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-21",
+  "created": "2027-01-21-4",
+  "status": "approved",
+  "review_warnings": []
+}

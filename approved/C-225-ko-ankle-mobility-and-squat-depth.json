@@ -1,0 +1,131 @@
+{
+  "id": "C-225-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Ankle mobility and squat depth",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "스쿼트만 하면<br><em>뒤꿈치가 뜨는</em> 루루",
+      "sub": "하비와 알아보는 발목과 스쿼트 깊이",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "발목부터<br>확인해볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "깊이 앉으려 하면<br>뒤꿈치가 <em>들썩!</em>",
+      "char": "kanga_tired",
+      "bubble": "왜 더 내려가면<br>상체가 쏠리지..?",
+      "bubble_type": "thought",
+      "note": "(현장에서 쪼그려 앉을 때도 발목이 뻑뻑..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>스쿼트가 얕아졌지?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 고관절이<br>문제일까요?"
+      },
+      "note": "하비는 <mark>발목 체크</mark>부터 해보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "깊이는 <em>발목</em>도<br>함께 정해요!",
+      "fact": "앉을수록 무릎이 <em>발끝 앞으로</em> 나가야 해요",
+      "left": {
+        "label": "잘 굽는 발목",
+        "char": "kanga_happy",
+        "caption": "무릎이 앞으로 나가며<br>뒤꿈치는 <b>바닥에</b>"
+      },
+      "right": {
+        "label": "뻣뻣한 발목",
+        "char": "kanga_tired",
+        "caption": "뒤꿈치가 뜨거나<br><em>상체가 앞으로 쏠려요</em>"
+      },
+      "quip": "흔하고, 충분히<br>바꿔볼 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 발목 루틴</b>",
+      "sub": "스쿼트 전에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 무릎 벽 대기 + 스쿼트",
+          "color": "yellow",
+          "lines": [
+            "① 벽에서 <em>한 뼘</em> 떨어져 한쪽 무릎 꿇기.",
+            "② 뒤꿈치 붙인 채 무릎 벽 터치, 양쪽 비교.",
+            "③ 무릎을 발끝 위로 <em>천천히 10~15회</em>.",
+            "④ 바로 <em>스쿼트 몇 개</em>로 새 범위 써보기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "발목 앞이 <em>집히듯 아프거나</em>",
+            "운동 후 붓는다면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 발목이 <em>뻣뻣하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "옛날 염좌 후 계속 뻣뻣",
+        "발목 앞이 집히듯 아프다",
+        "운동 후 발목이 붓는다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "스쿼트를 깊게 하려 하면 뒤꿈치가 들썩, 상체가 앞으로 쏠리는 루루. 발목이 범인일 수 있어요.\n\n앉을수록 무릎이 발끝 앞으로 나가야 하는데, 발목이 덜 굽으면 뒤꿈치가 뜨거나 중간에 멈추게 돼요. 흔하고, 충분히 바꿔볼 수 있는 부분이에요.\n\n하비의 1분 루틴: 벽에서 한 뼘 떨어져 무릎 꿇고 뒤꿈치 붙인 채 무릎으로 벽 터치, 양쪽 비교. 무릎을 발끝 위로 10~15회 흔든 뒤 바로 스쿼트 몇 개!\n\n오래된 염좌 후 뻣뻣함, 발목 앞 집히는 통증, 운동 후 붓기는 평가가 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#스쿼트",
+    "#발목가동성",
+    "#하체운동",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#anklemobility",
+    "#squats",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 스쿼트할 때 뒤꿈치가 뜨는 이유, 발목 가동성 비교, 무릎 벽 대기 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "스쿼트할 때 뒤꿈치가 뜬다면?",
+    "body": "무릎 벽 대기로<br>발목부터 체크!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-11",
+  "created": "2027-01-11-3",
+  "status": "approved",
+  "review_warnings": []
+}

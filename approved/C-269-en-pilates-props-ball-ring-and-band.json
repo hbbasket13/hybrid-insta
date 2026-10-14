@@ -1,0 +1,131 @@
+{
+  "id": "C-269-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates props: ball, ring and band",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Ball, ring, band..<br>where does <em>Momo start</em>?",
+      "sub": "A Pilates props story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's meet<br>them one by one!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo's keen on Pilates,<br>but the props? <em>Puzzling</em>.",
+      "char": "cat_tired",
+      "bubble": "What is each one<br>actually for..?",
+      "bubble_type": "thought",
+      "note": "(picks up the ball, then the ring, then puts both down..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So she asked Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Curious about props?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yes! They just make<br>it harder, right?"
+      },
+      "note": "Hybi explained <mark>what each prop does</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Props can make it<br><em>easier</em>, too!",
+      "fact": "A ball under your head can help you <em>learn a movement</em>",
+      "left": {
+        "label": "Supported",
+        "char": "cat_happy",
+        "caption": "Ball or band helps<br>you <b>learn it well</b>"
+      },
+      "right": {
+        "label": "Just push on",
+        "char": "cat_tired",
+        "caption": "Struggling through,<br>form <em>slips</em>"
+      },
+      "quip": "Each prop does<br>a different job!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute props guide</b>",
+      "sub": "Pick one for home!",
+      "sections": [
+        {
+          "heading": "1. What each one does",
+          "color": "yellow",
+          "lines": [
+            "① <em>Small ball</em>: behind your back, for feedback.",
+            "② <em>Ring</em>: squeeze between thighs, <em>5 sec × 10</em>.",
+            "③ <em>Band</em>: shorten your grip to adjust resistance.",
+            "④ Learn <em>2–3 moves</em> with one prop first."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>sharp pain</em> or",
+            "<em>tingling</em> during a movement."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Not sure <em>which prop</em> suits?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "An assessment first if you have",
+      "items": [
+        "Returning after an injury",
+        "Pain lasting a few weeks",
+        "Tingling or weakness"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo is keen to try Pilates, but the ball, ring and band had her puzzled.\n\nA soft, small ball behind your back or between your knees gives you something to feel against. The ring adds light resistance when you squeeze it between your hands or thighs. Bands let you change the challenge just by shortening your grip or swapping colours.\n\nA common myth is that props only make things tougher. Often they make a movement easier to learn first. Pick one prop and learn two or three exercises properly.\n\nReturning after an injury, or pain lasting weeks? Start with an assessment. Our Pilates team at Hybrid Physio can show you how to use each prop safely. Book online via the link in bio 🐱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#sydneypilates",
+    "#pilates",
+    "#pilatesprops",
+    "#pilatesring",
+    "#resistanceband",
+    "#homeworkout",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#matpilates"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining what the Pilates ball, ring and band each do, how props can make moves easier, a 1-minute props guide and when to get assessed first.",
+  "story": {
+    "headline": "Ball, ring or band?",
+    "body": "Pick one, learn<br>2–3 moves properly.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-29",
+  "created": "2027-01-29-2",
+  "status": "approved",
+  "review_warnings": []
+}

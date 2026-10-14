@@ -1,0 +1,131 @@
+{
+  "id": "C-237-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates after a long break from exercise",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Years since Koko's<br>last workout. <em>Now what?</em>",
+      "sub": "Easing back in with clinical Pilates",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Start lighter<br>than you think!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "When was the<br><em>last workout..?</em>",
+      "char": "koala_tired",
+      "bubble": "Will my body<br>get a shock..?",
+      "bubble_type": "thought",
+      "note": "(naps daily, exercise on pause for years..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Ready to move again?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Can I still do<br>what I used to?"
+      },
+      "note": "Hybi suggested <mark>starting smaller than you think</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Start <em>small</em>,<br>keep coming back!",
+      "fact": "Mild muscle soreness usually eases <em>within a few days</em>",
+      "left": {
+        "label": "Start small",
+        "char": "koala_happy",
+        "caption": "Leave feeling you<br><b>could do more</b>"
+      },
+      "right": {
+        "label": "Old level",
+        "char": "koala_tired",
+        "caption": "Go hard on day one,<br><em>skip next week</em>"
+      },
+      "quip": "Coming back next week<br>is what counts!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>comeback plan</b>",
+      "sub": "Twice a week is plenty!",
+      "sections": [
+        {
+          "heading": "1. How to start",
+          "color": "yellow",
+          "lines": [
+            "① A <em>short assessment</em> before your first class.",
+            "② Pilates <em>twice a week</em> plus a couple of walks.",
+            "③ Start <em>well below</em> your old level.",
+            "④ Share past injuries, surgeries and medications."
+          ]
+        },
+        {
+          "heading": "2. Check with your GP first if…",
+          "color": "purple",
+          "lines": [
+            "You have a <em>heart or lung condition</em>,",
+            "or get <em>chest pain or dizziness</em> with effort."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Before you <em>start</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Check with your GP first if",
+      "items": [
+        "Heart or lung condition",
+        "Chest pain with effort",
+        "Dizziness with effort"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "It's been a while since Koko last exercised. That's okay.\n\nWhether it's been a year or ten, getting back into exercise is often harder in your head than in your body. The trick is starting smaller than you think, so you leave each session feeling like you could do more.\n\nClinical Pilates can be a steady way back in. Sessions start with an assessment and build gradually. Mild muscle soreness early on usually eases within a few days. Twice a week plus a couple of walks is a solid start.\n\nIf you have a heart or lung condition or get chest pain with effort, check with your GP first. Our Pilates team at Hybrid Physio would love to help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#backtoexercise",
+    "#reformerpilates",
+    "#healthyageing",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#sydney",
+    "#physiotherapy",
+    "#hybridphysiotherapy",
+    "#pilatesforbeginners"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about returning to exercise after a long break, starting small, a twice-a-week Pilates plan and when to check with a GP first.",
+  "story": {
+    "headline": "Been a while since you exercised?",
+    "body": "Start smaller than you think,<br>and come back next week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-15",
+  "created": "2027-01-15-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-212-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for older adults: what to know",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's first massage:<br>does <em>firmer</em> mean better?",
+      "sub": "Massage for older adults: what to know",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's keep<br>it comfy!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Stiff shoulders after<br>a day in the <em>garden</em>.",
+      "char": "koala_tired",
+      "bubble": "Maybe a massage..<br>but will it hurt?",
+      "bubble_type": "thought",
+      "note": "(and lying face down sounds a bit tricky..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>First massage?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "What should I<br>tell the therapist?"
+      },
+      "note": "Hybi said to <mark>start with your health history</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Firmer isn't<br><em>always better</em>",
+      "fact": "With age, skin and tissues can <em>bruise more easily</em>",
+      "left": {
+        "label": "Comfy pressure",
+        "char": "koala_happy",
+        "caption": "Moderate pressure<br><b>still eases stiffness</b>"
+      },
+      "right": {
+        "label": "Very firm",
+        "char": "koala_tired",
+        "caption": "Pushing hard<br><em>can leave bruises</em>"
+      },
+      "quip": "Comfortable pressure<br>can be plenty!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>before-your-massage check</b>",
+      "sub": "Run through it before you book!",
+      "sections": [
+        {
+          "heading": "1. Make it comfortable",
+          "color": "yellow",
+          "lines": [
+            "① <em>Mention</em> heart issues, surgery, bones, meds.",
+            "② Ask for <em>lighter pressure</em> any time.",
+            "③ Try <em>side-lying or seated</em> if face down is hard.",
+            "④ Get on and off the table <em>slowly</em>, with help."
+          ]
+        },
+        {
+          "heading": "2. Pair it with movement",
+          "color": "purple",
+          "lines": [
+            "Regular <em>walking, strength and balance</em> work",
+            "help keep you steady on your feet."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "See your <em>GP first</em> if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See your GP before booking if",
+      "items": [
+        "New calf pain or swelling",
+        "Chest pain or breathlessness",
+        "Unexplained bruising"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko has stiff shoulders after a day in the garden and is thinking about her first massage.\n\nStart by telling your therapist about heart conditions, recent surgery, osteoporosis, diabetes and any medications. It helps them choose pressure and position. Skin can bruise more easily as we age, so moderate pressure often feels great and still eases stiffness. Side-lying or seated positions are options too.\n\nMassage can ease stiffness, and it works well alongside walking, strength and balance work. New calf pain or swelling, chest pain or breathlessness means a GP visit first.\n\nOur remedial massage therapists at Hybrid Physio adjust pressure and pace to suit you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#healthyageing",
+    "#seniorhealth",
+    "#activeageing",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#balance",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about massage for older adults, what to tell your therapist, comfortable versus very firm pressure and signs to see a GP first.",
+  "story": {
+    "headline": "Massage for older adults",
+    "body": "Share your health history,<br>keep pressure comfy.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-06",
+  "created": "2027-01-06-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-242-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Nordic walking with poles",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코가 산책에<br><em>폴 두 개</em>를 챙긴 이유",
+      "sub": "노르딕 워킹, 하비와 알아봐요",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>걸어볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "매일 하는 산책,<br>요즘은 <em>균형</em>이 걱정.",
+      "char": "koala_tired",
+      "bubble": "좀 더 든든하게<br>걸을 순 없을까..?",
+      "bubble_type": "thought",
+      "note": "(무릎도 가끔 시큰하다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>산책 좋아하는구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "막대기 들고 걸으면<br>뭐가 달라요?"
+      },
+      "note": "하비는 <mark>폴로 뒤로 밀며 걷는 법</mark>을 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "폴이 있으면<br><em>온몸</em>을 써요!",
+      "fact": "팔·어깨·몸통까지 쓰는 <em>가벼운 전신 운동</em>",
+      "left": {
+        "label": "뒤로 밀기",
+        "char": "koala_happy",
+        "caption": "폴로 뒤로 밀며<br><b>팔도 함께</b>"
+      },
+      "right": {
+        "label": "콕콕 짚기만",
+        "char": "koala_tired",
+        "caption": "앞에 짚기만 하고<br><em>밀어주지 않아요</em>"
+      },
+      "quip": "많은 분이 더 든든하게<br>느낀다고 해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 폴 세팅</b>",
+      "sub": "처음엔 짧게 시작해요!",
+      "sections": [
+        {
+          "heading": "1. 폴 길이와 걷기",
+          "color": "yellow",
+          "lines": [
+            "① 폴 끝을 발 옆에, 팔꿈치 <em>약 90도</em>.",
+            "② 반대쪽 뒤꿈치 옆에 짚고 <em>뒤로 밀기</em>.",
+            "③ 손잡이는 가볍게, 어깨는 편하게.",
+            "④ 평지에서 <em>15~20분</em>, 시원한 아침에."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP·물리치료사에게!",
+          "color": "purple",
+          "lines": [
+            "걸을수록 <em>관절 통증이 쌓이거나</em>,",
+            "<em>가슴 불편감·숨참</em>이 있다면 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "걸을수록 관절이 아프다",
+        "무릎·발목이 붓는다",
+        "가슴 불편감이나 숨참"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "요즘 산책할 때 균형이 걱정인 코코. 그래서 폴 두 개를 챙겨봤어요.\n\n노르딕 워킹은 폴을 몸 뒤로 짚고 밀면서 걷는 방법이에요. 팔·어깨·몸통까지 써서 평범한 산책이 가벼운 전신 운동이 될 수 있어요. 더 든든하다고 느끼는 분도 많아요.\n\n폴 끝을 발 옆에 두면 팔꿈치가 약 90도, 평지에서 15~20분부터! 관절 통증이 쌓이거나 가슴이 불편하면 확인받아요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#노르딕워킹",
+    "#걷기운동",
+    "#시니어운동",
+    "#균형",
+    "#시드니물리치료",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#nordicwalking",
+    "#chatswoodphysio",
+    "#healthyageing"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 노르딕 워킹이란, 폴로 뒤로 밀며 걷는 법, 폴 길이 맞추기, 확인이 필요한 신호.",
+  "story": {
+    "headline": "노르딕 워킹 해볼까요?",
+    "body": "팔꿈치 90도,<br>평지 15~20분부터!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-18",
+  "created": "2027-01-18-5",
+  "status": "approved",
+  "review_warnings": []
+}

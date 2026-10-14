@@ -1,0 +1,131 @@
+{
+  "id": "C-257-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Rowing machine technique for a happy back",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Rowing machine leaves<br>Lulu's <em>back sore</em>",
+      "sub": "Rowing technique for a happy back, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "The order<br>makes a difference!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "New goal: <em>the erg</em>,<br>30 minutes from week one.",
+      "char": "kanga_tired",
+      "bubble": "It's a full-body<br>workout.. so why<br>just my back..?",
+      "bubble_type": "thought",
+      "note": "(by the end, his back is rounding..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Lulu!<br>Started rowing?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. but my back<br>is feeling it."
+      },
+      "note": "Hybi decided to check <mark>the order of the stroke</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "The order is<br><em>legs → body → arms</em>!",
+      "fact": "Push with the legs, hinge from the hips, arms <em>last</em>",
+      "left": {
+        "label": "Legs first",
+        "char": "kanga_happy",
+        "caption": "Leg drive with<br>a <b>tall chest</b>"
+      },
+      "right": {
+        "label": "Arms first",
+        "char": "kanga_tired",
+        "caption": "Arms pull early,<br><em>back rounds</em>"
+      },
+      "quip": "Getting tired?<br>Sit up tall!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute rowing check</b>",
+      "sub": "Try it before your next session!",
+      "sections": [
+        {
+          "heading": "1. A back-friendly stroke",
+          "color": "yellow",
+          "lines": [
+            "① Start the drive with a <em>strong leg push</em>.",
+            "② Hinge from the <em>hips</em>, don't slump.",
+            "③ Damper around the <em>middle</em>; smooth strokes.",
+            "④ Start short, add <em>5 minutes a week</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads into the leg</em> or you get <em>pins</em>",
+            "<em>and needles</em> — stop and get it checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still<br><em>bothering you?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading into a leg",
+        "Numbness or pins and needles",
+        "Building despite rest"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu's new goal is the rowing machine, but after a few sessions his back is feeling it.\n\nThe erg is a great full-body workout, but technique matters. Common reasons for a sore back are pulling with the arms first, slumping through the lower back, cranking the damper up and doing too much too soon.\n\nTry this: legs, then body, then arms on the drive. Hinge from the hips with a tall chest, keep the damper around the middle and add about five minutes each week.\n\nPain spreading into the leg, pins and needles or pain that keeps building is worth getting checked. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#rowing",
+    "#rowingmachine",
+    "#erg",
+    "#backpain",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#gymlife"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu showing the legs, body, arms rowing sequence, damper and volume tips for a happier back, and signs worth getting checked.",
+  "story": {
+    "headline": "Rowing making your back sore?",
+    "body": "Legs, body, arms,<br>with a tall chest.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-23",
+  "created": "2027-01-23-2",
+  "status": "approved",
+  "review_warnings": []
+}

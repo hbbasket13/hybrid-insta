@@ -1,0 +1,131 @@
+{
+  "id": "C-248-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Boxing classes: shoulders and wrists",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Boxing class, then<br><em>sore wrists</em> for Lulu",
+      "sub": "Looking after shoulders and wrists, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's keep you<br>punching!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lulu's hooked on<br><em>after-work boxing</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why do my wrists<br>ache every time<br>I hit the bag..?",
+      "bubble_type": "thought",
+      "note": "(and the front of the shoulder grumbles too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Lulu!<br>Loving boxing?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah! But my wrists..<br>should I stop?"
+      },
+      "note": "Hybi decided to look at <mark>the moment of impact</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "On impact,<br>keep it <em>in one line</em>!",
+      "fact": "Knuckles, wrist, forearm <em>in line</em> = less wrist load",
+      "left": {
+        "label": "In line",
+        "char": "kanga_happy",
+        "caption": "Knuckles, wrist and<br>forearm land <b>as one</b>"
+      },
+      "right": {
+        "label": "Bent wrist",
+        "char": "kanga_tired",
+        "caption": "The bent wrist<br><em>takes the hit</em>"
+      },
+      "quip": "Power from the legs,<br>shoulder finishes it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute boxing check</b>",
+      "sub": "Try it before your next class!",
+      "sections": [
+        {
+          "heading": "1. Protect wrists and shoulders",
+          "color": "yellow",
+          "lines": [
+            "① Wrap snugly, but <em>no tingling fingers</em>.",
+            "② Punch <em>slowly</em> first to learn the straight line.",
+            "③ Drive from back foot → hips → shoulder.",
+            "④ Band rotator cuff and grip work <em>twice a week</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your wrist or hand <em>swells</em>, or your fingers",
+            "go <em>numb</em> — get it checked before next class."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> after class?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling in wrist or hand",
+        "Pain over a knuckle",
+        "Shoulder feels unstable"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu's hooked on after-work boxing, but his wrists ache the next day and the front of his shoulder grumbles.\n\nMost of it comes back to basics. Wrap your hands snugly and wear gloves that fit. On impact, land with knuckles, wrist and forearm in one line, and slow your punches down while you learn the shape. Drive from your back foot and hips so the shoulder finishes the punch. Back after a break? Start with fewer rounds and add band work for rotator cuff and grip twice a week.\n\nSwelling, pain over a knuckle, an unstable shoulder or numb fingers are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🥊\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#boxing",
+    "#boxingfitness",
+    "#wristpain",
+    "#shoulderpain",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#gymlife"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu showing how a straight wrist on impact, good wraps and band work can ease boxing wrist and shoulder strain, plus signs worth getting checked.",
+  "story": {
+    "headline": "Sore wrists after boxing?",
+    "body": "Knuckles, wrist, forearm:<br>land in one line.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-20",
+  "created": "2027-01-20-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-252-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Wrist-friendly Pilates modifications",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Momo's wrists<br><em>dread the plank</em>",
+      "sub": "Wrist-friendly Pilates, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's adapt<br>the moves!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Loves Pilates, but<br>tenses up at <em>planks</em>.",
+      "char": "cat_tired",
+      "bubble": "Why do my wrists<br>ache so much..?",
+      "bubble_type": "thought",
+      "note": "(hands and knees work stings too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi Momo!<br>Wrists sore?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. should I<br>stop Pilates?"
+      },
+      "note": "Hybi decided to show her <mark>some wrist-friendly swaps</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Less wrist bend</em><br>feels much easier!",
+      "fact": "A plank loads the wrist at <em>full extension</em>",
+      "left": {
+        "label": "Forearm or fist",
+        "char": "cat_happy",
+        "caption": "Forearms or a soft fist<br>keep the wrist <b>straight</b>"
+      },
+      "right": {
+        "label": "Flat hand",
+        "char": "cat_tired",
+        "caption": "Wrist bent back,<br><em>taking all the weight</em>"
+      },
+      "quip": "Your core still<br>works just as well!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute wrist swaps</b>",
+      "sub": "Try them in your next class!",
+      "sections": [
+        {
+          "heading": "1. Easier on the wrists",
+          "color": "yellow",
+          "lines": [
+            "① Drop to <em>forearms</em>, or lean on a <em>soft fist</em>.",
+            "② Press through finger bases and <em>thumb pad</em>.",
+            "③ Pop a <em>folded towel</em> under the heel of the hand.",
+            "④ Hands and knees, <em>10 sec × 5</em>; build over weeks."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your wrist <em>swells</em> or fingers <em>tingle</em> —",
+            "stop and chat to your instructor or physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em><br>with the swaps?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling in the wrist",
+        "Tingling in the fingers",
+        "Pain that lingers with rest"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo loves Pilates, but her wrists grumble every time class goes into a plank. Planks and hands and knees work load the wrist while it's bent right back, which is a big ask if your wrists aren't used to it.\n\nThe good news: Pilates is easy to adapt. Try forearms or a soft fist instead of a flat hand, press through your finger bases and thumb pad, and pop a folded towel under the heel of your hand. Build tolerance with short holds over a few weeks. Most importantly, tell your instructor at the start of class.\n\nSwelling or tingling fingers are worth getting checked. Our clinical Pilates team at Hybrid Physio tailors sessions to you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#wristpain",
+    "#reformerpilates",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydneycbd",
+    "#plank",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#pilatesmodifications",
+    "#corestrength"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo showing why planks can strain the wrists, simple forearm, fist and towel swaps, and signs worth getting checked.",
+  "story": {
+    "headline": "Wrists sore in planks?",
+    "body": "Try forearms or a soft fist<br>to keep wrists straight.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-21",
+  "created": "2027-01-21-6",
+  "status": "approved",
+  "review_warnings": []
+}

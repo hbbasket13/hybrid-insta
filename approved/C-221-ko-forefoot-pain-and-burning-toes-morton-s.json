@@ -1,0 +1,131 @@
+{
+  "id": "C-221-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Forefoot pain and burning toes (Morton's neuroma)",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "발가락 사이가<br><em>화끈거리는</em> 토토",
+      "sub": "하비와 알아보는 앞발 통증 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "신발부터<br>같이 볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "달리기 후,<br>발바닥 앞이 <em>화끈화끈</em>.",
+      "char": "rabbit_tired",
+      "bubble": "신발 속에 작은 돌이<br>들어간 것 같아..?",
+      "bubble_type": "thought",
+      "note": "(신발을 벗고 문지르면 좀 나아지는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>발가락이 찌릿하지?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 3·4번째 발가락<br>사이가 화끈거려요"
+      },
+      "note": "하비는 <mark>앞발이 눌리는 이유</mark>부터 설명하기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "앞이 좁은 신발은<br><em>발가락을 조여요!</em>",
+      "fact": "<em>지간신경종</em>: 발가락 사이 신경이 예민해진 상태",
+      "left": {
+        "label": "넓은 앞코",
+        "char": "rabbit_happy",
+        "caption": "앞이 넓고 굽이 낮으면<br>발가락이 <b>숨 쉬어요</b>"
+      },
+      "right": {
+        "label": "좁고 뾰족",
+        "char": "rabbit_tired",
+        "caption": "앞이 좁고 뾰족하면<br><em>신경이 눌릴 수 있어요</em>"
+      },
+      "quip": "간단한 변화로 좋아지는<br>경우가 많아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>앞발 편하게 하기</b>",
+      "sub": "오늘 신발부터 확인해요!",
+      "sections": [
+        {
+          "heading": "1. 발가락에 공간 주기",
+          "color": "yellow",
+          "lines": [
+            "① <em>앞코 넓고 굽 낮은</em> 쿠션 신발 고르기.",
+            "② 발등 앞쪽 끈은 <em>살짝 느슨하게</em>.",
+            "③ 아픈 곳 뒤에 <em>중족골 패드</em> 대보기.",
+            "④ 달리기 양 조절 + 종아리·발 근력 운동."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기",
+          "color": "purple",
+          "lines": [
+            "저림이 <em>계속되거나</em> 붓고 빨개지면,",
+            "몇 주 지나도 그대로면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>화끈거린다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "저림이 계속된다",
+        "붓거나 빨개진다",
+        "밤에 아파서 깬다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "달리고 나면 발바닥 앞이 화끈하고, 신발 속에 작은 돌이 있는 것 같은 토토.\n\n발가락 사이, 흔히 3·4번째 사이가 화끈거리거나 저린 건 신경이 예민해진 '지간신경종(Morton's neuroma)'과 관련 있을 수 있어요. 흔한 편이고, 간단한 변화로 좋아지는 경우가 많아요.\n\n먼저 신발부터: 앞코가 넓고 굽이 낮은 쿠션 신발, 앞쪽 끈은 느슨하게. 중족골 패드, 달리기 양 조절, 종아리·발 근력 운동도 도움이 될 수 있어요.\n\n저림이 계속되거나 붓기·밤 통증이 있다면 시드니 CBD·채스우드 물리치료사와 확인해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#발통증",
+    "#지간신경종",
+    "#러닝",
+    "#러너",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#footpain",
+    "#mortonsneuroma",
+    "#sydneyrunners"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 발가락 사이가 화끈거리는 이유, 넓은 앞코와 좁은 신발 비교, 앞발 편하게 하는 방법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "발가락 사이가 화끈?",
+    "body": "앞코 넓고 굽 낮은 신발,<br>끈은 살짝 느슨하게!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-09",
+  "created": "2027-01-09-5",
+  "status": "approved",
+  "review_warnings": []
+}

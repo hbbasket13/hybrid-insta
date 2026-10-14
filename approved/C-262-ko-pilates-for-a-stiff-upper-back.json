@@ -1,0 +1,131 @@
+{
+  "id": "C-262-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for a stiff upper back",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "거북씨의 등이<br><em>벽돌처럼</em> 굳은 이유",
+      "sub": "하비와 함께 알아보는 필라테스 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "등을 깨워<br>볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 <em>9시간</em> 같은 자세,<br>등이 꽉 막힌 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "등이 왜 이렇게<br>딱딱하지..?",
+      "bubble_type": "thought",
+      "note": "(기지개를 켜도 등은 그대로..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>등이 뻣뻣하구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 필라테스가<br>등에도 좋아요?"
+      },
+      "note": "하비는 등이 <mark>어떻게 움직이는지</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "등은 <em>여러 방향</em>으로<br>움직이는 곳이에요!",
+      "fact": "등은 숙이고, 젖히고, <em>돌리고</em>, 옆으로 굽혀요",
+      "left": {
+        "label": "골고루 움직임",
+        "char": "turtle_happy",
+        "caption": "여러 방향을 쓰면<br>등이 <b>부드러워요</b>"
+      },
+      "right": {
+        "label": "한 방향만",
+        "char": "turtle_sad",
+        "caption": "숙이기만 하면<br>등이 <em>굳기 쉬워요</em>"
+      },
+      "quip": "필라테스는 모든 방향을<br>천천히 써요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 등 깨우기</b>",
+      "sub": "매트 위에서 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 이 순서로 해요",
+          "color": "yellow",
+          "lines": [
+            "① 누워서 갈비뼈를 넓히며 <em>숨쉬기 5번</em>.",
+            "② 엎드려 가슴을 <em>살짝만</em> 들어요 × 5회.",
+            "③ 옆으로 누워 <em>오픈 북</em>, 양쪽 8회씩.",
+            "&nbsp;&nbsp;&nbsp;(억지로 말고 부드럽게!)"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "<em>가슴 통증이나 숨참</em>이 있으면",
+            "바로 진료받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>뻣뻣하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "넘어진 뒤 아프다",
+        "밤에 아파서 깬다",
+        "팔다리가 저린다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "몇 주째 책상 앞에 앉아 있다 보니 등이 벽돌처럼 굳은 거북씨.\n\n등은 숙이고, 젖히고, 돌리고, 옆으로 굽힐 수 있는 곳인데 책상 앞에선 대부분 한 방향만 써요. 필라테스는 여러 방향을 천천히 조절하며 움직여서 뻣뻣한 등이 편해지는 경우가 많아요.\n\n누워서 갈비뼈 숨쉬기 5번, 엎드려 가슴 살짝 들기, 오픈 북 양쪽 8회. 억지로 말고 부드럽게!\n\n가슴 통증이나 숨참은 바로 진료가 필요하고, 넘어진 뒤 통증이나 밤에 깨는 통증은 평가가 먼저예요. 하이브리드 피지오 필라테스 팀이 매트·리포머 프로그램을 짜드려요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#등통증",
+    "#시드니필라테스",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#clinicalpilates",
+    "#sydneypilates",
+    "#upperback",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 등이 굳는 이유, 여러 방향 움직임 비교, 1분 필라테스 등 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "등이 벽돌처럼 굳었다면?",
+    "body": "갈비뼈 숨쉬기부터<br>천천히 시작해요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-27",
+  "created": "2027-01-27-1",
+  "status": "approved",
+  "review_warnings": []
+}

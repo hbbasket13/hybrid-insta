@@ -1,0 +1,131 @@
+{
+  "id": "C-273-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Where chiropractic care fits for active people",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "운동하는 토토에게<br>카이로는 <em>어디쯤 필요할까?</em>",
+      "sub": "하비와 함께 알아보는 카이로 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "자리를<br>찾아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "훈련은 열심히,<br>그런데 등이 <em>꽉 막혔다</em>.",
+      "char": "rabbit_tired",
+      "bubble": "등이 뻣뻣해서<br>팔이 위로<br>안 올라가..",
+      "bubble_type": "thought",
+      "note": "(라이딩 중 고개 돌리기도 어색하다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>의<br>하비를 찾아갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>훈련 중에 뻣뻣해?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "응.. 교정 한 번이면<br>다 풀리겠지?"
+      },
+      "note": "하비는 <mark>카이로가 맞는 자리</mark>부터 알려주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "조정은 <em>창문</em>을 열어줄<br>뿐이에요!",
+      "fact": "조정 후 뻣뻣함이 덜할 때 <em>바로 움직여야</em> 효과를 지키기 좋아요",
+      "left": {
+        "label": "조정 + 운동",
+        "char": "rabbit_happy",
+        "caption": "열린 창문에<br>운동으로 <b>이어가요</b>"
+      },
+      "right": {
+        "label": "조정만",
+        "char": "rabbit_tired",
+        "caption": "움직임 없이는<br><em>금방 돌아가요</em>"
+      },
+      "quip": "훈련량 조절이<br>여전히 중심이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 훈련 체크</b>",
+      "sub": "다음 훈련 전에 확인!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 해봐요",
+          "color": "yellow",
+          "lines": [
+            "① 이번 주 훈련량이 <em>갑자기 늘었는지</em> 봐요.",
+            "② 조정 받은 날엔 <em>가벼운 가동성 운동</em>.",
+            "③ 늘릴 땐 <em>조금씩</em>, 한 번에 많이 X.",
+            "④ 근력 운동은 <em>주 2회</em> 꾸준히."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 먼저 평가받기!",
+          "color": "purple",
+          "lines": [
+            "<em>넘어지거나 부딪힌 뒤</em> 통증,",
+            "팔다리 <em>저림·힘 빠짐</em>이 있다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>막힌다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "넘어진 뒤 통증이 있다",
+        "팔다리가 저리거나 약하다",
+        "쉬어도 밤에 아프다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "훈련을 열심히 하는 토토. 그런데 등이 뻣뻣해서 팔이 위로 잘 안 올라가요.\n\n등이나 목이 뻣뻣해서 훈련이 막힐 때, 손으로 하는 치료가 단기적으로 편하게 해줄 수 있어요. 조정 후 뻣뻣함이 덜한 그때가 움직일 타이밍이에요. 이어서 하는 운동이 변화를 지키는 데 도움이 돼요.\n\n대부분의 훈련 통증은 너무 많이, 너무 빨리에서 시작해요. 카이로프랙터는 척추만이 아니라 훈련 주간도 물어봐야 해요. 하이브리드 피지오에선 다른 팀과 함께 봐요.\n\n넘어진 뒤 통증, 저림·힘 빠짐, 쉬어도 낫지 않는 밤 통증은 평가가 먼저예요. 프로필 링크에서 온라인 예약 🐰\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#카이로프랙틱",
+    "#운동부상",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#러닝",
+    "#chiropractor",
+    "#sydneychiro",
+    "#sportsrecovery",
+    "#training"
+  ],
+  "alt_text": "하비와 토끼 토토가 등장하는 7장짜리 만화 카드뉴스: 운동하는 사람에게 카이로 조정이 맞는 자리, 조정과 운동 비교, 1분 훈련 체크, 확인이 필요한 신호.",
+  "story": {
+    "headline": "훈련 중 등이 막혔다면?",
+    "body": "조정 후엔<br>바로 움직여요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-30",
+  "created": "2027-01-30-3",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-255-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Stiff neck after a cold draught: what's going on",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Did the air-con<br><em>stiffen his neck?</em>",
+      "sub": "Stiff neck after a cold draught, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day <em>under the vent</em>,<br>in front of the screen.",
+      "char": "turtle_sad",
+      "bubble": "Did the cold air<br>lock up my neck..?",
+      "bubble_type": "thought",
+      "note": "(it catches every time he turns his head..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! Neck<br>won't turn?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. is it the<br>air-con's fault?"
+      },
+      "note": "Hybi decided to explain <mark>what's more likely going on</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's less the breeze,<br>more the <em>hunching</em>!",
+      "fact": "Feeling cold makes you <em>tense up and hold still</em>",
+      "left": {
+        "label": "Warm + moving",
+        "char": "turtle_happy",
+        "caption": "Warmth, then gentle<br>moves <b>every hour</b>"
+      },
+      "right": {
+        "label": "Kept still",
+        "char": "turtle_sad",
+        "caption": "Holding the neck<br><em>completely still</em>"
+      },
+      "quip": "Keeping it frozen<br>rarely helps!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute neck ease</b>",
+      "sub": "Every hour, right at your desk!",
+      "sections": [
+        {
+          "heading": "1. Warm it, then move it",
+          "color": "yellow",
+          "lines": [
+            "① Warm shower or <em>heat pack, 10–15 min</em>.",
+            "② Turn and look up/down within comfort, <em>5 each</em>.",
+            "③ Shoulder rolls, <em>10 reps, every hour</em>.",
+            "④ Under a vent? Add a <em>light layer</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Neck stiffness with <em>fever, headache</em> or feeling",
+            "unwell: <em>see a doctor today</em>. Arm tingling too."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still stuck<br><em>after a week?</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm pain or pins and needles",
+        "Dizziness with it",
+        "No better after a week"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle sat under the air-con all day and now his neck won't turn. There isn't strong evidence that a cold draught alone causes it. Feeling chilly does make you hunch and hold still, though.\n\nAdd a long day without moving, an awkward sleep or a stressful week, and the neck can feel locked. Warmth from a shower or heat pack, gentle movement every hour and a light layer under the vent often help. Most stiff necks settle within a few days to a week.\n\nA stiff neck with fever, headache or feeling unwell needs a doctor the same day. Arm symptoms, dizziness or no change after a week are worth an assessment. Our chiropractors can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#stiffneck",
+    "#neckpain",
+    "#officehealth",
+    "#deskjob",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#chiropractic",
+    "#aircon"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why a neck can stiffen under the air-con, a warm-and-move routine and signs worth getting checked.",
+  "story": {
+    "headline": "Neck stiff after the air-con?",
+    "body": "Warm it, then move it<br>gently every hour.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-22",
+  "created": "2027-01-22-6",
+  "status": "approved",
+  "review_warnings": []
+}

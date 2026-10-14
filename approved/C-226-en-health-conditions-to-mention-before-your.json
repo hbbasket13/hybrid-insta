@@ -1,0 +1,131 @@
+{
+  "id": "C-226-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Health conditions to mention before your massage",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Tell your massage<br>therapist <em>this first</em>",
+      "sub": "Health details worth sharing, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's check<br>together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko's first massage<br>in <em>ages</em>.",
+      "char": "koala_tired",
+      "bubble": "Do I mention my<br>blood pressure<br>tablets..?",
+      "bubble_type": "thought",
+      "note": "(Koko, stuck on the health form..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Filling in the form?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. do I really<br>need to list all this?"
+      },
+      "note": "Hybi explained <mark>what's worth mentioning</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Your health details<br><em>shape the session</em>!",
+      "fact": "What you share stays <em>confidential</em> · used to plan",
+      "left": {
+        "label": "Mention it",
+        "char": "koala_happy",
+        "caption": "Pressure and areas<br><b>suited to you</b>"
+      },
+      "right": {
+        "label": "Keep it quiet",
+        "char": "koala_tired",
+        "caption": "The therapist may plan<br><em>without key info</em>"
+      },
+      "quip": "Even small things are<br>worth mentioning!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pre-massage checklist</b>",
+      "sub": "Think of these on the form!",
+      "sections": [
+        {
+          "heading": "1. Let your therapist know",
+          "color": "yellow",
+          "lines": [
+            "① Heart, blood pressure, <em>blood clot</em> history.",
+            "② Recent injuries, surgery or <em>new scars</em>.",
+            "③ Pregnancy, and <em>how many weeks</em> along.",
+            "④ Diabetes, osteoporosis, cancer treatment."
+          ]
+        },
+        {
+          "heading": "2. Reschedule if…",
+          "color": "purple",
+          "lines": [
+            "You have a <em>fever</em> or feel unwell,",
+            "or a rash, cut or skin infection."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get these <em>checked first</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See your GP or physio first if",
+      "items": [
+        "A fresh sprain or fracture",
+        "Very recent surgery",
+        "New numbness"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko booked a massage for the first time in ages, then got stuck on the health form. Is all of that really needed? Yes, and here's why.\n\nHeart conditions, blood pressure changes, a history of blood clots or medications that affect clotting all change how firm the pressure should be and which areas are worked. Recent injuries or surgery, pregnancy, diabetes, osteoporosis and cancer treatment are worth mentioning too.\n\nFeeling unwell with a fever, or a rash or skin infection, is a reason to reschedule. It looks after you and the next client.\n\nEverything you share stays confidential and simply helps plan a safe, comfortable session. Our remedial massage therapists at Hybrid Physio read your form and tailor the session. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#massage",
+    "#healthhistory",
+    "#sydneymassage",
+    "#chatswoodmassage",
+    "#chatswood",
+    "#sydney",
+    "#remedialmassagetherapist",
+    "#selfcare",
+    "#hybridphysiotherapy",
+    "#wellbeing"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko on which health conditions to mention before a massage, why it shapes the session and when to reschedule or get checked first.",
+  "story": {
+    "headline": "Before your massage, mention this",
+    "body": "Heart, blood pressure, surgery,<br>pregnancy: note it on the form.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-12",
+  "created": "2027-01-12-4",
+  "status": "approved",
+  "review_warnings": []
+}

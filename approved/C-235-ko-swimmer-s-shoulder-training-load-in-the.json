@@ -1,0 +1,131 @@
+{
+  "id": "C-235-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Swimmer's shoulder: training load in the pool",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "스쿼드 수영 후<br>토토의 <em>어깨가 욱신</em>",
+      "sub": "수영장 훈련량, 하비와 알아봐요",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "훈련량부터<br>볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "새 훈련 시즌,<br>거리도 패들도 <em>한꺼번에!</em>",
+      "char": "rabbit_tired",
+      "bubble": "자유형만 하면<br>어깨가 찌릿하네..?",
+      "bubble_type": "thought",
+      "note": "(오션 수영까지 더했더니 더 묵직..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>어깨가 불편하구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "제 영법이<br>잘못된 걸까요?"
+      },
+      "note": "하비는 <mark>훈련량의 변화</mark>부터 살펴보기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "수영은 어깨를<br><em>수천 번</em> 쓰는 운동!",
+      "fact": "한 세션에 팔 젓기가 <em>수천 번</em>이 될 수 있어요",
+      "left": {
+        "label": "천천히 늘리기",
+        "char": "rabbit_happy",
+        "caption": "한 주에 하나씩,<br>어깨가 <b>적응할 시간</b>"
+      },
+      "right": {
+        "label": "한꺼번에 늘리기",
+        "char": "rabbit_tired",
+        "caption": "거리·패들·접영을<br><em>같은 주에 몽땅</em>"
+      },
+      "quip": "어깨는 갑자기 늘어난<br>양에 약해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 어깨 관리</b>",
+      "sub": "수영장 안팎에서 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 훈련량 똑똑하게",
+          "color": "yellow",
+          "lines": [
+            "① 패들·풀부이 세트는 <em>조금씩</em> 추가.",
+            "② 아픈 주엔 킥·드릴·배영으로 가볍게.",
+            "③ <em>양쪽 호흡</em>으로 어깨 부담 나누기.",
+            "④ 밴드 회전근개 운동, <em>주 2~3회</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "<em>밤에 아프거나</em> 팔 들 때 힘이 빠지고,",
+            "팔이 <em>저려온다면</em> 늘리기 전에 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "밤에 어깨가 아프다",
+        "팔 들 때 힘이 빠진다",
+        "팔이 저리다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "스쿼드 수영이나 오션 수영 후 어깨가 욱신한 토토. 최근 훈련에서 뭐가 바뀌었는지부터 봐요.\n\n수영은 한 세션에 팔 젓기가 수천 번이 될 수 있어요. 대부분의 어깨는 잘 적응하지만, 거리·패들·접영을 한꺼번에 늘리면 따라가기 힘들 수 있어요.\n\n하비의 팁: 조금씩 늘리기, 아픈 주엔 킥·드릴·배영, 양쪽 호흡, 밴드 회전근개 운동 주 2~3회. 밤에 아프거나 팔이 저리면 확인받아요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🏊\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#수영",
+    "#어깨통증",
+    "#수영어깨",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#swimmersshoulder",
+    "#sydneyphysio",
+    "#oceanswim"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 수영 훈련량과 어깨 부담, 천천히 늘리기와 한꺼번에 늘리기 비교, 어깨 관리 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "스쿼드 후 어깨가 욱신?",
+    "body": "패들·거리는 조금씩,<br>육상 어깨 운동도!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-15",
+  "created": "2027-01-15-1",
+  "status": "approved",
+  "review_warnings": []
+}

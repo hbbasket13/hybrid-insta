@@ -1,0 +1,131 @@
+{
+  "id": "C-239-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Ankle fracture: rehab after the boot comes off",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "부츠는 벗었는데<br>코코 발목이 <em>뻣뻣해</em>",
+      "sub": "발목 골절 후 재활 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "단계별로<br>가봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "몇 주 만에<br>깁스 부츠와 <em>안녕!</em>",
+      "char": "koala_tired",
+      "bubble": "근데 왜 이렇게<br>붓고 뻣뻣하지..?",
+      "bubble_type": "thought",
+      "note": "(걸을 때마다 자꾸 절뚝거린다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>부츠 벗었구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "이제 마음대로<br>걸어도 되나요?"
+      },
+      "note": "하비는 <mark>담당 의사의 계획</mark>이 먼저라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "재활은 의사 계획<br><em>안에서</em> 해요!",
+      "fact": "골절마다 달라서 회복 기간도 <em>사람마다 달라요</em>",
+      "left": {
+        "label": "단계별 재활",
+        "char": "koala_happy",
+        "caption": "의사 계획 안에서<br><b>조금씩 늘리기</b>"
+      },
+      "right": {
+        "label": "혼자 서두르기",
+        "char": "koala_tired",
+        "caption": "허락 전에 무리하면<br><em>더 불편할 수 있어요</em>"
+      },
+      "quip": "타임라인은 사람마다<br>정말 달라요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 발목 시작</b>",
+      "sub": "의사가 허락했다면 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 부드럽게 움직이기",
+          "color": "yellow",
+          "lines": [
+            "① 다리를 <em>심장보다 높게</em> 올려 쉬기.",
+            "② 발목 위아래 펌프 <em>10회</em>, 하루 몇 번.",
+            "③ 발가락으로 <em>알파벳 쓰기</em> 1세트.",
+            "④ 짧게 걸으며 뒤꿈치 → 발끝 굴리기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 의사에게!",
+          "color": "purple",
+          "lines": [
+            "<em>종아리가 붓고 아프거나</em>, 상처가 빨갛고",
+            "뜨겁거나 발이 <em>저리다면</em> 바로 연락!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>바로 연락!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 의사에게 바로",
+      "items": [
+        "종아리가 붓고 아프다",
+        "상처 주위가 빨갛고 뜨겁다",
+        "발이 저리거나 둔하다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "몇 주 만에 부츠를 벗은 코코. 그런데 발목이 붓고 뻣뻣하고 낯설어요. 흔한 일이에요.\n\n골절과 수술은 사람마다 달라서, 체중을 얼마나 실을지는 담당 의사가 정해요. 재활은 그 계획 안에서 진행해요. 의사가 허락하면 다리 올리기, 발목 펌프, 발가락 알파벳 쓰기부터!\n\n종아리가 점점 붓고 아프거나 상처가 빨갛고 뜨겁다면 바로 의사에게 연락해요. 채스우드·시드니 CBD 물리치료사가 단계별 재활을 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#발목골절",
+    "#발목재활",
+    "#골절재활",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#anklefracture",
+    "#chatswoodphysio",
+    "#rehab"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 발목 골절 후 부츠를 벗은 뒤의 재활 단계, 의사 계획 안에서 진행하는 법, 부드러운 발목 운동, 바로 의사에게 연락할 신호.",
+  "story": {
+    "headline": "부츠 벗은 뒤 발목 재활",
+    "body": "의사 계획 안에서<br>발목 펌프부터!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-16",
+  "created": "2027-01-16-5",
+  "status": "approved",
+  "review_warnings": []
+}

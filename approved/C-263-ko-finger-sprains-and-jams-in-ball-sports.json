@@ -1,0 +1,131 @@
+{
+  "id": "C-263-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Finger sprains and jams in ball sports",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "공 잡다가 삔 루루의<br><em>손가락 이야기</em>",
+      "sub": "하비와 함께 알아보는 손가락 염좌",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "당기지 말고<br>잠깐만요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말 크리켓에서<br>공을 받다 <em>삐끗!</em>",
+      "char": "kanga_tired",
+      "bubble": "손가락을 쭉<br>당겨서 펴볼까..?",
+      "bubble_type": "thought",
+      "note": "(손가락 마디가 퉁퉁 부어오른다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>손가락을 삐었구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 그냥 당겨서<br>펴면 되죠?"
+      },
+      "note": "하비는 <mark>당기지 말아야 하는 이유</mark>부터 알려주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "당기기보다 <em>보호</em>가<br>먼저예요!",
+      "fact": "세게 당기면 <em>방금 다친 인대</em>에 또 부담이 갈 수 있어요",
+      "left": {
+        "label": "버디 테이핑",
+        "char": "kanga_happy",
+        "caption": "옆 손가락과 묶으면<br>지지하며 <b>굽혀져요</b>"
+      },
+      "right": {
+        "label": "쭉 당기기",
+        "char": "kanga_tired",
+        "caption": "다친 인대를<br><em>또 당겨요</em>"
+      },
+      "quip": "식히고, 올리고,<br>살살 움직여요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 손가락 관리</b>",
+      "sub": "삐었다면 이렇게 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 처음 며칠은",
+          "color": "yellow",
+          "lines": [
+            "① 천으로 감싼 냉팩, <em>15분</em> 정도 대요.",
+            "② 손을 <em>심장보다 높이</em> 올려둬요.",
+            "③ 옆 손가락과 <em>버디 테이핑</em>, 너무 꽉 X.",
+            "④ 한 시간에 몇 번 <em>주먹 살짝 쥐기</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "끝마디가 <em>스스로 안 펴지거나</em>,",
+            "관절 모양이 <em>달라 보이면</em> 바로 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "부기가 <em>계속된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "끝마디가 안 펴진다",
+        "관절 모양이 이상하다",
+        "저리거나 컵을 못 쥔다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "주말 크리켓에서 공을 받다 손가락을 삐끗한 루루. 당겨서 펴고 싶지만 잠깐만요!\n\n손가락 염좌는 크리켓, 넷볼, 농구, 비치발리볼에서 흔해요. 세게 당기면 방금 다친 인대에 또 부담이 갈 수 있어요. 식히고, 손을 올리고, 다른 마디는 살살 움직여요. 옆 손가락과 버디 테이핑하면 지지하면서도 굽힐 수 있어요.\n\n끝마디가 안 펴지거나 관절 모양이 이상하거나 저림·큰 부기가 있으면 일찍 확인받는 게 좋아요. 부목이 일찍 필요한 경우도 있거든요.\n\n채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🦘\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#손가락염좌",
+    "#스포츠부상",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#크리켓",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#fingerinjury",
+    "#sportsphysio"
+  ],
+  "alt_text": "하비와 캥거루 루루가 등장하는 7장짜리 만화 카드뉴스: 손가락을 삐었을 때 당기면 안 되는 이유, 버디 테이핑 비교, 1분 손가락 관리, 확인이 필요한 신호.",
+  "story": {
+    "headline": "공 받다 손가락 삐었다면?",
+    "body": "당기지 말고<br>식히고 올려요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-27",
+  "created": "2027-01-27-5",
+  "status": "approved",
+  "review_warnings": []
+}

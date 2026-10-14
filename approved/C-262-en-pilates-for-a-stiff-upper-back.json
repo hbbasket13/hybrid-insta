@@ -1,0 +1,131 @@
+{
+  "id": "C-262-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for a stiff upper back",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's upper back<br>feels like a <em>brick wall</em>",
+      "sub": "A Pilates story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's wake<br>that back up!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Nine hours</em> a day,<br>always the same position.",
+      "char": "turtle_monitor",
+      "bubble": "Why is my upper<br>back so stiff..?",
+      "bubble_type": "thought",
+      "note": "(even a big stretch doesn't seem to shift it..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Upper back stiff?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. could Pilates<br>help with that?"
+      },
+      "note": "Hybi started with <mark>how the upper back moves</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Your upper back moves<br>in <em>lots of directions</em>!",
+      "fact": "It bends, arches, <em>rotates</em> and side-bends",
+      "left": {
+        "label": "All directions",
+        "char": "turtle_happy",
+        "caption": "Varied movement,<br>back feels <b>freer</b>"
+      },
+      "right": {
+        "label": "One direction",
+        "char": "turtle_sad",
+        "caption": "Only hunching,<br>back <em>stiffens up</em>"
+      },
+      "quip": "Pilates works them all,<br>slowly and with control!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute upper back wake-up</b>",
+      "sub": "Grab a mat and try it!",
+      "sections": [
+        {
+          "heading": "1. In this order",
+          "color": "yellow",
+          "lines": [
+            "① Lying on your back, <em>5 wide rib breaths</em>.",
+            "② Face down, <em>small chest lifts</em> × 5.",
+            "③ Side-lying <em>open book</em>, 8 slow reps each side.",
+            "&nbsp;&nbsp;&nbsp;(smooth, never forced!)"
+          ]
+        },
+        {
+          "heading": "2. Stop and seek care if…",
+          "color": "purple",
+          "lines": [
+            "You notice <em>chest pain</em> or",
+            "<em>shortness of breath</em> — get help promptly."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain after a fall",
+        "Pain that wakes you at night",
+        "Tingling in arms or legs"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "A few weeks back at the desk and Mr Turtle's upper back feels like a brick wall.\n\nYour upper back is built to bend, arch, rotate and side-bend, but desk days mostly ask for one direction. Pilates works through all of them in a controlled way, which is often why a stiff upper back enjoys it.\n\nStart simple: five wide rib breaths on your back, a few small chest lifts face down, then eight slow open books each side. Smooth, not forced.\n\nChest pain or breathlessness needs prompt medical care. Pain after a fall or pain that wakes you is worth an assessment. Our Pilates team at Hybrid Physio can build a mat and reformer program around your back. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#sydneypilates",
+    "#pilates",
+    "#upperback",
+    "#deskjob",
+    "#posture",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#reformerpilates",
+    "#sydney",
+    "#officeworker"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why the upper back stiffens at a desk, how it moves in many directions, a 1-minute Pilates wake-up routine and signs worth getting checked.",
+  "story": {
+    "headline": "Upper back like a brick wall?",
+    "body": "Rib breaths, chest lifts,<br>open books. Smooth!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-27",
+  "created": "2027-01-27-4",
+  "status": "approved",
+  "review_warnings": []
+}

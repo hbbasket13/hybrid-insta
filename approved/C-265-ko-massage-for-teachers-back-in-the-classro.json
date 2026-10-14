@@ -1,0 +1,131 @@
+{
+  "id": "C-265-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for teachers back in the classroom",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "개학한 거북 선생님,<br><em>허리와 종아리가</em> 묵직",
+      "sub": "하비와 함께 알아보는 선생님 몸 관리",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "학기 초부터<br>챙겨볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "이번 학기엔 교단에 선<br>거북씨, <em>하루 종일 서 있다</em>.",
+      "char": "turtle_sad",
+      "bubble": "개학한 지<br>몇 주인데 벌써<br>허리가..",
+      "bubble_type": "thought",
+      "note": "(집에선 소파에 웅크리고 채점까지..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>학기 시작했구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 마사지 받으면<br>좀 나아질까요?"
+      },
+      "note": "하비는 <mark>마사지가 어디에 맞는지</mark>부터 알려주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지 + <em>작은 습관</em>이<br>함께 가요!",
+      "fact": "리메디얼 마사지는 근육 긴장을 <em>풀어주는 데</em> 도움이 돼요",
+      "left": {
+        "label": "쪼그려 앉기",
+        "char": "turtle_happy",
+        "caption": "학생 옆에 앉으면<br>허리가 <b>덜 숙여요</b>"
+      },
+      "right": {
+        "label": "허리 숙이기",
+        "char": "turtle_sad",
+        "caption": "낮은 책상에 숙이면<br>허리가 <em>계속 버텨요</em>"
+      },
+      "quip": "마사지는 운동을<br>대신하진 않아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 교실 습관</b>",
+      "sub": "수업 중에도 바로!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 바꿔요",
+          "color": "yellow",
+          "lines": [
+            "① 숙이지 말고 학생 <em>옆에 쪼그려</em> 앉아요.",
+            "② 오래 설 땐 <em>한 발을 낮은 받침</em>에 올려요.",
+            "③ 채점은 소파 말고 <em>식탁에서</em> 해요.",
+            "④ 쉬는 시간마다 <em>까치발 들기 10회</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 말고 확인받기!",
+          "color": "purple",
+          "lines": [
+            "통증에 <em>잠이 깨거나</em>, 팔다리로 <em>퍼지거나</em>,",
+            "저림이 있으면 물리치료사·GP 상담!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>뻐근하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "통증에 잠이 깬다",
+        "팔다리로 퍼지고 저리다",
+        "쉬어도 점점 심해진다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "이번 학기엔 교단에 선 거북씨. 개학 몇 주 만에 종아리와 허리가 벌써 묵직해요.\n\n칠판 앞에 오래 서 있기, 낮은 책상에 숙이기, 책 상자 나르기, 소파에서 채점하기. 보통 종아리, 허리, 목과 어깨가 먼저 느껴요.\n\n리메디얼 마사지는 근육 긴장을 풀고 금요일의 뻣뻣함을 덜어주는 데 도움이 될 수 있어요. 학생 옆에 쪼그려 앉기, 한 발 받침에 올리기, 식탁에서 채점하기 같은 습관과 함께하면 좋아요.\n\n통증에 잠이 깨거나 팔다리로 퍼지거나 저리면 물리치료사·GP 평가가 먼저예요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#선생님건강",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#허리통증",
+    "#remedialmassage",
+    "#sydneymassage",
+    "#teacherlife",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 학기 초 선생님의 허리·종아리 긴장, 마사지와 습관 비교, 1분 교실 습관, 확인이 필요한 신호.",
+  "story": {
+    "headline": "개학 후 허리가 묵직하다면?",
+    "body": "숙이지 말고<br>학생 옆에 쪼그려요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-28",
+  "created": "2027-01-28-1",
+  "status": "approved",
+  "review_warnings": []
+}

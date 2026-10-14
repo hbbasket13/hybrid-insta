@@ -1,0 +1,131 @@
+{
+  "id": "C-240-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for carers who lift",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "엄마를 돌보는 루루,<br><em>루루는 누가 돌봐?</em>",
+      "sub": "들어 올리는 보호자를 위한 마사지",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "루루도<br>챙겨야죠!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "퇴근 후엔<br>엄마 <em>부축하기</em>까지.",
+      "char": "kanga_tired",
+      "bubble": "허리랑 어깨가<br>계속 묵직하네..?",
+      "bubble_type": "thought",
+      "note": "(긴장이 몇 주째 조용히 쌓이는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>많이 지쳤구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "마사지만 받으면<br>다 풀릴까요?"
+      },
+      "note": "하비는 <mark>마사지는 보완</mark>이라는 것부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는 <em>보완</em>,<br>습관과 근력이 같이!",
+      "fact": "리메디얼 마사지는 근육 긴장을 <em>덜어줄 수 있어요</em>",
+      "left": {
+        "label": "함께 하기",
+        "char": "kanga_happy",
+        "caption": "마사지 + 근력 운동<br>+ <b>들기 습관</b>"
+      },
+      "right": {
+        "label": "마사지만",
+        "char": "kanga_tired",
+        "caption": "습관이 그대로면<br><em>또 쌓일 수 있어요</em>"
+      },
+      "quip": "정기적으로 받는 게<br>더 꾸준하기 쉬워요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 들기 습관</b>",
+      "sub": "매일 옮길 때 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 옮기기 전에",
+          "color": "yellow",
+          "lines": [
+            "① 들기 전 <em>몸 가까이</em> 다가가요.",
+            "② <em>무릎을 굽히고</em> 허리는 길게.",
+            "③ 허리 비틀지 말고 <em>발로 돌기</em>.",
+            "④ 슬라이드 시트 등 보조 도구 쓰기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 물리치료 평가받기!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 퍼지거나</em> 저리고,",
+            "<em>갑자기 삐끗한 뒤</em> 아프다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리로 퍼지는 통증",
+        "다리가 저리다",
+        "삐끗한 뒤 생긴 통증"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "일 끝나고 엄마를 침대·차·욕실로 부축하는 루루. 허리와 어깨, 팔뚝에 긴장이 조용히 쌓여요.\n\n리메디얼 마사지는 근육 긴장을 덜고 마음도 좀 풀어줄 수 있어요. 다만 마사지는 근력 운동, 들기 습관을 대신하지 않고 보완해요.\n\n몸 가까이, 무릎 굽히고, 발로 돌기! 다리로 퍼지는 통증이나 저림은 물리치료 평가가 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#보호자건강",
+    "#리메디얼마사지",
+    "#허리통증",
+    "#어깨통증",
+    "#시드니마사지",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#carers",
+    "#chatswood",
+    "#selfcare"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 매일 가족을 부축하는 보호자의 몸 관리, 마사지는 보완이라는 점, 안전한 들기 습관, 확인이 필요한 신호.",
+  "story": {
+    "headline": "보호자도 돌봄이 필요해요",
+    "body": "몸 가까이, 무릎 굽히고,<br>발로 돌기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-16",
+  "created": "2027-01-16-3",
+  "status": "approved",
+  "review_warnings": []
+}

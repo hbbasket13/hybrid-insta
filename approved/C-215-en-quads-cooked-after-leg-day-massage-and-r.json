@@ -1,0 +1,131 @@
+{
+  "id": "C-215-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Quads cooked after leg day: massage and recovery",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Day after leg day,<br>Lulu's quads are <em>cooked</em>",
+      "sub": "Massage and recovery, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's talk<br>recovery!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Two days after new lunges,<br>stairs are <em>scary</em>.",
+      "char": "kanga_tired",
+      "bubble": "Did I hurt<br>something..?",
+      "bubble_type": "thought",
+      "note": "(every step down the stairs, the thighs protest..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big leg day?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Will a massage<br>sort it out fast?"
+      },
+      "note": "Hybi said it may be <mark>DOMS: delayed onset soreness</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Gentle movement often<br>beats the <em>couch</em>",
+      "fact": "DOMS usually peaks <em>1–2 days</em> after unfamiliar training",
+      "left": {
+        "label": "Moving gently",
+        "char": "kanga_happy",
+        "caption": "Easy walk or spin,<br><b>quads loosen up</b>"
+      },
+      "right": {
+        "label": "Couch all day",
+        "char": "kanga_tired",
+        "caption": "Lying still often<br><em>feels stiffer</em>"
+      },
+      "quip": "Massage is a helper,<br>not the whole plan!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>leg-day recovery</b>",
+      "sub": "Try it today!",
+      "sections": [
+        {
+          "heading": "1. Recovery routine",
+          "color": "yellow",
+          "lines": [
+            "① Easy walk or light spin: <em>10–15 minutes</em>.",
+            "② Bodyweight squats, comfy range: <em>2 × 10</em>.",
+            "③ Next leg day, add sets <em>gradually</em>.",
+            "④ Leave about <em>2 reps in the tank</em> each set."
+          ]
+        },
+        {
+          "heading": "2. Get checked, not massaged, if…",
+          "color": "purple",
+          "lines": [
+            "<em>Sharp pain</em> during a lift, sudden swelling,",
+            "or <em>very dark urine</em> with severe pain."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Maybe <em>not just DOMS</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sharp pain during a lift",
+        "Sudden swelling or bruising",
+        "Very dark urine"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Two days after trying walking lunges, Lulu's quads are cooked and stairs feel scary.\n\nThat ache is often delayed onset muscle soreness, which usually peaks one to two days after unfamiliar or heavier training. It's a normal response to load. Research suggests massage can ease how sore you feel for a while, but it doesn't replace sleep, food or sensible programming.\n\nAn easy walk, a light spin or bodyweight squats through a comfortable range often help more than the couch. Next time, add sets gradually and leave a couple of reps in the tank.\n\nOur remedial massage therapists at Hybrid Physio work through quads, hips and calves. Book online via the link in bio 🦵\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#legday",
+    "#doms",
+    "#musclesoreness",
+    "#recovery",
+    "#gym",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#strengthtraining",
+    "#sydneyphysio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu about sore quads after leg day, gentle movement versus resting on the couch, a recovery routine and signs worth getting checked.",
+  "story": {
+    "headline": "Quads cooked after leg day?",
+    "body": "Easy walk, comfy squats,<br>add sets gradually.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-07",
+  "created": "2027-01-07-2",
+  "status": "approved",
+  "review_warnings": []
+}

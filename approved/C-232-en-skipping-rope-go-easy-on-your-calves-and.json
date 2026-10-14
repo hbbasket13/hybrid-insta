@@ -1,0 +1,131 @@
+{
+  "id": "C-232-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Skipping rope: go easy on your calves and shins",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's skipping comeback<br>left <em>calves aching</em>",
+      "sub": "Keeping calves and shins happy, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's build up<br>slowly, shall we?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>500 jumps</em> on day one<br>of summer fitness.",
+      "char": "rabbit_tired",
+      "bubble": "Why do my shins<br>throb like this..?",
+      "bubble_type": "thought",
+      "note": "(the next morning, stairs feel like a mountain..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Legs feeling it?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Is skipping just<br>not for me?"
+      },
+      "note": "Hybi explained <mark>how each jump loads the legs</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Every single jump<br><em>adds up</em>!",
+      "fact": "Each jump loads the <em>calves, Achilles and shins</em>",
+      "left": {
+        "label": "Low and soft",
+        "char": "rabbit_happy",
+        "caption": "Balls of the feet,<br>knees <b>soft</b>"
+      },
+      "right": {
+        "label": "High and heavy",
+        "char": "rabbit_tired",
+        "caption": "Big jumps, hard landings,<br>legs <em>work harder</em>"
+      },
+      "quip": "Sore legs often mean<br>too much, too soon!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute skip plan</b>",
+      "sub": "Give your legs time to adapt!",
+      "sections": [
+        {
+          "heading": "1. Start short",
+          "color": "yellow",
+          "lines": [
+            "① <em>30 sec on, 30 sec off</em> for 5–10 min.",
+            "② Clear the rope by just <em>2–3 cm</em>.",
+            "③ Mat or wooden floor over concrete.",
+            "④ Slow calf raises, <em>twice a week</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain sits in <em>one spot</em> on the shin,",
+            "or aches <em>at rest or at night</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain in one spot on the shin",
+        "Pain at rest or at night",
+        "Swelling around the Achilles"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto picked up the skipping rope for summer fitness, and the calves and shins felt it the next day.\n\nEvery jump asks your calves, Achilles and shins to absorb and push off. Sore legs usually mean too much, too soon, rather than skipping being bad for you.\n\nHybi's plan: 30 seconds on, 30 off for five to ten minutes. Keep jumps low and soft, clearing the rope by a couple of centimetres. Choose a mat or wooden floor over concrete, and add slow calf raises twice a week.\n\nPain in one spot on the shin, pain at rest or at night, or a swollen Achilles is worth an assessment. Our Sydney CBD and Chatswood physios can help you build up. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#skippingrope",
+    "#jumprope",
+    "#calfpain",
+    "#shinsplints",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#summerfitness",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining how skipping loads the calves and shins, why low soft jumps help, a short-round starter plan and signs worth getting checked.",
+  "story": {
+    "headline": "Skipping again this summer?",
+    "body": "30 sec on, 30 off.<br>Keep jumps low and soft.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-14",
+  "created": "2027-01-14-4",
+  "status": "approved",
+  "review_warnings": []
+}

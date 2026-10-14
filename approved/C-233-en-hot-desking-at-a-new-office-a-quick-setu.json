@@ -1,0 +1,131 @@
+{
+  "id": "C-233-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Hot-desking at a new office: a quick setup",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "New desk every day,<br>Mr Turtle's <em>back is stiff</em>",
+      "sub": "A two-minute hot-desk setup, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Two minutes<br>is all it takes!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "New office,<br>a <em>different desk</em> every day.",
+      "char": "turtle_monitor",
+      "bubble": "Why is my back<br>so stiff by Friday..?",
+      "bubble_type": "thought",
+      "note": "(laptop down, wherever there's a free seat..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling stiff?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Won't a fancy chair<br>sort it out?"
+      },
+      "note": "Hybi decided to start with <mark>the order of the setup</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The setup <em>order</em><br>matters!",
+      "fact": "Chair → screen → keyboard: about <em>two minutes</em>",
+      "left": {
+        "label": "Set up",
+        "char": "turtle_happy",
+        "caption": "Feet flat, elbows<br><b>by your sides</b>"
+      },
+      "right": {
+        "label": "Just sit",
+        "char": "turtle_sad",
+        "caption": "Looking down at a laptop,<br>arms <em>reaching forward</em>"
+      },
+      "quip": "Reaching all day loads<br>the shoulders more!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute desk setup</b>",
+      "sub": "Do it as soon as you sit down!",
+      "sections": [
+        {
+          "heading": "1. Chair first, then the rest",
+          "color": "yellow",
+          "lines": [
+            "① Feet flat, <em>hips level with or above</em> knees.",
+            "② Screen an <em>arm's length</em> away, top at eye level.",
+            "③ Pull keyboard and mouse <em>close</em>.",
+            "④ Pack a laptop stand and lumbar cushion."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads into an arm or leg</em>,",
+            "or you notice <em>pins and needles or numbness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading into a limb",
+        "Pins and needles or numbness",
+        "Building over a few weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "New office, new desk every morning. By Friday, Mr Turtle's back is feeling it.\n\nGive yourself two minutes when you sit down. Chair first: feet flat, hips level with or slightly above your knees, back against the backrest. Then the screen: an arm's length away with the top near eye level. Pull the keyboard and mouse close so your elbows rest by your sides.\n\nA compact laptop stand and a lumbar cushion in your bag make any desk easier, and getting up regularly still matters most.\n\nPain spreading into an arm or leg, pins and needles or numbness are worth getting checked. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#hotdesking",
+    "#deskjob",
+    "#backpain",
+    "#officeworker",
+    "#ergonomics",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydney",
+    "#workfromoffice",
+    "#hybridphysiotherapy",
+    "#chiro"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle showing a two-minute hot-desk setup, chair then screen then keyboard, and signs worth getting checked.",
+  "story": {
+    "headline": "Hot-desking this year?",
+    "body": "Chair, then screen,<br>then keyboard close.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-14",
+  "created": "2027-01-14-2",
+  "status": "approved",
+  "review_warnings": []
+}

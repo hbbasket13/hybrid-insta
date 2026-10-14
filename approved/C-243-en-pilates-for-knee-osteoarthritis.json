@@ -1,0 +1,131 @@
+{
+  "id": "C-243-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for knee osteoarthritis",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko's knees grumble.<br><em>Reformer</em> time?",
+      "sub": "Your first weeks of Pilates with knee arthritis",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's find<br>out together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every step down the stairs,<br>the knees <em>grumble</em>.",
+      "char": "koala_tired",
+      "bubble": "Will exercise<br>make it worse..?",
+      "bubble_type": "thought",
+      "note": "(even getting out of the car takes a moment..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Knees grumbling?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Can I exercise<br>with sore knees?"
+      },
+      "note": "Hybi introduced <mark>footwork lying down</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Lying down means<br><em>less load</em> on the knee!",
+      "fact": "Reformer footwork: <em>less body weight</em>, more strength",
+      "left": {
+        "label": "Footwork",
+        "char": "koala_happy",
+        "caption": "Press away lying down,<br><b>thighs and hips</b> work"
+      },
+      "right": {
+        "label": "Not moving",
+        "char": "koala_tired",
+        "caption": "Less movement can<br>leave it <em>stiffer</em>"
+      },
+      "quip": "Mild aching often<br>settles within a day!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first-weeks plan</b>",
+      "sub": "Adjusted to your knees!",
+      "sections": [
+        {
+          "heading": "1. How it usually goes",
+          "color": "yellow",
+          "lines": [
+            "① First session: a <em>chat and movement checks</em>.",
+            "② Reformer footwork, springs <em>adjusted</em> for you.",
+            "③ Tell us how the knee feels <em>next morning</em>.",
+            "④ Add step-ups and sit-to-stands over time."
+          ]
+        },
+        {
+          "heading": "2. Get checked before starting if…",
+          "color": "purple",
+          "lines": [
+            "The knee <em>locks or gives way</em>,",
+            "or is <em>hot and very swollen</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee locks or gives way",
+        "Hot and very swollen",
+        "Pain wakes you at night"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko's knees grumble on every step down the stairs. Is reformer Pilates an option?\n\nYour first session usually starts with questions about your knees, daily activities and goals, plus a few simple movement checks. Reformer footwork lets you strengthen thighs and hips lying down, with less body weight through the knee, and springs can be adjusted as you go.\n\nMild aching during or after exercise is common with knee osteoarthritis and usually settles within a day. Over the weeks, standing work like step-ups and sit-to-stands is often added.\n\nA knee that locks, gives way or becomes hot and very swollen is worth checking first. Our Pilates team at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#kneeosteoarthritis",
+    "#kneepain",
+    "#arthritis",
+    "#healthyageing",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#physiotherapy",
+    "#hybridphysiotherapy",
+    "#pilates"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about the first weeks of reformer Pilates with knee osteoarthritis, footwork lying down, how sessions progress and signs worth getting checked.",
+  "story": {
+    "headline": "Knee arthritis and keen to move?",
+    "body": "Reformer footwork:<br>less load, more strength.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-18",
+  "created": "2027-01-18-6",
+  "status": "approved",
+  "review_warnings": []
+}

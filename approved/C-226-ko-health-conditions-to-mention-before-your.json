@@ -1,0 +1,131 @@
+{
+  "id": "C-226-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Health conditions to mention before your massage",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "마사지 전에<br><em>꼭 말해줄 것</em>",
+      "sub": "하비와 알아보는 마사지 전 건강 체크",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>체크해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "오랜만에 마사지를<br><em>예약한 코코</em>.",
+      "char": "koala_tired",
+      "bubble": "혈압약 먹는 거..<br>말해야 하나..?",
+      "bubble_type": "thought",
+      "note": "(건강 설문지 앞에서 고민하는 코코..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>설문지 쓰는 중이구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 이런 것까지<br>다 적어야 해요?"
+      },
+      "note": "하비는 <mark>미리 말하면 좋은 것</mark>들을 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "건강 정보로<br><em>세션이 달라져요!</em>",
+      "fact": "말해준 정보는 <em>비밀로 지켜지고</em> 계획에만 쓰여요",
+      "left": {
+        "label": "미리 말하기",
+        "char": "koala_happy",
+        "caption": "압력과 부위를<br><b>나에게 맞게</b> 조절"
+      },
+      "right": {
+        "label": "말 안 하기",
+        "char": "koala_tired",
+        "caption": "모르는 상태라면<br><em>안 맞는 압력</em>일 수도"
+      },
+      "quip": "작은 것도 미리<br>말해 주세요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>마사지 전 체크리스트</b>",
+      "sub": "설문지 쓸 때 떠올려요!",
+      "sections": [
+        {
+          "heading": "1. 미리 말해주세요",
+          "color": "yellow",
+          "lines": [
+            "① 심장·혈압 문제, <em>혈전</em> 이력.",
+            "② 최근 다친 곳·수술·<em>새 흉터</em>.",
+            "③ 임신 중이라면 <em>몇 주</em>인지.",
+            "④ 당뇨·골다공증·암 치료·저림 등."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 다음으로 미뤄요",
+          "color": "purple",
+          "lines": [
+            "<em>열이 나거나</em> 몸이 안 좋을 때,",
+            "피부 발진·상처·감염이 있을 때!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 건 <em>먼저 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "마사지 전 GP·물리치료사 확인",
+      "items": [
+        "갓 생긴 염좌·골절",
+        "최근 수술을 받았다",
+        "새로 생긴 저림이 있다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "오랜만에 마사지를 예약하고 건강 설문지 앞에서 고민하는 코코. '이런 것까지 적어야 하나?' 싶은 것도 말해주는 게 좋아요.\n\n심장·혈압 문제나 혈전 이력, 혈액 응고에 영향을 주는 약은 압력과 작업 부위를 바꿔요. 최근 다친 곳이나 수술, 임신, 당뇨·골다공증·암 치료도 미리 알려주세요. 열이 나거나 피부 감염이 있으면 일정을 미루는 게 나와 다음 사람 모두를 위한 거예요.\n\n말해준 정보는 비밀로 지켜지고 안전한 세션 계획에만 쓰여요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#마사지",
+    "#시드니마사지",
+    "#채스우드",
+    "#건강체크",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#massagetherapy",
+    "#chatswood",
+    "#sydneymassage",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 마사지 전에 말해야 할 건강 정보, 미리 말하기 비교, 체크리스트, 먼저 확인이 필요한 경우.",
+  "story": {
+    "headline": "마사지 전, 이건 꼭 말해요",
+    "body": "심장·혈압·수술·임신,<br>설문지에 적어주세요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-12",
+  "created": "2027-01-12-1",
+  "status": "approved",
+  "review_warnings": []
+}

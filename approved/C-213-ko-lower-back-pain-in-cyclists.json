@@ -1,0 +1,131 @@
+{
+  "id": "C-213-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Lower back pain in cyclists",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "주말 장거리 라이딩 후<br>루루 <em>허리가 뻐근</em>",
+      "sub": "사이클과 허리, 하비와 알아보기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "출퇴근 라이딩만 하다<br><em>주말 100km</em>에 도전.",
+      "char": "kanga_tired",
+      "bubble": "내릴 때마다<br>허리가 왜 이러지..?",
+      "bubble_type": "thought",
+      "note": "(다음 날 아침엔 더 뻐근..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>라이딩 많이 했구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "자전거가<br>허리에 안 좋은 걸까요?"
+      },
+      "note": "하비는 <mark>갑자기 늘어난 라이딩 양</mark>을 먼저 봤다."
+    },
+    {
+      "kind": "compare",
+      "title": "허리는 <em>늘어난 양</em>에<br>적응할 시간이 필요해요",
+      "fact": "사이클은 허리를 <em>오래 숙인</em> 자세로 두는 운동이에요",
+      "left": {
+        "label": "조금씩 늘리기",
+        "char": "kanga_happy",
+        "caption": "시간·언덕을<br><b>조금씩</b>더해요"
+      },
+      "right": {
+        "label": "갑자기 장거리",
+        "char": "kanga_tired",
+        "caption": "짧은 출퇴근에서<br><em>바로 장거리</em>"
+      },
+      "quip": "대부분의 허리는<br>천천히 적응해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>라이더 허리 플랜</b>",
+      "sub": "이번 주부터 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 자전거 위·아래에서",
+          "color": "yellow",
+          "lines": [
+            "① 라이딩 시간·언덕은 <em>조금씩</em> 늘려요.",
+            "② 핸들 위치 바꾸고, 언덕에선 <em>가끔 서서</em>.",
+            "③ 안장·핸들 조정은 <em>한 번에 하나씩</em>.",
+            "④ 브리지·사이드 플랭크 <em>주 2회</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료받기",
+          "color": "purple",
+          "lines": [
+            "대소변 조절이 <em>달라지거나</em> 사타구니가",
+            "<em>저리면</em> 바로 응급 진료 받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리로 통증이 퍼진다",
+        "다리에 힘이 빠진다",
+        "밤에 점점 심해진다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "출퇴근 라이딩만 하다 주말 장거리에 도전한 루루. 다음 날 허리가 뻐근했어요.\n\n사이클은 허리를 오래 숙인 자세로 두지만, 대부분의 허리는 잘 적응해요. 다만 라이딩 시간이 갑자기 늘면 몸이 따라가기 힘들 수 있어요.\n\n시간과 언덕은 조금씩 늘리고, 핸들 잡는 위치를 바꾸거나 언덕에선 가끔 서서 타 보세요. 안장 높이나 거리 조정은 한 번에 하나씩, 브리지·사이드 플랭크 같은 근력 운동은 주 2회.\n\n대소변 변화나 사타구니 저림은 바로 응급 진료가 필요해요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🚴\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#사이클",
+    "#자전거",
+    "#허리통증",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#cycling",
+    "#lowbackpain"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 사이클 후 허리가 뻐근한 이유, 조금씩 늘리기와 갑자기 장거리 비교, 라이더 허리 플랜, 확인이 필요한 신호.",
+  "story": {
+    "headline": "라이딩 후 허리가 뻐근?",
+    "body": "시간은 조금씩 늘리고<br>근력 운동은 주 2회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-06",
+  "created": "2027-01-06-3",
+  "status": "approved",
+  "review_warnings": []
+}

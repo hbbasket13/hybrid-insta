@@ -1,0 +1,131 @@
+{
+  "id": "C-260-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "What your massage therapist is feeling for",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "What are Momo's therapist's<br>hands <em>feeling for</em>?",
+      "sub": "A remedial massage story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's peek behind<br>the hands!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo loves a massage,<br>but she <em>always wonders</em>..",
+      "char": "cat_tired",
+      "bubble": "What are those<br>hands actually<br>looking for..?",
+      "bubble_type": "thought",
+      "note": "(poking her own shoulder, trying to guess..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So she asked Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Curious about massage?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yes! Does a knot mean<br>something's wrong?"
+      },
+      "note": "Hybi explained what <mark>the hands are checking</mark> for."
+    },
+    {
+      "kind": "compare",
+      "title": "Hands gather <em>clues</em>,<br>not a diagnosis!",
+      "fact": "Therapists often <em>compare both sides</em> to plan the session",
+      "left": {
+        "label": "Speak up",
+        "char": "cat_happy",
+        "caption": "Feedback on pressure<br>helps them <b>adjust</b>"
+      },
+      "right": {
+        "label": "Grit your teeth",
+        "char": "cat_tired",
+        "caption": "Holding your breath<br>makes muscles <em>guard</em>"
+      },
+      "quip": "Your feedback matters<br>as much as their hands!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute massage prep</b>",
+      "sub": "Get more from your session!",
+      "sections": [
+        {
+          "heading": "1. Talk it through",
+          "color": "yellow",
+          "lines": [
+            "① Mention any <em>sore or sensitive</em> spots first.",
+            "② Breathe out <em>slowly</em> as pressure goes on.",
+            "③ Say <em>\"lighter\"</em> any time, no need to tough it out.",
+            "④ Afterwards, take an <em>easy 10-minute walk</em>."
+          ]
+        },
+        {
+          "heading": "2. Get checked first if…",
+          "color": "purple",
+          "lines": [
+            "An area feels <em>warm, puffy</em> or very sore,",
+            "or pain <em>spreads</em> — see a physio or GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> afterwards?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Warmth or swelling",
+        "Pain spreading down a limb",
+        "No easing after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo loves a massage, but she always wonders what her therapist's hands are actually looking for.\n\nRemedial massage therapists feel for how soft, firm or guarded muscles are, where the tender spots sit and how you react to pressure, often comparing one side with the other. It's useful information, but it isn't a diagnosis.\n\nSpeak up about pressure any time. Your feedback matters as much as their hands. Warmth, swelling or pain that spreads is a reason to see a physio or GP first.\n\nOur remedial massage therapists at Hybrid Physio are happy to explain as they go. Book online via the link in bio 🐱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydneycbd",
+    "#musclesoreness",
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#selfcare",
+    "#sydney",
+    "#wellbeing"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining what a massage therapist feels for, why feedback matters, simple session prep tips and signs worth getting checked.",
+  "story": {
+    "headline": "What are those hands checking?",
+    "body": "Pressure too strong?<br>Say so any time.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-25",
+  "created": "2027-01-25-2",
+  "status": "approved",
+  "review_warnings": []
+}

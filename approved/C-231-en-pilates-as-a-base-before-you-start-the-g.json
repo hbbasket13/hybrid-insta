@@ -1,0 +1,131 @@
+{
+  "id": "C-231-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates as a base before you start the gym",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's new to weights:<br><em>where to start</em>?",
+      "sub": "Pilates as a base for the gym, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's build<br>a base first!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "New gym membership,<br>staring at <em>the weights</em>.",
+      "char": "kanga_tired",
+      "bubble": "What weight do I<br>even start with..?",
+      "bubble_type": "thought",
+      "note": "(Lulu, frozen in front of the barbells..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Starting weights?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. not sure<br>where to begin"
+      },
+      "note": "Hybi suggested <mark>learning the basics</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Pilates and the gym:<br><em>it's not either-or</em>!",
+      "fact": "Hinge, brace, squat: <em>the same building blocks</em>",
+      "left": {
+        "label": "Springs first",
+        "char": "kanga_happy",
+        "caption": "Start light with springs,<br><b>add load gradually</b>"
+      },
+      "right": {
+        "label": "Guessing weights",
+        "char": "kanga_tired",
+        "caption": "Hard to know which<br>weight to <em>pick</em>"
+      },
+      "quip": "Build the base,<br>then add the load!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>4-week starter plan</b>",
+      "sub": "Start this week!",
+      "sections": [
+        {
+          "heading": "1. How to begin",
+          "color": "yellow",
+          "lines": [
+            "① Pilates <em>1–2 times a week</em> for a month.",
+            "② Practise the <em>hip hinge and trunk brace</em>.",
+            "③ Then add a <em>short gym session</em>, basic lifts.",
+            "④ Note what feels easy and what doesn't."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>sharp pain</em> during a session,",
+            "or soreness gets worse the next day."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Worth <em>checking first</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get assessed first if you have",
+      "items": [
+        "An old injury that niggles",
+        "Pain with certain moves",
+        "Pain lasting for days"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "New gym membership, and Lulu is frozen in front of the barbells. Not sure where to start?\n\nA few weeks of guided movement can help you learn how your body moves before adding heavier loads. Hinging at the hips, bracing your trunk and controlling a squat are building blocks many Pilates exercises share with dumbbells and barbells. Reformer springs let you start light and add resistance gradually.\n\nPilates isn't a replacement for strength training, and plenty of people do both from week one. Try one or two sessions a week for a month, then add a short gym session with a few basic lifts, noting what feels easy and what doesn't.\n\nOur Pilates team at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#reformerpilates",
+    "#clinicalpilates",
+    "#gymbeginner",
+    "#strengthtraining",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#sydney",
+    "#fitnessjourney",
+    "#startthegym",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on using Pilates as a base before the gym, springs versus guessing weights, a 4-week starter plan and when to get assessed first.",
+  "story": {
+    "headline": "New to the gym?",
+    "body": "Pilates 1–2 times a week<br>to build your base.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-13",
+  "created": "2027-01-13-6",
+  "status": "approved",
+  "review_warnings": []
+}

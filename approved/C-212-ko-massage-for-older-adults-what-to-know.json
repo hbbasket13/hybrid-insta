@@ -1,0 +1,131 @@
+{
+  "id": "C-212-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for older adults: what to know",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "처음 마사지 받는 코코,<br><em>세게 받아야 좋을까?</em>",
+      "sub": "어르신 마사지, 미리 알아두기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "편하게<br>받아봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "정원 일 후 어깨가<br><em>뻣뻣해진</em> 코코.",
+      "char": "koala_tired",
+      "bubble": "마사지 받아볼까..<br>근데 아프진 않을까?",
+      "bubble_type": "thought",
+      "note": "(엎드려 눕는 것도 살짝 걱정..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>마사지가 처음이죠?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "뭘 미리<br>말해야 하나요?"
+      },
+      "note": "하비는 <mark>건강 상태부터 알려주기</mark>가 먼저라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "세게가 꼭<br><em>더 좋은 건 아니에요</em>",
+      "fact": "나이가 들면 피부·조직에 <em>멍이 더 쉽게</em> 들 수 있어요",
+      "left": {
+        "label": "편한 압력",
+        "char": "koala_happy",
+        "caption": "중간 압력으로도<br><b>뻣뻣함이 풀려요</b>"
+      },
+      "right": {
+        "label": "무조건 세게",
+        "char": "koala_tired",
+        "caption": "꾹꾹 세게 누르면<br><em>멍들 수 있어요</em>"
+      },
+      "quip": "편한 압력이면<br>충분할 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>마사지 전 체크</b>",
+      "sub": "예약 전에 확인해봐요!",
+      "sections": [
+        {
+          "heading": "1. 편하게 받는 법",
+          "color": "yellow",
+          "lines": [
+            "① 심장·수술·골다공증·당뇨·약 <em>알리기</em>.",
+            "② 압력은 <em>편한 정도</em>로 언제든 말하기.",
+            "③ 엎드리기 힘들면 <em>옆으로 눕기·앉아서</em>도 OK.",
+            "④ 침대는 <em>천천히</em>, 도움받아 오르내리기."
+          ]
+        },
+        {
+          "heading": "2. 마사지와 함께하면 좋아요",
+          "color": "purple",
+          "lines": [
+            "걷기·근력·균형 운동을 <em>꾸준히</em> 하면",
+            "튼튼하게 서는 데 도움이 돼요!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>GP 먼저</em> 만나요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 GP 먼저",
+      "items": [
+        "종아리가 새로 붓고 아프다",
+        "가슴 통증·숨이 차다",
+        "이유 없이 멍이 든다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "정원 일 후 어깨가 뻣뻣해진 코코. 마사지를 처음 받아 보려는데 걱정이 조금 있어요.\n\n먼저 심장 질환, 최근 수술, 골다공증, 당뇨, 복용 중인 약을 알려 주세요. 압력과 자세를 고르는 데 도움이 돼요. 나이가 들면 멍이 더 쉽게 들 수 있어서, 중간 압력도 충분할 수 있어요. 엎드리기 힘들면 옆으로 눕거나 앉아서 받아도 괜찮아요.\n\n마사지는 뻣뻣함을 편하게 하는 데 도움이 되고, 걷기·근력·균형 운동과 함께할 때 좋아요. 종아리 붓기, 가슴 통증, 숨참은 GP 먼저예요.\n\n하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시니어건강",
+    "#리메디얼마사지",
+    "#마사지",
+    "#시드니마사지",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#물리치료",
+    "#remedialmassage",
+    "#healthyageing",
+    "#chatswood",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 어르신 마사지 전에 알릴 것, 편한 압력과 센 압력 비교, 편하게 받는 법, GP를 먼저 만나야 하는 신호.",
+  "story": {
+    "headline": "어르신 마사지, 미리 알아요",
+    "body": "건강 상태 먼저 알리고<br>압력은 편하게!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-06",
+  "created": "2027-01-06-5",
+  "status": "approved",
+  "review_warnings": []
+}

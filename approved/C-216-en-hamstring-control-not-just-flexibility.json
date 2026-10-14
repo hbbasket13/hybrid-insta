@@ -1,0 +1,131 @@
+{
+  "id": "C-216-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Hamstring control, not just flexibility",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Stretches every day, but<br>Toto's <em>hamstrings stay tight</em>",
+      "sub": "Hamstring control, not just flexibility",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's add<br>some strength!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Stretching around<br><em>every single run</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why are they<br>tight again..?",
+      "bubble_type": "thought",
+      "note": "(feels fine after stretching, then it comes back..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Hamstrings tight?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Should I just<br>stretch for longer?"
+      },
+      "note": "Hybi explained it <mark>may not be about length</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Tight doesn't always<br>mean <em>short</em>",
+      "fact": "Hamstrings need strength <em>as they lengthen</em>, like sprinting",
+      "left": {
+        "label": "Control work",
+        "char": "rabbit_happy",
+        "caption": "Slow lowering builds<br><b>strength at length</b>"
+      },
+      "right": {
+        "label": "Stretch only",
+        "char": "rabbit_tired",
+        "caption": "Stretching alone,<br><em>tight again soon</em>"
+      },
+      "quip": "Like stretching? Pair it<br>with strength work!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>hamstring control drill</b>",
+      "sub": "Two or three times a week!",
+      "sections": [
+        {
+          "heading": "1. Start with bridges",
+          "color": "yellow",
+          "lines": [
+            "① Lie down, feet on a <em>box or reformer bar</em>.",
+            "② Lift your hips, lower over <em>3 seconds</em>.",
+            "③ <em>10 steady reps</em> beats 30 rushed ones.",
+            "④ Steady? Move to <em>single-leg</em> bridges."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>sharp pain</em> in the back of the thigh,",
+            "or <em>tingling</em> down the leg."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>tight</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sudden sharp pain mid-run",
+        "Tingling down the leg",
+        "One side always tight"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto stretches around every run, but his hamstrings feel tight again soon after.\n\nHamstrings can feel tight because they're working hard to stabilise, not because they're too short. They need to stay strong as they lengthen, like when you bend forward or sprint.\n\nClinical Pilates trains this with slow, controlled movement. Start with bridges, feet on a box or reformer bar, lowering over three seconds. Ten steady reps beats thirty rushed ones. Then progress to single-leg bridges. Enjoy stretching? Keep it, and pair it with strength work two or three times a week.\n\nOur Pilates team at Hybrid Physio can build a program for your sport. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#hamstrings",
+    "#running",
+    "#runners",
+    "#flexibility",
+    "#strength",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why hamstrings can feel tight, control work versus stretching alone, a slow bridge drill and signs worth getting checked.",
+  "story": {
+    "headline": "Hamstrings always tight?",
+    "body": "Try 10 slow bridges,<br>3 seconds down.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-07",
+  "created": "2027-01-07-6",
+  "status": "approved",
+  "review_warnings": []
+}

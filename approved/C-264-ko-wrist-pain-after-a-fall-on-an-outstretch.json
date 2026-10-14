@@ -1,0 +1,131 @@
+{
+  "id": "C-264-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Wrist pain after a fall on an outstretched hand",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "넘어지며 손을 짚은 코코,<br><em>손목이 계속 아프다면?</em>",
+      "sub": "하비와 함께 알아보는 손목 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "손목,<br>같이 볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "젖은 데크에서 <em>미끄덩!</em><br>반사적으로 손을 짚었다.",
+      "char": "koala_tired",
+      "bubble": "며칠 지났는데<br>왜 아직<br>시큰하지..?",
+      "bubble_type": "thought",
+      "note": "(컵을 들 때마다 손목이 찌릿..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그래서 <b>하이브리드 피지오</b>의<br>하비를 찾아갔다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>손목을 짚었구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 그냥 삔 거니까<br>기다리면 되죠?"
+      },
+      "note": "하비는 <mark>꼭 확인할 곳</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "엄지 아래 <em>오목한 곳</em>을<br>확인해요!",
+      "fact": "엄지 뿌리의 <em>작은 뼈</em> 손상은 처음엔 놓치기 쉬워요",
+      "left": {
+        "label": "일찍 확인",
+        "char": "koala_happy",
+        "caption": "필요하면 엑스레이로<br><b>원인을 확인</b>해요"
+      },
+      "right": {
+        "label": "그냥 버티기",
+        "char": "koala_tired",
+        "caption": "놓친 손상이<br><em>늦게 드러나요</em>"
+      },
+      "quip": "대부분은 삔 거지만,<br>확인이 먼저예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 손목 첫 관리</b>",
+      "sub": "넘어진 직후 며칠 동안!",
+      "sections": [
+        {
+          "heading": "1. 처음 며칠은",
+          "color": "yellow",
+          "lines": [
+            "① 반지는 <em>붓기 전에 미리</em> 빼요.",
+            "② 손을 올리고 냉팩은 <em>10~15분</em>씩.",
+            "③ 손가락·팔꿈치·어깨는 <em>살살 계속</em> 움직여요.",
+            "④ 짚거나 무거운 건 <em>잠시 쉬어요</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인받기!",
+          "color": "purple",
+          "lines": [
+            "엄지 아래 오목한 곳이 <em>눌러서 아프거나</em>,",
+            "<em>모양이 변했다면</em> GP나 응급실로!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "1~2주 지나도 <em>그대로라면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "엄지 뿌리가 눌러 아프다",
+        "붓거나 모양이 변했다",
+        "물건을 쥐기 힘들다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "젖은 데크에서 미끄러지며 손을 짚은 코코. 며칠이 지나도 손목이 시큰해요.\n\n넘어질 때 손을 짚는 건 본능이에요. 대부분은 삔 정도로 회복되지만, 엄지 뿌리 쪽 작은 뼈 손상은 처음엔 놓치기 쉬워요.\n\n엄지 아래 오목한 곳이 눌러서 아프거나, 붓거나, 모양이 변했거나, 쥐기 힘들면 GP나 응급실에서 엑스레이로 확인하는 경우가 많아요. 큰 손상이 아니면 재활로 움직임과 악력을 다시 키워요.\n\n채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#손목통증",
+    "#낙상",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#손목재활",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#wristpain",
+    "#handtherapy"
+  ],
+  "alt_text": "하비와 코알라 코코가 등장하는 7장짜리 만화 카드뉴스: 넘어지며 손을 짚었을 때 손목 통증, 엄지 뿌리 확인의 중요성, 1분 첫 관리, 확인이 필요한 신호.",
+  "story": {
+    "headline": "넘어진 뒤 손목이 시큰하다면?",
+    "body": "엄지 아래 오목한 곳,<br>눌러 아프면 확인!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-27",
+  "created": "2027-01-27-3",
+  "status": "approved",
+  "review_warnings": []
+}

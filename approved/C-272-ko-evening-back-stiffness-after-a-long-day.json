@@ -1,0 +1,131 @@
+{
+  "id": "C-272-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Evening back stiffness after a long day",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "저녁만 되면 거북씨의<br><em>허리가 굳는 이유</em>",
+      "sub": "하비와 함께 알아보는 저녁 허리 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "하루를<br>돌아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 종일 <em>같은 자세</em>,<br>저녁엔 허리가 뻣뻣.",
+      "char": "turtle_monitor",
+      "bubble": "저녁만 되면<br>왜 허리가<br>굳지..?",
+      "bubble_type": "thought",
+      "note": "(소파에 앉으면 일어나기가 싫다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>저녁에 허리가 굳어?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 어디 크게<br>잘못된 걸까요?"
+      },
+      "note": "하비는 <mark>하루를 어떻게 보내는지</mark>부터 물었다."
+    },
+    {
+      "kind": "compare",
+      "title": "자세를 <em>바꿔 달라는</em><br>신호일 때가 많아요!",
+      "fact": "<em>30~45분마다</em> 자세 바꾸기가 보통 더 도움돼요",
+      "left": {
+        "label": "자주 바꾸기",
+        "char": "turtle_happy",
+        "caption": "서고 걸으며<br>허리가 <b>나눠 써요</b>"
+      },
+      "right": {
+        "label": "하루 종일 고정",
+        "char": "turtle_sad",
+        "caption": "같은 자세로<br>허리가 <em>굳어가요</em>"
+      },
+      "quip": "조정은 도구 중 하나,<br>움직임이 함께예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>5분 저녁 풀기</b>",
+      "sub": "저녁 먹고 바로!",
+      "sections": [
+        {
+          "heading": "1. 이 순서로 해요",
+          "color": "yellow",
+          "lines": [
+            "① 누워서 무릎 모아 <em>좌우로 흔들기</em> × 10회.",
+            "② 네발 자세로 <em>캣카우</em> × 8회.",
+            "③ 저녁 먹고 <em>10분 가볍게 걷기</em>.",
+            "④ 낮엔 전화 받을 때 <em>일어서기</em>!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 진료받기!",
+          "color": "purple",
+          "lines": [
+            "다리 <em>저림·힘 빠짐</em>, <em>대소변 변화</em>,",
+            "열이나 이유 없는 체중 감소가 있다면!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>굳는다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리가 저리거나 약하다",
+        "몇 주째 점점 심해진다",
+        "열·체중 감소가 있다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "하루 종일 같은 자세로 앉아 있다 보니 저녁만 되면 허리가 뻣뻣한 거북씨.\n\n몇 시간씩 앉거나 서거나 운전하면 저녁엔 허리가 당기고 뻐근할 수 있어요. 보통은 다친 신호라기보다 자세를 바꿔 달라는 신호예요.\n\n30~45분마다 자세를 바꾸고, 전화는 서서 받고, 계단을 이용해요. 저녁엔 무릎 흔들기, 캣카우, 가벼운 산책으로 5분 풀어봐요.\n\n다리 저림·힘 빠짐, 대소변 변화, 열이나 이유 없는 체중 감소가 있으면 바로 진료받으세요. 하이브리드 피지오 카이로프랙터가 조정과 운동, 생활 습관을 함께 봐드려요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#카이로프랙틱",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#chiropractor",
+    "#sydneychiro",
+    "#backpain",
+    "#deskjob"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 저녁에 허리가 굳는 이유, 자세 바꾸기 비교, 5분 저녁 풀기, 확인이 필요한 신호.",
+  "story": {
+    "headline": "저녁만 되면 허리가 굳는다면?",
+    "body": "30~45분마다<br>자세를 바꿔봐요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-30",
+  "created": "2027-01-30-5",
+  "status": "approved",
+  "review_warnings": []
+}

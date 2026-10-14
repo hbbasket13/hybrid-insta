@@ -1,0 +1,130 @@
+{
+  "id": "C-218-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates when you have sciatica",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Sciatica flaring?<br>Can Mr Turtle still do <em>Pilates</em>?",
+      "sub": "Gentle movement and sciatica, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's take it<br>slowly together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A zing from his bum<br>right <em>down his leg</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Should I just lie<br>in bed and rest..?",
+      "bubble_type": "thought",
+      "note": "(long stretches at the desk make the leg buzz more..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Leg feeling zingy?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. is it okay<br>to exercise like this?"
+      },
+      "note": "Hybi decided to start with <mark>gentle movement</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Gentle movement often<br><em>beats bed rest</em>!",
+      "fact": "Guidelines suggest <em>staying gently active</em>",
+      "left": {
+        "label": "Gentle moving",
+        "char": "turtle_happy",
+        "caption": "Easy movement can help<br>the nerve <b>calm down</b>"
+      },
+      "right": {
+        "label": "Lying still",
+        "char": "turtle_sad",
+        "caption": "Hours in bed can leave<br>you <em>stiffer</em>"
+      },
+      "quip": "Most people settle over<br>weeks to months!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute pelvic tilt</b>",
+      "sub": "Lie down and try it now!",
+      "sections": [
+        {
+          "heading": "1. Pelvic tilt",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, knees bent.",
+            "② Breathe out, flatten your back <em>gently</em>.",
+            "③ Relax back down. <em>10 reps</em>, twice a day."
+          ]
+        },
+        {
+          "heading": "2. Ease off if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>sharper or spreads</em>, or",
+            "<em>new numbness</em> appears — stop and adjust."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get these <em>checked first</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See a doctor promptly if",
+      "items": [
+        "Numbness in the saddle area",
+        "Bladder or bowel changes",
+        "Leg weakness getting worse"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Sciatica flaring and wondering if Pilates is off the table? Usually it isn't.\n\nCurrent guidelines suggest staying gently active with sciatica, and most people settle over weeks to months. Calm, controlled movement can help the nerve feel less sensitive along the way.\n\nHybi's 1-minute start: lie on your back with knees bent and do 10 slow pelvic tilts, twice a day. A mild ache that settles within a day is often okay. Sharper or spreading pain, or new numbness, means ease off and adjust. Saddle numbness, bladder or bowel changes, or worsening leg weakness need prompt medical attention first.\n\nOur Pilates team at Hybrid Physio works alongside our physios to match the program to you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#sciatica",
+    "#backpain",
+    "#sydneypilates",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydney",
+    "#officeworker",
+    "#hybridphysiotherapy",
+    "#reformerpilates",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on why gentle movement suits sciatica, a 1-minute pelvic tilt and signs that need prompt medical attention.",
+  "story": {
+    "headline": "Sciatica? Keep gently moving",
+    "body": "Pelvic tilts on your back,<br>10 slow reps.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-08",
+  "created": "2027-01-08-2",
+  "status": "approved",
+  "review_warnings": []
+}

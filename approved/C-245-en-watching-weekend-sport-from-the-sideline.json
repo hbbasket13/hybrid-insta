@@ -1,0 +1,131 @@
+{
+  "id": "C-245-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Watching weekend sport from the sidelines: back care",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "A day on the sidelines<br>leaves Koko's <em>back stiff</em>",
+      "sub": "Back care for weekend sport fans, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's move<br>at every break!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Grandkids' footy,<br>a low chair <em>all day</em>.",
+      "char": "koala_tired",
+      "bubble": "I only cheered..<br>why does my<br>back ache..?",
+      "bubble_type": "thought",
+      "note": "(plus hours in the car between games..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling stiff?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "But I wasn't even<br>playing!"
+      },
+      "note": "Hybi explained that <mark>staying in one position</mark> can do it."
+    },
+    {
+      "kind": "compare",
+      "title": "Small, regular moves<br>beat <em>one big stretch</em>!",
+      "fact": "Hips level with or <em>slightly above</em> knees usually feel kinder",
+      "left": {
+        "label": "Backed chair",
+        "char": "koala_happy",
+        "caption": "Walk a lap<br><b>at every break</b>"
+      },
+      "right": {
+        "label": "Low beach chair",
+        "char": "koala_tired",
+        "caption": "Sunk in deep<br><em>for hours</em>"
+      },
+      "quip": "Move a little,<br>and often!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute sideline routine</b>",
+      "sub": "Try it at every quarter-time!",
+      "sections": [
+        {
+          "heading": "1. At the ground",
+          "color": "yellow",
+          "lines": [
+            "① Chair with a backrest; <em>towel</em> on a deep seat.",
+            "② Walk <em>a lap of the field</em> at every break.",
+            "③ Hands on hips, <em>5 gentle back bends</em>.",
+            "④ Split loads, keep heavy things <em>close</em>."
+          ]
+        },
+        {
+          "heading": "2. Get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads into a leg</em> or it feels weak;",
+            "<em>bladder or bowel changes</em> need urgent care."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading into a leg",
+        "Leg weakness or numbness",
+        "Bladder or bowel changes"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "A full day cheering on the grandkids, and Koko's back is stiff. No running required.\n\nStanding on hard ground, perching on low folding chairs, leaning on fences and hours in the car between games add up. It isn't strenuous, but staying in one position often leaves backs stiff.\n\nBring a chair with a backrest, walk a lap of the field at every break, and carry eskies and bags close to your body.\n\nBack pain spreading into a leg, numbness or weakness is worth an assessment. Bladder or bowel changes or numbness around the groin need urgent medical care. Our chiropractors at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#backpain",
+    "#weekendsport",
+    "#sidelines",
+    "#juniorsport",
+    "#healthyageing",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydney",
+    "#backcare",
+    "#hybridphysiotherapy",
+    "#chiro"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko about back care while watching weekend sport, choosing a chair, moving at every break and signs worth getting checked.",
+  "story": {
+    "headline": "Sideline season is back",
+    "body": "Chair with a backrest,<br>a lap at every break.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-19",
+  "created": "2027-01-19-2",
+  "status": "approved",
+  "review_warnings": []
+}

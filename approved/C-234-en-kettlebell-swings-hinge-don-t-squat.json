@@ -1,0 +1,131 @@
+{
+  "id": "C-234-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Kettlebell swings: hinge, don't squat",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Kettlebell swings leave<br>Lulu's <em>lower back sore</em>",
+      "sub": "Hinge, don't squat: a swing story with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's drive it<br>from the hips!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After a day on site,<br><em>100 swings</em> at the gym.",
+      "char": "kanga_tired",
+      "bubble": "Why is it always<br>my lower back..?",
+      "bubble_type": "thought",
+      "note": "(lifting materials the next morning feels like a lot..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling sore?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Are kettlebells just<br>bad for my back?"
+      },
+      "note": "Hybi showed <mark>hinge versus squat</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "A swing is a <em>hinge</em>,<br>not a squat!",
+      "fact": "Hips back, then <em>snap forward</em>: the hips do the lifting",
+      "left": {
+        "label": "Hinge",
+        "char": "kanga_happy",
+        "caption": "Hips back,<br>shins <b>fairly upright</b>"
+      },
+      "right": {
+        "label": "Squat",
+        "char": "kanga_tired",
+        "caption": "Knees forward,<br>arms <em>muscling it up</em>"
+      },
+      "quip": "Arms guide the bell,<br>hips do the work!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute hinge drill</b>",
+      "sub": "Try it before your first swing!",
+      "sections": [
+        {
+          "heading": "1. Wall hinge first",
+          "color": "yellow",
+          "lines": [
+            "① Stand a foot from a wall, facing away.",
+            "② Push your hips back to <em>touch the wall</em>.",
+            "③ <em>5 reps</em>, then a kettlebell deadlift.",
+            "④ Pick a bell you control for <em>10 crisp reps</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Back pain <em>spreads into your leg</em>,",
+            "or it's <em>getting worse</em>, not settling."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading into the leg",
+        "Pins and needles",
+        "Getting worse, not settling"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Kettlebell swings leaving Lulu's lower back sore? Check whether you're hinging or squatting.\n\nA swing is a hip hinge. Hips go back, knees soften slightly, and the power comes from snapping the hips forward. Squatting the bell or lifting it with your arms often shifts the work to places that don't enjoy it.\n\nPractise a wall hinge and a kettlebell deadlift first, pick a weight you can control for ten clean reps, and keep sets short.\n\nBack pain spreading into the leg or pins and needles are worth an assessment. Our Sydney CBD and Chatswood physios are happy to look at your technique. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kettlebell",
+    "#kettlebellswing",
+    "#hiphinge",
+    "#lowbackpain",
+    "#gymlife",
+    "#tradie",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu showing the difference between a hinge and a squat in kettlebell swings, a wall hinge drill and signs worth getting checked.",
+  "story": {
+    "headline": "Swing day?",
+    "body": "Five wall hinges first.<br>Then snap the hips through.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-01-14",
+  "created": "2027-01-14-6",
+  "status": "approved",
+  "review_warnings": []
+}
