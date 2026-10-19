@@ -22,7 +22,7 @@ def main() -> int:
     n = 0
     for p in list_drafts(APPROVED):
         d = load_json(p)
-        if d.get("style") != "comic":
+        if d.get("style") not in ("comic", "prerendered"):
             shutil.move(str(p), str(RETIRED / p.name))
             n += 1
     print(f"retire_legacy: moved {n} legacy post(s) to retired/")

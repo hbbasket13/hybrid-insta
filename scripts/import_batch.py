@@ -11,13 +11,32 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import shutil
 
-from common import APPROVED, DRAFTS, ROOT, draft_filename, save_json
+from common import APPROVED, ASSETS, DRAFTS, ROOT, draft_filename, save_json
 
 BATCHES = ROOT / "batches"
+INCOMING = ROOT / "incoming"  # pre-rendered slides uploaded as <id>__slide-NN.png
+
+
+def move_incoming() -> int:
+    """Move incoming/<id>__slide-NN.png into assets/<id>/slide-NN.png."""
+    if not INCOMING.exists():
+        return 0
+    n = 0
+    for png in sorted(INCOMING.glob("*__*.png")):
+        post_id, name = png.name.split("__", 1)
+        dest = ASSETS / post_id / name
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.move(str(png), str(dest))
+        n += 1
+    if n:
+        print(f"moved {n} pre-rendered slide(s) from incoming/ to assets/")
+    return n
 
 
 def main() -> int:
+    move_incoming()
     files = sorted(BATCHES.glob("*.jsonl")) if BATCHES.exists() else []
     if not files:
         print("No batch files.")

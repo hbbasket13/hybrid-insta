@@ -107,6 +107,8 @@ def prune_stale(paths: list[Path]) -> int:
     removed = 0
     for path in paths:
         draft = load_json(path)
+        if draft.get("style") == "prerendered":
+            continue
         n = len(draft.get("slides", []))
         for png in (ASSETS / draft["id"]).glob("slide-*.png"):
             try:
@@ -134,6 +136,8 @@ def main() -> int:
         targets = list_drafts(DRAFTS) + list_drafts(APPROVED)
         if not args.all:
             targets = [t for t in targets if needs_render(t)]
+    # style "prerendered": slides were rendered outside this repo and imported as PNGs - never re-render them
+    targets = [t for t in targets if load_json(t).get("style") != "prerendered"]
     if not targets:
         print("Nothing to render.")
         return 0
