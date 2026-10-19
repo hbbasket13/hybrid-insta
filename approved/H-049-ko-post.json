@@ -1,0 +1,47 @@
+{
+  "id": "H-049-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "엉덩이 바깥쪽 통증, 잠도 못 자겠다면",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "옆으로 누우면 엉덩이 바깥이 쑤신다면? 🛌\n엉덩이 옆 힘줄이 눌리고 예민해졌을 때 흔한 통증이에요(대전자 통증).\n\n✔ 무릎 사이 베개\n✔ 다리 꼬기·짝다리 피하기\n✔ 단계적 엉덩이 근력 운동\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#고관절통증",
+    "#엉덩이통증",
+    "#골반통증",
+    "#수면자세",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 엉덩이 바깥쪽 통증, 잠도 못 자겠다면",
+  "scheduled_date": "2027-02-10",
+  "created": "2027-02-10-1",
+  "status": "approved",
+  "review_warnings": []
+}

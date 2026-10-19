@@ -1,0 +1,47 @@
+{
+  "id": "H-013-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "자꾸 삐는 발목, 이유가 있어요",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "발목을 자꾸 접질린다면? 🏀\n한 번 다친 발목은 붓기가 빠져도 균형 감각과 근력이 덜 회복된 경우가 많아요.\n\n한 발 서기, 까치발 운동으로 재발 위험을 줄여보세요. 체중을 못 싣거나 심하게 붓는다면 바로 진료 받으세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#발목염좌",
+    "#발목부상",
+    "#스포츠부상",
+    "#균형운동",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 자꾸 삐는 발목, 이유가 있어요",
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-1",
+  "status": "approved",
+  "review_warnings": []
+}

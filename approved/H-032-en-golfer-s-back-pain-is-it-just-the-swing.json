@@ -1,0 +1,47 @@
+{
+  "id": "H-032-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Golfer's back pain: is it just the swing?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Lower back sore after a round? ⛳\nWhen hips and mid-back don't rotate well, the lower back can end up twisting more.\n\n✔ Dynamic warm-up first\n✔ Hip and thoracic rotation work\n\nRecurring pain? Get it assessed.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#golf",
+    "#golfback",
+    "#backpain",
+    "#golfinjury",
+    "#sydneygolf",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Golfer's back pain: is it just the swing?",
+  "scheduled_date": "2027-02-06",
+  "created": "2027-02-06-2",
+  "status": "approved",
+  "review_warnings": []
+}

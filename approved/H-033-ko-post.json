@@ -1,0 +1,47 @@
+{
+  "id": "H-033-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "계단만 내려가면 무릎이 시큰",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "계단을 내려갈 때 무릎 앞이 시큰하다면? 🦵\n슬개골 주변 통증은 흔하고, 연골이 닳아서라기보다 부하가 몰려서인 경우가 많아요.\n\n허벅지·엉덩이 근력 운동과 부하 조절이 도움이 될 수 있어요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#무릎통증",
+    "#슬개골통증",
+    "#계단무릎",
+    "#무릎운동",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 계단만 내려가면 무릎이 시큰",
+  "scheduled_date": "2027-02-06",
+  "created": "2027-02-06-3",
+  "status": "approved",
+  "review_warnings": []
+}

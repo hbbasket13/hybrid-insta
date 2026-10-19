@@ -1,0 +1,47 @@
+{
+  "id": "H-067-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "임신 중 골반 통증, 참아야만 할까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "임신 중 돌아누울 때 골반이 찌릿하다면? 🤰\n임신 중 골반대 통증은 흔하지만, 참기만 할 필요는 없어요.\n\n✔ 무릎 모아 돌아눕기\n✔ 앉아서 옷 입기\n✔ 보폭 줄이기\n\n담당 의사·조산사와 상의하고 물리치료 평가도 받아보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#임신골반통증",
+    "#임산부",
+    "#골반통증",
+    "#임신중운동",
+    "#시드니임산부",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 임신 중 골반 통증, 참아야만 할까?",
+  "scheduled_date": "2027-02-13",
+  "created": "2027-02-13-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-019-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "다리로 뻗는 통증, 좌골신경통 이야기",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "엉덩이에서 다리까지 찌릿하다면? ⚡\n허리 신경이 자극되면 다리로 통증이 뻗을 수 있어요. 대부분은 편한 범위에서 움직이는 게 회복에 도움이 돼요.\n\n⚠️ 대소변 조절 이상, 사타구니 감각 저하, 양다리 힘 빠짐은 즉시 응급실로 가세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#좌골신경통",
+    "#다리저림",
+    "#허리디스크",
+    "#허리통증",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 다리로 뻗는 통증, 좌골신경통 이야기",
+  "scheduled_date": "2027-02-04",
+  "created": "2027-02-04-1",
+  "status": "approved",
+  "review_warnings": []
+}

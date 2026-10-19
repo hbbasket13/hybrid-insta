@@ -1,0 +1,47 @@
+{
+  "id": "H-051-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "무거운 가방, 어떻게 메야 할까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "가방을 한쪽으로만 메고 다니시나요? 🎒\n무게가 한쪽에 쏠리면 같은 근육이 계속 일해서 뭉치기 쉬워요.\n\n✔ 무게는 가볍게\n✔ 백팩은 양쪽 끈을 조여 등에 붙게\n✔ 숄더백은 번갈아 메기\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#어깨뭉침",
+    "#가방메는법",
+    "#백팩",
+    "#출퇴근",
+    "#직장인건강",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 무거운 가방, 어떻게 메야 할까?",
+  "scheduled_date": "2027-02-10",
+  "created": "2027-02-10-3",
+  "status": "approved",
+  "review_warnings": []
+}

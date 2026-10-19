@@ -1,0 +1,47 @@
+{
+  "id": "H-009-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "오십견, 그냥 기다리면 될까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "팔이 위로도, 뒤로도 잘 안 돌아간다면? 🙆\n오십견(동결견)은 시기에 따라 통증과 뻣뻣함의 양상이 달라 관리법도 달라져요.\n\n통증 범위 안에서 꾸준히 움직이는 게 기본이에요. 정확한 평가 후 단계에 맞는 운동을 시작해 보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#오십견",
+    "#동결견",
+    "#어깨통증",
+    "#어깨재활",
+    "#시드니물리치료",
+    "#시드니한인",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 오십견, 그냥 기다리면 될까?",
+  "scheduled_date": "2027-02-02",
+  "created": "2027-02-02-3",
+  "status": "approved",
+  "review_warnings": []
+}

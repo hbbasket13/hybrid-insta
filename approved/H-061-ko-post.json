@@ -1,0 +1,47 @@
+{
+  "id": "H-061-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "목·허리 아플 때 어떤 자세로 잘까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "자고 일어나면 목·허리가 더 뻐근하다면? 😴\n정답 자세는 없지만, 목과 허리가 편하게 정렬되도록 베개를 활용해 보세요.\n\n✔ 옆으로: 무릎 사이 베개\n✔ 똑바로: 무릎 밑 베개\n✔ 엎드려 자기는 조금씩 줄이기\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#수면자세",
+    "#베개높이",
+    "#목통증",
+    "#허리통증",
+    "#꿀잠",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 목·허리 아플 때 어떤 자세로 잘까?",
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-1",
+  "status": "approved",
+  "review_warnings": []
+}

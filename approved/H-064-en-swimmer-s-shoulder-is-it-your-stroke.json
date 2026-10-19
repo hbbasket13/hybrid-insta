@@ -1,0 +1,47 @@
+{
+  "id": "H-064-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Swimmer's shoulder: is it your stroke?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Front-of-shoulder pain after swimming? 🏊\nThousands of strokes add up as tendon load.\n\n✔ Bilateral breathing\n✔ Shoulder blade strength\n✔ Manage distance and paddles\n\nPersistent pain? Get it assessed.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#swimmersshoulder",
+    "#swimming",
+    "#shoulderpain",
+    "#freestyle",
+    "#sydneyswimmers",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Swimmer's shoulder: is it your stroke?",
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-4",
+  "status": "approved",
+  "review_warnings": []
+}

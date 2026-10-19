@@ -1,0 +1,47 @@
+{
+  "id": "H-042-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hamstring strains: why they keep coming back",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Felt a 'pop' in your hamstring mid-sprint? ⚽\nEven once pain settles, hamstrings re-injure easily if strength isn't fully back.\n\n✔ Check strength before returning\n✔ Graded running progression\n✔ Keep up prevention work\n\nBig bruising or trouble walking? Get assessed promptly.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#hamstringstrain",
+    "#sportsinjury",
+    "#football",
+    "#returntosport",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Hamstring strains: why they keep coming back",
+  "scheduled_date": "2027-02-08",
+  "created": "2027-02-08-6",
+  "status": "approved",
+  "review_warnings": []
+}

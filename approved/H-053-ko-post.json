@@ -1,0 +1,47 @@
+{
+  "id": "H-053-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "낙상 예방, 균형도 운동이에요",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "부모님이 요즘 자주 휘청하시나요? 👵👴\n다리 근력과 균형 감각은 나이가 들수록 줄 수 있지만, 운동으로 충분히 좋아질 수 있어요.\n\n✔ 앉았다 일어서기\n✔ 한 발 서기(안전하게 벽 잡고)\n✔ 집 안 환경 정리\n\n최근 넘어진 적이 있다면 평가를 받아보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#낙상예방",
+    "#균형운동",
+    "#노인운동",
+    "#부모님건강",
+    "#시드니한인",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 낙상 예방, 균형도 운동이에요",
+  "scheduled_date": "2027-02-10",
+  "created": "2027-02-10-5",
+  "status": "approved",
+  "review_warnings": []
+}

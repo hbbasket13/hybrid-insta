@@ -1,0 +1,47 @@
+{
+  "id": "H-062-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Best sleep positions for neck & back pain",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Waking up stiffer than when you went to bed? 😴\nThere's no one perfect position — aim for comfortable alignment with smart pillow use.\n\n✔ Side: pillow between knees\n✔ Back: pillow under knees\n✔ Ease off stomach sleeping\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#sleepposition",
+    "#pillow",
+    "#neckpain",
+    "#backpain",
+    "#bettersleep",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Best sleep positions for neck & back pain",
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-2",
+  "status": "approved",
+  "review_warnings": []
+}

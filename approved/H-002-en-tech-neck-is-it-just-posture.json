@@ -1,0 +1,47 @@
+{
+  "id": "H-002-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Tech neck: is it just posture?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Neck and shoulders locked up by the end of the day? 🐢\nTech neck is often less about one 'bad posture' and more about how long you stay in any position.\n\n✔ Raise your screen\n✔ Move every 30–40 min\n✔ Try chin tucks\n\nIf it lingers or you notice arm pins and needles, book an assessment with a physio.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#techneck",
+    "#neckpain",
+    "#officeworker",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Tech neck: is it just posture?",
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-2",
+  "status": "approved",
+  "review_warnings": []
+}

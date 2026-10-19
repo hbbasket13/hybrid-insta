@@ -1,0 +1,47 @@
+{
+  "id": "H-001-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "거북목, 자세만의 문제일까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "퇴근길마다 목·어깨가 굳는다면? 🐢\n거북목은 '나쁜 자세' 하나보다 오래 같은 자세로 머무는 시간이 더 큰 원인일 수 있어요.\n\n✔ 모니터 높이 맞추기\n✔ 30~40분마다 움직이기\n✔ 턱 당기기 운동\n\n증상이 오래가거나 팔 저림이 동반된다면 물리치료사 평가를 받아보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#거북목",
+    "#목통증",
+    "#어깨통증",
+    "#직장인건강",
+    "#시드니물리치료",
+    "#채스우드물리치료",
+    "#시드니한인",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 거북목, 자세만의 문제일까?",
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-1",
+  "status": "approved",
+  "review_warnings": []
+}

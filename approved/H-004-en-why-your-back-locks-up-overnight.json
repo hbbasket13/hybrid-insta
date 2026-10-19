@@ -1,0 +1,47 @@
+{
+  "id": "H-004-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Why your back locks up overnight",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Back stiff every morning? 🛏️\nLess movement overnight means things can tighten up. A gentle routine before you get out of bed can help.\n\nIf stiffness lasts more than an hour or pain wakes you at night, get it checked by a health professional.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#backpain",
+    "#morningstiffness",
+    "#lowbackpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Why your back locks up overnight",
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-007-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "발뒤꿈치 통증, 족저근막 때문일까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "아침 첫걸음에 발뒤꿈치가 찌릿하다면? 👣\n자고 난 뒤 첫걸음 통증은 족저근막 쪽 문제에서 흔히 나타나요.\n\n✔ 일어나기 전 발목 운동\n✔ 종아리 스트레칭\n✔ 쿠션 있는 신발\n\n몇 주 이상 지속되면 물리치료사와 상의해 보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#족저근막염",
+    "#발뒤꿈치통증",
+    "#발바닥통증",
+    "#시드니물리치료",
+    "#시드니한인",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 발뒤꿈치 통증, 족저근막 때문일까?",
+  "scheduled_date": "2027-02-02",
+  "created": "2027-02-02-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-036-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Clinical Pilates vs regular Pilates",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Been told to try Pilates for your back or neck? 🧘\nClinical Pilates begins with an assessment, then adjusts exercises and intensity around your rehab goals.\n\nSame equipment — tailored approach.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#clinicalpilates",
+    "#rehabpilates",
+    "#pilatessydney",
+    "#chatswoodpilates",
+    "#backrehab",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Clinical Pilates vs regular Pilates",
+  "scheduled_date": "2027-02-06",
+  "created": "2027-02-06-6",
+  "status": "approved",
+  "review_warnings": []
+}

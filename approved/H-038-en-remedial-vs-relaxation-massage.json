@@ -1,0 +1,47 @@
+{
+  "id": "H-038-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Remedial vs relaxation massage",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Shoulders in knots — which massage do you book? 💆\nRemedial massage starts by checking the problem area and movement, then targets treatment to it.\n\nJust want to unwind? Relaxation massage is great for that.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#remedialmassage",
+    "#sydneymassage",
+    "#muscletension",
+    "#chatswoodmassage",
+    "#sydneycbd",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy",
+    "#alliedhealth"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Remedial vs relaxation massage",
+  "scheduled_date": "2027-02-08",
+  "created": "2027-02-08-2",
+  "status": "approved",
+  "review_warnings": []
+}

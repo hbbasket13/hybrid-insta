@@ -1,0 +1,47 @@
+{
+  "id": "H-043-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "정강이 통증, 그냥 참고 뛰어도 될까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "달리기 후 정강이 안쪽이 욱신하다면? 🏃‍♀️\n갑자기 늘어난 운동량에 정강이 주변이 적응하지 못하면 통증이 생길 수 있어요.\n\n⚠️ 뼈의 한 지점을 눌렀을 때 콕 아프거나 쉬어도 아프면 피로골절 가능성도 있으니 평가를 받아보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#정강이통증",
+    "#신스플린트",
+    "#러닝부상",
+    "#초보러너",
+    "#시드니러닝",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 정강이 통증, 그냥 참고 뛰어도 될까?",
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-028-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Parent wrist pain on the thumb side",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Thumb-side wrist pain every time you lift your baby? 👶\nLifting with the thumb spread wide can overload the tendons on that side.\n\nTry scooping with palms and forearms, and get assessed if it doesn't settle.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#mumwrist",
+    "#wristpain",
+    "#newparents",
+    "#postnatal",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Parent wrist pain on the thumb side",
+  "scheduled_date": "2027-02-05",
+  "created": "2027-02-05-4",
+  "status": "approved",
+  "review_warnings": []
+}

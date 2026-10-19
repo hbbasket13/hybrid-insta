@@ -1,0 +1,47 @@
+{
+  "id": "H-059-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "골반 앞이 당긴다면, 앉아 있는 시간 체크",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "오래 앉아 있다 일어나면 골반 앞이 당기나요? 🪑\n오래 앉는 습관은 고관절 앞쪽을 뻣뻣하게 만들 수 있어요.\n\n✔ 골반 앞 스트레칭\n✔ 브릿지로 엉덩이 근육 깨우기\n✔ 1시간마다 일어나기\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#골반통증",
+    "#고관절",
+    "#장시간앉기",
+    "#허리통증",
+    "#직장인스트레칭",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 골반 앞이 당긴다면, 앉아 있는 시간 체크",
+  "scheduled_date": "2027-02-11",
+  "created": "2027-02-11-5",
+  "status": "approved",
+  "review_warnings": []
+}

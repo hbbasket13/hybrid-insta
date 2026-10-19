@@ -1,0 +1,47 @@
+{
+  "id": "H-006-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Runner's knee: is rest enough?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Front-of-knee pain since you started running? 🏃\nRunner's knee is often linked to a sudden jump in training load.\n\nRather than stopping completely, smart load changes plus strength work can help. Swelling or locking? Get assessed promptly.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#runnersknee",
+    "#kneepain",
+    "#running",
+    "#runninginjury",
+    "#sydneyrunners",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Runner's knee: is rest enough?",
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-6",
+  "status": "approved",
+  "review_warnings": []
+}

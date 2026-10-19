@@ -1,0 +1,47 @@
+{
+  "id": "H-041-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "햄스트링 부상, 자꾸 재발하는 이유",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "달리다 허벅지 뒤가 '뚝' 했다면? ⚽\n햄스트링 부상은 통증이 사라져도 근력이 충분히 회복되지 않으면 재발하기 쉬워요.\n\n✔ 근력 회복 확인\n✔ 단계별 달리기 복귀\n✔ 예방 운동 꾸준히\n\n멍이 크게 들거나 걷기 힘들면 바로 평가 받으세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#햄스트링",
+    "#허벅지부상",
+    "#축구부상",
+    "#스포츠재활",
+    "#시드니축구",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 햄스트링 부상, 자꾸 재발하는 이유",
+  "scheduled_date": "2027-02-08",
+  "created": "2027-02-08-5",
+  "status": "approved",
+  "review_warnings": []
+}

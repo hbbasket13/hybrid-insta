@@ -1,0 +1,47 @@
+{
+  "id": "H-040-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Your first chiro visit: what happens?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Nervous about your first chiropractic visit? 🦴\nIt starts with a chat and an assessment. Treatment options are explained and only go ahead with your consent — and you can always say no to any technique.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#chiropractor",
+    "#chirosydney",
+    "#firstvisit",
+    "#chatswoodchiro",
+    "#backpain",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Your first chiro visit: what happens?",
+  "scheduled_date": "2027-02-08",
+  "created": "2027-02-08-4",
+  "status": "approved",
+  "review_warnings": []
+}

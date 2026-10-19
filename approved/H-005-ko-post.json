@@ -1,0 +1,47 @@
+{
+  "id": "H-005-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "러너 무릎 통증, 쉬기만 하면 될까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "달리기 시작하고 무릎 앞이 시큰하다면? 🏃\n러너 무릎 통증은 갑자기 늘어난 훈련량과 관련된 경우가 많아요.\n\n무조건 쉬기보다 훈련량 조절 + 근력 운동이 도움이 될 수 있어요. 붓기나 잠김이 있다면 바로 평가 받으세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#러닝",
+    "#러너무릎",
+    "#무릎통증",
+    "#달리기부상",
+    "#시드니러닝",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 러너 무릎 통증, 쉬기만 하면 될까?",
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-5",
+  "status": "approved",
+  "review_warnings": []
+}

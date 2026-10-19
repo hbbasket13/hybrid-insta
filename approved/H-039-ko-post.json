@@ -1,0 +1,47 @@
+{
+  "id": "H-039-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "카이로 첫 방문, 무엇을 하나요?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "카이로프랙틱이 처음이라 긴장되시나요? 🦴\n첫 방문은 상담과 평가부터 시작해요. 치료 방법은 충분히 설명한 뒤 동의하에 진행하고, 원하지 않는 방법은 언제든 말씀하시면 돼요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#카이로프랙틱",
+    "#카이로첫방문",
+    "#시드니카이로",
+    "#채스우드카이로",
+    "#허리통증",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 카이로 첫 방문, 무엇을 하나요?",
+  "scheduled_date": "2027-02-08",
+  "created": "2027-02-08-3",
+  "status": "approved",
+  "review_warnings": []
+}

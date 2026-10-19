@@ -1,0 +1,47 @@
+{
+  "id": "H-056-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee arthritis: will exercise wear it out?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Got knee arthritis — should you avoid exercise? 🦵\nStrength and aerobic exercise are well recognised for helping manage arthritis symptoms.\n\nUse your next-day pain response to guide how much to do.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#kneearthritis",
+    "#osteoarthritis",
+    "#kneepain",
+    "#exerciseismedicine",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Knee arthritis: will exercise wear it out?",
+  "scheduled_date": "2027-02-11",
+  "created": "2027-02-11-2",
+  "status": "approved",
+  "review_warnings": []
+}

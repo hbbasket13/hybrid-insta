@@ -1,0 +1,47 @@
+{
+  "id": "H-027-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "육아 손목 통증, 엄지 쪽이 시큰하다면",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "아기를 들 때마다 엄지 쪽 손목이 찌릿하다면? 👶\n엄지를 벌린 채 반복해서 들어 올리면 손목 엄지 쪽 힘줄에 부담이 쌓일 수 있어요.\n\n손바닥과 팔뚝으로 받쳐 안는 방법으로 바꿔보고, 통증이 이어지면 평가를 받아보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#육아손목",
+    "#손목통증",
+    "#산후관리",
+    "#엄마건강",
+    "#시드니육아",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 육아 손목 통증, 엄지 쪽이 시큰하다면",
+  "scheduled_date": "2027-02-05",
+  "created": "2027-02-05-3",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-063-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "수영 어깨 통증, 영법 때문일까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "수영 후 어깨 앞쪽이 아프다면? 🏊\n수천 번 반복되는 팔 회전은 어깨 힘줄에 부담을 줄 수 있어요.\n\n✔ 양쪽 호흡\n✔ 견갑골 근력 운동\n✔ 거리·패들 사용 조절\n\n통증이 계속되면 평가를 받아보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#수영",
+    "#수영어깨",
+    "#어깨통증",
+    "#자유형",
+    "#시드니수영",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 수영 어깨 통증, 영법 때문일까?",
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-3",
+  "status": "approved",
+  "review_warnings": []
+}

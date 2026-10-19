@@ -1,0 +1,47 @@
+{
+  "id": "H-044-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Shin splints: run through it?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Inner shin pain after running? 🏃‍♀️\nA sudden jump in training can overload the tissues around the shin.\n\n⚠️ Sharp pain on one spot of the bone, or pain at rest, can signal a stress fracture — get assessed.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#shinsplints",
+    "#shinpain",
+    "#runninginjury",
+    "#newrunner",
+    "#sydneyrunners",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Shin splints: run through it?",
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-017-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "손 저림, 손목터널 증후군일까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "자다가 손이 저려 깬다면? ✋\n손목에서 신경이 눌리는 '손목터널 증후군'일 수도, 목에서 시작된 저림일 수도 있어요.\n\n잡는 힘이 약해지거나 엄지 쪽 근육이 마른다면 빨리 평가를 받아보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#손저림",
+    "#손목터널증후군",
+    "#손목통증",
+    "#시드니물리치료",
+    "#시드니한인",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 손 저림, 손목터널 증후군일까?",
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-5",
+  "status": "approved",
+  "review_warnings": []
+}

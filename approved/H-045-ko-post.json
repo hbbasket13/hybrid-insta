@@ -1,0 +1,47 @@
+{
+  "id": "H-045-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "아킬레스건 통증, 쉬면 나을까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "아침마다 발목 뒤 힘줄이 뻣뻣하다면? 🦶\n아킬레스건 통증은 쉬기만 하기보다 단계적인 근력 운동으로 회복을 돕는 경우가 많아요.\n\n⚠️ 갑자기 '퍽' 소리와 함께 걷기 힘들어졌다면 바로 진료를 받으세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#아킬레스건",
+    "#아킬레스건염",
+    "#발목통증",
+    "#러닝부상",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 아킬레스건 통증, 쉬면 나을까?",
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-3",
+  "status": "approved",
+  "review_warnings": []
+}

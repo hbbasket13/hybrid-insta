@@ -1,0 +1,47 @@
+{
+  "id": "H-018-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Numb hands: carpal tunnel?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Waking up with tingly hands? ✋\nIt could be carpal tunnel at the wrist — or tingling that starts in the neck.\n\nIf grip is weakening or the thumb muscles look thinner, get assessed soon.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#carpaltunnel",
+    "#numbhands",
+    "#wristpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Numb hands: carpal tunnel?",
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-6",
+  "status": "approved",
+  "review_warnings": []
+}

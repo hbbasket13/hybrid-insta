@@ -1,0 +1,47 @@
+{
+  "id": "H-029-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "아침에 목에 담 걸렸을 때",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "자고 일어났더니 목이 한쪽으로 안 돌아간다면? 😵\n급성 목 경직(담)은 흔하고 대개 며칠 안에 좋아져요.\n\n억지로 꺾기보다 따뜻하게 하고, 편한 범위에서 천천히 움직여 주세요. 팔 저림이나 발열이 함께 있다면 진료를 받으세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#목담",
+    "#목통증",
+    "#목결림",
+    "#급성목통증",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 아침에 목에 담 걸렸을 때",
+  "scheduled_date": "2027-02-05",
+  "created": "2027-02-05-5",
+  "status": "approved",
+  "review_warnings": []
+}

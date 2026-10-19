@@ -1,0 +1,47 @@
+{
+  "id": "H-023-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "근육통 vs 부상, 어떻게 구분할까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "운동 다음 날, 혹은 이틀 뒤 더 쑤신다면? 🏋️\n대부분은 지연성 근육통(DOMS)으로 며칠 내 좋아져요.\n\n하지만 한쪽만 날카롭게 아프거나, 붓기·멍이 있거나, 힘이 안 들어간다면 부상일 수 있으니 평가를 받아보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#근육통",
+    "#DOMS",
+    "#운동부상",
+    "#헬스",
+    "#시드니헬스",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 근육통 vs 부상, 어떻게 구분할까?",
+  "scheduled_date": "2027-02-04",
+  "created": "2027-02-04-5",
+  "status": "approved",
+  "review_warnings": []
+}

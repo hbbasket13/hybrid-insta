@@ -1,0 +1,47 @@
+{
+  "id": "H-052-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Heavy bags: how should you carry them?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Always carry your bag on the same shoulder? 🎒\nOne-sided load keeps the same muscles working all day.\n\n✔ Lighten the load\n✔ Both backpack straps, snug and high\n✔ Alternate sides with shoulder bags\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#shoulderpain",
+    "#backpack",
+    "#commute",
+    "#officeworker",
+    "#posture",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Heavy bags: how should you carry them?",
+  "scheduled_date": "2027-02-10",
+  "created": "2027-02-10-4",
+  "status": "approved",
+  "review_warnings": []
+}

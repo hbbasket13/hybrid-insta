@@ -1,0 +1,47 @@
+{
+  "id": "H-022-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Clicking jaw: should you worry?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Jaw clicking when you open your mouth? 😬\nPainless clicking is common, but pain or limited opening may benefit from a TMJ assessment.\n\n✔ Lips together, teeth apart\n✔ Watch for daytime clenching\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#tmj",
+    "#jawpain",
+    "#jawclicking",
+    "#clenching",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Clicking jaw: should you worry?",
+  "scheduled_date": "2027-02-04",
+  "created": "2027-02-04-4",
+  "status": "approved",
+  "review_warnings": []
+}

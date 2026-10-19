@@ -1,0 +1,47 @@
+{
+  "id": "H-030-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Woke up with a stiff, locked neck",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Woke up unable to turn your head? 😵\nAcute wry neck is common and usually settles within a few days.\n\nSkip the forcing — use warmth and gentle movement within comfort. Arm tingling or fever? See a doctor.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#wryneck",
+    "#stiffneck",
+    "#neckpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Woke up with a stiff, locked neck",
+  "scheduled_date": "2027-02-05",
+  "created": "2027-02-05-6",
+  "status": "approved",
+  "review_warnings": []
+}

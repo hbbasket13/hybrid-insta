@@ -1,0 +1,47 @@
+{
+  "id": "H-058-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain between your shoulder blades",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Burning ache between your shoulder blades? 🔥\nRounded sitting for long periods tires out the upper back.\n\n✔ Chest openers\n✔ Rowing strength\n✔ Thoracic rotation\n\n⚠️ Chest pain or breathlessness alongside it needs urgent medical care.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#upperbackpain",
+    "#shoulderblade",
+    "#thoracic",
+    "#officeworker",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Pain between your shoulder blades",
+  "scheduled_date": "2027-02-11",
+  "created": "2027-02-11-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-046-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Achilles pain: will rest fix it?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Stiff Achilles every morning? 🦶\nAchilles pain often responds better to progressive strengthening than rest alone.\n\n⚠️ A sudden 'snap' with difficulty walking needs prompt medical care.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#achillestendon",
+    "#achillespain",
+    "#tendinopathy",
+    "#runninginjury",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Achilles pain: will rest fix it?",
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-4",
+  "status": "approved",
+  "review_warnings": []
+}

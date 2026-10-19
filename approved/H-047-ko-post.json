@@ -1,0 +1,47 @@
+{
+  "id": "H-047-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "팔 올릴 때 어깨 통증, 회전근개 신호일까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "팔을 들 때 중간쯤에서 어깨가 찌릿하다면? 💪\n회전근개 힘줄이 예민해졌을 때 흔한 패턴이에요.\n\n아예 안 쓰기보다 통증 없는 범위에서 근력 운동을 하는 게 도움이 될 수 있어요. 팔을 못 들 정도로 힘이 빠지면 바로 평가 받으세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#회전근개",
+    "#어깨통증",
+    "#어깨충돌",
+    "#어깨재활",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 팔 올릴 때 어깨 통증, 회전근개 신호일까?",
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-5",
+  "status": "approved",
+  "review_warnings": []
+}

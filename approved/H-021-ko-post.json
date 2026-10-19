@@ -1,0 +1,47 @@
+{
+  "id": "H-021-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "턱에서 소리 나요, 괜찮은 걸까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "입 벌릴 때 턱에서 딸깍 소리가 난다면? 😬\n통증 없는 소리는 흔하지만, 통증이나 입 벌림 제한이 있다면 턱관절 평가가 도움이 될 수 있어요.\n\n✔ 입술은 닫고 이는 살짝 떨어지게\n✔ 이 악물기 습관 체크\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#턱관절",
+    "#턱관절장애",
+    "#TMJ",
+    "#이악물기",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 턱에서 소리 나요, 괜찮은 걸까?",
+  "scheduled_date": "2027-02-04",
+  "created": "2027-02-04-3",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-057-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "날개뼈 사이 통증, 원인이 뭘까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "날개뼈 사이가 타는 듯이 뻐근하다면? 🔥\n오래 둥글게 앉아 있으면 등 위쪽 근육과 관절이 쉽게 피곤해져요.\n\n✔ 가슴 펴기\n✔ 당기기 근력 운동\n✔ 흉곽 회전 스트레칭\n\n⚠️ 가슴 통증·숨참이 함께 있다면 즉시 진료를 받으세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#등통증",
+    "#날개뼈통증",
+    "#등결림",
+    "#직장인",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 날개뼈 사이 통증, 원인이 뭘까?",
+  "scheduled_date": "2027-02-11",
+  "created": "2027-02-11-3",
+  "status": "approved",
+  "review_warnings": []
+}

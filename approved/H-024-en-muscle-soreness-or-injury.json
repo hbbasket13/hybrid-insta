@@ -1,0 +1,47 @@
+{
+  "id": "H-024-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Muscle soreness or injury?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Sore the day after — or even worse two days later? 🏋️\nMost of the time it's DOMS and settles within a few days.\n\nSharp one-sided pain, swelling, bruising or weakness could be an injury — get it assessed.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#doms",
+    "#musclesoreness",
+    "#gym",
+    "#trainingtips",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Muscle soreness or injury?",
+  "scheduled_date": "2027-02-04",
+  "created": "2027-02-04-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-012-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Outer elbow pain from your mouse?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Outer elbow pain but you don't play tennis? 🖱️\n'Tennis elbow' is common with desk work, parenting and DIY — anything with repeated gripping.\n\nGradual strengthening often helps tendons more than rest alone.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#tenniselbow",
+    "#elbowpain",
+    "#officeworker",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Outer elbow pain from your mouse?",
+  "scheduled_date": "2027-02-02",
+  "created": "2027-02-02-6",
+  "status": "approved",
+  "review_warnings": []
+}

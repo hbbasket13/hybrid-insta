@@ -1,0 +1,47 @@
+{
+  "id": "H-037-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "리메디얼 마사지 vs 릴랙스 마사지",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "어깨가 뭉쳤을 때, 어떤 마사지를 받아야 할까요? 💆\n리메디얼 마사지는 불편한 부위와 움직임을 먼저 확인하고, 그 문제에 맞춰 진행하는 치료적 마사지예요.\n\n휴식이 목적이라면 릴랙스 마사지도 좋아요!\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#시드니마사지",
+    "#어깨뭉침",
+    "#근육통",
+    "#채스우드마사지",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 리메디얼 마사지 vs 릴랙스 마사지",
+  "scheduled_date": "2027-02-08",
+  "created": "2027-02-08-1",
+  "status": "approved",
+  "review_warnings": []
+}

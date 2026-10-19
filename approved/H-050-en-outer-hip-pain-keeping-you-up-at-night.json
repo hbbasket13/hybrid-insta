@@ -1,0 +1,47 @@
+{
+  "id": "H-050-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Outer hip pain keeping you up at night",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Outer hip pain when you lie on your side? 🛌\nThis is common when the side-hip tendons are compressed and irritated (gluteal tendinopathy).\n\n✔ Pillow between knees\n✔ Avoid crossing legs\n✔ Progressive glute strength\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#hippain",
+    "#gluteal",
+    "#sidehippain",
+    "#sleeppain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Outer hip pain keeping you up at night",
+  "scheduled_date": "2027-02-10",
+  "created": "2027-02-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

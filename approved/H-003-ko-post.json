@@ -1,0 +1,47 @@
+{
+  "id": "H-003-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "눈 뜨자마자 허리가 굳는 이유",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "아침마다 허리가 뻣뻣하다면? 🛏️\n밤새 움직임이 줄면 허리 주변이 굳기 쉬워요. 일어나기 전 간단한 움직임이 도움이 될 수 있어요.\n\n다만 뻣뻣함이 1시간 이상 이어지거나 밤에 통증으로 깨신다면 꼭 전문가 평가를 받아보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#허리통증",
+    "#아침허리통증",
+    "#허리스트레칭",
+    "#시드니물리치료",
+    "#시드니한인",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 눈 뜨자마자 허리가 굳는 이유",
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-3",
+  "status": "approved",
+  "review_warnings": []
+}

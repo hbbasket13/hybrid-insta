@@ -1,0 +1,47 @@
+{
+  "id": "H-026-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Standing jobs: protect back & legs",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "On your feet all day? ☕\nStanding still loads the same muscles and joints for hours.\n\n✔ Shift your weight often\n✔ Calf raises on breaks\n✔ Supportive shoes, legs up after work\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#standingjob",
+    "#hospitality",
+    "#backpain",
+    "#calfpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Standing jobs: protect back & legs",
+  "scheduled_date": "2027-02-05",
+  "created": "2027-02-05-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-066-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Growing knees: Osgood-Schlatter",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Active child with a sore bump below the knee? ⚽\nIt could be Osgood-Schlatter, common in growing teens.\n\nMost kids manage well with load changes and stretching. Big swelling or night pain? Get it assessed.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#osgoodschlatter",
+    "#growingpains",
+    "#teenathletes",
+    "#juniorsport",
+    "#sydneyparents",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Growing knees: Osgood-Schlatter",
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-6",
+  "status": "approved",
+  "review_warnings": []
+}

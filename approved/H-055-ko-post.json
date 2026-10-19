@@ -1,0 +1,47 @@
+{
+  "id": "H-055-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "무릎 관절염, 운동하면 더 닳을까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "무릎 관절염이 있으면 운동하면 안 될까요? 🦵\n적절한 근력 운동과 유산소 운동은 관절염 증상 관리에 도움이 되는 것으로 알려져 있어요.\n\n운동 후 다음 날 통증이 크게 늘지 않는지 확인하며 강도를 조절해 보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#무릎관절염",
+    "#퇴행성관절염",
+    "#무릎운동",
+    "#시니어운동",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 무릎 관절염, 운동하면 더 닳을까?",
+  "scheduled_date": "2027-02-11",
+  "created": "2027-02-11-1",
+  "status": "approved",
+  "review_warnings": []
+}

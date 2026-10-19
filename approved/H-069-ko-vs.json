@@ -1,0 +1,47 @@
+{
+  "id": "H-069-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "냉찜질 vs 온찜질, 언제 뭘 쓸까?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "냉찜질과 온찜질, 언제 뭘 써야 할까요? 🧊🔥\n갓 다쳐서 붓고 열이 날 땐 냉찜질, 오래된 뻐근함엔 온찜질이 편한 경우가 많아요.\n\n찜질은 15~20분 이내, 피부에 직접 대지 말고 수건으로 감싸 주세요. 감각이 둔한 부위는 특히 조심하세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#냉찜질",
+    "#온찜질",
+    "#찜질방법",
+    "#부상관리",
+    "#근육통",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 냉찜질 vs 온찜질, 언제 뭘 쓸까?",
+  "scheduled_date": "2027-02-13",
+  "created": "2027-02-13-3",
+  "status": "approved",
+  "review_warnings": []
+}

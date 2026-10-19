@@ -1,0 +1,47 @@
+{
+  "id": "H-048-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Shoulder pain lifting your arm: rotator cuff?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Shoulder catches halfway through lifting your arm? 💪\nThat's a common pattern with an irritated rotator cuff.\n\nStrengthening within a comfortable range often helps more than avoiding use. Significant weakness lifting the arm? Get assessed promptly.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#rotatorcuff",
+    "#shoulderpain",
+    "#shoulderimpingement",
+    "#shoulderrehab",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Shoulder pain lifting your arm: rotator cuff?",
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-6",
+  "status": "approved",
+  "review_warnings": []
+}

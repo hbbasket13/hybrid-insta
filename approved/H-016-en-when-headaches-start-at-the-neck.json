@@ -1,0 +1,47 @@
+{
+  "id": "H-016-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "When headaches start at the neck",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Afternoon headaches that start at the back of your neck? 🤕\nSome headaches come from the upper neck (cervicogenic headache).\n\n⚠️ A sudden, severe headache, vision changes or slurred speech need urgent care — call 000.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#headache",
+    "#neckpain",
+    "#cervicogenicheadache",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: When headaches start at the neck",
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-4",
+  "status": "approved",
+  "review_warnings": []
+}

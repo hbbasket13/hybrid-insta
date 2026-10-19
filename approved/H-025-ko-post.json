@@ -1,0 +1,47 @@
+{
+  "id": "H-025-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "오래 서 있는 직업, 허리·다리 지키기",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "하루 종일 서서 일하는 분들, 허리·종아리 괜찮으세요? ☕\n오래 서 있으면 같은 근육과 관절에 부담이 계속 쌓여요.\n\n✔ 체중 이동 자주\n✔ 까치발 운동\n✔ 좋은 신발과 퇴근 후 다리 올리기\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#서서일하는직업",
+    "#종아리통증",
+    "#허리통증",
+    "#카페직원",
+    "#시드니워홀",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 오래 서 있는 직업, 허리·다리 지키기",
+  "scheduled_date": "2027-02-05",
+  "created": "2027-02-05-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-065-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "성장기 무릎 통증, 오스굿병 이야기",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "운동하는 아이가 무릎 아래가 볼록하고 아프다고 한다면? ⚽\n성장기 청소년에게 흔한 오스굿-슐라터병일 수 있어요.\n\n대부분 운동량 조절과 스트레칭으로 관리할 수 있어요. 붓기가 심하거나 밤에도 아프면 평가를 받아보세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#오스굿병",
+    "#성장통",
+    "#청소년무릎",
+    "#유소년축구",
+    "#시드니육아",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 성장기 무릎 통증, 오스굿병 이야기",
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-5",
+  "status": "approved",
+  "review_warnings": []
+}

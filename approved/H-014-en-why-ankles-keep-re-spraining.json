@@ -1,0 +1,47 @@
+{
+  "id": "H-014-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Why ankles keep re-spraining",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Keep rolling the same ankle? 🏀\nEven after swelling settles, balance and strength often aren't fully back.\n\nSingle-leg balance and calf work can reduce your re-injury risk. Can't weight bear or major swelling? Seek care promptly.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#anklesprain",
+    "#ankleinjury",
+    "#sportsinjury",
+    "#balance",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Why ankles keep re-spraining",
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-2",
+  "status": "approved",
+  "review_warnings": []
+}

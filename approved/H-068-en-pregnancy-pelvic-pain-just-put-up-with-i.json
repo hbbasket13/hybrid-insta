@@ -1,0 +1,47 @@
+{
+  "id": "H-068-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pregnancy pelvic pain: just put up with it?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Pelvic pain when rolling over in bed during pregnancy? 🤰\nPelvic girdle pain is common — but you don't have to just put up with it.\n\n✔ Roll with knees together\n✔ Sit to dress\n✔ Shorter steps\n\nCheck in with your doctor or midwife, and consider a physio assessment.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#pregnancy",
+    "#pelvicgirdlepain",
+    "#pregnancypain",
+    "#mumtobe",
+    "#sydneymums",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Pregnancy pelvic pain: just put up with it?",
+  "scheduled_date": "2027-02-13",
+  "created": "2027-02-13-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "H-020-en",
+  "lang": "en",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sciatica: leg pain from your back",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "Zapping pain from your buttock down your leg? ⚡\nAn irritated lower back nerve can refer pain down the leg. Gentle movement within comfort usually helps recovery.\n\n⚠️ Bladder/bowel changes, saddle numbness or weakness in both legs need emergency care immediately.\n\n📍 Chatswood · Sydney CBD\nBooking link in bio 👆",
+  "hashtags": [
+    "#sciatica",
+    "#legpain",
+    "#backpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysio",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "4-slide card with Hybi and a patient character: Sciatica: leg pain from your back",
+  "scheduled_date": "2027-02-04",
+  "created": "2027-02-04-2",
+  "status": "approved",
+  "review_warnings": []
+}

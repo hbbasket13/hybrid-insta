@@ -1,0 +1,47 @@
+{
+  "id": "H-035-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "클리니컬 필라테스, 일반 필라테스와 뭐가 달라?",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "허리·목 때문에 필라테스를 추천받았다면? 🧘\n클리니컬 필라테스는 먼저 몸 상태를 평가한 뒤, 재활 목표에 맞춰 동작과 강도를 조절하는 방식이에요.\n\n같은 동작이라도 '나에게 맞게'가 핵심이에요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#클리니컬필라테스",
+    "#재활필라테스",
+    "#허리재활",
+    "#시드니필라테스",
+    "#채스우드필라테스",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 클리니컬 필라테스, 일반 필라테스와 뭐가 달라?",
+  "scheduled_date": "2027-02-06",
+  "created": "2027-02-06-5",
+  "status": "approved",
+  "review_warnings": []
+}

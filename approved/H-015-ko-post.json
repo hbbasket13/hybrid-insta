@@ -1,0 +1,47 @@
+{
+  "id": "H-015-ko",
+  "lang": "ko",
+  "style": "prerendered",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "뒷목에서 올라오는 두통의 정체",
+  "location_tag": "Sydney CBD",
+  "slides": [
+    {
+      "kind": "image",
+      "file": "slide-01.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-02.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-03.png"
+    },
+    {
+      "kind": "image",
+      "file": "slide-04.png"
+    }
+  ],
+  "caption": "오후만 되면 뒷목에서 머리로 지끈거린다면? 🤕\n목 윗부분에서 시작되는 '경추성 두통'일 가능성도 있어요.\n\n⚠️ 갑작스럽고 극심한 두통, 시야 이상, 말 어눌함이 있다면 즉시 응급실(000)로 가세요.\n\n📍 Chatswood · Sydney CBD\n예약 링크는 bio에 👆",
+  "hashtags": [
+    "#두통",
+    "#긴장성두통",
+    "#뒷목통증",
+    "#경추성두통",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#sydney",
+    "#chatswood",
+    "#sydneycbd",
+    "#northshore",
+    "#nsw",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 환자 캐릭터가 등장하는 4장짜리 카드뉴스: 뒷목에서 올라오는 두통의 정체",
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-3",
+  "status": "approved",
+  "review_warnings": []
+}
