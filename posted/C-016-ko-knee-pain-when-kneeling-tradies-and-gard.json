@@ -123,6 +123,12 @@
   },
   "scheduled_date": "2026-10-20",
   "created": "2026-10-20-1",
-  "status": "approved",
-  "review_warnings": []
+  "status": "posted",
+  "review_warnings": [],
+  "posted": {
+    "date": "2026-10-20",
+    "media_id": "17967665778188255",
+    "permalink": "https://www.instagram.com/p/DesnxG8GFaM/",
+    "story_id": "18451364656126065"
+  }
 }
