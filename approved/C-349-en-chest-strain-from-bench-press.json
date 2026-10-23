@@ -1,0 +1,131 @@
+{
+  "id": "C-349-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Chest strain from bench press",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "A <em>twinge in the chest</em><br>after bench press?",
+      "sub": "A chest muscle strain story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lulu <em>ground out</em><br>one last heavy rep.",
+      "char": "kanga_tired",
+      "bubble": "Ouch, the front of<br>my chest just<br>pinged..",
+      "bubble_type": "thought",
+      "note": "(it's achy right up towards the armpit..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Chest feeling sore?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. can I just<br>keep pressing through?"
+      },
+      "note": "Hybi explained the balance of <mark>resting and reloading</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Watch those heavy<br><em>last reps</em>!",
+      "fact": "Heavy reps when you're tired put <em>a lot of load on the chest</em>",
+      "left": {
+        "label": "Controlled load",
+        "char": "kanga_happy",
+        "caption": "Leave a rep or two,<br>lower it <b>slowly</b>"
+      },
+      "right": {
+        "label": "Grinding to fail",
+        "char": "kanga_tired",
+        "caption": "Heavy reps pushed<br>while <em>exhausted</em>"
+      },
+      "quip": "Build the weight<br>back up slowly!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute return plan</b>",
+      "sub": "Mild discomfort only!",
+      "sections": [
+        {
+          "heading": "1. Step back into pressing",
+          "color": "yellow",
+          "lines": [
+            "① Pause <em>heavy pressing</em> for a few days.",
+            "② Keep the arm moving within comfort.",
+            "③ Restart with <em>10 wall push-ups</em>.",
+            "④ Add load <em>gradually</em> over a few weeks."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Chest pain with <em>breathlessness or sweating</em>",
+            "may not be muscular — <em>call 000</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A pop with bruising",
+        "Chest shape looks different",
+        "Weak when pushing or lifting"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu ground out one last heavy bench rep and felt a twinge at the front of the chest, up towards the armpit.\n\nHeavy reps when you're tired put a lot of load through the chest muscle. A mild strain usually settles with a short break from heavy pressing, gentle movement within comfort, and building the weight back up slowly.\n\nHybi's plan: restart with 10 wall push-ups and add load over a few weeks. Chest pain with breathlessness or sweating may not be muscular, so call 000.\n\nA pop with bruising, a change in chest shape, or weakness is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#benchpress",
+    "#gyminjury",
+    "#chestpain",
+    "#strengthtraining",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#gymlife",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining chest muscle strain after bench press, a controlled versus grinding comparison, a step-by-step return plan and signs worth getting checked.",
+  "story": {
+    "headline": "Chest twinge after bench?",
+    "body": "Start with wall push-ups,<br>build up slowly.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-02",
+  "created": "2027-03-02-4",
+  "status": "approved",
+  "review_warnings": []
+}

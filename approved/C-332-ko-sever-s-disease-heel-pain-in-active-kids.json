@@ -1,0 +1,131 @@
+{
+  "id": "C-332-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sever's disease: heel pain in active kids",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "토토 코치가 본<br>아이들의 <em>뒤꿈치 통증</em>",
+      "sub": "하비와 함께 알아보는 세버병 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주니어 육상팀을<br><em>코칭하는</em> 토토.",
+      "char": "rabbit_tired",
+      "bubble": "애들이 왜 자꾸<br>뒤꿈치가<br>아프다고 하지..?",
+      "bubble_type": "thought",
+      "note": "(뛰고 나면 절뚝이는 아이들..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비예요.<br>아이들이 걱정돼요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 운동을 아예<br>쉬어야 할까요?"
+      },
+      "note": "하비는 <mark>자라는 뒤꿈치뼈</mark> 이야기를 꺼냈다."
+    },
+    {
+      "kind": "compare",
+      "title": "자라는 아이의 <em>뒤꿈치</em>는 달라요",
+      "fact": "성장기 뒤꿈치뼈 끝은 <em>아직 자라는 중</em>이라 예민할 수 있어요",
+      "left": {
+        "label": "양 조절하기",
+        "char": "rabbit_happy",
+        "caption": "강도를 조절하면<br>보통 <b>잘 지나가요</b>"
+      },
+      "right": {
+        "label": "통증 참고 계속",
+        "char": "rabbit_tired",
+        "caption": "같은 부위에<br><em>자극이 쌓여요</em>"
+      },
+      "quip": "멈추기보다<br>조절해봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>뒤꿈치 관리 팁</b>",
+      "sub": "운동 끝나고 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 양 조절 + 스트레칭",
+          "color": "yellow",
+          "lines": [
+            "① 아픈 날엔 <em>달리기·점프</em>를 줄여요.",
+            "② 종아리 스트레칭 <em>30초 × 2~3회</em>.",
+            "③ 운동 후 수건에 싼 냉찜질 <em>10분</em>.",
+            "④ 쿠션 좋은 운동화 신기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "<em>쉬어도</em> 아프거나 밤에 아프거나",
+            "<em>절뚝임</em>이 계속되면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "뒤꿈치가 계속 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "쉴 때나 밤에도 아프다",
+        "붓거나 빨갛다",
+        "절뚝임이 계속된다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "주니어 육상팀을 코칭하는 토토. 뛰고 나면 뒤꿈치가 아프다는 아이들이 있어요.\n\n성장기 아이들의 뒤꿈치뼈 끝은 아직 자라는 중이라, 달리기와 점프가 많으면 예민해질 수 있어요(세버병). 보통 운동량을 조절하면 시간이 지나며 좋아지는 경우가 많아요.\n\n하비의 팁: 아픈 날엔 달리기·점프 줄이기, 종아리 스트레칭 30초 × 2~3회, 운동 후 냉찜질 10분.\n\n쉴 때나 밤에도 아프거나, 붓거나, 절뚝임이 계속되면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🏃\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#뒤꿈치통증",
+    "#세버병",
+    "#성장통",
+    "#어린이운동",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#heelpain",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 운동하는 아이들의 뒤꿈치 통증(세버병), 운동량 조절 비교, 뒤꿈치 관리 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "아이 뒤꿈치가 아프다면?",
+    "body": "멈추기보다 조절,<br>종아리 스트레칭!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-23",
+  "created": "2027-02-23-5",
+  "status": "approved",
+  "review_warnings": []
+}

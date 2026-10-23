@@ -1,0 +1,131 @@
+{
+  "id": "C-329-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Taking the stairs: a free leg-strength workout",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "The stairs: Mr Turtle's<br><em>free leg workout</em>?",
+      "sub": "A stair-climbing story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Queuing for the lift<br><em>again</em>.",
+      "char": "turtle_sad",
+      "bubble": "I never have time<br>to exercise..",
+      "bubble_type": "thought",
+      "note": "(and his office is only on level 3..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Short on time?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. no time<br>for the gym.."
+      },
+      "note": "Hybi pointed to <mark>the stairs he walks past every day</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Stairs are <em>everyday</em><br>gym equipment!",
+      "fact": "Climbing stairs works your thighs and glutes <em>every step</em>",
+      "left": {
+        "label": "One flight up",
+        "char": "turtle_happy",
+        "caption": "Leg muscles get a<br><b>little work daily</b>"
+      },
+      "right": {
+        "label": "Always the lift",
+        "char": "turtle_sad",
+        "caption": "Another chance<br>to move <em>missed</em>"
+      },
+      "quip": "Start with one flight<br>and build up!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>stair starter plan</b>",
+      "sub": "Try it on your way in!",
+      "sections": [
+        {
+          "heading": "1. Start with one flight",
+          "color": "yellow",
+          "lines": [
+            "① Hold the rail, <em>whole foot</em> on each step.",
+            "② Start with <em>1–2 flights</em>.",
+            "③ When it feels easy, add <em>one flight a week</em>.",
+            "④ Go down slowly, rail in hand!"
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Knee pain gets <em>worse</em>, or you feel chest",
+            "pain or <em>dizziness</em> — stop and see your GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Stairs still <em>tough going</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee swelling or pain",
+        "Unusually short of breath",
+        "Pain lasting over 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle says he has no time to exercise, yet he walks past a staircase every day.\n\nClimbing stairs works your thighs and glutes with every step, so it can be a handy way to build leg strength into your day.\n\nHybi's starter plan: hold the rail, place your whole foot on each step, start with 1–2 flights and add one flight a week when it feels easy. Stop and see your GP if you notice chest pain or dizziness.\n\nKnee swelling, unusual breathlessness, or pain lasting more than two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#takethestairs",
+    "#legstrength",
+    "#deskjob",
+    "#officeworker",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle showing how taking the stairs can build leg strength, comparing stairs with the lift, a simple stair starter plan and signs worth getting checked.",
+  "story": {
+    "headline": "No time to exercise?",
+    "body": "Start with one flight,<br>add one a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-22",
+  "created": "2027-02-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

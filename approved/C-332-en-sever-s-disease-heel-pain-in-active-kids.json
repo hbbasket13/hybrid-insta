@@ -1,0 +1,131 @@
+{
+  "id": "C-332-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sever's disease: heel pain in active kids",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Coach Toto and the kids<br>with <em>sore heels</em>",
+      "sub": "A Sever's disease story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Toto <em>coaches</em><br>junior athletics.",
+      "char": "rabbit_tired",
+      "bubble": "Why do so many kids<br>say their heels<br>hurt after training..?",
+      "bubble_type": "thought",
+      "note": "(a few of them are limping after sprints..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Worried about the kids?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. should they<br>stop sport altogether?"
+      },
+      "note": "Hybi explained <mark>the growing heel bone</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Growing heels<br>are <em>a bit different</em>",
+      "fact": "In growing kids, the heel bone's edge is <em>still developing</em>",
+      "left": {
+        "label": "Load adjusted",
+        "char": "rabbit_happy",
+        "caption": "Easing the load, it<br>usually <b>settles over time</b>"
+      },
+      "right": {
+        "label": "Pushing through",
+        "char": "rabbit_tired",
+        "caption": "Same spot keeps<br>getting <em>irritated</em>"
+      },
+      "quip": "Adjust rather than<br>stop completely!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>heel care tips</b>",
+      "sub": "Try them after training!",
+      "sections": [
+        {
+          "heading": "1. Adjust load + stretch",
+          "color": "yellow",
+          "lines": [
+            "① On sore days, cut back <em>running and jumping</em>.",
+            "② Calf stretch, <em>30 sec × 2–3</em>.",
+            "③ Wrapped ice pack <em>10 min</em> after sport.",
+            "④ Well-cushioned runners help."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "It hurts <em>at rest</em> or at night, or the",
+            "<em>limp</em> doesn't settle — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Heels still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain at rest or at night",
+        "Swelling or redness",
+        "A limp that persists"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto coaches junior athletics, and a few of the kids say their heels hurt after training.\n\nIn growing kids, the back of the heel bone is still developing, so lots of running and jumping can make it sore. This is often called Sever's disease, and it usually settles over time with load adjusted rather than stopping sport altogether.\n\nHybi's tips: cut back running and jumping on sore days, calf stretch for 30 seconds 2–3 times, and ice for 10 minutes after sport.\n\nPain at rest or at night, swelling, or a limp that persists are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🏃\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#heelpain",
+    "#seversdisease",
+    "#kidssport",
+    "#juniorsport",
+    "#sportsphysio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining heel pain in active kids (Sever's disease), comparing load adjustment with pushing through, heel care tips and signs worth getting checked.",
+  "story": {
+    "headline": "Kids with sore heels?",
+    "body": "Adjust, don't stop:<br>calf stretch 30 sec.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-23",
+  "created": "2027-02-23-2",
+  "status": "approved",
+  "review_warnings": []
+}

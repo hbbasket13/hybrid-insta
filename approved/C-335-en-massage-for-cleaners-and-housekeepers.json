@@ -1,0 +1,131 @@
+{
+  "id": "C-335-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for cleaners and housekeepers",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's arms and back<br>feel <em>so heavy</em>",
+      "sub": "A cleaning-day muscle story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day <em>scrubbing, pushing</em><br>and making beds.",
+      "char": "kanga_tired",
+      "bubble": "Why do my arms<br>and back feel<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(by knock-off, even the forearms ache..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Long week at work?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. would a massage<br>help at all?"
+      },
+      "note": "Hybi decided to explain <mark>massage plus movement</mark> together."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Repeating</em> the same move<br>adds up",
+      "fact": "Short, regular breaks can help <em>tired muscles</em> recover",
+      "left": {
+        "label": "Mix it up",
+        "char": "kanga_happy",
+        "caption": "Swap hands, and bend<br>the <b>knees</b> to wipe low"
+      },
+      "right": {
+        "label": "Same position",
+        "char": "kanga_tired",
+        "caption": "One arm, back bent,<br><em>held for ages</em>"
+      },
+      "quip": "Changing position often<br>can ease the load!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute arm & back reset</b>",
+      "sub": "Try it between jobs!",
+      "sections": [
+        {
+          "heading": "1. Forearm and back stretch",
+          "color": "yellow",
+          "lines": [
+            "① Arm out in front, palm facing <em>down</em>.",
+            "② Gently draw the back of the hand in, <em>20 sec</em>.",
+            "③ Hands on hips, lean <em>gently back</em> 5 times.",
+            "④ Repeat every 2–3 hours."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your hand",
+            "starts to <em>tingle</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hand tingling or weakness",
+        "Pain lasting into the night",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu spends the day scrubbing, vacuuming and making beds. By knock-off, the forearms and lower back feel heavy.\n\nDoing the same movement for hours means those muscles rarely get a break. Swapping hands, bending the knees instead of the back, and taking short breaks can often help.\n\nHybi's 1-minute reset: forearm stretch for 20 seconds, then hands on hips and lean gently back 5 times, every 2–3 hours. Remedial massage can help tight muscles feel easier, and it works alongside regular movement, not instead of it.\n\nTingling in the hand or no change after two weeks is worth an assessment. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#cleaners",
+    "#housekeeping",
+    "#backpain",
+    "#forearmpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneymassage",
+    "#workhealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why cleaning work tires the arms and back, a mix-it-up comparison, a 1-minute stretch and signs worth getting checked.",
+  "story": {
+    "headline": "Cleaning work wearing you out?",
+    "body": "Forearm stretch, 20 sec,<br>every 2–3 hours.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-24",
+  "created": "2027-02-24-2",
+  "status": "approved",
+  "review_warnings": []
+}

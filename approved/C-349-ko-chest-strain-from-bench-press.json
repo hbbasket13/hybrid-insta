@@ -1,0 +1,131 @@
+{
+  "id": "C-349-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Chest strain from bench press",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "벤치프레스 후<br><em>가슴이 찌릿</em>했다면",
+      "sub": "하비와 알아보는 가슴 근육 부상 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마지막 한 개를<br><em>억지로 밀어낸</em> 루루.",
+      "char": "kanga_tired",
+      "bubble": "가슴 앞쪽이<br>찌릿.. 괜찮은 걸까?",
+      "bubble_type": "thought",
+      "note": "(겨드랑이 쪽까지 뻐근하다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>가슴이 불편하구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 그냥 계속<br>밀면 풀리지 않을까요?"
+      },
+      "note": "하비는 <mark>쉬는 것과 다시 쓰는 것</mark>의 균형을 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "무거운 <em>마지막 반복</em>을<br>조심해요!",
+      "fact": "지친 상태의 무거운 마지막 반복은 <em>가슴 근육에 큰 부담</em>",
+      "left": {
+        "label": "조절된 무게",
+        "char": "kanga_happy",
+        "caption": "한두 개 여유 남기고<br><b>천천히</b> 내리기"
+      },
+      "right": {
+        "label": "무리한 한계",
+        "char": "kanga_tired",
+        "caption": "지친 채 무거운<br>반복을 <em>밀어붙이기</em>"
+      },
+      "quip": "무게는 천천히<br>다시 올려요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 복귀 플랜</b>",
+      "sub": "통증은 가볍게만 허용해요!",
+      "sections": [
+        {
+          "heading": "1. 단계별로 다시 밀기",
+          "color": "yellow",
+          "lines": [
+            "① 며칠은 <em>무거운 밀기 운동</em>을 쉬어요.",
+            "② 편한 범위에서 팔은 계속 움직여요.",
+            "③ <em>벽 푸시업 10회</em>부터 시작해요.",
+            "④ 몇 주에 걸쳐 <em>조금씩</em> 무게를 올려요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "가슴 통증에 <em>숨참·식은땀</em>이 있다면",
+            "근육 문제가 아닐 수 있어요. <em>000에 전화!</em>"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "'뚝' 소리와 멍이 생겼다",
+        "가슴 모양이 달라 보인다",
+        "밀거나 들 때 힘이 없다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "벤치프레스 마지막 한 개를 억지로 밀어낸 루루. 가슴 앞쪽과 겨드랑이 쪽이 찌릿해요.\n\n지친 상태에서 무거운 반복을 밀어붙이면 가슴 근육에 부담이 커질 수 있어요. 가벼운 근육 부상은 보통 잠깐 쉬고, 편한 범위에서 움직이고, 무게를 천천히 다시 올리는 게 도움이 돼요.\n\n하비의 복귀 플랜: 벽 푸시업 10회부터, 몇 주에 걸쳐 조금씩! 가슴 통증에 숨참이나 식은땀이 있다면 000에 전화하세요.\n\n'뚝' 소리와 멍, 가슴 모양 변화, 힘 빠짐은 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#벤치프레스",
+    "#가슴통증",
+    "#헬스",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#benchpress",
+    "#gyminjury"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 벤치프레스 후 가슴 근육 부담, 무게 조절 비교, 단계별 복귀 플랜, 확인이 필요한 신호.",
+  "story": {
+    "headline": "벤치 후 가슴이 찌릿?",
+    "body": "벽 푸시업부터<br>천천히 다시 시작!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-02",
+  "created": "2027-03-02-1",
+  "status": "approved",
+  "review_warnings": []
+}

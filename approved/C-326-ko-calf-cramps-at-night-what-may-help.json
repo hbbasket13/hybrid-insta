@@ -1,0 +1,131 @@
+{
+  "id": "C-326-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Calf cramps at night: what may help",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "한밤중 코코의 종아리에<br><em>쥐가 나는 이유</em>",
+      "sub": "하비와 함께 알아보는 밤 쥐 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "새벽 3시,<br><em>종아리가 꽉!</em> 굳었다.",
+      "char": "koala_tired",
+      "bubble": "아야야..<br>또 쥐가 났네..",
+      "bubble_type": "thought",
+      "note": "(다시 잠들기가 쉽지 않은 코코..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비예요.<br>밤에 쥐가 자주 나요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 일주일에<br>몇 번씩이요.."
+      },
+      "note": "하비는 <mark>쥐가 났을 때 대처법</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "쥐가 나면 <em>이렇게!</em>",
+      "fact": "원인은 분명하지 않을 때가 많지만 <em>스트레칭</em>이 도움될 수 있어요",
+      "left": {
+        "label": "발끝 당기기",
+        "char": "koala_happy",
+        "caption": "발끝을 몸 쪽으로<br>당기면 <b>풀리기 쉬워요</b>"
+      },
+      "right": {
+        "label": "발끝 펴기",
+        "char": "koala_tired",
+        "caption": "발끝을 아래로 뻗으면<br><em>더 조일 수 있어요</em>"
+      },
+      "quip": "천천히 당기고<br>살살 걸어봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 자기 전 루틴</b>",
+      "sub": "침대 가기 전에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 벽 짚고 종아리 스트레칭",
+          "color": "yellow",
+          "lines": [
+            "① 벽을 짚고 한 발을 뒤로 빼요.",
+            "② 뒤꿈치는 바닥에, 무릎은 쭉 펴요.",
+            "③ <em>30초 유지 × 2~3회</em>, 양쪽 모두.",
+            "④ 낮에 조금씩 걷는 것도 도움돼요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "종아리가 <em>붓고 뜨겁거나</em> 빨개지면",
+            "스트레칭 말고 바로 GP 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 자꾸 <em>쥐가 난다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "종아리가 붓고 뜨겁다",
+        "잠을 자주 깰 만큼 잦다",
+        "다리 힘이 빠진다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "새벽에 종아리가 꽉 굳어 잠을 깨는 코코. 밤에 나는 쥐는 나이가 들수록 흔해질 수 있어요.\n\n원인은 분명하지 않을 때가 많아요. 쥐가 나면 발끝을 몸 쪽으로 천천히 당기고 살살 걸어보세요.\n\n하비의 자기 전 루틴: 벽 짚고 종아리 스트레칭 30초 × 2~3회, 양쪽 모두. 낮 동안 꾸준히 움직이는 것도 도움이 될 수 있어요.\n\n종아리가 붓고 뜨겁거나, 잠을 자주 깰 만큼 잦거나, 다리 힘이 빠진다면 확인이 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#종아리쥐",
+    "#다리경련",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#시니어건강",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#calfcramps",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 밤에 종아리 쥐가 날 때 대처법, 발끝 당기기 비교, 자기 전 종아리 스트레칭, 확인이 필요한 신호.",
+  "story": {
+    "headline": "밤마다 종아리에 쥐가 난다면?",
+    "body": "자기 전 종아리 스트레칭<br>30초 × 2~3회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-20",
+  "created": "2027-02-20-5",
+  "status": "approved",
+  "review_warnings": []
+}

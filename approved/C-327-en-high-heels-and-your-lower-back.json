@@ -1,0 +1,131 @@
+{
+  "id": "C-327-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "High heels and your lower back",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's lower back<br>aches on <em>high-heel days</em>",
+      "sub": "A high-heel story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Nine hours<br>in <em>9 cm heels</em>.",
+      "char": "cat_tired",
+      "bubble": "Why do my lower back<br>and calves feel so<br>heavy by evening..?",
+      "bubble_type": "thought",
+      "note": "(the shoes come off the second she's home..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back bothering you?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. do I have to<br>give up heels?"
+      },
+      "note": "Hybi explained <mark>how heels change your stance</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Higher heels, more for<br>your body to <em>adjust to</em>",
+      "fact": "Higher heels tend to tip your weight <em>forward</em>",
+      "left": {
+        "label": "Flats to commute",
+        "char": "cat_happy",
+        "caption": "Comfy shoes on the move,<br>body <b>works less</b>"
+      },
+      "right": {
+        "label": "Heels all day",
+        "char": "cat_tired",
+        "caption": "Back and calves<br><em>keep compensating</em>"
+      },
+      "quip": "No need to quit them —<br>just mix it up!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute heel-day reset</b>",
+      "sub": "Try it when you get home!",
+      "sections": [
+        {
+          "heading": "1. Calf + hip stretch",
+          "color": "yellow",
+          "lines": [
+            "① Wall calf stretch, <em>30 sec × 2</em> each side.",
+            "② Half-kneel and stretch the front of the hip.",
+            "③ <em>30 sec each side</em>, on every heel day.",
+            "④ Swap to flatter shoes for the commute."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Back pain <em>spreads down your leg</em>, or",
+            "you feel <em>tingling</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Tingling in the leg",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo spent nine hours in 9 cm heels, and by evening her lower back and calves feel heavy.\n\nHigher heels tend to tip your weight forward, so your back and calves may work harder to keep you balanced. You don't have to give them up: mixing heel heights and wearing comfy shoes on the commute can help.\n\nHybi's heel-day reset: a wall calf stretch and a half-kneeling hip stretch, 30 seconds each side.\n\nPain spreading down a leg, tingling, or no change after two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 👠\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#highheels",
+    "#lowerbackpain",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#chatswood",
+    "#officeworker",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#posture",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why high heels can leave the lower back aching, comparing flats and heels, a calf and hip stretch routine and signs worth getting checked.",
+  "story": {
+    "headline": "Back sore after heel days?",
+    "body": "Calf and hip stretch:<br>30 sec each side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-20",
+  "created": "2027-02-20-6",
+  "status": "approved",
+  "review_warnings": []
+}

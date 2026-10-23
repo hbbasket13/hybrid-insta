@@ -1,0 +1,131 @@
+{
+  "id": "C-341-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for teenage athletes",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's knees ache<br>with <em>all that training</em>",
+      "sub": "A Pilates story for teen athletes",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "School team, club training<br>and <em>weekend games</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why do my knees<br>ache every<br>time I run..?",
+      "bubble_type": "thought",
+      "note": "(two games some weekends..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Training a lot?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Heaps.. should I just<br>train harder?"
+      },
+      "note": "Hybi decided to start with <mark>control and rest</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Steady</em> before<br>stronger",
+      "fact": "Growing bodies need <em>rest days</em> as much as training",
+      "left": {
+        "label": "Control + rest",
+        "char": "rabbit_happy",
+        "caption": "Balance and core work,<br>plus <b>rest days</b>"
+      },
+      "right": {
+        "label": "Full-on daily",
+        "char": "rabbit_tired",
+        "caption": "No rest days,<br><em>flat out every day</em>"
+      },
+      "quip": "Build training load<br>up gradually!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>Pilates for athletes</b>",
+      "sub": "Try it 2–3 times a week!",
+      "sections": [
+        {
+          "heading": "1. Balance and core routine",
+          "color": "yellow",
+          "lines": [
+            "① Single-leg stand, <em>30 sec × 3</em>, each side.",
+            "② Side plank on knees, <em>20 sec × 3</em>.",
+            "③ Bridge, <em>10 reps × 2 sets</em>.",
+            "④ Slow and controlled comes first."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or you start",
+            "to <em>limp</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Limping because of pain",
+        "One bony spot is tender",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "School team, club training and weekend games. Lately Toto's knees ache every time he runs.\n\nGrowing bodies need rest days as much as training. Building load up gradually and working on balance and core control can often help young athletes keep playing comfortably.\n\nHybi's routine: single-leg stand 30 seconds × 3, side plank on knees 20 seconds × 3, bridges 10 reps × 2 sets, 2–3 times a week.\n\nLimping, a tender bony spot, or no change after two weeks is worth an assessment. Parents, chat to our team about clinical Pilates at Hybrid Physio. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#youthsport",
+    "#teenathletes",
+    "#kneepain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneypilates",
+    "#sydneycbdpilates"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining knee aches in teen athletes, control-and-rest versus full-on training, a balance and core routine and signs worth getting checked.",
+  "story": {
+    "headline": "Training hard as a teen?",
+    "body": "Single-leg stand, 30 sec × 3,<br>2–3 times a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-26",
+  "created": "2027-02-26-2",
+  "status": "approved",
+  "review_warnings": []
+}

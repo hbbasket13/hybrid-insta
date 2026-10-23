@@ -1,0 +1,131 @@
+{
+  "id": "C-344-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for nurses on long shifts",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's back aches<br>after <em>a 12-hour shift</em>",
+      "sub": "A long-shift story for nurses, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day <em>on the ward</em>,<br>bending over beds.",
+      "char": "koala_tired",
+      "bubble": "Why do my back<br>and legs feel<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(on the way home, even the feet throb..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Long shift today?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "A long one.. would a<br>massage help?"
+      },
+      "note": "Hybi decided to explain <mark>massage plus shift habits</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Raise the bed<br><em>before you bend</em>",
+      "fact": "A bed at <em>waist height</em> can mean less bending",
+      "left": {
+        "label": "Bed raised",
+        "char": "koala_happy",
+        "caption": "Bed up, and work<br><b>close to the body</b>"
+      },
+      "right": {
+        "label": "Just bending",
+        "char": "koala_tired",
+        "caption": "Low bed,<br><em>bending from the back</em>"
+      },
+      "quip": "One height adjustment<br>can help your back!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute break routine</b>",
+      "sub": "Try it between patients!",
+      "sections": [
+        {
+          "heading": "1. Back and leg reset",
+          "color": "yellow",
+          "lines": [
+            "① Hands on a wall, calf stretch <em>30 sec</em> each.",
+            "② Hands on hips, lean <em>gently back</em> 5 times.",
+            "③ Big backward shoulder rolls <em>× 10</em>.",
+            "④ After shift: an easy walk, then rest."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your leg",
+            "starts to <em>tingle</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "One calf swollen and sore",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko is a nurse. Twelve hours walking the ward and bending over beds, and by the drive home the lower back and feet throb.\n\nBending over a low bed puts a lot on the lower back. Where you can, raising the bed to about waist height and working close to your body can often help.\n\nHybi's 1-minute break routine: calf stretch 30 seconds each side, lean gently back 5 times, 10 big shoulder rolls. Remedial massage can help tight muscles feel easier, alongside regular movement.\n\nLeg numbness, one calf swollen and sore, or no change after two weeks is worth getting checked. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#nurses",
+    "#nurselife",
+    "#shiftwork",
+    "#backpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneymassage",
+    "#sydneycbdmassage"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why long nursing shifts tire the back and legs, raised versus low bed, a 1-minute break routine and signs worth getting checked.",
+  "story": {
+    "headline": "Sore after a long shift?",
+    "body": "Calf stretch, 30 sec each,<br>every break.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-27",
+  "created": "2027-02-27-2",
+  "status": "approved",
+  "review_warnings": []
+}

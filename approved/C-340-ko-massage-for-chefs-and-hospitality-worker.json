@@ -1,0 +1,131 @@
+{
+  "id": "C-340-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for chefs and hospitality workers",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "주방 일 끝나면<br>루루 발과 허리가 <em>욱신</em>",
+      "sub": "셰프·홀 직원의 근육 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 종일 <em>서서 썰고</em>,<br>접시 나르는 루루.",
+      "char": "kanga_tired",
+      "bubble": "발바닥이랑 허리가<br>왜 이렇게<br>욱신거리지..?",
+      "bubble_type": "thought",
+      "note": "(손목과 어깨까지 뻐근..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>바쁜 하루였구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 마사지 받으면<br>좀 풀릴까요?"
+      },
+      "note": "하비는 <mark>마사지와 일하는 요령</mark>을 함께 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "딱딱한 바닥에<br><em>오래 서 있으면</em>",
+      "fact": "체중을 <em>번갈아 옮기면</em> 다리 피로가 덜할 수 있어요",
+      "left": {
+        "label": "자세 바꿔 서기",
+        "char": "kanga_happy",
+        "caption": "발 받침에 한 발씩<br><b>번갈아</b> 올리기"
+      },
+      "right": {
+        "label": "한 자세 고정",
+        "char": "kanga_tired",
+        "caption": "무릎 펴고 한 자세로<br><em>몇 시간씩</em>"
+      },
+      "quip": "작은 움직임이<br>몸을 쉬게 해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 주방 스트레칭</b>",
+      "sub": "휴식 시간에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 손목·종아리 풀기",
+          "color": "yellow",
+          "lines": [
+            "① 팔 펴고 손가락을 <em>뒤로 살짝</em> 당겨 20초.",
+            "② 계단에 발끝 올려 종아리 늘리기 <em>20초</em>.",
+            "③ 어깨 뒤로 크게 돌리기 <em>10회</em>.",
+            "④ 휴식 때마다 한 번씩!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>심해지거나</em>,",
+            "손이 <em>저려온다면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "손가락이 저리다",
+        "밤에 손목 통증이 심하다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "하루 종일 서서 썰고 접시를 나르는 루루. 영업이 끝나면 발바닥, 허리, 손목이 욱신거려요.\n\n딱딱한 바닥에 한 자세로 오래 서 있으면 다리와 허리가 쉽게 지칠 수 있어요. 체중을 번갈아 옮기고 발 받침에 한 발씩 올려 보세요.\n\n하비의 1분 스트레칭: 손목 늘리기 20초, 종아리 늘리기 20초, 어깨 돌리기 10회! 리메디얼 마사지는 뭉친 근육을 푸는 데 도움이 될 수 있고, 꾸준한 움직임과 함께할 때 더 좋아요.\n\n손가락이 저리거나 2주 넘게 나아지지 않으면 평가가 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#셰프",
+    "#요식업",
+    "#손목통증",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#물리치료",
+    "#remedialmassage",
+    "#hospitality",
+    "#chefs"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 주방 일로 발·허리·손목이 지치는 이유, 서는 자세 비교, 1분 스트레칭, 확인이 필요한 신호.",
+  "story": {
+    "headline": "주방 일로 몸이 욱신거린다면?",
+    "body": "손목·종아리 20초씩,<br>휴식 때마다!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-26",
+  "created": "2027-02-26-1",
+  "status": "approved",
+  "review_warnings": []
+}

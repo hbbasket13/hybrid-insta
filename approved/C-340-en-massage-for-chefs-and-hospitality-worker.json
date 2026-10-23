@@ -1,0 +1,131 @@
+{
+  "id": "C-340-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for chefs and hospitality workers",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu aches<br>after <em>a kitchen shift</em>",
+      "sub": "A chef and hospo muscle story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day <em>chopping</em><br>and carrying plates.",
+      "char": "kanga_tired",
+      "bubble": "Why do my feet<br>and back ache<br>so much..?",
+      "bubble_type": "thought",
+      "note": "(the wrists and shoulders feel it too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Busy service tonight?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Flat out.. would a<br>massage help?"
+      },
+      "note": "Hybi decided to explain <mark>massage plus shift habits</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Standing still on<br><em>hard floors</em> adds up",
+      "fact": "<em>Shifting your weight</em> can ease tired legs",
+      "left": {
+        "label": "Shift and move",
+        "char": "kanga_happy",
+        "caption": "Rest one foot on a<br>low step, <b>swap often</b>"
+      },
+      "right": {
+        "label": "Locked in place",
+        "char": "kanga_tired",
+        "caption": "Knees locked, same spot<br><em>for hours</em>"
+      },
+      "quip": "Small movements<br>give muscles a break!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute kitchen stretch</b>",
+      "sub": "Try it on your break!",
+      "sections": [
+        {
+          "heading": "1. Wrist and calf reset",
+          "color": "yellow",
+          "lines": [
+            "① Arm out, gently draw fingers <em>back</em>, 20 sec.",
+            "② Toes on a step, calf stretch <em>20 sec</em>.",
+            "③ Big backward shoulder rolls <em>× 10</em>.",
+            "④ Repeat every break."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your hand",
+            "starts to <em>tingle</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in the fingers",
+        "Wrist pain at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu spends every shift chopping, plating and carrying trays. After service, the feet, back and wrists ache.\n\nStanding in one spot on hard floors for hours can tire the legs and back. Shifting your weight, resting one foot on a low step and wearing supportive shoes can often help.\n\nHybi's 1-minute stretch: wrist stretch for 20 seconds, calf stretch for 20 seconds, 10 big shoulder rolls, every break. Remedial massage can help tight muscles feel easier, alongside regular movement.\n\nTingling fingers, wrist pain at night, or no change after two weeks is worth an assessment. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#chefs",
+    "#hospitality",
+    "#hospolife",
+    "#wristpain",
+    "#backpain",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneymassage",
+    "#chatswoodmassage"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why kitchen shifts tire the feet, back and wrists, a standing comparison, a 1-minute stretch and signs worth getting checked.",
+  "story": {
+    "headline": "Aching after a kitchen shift?",
+    "body": "Wrist and calf stretch,<br>20 sec, every break.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-26",
+  "created": "2027-02-26-4",
+  "status": "approved",
+  "review_warnings": []
+}

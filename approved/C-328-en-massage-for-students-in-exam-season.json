@@ -1,0 +1,131 @@
+{
+  "id": "C-328-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for students in exam season",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's shoulders<br><em>seize up</em> in exam season",
+      "sub": "An exam-season story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Three weeks to exams,<br><em>glued</em> to the desk.",
+      "char": "turtle_sad",
+      "bubble": "My shoulders feel<br>like rocks..",
+      "bubble_type": "thought",
+      "note": "(the more he studies, the higher his shoulders creep..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Exams coming up?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. would a massage<br>help at all?"
+      },
+      "note": "Hybi suggested <mark>massage and movement together</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Breaks</em> are part of study!",
+      "fact": "Long stretches in one position can leave muscles <em>stiff</em>",
+      "left": {
+        "label": "Regular breaks",
+        "char": "turtle_happy",
+        "caption": "Up every 30–45 min,<br>body gets to <b>reset</b>"
+      },
+      "right": {
+        "label": "Hours on end",
+        "char": "turtle_sad",
+        "caption": "Neck and shoulders<br><em>tend to tense up</em>"
+      },
+      "quip": "Massage plus movement<br>works well together!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute study break</b>",
+      "sub": "Set a timer and try it!",
+      "sections": [
+        {
+          "heading": "1. Shoulder reset",
+          "color": "yellow",
+          "lines": [
+            "① Stand up every 30–45 minutes.",
+            "② Roll your shoulders back, <em>10 big circles</em>.",
+            "③ Chin tuck, <em>5 sec × 5</em>.",
+            "④ Grab a glass of water, then back to it!"
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Headaches get <em>worse</em>, or your arm",
+            "or hand <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em> after exams?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Frequent headaches",
+        "Arm or hand tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle has been glued to his desk for weeks of exam prep, and his shoulders feel like rocks.\n\nLong stretches in one position can leave muscles stiff. Remedial massage can help you feel less tense and more comfortable, and it works well alongside regular movement breaks rather than replacing them.\n\nHybi's study break: stand up every 30–45 minutes, roll your shoulders back 10 times and do 5 chin tucks.\n\nFrequent headaches, tingling in the arm, or no change after two weeks are worth an assessment. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio 📚\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#examseason",
+    "#studentlife",
+    "#studytips",
+    "#neckpain",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#chatswood",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why shoulders tighten in exam season, comparing regular breaks with long sessions, a 1-minute study break and signs worth getting checked.",
+  "story": {
+    "headline": "Exam-season shoulders like rocks?",
+    "body": "Every 45 min:<br>10 shoulder rolls.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-22",
+  "created": "2027-02-22-4",
+  "status": "approved",
+  "review_warnings": []
+}

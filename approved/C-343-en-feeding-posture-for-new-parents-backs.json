@@ -1,0 +1,131 @@
+{
+  "id": "C-343-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Feeding posture for new parents' backs",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's neck aches<br>after <em>every feed</em>",
+      "sub": "A feeding-posture story for new parents",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Feed after feed</em>,<br>day and night.",
+      "char": "kanga_tired",
+      "bubble": "Why are my neck<br>and back<br>so sore..?",
+      "bubble_type": "thought",
+      "note": "(after the 3am feed, the lower back too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>New baby at home?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yes.. is it normal<br>to feel this sore?"
+      },
+      "note": "Hybi decided to start with <mark>the feeding set-up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Bring baby <em>up to you</em>,<br>not you down to baby",
+      "fact": "Raising baby on a pillow can <em>ease neck strain</em>",
+      "left": {
+        "label": "Supported",
+        "char": "kanga_happy",
+        "caption": "Baby on a pillow,<br>back <b>against the chair</b>"
+      },
+      "right": {
+        "label": "Hunched over",
+        "char": "kanga_tired",
+        "caption": "Head down,<br><em>back rounded</em>"
+      },
+      "quip": "A supported body<br>can feel much easier!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>feeding set-up</b>",
+      "sub": "Try it at the next feed!",
+      "sections": [
+        {
+          "heading": "1. Set-up checklist",
+          "color": "yellow",
+          "lines": [
+            "① A <em>pillow</em> under baby, to chest height.",
+            "② A <em>small cushion</em> behind your lower back.",
+            "③ Feet flat, or on a <em>low stool</em>.",
+            "④ After the feed, shoulder rolls <em>× 10</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your arm",
+            "or hand <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm or hand tingling",
+        "Pain waking you at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Feed after feed, day and night. After the 3am feed, Lulu's neck, upper back and lower back feel sore.\n\nLeaning down towards baby means the neck and back hold that position for a long time. Raising baby on a pillow to chest height, and supporting your back and feet, can often feel much easier.\n\nHybi's set-up: pillow under baby, a small cushion behind your lower back, feet on a low stool, then 10 shoulder rolls after each feed.\n\nArm or hand tingling, pain waking you at night, or no change after two weeks is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#newparents",
+    "#newmum",
+    "#newdad",
+    "#feedingposture",
+    "#neckpain",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneychiro",
+    "#chatswoodchiro"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why feeding can strain the neck and back, supported versus hunched posture, a feeding set-up and signs worth getting checked.",
+  "story": {
+    "headline": "Sore neck after feeds?",
+    "body": "Bring baby up to you<br>on a pillow.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-27",
+  "created": "2027-02-27-4",
+  "status": "approved",
+  "review_warnings": []
+}

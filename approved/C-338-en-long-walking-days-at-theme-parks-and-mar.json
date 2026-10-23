@@ -1,0 +1,131 @@
+{
+  "id": "C-338-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Long walking days at theme parks and markets",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's back aches<br>after <em>a big day out</em>",
+      "sub": "A long-walking-day story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day at <em>theme parks</em><br>and <em>markets</em>.",
+      "char": "koala_tired",
+      "bubble": "Why do my feet<br>and back feel<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(by home time, the legs feel puffy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Lots of walking?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. and we're going<br>again next week!"
+      },
+      "note": "Hybi decided to share some <mark>long-walk-day tips</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Pace yourself</em><br>to go the distance",
+      "fact": "A short <em>sit-down</em> about once an hour can help",
+      "left": {
+        "label": "Walk and rest",
+        "char": "koala_happy",
+        "caption": "Comfy shoes, plus<br>regular <b>sit breaks</b>"
+      },
+      "right": {
+        "label": "Non-stop",
+        "char": "koala_tired",
+        "caption": "New shoes and<br><em>no breaks all day</em>"
+      },
+      "quip": "Pace matters more<br>than speed!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>long-walk-day plan</b>",
+      "sub": "Check before you head out!",
+      "sections": [
+        {
+          "heading": "1. Walking-day routine",
+          "color": "yellow",
+          "lines": [
+            "① Wear <em>comfy, worn-in</em> shoes.",
+            "② Sit for <em>5 minutes</em> about every hour.",
+            "③ On breaks, calf stretch <em>20 sec × 2</em>.",
+            "④ Evening: an easy stroll, then rest."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your leg",
+            "starts to <em>tingle</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "One leg swollen and sore",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko spent the whole day at a theme park, then wandered the markets. By home time, the feet and back feel heavy.\n\nOn long walking days, regular short breaks often help more than pushing on. Comfy, worn-in shoes and a sit-down about once an hour can make a real difference to how you feel that evening.\n\nHybi's plan: worn-in shoes, a 5-minute sit roughly every hour, calf stretches on breaks, and an easy stroll and rest in the evening.\n\nLeg numbness, one leg swollen and sore, or no change after two weeks is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#sydneychiro",
+    "#backpain",
+    "#footpain",
+    "#walking",
+    "#travelhealth",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#chatswoodchiro",
+    "#physiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why long walking days tire the feet and back, a rest-versus-non-stop comparison, a walking-day routine and signs worth getting checked.",
+  "story": {
+    "headline": "Big day out ahead?",
+    "body": "Sit for 5 minutes<br>about every hour.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-25",
+  "created": "2027-02-25-2",
+  "status": "approved",
+  "review_warnings": []
+}

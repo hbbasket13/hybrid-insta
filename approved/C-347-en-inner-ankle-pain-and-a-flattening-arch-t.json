@@ -1,0 +1,131 @@
+{
+  "id": "C-347-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Inner ankle pain and a flattening arch (tibialis posterior)",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's inner ankle<br>feels <em>sore lately</em>",
+      "sub": "An inner ankle tendon story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko has been <em>walking</em><br>a lot more lately.",
+      "char": "koala_tired",
+      "bubble": "Why is the inside<br>of my ankle<br>so sore..?",
+      "bubble_type": "thought",
+      "note": "(and one arch looks a little flatter..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Inner ankle sore?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. is it just<br>my age catching up?"
+      },
+      "note": "Hybi explained what <mark>the inner ankle tendon</mark> does."
+    },
+    {
+      "kind": "compare",
+      "title": "A <em>tendon</em> helps hold<br>up your arch!",
+      "fact": "Tib posterior tendon <em>helps support your arch</em>",
+      "left": {
+        "label": "Build up slowly",
+        "char": "koala_happy",
+        "caption": "Add walking gradually,<br>the tendon <b>adapts</b>"
+      },
+      "right": {
+        "label": "Big jump in load",
+        "char": "koala_tired",
+        "caption": "A sudden jump can<br><em>irritate</em> the tendon"
+      },
+      "quip": "Load tweaks and strength<br>are usually step one!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute ankle strength</b>",
+      "sub": "Stay in a comfortable range!",
+      "sections": [
+        {
+          "heading": "1. Double-leg heel raise",
+          "color": "yellow",
+          "lines": [
+            "① Hold a wall or chair, stand tall.",
+            "② Rise onto your toes, ankles <em>not rolling out</em>.",
+            "③ Lower <em>slowly over 3 sec</em>.",
+            "④ <em>10 reps × 2 sets</em>, once a day."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or the ankle",
+            "starts to <em>swell</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "One arch flattening",
+        "Can't rise on one foot",
+        "Swelling at the inner ankle"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko has been walking a lot more lately. Now the inside of her ankle is sore, and one arch looks a little flatter.\n\nThe tibialis posterior tendon runs past the inner ankle and helps support the arch. A sudden jump in walking can irritate it. Adjusting load, supportive shoes and strength work are usually the first steps.\n\nHybi's 1-minute routine: holding a wall, rise onto your toes and lower slowly over 3 seconds, 10 reps × 2 sets. Stop if pain gets worse.\n\nOne arch flattening, trouble rising onto one foot, or swelling is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#anklepain",
+    "#footpain",
+    "#flatfeet",
+    "#walking",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#activeageing",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining how the inner ankle tendon supports the arch, a walking load comparison, a 1-minute heel raise and signs worth getting checked.",
+  "story": {
+    "headline": "Sore inner ankle?",
+    "body": "Heel raises: 10 reps × 2,<br>lower slowly.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-01",
+  "created": "2027-03-01-2",
+  "status": "approved",
+  "review_warnings": []
+}

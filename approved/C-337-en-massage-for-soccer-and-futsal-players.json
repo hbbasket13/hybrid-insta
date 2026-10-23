@@ -1,0 +1,131 @@
+{
+  "id": "C-337-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for soccer and futsal players",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's legs feel<br><em>tight after the game</em>",
+      "sub": "A football and futsal recovery story",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every weekend:<br><em>football and futsal</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why are my calves<br>and hammies<br>so tight..?",
+      "bubble_type": "thought",
+      "note": "(walking downstairs is the worst..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big game today?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep.. will a massage<br>loosen it all up?"
+      },
+      "note": "Hybi decided to share a simple <mark>recovery routine</mark> too."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage <em>supports</em><br>your training",
+      "fact": "Massage <em>complements</em> warm-ups and strength work",
+      "left": {
+        "label": "Ease in and out",
+        "char": "rabbit_happy",
+        "caption": "Ease in before,<br>wind down <b>slowly</b> after"
+      },
+      "right": {
+        "label": "Cold start",
+        "char": "rabbit_tired",
+        "caption": "Sprint from cold,<br><em>stop dead</em> at the end"
+      },
+      "quip": "Massage is a helper,<br>not the whole plan!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>post-game cool-down</b>",
+      "sub": "Right after the final whistle!",
+      "sections": [
+        {
+          "heading": "1. Cool-down routine",
+          "color": "yellow",
+          "lines": [
+            "① Easy jog or walk for <em>5 minutes</em>.",
+            "② Calf stretch against a wall, <em>30 sec × 2</em>.",
+            "③ Hamstring stretch, <em>30 sec × 2</em>, each side.",
+            "④ Drink water and get a good sleep."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel a <em>sharp pain</em>, or start",
+            "to <em>limp</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A 'pop' with sudden pain",
+        "Swelling or bruising",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto plays football and futsal every weekend. The day after, the calves and hamstrings feel tight.\n\nRemedial massage can help tight muscles feel easier after a game. It works alongside warm-ups, cool-downs and strength work, not instead of them.\n\nHybi's cool-down: 5 minutes of easy jogging or walking, calf and hamstring stretches for 30 seconds × 2 each side, then water and a good sleep. Stop if you feel a sharp pain or start to limp.\n\nA pop with sudden pain, swelling or bruising, or no change after two weeks is worth an assessment. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#football",
+    "#futsal",
+    "#sportsmassage",
+    "#recovery",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneymassage",
+    "#chatswoodmassage"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining post-game leg tightness, warm-up versus cold-start, a cool-down routine and signs worth getting checked.",
+  "story": {
+    "headline": "Legs tight after the game?",
+    "body": "Calf stretch, 30 sec × 2,<br>right after full-time.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-25",
+  "created": "2027-02-25-4",
+  "status": "approved",
+  "review_warnings": []
+}

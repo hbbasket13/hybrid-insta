@@ -1,0 +1,131 @@
+{
+  "id": "C-339-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "A hotel-room Pilates routine for travellers",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo feels <em>stiff</em><br>every time she travels",
+      "sub": "A hotel-room Pilates story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Long flights and<br><em>unfamiliar beds</em>.",
+      "char": "cat_tired",
+      "bubble": "Why are my back<br>and hips<br>so stiff..?",
+      "bubble_type": "thought",
+      "note": "(every morning starts creaky..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Just back from a trip?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yes.. there's never<br>anywhere to exercise."
+      },
+      "note": "Hybi decided to share a <mark>one-towel routine</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A little, <em>every day</em>,<br>goes a long way",
+      "fact": "A towel and <em>10 minutes</em> can get you moving",
+      "left": {
+        "label": "10 min daily",
+        "char": "cat_happy",
+        "caption": "Short and steady,<br><b>every day</b>"
+      },
+      "right": {
+        "label": "All at once",
+        "char": "cat_tired",
+        "caption": "Nothing all trip,<br>then <em>one big session</em>"
+      },
+      "quip": "Little and often<br>can feel easier!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>hotel-room Pilates</b>",
+      "sub": "All you need is a towel!",
+      "sections": [
+        {
+          "heading": "1. 10-minute routine",
+          "color": "yellow",
+          "lines": [
+            "① Cat-cow on hands and knees, <em>slowly × 8</em>.",
+            "② Lying down, pelvic tilts <em>× 10</em>.",
+            "③ Bridge, hold <em>3 sec × 10 reps</em>.",
+            "④ Side-lying leg lifts, <em>10 each side</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your leg",
+            "starts to <em>tingle</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Swollen, sore calf",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Long flights and unfamiliar hotel beds. Every morning on the road, Momo's back and hips feel stiff.\n\nWhile travelling, a short routine every day often feels easier on the body than doing nothing and then one big session.\n\nHybi's hotel-room Pilates, on a towel: cat-cow 8 times, pelvic tilts 10, bridge holding 3 seconds for 10 reps, and side-lying leg lifts, 10 each side. About 10 minutes all up.\n\nLeg numbness, a sore and swollen calf after a flight, or no change after two weeks is worth getting checked. Clinical Pilates at Hybrid Physio can help you build a routine. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#travelfitness",
+    "#hotelworkout",
+    "#backpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneypilates",
+    "#sydneycbdpilates"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining travel stiffness, little-and-often versus one big session, a 10-minute hotel-room Pilates routine and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff on the road?",
+    "body": "One towel, 10 minutes,<br>hotel-room Pilates.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-25",
+  "created": "2027-02-25-6",
+  "status": "approved",
+  "review_warnings": []
+}

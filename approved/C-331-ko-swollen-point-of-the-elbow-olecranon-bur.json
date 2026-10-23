@@ -1,0 +1,131 @@
+{
+  "id": "C-331-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Swollen point of the elbow (olecranon bursitis)",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "루루의 팔꿈치가<br><em>볼록 부은 이유</em>",
+      "sub": "하비와 함께 알아보는 팔꿈치 점액낭 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 종일 <em>팔꿈치를 대고</em><br>일하는 루루.",
+      "char": "kanga_tired",
+      "bubble": "어? 팔꿈치 끝이<br>왜 이렇게<br>볼록하지..?",
+      "bubble_type": "thought",
+      "note": "(물렁하게 부어서 깜짝 놀란 루루..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비예요.<br>팔꿈치가 부었어요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 많이 아프진<br>않은데 신경 쓰여요.."
+      },
+      "note": "하비는 <mark>팔꿈치 끝의 작은 쿠션</mark> 이야기를 꺼냈다."
+    },
+    {
+      "kind": "compare",
+      "title": "팔꿈치 끝엔 <em>작은 쿠션</em>이 있어요",
+      "fact": "반복해서 기대거나 부딪히면 이 쿠션(점액낭)이 <em>부을 수</em> 있어요",
+      "left": {
+        "label": "압박 줄이기",
+        "char": "kanga_happy",
+        "caption": "패드를 대고 기대지<br>않으면 <b>편해져요</b>"
+      },
+      "right": {
+        "label": "계속 기대기",
+        "char": "kanga_tired",
+        "caption": "같은 곳이 눌려<br><em>자극이 계속돼요</em>"
+      },
+      "quip": "먼저 누르는 걸<br>줄여봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>팔꿈치 쉬게 하기</b>",
+      "sub": "오늘부터 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 압박 줄이기",
+          "color": "yellow",
+          "lines": [
+            "① 팔꿈치로 <em>기대는 습관</em>을 줄여요.",
+            "② 무릎·바닥 작업 땐 <em>팔꿈치 패드</em> 착용.",
+            "③ 냉찜질(수건에 싸서) <em>10~15분</em>씩.",
+            "④ 팔은 편하게 움직여도 괜찮아요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "<em>빨갛고 뜨겁거나</em> 열이 나거나 상처가",
+            "있다면 바로 GP 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "붓기가 <em>계속된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "빨갛고 뜨겁다",
+        "열이 나거나 몸이 처진다",
+        "붓기가 점점 커진다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "하루 종일 팔꿈치를 대고 일하는 루루. 어느 날 팔꿈치 끝이 볼록하게 부었어요.\n\n팔꿈치 끝에는 작은 쿠션 역할을 하는 점액낭이 있어요. 반복해서 기대거나 부딪히면 이곳이 부을 수 있어요.\n\n하비의 팁: 팔꿈치로 기대는 습관 줄이기, 작업할 땐 팔꿈치 패드, 수건에 싼 냉찜질 10~15분.\n\n빨갛고 뜨겁거나, 열이 나거나, 상처가 있거나, 붓기가 점점 커진다면 감염 가능성도 있으니 바로 GP 확인이 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#팔꿈치통증",
+    "#점액낭염",
+    "#현장직",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#elbowpain",
+    "#tradie"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 팔꿈치 끝이 붓는 이유, 압박 줄이기 비교, 팔꿈치 쉬게 하는 방법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "팔꿈치 끝이 볼록 부었다면?",
+    "body": "기대지 않기 + 패드,<br>냉찜질 10~15분!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-23",
+  "created": "2027-02-23-1",
+  "status": "approved",
+  "review_warnings": []
+}

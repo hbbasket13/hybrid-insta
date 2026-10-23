@@ -1,0 +1,131 @@
+{
+  "id": "C-327-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "High heels and your lower back",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하이힐 신은 날,<br>모모의 <em>허리가 뻐근한 이유</em>",
+      "sub": "하비와 함께 알아보는 하이힐 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "출근부터 퇴근까지<br><em>9cm 힐</em>로 버틴 모모.",
+      "char": "cat_tired",
+      "bubble": "왜 저녁만 되면<br>허리랑 종아리가<br>묵직하지..?",
+      "bubble_type": "thought",
+      "note": "(집에 오면 신발부터 벗어 던지는 모모..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비예요.<br>허리가 불편해요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 힐을 아예<br>끊어야 할까요?"
+      },
+      "note": "하비는 <mark>힐이 몸에 주는 변화</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "굽이 높을수록 <em>몸이 적응해요</em>",
+      "fact": "굽이 높으면 체중이 <em>앞쪽</em>으로 쏠리기 쉬워요",
+      "left": {
+        "label": "낮은 굽 출퇴근",
+        "char": "cat_happy",
+        "caption": "이동할 땐 편한 신발,<br>몸이 <b>덜 버텨요</b>"
+      },
+      "right": {
+        "label": "하루 종일 힐",
+        "char": "cat_tired",
+        "caption": "허리·종아리가<br><em>계속 버텨야 해요</em>"
+      },
+      "quip": "끊기보다는<br>번갈아 신어봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 힐 데이 루틴</b>",
+      "sub": "퇴근 후 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 종아리 + 고관절 스트레칭",
+          "color": "yellow",
+          "lines": [
+            "① 벽 짚고 종아리 늘리기 <em>30초 × 2회</em>.",
+            "② 한쪽 무릎 꿇고 골반 앞쪽 늘리기.",
+            "③ 각 <em>30초씩 양쪽</em>, 힐 신은 날마다.",
+            "④ 출퇴근 땐 낮은 신발로 바꿔 신기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "허리 통증이 <em>다리로 뻗치거나</em>",
+            "<em>저림</em>이 있다면 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 허리가 <em>계속 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "통증이 다리로 뻗친다",
+        "다리가 저리다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "하루 종일 9cm 힐을 신은 모모. 저녁이 되면 허리와 종아리가 묵직해요.\n\n굽이 높을수록 체중이 앞쪽으로 쏠리기 쉬워서, 몸은 허리와 종아리로 균형을 맞추려 할 수 있어요. 힐을 꼭 끊기보다는 굽 높이를 번갈아 신고, 이동할 땐 편한 신발을 신는 게 도움이 될 수 있어요.\n\n하비의 루틴: 종아리 스트레칭과 골반 앞쪽 스트레칭, 각 30초씩 양쪽.\n\n통증이 다리로 뻗치거나 저림이 있거나 2주 넘게 그대로라면 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 👠\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#하이힐",
+    "#허리통증",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#chiropractor",
+    "#sydneychiro",
+    "#lowerbackpain",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 하이힐을 신은 날 허리가 뻐근한 이유, 굽 높이 비교, 종아리·고관절 스트레칭, 확인이 필요한 신호.",
+  "story": {
+    "headline": "힐 신은 날 허리가 뻐근하다면?",
+    "body": "종아리·골반 스트레칭<br>각 30초씩!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-20",
+  "created": "2027-02-20-3",
+  "status": "approved",
+  "review_warnings": []
+}

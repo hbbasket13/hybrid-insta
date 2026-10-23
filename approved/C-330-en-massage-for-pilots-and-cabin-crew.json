@@ -1,0 +1,131 @@
+{
+  "id": "C-330-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for pilots and cabin crew",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle feels<br><em>heavy after a flight</em>",
+      "sub": "A massage story for pilots and cabin crew",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "New cabin crew,<br>straight off a <em>long-haul</em>.",
+      "char": "turtle_sad",
+      "bubble": "Swollen legs,<br>stiff shoulders..",
+      "bubble_type": "thought",
+      "note": "(pushing carts, lifting bags, and jet lag too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Just off a flight?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. would a massage<br>loosen me up?"
+      },
+      "note": "Hybi suggested <mark>massage plus moving on board</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Keep moving, <em>even on board!</em>",
+      "fact": "Long hours sitting or standing can leave legs <em>heavy</em>",
+      "left": {
+        "label": "Moving often",
+        "char": "turtle_happy",
+        "caption": "Working the calves<br>helps legs <b>feel lighter</b>"
+      },
+      "right": {
+        "label": "Same position",
+        "char": "turtle_sad",
+        "caption": "Legs and back<br><em>tire quickly</em>"
+      },
+      "quip": "Massage plus movement<br>works well together!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute in-flight routine</b>",
+      "sub": "Try it in the galley!",
+      "sections": [
+        {
+          "heading": "1. Wake up legs and shoulders",
+          "color": "yellow",
+          "lines": [
+            "① Slow calf raises, <em>10 reps</em>.",
+            "② Ankle circles, <em>10 each side</em>.",
+            "③ Lift bags <em>close to your body</em>.",
+            "④ Repeat on each break."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "One calf is <em>swollen, sore or warm</em> —",
+            "skip the massage and see your GP promptly."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> after flying?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "One calf swelling up",
+        "Arm or hand tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle has just started as cabin crew, and after a long-haul his legs feel swollen and his shoulders stiff.\n\nLong hours standing or sitting, pushing carts and lifting bags overhead can leave the body worn out. Remedial massage can help ease muscle tension, and it works well alongside moving regularly on board.\n\nHybi's in-flight routine: 10 slow calf raises, 10 ankle circles each side, and keep bags close when lifting.\n\nIf one calf is swollen, sore or warm, skip the massage and see your GP promptly. Our remedial massage therapists at Hybrid Physio can help with the rest. Book online via the link in bio ✈️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#cabincrew",
+    "#pilotlife",
+    "#flightattendant",
+    "#aviation",
+    "#sydneymassage",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#shoulderpain",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why cabin crew can feel heavy after flights, comparing moving on board with staying still, a 1-minute in-flight routine and signs worth getting checked.",
+  "story": {
+    "headline": "Heavy legs after a flight?",
+    "body": "10 calf raises,<br>10 ankle circles.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-22",
+  "created": "2027-02-22-6",
+  "status": "approved",
+  "review_warnings": []
+}

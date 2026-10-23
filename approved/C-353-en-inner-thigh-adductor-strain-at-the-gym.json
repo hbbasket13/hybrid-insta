@@ -1,0 +1,131 @@
+{
+  "id": "C-353-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Inner thigh (adductor) strain at the gym",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "A <em>twinge</em> in the<br>inner thigh at the gym?",
+      "sub": "An adductor strain story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lulu felt a <em>twinge</em><br>mid side lunge.",
+      "char": "kanga_tired",
+      "bubble": "Inner thigh's sore..<br>should I just<br>stretch it hard?",
+      "bubble_type": "thought",
+      "note": "(even walking pulls a bit in the groin..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Inner thigh sore?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. won't a big<br>stretch loosen it?"
+      },
+      "note": "Hybi suggested <mark>gentle reloading over hard stretching</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Early on, <em>gentle loading</em><br>beats hard stretching!",
+      "fact": "The adductors bring your legs together and <em>steady the pelvis</em>",
+      "left": {
+        "label": "Gradual return",
+        "char": "kanga_happy",
+        "caption": "Gentle squeezes first,<br>then <b>build slowly</b>"
+      },
+      "right": {
+        "label": "Big stretches",
+        "char": "kanga_tired",
+        "caption": "Hard stretching early<br>can <em>irritate it</em>"
+      },
+      "quip": "Mild discomfort only,<br>build up bit by bit!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute adductor return</b>",
+      "sub": "Mild discomfort only!",
+      "sections": [
+        {
+          "heading": "1. Ball squeeze",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, ball or pillow between knees.",
+            "② Squeeze <em>gently</em> (mild discomfort at most).",
+            "③ Hold <em>5–10 sec × 5–10 reps</em>, twice a day.",
+            "④ Over weeks, work back <em>towards lunges</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or you start",
+            "<em>limping</em> when you walk — stop and ask."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A pop with bruising",
+        "Limping when walking",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu felt a twinge in the inner thigh during side lunges, and now even walking pulls a little in the groin.\n\nThe adductors bring your legs together and help steady the pelvis. Stretching hard straight after a strain can irritate it, so gentle squeezes and a gradual return to load are usually more helpful.\n\nHybi's 1-minute return: ball squeeze between the knees, hold 5–10 seconds, 5–10 reps, twice a day. Work back towards lunges over a few weeks.\n\nA pop with bruising, limping, or no change after two weeks is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#groinstrain",
+    "#adductors",
+    "#gyminjury",
+    "#strengthtraining",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#gymlife",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining inner thigh adductor strain, a gradual return versus hard stretching comparison, a 1-minute ball squeeze and signs worth getting checked.",
+  "story": {
+    "headline": "Inner thigh twinge?",
+    "body": "Start with gentle<br>ball squeezes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-03",
+  "created": "2027-03-03-2",
+  "status": "approved",
+  "review_warnings": []
+}

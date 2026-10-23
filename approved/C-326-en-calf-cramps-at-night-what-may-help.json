@@ -1,0 +1,131 @@
+{
+  "id": "C-326-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Calf cramps at night: what may help",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's calf <em>cramps</em><br>in the middle of the night",
+      "sub": "A night-cramp story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "3am, and her calf<br>is <em>locked tight</em>.",
+      "char": "koala_tired",
+      "bubble": "Ouch.. not again..",
+      "bubble_type": "thought",
+      "note": "(getting back to sleep is the hard part..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Cramps waking you up?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. a few<br>nights a week.."
+      },
+      "note": "Hybi started with <mark>what to do when one hits</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "When a cramp hits, <em>try this!</em>",
+      "fact": "The cause is often unclear, but <em>stretching</em> can help",
+      "left": {
+        "label": "Toes pulled up",
+        "char": "koala_happy",
+        "caption": "Pulling toes towards you<br>often <b>eases it</b>"
+      },
+      "right": {
+        "label": "Toes pointed",
+        "char": "koala_tired",
+        "caption": "Pointing toes down<br>can <em>tighten it more</em>"
+      },
+      "quip": "Pull gently, then take<br>a few slow steps!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute bedtime calf stretch</b>",
+      "sub": "Try it before you hop into bed!",
+      "sections": [
+        {
+          "heading": "1. Wall calf stretch",
+          "color": "yellow",
+          "lines": [
+            "① Hands on a wall, step one foot back.",
+            "② Back heel down, back knee straight.",
+            "③ Hold <em>30 sec × 2–3</em>, both sides.",
+            "④ Gentle walking during the day can help too."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your calf is <em>swollen, warm or red</em> —",
+            "skip the stretch and see your GP promptly."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>cramping</em> most nights?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Calf swollen or warm",
+        "Waking you most nights",
+        "Legs feeling weak"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko keeps waking at 3am with a calf locked tight. Night cramps are common, and they can become more frequent as we get older.\n\nThe exact cause is often unclear. When one hits, gently pull your toes towards you and take a few slow steps.\n\nHybi's bedtime routine: a wall calf stretch, 30 seconds, 2–3 times each side. Staying active through the day can help too.\n\nA swollen or warm calf, cramps waking you most nights, or legs feeling weak are worth getting checked. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#calfcramps",
+    "#nightcramps",
+    "#legcramps",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#healthyageing",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining night calf cramps, what to do when one hits, a bedtime calf stretch and signs worth getting checked.",
+  "story": {
+    "headline": "Calf cramps waking you up?",
+    "body": "Wall calf stretch:<br>30 sec × 2–3 before bed.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-20",
+  "created": "2027-02-20-2",
+  "status": "approved",
+  "review_warnings": []
+}

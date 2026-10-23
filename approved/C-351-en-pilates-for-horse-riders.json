@@ -1,0 +1,131 @@
+{
+  "id": "C-351-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for horse riders",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's back aches<br><em>after riding</em>",
+      "sub": "Pilates for horse riders, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo has fallen for<br><em>riding lessons</em>.",
+      "char": "cat_tired",
+      "bubble": "Why is my lower back<br>so stiff when I<br>hop off..?",
+      "bubble_type": "thought",
+      "note": "(and one leg always seems to work harder..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>New to riding?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yes.. I'm so bendy,<br>why am I stiff?"
+      },
+      "note": "Hybi said <mark>trunk control</mark> matters as much as bendiness."
+    },
+    {
+      "kind": "compare",
+      "title": "Your trunk has to<br><em>move with the horse</em>!",
+      "fact": "Your trunk follows the horse: <em>steady, not stiff</em>",
+      "left": {
+        "label": "Steady centre",
+        "char": "cat_happy",
+        "caption": "Trunk follows the horse,<br>moving <b>smoothly</b>"
+      },
+      "right": {
+        "label": "Gripping hard",
+        "char": "cat_tired",
+        "caption": "Back and hips lock up,<br><em>tire faster</em>"
+      },
+      "quip": "Train both sides<br>evenly, too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute rider Pilates</b>",
+      "sub": "Three times a week, nice and slow!",
+      "sections": [
+        {
+          "heading": "1. Bird dog",
+          "color": "yellow",
+          "lines": [
+            "① On hands and knees, back in neutral.",
+            "② Reach opposite arm and leg <em>long</em>.",
+            "③ Keep the pelvis <em>level</em>, hold 3 sec.",
+            "④ <em>8 each side</em>, 3 times a week."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Back pain gets <em>worse</em>, or tingling",
+            "<em>runs down the leg</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain after a fall",
+        "Tingling down a leg",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo has fallen for riding lessons, but her lower back and hips feel stiff every time she hops off.\n\nRiding asks your trunk to follow the horse's movement, steady but not stiff. Trunk control and side-to-side balance matter as much as flexibility, and Pilates can be a helpful way to practise them.\n\nHybi's 1-minute routine: bird dog, pelvis level, hold 3 seconds, 8 each side, 3 times a week. Stop if pain gets worse.\n\nPain after a fall, tingling down a leg, or no change after two weeks is worth an assessment. Clinical Pilates at Hybrid Physio can help you build a plan. Book online via the link in bio 🐎\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#horseriding",
+    "#equestrian",
+    "#riderfitness",
+    "#corestrength",
+    "#lowerbackpain",
+    "#sydneypilates",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo showing why riders need trunk control, a steady versus gripping comparison, a 1-minute bird dog routine and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff back after riding?",
+    "body": "Bird dog: 8 each side,<br>3 times a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-02",
+  "created": "2027-03-02-6",
+  "status": "approved",
+  "review_warnings": []
+}

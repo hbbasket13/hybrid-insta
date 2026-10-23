@@ -1,0 +1,131 @@
+{
+  "id": "C-325-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for musicians",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's shoulders ache<br>after <em>practice</em>",
+      "sub": "A Pilates story for musicians, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Four hours</em> a day<br>with her violin.",
+      "char": "cat_tired",
+      "bubble": "Why do my shoulders<br>and upper back ache<br>after practice..?",
+      "bubble_type": "thought",
+      "note": "(the week before a concert, her neck stiffens too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Lots of practice lately?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. should I just<br>stretch more?"
+      },
+      "note": "Hybi started with <mark>what holds a playing posture</mark> up."
+    },
+    {
+      "kind": "compare",
+      "title": "Playing means <em>holding still</em><br>for a long time",
+      "fact": "Musicians often hold one posture for <em>hours</em> at a time",
+      "left": {
+        "label": "Trunk supported",
+        "char": "cat_happy",
+        "caption": "A steady trunk means<br>shoulders <b>work less</b>"
+      },
+      "right": {
+        "label": "Shoulders only",
+        "char": "cat_tired",
+        "caption": "Neck and shoulders<br><em>tend to tense up</em>"
+      },
+      "quip": "A stronger trunk can make<br>playing feel easier!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute pre-practice</b>",
+      "sub": "Try it before you pick up your instrument!",
+      "sections": [
+        {
+          "heading": "1. Dead bug (lying trunk exercise)",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, knees at 90°, arms up.",
+            "② Keep your lower back gently on the floor.",
+            "③ Reach opposite arm and leg <em>slowly</em> away.",
+            "④ <em>8 each side</em>, once or twice a day."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your arm or fingers <em>tingle</em>, or",
+            "pain gets <em>worse</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> when you play?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numb or tingling fingers",
+        "Lingering pain after playing",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo practises violin four hours a day, and her shoulders and upper back feel heavy afterwards.\n\nPlaying an instrument often means holding one posture for a long time. If the trunk isn't doing its share, the neck and shoulders can end up working harder. Clinical Pilates can help build trunk control and body awareness for long sessions.\n\nHybi's 1-minute pre-practice: dead bug, slowly, 8 each side, once or twice a day. Stop if pain gets worse or your fingers tingle.\n\nNumb or tingling fingers, pain that lingers after playing, or no change after two weeks are worth an assessment. Chat to our team at Hybrid Physio. Book online via the link in bio 🎻\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#musicianshealth",
+    "#violinist",
+    "#musicians",
+    "#shoulderpain",
+    "#sydneycbd",
+    "#sydneypilates",
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#sydney",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why musicians' shoulders ache after practice, how trunk support helps, a 1-minute dead bug routine and signs worth getting checked.",
+  "story": {
+    "headline": "Shoulders ache after practice?",
+    "body": "Dead bug: 8 each side,<br>before you play.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-20",
+  "created": "2027-02-20-4",
+  "status": "approved",
+  "review_warnings": []
+}

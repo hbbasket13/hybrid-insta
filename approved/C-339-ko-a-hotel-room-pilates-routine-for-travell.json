@@ -1,0 +1,131 @@
+{
+  "id": "C-339-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "A hotel-room Pilates routine for travellers",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "여행만 가면<br>모모 몸이 <em>찌뿌둥해요</em>",
+      "sub": "호텔 방에서 하는 필라테스 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "긴 비행에 <em>낯선 침대</em>,<br>여행 중인 모모.",
+      "char": "cat_tired",
+      "bubble": "허리랑 등이<br>왜 이렇게<br>굳었지..?",
+      "bubble_type": "thought",
+      "note": "(아침마다 몸이 뻣뻣..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>여행 다녀왔구나?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 운동할 데가<br>없어서요."
+      },
+      "note": "하비는 <mark>수건 한 장 루틴</mark>을 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "짧게라도<br><em>매일</em>이 좋아요",
+      "fact": "수건 한 장, <em>10분</em>이면 몸을 깨울 수 있어요",
+      "left": {
+        "label": "매일 10분",
+        "char": "cat_happy",
+        "caption": "짧게라도 매일<br><b>몸 움직이기</b>"
+      },
+      "right": {
+        "label": "몰아서 한 번",
+        "char": "cat_tired",
+        "caption": "여행 내내 쉬다가<br><em>한 번에 무리</em>"
+      },
+      "quip": "꾸준함이 몸을<br>편하게 해줘요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>호텔 방 필라테스</b>",
+      "sub": "수건 한 장이면 충분!",
+      "sections": [
+        {
+          "heading": "1. 10분 루틴",
+          "color": "yellow",
+          "lines": [
+            "① 고양이-소 자세 <em>천천히 8회</em>.",
+            "② 누워서 골반 기울이기 <em>10회</em>.",
+            "③ 브릿지 <em>3초 유지 × 10회</em>.",
+            "④ 옆으로 누워 다리 들기 <em>10회</em>씩."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>심해지거나</em>,",
+            "다리가 <em>저려온다면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리가 저리거나 힘이 없다",
+        "종아리가 붓고 아프다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "긴 비행에 낯선 호텔 침대까지. 여행 중인 모모는 아침마다 허리와 등이 뻣뻣해요.\n\n여행 중에는 몰아서 한 번 무리하기보다, 짧게라도 매일 움직이는 게 몸을 편하게 하는 데 도움이 될 수 있어요.\n\n하비의 호텔 방 필라테스: 수건 깔고 고양이-소 자세 8회, 골반 기울이기 10회, 브릿지 3초 × 10회, 옆으로 누워 다리 들기 10회씩. 10분이면 충분해요!\n\n다리가 저리거나, 비행 후 종아리가 붓고 아프거나, 2주 넘게 나아지지 않으면 확인받아요. 하이브리드 피지오 클리니컬 필라테스로 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#클리니컬필라테스",
+    "#여행운동",
+    "#홈트",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#물리치료",
+    "#clinicalpilates",
+    "#travelfitness",
+    "#sydneypilates"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 여행 중 몸이 뻣뻣한 이유, 매일 10분 비교, 호텔 방 필라테스 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "여행 중 몸이 뻣뻣하다면?",
+    "body": "수건 한 장, 10분<br>호텔 방 필라테스!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-25",
+  "created": "2027-02-25-3",
+  "status": "approved",
+  "review_warnings": []
+}

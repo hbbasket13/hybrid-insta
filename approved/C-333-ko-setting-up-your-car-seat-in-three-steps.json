@@ -1,0 +1,131 @@
+{
+  "id": "C-333-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Setting up your car seat in three steps",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "운전 후 거북씨의<br><em>허리가 뻐근한 이유</em>",
+      "sub": "하비와 함께하는 운전석 세팅 3단계",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "출퇴근 왕복<br><em>1시간 반</em> 운전.",
+      "char": "turtle_sad",
+      "bubble": "차에서 내리면<br>허리가<br>안 펴지네..",
+      "bubble_type": "thought",
+      "note": "(의자는 산 날 그대로인 거북씨..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비예요.<br>운전 오래 해요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 의자 세팅이<br>중요한가요?"
+      },
+      "note": "하비는 <mark>운전석 세팅 3단계</mark>를 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "의자 세팅이 <em>몸을 받쳐줘요</em>",
+      "fact": "같은 자세로 오래 앉는 운전은 <em>세팅</em>이 특히 중요해요",
+      "left": {
+        "label": "맞춘 운전석",
+        "char": "turtle_happy",
+        "caption": "등이 기대지고<br>몸이 <b>덜 버텨요</b>"
+      },
+      "right": {
+        "label": "산 날 그대로",
+        "char": "turtle_sad",
+        "caption": "몸이 앞으로 쏠려<br><em>허리가 버텨요</em>"
+      },
+      "quip": "3단계만<br>맞춰봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>운전석 세팅 3단계</b>",
+      "sub": "출발 전에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 운전석 세팅",
+          "color": "yellow",
+          "lines": [
+            "① 거리: 페달 끝까지 밟아도 <em>무릎 살짝</em> 굽게.",
+            "② 등받이: 살짝 기울이고 <em>허리 받침</em> 맞추기.",
+            "③ 핸들: 등을 대고 <em>손목이 핸들 위</em>에 닿게.",
+            "④ 장거리는 <em>2시간마다</em> 쉬어가기!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "허리 통증이 <em>다리로 뻗치거나</em>",
+            "<em>저림</em>이 있다면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 허리가 <em>계속 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "통증이 다리로 뻗친다",
+        "다리가 저리다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "출퇴근 왕복 1시간 반을 운전하는 거북씨. 차에서 내리면 허리가 잘 안 펴져요.\n\n운전은 같은 자세로 오래 앉는 일이라 의자 세팅이 특히 중요해요.\n\n하비의 3단계: 페달을 끝까지 밟아도 무릎이 살짝 굽는 거리, 등받이는 살짝 기울이고 허리 받침 맞추기, 등을 댄 채 손목이 핸들 위에 닿게. 장거리는 2시간마다 쉬어가기!\n\n통증이 다리로 뻗치거나 저림이 있거나 2주 넘게 그대로라면 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🚗\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#운전자세",
+    "#허리통증",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#chiropractor",
+    "#sydneychiro",
+    "#drivingposture",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 운전 후 허리가 뻐근한 이유, 운전석 세팅 비교, 운전석 세팅 3단계, 확인이 필요한 신호.",
+  "story": {
+    "headline": "운전 후 허리가 뻐근하다면?",
+    "body": "거리·등받이·핸들,<br>3단계 세팅!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-23",
+  "created": "2027-02-23-3",
+  "status": "approved",
+  "review_warnings": []
+}

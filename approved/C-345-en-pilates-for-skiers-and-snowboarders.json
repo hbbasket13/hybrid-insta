@@ -1,0 +1,131 @@
+{
+  "id": "C-345-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for skiers and snowboarders",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Will Toto's legs last<br>the <em>whole ski trip</em>?",
+      "sub": "Pre-season Pilates for the snow, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we get<br>you ready?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A <em>snow trip</em> is<br>just a month away.",
+      "char": "rabbit_tired",
+      "bubble": "Last year my thighs<br>were cooked<br>by lunch on day one..",
+      "bubble_type": "thought",
+      "note": "(this year she wants to last a bit longer..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Getting ready to ski?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. can't I just<br>turn up and ride?"
+      },
+      "note": "Hybi explained why <mark>a few weeks of prep</mark> can help."
+    },
+    {
+      "kind": "compare",
+      "title": "Skiing is an <em>endurance test</em><br>for legs and balance!",
+      "fact": "Skiing asks for <em>leg strength and balance</em> for hours",
+      "left": {
+        "label": "Prepped legs",
+        "char": "rabbit_happy",
+        "caption": "Built up over weeks,<br>legs <b>tire less</b>"
+      },
+      "right": {
+        "label": "No prep",
+        "char": "rabbit_tired",
+        "caption": "No prep, and legs<br>can <em>fade fast</em>"
+      },
+      "quip": "Start a few weeks<br>before you go!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute snow prep</b>",
+      "sub": "Three times a week, nice and slow!",
+      "sections": [
+        {
+          "heading": "1. Single-leg bridge",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, knees bent.",
+            "② Lift one foot, press through the other heel.",
+            "③ Lift your hips, <em>hold 3 sec</em>, lower slowly.",
+            "④ <em>8 each side</em>, 3 times a week."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Knee or back pain gets <em>worse</em>, or the",
+            "knee feels like it <em>gives way</em> — stop and ask."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee feels like it gives way",
+        "Swelling after a fall",
+        "Pain lasting over 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto's snow trip is a month away. Last year her thighs were done by lunch on day one.\n\nSkiing and snowboarding ask your legs, balance and trunk to work together for hours. Starting some steady strength work a few weeks before you go can help your legs cope with long days on the slopes.\n\nHybi's 1-minute prep: single-leg bridge, hold 3 seconds, 8 each side, 3 times a week. Stop if pain gets worse.\n\nA knee that gives way, swelling after a fall, or pain lasting more than two weeks is worth an assessment. Clinical Pilates at Hybrid Physio can help you build a plan. Book online via the link in bio ⛷\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#skiing",
+    "#snowboarding",
+    "#skiseason",
+    "#sydneypilates",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#hybridphysiotherapy",
+    "#legstrength",
+    "#balance",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto showing why pre-season prep helps skiers, a prepped versus unprepped comparison, a 1-minute single-leg bridge and signs worth getting checked.",
+  "story": {
+    "headline": "Ready for the snow?",
+    "body": "Single-leg bridge:<br>8 each side, 3x a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-27",
+  "created": "2027-02-27-6",
+  "status": "approved",
+  "review_warnings": []
+}

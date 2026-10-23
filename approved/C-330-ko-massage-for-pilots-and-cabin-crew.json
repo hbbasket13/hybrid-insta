@@ -1,0 +1,131 @@
+{
+  "id": "C-330-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for pilots and cabin crew",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "비행 후 거북씨의<br><em>몸이 무거운 이유</em>",
+      "sub": "승무원·조종사를 위한 마사지 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "새로 승무원이 된 거북씨,<br><em>장거리 비행</em> 후.",
+      "char": "turtle_sad",
+      "bubble": "다리는 붓고<br>어깨는 뻐근해..",
+      "bubble_type": "thought",
+      "note": "(카트 밀고, 짐 올리고, 시차까지..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비예요.<br>비행 끝나고 왔어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 마사지 받으면<br>좀 풀릴까요?"
+      },
+      "note": "하비는 <mark>마사지와 기내 움직임</mark>을 같이 챙기자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "기내에서도 <em>조금씩 움직여요!</em>",
+      "fact": "오래 서 있거나 앉아 있으면 다리가 <em>붓고 무겁기</em> 쉬워요",
+      "left": {
+        "label": "틈틈이 움직임",
+        "char": "turtle_happy",
+        "caption": "종아리를 쓰면<br>다리가 <b>덜 무거워요</b>"
+      },
+      "right": {
+        "label": "계속 같은 자세",
+        "char": "turtle_sad",
+        "caption": "다리·허리가<br><em>쉽게 지쳐요</em>"
+      },
+      "quip": "마사지 + 움직임,<br>같이 챙겨요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 기내 루틴</b>",
+      "sub": "갤리에서 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 다리·어깨 깨우기",
+          "color": "yellow",
+          "lines": [
+            "① 까치발 들기 <em>10회</em>, 천천히.",
+            "② 발목 돌리기 <em>양쪽 10회씩</em>.",
+            "③ 짐은 <em>몸 가까이</em> 붙여서 올려요.",
+            "④ 쉬는 시간마다 반복해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "한쪽 종아리가 <em>붓고 아프거나 뜨겁다면</em>",
+            "마사지 말고 바로 GP 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "비행 후에도 <em>계속 불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "한쪽 종아리가 붓는다",
+        "팔이나 손이 저리다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "새로 승무원이 된 거북씨. 장거리 비행 후엔 다리가 붓고 어깨가 뻐근해요.\n\n오래 서 있거나 앉아 있고, 카트를 밀고 짐을 올리는 일이 반복되면 몸이 쉽게 지칠 수 있어요. 리메디얼 마사지는 뭉친 느낌을 덜어주는 데 도움이 될 수 있고, 기내 움직임과 함께할 때 더 좋아요.\n\n하비의 기내 루틴: 까치발 10회, 발목 돌리기 양쪽 10회씩, 짐은 몸 가까이.\n\n한쪽 종아리가 붓고 아프면 마사지 대신 바로 GP 확인이 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약 ✈️\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#승무원",
+    "#조종사",
+    "#리메디얼마사지",
+    "#다리부종",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#어깨뭉침",
+    "#remedialmassage",
+    "#cabincrew",
+    "#sydneymassage",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 비행 후 몸이 무거운 이유, 기내 움직임 비교, 1분 기내 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "비행 후 다리가 무겁다면?",
+    "body": "까치발 10회,<br>발목 돌리기 10회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-22",
+  "created": "2027-02-22-3",
+  "status": "approved",
+  "review_warnings": []
+}

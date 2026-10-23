@@ -1,0 +1,131 @@
+{
+  "id": "C-334-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Numb fingers on long bike rides",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's fingers go<br><em>numb on long rides</em>",
+      "sub": "A cycling hand-numbness story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>100 km</em> every<br>weekend on the bike.",
+      "char": "rabbit_tired",
+      "bubble": "Why is my little<br>finger so tingly..?",
+      "bubble_type": "thought",
+      "note": "(it stays fuzzy for a while after the gloves come off..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Hands going numb?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. it usually<br>wears off after.."
+      },
+      "note": "Hybi talked about <mark>palms pressing on the bars</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Your palms <em>need a break</em> too!",
+      "fact": "Leaning on the bars for ages can <em>compress</em> nerves in the palm",
+      "left": {
+        "label": "Moving hands",
+        "char": "rabbit_happy",
+        "caption": "Changing grip often<br><b>spreads the pressure</b>"
+      },
+      "right": {
+        "label": "One position",
+        "char": "rabbit_tired",
+        "caption": "Same spot pressed,<br><em>tingles sooner</em>"
+      },
+      "quip": "Switch hand position<br>every 10–15 min!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>hand care tips for riders</b>",
+      "sub": "Try them on your next ride!",
+      "sections": [
+        {
+          "heading": "1. Take pressure off your hands",
+          "color": "yellow",
+          "lines": [
+            "① Change hand position <em>every 10–15 min</em>.",
+            "② Keep wrists <em>fairly straight</em>, elbows soft.",
+            "③ Wear padded gloves.",
+            "④ Still numb? Have your <em>bike fit</em> checked."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Numbness lasts <em>for days</em>, or your hand",
+            "feels <em>weak</em> — pause riding and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Fingers still <em>numb</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numb for days after",
+        "Weak or clumsy hand",
+        "Neck pain alongside it"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto rides 100 km every weekend, and afterwards her little finger tingles and feels fuzzy.\n\nLeaning on the handlebars for a long time can compress nerves that run through the palm. It often settles once that pressure is reduced.\n\nHybi's tips: change hand position every 10–15 minutes, keep wrists fairly straight and elbows soft, and wear padded gloves. If it keeps happening, have your bike fit checked.\n\nNumbness lasting for days, a weak or clumsy hand, or neck pain alongside it are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🚴\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#cycling",
+    "#cyclinglife",
+    "#roadcycling",
+    "#numbhands",
+    "#sportsphysio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why fingers can go numb on long bike rides, comparing changing grip with one position, hand care tips and signs worth getting checked.",
+  "story": {
+    "headline": "Numb fingers on long rides?",
+    "body": "Switch hand position<br>every 10–15 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-24",
+  "created": "2027-02-24-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-336-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for gardeners",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's back<br>grumbles <em>after gardening</em>",
+      "sub": "A gardening-day story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekends of <em>weeding</em><br>and lugging soil bags.",
+      "char": "koala_tired",
+      "bubble": "Why is it so hard<br>to straighten up..?",
+      "bubble_type": "thought",
+      "note": "(and the knees creak on the way up..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Busy in the garden?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. is it just<br>my age, do you think?"
+      },
+      "note": "Hybi decided to start with <mark>how to move</mark> in the garden."
+    },
+    {
+      "kind": "compare",
+      "title": "Bend from the <em>hips</em>,<br>not just the back",
+      "fact": "Hinging at the hips can <em>share the load</em> with your legs",
+      "left": {
+        "label": "Kneel up close",
+        "char": "koala_happy",
+        "caption": "Kneel on a pad,<br>work <b>close</b> to the body"
+      },
+      "right": {
+        "label": "Back bent only",
+        "char": "koala_tired",
+        "caption": "Legs straight, back bent<br><em>for a long time</em>"
+      },
+      "quip": "Change position every<br>20–30 minutes!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute Pilates</b>",
+      "sub": "Before or after the garden!",
+      "sections": [
+        {
+          "heading": "1. Bridge",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, knees bent, feet hip-width.",
+            "② Gently brace, lift the hips <em>slowly</em>.",
+            "③ Hold <em>3 sec × 10 reps</em>, once or twice a day.",
+            "④ Roll down one segment at a time."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or you feel",
+            "<em>dizzy or unsteady</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Leg numbness or weakness",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko spends weekends weeding and carrying soil bags. The next morning, straightening up feels hard work.\n\nLong stretches bent over with straight legs keep the lower back muscles working the whole time. Kneeling on a pad, hinging at the hips and changing position every 20–30 minutes can often help.\n\nHybi's 1-minute Pilates: bridge, hold 3 seconds, 10 reps, once or twice a day. Clinical Pilates can help build hip and trunk strength and balance, step by step.\n\nPain spreading down a leg, numbness, or no change after two weeks is worth an assessment. Chat to our team at Hybrid Physio. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#gardening",
+    "#backpain",
+    "#healthyageing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneypilates",
+    "#chatswoodpilates"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why gardening can tire the back, a kneel-versus-bend comparison, a 1-minute bridge and signs worth getting checked.",
+  "story": {
+    "headline": "Back stiff after gardening?",
+    "body": "Bridge: 3 sec × 10,<br>once or twice a day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-24",
+  "created": "2027-02-24-6",
+  "status": "approved",
+  "review_warnings": []
+}

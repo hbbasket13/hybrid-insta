@@ -1,0 +1,131 @@
+{
+  "id": "C-346-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Commuter cycling: setting your bike seat height",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's knees<br><em>ache after cycling</em>",
+      "sub": "A bike seat height story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's check<br>the seat first!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Mr Turtle now <em>rides</em><br>to work in the CBD.",
+      "char": "turtle_sad",
+      "bubble": "Why does the front<br>of my knee ache<br>the more I pedal..?",
+      "bubble_type": "thought",
+      "note": "(he hasn't touched the seat since he bought the bike..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>New bike commute?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. maybe I just<br>have bad knees?"
+      },
+      "note": "Hybi suggested checking <mark>the seat height</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "A few <em>centimetres</em> of seat<br>can change how it feels!",
+      "fact": "Common start: <em>a slight knee bend</em> at the pedal's lowest",
+      "left": {
+        "label": "Seat about right",
+        "char": "turtle_happy",
+        "caption": "Slight bend at the bottom,<br>pedalling <b>feels smooth</b>"
+      },
+      "right": {
+        "label": "Seat too low",
+        "char": "turtle_sad",
+        "caption": "Knee bends a lot, front<br>of it <em>works harder</em>"
+      },
+      "quip": "Too high can make<br>your hips rock, too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute seat check</b>",
+      "sub": "Try it before your next ride!",
+      "sections": [
+        {
+          "heading": "1. The heel check",
+          "color": "yellow",
+          "lines": [
+            "① Sit on the seat, pedal at the lowest point.",
+            "② Put your <em>heel</em> on the pedal: leg just straight.",
+            "③ Pedal on the ball of the foot: <em>slight bend</em>.",
+            "④ Adjust <em>a few mm at a time</em>, ride a few days."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Knee pain gets <em>worse</em>, or your hands",
+            "or saddle area go <em>numb</em> — stop and ask."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee swells after rides",
+        "Numb hands or saddle area",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle has started riding to work in the CBD, but the front of his knee aches the more he pedals.\n\nA seat that is too low means the knee bends a lot with every stroke, which can load the front of the knee. Too high, and the hips can rock side to side. A common starting point is a slight knee bend at the bottom of the pedal stroke.\n\nHybi's 1-minute check: heel on the pedal at the bottom, leg just straight. Adjust a few millimetres at a time.\n\nSwelling, numbness, or no change after two weeks is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#cycling",
+    "#bikecommute",
+    "#bikefit",
+    "#kneepain",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#officeworker",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining how bike seat height affects the knees, a seat height comparison, a 1-minute heel check and signs worth getting checked.",
+  "story": {
+    "headline": "Knees ache after cycling?",
+    "body": "Try the heel check<br>on your seat height.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-01",
+  "created": "2027-03-01-4",
+  "status": "approved",
+  "review_warnings": []
+}

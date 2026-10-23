@@ -1,0 +1,131 @@
+{
+  "id": "C-333-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Setting up your car seat in three steps",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's back<br>aches <em>after driving</em>",
+      "sub": "Setting up your car seat in three steps",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>90 minutes</em> a day<br>behind the wheel.",
+      "char": "turtle_sad",
+      "bubble": "Why can't I<br>straighten up when<br>I get out..?",
+      "bubble_type": "thought",
+      "note": "(his seat is exactly how it was the day he bought it..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Long drives?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. does the seat<br>set-up matter?"
+      },
+      "note": "Hybi shared <mark>a 3-step car seat set-up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A good set-up<br><em>supports you</em>",
+      "fact": "Driving means sitting still for ages, so <em>set-up</em> matters",
+      "left": {
+        "label": "Seat adjusted",
+        "char": "turtle_happy",
+        "caption": "Back supported,<br>body <b>works less</b>"
+      },
+      "right": {
+        "label": "Factory setting",
+        "char": "turtle_sad",
+        "caption": "Leaning forward,<br>the back <em>holds on</em>"
+      },
+      "quip": "Just three steps<br>to try!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>3-step car seat set-up</b>",
+      "sub": "Do it before you drive off!",
+      "sections": [
+        {
+          "heading": "1. Car seat set-up",
+          "color": "yellow",
+          "lines": [
+            "① Distance: pedals down, <em>knees slightly bent</em>.",
+            "② Backrest: a slight recline, <em>lumbar support</em> set.",
+            "③ Wheel: back on seat, <em>wrists reach the top</em>.",
+            "④ On long drives, take a break <em>every 2 hours</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Back pain <em>spreads down your leg</em>, or",
+            "you feel <em>tingling</em> — get it checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Tingling in the leg",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle drives 90 minutes a day, and when he gets out of the car his back takes a while to straighten.\n\nDriving means sitting in one position for a long time, so your seat set-up matters.\n\nHybi's three steps: sit close enough that your knees stay slightly bent with the pedals fully down, recline the backrest slightly and set the lumbar support, and check your wrists reach the top of the wheel with your back on the seat. On long drives, take a break every two hours.\n\nPain spreading down a leg, tingling, or no change after two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🚗\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#drivingposture",
+    "#lowerbackpain",
+    "#commute",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#posture",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why the back can ache after driving, comparing an adjusted seat with the factory setting, a 3-step car seat set-up and signs worth getting checked.",
+  "story": {
+    "headline": "Back sore after driving?",
+    "body": "Distance, backrest, wheel:<br>three quick steps.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-23",
+  "created": "2027-02-23-6",
+  "status": "approved",
+  "review_warnings": []
+}

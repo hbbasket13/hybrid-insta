@@ -1,0 +1,131 @@
+{
+  "id": "C-354-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hip mobility for a deeper squat",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Want a <em>deeper squat</em>,<br>Momo?",
+      "sub": "A hip mobility story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Bendy Momo, but her<br>squat <em>gets stuck</em>.",
+      "char": "cat_tired",
+      "bubble": "Why can't I get<br>any lower..?",
+      "bubble_type": "thought",
+      "note": "(the lower she goes, the more her tailbone tucks..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Squat feeling stuck?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. shouldn't I go<br>as deep as everyone?"
+      },
+      "note": "Hybi explained that <mark>hip shape differs</mark> from person to person."
+    },
+    {
+      "kind": "compare",
+      "title": "Squat depth is<br><em>different for everyone!</em>",
+      "fact": "Hip shape varies, so <em>comfortable depth and stance</em> vary too",
+      "left": {
+        "label": "Your own stance",
+        "char": "cat_happy",
+        "caption": "Width and toe angle<br>set to <b>suit you</b>"
+      },
+      "right": {
+        "label": "Forcing depth",
+        "char": "cat_tired",
+        "caption": "Past your range, the<br>back <em>can round</em>"
+      },
+      "quip": "Comfort before<br>depth!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute hip routine</b>",
+      "sub": "Try it before you squat!",
+      "sections": [
+        {
+          "heading": "1. Open up the hips",
+          "color": "yellow",
+          "lines": [
+            "① Sit in 90/90, switch knees side to side <em>8 times</em>.",
+            "② Knee-to-wall ankle rocks, <em>10 each side</em>.",
+            "③ Widen your stance, <em>toes turned out a little</em>.",
+            "④ Hold a comfy-depth squat for <em>20–30 sec</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "A <em>sharp pinch</em> at the front of the hip,",
+            "or pain that <em>lingers</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pinching at the front of hip",
+        "Catching with pain",
+        "Groin pain that lingers"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo is super bendy, but her squat gets stuck and her tailbone tucks the lower she goes.\n\nHip shape varies from person to person, so comfortable squat depth and stance width vary too. Rather than forcing depth, adjusting your stance width and toe angle to suit your hips can help.\n\nHybi's 1-minute routine: 90/90 knee switches × 8, knee-to-wall ankle rocks × 10 each side, then hold a comfortable-depth squat for 20–30 seconds. Stop if you feel a sharp pinch.\n\nPinching at the front of the hip, catching with pain, or lingering groin pain is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#squat",
+    "#hipmobility",
+    "#mobility",
+    "#strengthtraining",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#gymlife",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why squat depth differs between people, a stance comparison, a 1-minute hip routine and signs worth getting checked.",
+  "story": {
+    "headline": "Want a deeper squat?",
+    "body": "Set your stance<br>to suit your hips.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-03",
+  "created": "2027-03-03-6",
+  "status": "approved",
+  "review_warnings": []
+}

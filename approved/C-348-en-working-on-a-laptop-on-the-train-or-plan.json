@@ -1,0 +1,131 @@
+{
+  "id": "C-348-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Working on a laptop on the train or plane",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Laptop on the train?<br>Why the <em>neck stiffens</em>",
+      "sub": "Working on the move, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's tweak<br>the set-up!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Mr Turtle works<br>even <em>on the plane</em>.",
+      "char": "turtle_sad",
+      "bubble": "My neck feels stiff<br>before we've<br>even landed..",
+      "bubble_type": "thought",
+      "note": "(laptop on his knees, head sinking lower and lower..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Working on the go?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. the seats are<br>tiny, what can I do?"
+      },
+      "note": "Hybi shared a few tricks that work <mark>even in a tight seat</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A laptop screen sits<br><em>really low!</em>",
+      "fact": "Screen and keyboard are joined, so <em>your eyes drift down</em>",
+      "left": {
+        "label": "On your bag",
+        "char": "turtle_happy",
+        "caption": "Screen sits higher,<br>neck <b>bends less</b>"
+      },
+      "right": {
+        "label": "On your knees",
+        "char": "turtle_sad",
+        "caption": "Head tips a long<br>way <em>down</em>"
+      },
+      "quip": "Looking up often<br>can help, too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute travel set-up</b>",
+      "sub": "Works in a tight seat!",
+      "sections": [
+        {
+          "heading": "1. Tight-seat set-up",
+          "color": "yellow",
+          "lines": [
+            "① Rest the laptop <em>on your bag or a pillow</em>.",
+            "② Elbows on the armrests, shoulders relaxed.",
+            "③ <em>Every 20 min</em>, look up and do 5 chin tucks.",
+            "④ On a flight, stand and walk <em>every 1–2 hours</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your",
+            "arm or hand <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Headaches come with it",
+        "Arm or hand tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle works on the plane, laptop on his knees. By landing, his neck already feels stiff.\n\nLaptops join the screen and keyboard, so on your knees your head tips a long way down. Even in a tight seat, raising the laptop on your bag and looking up often can help.\n\nHybi's 1-minute set-up: elbows on the armrests, look up and do 5 chin tucks every 20 minutes, and on a flight stand and walk every 1–2 hours. Stop if your arm tingles.\n\nHeadaches, arm tingling, or no change after two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#sydneychiro",
+    "#chatswoodchiro",
+    "#neckpain",
+    "#techneck",
+    "#laptop",
+    "#businesstravel",
+    "#commute",
+    "#sydneycbd",
+    "#chatswood",
+    "#officeworker",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle showing why laptops on the move strain the neck, a laptop height comparison, a 1-minute travel set-up and signs worth getting checked.",
+  "story": {
+    "headline": "Laptop on the plane?",
+    "body": "Raise it on your bag,<br>look up every 20 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-01",
+  "created": "2027-03-01-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-352-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "The 30-minute rule: movement breaks at work",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's<br><em>30-minute rule</em>",
+      "sub": "Movement breaks at work, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's get<br>moving!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Mr Turtle sits <em>still</em><br>all day, bar lunch.",
+      "char": "turtle_monitor",
+      "bubble": "I'm sitting up<br>straight.. so why<br>am I so stiff?",
+      "bubble_type": "thought",
+      "note": "(three hours later, still in the exact same position..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Been sitting a while?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. I just need the<br>perfect posture, right?"
+      },
+      "note": "Hybi explained why <mark>changing position often</mark> matters more."
+    },
+    {
+      "kind": "compare",
+      "title": "Good posture is<br>your <em>next one</em>!",
+      "fact": "The longer you hold one pose, the more <em>stiffness builds</em>",
+      "left": {
+        "label": "Moving often",
+        "char": "turtle_happy",
+        "caption": "Short, frequent breaks,<br>body <b>stays looser</b>"
+      },
+      "right": {
+        "label": "Still for hours",
+        "char": "turtle_sad",
+        "caption": "Same spot for hours,<br><em>stiffness builds</em>"
+      },
+      "quip": "Once every 30 min,<br>just a minute!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>30-minute movement break</b>",
+      "sub": "Do it right at work!",
+      "sections": [
+        {
+          "heading": "1. One minute, every 30",
+          "color": "yellow",
+          "lines": [
+            "① Set a <em>30-minute reminder</em>.",
+            "② Stand up and roll your shoulders back <em>5 times</em>.",
+            "③ Hands on hips, <em>gently lean back 5 times</em>.",
+            "④ Take calls <em>standing</em>, refill water often."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your arm",
+            "or leg <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Frequent headaches",
+        "Arm or leg tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle barely moves from his chair, apart from lunch. He sits up straight, yet still feels stiff by mid-afternoon.\n\nThe longer you hold one position, the more stiffness can build. That's why changing position often can help more than chasing one perfect posture. Good posture is your next one!\n\nHybi's 30-minute rule: every half hour, stand, roll your shoulders back 5 times and gently lean back 5 times. Take calls standing.\n\nFrequent headaches, arm or leg tingling, or no change after two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio ⏰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#sydneychiro",
+    "#chatswoodchiro",
+    "#deskjob",
+    "#officeworker",
+    "#movementbreak",
+    "#posture",
+    "#backpain",
+    "#chatswood",
+    "#sydneycbd",
+    "#workplacehealth",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why sitting still builds stiffness, a moving versus still comparison, a 30-minute movement break and signs worth getting checked.",
+  "story": {
+    "headline": "Try the 30-minute rule",
+    "body": "Every half hour:<br>stand, roll, lean back.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-03",
+  "created": "2027-03-03-4",
+  "status": "approved",
+  "review_warnings": []
+}

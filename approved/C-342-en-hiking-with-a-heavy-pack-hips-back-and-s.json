@@ -1,0 +1,131 @@
+{
+  "id": "C-342-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Hiking with a heavy pack: hips, back and shoulders",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's shoulders ache<br>after <em>a big hike</em>",
+      "sub": "A heavy-pack hiking story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A big pack and a long day<br>in the <em>Blue Mountains</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why do my shoulders<br>and back feel<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(even the hips are sore..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Been out bushwalking?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep.. maybe my pack<br>was too heavy?"
+      },
+      "note": "Hybi decided to start with <mark>how to wear the pack</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Let your <em>hips</em> carry<br>the load",
+      "fact": "A snug hip belt lets your <em>hips</em> share much of the weight",
+      "left": {
+        "label": "Hip belt on",
+        "char": "rabbit_happy",
+        "caption": "Belt on the hip bones,<br>load <b>close to the back</b>"
+      },
+      "right": {
+        "label": "Shoulders only",
+        "char": "rabbit_tired",
+        "caption": "Belt loose, shoulders<br><em>doing all the work</em>"
+      },
+      "quip": "A good pack fit<br>can make a big difference!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pack-fit check</b>",
+      "sub": "Do it before you set off!",
+      "sections": [
+        {
+          "heading": "1. Fit your pack",
+          "color": "yellow",
+          "lines": [
+            "① Hip belt <em>snug over the hip bones</em>.",
+            "② Shoulder straps <em>just firm</em>, pack close.",
+            "③ Heaviest items <em>mid-back</em>, close to you.",
+            "④ Each hour, drop the pack and roll shoulders."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or an arm or",
+            "leg <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm numbness or weakness",
+        "Pain spreading down a leg",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto spent a long day in the Blue Mountains with a big pack. Back home, the shoulders, back and hips are sore.\n\nWhen the shoulders carry the whole pack, the neck and shoulders can tire quickly. A snug hip belt over the hip bones lets the hips and legs share much of the weight.\n\nHybi's pack-fit check: hip belt snug, shoulder straps just firm, heaviest items close to your back, and a break each hour. Build distance up gradually.\n\nArm numbness, pain spreading down a leg, or no change after two weeks is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#hiking",
+    "#bushwalking",
+    "#bluemountains",
+    "#shoulderpain",
+    "#backpain",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#chatswoodphysio",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why a heavy pack tires the shoulders and back, hip belt versus shoulders-only, a pack-fit check and signs worth getting checked.",
+  "story": {
+    "headline": "Sore after a big hike?",
+    "body": "Hip belt snug over<br>the hip bones.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-26",
+  "created": "2027-02-26-6",
+  "status": "approved",
+  "review_warnings": []
+}
