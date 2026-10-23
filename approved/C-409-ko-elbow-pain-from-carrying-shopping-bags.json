@@ -1,0 +1,131 @@
+{
+  "id": "C-409-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Elbow pain from carrying shopping bags",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "장바구니 든 코코,<br><em>팔꿈치가 시큰한 이유</em>",
+      "sub": "하비와 알아보는 팔꿈치 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "장 보고 오는 길,<br>봉지는 <em>한 손에 전부</em>.",
+      "char": "koala_tired",
+      "bubble": "팔꿈치 바깥이<br>왜 시큰하지..?",
+      "bubble_type": "thought",
+      "note": "(컵을 들 때도 찌릿하다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>팔꿈치가 불편하구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 팔에 힘이<br>없어진 걸까요?"
+      },
+      "note": "하비는 먼저 <mark>쥐는 근육</mark> 이야기를 해줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>쥐는 힘</em>은 팔꿈치에서!",
+      "fact": "손으로 쥐는 근육은 <em>팔꿈치 바깥쪽</em>에 붙어 있어요",
+      "left": {
+        "label": "나눠 들기",
+        "char": "koala_happy",
+        "caption": "양손에 나누거나<br><b>카트</b>를 써요"
+      },
+      "right": {
+        "label": "한 손에 전부",
+        "char": "koala_tired",
+        "caption": "손가락에 봉지를 걸면<br><em>계속 꽉 쥐게 돼요</em>"
+      },
+      "quip": "무게를 나누면<br>팔꿈치가 덜 지쳐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 팔꿈치 관리</b>",
+      "sub": "오늘 장 볼 때부터!",
+      "sections": [
+        {
+          "heading": "1. 들기 습관 + 버티기 운동",
+          "color": "yellow",
+          "lines": [
+            "① 봉지는 <em>양손에 나눠</em> 들어요.",
+            "② 무거운 건 <em>카트나 백팩</em>을 활용해요.",
+            "③ 손등 누르며 버티기 <em>30초 × 5회</em>.",
+            "④ 통증은 <em>살짝 불편한 정도</em>까지만!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 상담받기!",
+          "color": "purple",
+          "lines": [
+            "팔꿈치가 <em>붓거나</em> 손가락이 저리면",
+            "멈추고 물리치료사와 상담하기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>시큰하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔꿈치가 붓고 뜨겁다",
+        "손가락이 저리다",
+        "몇 주째 그대로다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "장 보고 오는 길, 봉지를 한 손에 전부 든 코코. 요즘 팔꿈치 바깥쪽이 시큰해요.\n\n손으로 쥐는 근육은 팔꿈치 바깥쪽에 붙어 있어요. 손가락에 봉지를 걸고 오래 꽉 쥐면 이 부위가 지칠 수 있어요.\n\n하비의 팔꿈치 관리: 봉지는 양손에 나눠 들기, 무거운 건 카트나 백팩, 손등 누르며 버티기 30초 × 5회. 통증은 살짝 불편한 정도까지만!\n\n붓고 뜨겁거나, 손가락이 저리거나, 몇 주째 그대로라면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🛒\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#팔꿈치통증",
+    "#테니스엘보",
+    "#생활습관",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#중년건강",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#elbowpain"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 장바구니를 들고 팔꿈치가 시큰한 이유, 나눠 들기 비교, 1분 팔꿈치 관리, 확인이 필요한 신호.",
+  "story": {
+    "headline": "장 보고 팔꿈치가 시큰하다면?",
+    "body": "양손에 나눠 들고,<br>버티기 30초 × 5회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-25",
+  "created": "2027-03-25-1",
+  "status": "approved",
+  "review_warnings": []
+}

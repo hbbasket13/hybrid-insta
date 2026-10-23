@@ -1,0 +1,132 @@
+{
+  "id": "C-407-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Side stitch when running",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "달리다 옆구리가<br><em>콕콕 찌르는 이유</em>",
+      "sub": "하비와 알아보는 옆구리 결림 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "점심 먹고 바로<br><em>러닝</em>에 나선 토토.",
+      "char": "rabbit_tired",
+      "bubble": "옆구리가 왜<br>콕콕 쑤시지..?",
+      "bubble_type": "thought",
+      "note": "(속도를 늦추자 조금 나아졌다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>옆구리가 결렸구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 달리기를<br>그만둬야 할까요?"
+      },
+      "note": "하비는 먼저 <mark>언제 잘 생기는지</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>달리기 전 식사</em>가 중요해요",
+      "fact": "옆구리 결림은 <em>달리기 직전 과식·과음</em> 후 생기기 쉬워요",
+      "left": {
+        "label": "가볍게 먹기",
+        "char": "rabbit_happy",
+        "caption": "1~2시간 전 가볍게,<br>물은 <b>조금씩</b>"
+      },
+      "right": {
+        "label": "먹고 바로",
+        "char": "rabbit_tired",
+        "caption": "배부르게 먹고 바로 뛰면<br><em>결리기 쉬워요</em>"
+      },
+      "quip": "속도를 늦추고<br>깊게 숨 쉬어 봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 옆구리 결림 대처법</b>",
+      "sub": "달리다 결리면 이렇게!",
+      "sections": [
+        {
+          "heading": "1. 결렸을 때",
+          "color": "yellow",
+          "lines": [
+            "① 속도를 <em>걷기 수준</em>으로 늦춰요.",
+            "② 깊게 들이쉬고 <em>천천히 내쉬어요</em>.",
+            "③ 아픈 곳을 손으로 <em>지그시 눌러요</em>.",
+            "④ 팔을 머리 위로, <em>옆구리 늘리기 20초</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 상담받기!",
+          "color": "purple",
+          "lines": [
+            "가슴·어깨·팔로 <em>번지는 통증</em>, 숨참,",
+            "어지러움이 있다면 바로 의료 도움 받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "자주 <em>반복된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "멈춰도 통증이 계속된다",
+        "가슴이나 팔이 아프다",
+        "숨이 차고 어지럽다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "점심 먹고 바로 러닝에 나선 토토. 얼마 안 가 옆구리가 콕콕 찔러요.\n\n옆구리 결림은 달리기 직전에 많이 먹거나 마신 뒤 생기기 쉬워요. 대부분 속도를 늦추면 가라앉아요.\n\n하비의 대처법: 걷기 수준으로 늦추기, 깊게 들이쉬고 천천히 내쉬기, 아픈 곳 지그시 누르기. 달리기 1~2시간 전엔 가볍게 먹어요.\n\n멈춰도 통증이 계속되거나, 가슴·팔이 아프거나, 숨이 차고 어지러우면 바로 의료 도움을 받아요. 자주 반복된다면 채스우드·시드니 CBD 물리치료사와 상담해요. 프로필 링크에서 온라인 예약 🏃\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#옆구리결림",
+    "#러닝",
+    "#달리기",
+    "#러너",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sidestitch",
+    "#running",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 달리다 옆구리가 결리는 이유, 달리기 전 식사 비교, 결렸을 때 대처법, 확인이 필요한 신호.",
+  "story": {
+    "headline": "달리다 옆구리가 결린다면?",
+    "body": "속도 늦추고 깊게 숨 쉬기,<br>아픈 곳은 지그시!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-24",
+  "created": "2027-03-24-5",
+  "status": "approved",
+  "review_warnings": []
+}

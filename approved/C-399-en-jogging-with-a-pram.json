@@ -1,0 +1,131 @@
+{
+  "id": "C-399-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Jogging with a pram",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Pram jogging, and<br>Lulu's <em>heavy back</em>",
+      "sub": "What to check when running with a pram",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekend mornings,<br>running with the <em>pram</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why do my back<br>and shoulders feel<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(it feels much harder than running solo..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Running with bub?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. should I just<br>walk instead?"
+      },
+      "note": "Hybi decided to start with <mark>pram running posture</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Run tall</em>, keep<br>the pram close!",
+      "fact": "<em>Leaning on the handle</em> can load the back and shoulders",
+      "left": {
+        "label": "Running tall",
+        "char": "kanga_happy",
+        "caption": "Body upright,<br>elbows <b>softly bent</b>"
+      },
+      "right": {
+        "label": "Leaning in",
+        "char": "kanga_tired",
+        "caption": "Hunched over the handle,<br>the back <em>works harder</em>"
+      },
+      "quip": "Light grip, and<br>build up slowly!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pram-run check</b>",
+      "sub": "Try it before your next run!",
+      "sections": [
+        {
+          "heading": "1. Before you go",
+          "color": "yellow",
+          "lines": [
+            "① Use a <em>running pram</em>; check its age guide.",
+            "② Wrist strap on, <em>light grip</em> on the handle.",
+            "③ Run tall, pram <em>close to your body</em>.",
+            "④ Start with <em>1 min jog, 1 min walk × 10</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>builds</em> run to run, or",
+            "you start to <em>limp</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> after runs?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain that makes you limp",
+        "Worse with every run",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Weekend mornings, Lulu runs with the pram. It feels much harder on the back and shoulders than running solo.\n\nHunching over and leaning on the handle can load the back and shoulders. First, check the pram is designed for running and follow the maker's age guidance. Wrist strap on, light grip, run tall and keep the pram close. Start with 1 minute jogging, 1 minute walking, 10 rounds, and build up slowly.\n\nPain that makes you limp, pain that builds run to run, or no change after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#running",
+    "#pramrunning",
+    "#parentlife",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#runningtips",
+    "#backpain",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why running with a pram can load the back, running tall versus leaning in, a pre-run checklist and signs worth getting checked.",
+  "story": {
+    "headline": "Pram runs feel heavy?",
+    "body": "Run tall, light grip,<br>build up slowly.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-20",
+  "created": "2027-03-20-6",
+  "status": "approved",
+  "review_warnings": []
+}

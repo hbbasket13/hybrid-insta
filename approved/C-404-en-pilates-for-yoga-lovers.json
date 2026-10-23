@@ -1,0 +1,131 @@
+{
+  "id": "C-404-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for yoga lovers",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Yoga-loving Momo:<br>why add <em>Pilates</em>?",
+      "sub": "Clinical Pilates for yoga lovers",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo the yogi,<br><em>super bendy</em>.",
+      "char": "cat_tired",
+      "bubble": "I'm so flexible..<br>so why does my back<br>ache sometimes..?",
+      "bubble_type": "thought",
+      "note": "(especially after holding deep poses for ages..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>A yoga lover?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. should I just<br>stretch deeper?"
+      },
+      "note": "Hybi explained <mark>flexibility vs strength</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Flexibility and <em>strength</em><br>are different skills!",
+      "fact": "Bendy bodies may need <em>strength at end range</em> too",
+      "left": {
+        "label": "Controlled",
+        "char": "cat_happy",
+        "caption": "Moving within range<br>with <b>control</b>"
+      },
+      "right": {
+        "label": "Hanging out",
+        "char": "cat_tired",
+        "caption": "Sinking into the<br><em>end of the joint</em>"
+      },
+      "quip": "Keep the yoga,<br>add strength with Pilates!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>Pilates for yogis</b>",
+      "sub": "Try it before or after yoga!",
+      "sections": [
+        {
+          "heading": "1. Build control",
+          "color": "yellow",
+          "lines": [
+            "① Dead bug: reach opposite arm and leg <em>slowly</em>.",
+            "② Keep your low back down: <em>8 each side</em>.",
+            "③ Side-lying leg lifts: <em>10 each side</em>.",
+            "④ 2–3 times a week, breathing easy."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "A joint feels like it <em>slips</em>, or",
+            "you get <em>tingling</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A joint feels like it slips",
+        "Pain lasting after class",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo loves yoga and bends with ease, but the back aches on days with long holds in deep poses.\n\nFlexibility and strength are different skills. Very bendy bodies may need more strength to control the end of their range, rather than sinking into the joints. Keep the yoga you love and add control with Pilates. Try dead bugs, 8 each side with your low back down, and side-lying leg lifts, 10 each side, two to three times a week.\n\nA joint that feels like it slips, pain lasting after class, or no change after two weeks are worth an assessment. Clinical Pilates at Hybrid Physio can help. Book online via the link in bio 🧘\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#yoga",
+    "#yogalife",
+    "#flexibility",
+    "#hypermobility",
+    "#sydneypilates",
+    "#chatswoodpilates",
+    "#chatswood",
+    "#corestrength",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo showing why yoga lovers can benefit from Pilates, controlled movement versus sinking into end range, a Pilates routine for yogis and signs worth getting checked.",
+  "story": {
+    "headline": "Yoga lover? Add Pilates.",
+    "body": "Flexibility plus<br>control.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-23",
+  "created": "2027-03-23-2",
+  "status": "approved",
+  "review_warnings": []
+}

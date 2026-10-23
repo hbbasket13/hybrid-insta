@@ -1,0 +1,131 @@
+{
+  "id": "C-392-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Knitting, crafts and hobbies: neck care when looking down",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's neck aches<br>after <em>knitting night</em>",
+      "sub": "A hobby and neck-care story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Two hours</em> of knitting<br>every evening.",
+      "char": "cat_tired",
+      "bubble": "Why is the back<br>of my neck so stiff<br>when I finish..?",
+      "bubble_type": "thought",
+      "note": "(just one more row.. and an hour flies by..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>A keen knitter?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Very.. should I cut<br>back on my hobby?"
+      },
+      "note": "Hybi started with <mark>work height and breaks</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Looking down <em>for ages</em><br>tires the neck!",
+      "fact": "The longer you look down, the more <em>neck muscles hold on</em>",
+      "left": {
+        "label": "Work raised",
+        "char": "cat_happy",
+        "caption": "A cushion lifts it,<br>head <b>tips less</b>"
+      },
+      "right": {
+        "label": "Low in the lap",
+        "char": "cat_tired",
+        "caption": "Looking down for hours,<br>neck <em>keeps holding</em>"
+      },
+      "quip": "Keep crafting, just mind<br>the height and breaks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute craft break</b>",
+      "sub": "Try it between rows!",
+      "sections": [
+        {
+          "heading": "1. Height + breaks + chin tuck",
+          "color": "yellow",
+          "lines": [
+            "① Rest your work on a <em>cushion</em> in your lap.",
+            "② Look up and pause <em>every 20–30 min</em>.",
+            "③ Chin tucks, <em>5 sec × 5 reps</em>.",
+            "④ Roll your shoulders slowly backwards."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your",
+            "arm or hand <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Headaches come with it",
+        "Arm or hand tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo knits for two hours every evening, and the back of her neck feels stiff by the time she finishes.\n\nThe longer you look down, the more the muscles at the back of the neck have to hold on. Raising your work on a cushion and taking regular breaks can help. The same goes for sewing, painting, puzzles and other crafts.\n\nHybi's 1-minute craft break: look up every 20 to 30 minutes, chin tucks for 5 seconds, 5 reps, and slow shoulder rolls. Stop if your arm tingles.\n\nHeadaches alongside it, or no change after two weeks, are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#neckpain",
+    "#knitting",
+    "#crafting",
+    "#hobbies",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#sydneycbdchiro",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#posture"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why long crafting sessions can stiffen the neck, raised versus low work height, a 1-minute craft break and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff neck after knitting night?",
+    "body": "Raise your work on a cushion,<br>pause every 20–30 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-18",
+  "created": "2027-03-18-2",
+  "status": "approved",
+  "review_warnings": []
+}

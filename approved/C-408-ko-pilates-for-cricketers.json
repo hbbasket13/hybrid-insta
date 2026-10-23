@@ -1,0 +1,131 @@
+{
+  "id": "C-408-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for cricketers",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "주말 크리켓 토토,<br><em>허리가 뻐근한 이유</em>",
+      "sub": "하비와 알아보는 크리켓 필라테스 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말마다 <em>수십 번의 투구</em>,<br>월요일엔 허리가 뻣뻣.",
+      "char": "rabbit_tired",
+      "bubble": "던질 때마다<br>허리가 왜 이러지..?",
+      "bubble_type": "thought",
+      "note": "(옆구리도 가끔 뻐근하다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>크리켓 하다 왔구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 그냥 쉬면<br>나아질까요?"
+      },
+      "note": "하비는 <mark>몸통을 버티는 힘</mark>이 중요하다고 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "투구는 <em>몸통 운동</em>이에요",
+      "fact": "투구할 때 몸통은 <em>빠르게 비틀고 옆으로 굽혀요</em>",
+      "left": {
+        "label": "서서히 늘리기",
+        "char": "rabbit_happy",
+        "caption": "시즌 전 투구 양을<br><b>조금씩</b> 늘려요"
+      },
+      "right": {
+        "label": "바로 전력투구",
+        "char": "rabbit_tired",
+        "caption": "준비 없이 많이 던지면<br><em>허리가 지칠 수 있어요</em>"
+      },
+      "quip": "몸통 조절력을<br>필라테스로 길러요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 크리켓 필라테스</b>",
+      "sub": "주 2~3회 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 몸통 조절 운동",
+          "color": "yellow",
+          "lines": [
+            "① 데드버그: 허리 붙이고 <em>양쪽 8회씩</em>.",
+            "② 사이드 플랭크 <em>20초 × 3회</em>, 양쪽.",
+            "③ 네발 자세 몸통 회전 <em>8회씩</em>.",
+            "④ 주 <em>2~3회</em>, 편한 범위에서 해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 상담받기!",
+          "color": "purple",
+          "lines": [
+            "던질 때 허리 통증이 <em>계속되거나</em>",
+            "다리가 저리면 물리치료사와 상담하기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 허리가 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "던질 때마다 아프다",
+        "일주일 넘게 그대로다",
+        "다리가 저리다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "주말마다 크리켓 경기에서 수십 번 공을 던지는 토토. 월요일이면 허리가 뻣뻣해요.\n\n투구할 때 몸통은 빠르게 비틀고 옆으로 굽혀요. 시즌 전 투구 양을 조금씩 늘리고, 몸통을 버티는 힘을 기르면 도움이 될 수 있어요.\n\n하비의 크리켓 필라테스: 데드버그 양쪽 8회씩, 사이드 플랭크 20초 × 3회, 네발 자세 몸통 회전 8회씩. 주 2~3회!\n\n던질 때마다 아프거나 다리가 저리면 평가가 먼저예요. 하이브리드 피지오 클리니컬 필라테스가 함께해요. 프로필 링크에서 온라인 예약 🏏\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#크리켓",
+    "#필라테스",
+    "#클리니컬필라테스",
+    "#허리통증",
+    "#채스우드",
+    "#시드니필라테스",
+    "#하이브리드피지오",
+    "#cricket",
+    "#pilates",
+    "#clinicalpilates",
+    "#chatswood",
+    "#sydneypilates"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 크리켓 투구 후 허리가 뻐근한 이유, 투구 양 늘리기 비교, 몸통 조절 필라테스 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "크리켓 후 허리가 뻐근하다면?",
+    "body": "데드버그 + 사이드 플랭크,<br>주 2~3회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-24",
+  "created": "2027-03-24-3",
+  "status": "approved",
+  "review_warnings": []
+}

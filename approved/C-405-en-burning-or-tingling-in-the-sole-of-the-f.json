@@ -1,0 +1,131 @@
+{
+  "id": "C-405-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Burning or tingling in the sole of the foot",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's soles feel<br><em>burning and tingly</em>",
+      "sub": "A foot story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko loves a long walk,<br>but her soles <em>burn</em>.",
+      "char": "koala_tired",
+      "bubble": "Why do my feet<br>tingle like this..?",
+      "bubble_type": "thought",
+      "note": "(it's more noticeable lying in bed at night..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feet bothering you?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. will new shoes<br>sort it out?"
+      },
+      "note": "Hybi explained it's often <mark>a nerve message</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Tingling is often<br>a <em>nerve signal</em>",
+      "fact": "Burning and tingling often involve <em>nerves</em>, not muscles",
+      "left": {
+        "label": "Roomy shoes",
+        "char": "koala_happy",
+        "caption": "Space for the toes,<br>the forefoot is <b>less squeezed</b>"
+      },
+      "right": {
+        "label": "Tight shoes",
+        "char": "koala_tired",
+        "caption": "A narrow toe box can<br><em>keep pressing</em> the forefoot"
+      },
+      "quip": "Checking your shoes is<br>a good first step!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute foot care</b>",
+      "sub": "Try it tonight!",
+      "sections": [
+        {
+          "heading": "1. Feet & calves",
+          "color": "yellow",
+          "lines": [
+            "① Check your shoes have a <em>roomy</em> toe box.",
+            "② Wall calf stretch, <em>30 sec × 3</em> each side.",
+            "③ Seated ankle circles, <em>10 each way</em>.",
+            "④ Check your soles for <em>cuts</em> before bed."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Tingling <em>spreads up</em> the leg, or your",
+            "foot feels <em>weak</em> — see your GP or physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>tingling</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Both feet are affected",
+        "Feeling is getting duller",
+        "You have diabetes"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko loves a long walk, but lately the soles of her feet feel burning and tingly.\n\nBurning or tingling in the sole often involves nerves rather than muscles. Tight toe boxes, long hours standing and tight calves are a few common contributors, and the cause differs from person to person.\n\nHybi's 1-minute foot care: check your shoes are roomy, wall calf stretch 30 seconds × 3, ankle circles 10 each way, and check your soles before bed.\n\nBoth feet affected, feeling getting duller, or diabetes are all good reasons to see your GP or physio. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#footpain",
+    "#tinglingfeet",
+    "#footcare",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#healthyageing",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining burning or tingling soles, roomy versus tight shoes, a 1-minute foot care routine and signs worth getting checked.",
+  "story": {
+    "headline": "Burning, tingly soles?",
+    "body": "Roomy shoes + calf stretch,<br>30 sec × 3.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-23",
+  "created": "2027-03-23-6",
+  "status": "approved",
+  "review_warnings": []
+}

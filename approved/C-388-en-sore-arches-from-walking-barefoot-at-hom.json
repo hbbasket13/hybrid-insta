@@ -1,0 +1,131 @@
+{
+  "id": "C-388-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sore arches from walking barefoot at home",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's arches ache<br>after <em>barefoot days</em>",
+      "sub": "A foot story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Working from home,<br><em>barefoot</em> all day.",
+      "char": "cat_tired",
+      "bubble": "Why do my arches<br>feel so sore<br>lately..?",
+      "bubble_type": "thought",
+      "note": "(back and forth on hard tiles from morning to night..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feet giving you grief?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "A bit.. is going<br>barefoot bad?"
+      },
+      "note": "Hybi started with <mark>what changed recently</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's less the barefoot,<br>more the <em>sudden change</em>!",
+      "fact": "A <em>sudden jump</em> in time on hard floors can leave feet sore",
+      "left": {
+        "label": "Build up slowly",
+        "char": "cat_happy",
+        "caption": "Strong feet, time<br>on them <b>added gradually</b>"
+      },
+      "right": {
+        "label": "Suddenly all day",
+        "char": "cat_tired",
+        "caption": "Hard floors all day<br><em>can tire the arches</em>"
+      },
+      "quip": "Build foot strength<br>and ease into it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute foot reset</b>",
+      "sub": "Try it on the couch!",
+      "sections": [
+        {
+          "heading": "1. Towel scrunch + calf stretch",
+          "color": "yellow",
+          "lines": [
+            "① Sit with a towel under one foot.",
+            "② Scrunch it toward you with your toes <em>× 10</em>.",
+            "③ Calf stretch against a wall, <em>30 sec × 2</em>.",
+            "④ Once or twice a day, within comfort."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your foot",
+            "<em>swells or tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "First steps hurt a lot",
+        "Swelling or redness",
+        "No better after 2–3 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Since working from home, Momo has been barefoot on hard tiles all day, and lately her arches feel sore.\n\nGoing barefoot isn't bad in itself. Often it's the sudden jump in time spent standing on hard floors that leaves feet tired. Building foot strength and easing into the change can help.\n\nHybi's 1-minute reset: towel scrunch, 10 reps, plus a calf stretch against the wall, 30 seconds, twice. Once or twice a day.\n\nVery painful first steps in the morning, swelling, or no change after two to three weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#footpain",
+    "#archpain",
+    "#barefoot",
+    "#workfromhome",
+    "#wfh",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why arches can ache after barefoot days at home, gradual versus sudden change, a 1-minute foot routine and signs worth getting checked.",
+  "story": {
+    "headline": "Sore arches from barefoot days?",
+    "body": "Towel scrunch × 10,<br>right on the couch.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-17",
+  "created": "2027-03-17-4",
+  "status": "approved",
+  "review_warnings": []
+}

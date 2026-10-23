@@ -1,0 +1,131 @@
+{
+  "id": "C-403-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for mechanics",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu the mechanic:<br><em>stiff neck and forearms</em>",
+      "sub": "Remedial massage for mechanics",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Under the car,<br>working <em>looking up</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why are my neck<br>and forearms so<br>stiff by knock-off..?",
+      "bubble_type": "thought",
+      "note": "(gripping tools all day leaves the hands heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Long day under<br>the car?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. will a massage<br>sort it out?"
+      },
+      "note": "Hybi talked about <mark>massage plus movement</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage <em>+ movement</em>,<br>side by side!",
+      "fact": "Massage can help ease that <em>tight, knotted</em> feeling",
+      "left": {
+        "label": "Massage + move",
+        "char": "kanga_happy",
+        "caption": "Paired with breaks<br>and <b>stretching</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "kanga_tired",
+        "caption": "Same posture all day,<br><em>stiff again</em>"
+      },
+      "quip": "Massage helps, movement<br>does the heavy lifting!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute workshop reset</b>",
+      "sub": "Try it between jobs!",
+      "sections": [
+        {
+          "heading": "1. 1-minute reset",
+          "color": "yellow",
+          "lines": [
+            "① Change position every <em>30–60 min</em>.",
+            "② After working overhead: chin tucks <em>5 sec × 5</em>.",
+            "③ Forearm stretch: <em>20 sec × 2 each side</em>.",
+            "④ Grip tools only <em>as tight as needed</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Your hands go <em>numb</em>, or",
+            "pain <em>keeps building</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hand numbness or weakness",
+        "Pain keeps building",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu spends the day under cars looking up and gripping tools. By knock-off, the neck and forearms feel stiff.\n\nRemedial massage can help ease that tight, knotted feeling. But if the same posture carries on all day, the stiffness often comes back, so massage works well alongside movement. Change position every 30 to 60 minutes, do chin tucks after overhead work (5 seconds × 5), stretch the forearms for 20 seconds × 2 each side, and grip tools only as tight as needed.\n\nHand numbness or weakness, or pain that keeps building, is worth an assessment. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#mechanic",
+    "#mechaniclife",
+    "#tradie",
+    "#neckpain",
+    "#sydneymassage",
+    "#chatswoodmassage",
+    "#chatswood",
+    "#workhealth",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu showing why mechanics often get a stiff neck and forearms, massage plus movement versus massage alone, a 1-minute workshop reset and signs worth getting checked.",
+  "story": {
+    "headline": "Mechanic with a stiff neck?",
+    "body": "Massage helps,<br>movement leads.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-23",
+  "created": "2027-03-23-4",
+  "status": "approved",
+  "review_warnings": []
+}

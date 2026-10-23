@@ -1,0 +1,131 @@
+{
+  "id": "C-402-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for field hockey players",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko plays hockey,<br>and has a <em>stiff back</em>",
+      "sub": "Clinical Pilates for field hockey players",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every weekend,<br><em>field hockey</em> for Koko.",
+      "char": "koala_tired",
+      "bubble": "Why are my back<br>and hips so stiff<br>after a game..?",
+      "bubble_type": "thought",
+      "note": "(running bent over is harder than it looks..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>A hockey player?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. am I getting<br>too old for it?"
+      },
+      "note": "Hybi decided to talk about <mark>the strength hockey needs</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Hockey is all <em>bending</em><br><em>and twisting</em>!",
+      "fact": "You run <em>bent over</em> and twist a lot to follow the ball",
+      "left": {
+        "label": "Hip hinge",
+        "char": "koala_happy",
+        "caption": "Fold at the hips,<br>trunk <b>steady</b>"
+      },
+      "right": {
+        "label": "Rounded back",
+        "char": "koala_tired",
+        "caption": "Rounding from the back,<br>it <em>works harder</em>"
+      },
+      "quip": "Build trunk and hip<br>strength together!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>3 hockey Pilates moves</b>",
+      "sub": "Try them on non-game days!",
+      "sections": [
+        {
+          "heading": "1. Trunk and hip strength",
+          "color": "yellow",
+          "lines": [
+            "① Bridge: lift and <em>hold 3 sec × 10</em>.",
+            "② Side plank on knees: <em>15 sec × 3 each side</em>.",
+            "③ Knee rolls side to side: <em>slowly × 10</em>.",
+            "④ 2–3 times a week, in a comfortable range."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads</em> into your leg, or",
+            "twisting feels <em>sharp</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> after games?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Sharp pain when twisting",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko plays field hockey every weekend, and the back and hips feel stiff after every game.\n\nHockey means running bent over and twisting a lot to follow the ball. Folding at the hips with a steady trunk, rather than rounding from the back, can make that easier, and that takes trunk and hip strength. Try bridges (hold 3 seconds × 10), side planks on your knees (15 seconds × 3 each side) and slow knee rolls × 10, two to three times a week.\n\nPain spreading down a leg, sharp pain when twisting, or no change after two weeks are worth an assessment. Clinical Pilates at Hybrid Physio can help. Book online via the link in bio 🏑\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#fieldhockey",
+    "#hockey",
+    "#masterssport",
+    "#sydneypilates",
+    "#sydneycbdpilates",
+    "#sydneycbd",
+    "#corestrength",
+    "#backpain",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko showing why field hockey can leave the back and hips stiff, a hip hinge versus a rounded back, three Pilates moves for hockey players and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff back after hockey?",
+    "body": "Bridges and side planks<br>build trunk strength.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-22",
+  "created": "2027-03-22-6",
+  "status": "approved",
+  "review_warnings": []
+}

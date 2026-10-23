@@ -1,0 +1,131 @@
+{
+  "id": "C-397-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pinky-side wrist pain when twisting",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's wrist <em>twinges</em><br>with every twist",
+      "sub": "Pinky-side wrist pain, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day <em>turning tools</em><br>on the job site.",
+      "char": "kanga_tired",
+      "bubble": "Why does the pinky<br>side of my wrist<br>twinge..?",
+      "bubble_type": "thought",
+      "note": "(even turning a door handle is noticeable..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Wrist bothering you?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. will a wrist<br>brace sort it out?"
+      },
+      "note": "Hybi decided to explain <mark>the pinky-side wrist</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "The pinky side is<br><em>sensitive to twisting</em>!",
+      "fact": "A <em>cartilage cushion</em> and tendons here work when you twist",
+      "left": {
+        "label": "Wrist straight",
+        "char": "kanga_happy",
+        "caption": "Elbow by your side,<br>wrist <b>in line</b>"
+      },
+      "right": {
+        "label": "Bent and twisted",
+        "char": "kanga_tired",
+        "caption": "Wrist bent pinky-side,<br><em>twisting hard</em>"
+      },
+      "quip": "Changing grip and tools<br>can ease the load!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute wrist care</b>",
+      "sub": "Try it between jobs!",
+      "sections": [
+        {
+          "heading": "1. Ease the load",
+          "color": "yellow",
+          "lines": [
+            "① Keep the wrist <em>straight</em>; use your whole arm.",
+            "② Where you can, use <em>power tools</em> or big handles.",
+            "③ Squeeze a soft ball: <em>5 sec × 10</em>, twice a day.",
+            "④ Stay within a comfortable range."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "<em>Clicking with pain</em>, or",
+            "the wrist <em>swells</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Started after a fall",
+        "Swelling or painful clicks",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu turns and tightens tools all day, and the pinky side of the wrist twinges with every twist.\n\nThat side of the wrist has a small cartilage cushion and tendons that work hard during twisting. Twisting forcefully with the wrist bent towards the pinky can add load. Keep the wrist straight and use your whole arm, choose power tools or bigger handles where you can, and try gentle soft-ball squeezes, 5 seconds × 10, within a comfortable range.\n\nPain that started after a fall, swelling or painful clicking, or no change after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#wristpain",
+    "#tradie",
+    "#tradielife",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#handtherapy",
+    "#workhealth",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining pinky-side wrist pain when twisting, a straight wrist versus a bent and twisted one, a 1-minute wrist care routine and signs worth getting checked.",
+  "story": {
+    "headline": "Wrist twinges when you twist?",
+    "body": "Wrist straight,<br>turn with the whole arm.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-20",
+  "created": "2027-03-20-4",
+  "status": "approved",
+  "review_warnings": []
+}

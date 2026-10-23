@@ -1,0 +1,131 @@
+{
+  "id": "C-408-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for cricketers",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why cricket leaves Toto's<br>back feeling <em>stiff</em>",
+      "sub": "A cricket and Pilates story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Over after over<br>every <em>Saturday</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why does my back<br>ache every time<br>I bowl..?",
+      "bubble_type": "thought",
+      "note": "(by Monday, the lower back feels stiff..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Been playing cricket?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep.. will rest alone<br>settle it?"
+      },
+      "note": "Hybi explained why <mark>trunk control</mark> matters for bowlers."
+    },
+    {
+      "kind": "compare",
+      "title": "Bowling is a<br><em>trunk workout</em>",
+      "fact": "Bowling asks the trunk to <em>twist and side-bend fast</em>",
+      "left": {
+        "label": "Build up slowly",
+        "char": "rabbit_happy",
+        "caption": "Increase bowling load<br><b>gradually</b> pre-season"
+      },
+      "right": {
+        "label": "Straight in",
+        "char": "rabbit_tired",
+        "caption": "Long spells with no build-up<br>can <em>tire the back</em>"
+      },
+      "quip": "Pilates can help build<br>trunk control!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute cricket Pilates</b>",
+      "sub": "2–3 times a week!",
+      "sections": [
+        {
+          "heading": "1. Trunk control",
+          "color": "yellow",
+          "lines": [
+            "① Dead bug, back flat, <em>8 each side</em>.",
+            "② Side plank, <em>20 sec × 3</em> each side.",
+            "③ Four-point trunk rotation, <em>8 each side</em>.",
+            "④ Stay within a <em>comfortable range</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Back pain when bowling <em>keeps coming back</em>,",
+            "or your leg tingles — see a physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back <em>still sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain every time you bowl",
+        "No better after a week",
+        "Leg tingling or numbness"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto bowls over after over every Saturday, and by Monday the lower back feels stiff.\n\nBowling asks the trunk to twist and side-bend fast, again and again. Building bowling load gradually before the season and working on trunk control can help.\n\nHybi's cricket Pilates: dead bug 8 each side, side plank 20 seconds × 3 each side, four-point trunk rotation 8 each side. Two to three times a week, in a comfortable range.\n\nPain every time you bowl, or leg tingling, is worth an assessment first. Clinical Pilates at Hybrid Physio can help. Book online via the link in bio 🏏\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#cricket",
+    "#fastbowler",
+    "#lowbackpain",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#corestrength",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why bowling can leave the back stiff, building bowling load gradually, a trunk control Pilates routine and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff back after cricket?",
+    "body": "Dead bug + side plank,<br>2–3 times a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-24",
+  "created": "2027-03-24-6",
+  "status": "approved",
+  "review_warnings": []
+}

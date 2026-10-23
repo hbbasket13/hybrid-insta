@@ -1,0 +1,131 @@
+{
+  "id": "C-390-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Shoulder pain from throwing a ball for your dog",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's shoulder hurts<br>after <em>playing fetch</em>",
+      "sub": "A shoulder story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Dozens of throws</em><br>at the dog park.",
+      "char": "rabbit_tired",
+      "bubble": "Why does my<br>shoulder twinge<br>every throw..?",
+      "bubble_type": "thought",
+      "note": "(the dog never, ever gets tired..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore shoulder?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. do I have<br>to stop playing fetch?"
+      },
+      "note": "Hybi started with <mark>how you throw</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Throwing isn't<br><em>just the shoulder</em>!",
+      "fact": "A good throw gets help from your <em>legs and trunk</em> too",
+      "left": {
+        "label": "Whole body",
+        "char": "rabbit_happy",
+        "caption": "Step and turn, and<br>the shoulder <b>works less</b>"
+      },
+      "right": {
+        "label": "Arm only",
+        "char": "rabbit_tired",
+        "caption": "All arm, no body,<br><em>shoulder takes it all</em>"
+      },
+      "quip": "Keep playing fetch,<br>just change the throw!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute fetch prep</b>",
+      "sub": "Before you hit the park!",
+      "sections": [
+        {
+          "heading": "1. Warm up and throw smarter",
+          "color": "yellow",
+          "lines": [
+            "① Big arm circles, <em>10 forwards, 10 back</em>.",
+            "② Step forward with the <em>opposite foot</em>.",
+            "③ <em>10 throws</em>, then a short break.",
+            "④ A ball launcher can share the load."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your",
+            "arm feels <em>weak</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hard to lift your arm",
+        "Shoulder pain wakes you",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto throws the ball dozens of times at the dog park, and lately his shoulder twinges with every throw.\n\nThrowing isn't just the shoulder. Stepping forward and turning your body lets your legs and trunk help, which can take some load off the shoulder.\n\nHybi's 1-minute fetch prep: big arm circles, 10 each way, step with the opposite foot, and take a short break every 10 throws. A ball launcher can share the load too. Stop if your arm feels weak.\n\nTrouble lifting your arm, pain at night, or no change after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#shoulderpain",
+    "#dogsofinstagram",
+    "#doglife",
+    "#fetch",
+    "#dogpark",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why throwing for the dog can hurt the shoulder, whole-body versus arm-only throws, a 1-minute warm-up and signs worth getting checked.",
+  "story": {
+    "headline": "Shoulder twinge from playing fetch?",
+    "body": "Arm circles × 10,<br>step and turn as you throw.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-17",
+  "created": "2027-03-17-6",
+  "status": "approved",
+  "review_warnings": []
+}

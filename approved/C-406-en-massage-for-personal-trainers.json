@@ -1,0 +1,131 @@
+{
+  "id": "C-406-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for personal trainers",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Trainer Toto's body<br>needs <em>recovery too</em>",
+      "sub": "A massage story for PTs, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Demo after demo,<br><em>seven sessions</em> a day.",
+      "char": "rabbit_tired",
+      "bubble": "Why are my calves<br>and shoulders<br>so tight..?",
+      "bubble_type": "thought",
+      "note": "(less and less time for Toto's own training..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling run down?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. will a massage<br>sort it all out?"
+      },
+      "note": "Hybi explained massage is <mark>one piece of recovery</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage is <em>one piece</em><br>of recovery",
+      "fact": "Massage <em>complements</em> rest, sleep and smart load planning",
+      "left": {
+        "label": "All together",
+        "char": "rabbit_happy",
+        "caption": "Massage + rest days + sleep,<br>recovery feels <b>easier</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "rabbit_tired",
+        "caption": "No rest days can let<br><em>fatigue build up</em>"
+      },
+      "quip": "Massage doesn't replace<br>rest or training!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute PT recovery</b>",
+      "sub": "Between clients!",
+      "sections": [
+        {
+          "heading": "1. Between-session habits",
+          "color": "yellow",
+          "lines": [
+            "① Demo only <em>as much as needed</em>.",
+            "② Calf and forearm stretch, <em>20 sec × 2</em>.",
+            "③ Keep <em>one lighter day</em> each week.",
+            "④ Use remedial massage as an <em>add-on</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "<em>Sharp pain</em>, swelling or numbness —",
+            "pause training and see a physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain wakes you at night",
+        "Swelling or bruising",
+        "Numbness or tingling"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Trainer Toto demos exercises all day. Clients get looked after, but Toto's own calves and shoulders keep tightening up.\n\nRemedial massage can help muscles feel easier, but it complements rest, sleep and sensible load planning rather than replacing them. Recovery usually goes better when they work together.\n\nHybi's PT recovery: demo only as much as needed, calf and forearm stretch 20 seconds × 2 between sessions, and keep one lighter day each week.\n\nPain that wakes you at night, swelling or numbness are worth an assessment first. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#personaltrainer",
+    "#ptlife",
+    "#recovery",
+    "#sydneymassage",
+    "#chatswood",
+    "#chatswoodmassage",
+    "#sydney",
+    "#fitnesscoach",
+    "#hybridphysiotherapy",
+    "#massagetherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit, a personal trainer, explaining how massage fits into recovery, a between-session routine and signs worth getting checked.",
+  "story": {
+    "headline": "Trainers need recovery too",
+    "body": "Massage + rest days + sleep,<br>together.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-24",
+  "created": "2027-03-24-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-414-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Neck pain from microscope and lab work",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's neck aches<br>at the <em>microscope</em>",
+      "sub": "A lab-work neck story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Hours a day<br>peering into a <em>microscope</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Why are my neck<br>and shoulders<br>so stiff..?",
+      "bubble_type": "thought",
+      "note": "(one more sample.. and the head creeps forward..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Neck bothering you?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yes.. but I can't<br>cut back on lab work."
+      },
+      "note": "Hybi suggested starting with <mark>the bench set-up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Holding still</em> is<br>the tricky part",
+      "fact": "Leaning forward and <em>holding still</em> can tire the neck",
+      "left": {
+        "label": "Set it up",
+        "char": "turtle_happy",
+        "caption": "Adjust chair and eyepieces,<br>head <b>tips less</b>"
+      },
+      "right": {
+        "label": "Craning in",
+        "char": "turtle_sad",
+        "caption": "Poking the head forward<br>keeps the neck <em>working</em>"
+      },
+      "quip": "Look up from the eyepieces<br>every 20–30 minutes!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute lab reset</b>",
+      "sub": "Between samples!",
+      "sections": [
+        {
+          "heading": "1. Bench set-up + micro-breaks",
+          "color": "yellow",
+          "lines": [
+            "① Adjust your chair so you can <em>sit back</em>.",
+            "② Every <em>20–30 min</em>, look up and into the distance.",
+            "③ Chin tuck, <em>5 sec × 10</em>.",
+            "④ Shoulder blade squeeze, <em>5 sec × 10</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Arm or hand <em>tingling</em>, or frequent",
+            "headaches — stop and chat to a physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Headaches come with it",
+        "Arm or hand tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle spends hours a day at the microscope. One more sample, and his head has crept forward again.\n\nLeaning forward and holding still for long stretches can tire the neck. Setting up the chair and eyepieces so you can sit back, plus short regular breaks, can help.\n\nHybi's lab reset: sit back in an adjusted chair, look up into the distance every 20–30 minutes, chin tucks 5 seconds × 10, and shoulder blade squeezes 5 seconds × 10.\n\nHeadaches alongside it, arm tingling, or no change after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🔬\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#neckpain",
+    "#labwork",
+    "#scientist",
+    "#microscope",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining neck pain from microscope and lab work, bench set-up versus craning in, a 1-minute lab reset and signs worth getting checked.",
+  "story": {
+    "headline": "Neck sore at the microscope?",
+    "body": "Look up every 20–30 min,<br>chin tuck 5 sec × 10.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-26",
+  "created": "2027-03-26-6",
+  "status": "approved",
+  "review_warnings": []
+}

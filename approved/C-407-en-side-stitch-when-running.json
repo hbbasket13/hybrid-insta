@@ -1,0 +1,131 @@
+{
+  "id": "C-407-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Side stitch when running",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto gets a <em>stitch</em><br>halfway through a run",
+      "sub": "A side-stitch story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lunch, then straight<br>out for a <em>run</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Ouch.. why is my<br>side stabbing?",
+      "bubble_type": "thought",
+      "note": "(slowing down seemed to help a little..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Side stitch again?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. should I<br>give up running?"
+      },
+      "note": "Hybi explained <mark>when stitches tend to show up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>What you eat</em> before<br>a run matters",
+      "fact": "Stitches are common after a <em>big meal or drink</em> pre-run",
+      "left": {
+        "label": "Light snack",
+        "char": "rabbit_happy",
+        "caption": "Eat light 1–2 hours before,<br>sip water, <b>don't gulp</b>"
+      },
+      "right": {
+        "label": "Big meal, run",
+        "char": "rabbit_tired",
+        "caption": "A full stomach on the run<br>can <em>bring on a stitch</em>"
+      },
+      "quip": "Slow down and take<br>deep, slow breaths!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute stitch plan</b>",
+      "sub": "If it hits mid-run!",
+      "sections": [
+        {
+          "heading": "1. When a stitch hits",
+          "color": "yellow",
+          "lines": [
+            "① Slow to a <em>walk</em>.",
+            "② Breathe in deep, <em>breathe out slowly</em>.",
+            "③ Press <em>gently</em> on the sore spot.",
+            "④ Side stretch, arm overhead, <em>hold 20 sec</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get medical help if…",
+          "color": "purple",
+          "lines": [
+            "Pain spreads to the <em>chest, shoulder or arm</em>,",
+            "or you feel short of breath or dizzy."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Keeps <em>coming back</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain lasts after you stop",
+        "Chest or arm pain",
+        "Breathless or dizzy"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto heads out for a run straight after lunch, and before long there's a stabbing pain in the side.\n\nSide stitches are common after a big meal or a big drink just before running. They usually settle when you slow down.\n\nHybi's stitch plan: slow to a walk, breathe in deep and out slowly, press gently on the sore spot. Next time, eat light 1–2 hours before and sip rather than gulp.\n\nPain that lasts after you stop, chest or arm pain, or feeling breathless or dizzy needs prompt medical help. If stitches keep coming back, our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sidestitch",
+    "#running",
+    "#runners",
+    "#sydneyrunners",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining side stitches when running, eating before a run, a mid-run stitch plan and signs worth getting checked.",
+  "story": {
+    "headline": "Stitch halfway through a run?",
+    "body": "Slow down, breathe out slowly,<br>press gently.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-24",
+  "created": "2027-03-24-2",
+  "status": "approved",
+  "review_warnings": []
+}

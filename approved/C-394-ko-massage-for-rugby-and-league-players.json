@@ -1,0 +1,131 @@
+{
+  "id": "C-394-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for rugby and league players",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "경기 다음 날 루루의<br>몸이 <em>천근만근인 이유</em>",
+      "sub": "럭비·리그 선수를 위한 리메디얼 마사지",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "토요일 <em>럭비 경기</em><br>다음 날의 루루.",
+      "char": "kanga_tired",
+      "bubble": "왜 경기 다음 날엔<br>온몸이 이렇게<br>뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(태클에 스크럼까지, 다리가 돌 같아..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 경기<br>뛰고 왔군요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 마사지만<br>받으면 될까요?"
+      },
+      "note": "하비는 <mark>회복은 여러 가지가 함께</mark>라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "회복은 <em>한 가지만</em>으론<br>부족해요!",
+      "fact": "마사지는 <em>잠·가벼운 움직임</em>과 함께할 때 더 좋아요",
+      "left": {
+        "label": "함께하는 회복",
+        "char": "kanga_happy",
+        "caption": "잠·움직임·마사지로<br>몸이 <b>가벼워져요</b>"
+      },
+      "right": {
+        "label": "하루 종일 소파",
+        "char": "kanga_tired",
+        "caption": "계속 누워만 있으면<br><em>더 뻣뻣해지기 쉬워요</em>"
+      },
+      "quip": "마사지는 도움이 되고<br>움직임과 함께해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 경기 후 회복</b>",
+      "sub": "경기 다음 날 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 경기 후 회복 루틴",
+          "color": "yellow",
+          "lines": [
+            "① 다음 날 가벼운 걷기·자전거 <em>10~15분</em>.",
+            "② 충분한 <em>잠과 수분</em> 챙기기.",
+            "③ 허벅지 앞 스트레칭 <em>30초 × 2회</em>.",
+            "④ 막 다친 부위는 마사지 전 <em>확인 먼저</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "머리를 부딪친 뒤 <em>두통·어지럼</em>이 있거나,",
+            "<em>체중을 싣기 어렵다면</em> 진료 먼저!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>먼저 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "머리 부딪친 뒤 어지럽다",
+        "붓고 딛기 어렵다",
+        "1주 넘게 나아지지 않는다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "토요일 럭비 경기 다음 날, 온몸이 뻐근한 루루. 태클과 스크럼에 다리가 돌처럼 무거워요.\n\n회복은 한 가지만으론 부족해요. 리메디얼 마사지는 뭉친 근육을 푸는 데 도움이 될 수 있고, 충분한 잠과 가벼운 움직임과 함께할 때 좋아요. 막 다친 부위는 마사지 전에 먼저 확인받아요.\n\n하비의 회복 루틴: 가벼운 걷기 10~15분, 잠과 수분, 허벅지 스트레칭 30초 × 2회.\n\n머리를 부딪친 뒤 두통이나 어지럼이 있으면 꼭 진료를 먼저 받아요. 하이브리드 피지오에서 함께해요. 프로필 링크에서 온라인 예약 🏉\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#럭비",
+    "#럭비리그",
+    "#운동회복",
+    "#리메디얼마사지",
+    "#스포츠마사지",
+    "#시드니물리치료",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#rugby",
+    "#rugbyleague",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 경기 다음 날 몸이 뻐근한 이유, 함께하는 회복 비교, 1분 경기 후 회복 루틴, 먼저 확인할 신호.",
+  "story": {
+    "headline": "경기 다음 날 온몸이 뻐근하다면?",
+    "body": "가볍게 10~15분 걷고<br>잠과 수분 챙기기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-19",
+  "created": "2027-03-19-1",
+  "status": "approved",
+  "review_warnings": []
+}

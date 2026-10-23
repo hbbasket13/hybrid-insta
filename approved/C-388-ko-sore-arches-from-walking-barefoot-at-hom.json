@@ -1,0 +1,131 @@
+{
+  "id": "C-388-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sore arches from walking barefoot at home",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "집에서 맨발로 지낸 뒤<br>모모의 <em>발바닥이 아픈 이유</em>",
+      "sub": "하비와 함께 알아보는 발 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "재택근무 후 하루 종일<br><em>맨발로</em> 지내는 모모.",
+      "char": "cat_tired",
+      "bubble": "왜 요즘 발바닥<br>아치가 이렇게<br>뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(타일 바닥 위를 하루 종일 오가..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 발이<br>불편하군요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 맨발이<br>나쁜 건가요?"
+      },
+      "note": "하비는 <mark>갑자기 바뀐 습관</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "맨발이 문제라기보다<br><em>갑작스런 변화</em>예요!",
+      "fact": "딱딱한 바닥에 서는 시간이 <em>갑자기 늘면</em> 발이 지쳐요",
+      "left": {
+        "label": "천천히 적응",
+        "char": "cat_happy",
+        "caption": "발 힘을 기르며<br><b>조금씩</b> 늘려요"
+      },
+      "right": {
+        "label": "갑자기 종일",
+        "char": "cat_tired",
+        "caption": "딱딱한 바닥 종일은<br><em>발이 지치기 쉬워요</em>"
+      },
+      "quip": "발 힘을 기르고<br>천천히 적응해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 발바닥 운동</b>",
+      "sub": "소파에 앉아서 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 수건 당기기 + 종아리 스트레칭",
+          "color": "yellow",
+          "lines": [
+            "① 앉아서 발밑에 수건을 깔아요.",
+            "② 발가락으로 수건을 <em>당겨 모아요</em> × 10회.",
+            "③ 벽 짚고 종아리 늘리기 <em>30초 × 2회</em>.",
+            "④ 하루 1~2번, 편한 범위에서."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>더 심해지거나</em>,",
+            "발이 <em>붓거나 저려온다면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "아침 첫걸음이 많이 아프다",
+        "발이 붓거나 붉어진다",
+        "2~3주 넘게 계속된다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "재택근무를 시작한 뒤 하루 종일 맨발로 지내는 모모. 요즘 발바닥 아치가 뻐근해요.\n\n맨발 자체가 나쁘다기보다, 딱딱한 바닥에서 서 있는 시간이 갑자기 늘면 발이 지칠 수 있어요. 발 힘을 기르며 조금씩 적응하는 게 도움이 될 수 있어요.\n\n하비의 1분 운동: 수건 당기기 10회, 종아리 스트레칭 30초 × 2회, 하루 1~2번.\n\n아침 첫걸음이 많이 아프거나 발이 붓는다면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐾\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#발바닥통증",
+    "#아치통증",
+    "#재택근무",
+    "#맨발",
+    "#시드니물리치료",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#물리치료",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#footpain",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 집에서 맨발로 지낸 뒤 발바닥이 뻐근한 이유, 갑작스런 변화 비교, 1분 발바닥 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "맨발 생활 후 발바닥이 아프다면?",
+    "body": "수건 당기기 10회,<br>소파에서 바로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-17",
+  "created": "2027-03-17-1",
+  "status": "approved",
+  "review_warnings": []
+}

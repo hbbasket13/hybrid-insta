@@ -1,0 +1,131 @@
+{
+  "id": "C-409-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Elbow pain from carrying shopping bags",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's elbow aches<br>after <em>the shopping</em>",
+      "sub": "An elbow story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Home from the shops,<br><em>every bag in one hand</em>.",
+      "char": "koala_tired",
+      "bubble": "Why does the outside<br>of my elbow ache..?",
+      "bubble_type": "thought",
+      "note": "(even lifting a cuppa twinges..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Elbow giving you grief?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. is my arm<br>just getting weak?"
+      },
+      "note": "Hybi started with the <mark>gripping muscles</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Grip</em> starts<br>at the elbow!",
+      "fact": "Your gripping muscles attach near the <em>outer elbow</em>",
+      "left": {
+        "label": "Share the load",
+        "char": "koala_happy",
+        "caption": "Split bags across both hands,<br>or use a <b>trolley</b>"
+      },
+      "right": {
+        "label": "All in one hand",
+        "char": "koala_tired",
+        "caption": "Bags hooked on fingers means<br><em>gripping hard</em> the whole way"
+      },
+      "quip": "Share the load and the<br>elbow works less!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute elbow care</b>",
+      "sub": "Start with today's shop!",
+      "sections": [
+        {
+          "heading": "1. Carrying + holds",
+          "color": "yellow",
+          "lines": [
+            "① Split the bags <em>across both hands</em>.",
+            "② Use a <em>trolley or backpack</em> for heavy loads.",
+            "③ Wrist-up hold against your hand, <em>30 sec × 5</em>.",
+            "④ Keep it to <em>mild discomfort</em> at most."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "The elbow <em>swells</em> or fingers <em>tingle</em> —",
+            "stop and chat to a physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>aching</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swollen or warm elbow",
+        "Tingling fingers",
+        "No change after a few weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko carries every shopping bag home in one hand, and lately the outside of her elbow aches.\n\nThe muscles you grip with attach near the outer elbow. Bags hooked on the fingers mean gripping hard the whole way home, which can leave that area feeling sore.\n\nHybi's elbow care: split bags across both hands, use a trolley or backpack for heavy loads, and try a wrist-up hold against your other hand, 30 seconds × 5, keeping it to mild discomfort.\n\nA swollen or warm elbow, tingling fingers, or no change after a few weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#elbowpain",
+    "#tenniselbow",
+    "#everydayhealth",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#healthyageing",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining elbow pain from carrying shopping bags, sharing the load, a 1-minute elbow routine and signs worth getting checked.",
+  "story": {
+    "headline": "Elbow aching after the shops?",
+    "body": "Split the bags,<br>hold 30 sec × 5.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-25",
+  "created": "2027-03-25-4",
+  "status": "approved",
+  "review_warnings": []
+}

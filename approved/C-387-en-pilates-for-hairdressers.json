@@ -1,0 +1,131 @@
+{
+  "id": "C-387-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for hairdressers",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's shoulders<br>ache by <em>closing time</em>",
+      "sub": "A Pilates story for hairdressers, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "On her feet all day,<br><em>arms up</em> at the chair.",
+      "char": "cat_tired",
+      "bubble": "Why do my shoulders<br>and neck ache on<br>busy days..?",
+      "bubble_type": "thought",
+      "note": "(after the last blow-dry, her arms feel heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Busy day at the salon?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Always.. will<br>stretching sort it?"
+      },
+      "note": "Hybi started with <mark>how high your arms work</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Arms up for hours<br>gets <em>tiring</em>!",
+      "fact": "Arms raised for long spells can <em>tire the shoulders</em>",
+      "left": {
+        "label": "Chair adjusted",
+        "char": "cat_happy",
+        "caption": "Client chair set right,<br>elbows <b>sit lower</b>"
+      },
+      "right": {
+        "label": "Arms held high",
+        "char": "cat_tired",
+        "caption": "Arms up all day,<br>shoulders <em>keep holding</em>"
+      },
+      "quip": "Set the height, then build<br>the support around it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shoulder reset</b>",
+      "sub": "Try it between clients!",
+      "sections": [
+        {
+          "heading": "1. Shoulder blade setting",
+          "color": "yellow",
+          "lines": [
+            "① Stand tall, arms relaxed by your sides.",
+            "② Draw shoulder blades <em>gently back and down</em>.",
+            "③ Hold <em>5 sec × 10 reps</em>, between clients.",
+            "④ Keep shoulders away from your ears."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your",
+            "fingers <em>tingle</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hand or finger tingling",
+        "Shoulder pain wakes you",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo is on her feet all day with her arms up at the chair, and on busy days her shoulders and neck ache.\n\nWorking with arms raised for long spells can tire the shoulders and neck. Adjusting the client chair so your elbows sit a little lower can help share the load. Clinical Pilates can help build the shoulder and upper-back strength that supports long salon days.\n\nHybi's 1-minute reset: shoulder blade setting, hold 5 seconds, 10 reps, between clients. Stop if your fingers tingle.\n\nPain that wakes you at night or no change after two weeks is worth an assessment. Come and see us at Hybrid Physio. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#hairdresser",
+    "#hairstylist",
+    "#shoulderpain",
+    "#neckpain",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#salonlife"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why hairdressers' shoulders ache, chair height versus arms held high, a 1-minute shoulder blade exercise and signs worth getting checked.",
+  "story": {
+    "headline": "Shoulders aching by closing time?",
+    "body": "Shoulder blade setting 5 sec × 10,<br>between clients.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-16",
+  "created": "2027-03-16-6",
+  "status": "approved",
+  "review_warnings": []
+}

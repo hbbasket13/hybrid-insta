@@ -1,0 +1,131 @@
+{
+  "id": "C-389-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for gardeners and landscapers",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko feels stiff<br>the <em>day after gardening</em>",
+      "sub": "A remedial massage story for gardeners",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A whole weekend<br><em>crouched</em> over the weeds.",
+      "char": "koala_tired",
+      "bubble": "Why are my back<br>and forearms so stiff<br>the next day..?",
+      "bubble_type": "thought",
+      "note": "(digging, weeding, shifting pots..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Keen gardener?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Very.. will a massage<br>sort me out?"
+      },
+      "note": "Hybi suggested looking at <mark>how you garden</mark> too."
+    },
+    {
+      "kind": "compare",
+      "title": "Hours in <em>one position</em><br>gets tiring!",
+      "fact": "Switching tasks <em>every 20–30 min</em> can help share the load",
+      "left": {
+        "label": "Mix it up",
+        "char": "koala_happy",
+        "caption": "Changing tasks often,<br>muscles <b>tire less</b>"
+      },
+      "right": {
+        "label": "Hours the same",
+        "char": "koala_tired",
+        "caption": "One position for hours<br><em>often leaves you stiff</em>"
+      },
+      "quip": "Massage helps most<br>with staying active!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute garden prep</b>",
+      "sub": "Before you head outside!",
+      "sections": [
+        {
+          "heading": "1. Garden habits",
+          "color": "yellow",
+          "lines": [
+            "① Stand and gently lean back <em>5 times</em>.",
+            "② Use a kneeling pad, <em>one knee</em> down.",
+            "③ Switch tasks <em>every 20–30 min</em>.",
+            "④ Lift heavy pots with bent knees, close in."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your",
+            "leg <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Leg numbness or weakness",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko spends whole weekends crouched over the weeds and shifting pots, and the next day her back and forearms feel stiff.\n\nStaying in one position for hours often leaves muscles tired. Switching tasks every 20 to 30 minutes can help share the load. Remedial massage can help ease tight muscles, and it tends to help most alongside staying active.\n\nHybi's garden prep: gently lean back 5 times before you start, use a kneeling pad, and switch tasks every 20 to 30 minutes. Stop if your leg tingles.\n\nPain spreading down a leg or no change after two weeks is worth an assessment. Our remedial massage therapists and physios at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#gardening",
+    "#gardener",
+    "#landscaper",
+    "#backpain",
+    "#sydneycbd",
+    "#sydneymassage",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why gardening can leave you stiff, switching tasks versus hours in one position, simple garden habits and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff the day after gardening?",
+    "body": "Switch tasks every 20–30 min,<br>and use a kneeling pad.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-17",
+  "created": "2027-03-17-2",
+  "status": "approved",
+  "review_warnings": []
+}

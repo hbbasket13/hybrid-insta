@@ -1,0 +1,132 @@
+{
+  "id": "C-385-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for parents of young kids",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "루루의 허리가 저녁마다<br><em>묵직한 이유</em>",
+      "sub": "어린 아이를 키우는 부모를 위한 필라테스",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루에도 <em>수십 번</em>,<br>아이를 안아 올리는 루루.",
+      "char": "kanga_tired",
+      "bubble": "왜 저녁만 되면<br>허리가 이렇게<br>묵직하지..?",
+      "bubble_type": "thought",
+      "note": "(카시트에 태우고, 한쪽 골반에 안고..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 아이<br>키우느라 바쁘죠?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 아이를 덜<br>안아야 할까요?"
+      },
+      "note": "하비는 <mark>어떻게 안느냐</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "안는 <em>위치</em>가<br>생각보다 중요해요!",
+      "fact": "무게는 <em>몸 가까이</em> 들수록 허리 부담이 줄 수 있어요",
+      "left": {
+        "label": "몸 가까이",
+        "char": "kanga_happy",
+        "caption": "아이를 몸에 붙여 안으면<br>허리가 <b>덜 버텨요</b>"
+      },
+      "right": {
+        "label": "한쪽만 계속",
+        "char": "kanga_tired",
+        "caption": "늘 같은 쪽만 쓰면<br><em>한쪽이 지치기 쉬워요</em>"
+      },
+      "quip": "안는 건 계속하고<br>받쳐주는 힘을 길러요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 부모 코어 운동</b>",
+      "sub": "아이 낮잠 시간에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 브릿지 (엉덩이 들기)",
+          "color": "yellow",
+          "lines": [
+            "① 누워서 무릎을 세우고 발은 골반 너비로.",
+            "② 배에 살짝 힘을 주고 엉덩이를 들어요.",
+            "③ <em>3초 유지 × 10회</em>, 하루 1번.",
+            "④ 안을 땐 좌우를 <em>번갈아</em> 써요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "허리 통증이 <em>심해지거나</em>,",
+            "다리가 <em>저려온다면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리 쪽으로 통증이 퍼진다",
+        "다리가 저리거나 힘이 없다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "하루에도 수십 번 아이를 안아 올리는 루루. 저녁만 되면 허리가 묵직해요.\n\n아이는 금방 무거워지고, 늘 같은 쪽 골반에 안게 되기 쉬워요. 무게는 몸 가까이 들수록 허리 부담이 줄 수 있어요. 클리닉 필라테스는 엉덩이와 몸통의 받쳐주는 힘을 기르는 데 도움이 될 수 있어요.\n\n하비의 1분 운동: 브릿지 3초 유지 × 10회, 하루 1번. 안을 땐 좌우를 번갈아 써요.\n\n다리로 통증이 퍼지거나 저리면 평가가 먼저예요. 하이브리드 피지오에서 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#육아",
+    "#육아맘",
+    "#육아대디",
+    "#허리통증",
+    "#필라테스",
+    "#클리닉필라테스",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#물리치료",
+    "#pilates",
+    "#clinicalpilates",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 아이를 안을 때 허리가 묵직한 이유, 안는 위치 비교, 1분 브릿지 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "아이 안다가 허리가 묵직하다면?",
+    "body": "브릿지 3초 × 10회,<br>낮잠 시간에!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-16",
+  "created": "2027-03-16-1",
+  "status": "approved",
+  "review_warnings": []
+}

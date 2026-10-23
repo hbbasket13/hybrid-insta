@@ -1,0 +1,131 @@
+{
+  "id": "C-410-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for receptionists and admin staff",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's shoulders<br>feel <em>like rocks</em>",
+      "sub": "A front-desk massage story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Phones, emails, typing —<br><em>one position all day</em>.",
+      "char": "cat_tired",
+      "bubble": "Why are my<br>shoulders so tight..?",
+      "bubble_type": "thought",
+      "note": "(the phone tucked under one ear is a habit..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shoulders tight?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yes.. will a massage<br>keep them loose?"
+      },
+      "note": "Hybi suggested pairing massage with <mark>moving more often</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Muscles like<br><em>a change of position</em>",
+      "fact": "Staying in one position can <em>tire muscles</em> quickly",
+      "left": {
+        "label": "Headset",
+        "char": "cat_happy",
+        "caption": "Head stays level,<br>shoulders <b>can relax</b>"
+      },
+      "right": {
+        "label": "Phone tucked in",
+        "char": "cat_tired",
+        "caption": "Holding the phone with<br>your neck <em>keeps it working</em>"
+      },
+      "quip": "Massage plus moving often<br>work well together!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute desk reset</b>",
+      "sub": "Between calls!",
+      "sections": [
+        {
+          "heading": "1. Front-desk habits",
+          "color": "yellow",
+          "lines": [
+            "① Take calls on a <em>headset or speaker</em>.",
+            "② Roll your shoulders <em>back 10 times</em>.",
+            "③ About every 30 min, <em>stand and walk</em>.",
+            "④ Side neck stretch, <em>20 sec each side</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Your arm <em>tingles</em> or headaches keep",
+            "coming — chat to a physio or GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>tight</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Frequent headaches",
+        "Arm or hand tingling",
+        "No change after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Phones, emails, typing. Momo sits at the front desk in one position all day, and her shoulders feel like rocks.\n\nStaying in one position for long stretches can tire muscles quickly. Remedial massage can help tight shoulders feel easier, and it tends to work well alongside moving more often.\n\nHybi's desk reset: take calls on a headset or speaker, roll your shoulders back 10 times, stand and walk about every 30 minutes, and side neck stretch 20 seconds each side.\n\nFrequent headaches or arm tingling are worth an assessment first. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#shouldertension",
+    "#officeworker",
+    "#deskjob",
+    "#receptionist",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#sydneycbdmassage",
+    "#sydney",
+    "#workplacewellbeing",
+    "#hybridphysiotherapy",
+    "#massagetherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat, a receptionist, explaining tight shoulders from desk work, headset versus phone on the shoulder, a 1-minute desk reset and signs worth getting checked.",
+  "story": {
+    "headline": "Shoulders feel like rocks?",
+    "body": "Use a headset, stand up<br>about every 30 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-25",
+  "created": "2027-03-25-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-411-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for gamers and streamers",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's wrists<br>and neck feel <em>stiff</em>",
+      "sub": "A gamer's massage story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After work, it's <em>game time</em><br>until late at night.",
+      "char": "turtle_monitor",
+      "bubble": "Why are my wrists<br>and neck so stiff..?",
+      "bubble_type": "thought",
+      "note": "(one more round.. and suddenly it's been 3 hours..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Long gaming session?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. can a massage<br>keep me going?"
+      },
+      "note": "Hybi said <mark>regular breaks</mark> come first."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Breaks</em> are part<br>of the game",
+      "fact": "Long stretches in one position can <em>tire wrists and neck</em>",
+      "left": {
+        "label": "Break each game",
+        "char": "turtle_happy",
+        "caption": "Stand up, loosen<br>wrists and neck <b>briefly</b>"
+      },
+      "right": {
+        "label": "Hours straight",
+        "char": "turtle_sad",
+        "caption": "Playing for hours without<br>a break can <em>build stiffness</em>"
+      },
+      "quip": "Massage works well<br>alongside regular breaks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute gamer reset</b>",
+      "sub": "Between rounds!",
+      "sections": [
+        {
+          "heading": "1. Between-round reset",
+          "color": "yellow",
+          "lines": [
+            "① About <em>every hour</em>, stand and walk.",
+            "② Wrist stretch, both ways, <em>20 sec each</em>.",
+            "③ Screen at <em>eye level</em>, elbows by your side.",
+            "④ Chin tuck, <em>5 sec × 10</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Fingers <em>tingle</em> or grip feels weak —",
+            "pause and chat to a physio or GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hands tingle at night",
+        "Grip feels weaker",
+        "Frequent headaches"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "After work, Mr Turtle games and streams until late. One more round turns into three hours, and his wrists and neck feel stiff.\n\nLong stretches in one position can tire the wrists and neck. Remedial massage can help things feel easier, and it works well alongside regular breaks.\n\nHybi's gamer reset: stand and walk about every hour, wrist stretches 20 seconds each way, screen at eye level with elbows by your side, and chin tucks 5 seconds × 10.\n\nHands tingling at night or a weaker grip are worth an assessment first. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio 🎮\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#gamer",
+    "#streamer",
+    "#gamingsetup",
+    "#wristpain",
+    "#neckpain",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#sydneycbdmassage",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#massagetherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining stiff wrists and neck from gaming and streaming, regular breaks versus hours straight, a 1-minute gamer reset and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff wrists after gaming?",
+    "body": "Stand up every hour,<br>wrist stretch 20 sec.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-25",
+  "created": "2027-03-25-6",
+  "status": "approved",
+  "review_warnings": []
+}

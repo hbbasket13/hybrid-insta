@@ -1,0 +1,131 @@
+{
+  "id": "C-412-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for padel players",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why padel calls for<br><em>trunk control</em>",
+      "sub": "A padel and Pilates story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Two games of <em>padel</em><br>straight after work.",
+      "char": "rabbit_tired",
+      "bubble": "Why do I wobble<br>every time I<br>change direction..?",
+      "bubble_type": "thought",
+      "note": "(and the shoulder feels heavy after smashes..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Fresh off the court?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep.. should I just<br>lift more weights?"
+      },
+      "note": "Hybi explained why <mark>trunk control</mark> matters on court."
+    },
+    {
+      "kind": "compare",
+      "title": "Padel is all about<br><em>changing direction</em>",
+      "fact": "Padel is full of <em>quick turns, lunges and overhead shots</em>",
+      "left": {
+        "label": "Warm up first",
+        "char": "rabbit_happy",
+        "caption": "5–10 minutes to warm up,<br>then <b>onto the court</b>"
+      },
+      "right": {
+        "label": "Straight on",
+        "char": "rabbit_tired",
+        "caption": "Straight from the desk,<br>the body is <em>less ready</em>"
+      },
+      "quip": "Pilates can help build<br>trunk control!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute padel Pilates</b>",
+      "sub": "2–3 times a week!",
+      "sections": [
+        {
+          "heading": "1. Trunk & leg control",
+          "color": "yellow",
+          "lines": [
+            "① Side-lying trunk rotation, <em>8 each side</em>.",
+            "② Single-leg bridge, <em>8 each side</em>.",
+            "③ Single-leg balance, <em>30 sec each side</em>.",
+            "④ Side plank, <em>20 sec × 2</em> each side."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Calf pain <em>like being kicked</em> — stop straight away.",
+            "Elbow pain that lingers — chat to a physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sudden calf pain on court",
+        "Elbow pain that lingers",
+        "No better after a week"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto plays two games of padel straight after work, and the next day the side and shoulder feel stiff.\n\nPadel is full of quick turns, lunges and overhead shots. A proper warm-up and good trunk and leg control can help the body handle it.\n\nHybi's padel Pilates: side-lying trunk rotation 8 each side, single-leg bridge 8 each side, single-leg balance 30 seconds each side, side plank 20 seconds × 2. Two to three times a week.\n\nSudden calf pain on court or elbow pain that lingers is worth an assessment first. Clinical Pilates at Hybrid Physio can help. Book online via the link in bio 🎾\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#padel",
+    "#padelsydney",
+    "#padellife",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#sydneycbdpilates",
+    "#sydney",
+    "#corestrength",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why padel calls for trunk control, warming up versus going straight on court, a padel Pilates routine and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff after padel?",
+    "body": "Single-leg bridge + balance,<br>2–3 times a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-26",
+  "created": "2027-03-26-4",
+  "status": "approved",
+  "review_warnings": []
+}

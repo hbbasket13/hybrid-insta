@@ -1,0 +1,131 @@
+{
+  "id": "C-391-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Supermarket trolley and loading the boot",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's back twinges<br>at the <em>car boot</em>",
+      "sub": "A shopping-day back story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekly shop done,<br>now <em>into the boot</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why does my back<br>twinge every time<br>I load the car..?",
+      "bubble_type": "thought",
+      "note": "(reaching from the trolley deep into the boot..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back playing up?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "A bit.. should I stop<br>lifting the bags?"
+      },
+      "note": "Hybi started with <mark>how you load</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Reach and twist</em><br>is hard on the back!",
+      "fact": "The same bag held <em>at arm's length</em> asks more of your back",
+      "left": {
+        "label": "Close, step",
+        "char": "kanga_happy",
+        "caption": "Bag close, turn with<br>your feet, back <b>works less</b>"
+      },
+      "right": {
+        "label": "Reach, twist",
+        "char": "kanga_tired",
+        "caption": "Arms out and twisting,<br>back <em>works harder</em>"
+      },
+      "quip": "Keep lifting,<br>just change the how!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute boot routine</b>",
+      "sub": "Try it on your next shop!",
+      "sections": [
+        {
+          "heading": "1. Back-friendly loading",
+          "color": "yellow",
+          "lines": [
+            "① Pack <em>lighter bags</em>, more of them.",
+            "② Park the trolley <em>right by the boot</em>.",
+            "③ Bend your knees, bag <em>close to you</em>.",
+            "④ Turn with your <em>feet</em>, not your waist."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your",
+            "leg <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Leg numbness or weakness",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu does the weekly shop, then reaches from the trolley deep into the boot, and the lower back twinges every time.\n\nThe same bag held at arm's length while twisting asks more of your back. Keeping the load close and turning with your feet usually feels easier.\n\nHybi's boot routine: pack lighter bags, park the trolley right by the boot, bend your knees, keep the bag close, and turn with your feet, not your waist. Stop if your leg tingles.\n\nPain spreading down a leg, numbness, or no change after two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#backpain",
+    "#lowerbackpain",
+    "#groceryshopping",
+    "#everydayhealth",
+    "#sydneychiro",
+    "#chatswoodchiro",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#posture"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why loading the car boot can twinge the back, close lifting versus reaching and twisting, a 1-minute loading routine and signs worth getting checked.",
+  "story": {
+    "headline": "Back twinge at the car boot?",
+    "body": "Keep bags close,<br>turn with your feet.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-18",
+  "created": "2027-03-18-4",
+  "status": "approved",
+  "review_warnings": []
+}

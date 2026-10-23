@@ -1,0 +1,131 @@
+{
+  "id": "C-385-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for parents of young kids",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's back feels<br><em>heavy every evening</em>",
+      "sub": "A Pilates story for parents of little ones",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lifting a little one<br><em>dozens of times</em> a day.",
+      "char": "kanga_tired",
+      "bubble": "Why does my<br>lower back feel so<br>heavy by dinner..?",
+      "bubble_type": "thought",
+      "note": "(car seat, cot, bath, a toddler on one hip..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Busy with the kids?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "So busy.. should I<br>carry them less?"
+      },
+      "note": "Hybi started with <mark>how you carry</mark>, not how much."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Where</em> you hold them<br>matters!",
+      "fact": "A load held <em>close to your body</em> is usually easier on the back",
+      "left": {
+        "label": "Held close",
+        "char": "kanga_happy",
+        "caption": "Child close to your body,<br>back <b>works less</b>"
+      },
+      "right": {
+        "label": "Same hip",
+        "char": "kanga_tired",
+        "caption": "Always the same side<br><em>tires one side out</em>"
+      },
+      "quip": "Keep carrying, and build<br>the support around it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute parent core</b>",
+      "sub": "Try it during nap time!",
+      "sections": [
+        {
+          "heading": "1. Glute bridge",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, knees bent, feet hip-width.",
+            "② Gently brace your tummy and lift your hips.",
+            "③ Hold <em>3 sec × 10 reps</em>, once a day.",
+            "④ When carrying, <em>swap sides</em> often."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Back pain gets <em>worse</em>, or your",
+            "leg <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Leg numbness or weakness",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu lifts a little one dozens of times a day, and by dinner her lower back feels heavy.\n\nToddlers get heavy fast, and it's easy to always carry them on the same hip. Holding a load close to your body is usually easier on the back. Clinical Pilates can help build the hip and trunk strength that supports all that lifting.\n\nHybi's 1-minute move: glute bridge, hold 3 seconds, 10 reps, once a day. Swap carrying sides often. Stop if pain gets worse or your leg tingles.\n\nPain spreading down a leg, numbness or weakness, or no change after two weeks are worth an assessment. Come and see us at Hybrid Physio. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#parenting",
+    "#newparents",
+    "#lowerbackpain",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#corestrength",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why carrying little ones can leave the back heavy, how holding position matters, a 1-minute glute bridge and signs worth getting checked.",
+  "story": {
+    "headline": "Back heavy from carrying kids?",
+    "body": "Glute bridge 3 sec × 10,<br>during nap time.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-16",
+  "created": "2027-03-16-4",
+  "status": "approved",
+  "review_warnings": []
+}

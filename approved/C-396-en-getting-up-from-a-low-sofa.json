@@ -1,0 +1,131 @@
+{
+  "id": "C-396-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Getting up from a low sofa",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle vs<br>the <em>low sofa</em>",
+      "sub": "Getting up from a low sofa, back-friendly",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After work, sinking<br>into a <em>deep, soft sofa</em>.",
+      "char": "turtle_sad",
+      "bubble": "Why does my back<br>grumble every time<br>I get up..?",
+      "bubble_type": "thought",
+      "note": "(it takes a few rocks back and forth to get up..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sofa giving you<br>trouble?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. do I need<br>a new sofa?"
+      },
+      "note": "Hybi decided to start with <mark>the order of the move</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Nose over toes!</em>",
+      "fact": "A <em>lower</em> seat means legs and back work harder to stand",
+      "left": {
+        "label": "Lean forward",
+        "char": "turtle_happy",
+        "caption": "Bottom to the edge,<br><b>lean forward</b> first"
+      },
+      "right": {
+        "label": "Leaning back",
+        "char": "turtle_sad",
+        "caption": "Sitting back, the back<br><em>hauls you up</em>"
+      },
+      "quip": "Change the order and it<br>can feel much lighter!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>3-step sofa stand</b>",
+      "sub": "Try it tonight!",
+      "sections": [
+        {
+          "heading": "1. Back-friendly stand",
+          "color": "yellow",
+          "lines": [
+            "① Scoot your bottom to the <em>front edge</em>.",
+            "② Feet hip-width, <em>tucked under</em> your knees.",
+            "③ Lean so your <em>nose is over your toes</em>.",
+            "④ Push through your thighs, stand <em>slowly</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads</em> into your leg, or",
+            "you feel <em>tingling</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Sore even when resting",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "After work, Mr Turtle sinks into a deep, soft sofa. Getting back up is where the back starts to grumble.\n\nThe lower the seat, the harder your legs and back have to work to stand. Scoot to the front edge, tuck your feet under your knees, lean until your nose is over your toes, then push through your thighs and stand slowly. A firm cushion to lift the seat a little can also help.\n\nPain spreading down a leg, soreness even at rest, or no change after two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#sydneychiro",
+    "#sydneycbdchiro",
+    "#sydneycbd",
+    "#backpain",
+    "#lowbackpain",
+    "#backcare",
+    "#officeworker",
+    "#movementtips",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#posture"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle showing why getting up from a low sofa can strain the back, leaning forward versus leaning back, a 3-step sofa stand and signs worth getting checked.",
+  "story": {
+    "headline": "Low sofa, sore back?",
+    "body": "Front edge, feet back,<br>nose over toes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-19",
+  "created": "2027-03-19-6",
+  "status": "approved",
+  "review_warnings": []
+}

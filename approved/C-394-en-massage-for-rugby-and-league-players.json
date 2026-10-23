@@ -1,0 +1,131 @@
+{
+  "id": "C-394-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for rugby and league players",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu feels <em>battered</em><br>the day after footy",
+      "sub": "A remedial massage story for rugby and league",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Sunday morning,<br>after <em>Saturday's game</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why does everything<br>ache the day<br>after a game..?",
+      "bubble_type": "thought",
+      "note": "(tackles, rucks, scrums.. legs like concrete..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big game yesterday?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Huge.. will a massage<br>sort me out?"
+      },
+      "note": "Hybi explained that <mark>recovery is a mix</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Recovery is more than<br><em>one thing</em>!",
+      "fact": "Massage tends to help most <em>alongside sleep and movement</em>",
+      "left": {
+        "label": "Mixed recovery",
+        "char": "kanga_happy",
+        "caption": "Sleep, movement, massage,<br>body feels <b>lighter</b>"
+      },
+      "right": {
+        "label": "Couch all day",
+        "char": "kanga_tired",
+        "caption": "Lying still all day<br><em>often feels stiffer</em>"
+      },
+      "quip": "Massage helps most<br>with staying active!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute recovery plan</b>",
+      "sub": "Try it the day after a game!",
+      "sections": [
+        {
+          "heading": "1. Post-game recovery",
+          "color": "yellow",
+          "lines": [
+            "① Easy walk or bike, <em>10–15 min</em>, next day.",
+            "② Prioritise <em>sleep and fluids</em>.",
+            "③ Quad stretch, <em>30 sec × 2</em> each leg.",
+            "④ Fresh injury? Get it <em>checked before</em> massage."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Any <em>head knock</em> with headache or dizziness,",
+            "or you <em>can't bear weight</em> — see a doctor first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it <em>checked first</em> if..",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Dizzy after a head knock",
+        "Swollen, hard to walk on",
+        "No better after a week"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "The day after Saturday's game, Lulu aches all over. Tackles, rucks and scrums leave the legs feeling like concrete.\n\nRecovery is usually a mix, not one thing. Remedial massage can help ease tight muscles, and it tends to help most alongside good sleep and gentle movement. Fresh injuries are worth checking before any massage.\n\nHybi's recovery plan: an easy 10 to 15 minute walk or bike the next day, sleep and fluids, and a quad stretch for 30 seconds, twice each leg.\n\nAfter any head knock with headache or dizziness, see a doctor first. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#rugby",
+    "#rugbyleague",
+    "#footy",
+    "#recovery",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#massage"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining how to recover after a rugby or league game, mixed recovery versus a day on the couch, a 1-minute recovery plan and signs to get checked first.",
+  "story": {
+    "headline": "Battered the day after footy?",
+    "body": "Easy 10–15 min walk,<br>plus sleep and fluids.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-19",
+  "created": "2027-03-19-4",
+  "status": "approved",
+  "review_warnings": []
+}

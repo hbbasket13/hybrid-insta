@@ -1,0 +1,131 @@
+{
+  "id": "C-395-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Bathing the dog: back-friendly tips",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's back aches<br>after <em>bathing the dog</em>",
+      "sub": "Back-friendly dog bath tips, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every weekend, <em>bent over</em><br>the tub with the dog.",
+      "char": "rabbit_tired",
+      "bubble": "Why does my back<br>ache every time<br>I wash the dog..?",
+      "bubble_type": "thought",
+      "note": "(the dog loves it.. the back, not so much..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling sore?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. should I stop<br>washing the dog?"
+      },
+      "note": "Hybi decided to start with <mark>back-friendly positions</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's the <em>long bend</em><br>that tires the back!",
+      "fact": "Long spells <em>bent and twisted</em> can tire the back quickly",
+      "left": {
+        "label": "Kneel close",
+        "char": "rabbit_happy",
+        "caption": "Kneel on a towel,<br>dog <b>close to you</b>"
+      },
+      "right": {
+        "label": "Bent over",
+        "char": "rabbit_tired",
+        "caption": "Bending and twisting,<br>the back <em>works harder</em>"
+      },
+      "quip": "A small change in position<br>can make it much easier!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>back-friendly bath</b>",
+      "sub": "Try it at the next bath!",
+      "sections": [
+        {
+          "heading": "1. Set up first",
+          "color": "yellow",
+          "lines": [
+            "① Put shampoo and towels <em>within reach</em>.",
+            "② Kneel on a <em>folded towel</em> by the tub.",
+            "③ Turn with your <em>feet</em>, not by twisting.",
+            "④ Every <em>5 min</em>, stand and lean back gently ×5."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads</em> into your leg, or your",
+            "leg feels <em>numb</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Leg numbness or weakness",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto bathes the dog every weekend, and the back often grumbles afterwards. Long spells bent over the tub can do that.\n\nBending and twisting for a while makes the back work harder and tire quickly. Set shampoo and towels within reach first, kneel on a folded towel, keep the dog close, and turn with your feet instead of twisting. Every five minutes, stand up and gently lean back five times.\n\nPain spreading down a leg, numbness, or no change after two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🐶\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#sydneychiro",
+    "#chatswoodchiro",
+    "#chatswood",
+    "#backpain",
+    "#lowbackpain",
+    "#dogsofsydney",
+    "#doglife",
+    "#backcare",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#posture"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto showing why bathing the dog can leave the back sore, kneeling versus bending over, a back-friendly bath routine and signs worth getting checked.",
+  "story": {
+    "headline": "Sore back after the dog's bath?",
+    "body": "Kneel, keep close,<br>turn with your feet.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-19",
+  "created": "2027-03-19-2",
+  "status": "approved",
+  "review_warnings": []
+}

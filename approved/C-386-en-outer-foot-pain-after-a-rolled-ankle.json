@@ -1,0 +1,131 @@
+{
+  "id": "C-386-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Outer foot pain after a rolled ankle",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto rolled his ankle..<br>so why does the <em>outer foot</em> hurt?",
+      "sub": "An ankle story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A weekend run,<br>then a <em>rolled ankle</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why is the outside<br>of my foot sorer<br>than my ankle..?",
+      "bubble_type": "thought",
+      "note": "(days later, stepping on that side still feels off..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Rolled that ankle?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. should I just<br>rest it completely?"
+      },
+      "note": "Hybi started with <mark>the signs worth checking</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Rolled ankle: is <em>rest</em><br>all it needs?",
+      "fact": "Most sprains settle with <em>gradual, guided movement</em>",
+      "left": {
+        "label": "Move gently",
+        "char": "rabbit_happy",
+        "caption": "Moving within comfort<br>helps it <b>loosen up</b>"
+      },
+      "right": {
+        "label": "Total rest",
+        "char": "rabbit_tired",
+        "caption": "Too long still can<br>leave it <em>stiff and weak</em>"
+      },
+      "quip": "Bony outer foot pain?<br>Get that checked first!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute ankle reset</b>",
+      "sub": "Once walking feels okay!",
+      "sections": [
+        {
+          "heading": "1. Ankle circles + calf raises",
+          "color": "yellow",
+          "lines": [
+            "① Sit and slowly draw <em>circles</em> with your foot.",
+            "② <em>10 each way</em>, 2–3 times a day.",
+            "③ When easy, <em>10 calf raises</em> on both feet.",
+            "④ Stay within comfort."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or you",
+            "<em>can't bear weight</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it <em>checked first</em> if..",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "You can't take a few steps",
+        "Outer foot bone is tender",
+        "Swelling past 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto rolled his ankle on a weekend run, but the outside of his foot is sorer than the ankle itself.\n\nMost rolled ankles settle well with gradual, guided movement rather than total rest. But if the bone on the outer foot is tender to press, or you can't take a few steps, it's worth getting checked first, as sometimes imaging is needed.\n\nHybi's 1-minute reset: ankle circles, 10 each way, then 10 calf raises once it's comfortable. Stop if pain gets worse.\n\nSwelling hanging around past two weeks is worth an assessment too. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#anklesprain",
+    "#rolledankle",
+    "#footpain",
+    "#running",
+    "#runners",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining outer foot pain after a rolled ankle, rest versus gentle movement, a 1-minute ankle routine and signs to get checked first.",
+  "story": {
+    "headline": "Outer foot sore after a sprain?",
+    "body": "Ankle circles 10 each way,<br>within comfort.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-16",
+  "created": "2027-03-16-2",
+  "status": "approved",
+  "review_warnings": []
+}

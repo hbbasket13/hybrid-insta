@@ -1,0 +1,132 @@
+{
+  "id": "C-413-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Shoulder pain reaching into the back seat",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "뒷좌석에 손 뻗던 루루,<br><em>어깨가 찌릿한 이유</em>",
+      "sub": "하비와 알아보는 어깨 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "운전석에 앉은 채<br>뒷좌석 <em>공구 가방</em>을 쭉.",
+      "char": "kanga_tired",
+      "bubble": "어깨가 왜<br>찌릿하지..?",
+      "bubble_type": "thought",
+      "note": "(팔을 올릴 때도 살짝 걸린다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>어깨가 불편하구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 매일 일하는데<br>어떡하죠?"
+      },
+      "note": "하비는 먼저 <mark>어깨가 버티기 힘든 자세</mark>를 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "뒤로 뻗기는 <em>어깨 끝 범위</em>",
+      "fact": "몸을 비틀며 뒤로 뻗으면 <em>어깨가 끝 범위</em>에서 버텨요",
+      "left": {
+        "label": "내려서 꺼내기",
+        "char": "kanga_happy",
+        "caption": "뒷문을 열고 가방을<br><b>가까이서</b> 들어요"
+      },
+      "right": {
+        "label": "앉아서 뻗기",
+        "char": "kanga_tired",
+        "caption": "비튼 채 무거운 걸 들면<br><em>어깨에 부담이 커요</em>"
+      },
+      "quip": "몇 초 더 걸려도<br>내려서 꺼내요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 어깨 관리</b>",
+      "sub": "현장 가기 전에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 습관 + 어깨 운동",
+          "color": "yellow",
+          "lines": [
+            "① 가방은 <em>조수석이나 트렁크</em>에 둬요.",
+            "② 꺼낼 땐 <em>차에서 내려</em> 뒷문을 열어요.",
+            "③ 손등으로 문틀 밀며 버티기 <em>20초 × 5</em>.",
+            "④ 벽 짚고 팔 올리기 <em>10회</em>, 편한 범위로."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 상담받기!",
+          "color": "purple",
+          "lines": [
+            "팔이 <em>안 올라가거나</em> 밤에 아파 깨면",
+            "물리치료사와 상담하기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>찌릿하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔이 잘 안 올라간다",
+        "밤에 아파서 깬다",
+        "넘어진 뒤 아프다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "운전석에 앉은 채 뒷좌석 공구 가방을 쭉 끌어당긴 루루. 그 뒤로 어깨가 찌릿해요.\n\n몸을 비틀며 뒤로 뻗으면 어깨가 움직일 수 있는 끝 범위에서 무게를 버텨야 해요. 운전 중에는 절대 뻗지 말고, 차에서 내려 꺼내는 게 어깨에도 편해요.\n\n하비의 어깨 관리: 가방은 조수석이나 트렁크에, 손등으로 문틀 밀며 버티기 20초 × 5, 벽 짚고 팔 올리기 10회.\n\n팔이 잘 안 올라가거나 밤에 아파 깨면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#어깨통증",
+    "#트레이디",
+    "#직업건강",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#운전습관",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#shoulderpain",
+    "#tradie"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 뒷좌석으로 손을 뻗다 어깨가 찌릿한 이유, 내려서 꺼내기 비교, 1분 어깨 관리, 확인이 필요한 신호.",
+  "story": {
+    "headline": "뒷좌석 뻗다 어깨가 찌릿?",
+    "body": "차에서 내려 꺼내고,<br>문틀 버티기 20초 × 5!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-26",
+  "created": "2027-03-26-5",
+  "status": "approved",
+  "review_warnings": []
+}

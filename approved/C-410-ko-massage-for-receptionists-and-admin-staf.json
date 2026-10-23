@@ -1,0 +1,131 @@
+{
+  "id": "C-410-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for receptionists and admin staff",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "리셉션 모모의<br><em>어깨가 뭉치는 이유</em>",
+      "sub": "하비와 알아보는 사무직 마사지 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "전화 받고, 타자 치고,<br><em>하루 종일 같은 자세</em>.",
+      "char": "cat_tired",
+      "bubble": "어깨가 왜 이렇게<br>돌덩이 같지..?",
+      "bubble_type": "thought",
+      "note": "(수화기를 어깨에 끼고 통화하는 게 습관..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>어깨가 뭉쳤구나?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 마사지 받으면<br>계속 괜찮을까요?"
+      },
+      "note": "하비는 마사지와 <mark>움직임 습관</mark>을 함께 챙기자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "근육은 <em>변화</em>를 좋아해요",
+      "fact": "한 자세로 오래 있으면 <em>근육이 쉽게 지쳐요</em>",
+      "left": {
+        "label": "헤드셋 쓰기",
+        "char": "cat_happy",
+        "caption": "고개가 바로 서고<br>어깨가 <b>편해요</b>"
+      },
+      "right": {
+        "label": "어깨에 끼기",
+        "char": "cat_tired",
+        "caption": "수화기를 끼고 있으면<br><em>목·어깨가 계속 버텨요</em>"
+      },
+      "quip": "마사지 + 자주 움직이기,<br>같이 챙겨요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 데스크 리셋</b>",
+      "sub": "전화 사이사이 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 리셉션 데스크 습관",
+          "color": "yellow",
+          "lines": [
+            "① 통화는 <em>헤드셋이나 스피커</em>로 해요.",
+            "② 어깨 <em>뒤로 돌리기 10회</em>.",
+            "③ 30분쯤마다 <em>일어나서 한 바퀴</em> 걸어요.",
+            "④ 목 옆 스트레칭 <em>20초씩</em>, 양쪽."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 상담받기!",
+          "color": "purple",
+          "lines": [
+            "팔이 <em>저리거나</em> 두통이 자주 온다면",
+            "물리치료사나 GP와 상담하기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>뭉친다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "두통이 자주 온다",
+        "팔이나 손이 저리다",
+        "2주 넘게 그대로다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "전화 받고, 타자 치고, 하루 종일 같은 자세로 앉아 있는 리셉션 모모. 어깨가 돌덩이 같아요.\n\n한 자세로 오래 있으면 근육이 쉽게 지쳐요. 리메디얼 마사지는 뭉친 느낌을 덜어주는 데 도움이 될 수 있고, 자주 움직이는 습관과 함께할 때 더 좋아요.\n\n하비의 데스크 리셋: 통화는 헤드셋으로, 어깨 뒤로 돌리기 10회, 30분쯤마다 일어나 걷기, 목 옆 스트레칭 20초씩.\n\n두통이 잦거나 팔이 저리면 평가가 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#어깨뭉침",
+    "#사무직",
+    "#직장인건강",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#officeworker",
+    "#deskjob"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 리셉션·사무직 어깨가 뭉치는 이유, 헤드셋과 수화기 비교, 1분 데스크 리셋, 확인이 필요한 신호.",
+  "story": {
+    "headline": "어깨가 돌덩이 같다면?",
+    "body": "헤드셋 쓰고,<br>30분쯤마다 일어나기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-25",
+  "created": "2027-03-25-5",
+  "status": "approved",
+  "review_warnings": []
+}

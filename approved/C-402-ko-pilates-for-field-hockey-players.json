@@ -1,0 +1,131 @@
+{
+  "id": "C-402-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for field hockey players",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하키하는 코코,<br><em>경기 후 허리가 뻐근!</em>",
+      "sub": "하키 선수를 위한 필라테스",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말마다 <em>필드하키</em>를<br>즐기는 코코.",
+      "char": "koala_tired",
+      "bubble": "경기만 끝나면<br>왜 허리랑 엉덩이가<br>뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(숙인 자세로 뛰는 게 생각보다 힘들어..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 하키<br>하시나 봐요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 이제 그만둘<br>나이일까요?"
+      },
+      "note": "하비는 <mark>하키에 필요한 힘</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "하키는 <em>숙이고 비트는</em><br>운동이에요!",
+      "fact": "공을 따라 <em>몸을 숙인 자세</em>로 뛰고 비트는 동작이 많아요",
+      "left": {
+        "label": "엉덩이로 숙이기",
+        "char": "koala_happy",
+        "caption": "엉덩이를 접고<br>몸통은 <b>단단하게</b>"
+      },
+      "right": {
+        "label": "허리만 굽히기",
+        "char": "koala_tired",
+        "caption": "허리만 둥글게 말면<br><em>허리가 더 일해요</em>"
+      },
+      "quip": "몸통과 엉덩이 힘을<br>같이 길러요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>하키 필라테스 3가지</b>",
+      "sub": "경기 없는 날 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 몸통·엉덩이 힘 기르기",
+          "color": "yellow",
+          "lines": [
+            "① 브릿지: 엉덩이 들고 <em>3초 유지 × 10회</em>.",
+            "② 무릎 대고 옆 플랭크 <em>15초 × 좌우 3회</em>.",
+            "③ 누워 무릎 모아 <em>좌우로 천천히</em> 10회.",
+            "④ 주 2~3번, 편한 범위에서 해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 퍼지거나</em>,",
+            "<em>비틀 때 찌릿하면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리까지 통증이 퍼진다",
+        "비틀 때 날카롭게 아프다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "주말마다 필드하키를 즐기는 코코. 경기만 끝나면 허리와 엉덩이가 뻐근해요.\n\n하키는 공을 따라 몸을 숙인 자세로 뛰고 비트는 동작이 많아요. 허리만 둥글게 말기보다 엉덩이를 접고 몸통을 단단하게 쓰는 힘이 도움이 될 수 있어요. 브릿지 3초 × 10회, 무릎 대고 옆 플랭크 15초 × 좌우 3회, 누워서 무릎 좌우로 넘기기 10회를 주 2~3번 해보세요.\n\n통증이 다리로 퍼지거나, 비틀 때 날카롭게 아프거나, 2주 넘게 그대로라면 평가가 먼저예요. 하이브리드 피지오 클리니컬 필라테스로 함께해요. 프로필 링크에서 온라인 예약 🏑\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필드하키",
+    "#필라테스",
+    "#클리니컬필라테스",
+    "#시드니필라테스",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#허리통증",
+    "#clinicalpilates",
+    "#sydneypilates",
+    "#fieldhockey",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 하키 후 허리와 엉덩이가 뻐근한 이유, 엉덩이로 숙이기와 허리만 굽히기 비교, 하키 필라테스 3가지, 확인이 필요한 신호.",
+  "story": {
+    "headline": "하키 후 허리가 뻐근?",
+    "body": "브릿지·옆 플랭크로<br>몸통 힘 기르기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-22",
+  "created": "2027-03-22-3",
+  "status": "approved",
+  "review_warnings": []
+}

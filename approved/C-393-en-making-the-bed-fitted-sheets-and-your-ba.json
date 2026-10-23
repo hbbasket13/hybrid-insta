@@ -1,0 +1,131 @@
+{
+  "id": "C-393-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Making the bed: fitted sheets and your back",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Fitted sheet battle..<br>and Koko's <em>back twinges</em>",
+      "sub": "A household back story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Washing day means<br>wrestling the <em>fitted sheet</em>.",
+      "char": "koala_tired",
+      "bubble": "Why does my back<br>twinge every time<br>I make the bed..?",
+      "bubble_type": "thought",
+      "note": "(stretching right across to the far corner..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back bothering you?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. who knew a<br>bed could be so hard!"
+      },
+      "note": "Hybi started with <mark>how you tuck the corners</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Bend, reach and twist<br>is <em>hard on the back</em>!",
+      "fact": "Bending while <em>reaching and twisting</em> can add load to the back",
+      "left": {
+        "label": "Walk around",
+        "char": "koala_happy",
+        "caption": "Corner by corner,<br>back <b>works less</b>"
+      },
+      "right": {
+        "label": "Reach across",
+        "char": "koala_tired",
+        "caption": "Bent and stretching far,<br>back <em>works harder</em>"
+      },
+      "quip": "A few extra steps<br>are kinder to your back!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute bed routine</b>",
+      "sub": "Try it next washing day!",
+      "sections": [
+        {
+          "heading": "1. Back-friendly sheet changes",
+          "color": "yellow",
+          "lines": [
+            "① <em>Walk</em> to each corner, don't reach across.",
+            "② Kneel on <em>one knee</em> to tuck corners.",
+            "③ Lift the mattress edge <em>just a little</em>.",
+            "④ Heavy mattress? Do it <em>with a helper</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain gets <em>worse</em>, or your",
+            "leg <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Leg numbness or weakness",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Every washing day, Koko wrestles the fitted sheet, and her lower back twinges as she stretches across to the far corner.\n\nBending while reaching far and twisting can add load to the back. Walking to each corner and kneeling to tuck it in usually feels much easier.\n\nHybi's bed routine: walk to each corner, kneel on one knee to tuck, lift the mattress edge just a little with bent knees, and grab a helper for heavy mattresses. Stop if your leg tingles.\n\nPain spreading down a leg, numbness, or no change after two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractor",
+    "#chiropractic",
+    "#backpain",
+    "#lowerbackpain",
+    "#housework",
+    "#everydayhealth",
+    "#sydneychiro",
+    "#chatswoodchiro",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#homelife"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why changing a fitted sheet can twinge the back, walking around versus reaching across, a 1-minute bed routine and signs worth getting checked.",
+  "story": {
+    "headline": "Back twinge making the bed?",
+    "body": "Walk to each corner,<br>kneel to tuck.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-18",
+  "created": "2027-03-18-6",
+  "status": "approved",
+  "review_warnings": []
+}

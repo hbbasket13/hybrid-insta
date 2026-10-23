@@ -1,0 +1,131 @@
+{
+  "id": "C-401-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee pain getting up from a chair",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's knee<br><em>twinges</em> as he stands",
+      "sub": "Knee pain getting up from a chair",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Sitting all day, then<br><em>that moment</em> he stands..",
+      "char": "turtle_sad",
+      "bubble": "Why does the front<br>of my knee twinge<br>when I get up..?",
+      "bubble_type": "thought",
+      "note": "(once he's up and walking, it settles..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Knee bothering you?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. should I rest<br>my knee more?"
+      },
+      "note": "Hybi decided to check <mark>how he stands up</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Let your <em>hips</em><br>share the work!",
+      "fact": "<em>Leaning forward</em> as you stand lets the hips share the load",
+      "left": {
+        "label": "Lean forward",
+        "char": "turtle_happy",
+        "caption": "Feet back, body<br><b>leaning forward</b>"
+      },
+      "right": {
+        "label": "Upright",
+        "char": "turtle_sad",
+        "caption": "Feet forward, body back,<br><em>knees do it all</em>"
+      },
+      "quip": "Share it with the hips,<br>the knees can feel easier!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute sit to stand</b>",
+      "sub": "Try it right at your desk!",
+      "sections": [
+        {
+          "heading": "1. Sit to stand practice",
+          "color": "yellow",
+          "lines": [
+            "① Sit near the front, feet <em>slightly back</em>.",
+            "② Lean so your <em>nose is over your knees</em>.",
+            "③ Stand and sit slowly: <em>10 reps</em>, twice a day.",
+            "④ Start with hands or a <em>higher chair</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "The knee <em>swells</em>, or pain",
+            "<em>keeps building</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> to stand?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swollen or warm knee",
+        "Catching or giving way",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "After sitting all day, Mr Turtle feels a twinge at the front of the knee the moment he stands.\n\nStanding up with your feet out in front and your body upright asks the knees to do most of the work. Sit near the front of the chair, bring your feet slightly back and lean until your nose is over your knees, so the hips can share the load. Practise standing and sitting slowly, 10 reps, twice a day. Using your hands or a higher chair at first is fine.\n\nA swollen or warm knee, catching or giving way, or no change after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#kneehealth",
+    "#deskjob",
+    "#officeworker",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#strengthtraining",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining knee pain when getting up from a chair, leaning forward versus staying upright, a 1-minute sit to stand routine and signs worth getting checked.",
+  "story": {
+    "headline": "Knee twinges as you stand?",
+    "body": "Feet back, nose over knees,<br>10 reps twice a day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-22",
+  "created": "2027-03-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

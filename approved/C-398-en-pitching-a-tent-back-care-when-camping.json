@@ -1,0 +1,131 @@
+{
+  "id": "C-398-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Pitching a tent: back care when camping",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's camping trip,<br>and a <em>stiff back</em>",
+      "sub": "Back care for pitching a tent",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A weekend away,<br>hammering <em>tent pegs</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why is my back<br>so stiff after<br>setting up camp..?",
+      "bubble_type": "thought",
+      "note": "(after a long drive, straight into carrying gear..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Been camping?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. should I give<br>camping a miss?"
+      },
+      "note": "Hybi decided to share <mark>back-friendly set-up tips</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's the <em>repeated bending</em><br>that tires the back!",
+      "fact": "Bending <em>over and over</em> can tire the back quickly",
+      "left": {
+        "label": "Half-kneel",
+        "char": "kanga_happy",
+        "caption": "One knee on a mat,<br><b>tap in the pegs</b>"
+      },
+      "right": {
+        "label": "Bent over",
+        "char": "kanga_tired",
+        "caption": "Standing bent over,<br><em>peg after peg</em>"
+      },
+      "quip": "Switch positions and<br>break up the job!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>back-friendly camp set-up</b>",
+      "sub": "Try it on your next trip!",
+      "sections": [
+        {
+          "heading": "1. Before and during set-up",
+          "color": "yellow",
+          "lines": [
+            "① After the drive, <em>walk for 5 min</em> first.",
+            "② Carry gear <em>close to your body</em>, in loads.",
+            "③ Peg in from a <em>half-kneel</em> on a mat.",
+            "④ <em>Swap knees</em> and stand tall between pegs."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads</em> into your leg, or",
+            "you feel <em>tingling</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em> after the trip?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Leg numbness or weakness",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu's weekend away started with a long drive, then straight into carrying gear and hammering pegs. By the time the tent was up, the back was stiff.\n\nBending over and over can tire the back quickly. After the drive, walk for five minutes first. Carry gear close to your body in smaller loads, peg in from a half-kneel on a mat, swap knees and stand tall between pegs.\n\nPain spreading down a leg, numbness or weakness, or no change after two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio ⛺\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#sydneychiro",
+    "#sydneycbdchiro",
+    "#sydneycbd",
+    "#backpain",
+    "#camping",
+    "#campingaustralia",
+    "#outdoors",
+    "#backcare",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#tradie"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu showing why pitching a tent can leave the back stiff, half-kneeling versus bending over, a back-friendly camp set-up and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff back after camp set-up?",
+    "body": "Carry close,<br>peg in from a half-kneel.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-20",
+  "created": "2027-03-20-2",
+  "status": "approved",
+  "review_warnings": []
+}

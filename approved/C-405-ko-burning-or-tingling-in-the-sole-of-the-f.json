@@ -1,0 +1,131 @@
+{
+  "id": "C-405-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Burning or tingling in the sole of the foot",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코의 발바닥이<br><em>화끈·찌릿한 이유</em>",
+      "sub": "하비와 알아보는 발바닥 저림 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "산책을 좋아하는 코코,<br>요즘 발바닥이 <em>화끈화끈</em>.",
+      "char": "koala_tired",
+      "bubble": "발바닥이 왜<br>찌릿찌릿하지..?",
+      "bubble_type": "thought",
+      "note": "(밤에 누우면 더 신경 쓰인다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>발이 불편해서 왔구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 신발을 바꾸면<br>괜찮아질까요?"
+      },
+      "note": "하비는 <mark>신경이 보내는 신호</mark>일 수 있다고 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "저림은 <em>신경 신호</em>일 수 있어요",
+      "fact": "화끈·찌릿함은 근육보다 <em>신경</em>과 관련된 경우가 흔해요",
+      "left": {
+        "label": "넉넉한 신발",
+        "char": "koala_happy",
+        "caption": "발가락 공간이 넉넉하면<br>앞발이 <b>덜 눌려요</b>"
+      },
+      "right": {
+        "label": "꽉 끼는 신발",
+        "char": "koala_tired",
+        "caption": "앞코가 좁으면 발 앞쪽이<br><em>계속 눌릴 수 있어요</em>"
+      },
+      "quip": "신발부터 살펴보는 게<br>첫걸음이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 발 관리</b>",
+      "sub": "오늘 저녁부터 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 발 & 종아리 챙기기",
+          "color": "yellow",
+          "lines": [
+            "① 신발 앞코가 <em>넉넉한지</em> 확인해요.",
+            "② 벽 짚고 종아리 스트레칭 <em>30초 × 3회</em>.",
+            "③ 앉아서 발목 돌리기 <em>양방향 10회씩</em>.",
+            "④ 자기 전 발바닥에 <em>상처</em>가 없는지 살펴요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 상담받기!",
+          "color": "purple",
+          "lines": [
+            "저림이 <em>위로 번지거나</em> 발에 힘이 빠지면",
+            "GP나 물리치료사와 상담하기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>저리다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "양쪽 발이 다 저리다",
+        "감각이 점점 둔해진다",
+        "당뇨가 있다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "산책을 좋아하는 코코, 요즘 발바닥이 화끈하고 찌릿해요.\n\n발바닥의 화끈·찌릿함은 근육보다 신경과 관련된 경우가 흔해요. 앞코가 좁은 신발, 오래 서 있기, 종아리 긴장 등 원인은 사람마다 다양할 수 있어요.\n\n하비의 1분 발 관리: 넉넉한 신발 확인, 종아리 스트레칭 30초 × 3회, 발목 돌리기 10회씩, 자기 전 발바닥 살펴보기.\n\n양쪽 발이 다 저리거나, 감각이 둔해지거나, 당뇨가 있다면 GP나 물리치료사의 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#발바닥저림",
+    "#발통증",
+    "#발건강",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#footpain"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 발바닥이 화끈·찌릿한 이유, 신발 비교, 1분 발 관리 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "발바닥이 화끈·찌릿하다면?",
+    "body": "넉넉한 신발 + 종아리 스트레칭<br>30초 × 3회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-23",
+  "created": "2027-03-23-3",
+  "status": "approved",
+  "review_warnings": []
+}
