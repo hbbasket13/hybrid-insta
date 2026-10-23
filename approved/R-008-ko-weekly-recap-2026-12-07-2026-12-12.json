@@ -1,0 +1,138 @@
+{
+  "id": "R-008-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-12-07–2026-12-12",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>12/7–12/12</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "kanga_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "이번 주도<br>같이 복습해요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "<b>출퇴근·사무실</b> 편",
+      "sub": "어깨가 무거운 분들께",
+      "sections": [
+        {
+          "heading": "필라테스로 목·어깨 긴장 풀기",
+          "color": "yellow",
+          "lines": [
+            "손을 아래 갈비뼈에 대고 옆으로 숨 들이쉬기",
+            "내쉬며 어깨 툭, 5번씩 하루 3번"
+          ]
+        },
+        {
+          "heading": "CBD 출퇴근 무거운 백팩",
+          "color": "yellow",
+          "lines": [
+            "양쪽 끈 메고 등에 딱 붙게!",
+            "무거운 물건은 등 가까이에 넣기"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>근력</b> 편",
+      "sub": "손과 종아리, 기본부터",
+      "sections": [
+        {
+          "heading": "악력과 건강한 노년",
+          "color": "yellow",
+          "lines": [
+            "양손에 장바구니 들고 30초 천천히 걷기",
+            "부드러운 공 쥐기 5초 × 10회"
+          ]
+        },
+        {
+          "heading": "종아리 운동, 제대로 하기",
+          "color": "yellow",
+          "lines": [
+            "1초 올라가고, 멈추고, 3초 내려오기",
+            "무릎 편 버전·굽힌 버전 둘 다"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>운동·서핑</b> 편",
+      "sub": "손목과 어깨 챙기기",
+      "sections": [
+        {
+          "heading": "푸시업·플랭크 손목 통증",
+          "color": "yellow",
+          "lines": [
+            "손가락 넓게 펴고 손가락 마디로 누르기",
+            "아프면 당분간 벤치나 벽 짚고 하기"
+          ]
+        },
+        {
+          "heading": "서퍼의 어깨·등 마사지",
+          "color": "yellow",
+          "lines": [
+            "밴드 바깥 돌리기 12회 × 2세트",
+            "마사지는 서핑 쉬는 날에 잡기"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "팔이 저리거나 따끔해요",
+        "넘어진 뒤 손목 통증",
+        "다리 뒤쪽에 갑작스런 통증"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "12월 둘째 주, 하비의 주간 정리예요.\n\n목·어깨가 뻐근하면 아래 갈비뼈로 숨 쉬고 내쉬며 어깨를 내려놓는 연습부터 해봐요. 백팩은 양쪽 끈을 메고 무거운 물건을 등 가까이에! 종아리 운동은 1초 올라가고 3초 내려오기가 핵심이에요. 푸시업할 때 손목이 아프면 당분간 벤치나 벽을 짚고 해도 좋아요.\n\n전체 만화는 피드를 거슬러 확인해 주세요. 프로필 링크에서 온라인 예약 🦘\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#weeklyrecap",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#필라테스",
+    "#카이로프랙틱",
+    "#종아리운동"
+  ],
+  "alt_text": "하비가 이번 주 만화 6편의 핵심 팁(갈비뼈 호흡, 백팩 메기, 악력, 종아리 운동, 손목, 서퍼 어깨)과 확인이 필요한 신호를 정리한 6장짜리 카드뉴스.",
+  "story": {
+    "headline": "12월 둘째 주 핵심 정리",
+    "body": "호흡부터 종아리 운동까지,<br>한 번에 복습해요!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-13",
+  "created": "2026-12-13-1",
+  "status": "approved",
+  "review_warnings": []
+}

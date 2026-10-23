@@ -1,0 +1,136 @@
+{
+  "id": "R-002-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-10-26–2026-10-31",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>10/26–10/31</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "koala_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>복습해요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "잠·목 편",
+      "sub": "아침이 편해지는 습관",
+      "sections": [
+        {
+          "heading": "밤에 아픈 어깨, 자는 자세",
+          "color": "yellow",
+          "lines": [
+            "바로 누워 <em>아픈 팔 아래 베개</em>",
+            "옆으로 잔다면 안 아픈 쪽으로"
+          ]
+        },
+        {
+          "heading": "자고 일어나 굳은 목",
+          "color": "yellow",
+          "lines": [
+            "<em>1시간마다</em> 돌리기·기울이기 5번씩",
+            "온찜질 15~20분"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "앉는 시간 편",
+      "sections": [
+        {
+          "heading": "책상 때문에 뻣뻣한 고관절",
+          "color": "yellow",
+          "lines": [
+            "브릿지 <em>× 10</em>, 하루 1~2번",
+            "<em>30~45분마다</em> 일어나기"
+          ]
+        },
+        {
+          "heading": "앉으면 아픈 꼬리뼈",
+          "color": "yellow",
+          "lines": [
+            "가운데가 파인 <em>쿠션</em> 사용하기",
+            "<em>30분마다</em> 일어나요"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "허리 관리 편",
+      "sections": [
+        {
+          "heading": "이사하는 날 들기 요령",
+          "color": "yellow",
+          "lines": [
+            "<em>5분 워밍업</em>: 걷기·스쿼트",
+            "상자는 몸 가까이, 발로 돌아요"
+          ]
+        },
+        {
+          "heading": "통증이 확 올라온 48시간",
+          "color": "yellow",
+          "lines": [
+            "12~24시간: <em>매시간 몇 분 걷기</em>",
+            "24~48시간: 평소 일을 절반만"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "팔다리 저림·힘 빠짐",
+        "다리로 퍼지는 통증",
+        "열이 나거나 체중 감소"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "10월 마지막 주(10/26–10/31) 하비의 주간 정리예요.\n\n밤에 어깨가 아프면 바로 누워 아픈 팔 아래 베개를 받쳐볼 수 있어요. 자고 일어나 목이 굳었다면 1시간마다 천천히 돌리고 기울이기 5번씩. 오래 앉아 꼬리뼈가 아프면 가운데 파인 쿠션과 30분마다 일어나기가 도움이 될 수 있어요. 통증이 확 올라온 첫 48시간엔 매시간 몇 분씩 걸어요.\n\n자세한 만화는 이번 주 게시물에서 다시 볼 수 있어요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#어깨통증",
+    "#목통증",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 코코가 이번 주 어깨·목 수면 자세, 고관절, 꼬리뼈, 이사 날 들기, 통증이 올라온 48시간 팁과 확인이 필요한 신호를 정리한 6장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "이번 주 핵심만 모았어요",
+    "body": "잠·목·앉는 습관·허리 팁,<br>한 번에 다시 보기!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-01",
+  "created": "2026-11-01-1",
+  "status": "approved",
+  "review_warnings": []
+}

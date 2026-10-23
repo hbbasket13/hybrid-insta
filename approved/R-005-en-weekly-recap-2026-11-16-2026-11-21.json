@@ -1,0 +1,135 @@
+{
+  "id": "R-005-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-11-16–2026-11-21",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Nov 16–21</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "turtle_happy2"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's recap<br>together!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Legs & lower back",
+      "sub": "Small habits first",
+      "sections": [
+        {
+          "heading": "The sit-to-stand test",
+          "color": "yellow",
+          "lines": [
+            "Arms crossed, <em>5 stands</em>. Time it.",
+            "Retest <em>every 4 weeks</em>."
+          ]
+        },
+        {
+          "heading": "Sitting on your wallet & sciatica",
+          "color": "yellow",
+          "lines": [
+            "Move the wallet to <em>a front pocket</em>.",
+            "Driving or sitting? Get out <em>every 30 min</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Sleep & wrists",
+      "sections": [
+        {
+          "heading": "Sleeping with lower back pain",
+          "color": "yellow",
+          "lines": [
+            "Side: <em>pillow between your knees</em>.",
+            "Back: 1–2 pillows under your knees."
+          ]
+        },
+        {
+          "heading": "Tingling hands at night",
+          "color": "yellow",
+          "lines": [
+            "<em>Wrists straight</em> in bed.",
+            "Break up gripping and scrolling <em>every 30 min</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Pilates & massage",
+      "sections": [
+        {
+          "heading": "How often to do Pilates",
+          "color": "yellow",
+          "lines": [
+            "<em>2–3 classes a week</em>; one in busy weeks.",
+            "Off days: 5–10 min of key moves at home."
+          ]
+        },
+        {
+          "heading": "The 'no pain, no gain' massage myth",
+          "color": "yellow",
+          "lines": [
+            "Aim for about <em>5–7 out of 10</em>.",
+            "Holding your breath? <em>Say so</em> straight away."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Bladder or bowel changes",
+        "Leg weakness getting worse",
+        "Thumb feels weak"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Nov 16–21 is here.\n\nTime five sit-to-stands with your arms crossed, then retest every four weeks to track leg strength. Living with sciatica? Move the wallet to a front pocket and get out of the car or chair every 30 minutes. A pillow between your knees can make side sleeping easier on a sore back. And for massage, about 5–7 out of 10 pressure is usually plenty.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#sciatica",
+    "#carpaltunnel",
+    "#physio"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Mr Turtle covering this week's tips on the sit-to-stand test, sciatica, sleeping positions, tingling hands, Pilates frequency and massage pressure, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Legs, sleep, wrists and<br>Pilates, all recapped.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-22",
+  "created": "2026-11-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

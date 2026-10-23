@@ -1,0 +1,136 @@
+{
+  "id": "R-013-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-01-11–2027-01-16",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Jan 11–16</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "kanga_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's recap<br>the week!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Desk & posture",
+      "sub": "Comfy wherever you work",
+      "sections": [
+        {
+          "heading": "Hot-desking setup",
+          "color": "yellow",
+          "lines": [
+            "Screen an arm's length away, top at eye level",
+            "Pull keyboard and mouse close"
+          ]
+        },
+        {
+          "heading": "Sitting on a gym ball",
+          "color": "yellow",
+          "lines": [
+            "15–20 min on the ball, then back to a chair",
+            "Hips sitting slightly above knees"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Gym & training",
+      "sub": "Start light, build slowly",
+      "sections": [
+        {
+          "heading": "Kettlebell swings: hinge first",
+          "color": "yellow",
+          "lines": [
+            "Face away from a wall, push hips back to touch it",
+            "5 reps, then a bell you control for 10 crisp reps"
+          ]
+        },
+        {
+          "heading": "Skipping rope",
+          "color": "yellow",
+          "lines": [
+            "30 sec on, 30 sec off for 5–10 min",
+            "Clear the rope by just 2–3 cm"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Recovery & restarting",
+      "sections": [
+        {
+          "heading": "Exercise after a massage?",
+          "color": "yellow",
+          "lines": [
+            "Straight after: a walk or easy cycling",
+            "Max lifts and sprints: save for the next day"
+          ]
+        },
+        {
+          "heading": "Pilates after a long break",
+          "color": "yellow",
+          "lines": [
+            "A short assessment before your first class",
+            "Start well below your old level"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth a check if you notice",
+      "items": [
+        "Pain spreading into a leg",
+        "Pins and needles or numbness",
+        "Pain at rest or at night"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Jan 11–16.\n\nHot-desking at a new office? Set the screen an arm's length away with the top at eye level. Learn the kettlebell swing with a wall hinge: push your hips back to touch the wall, 5 reps. New to skipping? Start with 30 seconds on, 30 seconds off. After a massage, keep it to a walk or easy ride and save heavy lifts for the next day.\n\nScroll back through this week's posts for the full comics. Pain spreading into a leg, or pins and needles, is worth an assessment. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#physio",
+    "#deskergonomics",
+    "#kettlebell",
+    "#recovery",
+    "#sydney"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Lulu covering desk setup, gym technique, recovery tips and signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Desk, gym and recovery<br>tips, all together.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-01-17",
+  "created": "2027-01-17-2",
+  "status": "approved",
+  "review_warnings": []
+}

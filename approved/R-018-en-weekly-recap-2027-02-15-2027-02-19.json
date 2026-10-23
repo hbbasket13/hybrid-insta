@@ -1,0 +1,136 @@
+{
+  "id": "R-018-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-02-15–2027-02-19",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Feb 15–19</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "kanga_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Nice work this<br>week, everyone!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Sport & outdoors",
+      "sub": "Build it up gradually",
+      "sections": [
+        {
+          "heading": "Fast bowlers' backs",
+          "color": "yellow",
+          "lines": [
+            "Build your overs gradually across pre-season",
+            "Track overs in training and games each week"
+          ]
+        },
+        {
+          "heading": "Pilates for hikers",
+          "color": "yellow",
+          "lines": [
+            "Two sessions a week, plus hills and stairs",
+            "Start several weeks before a big hike"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Massage & recovery",
+      "sub": "Strength comes along too",
+      "sections": [
+        {
+          "heading": "Runners' tight calves",
+          "color": "yellow",
+          "lines": [
+            "Slow single-leg calf raises",
+            "Knee straight and bent, 3 sets, 2–3 times a week"
+          ]
+        },
+        {
+          "heading": "Golfers' backs and hips",
+          "color": "yellow",
+          "lines": [
+            "Five-minute warm-up before the first tee",
+            "Hip swings, trunk turns, a few half swings"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Work & progress",
+      "sections": [
+        {
+          "heading": "Hairdressers and barbers",
+          "color": "yellow",
+          "lines": [
+            "Pump the client's chair to around chest height",
+            "Between clients: 30 sec of shoulder rolls"
+          ]
+        },
+        {
+          "heading": "Progress is rarely a straight line",
+          "color": "yellow",
+          "lines": [
+            "Compare with four weeks ago, not yesterday",
+            "Track what you can do, not just pain"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth a check if you notice",
+      "items": [
+        "Pain spreading into a leg",
+        "Finger tingling or weakness",
+        "Red, warm, painful calf"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Feb 15–20.\n\nFast bowlers can build overs gradually across pre-season and track them each week. Tight runner's calves often respond to slow single-leg calf raises, two or three times a week. Golfers, a five-minute warm-up before the first tee prepares your back and hips. And recovery usually zigzags, so compare with four weeks ago, not yesterday.\n\nScroll back through this week's posts for the full comics. Pain spreading into a leg or tingling fingers is worth an assessment. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#physio",
+    "#sportsphysio",
+    "#running",
+    "#golf",
+    "#sydney"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Lulu covering cricket and hiking prep, calf and golf care, work posture and recovery progress, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Sport, recovery and work<br>tips, all together.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-02-21",
+  "created": "2027-02-21-2",
+  "status": "approved",
+  "review_warnings": []
+}

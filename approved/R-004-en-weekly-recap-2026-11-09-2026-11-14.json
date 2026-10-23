@@ -1,0 +1,135 @@
+{
+  "id": "R-004-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-11-09–2026-11-14",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Nov 9–14</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "cat_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "All in<br>one place!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Back to training",
+      "sub": "Ease in, then build",
+      "sections": [
+        {
+          "heading": "Returning to the gym after injury",
+          "color": "yellow",
+          "lines": [
+            "Weeks 1–2: <em>about half</em> your usual load.",
+            "Add weight, sets <em>or</em> sessions, not all three."
+          ]
+        },
+        {
+          "heading": "Shoulder pain lifting overhead",
+          "color": "yellow",
+          "lines": [
+            "Rows: <em>3 × 10–12</em>.",
+            "OK next day? Ease overhead back in lighter."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Pilates at home",
+      "sections": [
+        {
+          "heading": "Three mat Pilates moves",
+          "color": "yellow",
+          "lines": [
+            "Bridge and dead bug, <em>8–10 each</em>.",
+            "Move slowly and breathe steadily."
+          ]
+        },
+        {
+          "heading": "Pilates for better balance",
+          "color": "yellow",
+          "lines": [
+            "Hold the bench lightly, <em>one leg 20–30 sec</em>.",
+            "Swap sides, twice a day."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Everyday care",
+      "sections": [
+        {
+          "heading": "Making massage last",
+          "color": "yellow",
+          "lines": [
+            "That evening, take a <em>10-minute walk</em>.",
+            "At your desk, stand every 30–60 min."
+          ]
+        },
+        {
+          "heading": "Working from the couch",
+          "color": "yellow",
+          "lines": [
+            "Laptop on <em>a firm cushion or books</em>.",
+            "<em>Every hour</em>, change spots."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling keeps returning",
+        "Numbness or tingling",
+        "A recent fall"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Nov 9–14 is here.\n\nHeading back to the gym after an injury? Start weeks 1–2 at about half your usual load, and add weight, sets or sessions, not all three. At home, slow bridges and dead bugs, 8–10 each, are a simple start. A 10-minute walk the evening after a massage helps keep things moving. Working from the couch? Raise the laptop on a firm cushion and change spots every hour.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🐱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#gymrehab",
+    "#shoulderpain",
+    "#workfromhome",
+    "#physio"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Momo covering this week's tips on returning to the gym, overhead shoulder pain, home Pilates, balance, after-massage care and couch laptop setup, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Gym, Pilates and everyday<br>care, all recapped.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-15",
+  "created": "2026-11-15-2",
+  "status": "approved",
+  "review_warnings": []
+}

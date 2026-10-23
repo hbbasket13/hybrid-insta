@@ -1,0 +1,135 @@
+{
+  "id": "R-002-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-10-26–2026-10-31",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Oct 26–31</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "koala_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's recap<br>together!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Sleep & neck",
+      "sub": "Easier mornings start here",
+      "sections": [
+        {
+          "heading": "Shoulder pain at night",
+          "color": "yellow",
+          "lines": [
+            "On your back, <em>pillow under the sore arm</em>.",
+            "Side sleeper? Lie on the good side."
+          ]
+        },
+        {
+          "heading": "Woke up with a stiff neck",
+          "color": "yellow",
+          "lines": [
+            "<em>Hourly</em>: turn, tilt and nod, 5 each.",
+            "A heat pack for 15–20 minutes."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Long hours sitting",
+      "sections": [
+        {
+          "heading": "Tight hips from desk work",
+          "color": "yellow",
+          "lines": [
+            "Bridges <em>× 10</em>, once or twice a day.",
+            "Stand up <em>every 30–45 min</em>."
+          ]
+        },
+        {
+          "heading": "Tailbone pain when sitting",
+          "color": "yellow",
+          "lines": [
+            "A wedge or U-shaped <em>cut-out cushion</em>.",
+            "Stand <em>every 30 minutes</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Looking after your back",
+      "sections": [
+        {
+          "heading": "Moving house: lift smarter",
+          "color": "yellow",
+          "lines": [
+            "<em>5-minute warm-up</em>: walk, squats.",
+            "Box close to your body, pivot with your feet."
+          ]
+        },
+        {
+          "heading": "Your flare-up plan (first 48 h)",
+          "color": "yellow",
+          "lines": [
+            "12–24 h: <em>a few minutes' walk every hour</em>.",
+            "24–48 h: normal tasks at about half the dose."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numbness or weakness",
+        "Pain spreading down a leg",
+        "Fever or weight loss"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Oct 26–31 is here.\n\nShoulder sore at night? Lying on your back with a pillow under the sore arm can help. Woke up with a stiff neck? Turn, tilt and nod, five each, every hour. Tailbone pain when sitting often eases with a cut-out cushion and standing every 30 minutes. And in the first 48 hours of a flare-up, a few minutes' walk every hour keeps you moving.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#shoulderpain",
+    "#neckpain",
+    "#backpain",
+    "#physio"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Koko covering this week's tips on night shoulder pain, stiff necks, tight hips, tailbone pain, lifting and flare-ups, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Sleep, neck, sitting<br>and flare-ups, all recapped.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-01",
+  "created": "2026-11-01-2",
+  "status": "approved",
+  "review_warnings": []
+}

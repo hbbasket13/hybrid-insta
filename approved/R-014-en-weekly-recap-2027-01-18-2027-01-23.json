@@ -1,0 +1,136 @@
+{
+  "id": "R-014-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-01-18–2027-01-23",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Jan 18–23</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "cat_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Nice work this<br>week, everyone!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Training & sport",
+      "sub": "Nail the basics first",
+      "sections": [
+        {
+          "heading": "Rowing machine, back-friendly",
+          "color": "yellow",
+          "lines": [
+            "Start the drive with a strong leg push",
+            "Hinge from the hips, don't slump"
+          ]
+        },
+        {
+          "heading": "Boxing: shoulders and wrists",
+          "color": "yellow",
+          "lines": [
+            "Wrap snugly, but no tingling fingers",
+            "Punch slowly first to learn the straight line"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Pilates & yoga",
+      "sub": "Make it fit your body",
+      "sections": [
+        {
+          "heading": "Wrist-friendly Pilates",
+          "color": "yellow",
+          "lines": [
+            "Drop to forearms, or lean on a soft fist",
+            "A folded towel under the heel of the hand"
+          ]
+        },
+        {
+          "heading": "Yoga with a sore back",
+          "color": "yellow",
+          "lines": [
+            "Forward folds with bent knees and blocks",
+            "Tell your teacher before class starts"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Home & everyday",
+      "sections": [
+        {
+          "heading": "Vacuuming and mopping",
+          "color": "yellow",
+          "lines": [
+            "Short strokes close to you, feet following",
+            "One foot forward, shift your weight"
+          ]
+        },
+        {
+          "heading": "Keeping home exercises going",
+          "color": "yellow",
+          "lines": [
+            "Tie them to a daily habit, like the kettle",
+            "Ask to trim the list to the top three"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth a check if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "New numbness or weakness",
+        "A hot, swollen joint"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Jan 18–23.\n\nOn the rowing machine, start each drive with a strong leg push and hinge from the hips. In Pilates, sore wrists can often drop to forearms or lean on a soft fist. Vacuuming? Keep strokes short and close, and let your feet follow. Home exercises are easier to keep up when tied to a daily habit, like boiling the kettle.\n\nScroll back through this week's posts for the full comics. Pain spreading down a leg or new numbness is worth an assessment. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#physio",
+    "#pilates",
+    "#homeexercise",
+    "#backpain",
+    "#sydney"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Momo covering training technique, Pilates and yoga tweaks, everyday back care and signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Training, Pilates and home<br>tips, all together.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-01-24",
+  "created": "2027-01-24-2",
+  "status": "approved",
+  "review_warnings": []
+}

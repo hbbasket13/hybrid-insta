@@ -1,0 +1,137 @@
+{
+  "id": "R-012-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-01-04–2027-01-09",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Jan 4–9</em>",
+      "sub": "Back-to-routine tips in one place",
+      "left": {
+        "char": "koala_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's ease<br>back in together!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Back from the break</b>",
+      "sub": "Training and desk work",
+      "sections": [
+        {
+          "heading": "Coming back after a holiday break",
+          "color": "yellow",
+          "lines": [
+            "Week one: about half your usual volume.",
+            "Feeling fine? Build up over 2–3 weeks."
+          ]
+        },
+        {
+          "heading": "First week back at the desk",
+          "color": "yellow",
+          "lines": [
+            "Every 30 min: turn your head slowly, 5 times.",
+            "Gently tuck your chin: 5 sec × 5 reps."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Training</b>",
+      "sub": "Preseason and Pilates",
+      "sections": [
+        {
+          "heading": "Footy and rugby preseason running",
+          "color": "yellow",
+          "lines": [
+            "Each week, add one run or a little distance.",
+            "Every 3rd or 4th week, ease back slightly."
+          ]
+        },
+        {
+          "heading": "Returning to Pilates after the holidays",
+          "color": "yellow",
+          "lines": [
+            "Weeks 1–2: drop a spring or a few reps.",
+            "Tell your instructor about any holiday tweak."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Recovery</b> & care",
+      "sub": "After leg day, and for older adults",
+      "sections": [
+        {
+          "heading": "Quads cooked after leg day",
+          "color": "yellow",
+          "lines": [
+            "Easy walk or light spin: 10–15 minutes.",
+            "Bodyweight squats, comfy range: 2 × 10."
+          ]
+        },
+        {
+          "heading": "Chiropractic care for older adults",
+          "color": "yellow",
+          "lines": [
+            "List medications, injuries and bone health.",
+            "Expect simple strength and balance exercises."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if you notice",
+      "items": [
+        "Pain running into an arm",
+        "Swelling after a session",
+        "A knee that gives way"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's weekly recap for Jan 4 to 9.\n\nBack to training after the break? Start week one at about half your usual volume, then build over 2–3 weeks. At the desk, slow head turns and gentle chin tucks every 30 minutes can help your neck settle back in. Returning to Pilates, it's fine to drop a spring or a few reps for the first couple of weeks. And after a big leg day, an easy 10–15 minute walk or spin is a good way to recover.\n\nScroll back through the feed for the full comics. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydney",
+    "#pilates",
+    "#chiropractic",
+    "#remedialmassage",
+    "#preseason"
+  ],
+  "alt_text": "A six-slide cartoon recap in which Hybi sums up the week's six comic tips, from easing back into training and desk work to preseason running and recovery, plus signs worth getting checked.",
+  "story": {
+    "headline": "Back-to-routine week, recapped",
+    "body": "Easing in, preseason, recovery<br>and more in one place.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-01-10",
+  "created": "2027-01-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

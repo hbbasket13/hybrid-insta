@@ -1,0 +1,136 @@
+{
+  "id": "R-003-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-11-02–2026-11-07",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>11/2–11/7</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "kanga_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "핵심만<br>쏙쏙!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "운동 중 통증 편",
+      "sub": "얼마나 아파도 괜찮을까요?",
+      "sections": [
+        {
+          "heading": "좋은 통증 vs 나쁜 통증",
+          "color": "yellow",
+          "lines": [
+            "<em>3/10 이하</em>, 자고 나면 괜찮다면 계속",
+            "4~5/10이면 무게·횟수 줄이기"
+          ]
+        },
+        {
+          "heading": "오래가는 통증, 페이스 조절",
+          "color": "yellow",
+          "lines": [
+            "안 좋은 날 해낼 수 있는 양보다 <em>조금 적게</em>",
+            "1~2주마다 <em>10%쯤</em> 늘려요"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "들기·워밍업 편",
+      "sections": [
+        {
+          "heading": "힙 힌지 배우기",
+          "color": "yellow",
+          "lines": [
+            "무릎 살짝 굽히고 <em>엉덩이를 뒤로</em>",
+            "<em>10회 × 2세트</em>"
+          ]
+        },
+        {
+          "heading": "움직이며 하는 워밍업",
+          "color": "yellow",
+          "lines": [
+            "다리 흔들기 <em>10번씩</em>",
+            "걸으며 런지 10걸음"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "책상 편",
+      "sections": [
+        {
+          "heading": "직장인 필라테스 리셋",
+          "color": "yellow",
+          "lines": [
+            "앉아서 몸통 돌리기 <em>5번씩</em>",
+            "회의 끝날 때마다 반복해요"
+          ]
+        },
+        {
+          "heading": "사무실 의자 맞추기",
+          "color": "yellow",
+          "lines": [
+            "발은 바닥에, <em>무릎은 엉덩이 높이</em>",
+            "허리 받침 없으면 <em>수건 말아 대기</em>"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "저리거나 감각이 둔함",
+        "소변·배변 변화",
+        "붓거나 힘이 풀림"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "11월 첫째 주(11/2–11/7) 하비의 주간 정리예요.\n\n운동 중 통증이 3/10 이하이고 자고 나면 괜찮다면 보통 계속해도 괜찮아요. 오래가는 통증엔 안 좋은 날 할 수 있는 양보다 조금 적게 시작해 1~2주마다 10%쯤 늘려볼 수 있어요. 들 땐 엉덩이를 뒤로 빼는 힙 힌지를 연습하고, 사무실 의자는 무릎이 엉덩이 높이가 되게 맞춰요.\n\n자세한 만화는 이번 주 게시물에서 다시 볼 수 있어요. 프로필 링크에서 온라인 예약 🦘\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#운동통증",
+    "#직장인건강",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 루루가 이번 주 운동 중 통증 읽는 법, 페이스 조절, 힙 힌지, 워밍업, 책상 필라테스, 의자 맞추기 팁과 확인이 필요한 신호를 정리한 6장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "이번 주 핵심만 모았어요",
+    "body": "통증 읽기·들기·책상 팁,<br>한 번에 다시 보기!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-08",
+  "created": "2026-11-08-1",
+  "status": "approved",
+  "review_warnings": []
+}

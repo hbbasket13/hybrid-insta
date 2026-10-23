@@ -1,0 +1,136 @@
+{
+  "id": "R-001-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-10-19–2026-10-24",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>10/19–10/24</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "rabbit_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "한 번에<br>정리해요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "균형·걷기 편",
+      "sub": "작게, 꾸준히 해봐요",
+      "sections": [
+        {
+          "heading": "60대 이후 균형 운동",
+          "color": "yellow",
+          "lines": [
+            "벤치 잡고 <em>한 발 서기 10~30초</em>",
+            "손 없이 의자에서 일어서기 × 10"
+          ]
+        },
+        {
+          "heading": "허리 아플 때 걷기",
+          "color": "yellow",
+          "lines": [
+            "<em>살짝 불편한 정도</em>로 하루 2~3번",
+            "며칠마다 몇 분씩 늘려요"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "목·호흡 편",
+      "sections": [
+        {
+          "heading": "책상 앞 목 운동 3가지",
+          "color": "yellow",
+          "lines": [
+            "턱 끄덕이기 <em>천천히 10번</em>",
+            "하루 2~3번, 편한 범위에서"
+          ]
+        },
+        {
+          "heading": "필라테스 갈비뼈 호흡",
+          "color": "yellow",
+          "lines": [
+            "코로 4초 들이쉬고 입으로 <em>6초</em>",
+            "<em>5번</em>, 매일 밤 해봐요"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "발목·정원일 편",
+      "sections": [
+        {
+          "heading": "삔 뒤 뻣뻣한 발목",
+          "color": "yellow",
+          "lines": [
+            "무릎 벽에 대기 <em>10~15번</em> 천천히",
+            "한 발 서기 30초, 양쪽 비교"
+          ]
+        },
+        {
+          "heading": "허리 편한 정원 일",
+          "color": "yellow",
+          "lines": [
+            "<em>20분마다</em> 일 바꾸고 1분 걷기",
+            "들 땐 몸 가까이, 발로 돌아요"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "다리 저림·힘 빠짐",
+        "소변·배변 변화",
+        "일어설 때 어지러움"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "10월 셋째 주(10/19–10/24) 하비의 주간 정리예요.\n\n60대 이후엔 벤치를 잡고 한 발 서기 10~30초로 균형 연습을 시작할 수 있어요. 책상 앞에서 굳은 목은 턱 끄덕이기 10번으로 풀어보고, 삔 뒤 뻣뻣한 발목엔 무릎 벽에 대기 운동이 도움이 될 수 있어요. 허리가 아플 땐 살짝 불편한 정도로 하루 2~3번 나눠 걸어요.\n\n자세한 만화는 이번 주 게시물에서 다시 볼 수 있어요. 프로필 링크에서 온라인 예약 🐰\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#균형운동",
+    "#허리통증",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 토토가 이번 주 균형 운동, 걷기, 목 운동, 호흡, 발목, 정원 일 팁과 확인이 필요한 신호를 정리한 6장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "이번 주 핵심만 모았어요",
+    "body": "균형·목·발목·걷기 팁,<br>한 번에 다시 보기!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-10-25",
+  "created": "2026-10-25-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,137 @@
+{
+  "id": "R-010-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-12-21–2026-12-26",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Dec 21–26</em>",
+      "sub": "Holiday-week body tips in one place",
+      "left": {
+        "char": "turtle_happy2"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Holidays are<br>for moving too!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Holiday travel</b>",
+      "sub": "Packing the car, new beds",
+      "sections": [
+        {
+          "heading": "Packing the car for a road trip",
+          "color": "yellow",
+          "lines": [
+            "Rest each bag on the bumper, then slide it in.",
+            "A few medium bags beat one giant one."
+          ]
+        },
+        {
+          "heading": "Sleeping in a different bed",
+          "color": "yellow",
+          "lines": [
+            "Soft bed? A pillow between your knees.",
+            "Morning: 10 knee rocks and a short walk."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Keep moving</b>",
+      "sub": "A little, every day",
+      "sections": [
+        {
+          "heading": "A 10-minute holiday Pilates routine",
+          "color": "yellow",
+          "lines": [
+            "5 slow breaths, then 10 bridges.",
+            "Bird dog 8 each side, then 10 cat-cows."
+          ]
+        },
+        {
+          "heading": "Staying active over the break",
+          "color": "yellow",
+          "lines": [
+            "One anchor habit: a walk or 10 min of moves.",
+            "Long drives and lunches: up every 30–60 min."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Hands & feet</b>",
+      "sub": "Stiff hands, long shifts",
+      "sections": [
+        {
+          "heading": "Hand osteoarthritis",
+          "color": "yellow",
+          "lines": [
+            "Rest your hands in warm water a few minutes.",
+            "Loose fist, then spread fingers wide, 10 reps."
+          ]
+        },
+        {
+          "heading": "On your feet all day",
+          "color": "yellow",
+          "lines": [
+            "Roll each sole over a ball for 1 minute.",
+            "20-second calf stretch on every break."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Sudden heat and swelling",
+        "One calf swelling up"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Hybi's weekly recap for Dec 21 to 26.\n\nPacking the car? Rest each bag on the bumper before sliding it in, and choose a few medium bags over one giant one. A soft holiday bed often feels better with a pillow between your knees. Over the break, one anchor habit, like a walk or 10 minutes of Pilates, can keep you moving. And stiff hands may loosen up with warm water, then slow fists and finger spreads.\n\nScroll back through the feed for the full comics. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydney",
+    "#pilates",
+    "#chiropractic",
+    "#remedialmassage",
+    "#holidayhealth"
+  ],
+  "alt_text": "A six-slide cartoon recap in which Hybi sums up the week's six comic tips, from packing the car to a 10-minute Pilates routine and hand exercises, plus signs worth getting checked.",
+  "story": {
+    "headline": "Your holiday week, recapped",
+    "body": "Road trips, Pilates, hands<br>and feet in one place.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-27",
+  "created": "2026-12-27-2",
+  "status": "approved",
+  "review_warnings": []
+}

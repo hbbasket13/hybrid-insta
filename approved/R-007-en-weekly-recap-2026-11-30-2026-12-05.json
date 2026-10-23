@@ -1,0 +1,137 @@
+{
+  "id": "R-007-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-11-30–2026-12-05",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Nov 30–Dec 5</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "koala_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "The week's<br>highlights, in one go!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Everyday</b> life",
+      "sub": "Carrying, gaming, sitting",
+      "sections": [
+        {
+          "heading": "Carrying bags and kids on one side",
+          "color": "yellow",
+          "lines": [
+            "Suitcase carry: heavy bag in one hand, walk tall.",
+            "20 steps per hand, 2–3 rounds, twice a week."
+          ]
+        },
+        {
+          "heading": "Gaming marathons",
+          "color": "yellow",
+          "lines": [
+            "Loading screen? Stand up for a 30-second reset.",
+            "Look slowly over each shoulder, 3 times."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Sport</b> & training",
+      "sub": "For riders and runners",
+      "sections": [
+        {
+          "heading": "Knee pain on long bike rides",
+          "color": "yellow",
+          "lines": [
+            "Squats, 10 reps × 3 sets, twice a week.",
+            "Add distance or climbing, not both."
+          ]
+        },
+        {
+          "heading": "Tendon pain: rest alone rarely helps",
+          "color": "yellow",
+          "lines": [
+            "Calf raise hold: 30 sec × 4–5 reps.",
+            "Once or twice a day, tolerable discomfort."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Recovery</b> & rest",
+      "sub": "After flights, and getting up",
+      "sections": [
+        {
+          "heading": "Massage after a long-haul flight",
+          "color": "yellow",
+          "lines": [
+            "Walk 20 minutes in daylight when you land.",
+            "Moderate massage a day or two later."
+          ]
+        },
+        {
+          "heading": "Rolling out of bed with a sore back",
+          "color": "yellow",
+          "lines": [
+            "Knees bent, rock side to side 10 times.",
+            "Roll as one unit, then push up with your arms."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if you notice",
+      "items": [
+        "Tingling down an arm or leg",
+        "One calf swollen or warm",
+        "Knee locks or gives way"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's weekly recap for Nov 30 to Dec 5.\n\nA suitcase carry (heavy bag in one hand, standing tall) can help build the strength for one-sided loads. Tendon pain usually needs the right load, not just rest, so a 30-second calf raise hold is a good starting point. After a long-haul flight, a 20-minute walk in daylight often helps, with massage a day or two later. And with a sore back in the morning, try rolling out of bed as one unit.\n\nScroll back through the feed for the full comics. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydney",
+    "#chiropractic",
+    "#remedialmassage",
+    "#backpain",
+    "#cycling"
+  ],
+  "alt_text": "A six-slide cartoon recap in which Hybi sums up the week's six comic tips, from suitcase carries to rolling out of bed, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "From suitcase carries to getting<br>out of bed: a quick recap.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-06",
+  "created": "2026-12-06-2",
+  "status": "approved",
+  "review_warnings": []
+}

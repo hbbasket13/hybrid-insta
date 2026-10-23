@@ -1,0 +1,136 @@
+{
+  "id": "R-017-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-02-08–2027-02-13",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Feb 8–13</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "koala_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's recap<br>the week!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Sport & training",
+      "sub": "Fast courts, strong legs",
+      "sections": [
+        {
+          "heading": "Touch footy and futsal",
+          "color": "yellow",
+          "lines": [
+            "10-min warm-up, building to 3–4 short sprints",
+            "Nordic curls and single-leg bridges, twice a week"
+          ]
+        },
+        {
+          "heading": "Squash and badminton",
+          "color": "yellow",
+          "lines": [
+            "Split squats, step-ups and calf raises",
+            "Twice a week; add a little weight when easy"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Massage & Pilates",
+      "sub": "Around events and every day",
+      "sections": [
+        {
+          "heading": "Massage before or after a race",
+          "color": "yellow",
+          "lines": [
+            "Race week: nothing new",
+            "Before: 2–4 days out, lighter pressure"
+          ]
+        },
+        {
+          "heading": "Single-leg strength in Pilates",
+          "color": "yellow",
+          "lines": [
+            "Single-leg sit-to-stand from a high chair",
+            "6–8 per side; note which side feels harder"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Making visits count",
+      "sections": [
+        {
+          "heading": "A simple pain diary",
+          "color": "yellow",
+          "lines": [
+            "One line a day: pain score, activity, sleep",
+            "Look at weeks, not days"
+          ]
+        },
+        {
+          "heading": "Getting the most from appointments",
+          "color": "yellow",
+          "lines": [
+            "Practise exercises in session and film them",
+            "Leave with your top 2–3 priorities"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth a check if you notice",
+      "items": [
+        "Sudden sharp pain, bruising",
+        "Calf swelling and warmth",
+        "A knee that swells or locks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Feb 8–13.\n\nBefore touch footy or futsal, a 10-minute warm-up building to 3–4 short sprints gets you ready. In race week, skip any new massage; if you book one, go 2–4 days out with lighter pressure. A pain diary only needs one line a day, and patterns over a week or two tell you more than one bad day. In appointments, practise your exercises and film them.\n\nScroll back through this week's posts for the full comics. Calf swelling and warmth, or a knee that locks, needs a check. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#physio",
+    "#sportsphysio",
+    "#pilates",
+    "#paindiary",
+    "#sydney"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Koko covering court sport prep, race-week massage, single-leg Pilates, pain diaries and appointment tips, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Sport, Pilates and clinic<br>tips, all together.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-02-14",
+  "created": "2027-02-14-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,136 @@
+{
+  "id": "R-004-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-11-09–2026-11-14",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>11/9–11/14</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "cat_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "한 번에<br>정리해요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "운동 복귀 편",
+      "sub": "다시 시작할 땐 천천히",
+      "sections": [
+        {
+          "heading": "부상 후 헬스장 복귀",
+          "color": "yellow",
+          "lines": [
+            "1~2주차엔 평소 무게의 <em>절반쯤</em>",
+            "무게·세트·횟수 중 <em>하나만</em> 올려요"
+          ]
+        },
+        {
+          "heading": "머리 위로 들 때 어깨 통증",
+          "color": "yellow",
+          "lines": [
+            "로우 <em>3 × 10~12</em>",
+            "다음 날 괜찮으면 가볍게 다시"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "홈 필라테스 편",
+      "sections": [
+        {
+          "heading": "집에서 하는 매트 3가지",
+          "color": "yellow",
+          "lines": [
+            "브릿지·데드버그 <em>8~10번</em>",
+            "천천히, 숨은 고르게"
+          ]
+        },
+        {
+          "heading": "균형을 위한 필라테스",
+          "color": "yellow",
+          "lines": [
+            "벤치 살짝 잡고 <em>한 발 20~30초</em>",
+            "양쪽 번갈아, 하루 2번"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "일상 관리 편",
+      "sections": [
+        {
+          "heading": "마사지 효과 이어가기",
+          "color": "yellow",
+          "lines": [
+            "그날 저녁 <em>10분 걷기</em>",
+            "책상에선 30~60분마다 일어나기"
+          ]
+        },
+        {
+          "heading": "소파에서 노트북 할 때",
+          "color": "yellow",
+          "lines": [
+            "노트북은 <em>단단한 쿠션이나 책 위</em>",
+            "<em>1시간마다</em> 자리 바꾸기"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "자꾸 다시 붓는다",
+        "저리거나 감각이 둔함",
+        "최근에 넘어졌다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "11월 둘째 주(11/9–11/14) 하비의 주간 정리예요.\n\n부상 후 헬스장에 돌아갈 땐 1~2주차에 평소 무게의 절반쯤으로 시작하고, 무게·세트·횟수 중 하나만 올려요. 집에선 브릿지와 데드버그를 천천히 8~10번 해볼 수 있어요. 마사지 받은 날 저녁엔 10분 걷기로 효과를 이어가고, 소파에서 일한다면 노트북을 쿠션 위에 올리고 1시간마다 자리를 바꿔요.\n\n자세한 만화는 이번 주 게시물에서 다시 볼 수 있어요. 프로필 링크에서 온라인 예약 🐱\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#필라테스",
+    "#운동복귀",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 모모가 이번 주 운동 복귀, 어깨, 홈 필라테스, 균형, 마사지 후 관리, 노트북 자세 팁과 확인이 필요한 신호를 정리한 6장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "이번 주 핵심만 모았어요",
+    "body": "운동 복귀·필라테스·일상 팁,<br>한 번에 다시 보기!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-15",
+  "created": "2026-11-15-1",
+  "status": "approved",
+  "review_warnings": []
+}

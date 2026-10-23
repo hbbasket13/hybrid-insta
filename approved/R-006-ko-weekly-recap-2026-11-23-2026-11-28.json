@@ -1,0 +1,136 @@
+{
+  "id": "R-006-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-11-23–2026-11-28",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>11/23–11/28</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "rabbit_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "핵심만<br>쏙쏙!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "바쁜 날 운동 편",
+      "sub": "짧아도 꾸준하면 돼요",
+      "sections": [
+        {
+          "heading": "틈새 운동 (운동 스낵)",
+          "color": "yellow",
+          "lines": [
+            "물 끓는 동안 <em>스쿼트 10번</em>",
+            "자기 전 <em>60초</em> 플랭크나 브릿지"
+          ]
+        },
+        {
+          "heading": "오래가는 통증과 필라테스",
+          "color": "yellow",
+          "lines": [
+            "편한 동작 2~3개, <em>5분</em>부터",
+            "좋은 날이 이틀이면 <em>1~2분</em> 추가"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "일하는 몸 편",
+      "sections": [
+        {
+          "heading": "마우스·키보드로 뻐근한 팔",
+          "color": "yellow",
+          "lines": [
+            "주먹 쥐었다 펴기 <em>10번</em>",
+            "팔꿈치는 <em>책상 높이</em> 정도로"
+          ]
+        },
+        {
+          "heading": "하루 종일 차 타고 내릴 때",
+          "color": "yellow",
+          "lines": [
+            "먼저 앉고 <em>무릎 붙여 두 다리 함께</em>",
+            "정차마다 <em>10초</em> 서서 뒤로 젖히기"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "여름·걷기 편",
+      "sections": [
+        {
+          "heading": "더운 날 운동하기",
+          "color": "yellow",
+          "lines": [
+            "<em>이른 아침이나 저녁</em>으로 옮기기",
+            "속도보다 <em>힘든 정도</em>에 맞춰요"
+          ]
+        },
+        {
+          "heading": "걸으면 다리 아프고 앉으면 편할 때",
+          "color": "yellow",
+          "lines": [
+            "심해질 때까지 걷고 <em>1~2분 앉기</em>",
+            "<em>3~4번</em> 반복해요"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "저림·힘 빠짐",
+        "관절이 붓는다",
+        "어지럽거나 메스껍다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "11월 넷째 주(11/23–11/28) 하비의 주간 정리예요.\n\n바쁜 날엔 물 끓는 동안 스쿼트 10번 같은 틈새 운동부터 해볼 수 있어요. 마우스를 오래 쓴다면 주먹 쥐었다 펴기 10번으로 손을 풀어요. 더운 날엔 운동을 이른 아침이나 저녁으로 옮기고 속도보다 힘든 정도에 맞춰요. 걸을 때 다리가 아프고 앉으면 편하다면 1~2분 앉았다 다시 걷기를 3~4번 반복해요.\n\n자세한 만화는 이번 주 게시물에서 다시 볼 수 있어요. 프로필 링크에서 온라인 예약 🐰\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#홈트",
+    "#여름운동",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 토토가 이번 주 틈새 운동, 필라테스, 손목 풀기, 차 타고 내리기, 더운 날 운동, 걷기 팁과 확인이 필요한 신호를 정리한 6장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "이번 주 핵심만 모았어요",
+    "body": "틈새 운동·일하는 몸·여름 팁,<br>한 번에 다시 보기!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-29",
+  "created": "2026-11-29-1",
+  "status": "approved",
+  "review_warnings": []
+}

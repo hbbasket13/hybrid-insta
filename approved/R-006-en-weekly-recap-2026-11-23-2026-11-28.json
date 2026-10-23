@@ -1,0 +1,135 @@
+{
+  "id": "R-006-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-11-23–2026-11-28",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Nov 23–28</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "rabbit_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "The key bits,<br>right here!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Busy-day movement",
+      "sub": "Short and regular counts",
+      "sections": [
+        {
+          "heading": "Exercise snacks",
+          "color": "yellow",
+          "lines": [
+            "<em>10 squats</em> while the kettle boils.",
+            "A <em>60-second</em> plank or bridge before bed."
+          ]
+        },
+        {
+          "heading": "Pilates for persistent pain",
+          "color": "yellow",
+          "lines": [
+            "2–3 comfy moves, <em>5 minutes</em> to start.",
+            "Two good days? Add <em>1–2 minutes</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Bodies at work",
+      "sections": [
+        {
+          "heading": "Mouse and keyboard forearms",
+          "color": "yellow",
+          "lines": [
+            "Open and close your fists <em>10 times</em>.",
+            "Elbows about <em>desk height</em>."
+          ]
+        },
+        {
+          "heading": "In and out of the car all day",
+          "color": "yellow",
+          "lines": [
+            "Sit first, <em>knees together</em>, swing legs in.",
+            "Each stop: <em>10 sec</em> stand tall, lean back."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Summer & walking",
+      "sections": [
+        {
+          "heading": "Exercising in the heat",
+          "color": "yellow",
+          "lines": [
+            "Move sessions to <em>early morning or evening</em>.",
+            "Go by <em>effort</em>, not pace."
+          ]
+        },
+        {
+          "heading": "Leg pain walking, eases sitting",
+          "color": "yellow",
+          "lines": [
+            "Walk until it builds, then <em>sit 1–2 min</em>.",
+            "Repeat <em>3–4 times</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numbness or weakness",
+        "A joint swells up",
+        "Dizzy or nauseous"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Nov 23–28 is here.\n\nShort on time? Exercise snacks like 10 squats while the kettle boils are a simple start. Long hours on the mouse? Open and close your fists 10 times and keep your elbows about desk height. When it's hot, move sessions to early morning or evening and go by effort, not pace. Leg pain when walking that eases when you sit? Walk until it builds, sit 1–2 minutes, repeat.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#exercisesnacks",
+    "#summertraining",
+    "#physio"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Toto covering this week's tips on exercise snacks, Pilates for persistent pain, desk forearms, getting in and out of the car, exercising in the heat and walking with leg pain, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Busy days, work and summer<br>tips, all recapped.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-29",
+  "created": "2026-11-29-2",
+  "status": "approved",
+  "review_warnings": []
+}

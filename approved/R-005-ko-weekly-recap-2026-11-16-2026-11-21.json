@@ -1,0 +1,136 @@
+{
+  "id": "R-005-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-11-16–2026-11-21",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>11/16–11/21</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "turtle_happy2"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>복습해요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "다리·허리 편",
+      "sub": "작은 습관부터 시작해요",
+      "sections": [
+        {
+          "heading": "앉았다 일어서기 테스트",
+          "color": "yellow",
+          "lines": [
+            "팔짱 끼고 <em>5번 일어서기</em>, 시간 재기",
+            "<em>4주마다</em> 다시 재봐요"
+          ]
+        },
+        {
+          "heading": "지갑 깔고 앉기와 좌골신경통",
+          "color": "yellow",
+          "lines": [
+            "지갑은 <em>앞주머니로</em>",
+            "운전·앉아 있을 땐 <em>30분마다</em> 내리기"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "잠·손목 편",
+      "sections": [
+        {
+          "heading": "허리 아플 때 자는 자세",
+          "color": "yellow",
+          "lines": [
+            "옆으로: <em>무릎 사이에 베개</em>",
+            "바로: 무릎 아래 베개 1~2개"
+          ]
+        },
+        {
+          "heading": "밤에 저린 손 (손목터널)",
+          "color": "yellow",
+          "lines": [
+            "잘 땐 <em>손목을 곧게</em>",
+            "<em>30분마다</em> 쥐기·스크롤 쉬기"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "필라테스·마사지 편",
+      "sections": [
+        {
+          "heading": "필라테스, 얼마나 자주?",
+          "color": "yellow",
+          "lines": [
+            "<em>주 2~3번</em>, 바쁜 주엔 1번도 OK",
+            "쉬는 날엔 집에서 5~10분"
+          ]
+        },
+        {
+          "heading": "마사지는 세게 받아야 할까?",
+          "color": "yellow",
+          "lines": [
+            "압은 <em>10점 중 5~7</em> 정도",
+            "숨을 참게 되면 <em>바로 말해요</em>"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "소변·배변 변화",
+        "다리 힘이 더 빠진다",
+        "엄지에 힘이 없다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "11월 셋째 주(11/16–11/21) 하비의 주간 정리예요.\n\n팔짱 끼고 의자에서 5번 일어서는 시간을 재고 4주마다 다시 재보면 다리 힘 변화를 볼 수 있어요. 좌골신경통이 있다면 지갑은 앞주머니로, 운전 중엔 30분마다 내려요. 허리가 아플 땐 옆으로 누워 무릎 사이에 베개를 끼워볼 수 있어요. 마사지 압은 10점 중 5~7 정도면 충분해요.\n\n자세한 만화는 이번 주 게시물에서 다시 볼 수 있어요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#허리통증",
+    "#손목터널증후군",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 이번 주 앉았다 일어서기 테스트, 좌골신경통, 자는 자세, 손목터널, 필라테스 횟수, 마사지 압 팁과 확인이 필요한 신호를 정리한 6장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "이번 주 핵심만 모았어요",
+    "body": "다리·잠·손목·필라테스 팁,<br>한 번에 다시 보기!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-22",
+  "created": "2026-11-22-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,137 @@
+{
+  "id": "R-008-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-12-07–2026-12-12",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Dec 7–12</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "kanga_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's recap<br>the week together!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Desk</b> & commute",
+      "sub": "For heavy shoulders",
+      "sections": [
+        {
+          "heading": "Pilates for neck and shoulder tension",
+          "color": "yellow",
+          "lines": [
+            "Hands on lower ribs, breathe in to widen them.",
+            "Breathe out, shoulders drop. 5 breaths, 3×/day."
+          ]
+        },
+        {
+          "heading": "Heavy backpack on the CBD commute",
+          "color": "yellow",
+          "lines": [
+            "Both straps on, snug to your back.",
+            "Pack the heaviest items closest to your back."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Strength</b> basics",
+      "sub": "Hands and calves",
+      "sections": [
+        {
+          "heading": "Grip strength and healthy ageing",
+          "color": "yellow",
+          "lines": [
+            "Farmer's carry: a bag in each hand, 30 sec.",
+            "Squeeze a soft ball, 5 sec × 10 reps."
+          ]
+        },
+        {
+          "heading": "Calf raises done right",
+          "color": "yellow",
+          "lines": [
+            "1 sec up, pause, 3 sec down.",
+            "Do straight-knee and bent-knee versions."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Gym</b> & surf",
+      "sub": "Wrists and shoulders",
+      "sections": [
+        {
+          "heading": "Wrist pain from push-ups and planks",
+          "color": "yellow",
+          "lines": [
+            "Spread your fingers, press through the knuckles.",
+            "Sore? Hands on a bench or wall for now."
+          ]
+        },
+        {
+          "heading": "Massage for surfers' shoulders",
+          "color": "yellow",
+          "lines": [
+            "Band external rotation, 12 reps × 2 sets.",
+            "Book massage on a rest day from surfing."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if you notice",
+      "items": [
+        "Pins and needles down an arm",
+        "Pain after a fall on a hand",
+        "A sudden pop at back of leg"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's weekly recap for Dec 7 to 12.\n\nIf your neck and shoulders feel tight, lower-rib breathing can help: breathe in to widen the ribs, then let your shoulders drop as you breathe out. On the commute, wear both backpack straps and pack the heaviest items close to your back. Calf raises work well slowly: 1 second up, a pause, 3 seconds down. And if push-ups hurt your wrists, try hands on a bench or wall for now.\n\nScroll back through the feed for the full comics. Book online via the link in bio 🦘\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydney",
+    "#pilates",
+    "#chiropractic",
+    "#remedialmassage",
+    "#calfraises"
+  ],
+  "alt_text": "A six-slide cartoon recap in which Hybi sums up the week's six comic tips, from lower-rib breathing to calf raises and wrist-friendly push-ups, plus signs worth getting checked.",
+  "story": {
+    "headline": "Your week of tips, recapped",
+    "body": "Breathing, backpacks, calf raises<br>and more in one place.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-13",
+  "created": "2026-12-13-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,137 @@
+{
+  "id": "R-011-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-12-28–2027-01-02",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Dec 28–Jan 2</em>",
+      "sub": "New-year body tips in one place",
+      "left": {
+        "char": "rabbit_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "New year,<br>let's keep moving!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "<b>New year</b> & sleep",
+      "sub": "Goals and sleeping positions",
+      "sections": [
+        {
+          "heading": "Setting a movement goal",
+          "color": "yellow",
+          "lines": [
+            "Decide what, when and how much.",
+            "Plan a 10-minute version for busy weeks."
+          ]
+        },
+        {
+          "heading": "Stomach sleeping and your neck",
+          "color": "yellow",
+          "lines": [
+            "Use a thin pillow, or none, under your face.",
+            "Hug a long pillow and lie half on your side."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Summer sport</b> & snow",
+      "sub": "Cramps and ski prep",
+      "sections": [
+        {
+          "heading": "Muscle cramps during exercise",
+          "color": "yellow",
+          "lines": [
+            "Stop and pull your toes towards you, hold.",
+            "Most cramps ease in 1–2 minutes."
+          ]
+        },
+        {
+          "heading": "Heading to the snow in Japan?",
+          "color": "yellow",
+          "lines": [
+            "Squats and split squats, 10 × 3 sets.",
+            "Keep each knee in line with your toes."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Recovery</b> & Pilates",
+      "sub": "After massage, through menopause",
+      "sections": [
+        {
+          "heading": "Should you stretch after a massage?",
+          "color": "yellow",
+          "lines": [
+            "Go for an easy 10–15 min walk.",
+            "Stretches: 20–30 sec, comfortable only."
+          ]
+        },
+        {
+          "heading": "Pilates through menopause",
+          "color": "yellow",
+          "lines": [
+            "An assessment first: goals and joints.",
+            "Reformer springs add load bit by bit."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if you notice",
+      "items": [
+        "Arm pain or tingling",
+        "A pop, then swelling",
+        "A swollen, warm calf"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's weekly recap for Dec 28 to Jan 2.\n\nSetting a movement goal for the new year? Decide what, when and how much, and plan a 10-minute version for busy weeks. If a cramp hits mid-exercise, stop and pull your toes towards you; most ease in 1–2 minutes. Heading to the snow? Squats and split squats can help prepare your knees. And after a massage, an easy walk is often a nice way to keep moving.\n\nScroll back through the feed for the full comics. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydney",
+    "#pilates",
+    "#remedialmassage",
+    "#newyeargoals",
+    "#skiing"
+  ],
+  "alt_text": "A six-slide cartoon recap in which Hybi sums up the week's six comic tips, from new-year movement goals to cramps, ski prep and Pilates, plus signs worth getting checked.",
+  "story": {
+    "headline": "New-year week, recapped",
+    "body": "Goals, cramps, ski prep<br>and more in one place.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-01-03",
+  "created": "2027-01-03-2",
+  "status": "approved",
+  "review_warnings": []
+}

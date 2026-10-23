@@ -1,0 +1,135 @@
+{
+  "id": "R-001-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-10-19–2026-10-24",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Oct 19–24</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "rabbit_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "All in<br>one place!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Balance & walking",
+      "sub": "Small and steady wins",
+      "sections": [
+        {
+          "heading": "Balance after 60",
+          "color": "yellow",
+          "lines": [
+            "Hold a bench, <em>lift one foot 10–30 sec</em>.",
+            "Stand from a chair, no hands, × 10."
+          ]
+        },
+        {
+          "heading": "Walking for back pain",
+          "color": "yellow",
+          "lines": [
+            "Walk until <em>only mildly uncomfortable</em>.",
+            "Split into 2–3 walks a day, add a few min."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Neck & breathing",
+      "sections": [
+        {
+          "heading": "Three neck moves for desk workers",
+          "color": "yellow",
+          "lines": [
+            "Chin nods: <em>10 slow reps</em>.",
+            "2–3 times a day, within comfort."
+          ]
+        },
+        {
+          "heading": "Pilates rib breathing",
+          "color": "yellow",
+          "lines": [
+            "In through the nose for 4, out for <em>6</em>.",
+            "<em>5 rounds</em>, every night."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Ankles & gardening",
+      "sections": [
+        {
+          "heading": "Stiff ankle after a sprain",
+          "color": "yellow",
+          "lines": [
+            "Knee to wall rocks: <em>10–15 slow reps</em>.",
+            "Single-leg balance 30 sec, compare sides."
+          ]
+        },
+        {
+          "heading": "Gardening without the sore back",
+          "color": "yellow",
+          "lines": [
+            "Swap jobs <em>every 20 min</em>, walk a minute.",
+            "Lift close, turn with your feet."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Bladder or bowel changes",
+        "Dizzy when you stand up"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Oct 19–24 is here.\n\nAfter 60, holding a bench and lifting one foot for 10–30 seconds is a simple way to start balance work. Desk-bound neck? Ten slow chin nods, 2–3 times a day, within comfort. A stiff ankle months after a sprain often responds to knee to wall rocks. And for back pain, walking for a time that's only mildly uncomfortable, split into 2–3 walks, can help.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#balance",
+    "#backpain",
+    "#anklesprain",
+    "#physio"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Toto covering this week's tips on balance, walking, neck moves, breathing, stiff ankles and gardening, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Balance, neck, ankles<br>and walking, all recapped.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-10-25",
+  "created": "2026-10-25-2",
+  "status": "approved",
+  "review_warnings": []
+}

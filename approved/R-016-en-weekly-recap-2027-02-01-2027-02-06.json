@@ -1,0 +1,136 @@
+{
+  "id": "R-016-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-02-01–2027-02-06",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Feb 1–6</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "rabbit_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Nice work this<br>week, everyone!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Sport & training",
+      "sub": "Keep your season going",
+      "sections": [
+        {
+          "heading": "Pilates for netball and basketball",
+          "color": "yellow",
+          "lines": [
+            "Pre-season: two sessions a week; in season: one",
+            "Single-leg control first, speed later"
+          ]
+        },
+        {
+          "heading": "Massage in a marathon block",
+          "color": "yellow",
+          "lines": [
+            "Lighter massage after a long run or easy day",
+            "Leave a day or two before speed work"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Recovery & load",
+      "sub": "Rest is part of training",
+      "sections": [
+        {
+          "heading": "Why rest days matter",
+          "color": "yellow",
+          "lines": [
+            "One or two lighter or rest days a week",
+            "Most adults do well with 7–9 hours' sleep"
+          ]
+        },
+        {
+          "heading": "What we mean by 'load'",
+          "color": "yellow",
+          "lines": [
+            "Mild ache that settles by morning: usually OK",
+            "Change one dial at a time"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Everyday & rehab",
+      "sections": [
+        {
+          "heading": "Rehab in a busy week",
+          "color": "yellow",
+          "lines": [
+            "Ten focused minutes most days",
+            "Calf raises while the kettle boils"
+          ]
+        },
+        {
+          "heading": "Knee clicking",
+          "color": "yellow",
+          "lines": [
+            "Painless knee noise is very common",
+            "Sit-to-stands and step-ups, 3 times a week"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth a check if you notice",
+      "items": [
+        "Sharp pain in one spot",
+        "Knee locks or gives way",
+        "Numbness or pins and needles"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Feb 1–6.\n\nCourt sport players can start with two Pilates sessions a week in pre-season, building single-leg control before speed. Plan one or two lighter or rest days a week, and aim for 7–9 hours' sleep. Mild discomfort during exercise that settles by the next morning is usually acceptable. Painless knee clicking is very common, and sit-to-stands and step-ups often help knees feel more confident.\n\nScroll back through this week's posts for the full comics. Sharp pain in one spot or a knee that locks is worth an assessment. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#physio",
+    "#running",
+    "#recovery",
+    "#kneepain",
+    "#sydney"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Toto covering sport-specific Pilates and massage timing, rest and load, busy-week rehab and signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Sport, recovery and rehab<br>tips, all together.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-02-07",
+  "created": "2027-02-07-2",
+  "status": "approved",
+  "review_warnings": []
+}

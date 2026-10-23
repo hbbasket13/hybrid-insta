@@ -1,0 +1,137 @@
+{
+  "id": "R-009-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-12-14–2026-12-19",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Dec 14–19</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "cat_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Here's the week<br>in a nutshell!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Everyday</b> life",
+      "sub": "Driving and floor play",
+      "sections": [
+        {
+          "heading": "Neck pain when driving",
+          "color": "yellow",
+          "lines": [
+            "Headrest level with the back of your head.",
+            "Every 2 hours: stop, walk, roll your shoulders."
+          ]
+        },
+        {
+          "heading": "Floor play with kids",
+          "color": "yellow",
+          "lines": [
+            "Roll to your side, then hands and knees.",
+            "Step a foot forward, push up through your legs."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Weekend sport</b>",
+      "sub": "Ankles and warm-ups",
+      "sections": [
+        {
+          "heading": "Ankles that keep rolling",
+          "color": "yellow",
+          "lines": [
+            "Stand on one leg for 30 sec, each side.",
+            "Easier? Eyes closed, or on a cushion."
+          ]
+        },
+        {
+          "heading": "Warm-ups that actually help",
+          "color": "yellow",
+          "lines": [
+            "Easy jog 3–5 min, then leg swings and lunges.",
+            "Finish with short sprints near game speed."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>Clinic & studio</b>",
+      "sub": "Massage and Pilates",
+      "sections": [
+        {
+          "heading": "Talking to your therapist about pressure",
+          "color": "yellow",
+          "lines": [
+            "Give a number: \"That's about an 8 out of 10.\"",
+            "Ask for more, less or another area anytime."
+          ]
+        },
+        {
+          "heading": "Pilates for men",
+          "color": "yellow",
+          "lines": [
+            "Single-leg bridge: 3 sec up, 3 sec down.",
+            "8 each side, keep your pelvis level."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth an assessment if you notice",
+      "items": [
+        "Tingling down a leg",
+        "Trouble taking weight",
+        "Pain spreading down an arm"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's weekly recap for Dec 14 to 19.\n\nWhen driving, set your headrest level with the back of your head and take a break every 2 hours. Ankles that keep rolling often respond to simple balance work, starting with 30 seconds on one leg. Before weekend sport, warm up with an easy jog, leg swings and lunges, then a few short sprints. And on the massage table, giving a number out of 10 is an easy way to talk about pressure.\n\nScroll back through the feed for the full comics. Book online via the link in bio 🐱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#sydney",
+    "#pilates",
+    "#remedialmassage",
+    "#anklesprain",
+    "#warmup"
+  ],
+  "alt_text": "A six-slide cartoon recap in which Hybi sums up the week's six comic tips, from driving posture and ankle balance to warm-ups and massage pressure, plus signs worth getting checked.",
+  "story": {
+    "headline": "Your week of tips, recapped",
+    "body": "Driving, ankles, warm-ups<br>and more in one place.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-20",
+  "created": "2026-12-20-2",
+  "status": "approved",
+  "review_warnings": []
+}

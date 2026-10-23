@@ -1,0 +1,138 @@
+{
+  "id": "R-010-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-12-21–2026-12-26",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>12/21–12/26</em>",
+      "sub": "연말 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "turtle_happy2"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "연말에도<br>몸은 챙겨요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "<b>휴가 여행</b> 편",
+      "sub": "짐 싣고, 낯선 침대에서",
+      "sections": [
+        {
+          "heading": "여행 짐 차에 싣기",
+          "color": "yellow",
+          "lines": [
+            "가방은 범퍼에 걸쳤다가 밀어 넣기",
+            "큰 가방 하나보다 중간 가방 여러 개"
+          ]
+        },
+        {
+          "heading": "휴가지 낯선 침대",
+          "color": "yellow",
+          "lines": [
+            "푹신한 침대면 무릎 사이에 베개",
+            "아침엔 무릎 흔들기 10번 + 짧은 산책"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>계속 움직이기</b> 편",
+      "sub": "연휴에도 조금씩",
+      "sections": [
+        {
+          "heading": "연휴 10분 필라테스",
+          "color": "yellow",
+          "lines": [
+            "천천히 5번 호흡 + 브리지 10회",
+            "버드독 8회씩, 고양이-소 10회"
+          ]
+        },
+        {
+          "heading": "크리스마스 연휴에도 활동적으로",
+          "color": "yellow",
+          "lines": [
+            "산책이나 10분 운동, 습관 하나만!",
+            "긴 운전·식사 중엔 30~60분마다 일어나기"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "<b>손·발</b> 편",
+      "sub": "손 관절과 서서 일하는 날",
+      "sections": [
+        {
+          "heading": "손 관절염, 손을 계속 움직여요",
+          "color": "yellow",
+          "lines": [
+            "따뜻한 물에 손을 몇 분 담그기",
+            "주먹 살짝 쥐었다 손가락 쫙 펴기 10회"
+          ]
+        },
+        {
+          "heading": "하루 종일 서 있는 날 발·종아리",
+          "color": "yellow",
+          "lines": [
+            "발바닥으로 공 굴리기 1분씩",
+            "쉬는 시간마다 종아리 스트레칭 20초"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 꼭 확인받기",
+      "items": [
+        "통증이 다리로 퍼져요",
+        "관절이 갑자기 붓고 열나요",
+        "한쪽 종아리가 부어요"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "크리스마스 주간, 하비의 주간 정리예요.\n\n여행 짐은 범퍼에 걸쳤다가 밀어 넣으면 허리가 한결 편할 수 있어요. 낯선 침대가 푹신하면 무릎 사이에 베개 하나! 연휴엔 산책이나 10분 운동처럼 습관 하나만 지켜도 좋아요. 손 관절이 뻣뻣하면 따뜻한 물에 담근 뒤 주먹 쥐었다 펴기를 천천히 해봐요.\n\n전체 만화는 피드를 거슬러 확인해 주세요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#weeklyrecap",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#필라테스",
+    "#카이로프랙틱",
+    "#연말건강"
+  ],
+  "alt_text": "하비가 이번 주 만화 6편의 핵심 팁(짐 싣기, 낯선 침대, 10분 필라테스, 연휴 활동, 손 관절, 발·종아리 관리)과 확인이 필요한 신호를 정리한 6장짜리 카드뉴스.",
+  "story": {
+    "headline": "크리스마스 주간 핵심 정리",
+    "body": "짐 싣기부터 손 운동까지,<br>한 번에 복습해요!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-12-27",
+  "created": "2026-12-27-1",
+  "status": "approved",
+  "review_warnings": []
+}

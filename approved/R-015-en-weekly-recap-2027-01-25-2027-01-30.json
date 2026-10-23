@@ -1,0 +1,136 @@
+{
+  "id": "R-015-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-01-25–2027-01-30",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Jan 25–30</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "turtle_happy2"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's recap<br>the week!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Desk & study",
+      "sub": "A setup that fits you",
+      "sections": [
+        {
+          "heading": "Furniture for tall people",
+          "color": "yellow",
+          "lines": [
+            "Desk risers or a sit-stand desk",
+            "Hips level with or above your knees"
+          ]
+        },
+        {
+          "heading": "Back to uni",
+          "color": "yellow",
+          "lines": [
+            "Laptop on a few books, separate keyboard",
+            "Long walks: both straps, pack light"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Hands & wrists",
+      "sub": "The first few days",
+      "sections": [
+        {
+          "heading": "Jammed finger in ball sports",
+          "color": "yellow",
+          "lines": [
+            "Wrapped cold pack about 15 min, hand raised",
+            "Buddy tape to the next finger, snug not tight"
+          ]
+        },
+        {
+          "heading": "Wrist after a fall",
+          "color": "yellow",
+          "lines": [
+            "Take rings off early, before swelling",
+            "Avoid leaning or lifting on it for now"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Stretch & unwind",
+      "sections": [
+        {
+          "heading": "Doorway chest stretch",
+          "color": "yellow",
+          "lines": [
+            "Forearms on the frame, gentle step forward",
+            "Hold about 30 sec, a few times a day"
+          ]
+        },
+        {
+          "heading": "Evening back stiffness",
+          "color": "yellow",
+          "lines": [
+            "Lying on your back, knee rocks × 10",
+            "On hands and knees, cat-cow × 8"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth a check if you notice",
+      "items": [
+        "Pain spreading to a limb",
+        "Numbness or weakness",
+        "Pain that wakes you"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Jan 25–30.\n\nTall? Desk risers or a sit-stand desk can help keep your hips level with or above your knees. A jammed finger usually starts with a wrapped cold pack for about 15 minutes and the hand raised. After a fall onto your hand, take rings off early, before swelling. Stiff back in the evening? Try knee rocks × 10, then cat-cow × 8.\n\nScroll back through this week's posts for the full comics. Pain spreading to a limb, or numbness, is worth an assessment. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#physio",
+    "#deskergonomics",
+    "#wristpain",
+    "#backpain",
+    "#officeworker"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Mr Turtle covering desk setup, early care for finger and wrist knocks, simple stretches and signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Desk, hand and stretch<br>tips, all together.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-01-31",
+  "created": "2027-01-31-2",
+  "status": "approved",
+  "review_warnings": []
+}

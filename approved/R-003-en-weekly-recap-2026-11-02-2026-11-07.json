@@ -1,0 +1,135 @@
+{
+  "id": "R-003-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2026-11-02–2026-11-07",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Nov 2–7</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "kanga_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "The key bits,<br>right here!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Pain during exercise",
+      "sub": "How much is OK?",
+      "sections": [
+        {
+          "heading": "Good pain vs bad pain",
+          "color": "yellow",
+          "lines": [
+            "<em>Up to 3/10</em>, settles overnight → carry on.",
+            "4–5/10 or lingers → cut weight or reps."
+          ]
+        },
+        {
+          "heading": "Pacing for persistent pain",
+          "color": "yellow",
+          "lines": [
+            "Start <em>a little less</em> than a bad day's dose.",
+            "Every 1–2 weeks, add <em>about 10%</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Lifting & warm-ups",
+      "sections": [
+        {
+          "heading": "The hip hinge",
+          "color": "yellow",
+          "lines": [
+            "Soften the knees, <em>push the hips back</em>.",
+            "<em>10 reps × 2 sets</em>."
+          ]
+        },
+        {
+          "heading": "Warm up on the move",
+          "color": "yellow",
+          "lines": [
+            "Leg swings, <em>10 each leg</em>.",
+            "Walking lunges, 10 steps."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "At the desk",
+      "sections": [
+        {
+          "heading": "Pilates reset for desk workers",
+          "color": "yellow",
+          "lines": [
+            "Seated twists, <em>5 each way</em>.",
+            "Repeat at the end of each meeting."
+          ]
+        },
+        {
+          "heading": "Setting up your office chair",
+          "color": "yellow",
+          "lines": [
+            "Feet flat, <em>knees about hip level</em>.",
+            "No lumbar support? <em>A rolled-up towel</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numbness or tingling",
+        "Bladder or bowel changes",
+        "Swelling or giving way"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Nov 2–7 is here.\n\nDuring exercise, pain up to 3/10 that settles overnight is usually fine to carry on with. For persistent pain, start a little below what you can manage on a bad day and add about 10% every 1–2 weeks. Lifting? Practise the hip hinge: soften the knees and push the hips back. And at your desk, set your chair so your knees sit about hip level.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🦘\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#exercisepain",
+    "#deskjob",
+    "#ergonomics",
+    "#physio"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Lulu covering this week's tips on reading pain during exercise, pacing, the hip hinge, warm-ups, desk Pilates and chair setup, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Pain, lifting and desk<br>tips, all recapped.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2026-11-08",
+  "created": "2026-11-08-2",
+  "status": "approved",
+  "review_warnings": []
+}
