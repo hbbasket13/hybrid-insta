@@ -1,0 +1,136 @@
+{
+  "id": "R-023-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-03-22–2027-03-26",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>3/22–3/26</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "kanga_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "핵심만<br>모았어요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "무릎·달리기 편",
+      "sub": "작게, 꾸준히 해봐요",
+      "sections": [
+        {
+          "heading": "의자에서 일어날 때 무릎",
+          "color": "yellow",
+          "lines": [
+            "코가 무릎 위로 오게 숙여요",
+            "천천히 앉고 서기 <em>10번, 하루 2번</em>"
+          ]
+        },
+        {
+          "heading": "달릴 때 옆구리 결림",
+          "color": "yellow",
+          "lines": [
+            "<em>걷기로 속도를 줄여요</em>",
+            "깊게 들이쉬고 천천히 내쉬어요"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "일터 습관 편",
+      "sections": [
+        {
+          "heading": "리셉션·사무직 마사지",
+          "color": "yellow",
+          "lines": [
+            "통화는 헤드셋이나 스피커로",
+            "<em>30분마다</em> 일어나 걸어요"
+          ]
+        },
+        {
+          "heading": "정비사를 위한 마사지",
+          "color": "yellow",
+          "lines": [
+            "팔뚝 스트레칭 <em>20초 × 2번</em>씩",
+            "공구는 필요한 만큼만 꽉 쥐어요"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "운동·운전 편",
+      "sections": [
+        {
+          "heading": "크리켓 선수 필라테스",
+          "color": "yellow",
+          "lines": [
+            "데드버그, 허리 바닥에 <em>양쪽 8번</em>",
+            "사이드 플랭크 20초 × 3번씩"
+          ]
+        },
+        {
+          "heading": "뒷좌석에 손 뻗을 때 어깨",
+          "color": "yellow",
+          "lines": [
+            "가방은 앞좌석이나 트렁크에",
+            "필요하면 <em>내려서 뒷문</em> 열기"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "팔·손 저림",
+        "밤에 깨는 통증",
+        "붓고 따뜻한 무릎"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "3월 넷째 주(3/22–3/26) 하비의 주간 정리예요.\n\n의자에서 일어날 때 무릎이 불편하면 코가 무릎 위로 오게 숙이고 천천히 앉고 서기를 10번, 하루 2번 해볼 수 있어요. 달리다 옆구리가 결리면 걷기로 속도를 줄이고 천천히 내쉬어요. 리셉션·사무직은 30분마다 일어나 걷고, 뒷좌석 가방은 내려서 뒷문으로 꺼내요.\n\n자세한 만화는 이번 주 게시물에서 다시 볼 수 있어요. 프로필 링크에서 온라인 예약 🦘\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#무릎통증",
+    "#어깨통증",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 루루가 이번 주 무릎, 옆구리 결림, 사무직·정비사 습관, 크리켓 필라테스, 뒷좌석 어깨 팁과 확인이 필요한 신호를 정리한 6장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "이번 주 핵심만 모았어요",
+    "body": "무릎·어깨·달리기 팁,<br>한 번에 다시 보기!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-03-28",
+  "created": "2027-03-28-1",
+  "status": "approved",
+  "review_warnings": []
+}

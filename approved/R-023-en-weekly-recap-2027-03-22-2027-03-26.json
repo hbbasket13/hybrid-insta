@@ -1,0 +1,135 @@
+{
+  "id": "R-023-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-03-22–2027-03-26",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Mar 22–26</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "kanga_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "All in<br>one place!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Knees & running",
+      "sub": "Small and steady",
+      "sections": [
+        {
+          "heading": "Knee pain getting up from a chair",
+          "color": "yellow",
+          "lines": [
+            "Lean so your <em>nose is over your knees</em>.",
+            "Stand and sit slowly: <em>10 reps, twice a day</em>."
+          ]
+        },
+        {
+          "heading": "Side stitch when running",
+          "color": "yellow",
+          "lines": [
+            "<em>Slow to a walk.</em>",
+            "Breathe in deep, breathe out slowly."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Work habits",
+      "sections": [
+        {
+          "heading": "Massage for receptionists and admin",
+          "color": "yellow",
+          "lines": [
+            "Take calls on a headset or speaker.",
+            "About <em>every 30 min</em>, stand and walk."
+          ]
+        },
+        {
+          "heading": "Massage for mechanics",
+          "color": "yellow",
+          "lines": [
+            "Forearm stretch: <em>20 sec × 2</em> each side.",
+            "Grip tools only as tight as needed."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Sport & the car",
+      "sections": [
+        {
+          "heading": "Pilates for cricketers",
+          "color": "yellow",
+          "lines": [
+            "Dead bug, back flat, <em>8 each side</em>.",
+            "Side plank, 20 sec × 3 each side."
+          ]
+        },
+        {
+          "heading": "Reaching into the back seat",
+          "color": "yellow",
+          "lines": [
+            "Keep bags on the front seat or in the boot.",
+            "Need it? <em>Hop out</em> and open the back door."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm or hand tingling",
+        "Pain wakes you at night",
+        "Swollen or warm knee"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Mar 22–26 is here.\n\nKnee grumbling when you get up from a chair? Leaning nose over knees and practising slow sit to stands, 10 reps twice a day, can help. A side stitch on a run often eases if you slow to a walk and breathe out slowly. Front-desk staff can stand and walk about every 30 minutes. And reaching into the back seat? Hop out and open the back door instead.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🦘\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#kneepain",
+    "#shoulderpain",
+    "#running",
+    "#officehealth"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Lulu covering this week's tips on knee pain, side stitches, desk and workshop habits, Pilates for cricketers and reaching into the back seat, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Knees, shoulders, running<br>and work habits, all recapped.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-03-28",
+  "created": "2027-03-28-2",
+  "status": "approved",
+  "review_warnings": []
+}

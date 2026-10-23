@@ -1,0 +1,135 @@
+{
+  "id": "R-022-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-03-15–2027-03-20",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Mar 15–20</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "koala_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "All in<br>one place!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Work & posture",
+      "sub": "Little resets, often",
+      "sections": [
+        {
+          "heading": "Neck and hands for dental staff",
+          "color": "yellow",
+          "lines": [
+            "Chin tuck: <em>5 sec × 5 reps</em>.",
+            "Make a fist and open wide, 10 each hand."
+          ]
+        },
+        {
+          "heading": "Pilates for hairdressers",
+          "color": "yellow",
+          "lines": [
+            "Draw shoulder blades gently back and down.",
+            "Hold <em>5 sec × 10</em>, between clients."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Home & everyday",
+      "sections": [
+        {
+          "heading": "Getting up from a low sofa",
+          "color": "yellow",
+          "lines": [
+            "Scoot to the <em>front edge</em> first.",
+            "Nose over toes, push through your thighs."
+          ]
+        },
+        {
+          "heading": "Making the bed",
+          "color": "yellow",
+          "lines": [
+            "<em>Walk to each corner</em>, don't reach across.",
+            "Kneel on one knee to tuck corners."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Ankles & running",
+      "sections": [
+        {
+          "heading": "Outer foot pain after a rolled ankle",
+          "color": "yellow",
+          "lines": [
+            "Seated foot circles, <em>10 each way</em>.",
+            "2–3 times a day, within comfort."
+          ]
+        },
+        {
+          "heading": "Jogging with a pram",
+          "color": "yellow",
+          "lines": [
+            "Start with <em>1 min jog, 1 min walk × 10</em>.",
+            "Wrist strap on, light grip on the handle."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Arm or hand tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Mar 15–20 is here.\n\nWork with your head down, like dental staff? Chin tucks, 5 seconds × 5, can ease a stiff neck. Getting up from a low sofa is often easier if you scoot to the front edge and lean nose over toes first. Outer foot pain after a rolled ankle? Seated foot circles, 10 each way, 2–3 times a day. And jogging with a pram can start with 1 minute jogging, 1 minute walking, 10 times.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#neckpain",
+    "#backpain",
+    "#anklesprain"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Koko covering this week's tips on neck and hand care, getting up from a sofa, making the bed, rolled ankles and pram jogging, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Neck, back, ankles<br>and pram jogging, all recapped.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-03-21",
+  "created": "2027-03-21-2",
+  "status": "approved",
+  "review_warnings": []
+}

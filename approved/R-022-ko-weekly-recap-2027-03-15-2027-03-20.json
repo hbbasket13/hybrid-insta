@@ -1,0 +1,136 @@
+{
+  "id": "R-022-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-03-15–2027-03-20",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>3/15–3/20</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "koala_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "한 번에<br>정리해요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "일터 자세 편",
+      "sub": "목·어깨를 자주 풀어줘요",
+      "sections": [
+        {
+          "heading": "치과 종사자 목·손 관리",
+          "color": "yellow",
+          "lines": [
+            "턱 당기기 <em>5초 × 5번</em>",
+            "주먹 쥐었다 펴기 양손 10번"
+          ]
+        },
+        {
+          "heading": "미용사를 위한 필라테스",
+          "color": "yellow",
+          "lines": [
+            "견갑골 살짝 뒤·아래로 모으기",
+            "<em>5초 × 10번</em>, 손님 사이사이"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "집·일상 편",
+      "sections": [
+        {
+          "heading": "낮은 소파에서 일어나기",
+          "color": "yellow",
+          "lines": [
+            "엉덩이를 <em>앞쪽 끝</em>으로 옮겨요",
+            "코가 발끝 위로 오게 숙여 일어서요"
+          ]
+        },
+        {
+          "heading": "침대 시트 갈 때 허리",
+          "color": "yellow",
+          "lines": [
+            "건너편까지 뻗지 말고 <em>모서리로 걸어가기</em>",
+            "한쪽 무릎 꿇고 모서리 넣어요"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "발목·달리기 편",
+      "sections": [
+        {
+          "heading": "삔 뒤 바깥쪽 발 통증",
+          "color": "yellow",
+          "lines": [
+            "앉아서 발로 원 그리기 <em>양방향 10번</em>",
+            "하루 2~3번, 편한 범위에서"
+          ]
+        },
+        {
+          "heading": "유모차 끌고 조깅하기",
+          "color": "yellow",
+          "lines": [
+            "<em>1분 조깅 + 1분 걷기 × 10</em>로 시작",
+            "손목 스트랩 걸고 손잡이는 가볍게"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "다리로 퍼지는 통증",
+        "팔·손 저림",
+        "2주 지나도 그대로"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "3월 셋째 주(3/15–3/20) 하비의 주간 정리예요.\n\n치과 종사자처럼 고개 숙여 일한다면 턱 당기기 5초씩 5번으로 목을 풀어볼 수 있어요. 낮은 소파에서는 엉덩이를 앞쪽 끝으로 옮기고 코가 발끝 위로 오게 숙여 일어나요. 삔 뒤 발 바깥쪽이 아프면 앉아서 발로 원 그리기를 하루 2~3번 해봐요. 유모차 조깅은 1분 조깅, 1분 걷기를 10번으로 시작하면 좋아요.\n\n자세한 만화는 이번 주 게시물에서 다시 볼 수 있어요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#목통증",
+    "#허리통증",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 코코가 이번 주 목·어깨 관리, 소파에서 일어나기, 침대 시트 갈기, 발목, 유모차 조깅 팁과 확인이 필요한 신호를 정리한 6장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "이번 주 핵심만 모았어요",
+    "body": "목·허리·발목·조깅 팁,<br>한 번에 다시 보기!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-03-21",
+  "created": "2027-03-21-1",
+  "status": "approved",
+  "review_warnings": []
+}
