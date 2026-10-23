@@ -1,0 +1,135 @@
+{
+  "id": "R-021-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-03-04–2027-03-13",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Mar 4–13</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "rabbit_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "All in<br>one place!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Walking & feet",
+      "sub": "Build up a little at a time",
+      "sections": [
+        {
+          "heading": "Front-of-shin ache when walking fast",
+          "color": "yellow",
+          "lines": [
+            "Seated toe raises: <em>15 reps</em>, twice a day.",
+            "Lower them slowly over <em>3 seconds</em>."
+          ]
+        },
+        {
+          "heading": "Switching to minimalist shoes",
+          "color": "yellow",
+          "lines": [
+            "Wear them for <em>walking and daily life</em> first.",
+            "Fine next day? Add a little more."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Home & desk",
+      "sections": [
+        {
+          "heading": "Hanging out the washing",
+          "color": "yellow",
+          "lines": [
+            "Basket on a chair at <em>waist height</em>.",
+            "Face the line, no twisting."
+          ]
+        },
+        {
+          "heading": "Two-monitor neck setup",
+          "color": "yellow",
+          "lines": [
+            "Main screen <em>straight ahead</em>, second to the side.",
+            "Change position <em>once an hour</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "On the job",
+      "sections": [
+        {
+          "heading": "Forearm stretch for baristas",
+          "color": "yellow",
+          "lines": [
+            "Palm away, ease fingers gently back.",
+            "<em>20 sec × 2</em> each side, each break."
+          ]
+        },
+        {
+          "heading": "Pilates for drivers and couriers",
+          "color": "yellow",
+          "lines": [
+            "Hips <em>right back</em> in the seat.",
+            "Each time you get out: <em>5 gentle back bends</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Arm or hand tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Mar 4–13 is here.\n\nFront of your shins aching when you walk faster? Seated toe raises, 15 reps twice a day, lowering over 3 seconds, can help. Hanging out the washing is often easier on your back with the basket on a chair at waist height and you facing the line. Working across two monitors? Keep the main screen straight ahead and change position once an hour. Baristas can try a gentle forearm stretch, 20 seconds × 2 each side, every break.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🐰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#shinpain",
+    "#backpain",
+    "#physio"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Toto covering this week's tips on shin aches, minimalist shoes, hanging out washing, two-monitor setups, barista forearms and drivers, plus signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Shins, washing, screens<br>and work tips, all recapped.",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-03-14",
+  "created": "2027-03-14-2",
+  "status": "approved",
+  "review_warnings": []
+}
