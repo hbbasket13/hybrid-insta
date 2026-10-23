@@ -1,0 +1,130 @@
+{
+  "id": "C-375-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Clicking or snapping shoulder blade",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why does Mr Turtle's<br>shoulder blade <em>click</em>?",
+      "sub": "A snapping shoulder blade story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every shoulder roll:<br><em>click, clunk</em>.",
+      "char": "turtle_sad",
+      "bubble": "Why does my<br>shoulder blade<br>keep clicking..?",
+      "bubble_type": "thought",
+      "note": "(it doesn't hurt, but it's hard to stop noticing..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Hearing some clicks?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. is something<br>broken in there?"
+      },
+      "note": "Hybi decided to explain <mark>where the click comes from</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Painless clicks are<br><em>often harmless</em>",
+      "fact": "Your shoulder blade <em>glides over the ribcage</em> as you move",
+      "left": {
+        "label": "No pain",
+        "char": "turtle_happy",
+        "caption": "Clicking on its own<br>is <b>usually not a worry</b>"
+      },
+      "right": {
+        "label": "With pain",
+        "char": "turtle_sad",
+        "caption": "Pain or swelling?<br><em>Worth an assessment</em>"
+      },
+      "quip": "Training the shoulder blade<br>can help it move smoothly!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shoulder blade set</b>",
+      "sub": "Try it right at your desk!",
+      "sections": [
+        {
+          "heading": "1. Shoulder blade set",
+          "color": "yellow",
+          "lines": [
+            "① Sit tall, let your shoulders relax.",
+            "② Draw blades <em>gently back and down</em>.",
+            "③ Hold <em>5 sec × 10 reps</em>, 2–3 times a day."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>builds</em> with the clicking, or your",
+            "arm feels <em>weak</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>bothering you</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Clicking with pain",
+        "Shoulder blade sticks out",
+        "Started after an injury"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle's shoulder blade clicks every time he rolls his shoulders. It doesn't hurt, but it's hard to stop noticing.\n\nYour shoulder blade glides over the ribcage as you move. Painless clicking is common and usually not a worry. Gentle shoulder blade control work can help it move more smoothly.\n\nHybi's 1-minute set: sit tall, draw your shoulder blades gently back and down, hold 5 seconds, 10 reps, 2–3 times a day. Stop if pain builds or your arm feels weak.\n\nClicking with pain, a shoulder blade that sticks out, or clicking that started after an injury is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#shoulderblade",
+    "#shoulderpain",
+    "#scapula",
+    "#deskjob",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#officeworker",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why a shoulder blade can click, when clicking is usually not a worry, a 1-minute shoulder blade set and signs worth getting checked.",
+  "story": {
+    "headline": "Clicking shoulder blade?",
+    "body": "Painless clicks are<br>often harmless.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-11",
+  "created": "2027-03-11-6",
+  "status": "approved",
+  "review_warnings": []
+}

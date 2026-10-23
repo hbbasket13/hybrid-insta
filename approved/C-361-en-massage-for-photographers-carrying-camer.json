@@ -1,0 +1,131 @@
+{
+  "id": "C-361-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for photographers carrying camera gear",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's shoulder knots up<br>after a <em>photo walk</em>",
+      "sub": "A massage story for photographers, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Camera bag on,<br>off to <em>photograph birds</em>.",
+      "char": "koala_tired",
+      "bubble": "Why does one shoulder<br>tighten up after<br>every shoot..?",
+      "bubble_type": "thought",
+      "note": "(three lenses and a tripod, all on one side..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shoulder feeling heavy?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. will a massage<br>sort it out?"
+      },
+      "note": "Hybi suggested looking at <mark>how the bag is carried</mark> too."
+    },
+    {
+      "kind": "compare",
+      "title": "One shoulder takes<br><em>all the weight</em>!",
+      "fact": "A one-shoulder bag keeps <em>one side</em> working all day",
+      "left": {
+        "label": "Both straps",
+        "char": "koala_happy",
+        "caption": "Weight shared<br>across <b>both shoulders</b>"
+      },
+      "right": {
+        "label": "One shoulder",
+        "char": "koala_tired",
+        "caption": "One side hitches up<br>and <em>stays tense</em>"
+      },
+      "quip": "Massage can help, and<br>movement matters too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>photo-day routine</b>",
+      "sub": "Try it on your next shoot!",
+      "sections": [
+        {
+          "heading": "1. Bag and shoulder routine",
+          "color": "yellow",
+          "lines": [
+            "① Use <em>both backpack straps</em>, snug to your back.",
+            "② Pack only the lenses you'll <em>actually use</em>.",
+            "③ Every hour, roll shoulders back <em>10 times</em>.",
+            "④ One-strap bag? <em>Swap sides</em> often."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Your arm <em>tingles</em> or pain gets <em>worse</em> —",
+            "stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Shoulder still <em>tight</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm or hand tingling",
+        "Pain that wakes you at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko loves photographing birds, but after every shoot one shoulder feels tight and knotted.\n\nA heavy bag on one shoulder keeps that side, and the neck, working all day. Remedial massage can help ease that tight feeling, and it works well alongside staying active and changing how you carry your gear.\n\nHybi's routine: use both backpack straps, pack only the lenses you need, and roll your shoulders back 10 times every hour.\n\nArm tingling, pain at night, or tightness lasting more than two weeks is worth an assessment. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio 📷\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#photography",
+    "#photographer",
+    "#shoulderpain",
+    "#neckpain",
+    "#chatswood",
+    "#chatswoodmassage",
+    "#sydneymassage",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#birdphotography"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why carrying camera gear can tighten the shoulder, a bag-carrying comparison, a photo-day routine and signs worth getting checked.",
+  "story": {
+    "headline": "Shoulder tight after a shoot?",
+    "body": "Both straps on, roll<br>shoulders every hour.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-06",
+  "created": "2027-03-06-4",
+  "status": "approved",
+  "review_warnings": []
+}

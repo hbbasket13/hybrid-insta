@@ -1,0 +1,131 @@
+{
+  "id": "C-357-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Hanging out the washing: easier on your back",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why washing day<br>leaves Koko's <em>back stiff</em>",
+      "sub": "An easier-on-your-back washing story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Out to the line<br><em>four times</em> a week.",
+      "char": "koala_tired",
+      "bubble": "Why does my lower<br>back get so stiff<br>after the washing..?",
+      "bubble_type": "thought",
+      "note": "(bend to the basket, reach to the line, again and again..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling stiff?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. but the washing<br>won't hang itself!"
+      },
+      "note": "Hybi suggested <mark>changing how it gets hung</mark>, not skipping it."
+    },
+    {
+      "kind": "compare",
+      "title": "Bend, lift, reach..<br>it <em>adds up</em>!",
+      "fact": "Floor to line and back can mean <em>dozens of bends</em> a load",
+      "left": {
+        "label": "Basket raised",
+        "char": "koala_happy",
+        "caption": "On a chair or trolley,<br><b>much less bending</b>"
+      },
+      "right": {
+        "label": "Basket on floor",
+        "char": "koala_tired",
+        "caption": "Down to the ground<br>every time, <em>back works</em>"
+      },
+      "quip": "Same washing,<br>easier set-up!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>easy washing-day plan</b>",
+      "sub": "Try it next time you hang a load!",
+      "sections": [
+        {
+          "heading": "1. Three simple changes",
+          "color": "yellow",
+          "lines": [
+            "① Basket on a chair or trolley at <em>waist height</em>.",
+            "② Stand <em>close</em> to the line, face it, no twisting.",
+            "③ Every few items, <em>stand tall</em> and stretch.",
+            "④ Big load? Hang it in <em>two trips</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em>, or your back",
+            "<em>locks up</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Numbness in your legs",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko hangs out the washing four times a week, and her lower back feels stiff afterwards.\n\nBending to a basket on the ground and reaching up to the line, over and over, can add up for your back. Raising the basket to waist height, standing close to the line and pausing to stand tall every few items can make the job easier.\n\nPain that spreads down a leg, numbness, or stiffness that lingers for more than two weeks is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🧺\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#lowbackpain",
+    "#backpain",
+    "#housework",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#sydney",
+    "#healthyageing",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why hanging out washing can leave the back stiff, basket height comparison, an easy washing-day plan and signs worth getting checked.",
+  "story": {
+    "headline": "Washing day leaves your back stiff?",
+    "body": "Basket at waist height,<br>stand close to the line.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-04",
+  "created": "2027-03-04-6",
+  "status": "approved",
+  "review_warnings": []
+}

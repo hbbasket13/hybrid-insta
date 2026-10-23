@@ -1,0 +1,130 @@
+{
+  "id": "C-375-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "어깨뼈에서 뚝뚝 소리가 날 때",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "거북씨 어깨뼈에서<br><em>뚝뚝 소리가?</em>",
+      "sub": "하비와 알아보는 견갑골 소리 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "어깨를 돌릴 때마다<br><em>뚝, 딸깍</em>.",
+      "char": "turtle_sad",
+      "bubble": "어깨에서 왜<br>자꾸 소리가<br>나지..?",
+      "bubble_type": "thought",
+      "note": "(아프진 않은데 괜히 신경 쓰인다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>어깨 소리가 신경 쓰여?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 어디가<br>고장 난 걸까요?"
+      },
+      "note": "하비는 먼저 <mark>소리가 나는 이유</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>통증 없는</em> 소리는<br>흔한 경우가 많아요",
+      "fact": "어깨뼈는 <em>갈비뼈 위를 미끄러지며</em> 움직여요",
+      "left": {
+        "label": "아프지 않음",
+        "char": "turtle_happy",
+        "caption": "소리만 난다면<br>대부분 <b>걱정 덜 해도</b> 돼요"
+      },
+      "right": {
+        "label": "통증 동반",
+        "char": "turtle_sad",
+        "caption": "아프거나 붓는다면<br><em>평가가 필요해요</em>"
+      },
+      "quip": "어깨뼈를 잘 쓰는<br>연습이 도움돼요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 어깨뼈 운동</b>",
+      "sub": "자리에서 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 어깨뼈 모으기 (Scap set)",
+          "color": "yellow",
+          "lines": [
+            "① 등을 펴고 어깨 힘을 빼요.",
+            "② 어깨뼈를 <em>뒤·아래로 살짝</em> 모아요.",
+            "③ <em>5초 유지 × 10회</em>, 하루 2~3번."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "소리와 함께 <em>통증이 커지거나</em>,",
+            "팔에 <em>힘이 빠진다면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "소리가 계속 <em>신경 쓰인다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "소리와 함께 통증이 있다",
+        "어깨뼈가 툭 튀어나온다",
+        "다친 뒤부터 소리가 난다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "어깨를 돌릴 때마다 뚝, 딸깍 소리가 나는 거북씨. 아프진 않은데 괜히 신경 쓰이죠.\n\n어깨뼈(견갑골)는 갈비뼈 위를 미끄러지며 움직여요. 통증 없이 소리만 나는 경우는 흔하고, 대부분 크게 걱정하지 않아도 돼요.\n\n하비의 1분 운동: 어깨 힘을 빼고 어깨뼈를 뒤·아래로 살짝 모아 5초 유지 × 10회, 하루 2~3번. 통증이 커지거나 팔에 힘이 빠지면 멈추고 상담받기!\n\n소리와 함께 아프거나, 어깨뼈가 튀어나오거나, 다친 뒤부터 소리가 난다면 평가가 먼저예요. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#어깨통증",
+    "#견갑골",
+    "#어깨소리",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#shoulderblade"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 어깨뼈에서 소리가 나는 이유, 통증 유무 비교, 1분 어깨뼈 모으기 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "어깨뼈에서 뚝뚝 소리가?",
+    "body": "통증 없는 소리는<br>흔한 경우가 많아요.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-11",
+  "created": "2027-03-11-3",
+  "status": "approved",
+  "review_warnings": []
+}

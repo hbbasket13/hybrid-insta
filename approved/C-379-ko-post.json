@@ -1,0 +1,131 @@
+{
+  "id": "C-379-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "배구하는 사람을 위한 마사지",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "배구하는 토토,<br><em>종아리가 묵직한</em> 이유",
+      "sub": "하비와 알아보는 배구 회복 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "점프, 착지, 스파이크<br>주말마다 <em>배구 3경기</em>!",
+      "char": "rabbit_tired",
+      "bubble": "왜 종아리랑 어깨가<br>이렇게 묵직하지..?",
+      "bubble_type": "thought",
+      "note": "(월요일 아침엔 계단도 힘들다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>배구 많이 했구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네! 마사지 받으면<br>좀 나아질까요?"
+      },
+      "note": "하비는 먼저 <mark>마사지의 역할</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는 <em>회복을 돕는</em><br>좋은 파트너예요",
+      "fact": "마사지는 <em>운동을 보완</em>하는 거예요, 대신하지 않아요",
+      "left": {
+        "label": "마사지 + 운동",
+        "char": "rabbit_happy",
+        "caption": "마사지로 풀고<br><b>근력 운동도</b> 함께해요"
+      },
+      "right": {
+        "label": "마사지만",
+        "char": "rabbit_tired",
+        "caption": "근력·착지 연습 없이는<br><em>부담이 반복될 수</em> 있어요"
+      },
+      "quip": "마사지는 회복을<br>돕는 조력자예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>경기 후 5분 루틴</b>",
+      "sub": "경기 끝나고 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 경기 후 쿨다운",
+          "color": "yellow",
+          "lines": [
+            "① <em>5분</em> 가볍게 걸으며 숨 고르기.",
+            "② 종아리 스트레칭 <em>30초 × 2번</em>, 양쪽.",
+            "③ 어깨 크게 돌리기 <em>앞뒤 10회</em>씩.",
+            "④ 물을 충분히 마시고 푹 쉬어요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>날카롭거나 붓는다면</em>,",
+            "마사지 말고 먼저 <em>평가</em>받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "발목 접질린 뒤 붓는다",
+        "점프 때 무릎 앞이 아프다",
+        "스파이크 때 어깨가 아프다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "주말마다 배구 3경기를 뛰는 토토. 점프, 착지, 스파이크가 반복되니 종아리와 어깨가 묵직해요.\n\n리메디얼 마사지는 뭉친 느낌을 풀고 회복을 돕는 데 도움이 될 수 있어요. 다만 운동을 대신하지는 않아요. 근력과 착지 연습을 함께할 때 더 좋아요.\n\n하비의 경기 후 루틴: 5분 가볍게 걷기, 종아리 스트레칭 30초 × 2번, 어깨 크게 돌리기 10회. 통증이 날카롭거나 붓는다면 먼저 평가받기!\n\n하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약 🏐\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#배구",
+    "#스포츠마사지",
+    "#리메디얼마사지",
+    "#운동회복",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#volleyball",
+    "#sportsrecovery",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 배구 후 종아리와 어깨가 묵직한 이유, 마사지와 운동의 역할 비교, 경기 후 5분 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "배구 후 몸이 묵직하다면?",
+    "body": "경기 후 5분 쿨다운<br>잊지 마세요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-13",
+  "created": "2027-03-13-1",
+  "status": "approved",
+  "review_warnings": []
+}

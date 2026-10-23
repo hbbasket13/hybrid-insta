@@ -1,0 +1,131 @@
+{
+  "id": "C-370-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for CrossFit and functional fitness",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "CrossFit every day.<br><em>When's the massage?</em>",
+      "sub": "Massage and functional fitness, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Work all day,<br><em>CrossFit</em> every evening.",
+      "char": "kanga_tired",
+      "bubble": "Everything's tight..<br>can a massage<br>sort it all out..?",
+      "bubble_type": "thought",
+      "note": "(stairs the next morning feel heavy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling a bit tight?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. if I get a<br>massage, can I keep going?"
+      },
+      "note": "Hybi shared <mark>how to make massage work for you</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage <em>complements</em><br>your training!",
+      "fact": "Massage <em>adds to</em> training and rehab — it doesn't replace them",
+      "left": {
+        "label": "Train + massage",
+        "char": "kanga_happy",
+        "caption": "A helpful <b>add-on</b><br>for recovery"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "kanga_tired",
+        "caption": "Without load changes,<br>it can <em>tighten up again</em>"
+      },
+      "quip": "Manage the load first,<br>then add massage!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>massage timing tips</b>",
+      "sub": "Check these before you book!",
+      "sections": [
+        {
+          "heading": "1. Making massage work for you",
+          "color": "yellow",
+          "lines": [
+            "① Tell your therapist <em>what you've been training</em>.",
+            "② Go <em>lighter</em> right before a big comp.",
+            "③ Book deeper work on <em>rest days</em>.",
+            "④ Next day, keep moving gently."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "You feel a <em>sudden sharp pain or pop</em>,",
+            "or tingling or swelling — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sudden sharp pain in a lift",
+        "Tingling in an arm or leg",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu works all day and does CrossFit every evening. Everything feels tight, and he wonders if a massage can sort it all out.\n\nRemedial massage can help muscles feel easier and support recovery, but it works alongside training load and rehab rather than replacing them.\n\nHybi's tips: tell your therapist what you've been training, keep it lighter right before a big comp, and book deeper work on rest days. The next day, keep moving gently.\n\nA sudden sharp pain during a lift, tingling, or pain that isn't easing after two weeks is worth an assessment first. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio 🏋️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#crossfit",
+    "#functionalfitness",
+    "#sportsmassage",
+    "#recovery",
+    "#sydneymassage",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#massagetherapy",
+    "#gymlife"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining how remedial massage complements CrossFit training, timing tips and signs worth getting checked.",
+  "story": {
+    "headline": "CrossFit and massage timing?",
+    "body": "Deeper work on rest days,<br>lighter before a comp.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-10",
+  "created": "2027-03-10-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-372-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for drivers and couriers",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Behind the wheel all day:<br><em>Mr Turtle's back</em>",
+      "sub": "Pilates for drivers and couriers, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A new <em>courier job</em>,<br>driving all day long.",
+      "char": "turtle_sad",
+      "bubble": "Sit, sit, sit..<br>then lift a box,<br>and my back aches..",
+      "bubble_type": "thought",
+      "note": "(stepping out of the van, everything feels stiff..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling stiff?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. could Pilates<br>actually help?"
+      },
+      "note": "Hybi decided to introduce <mark>clinical Pilates</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Sitting for hours, then<br><em>straight into a lift</em>!",
+      "fact": "Straight after a long sit, the body can feel <em>less warmed up</em>",
+      "left": {
+        "label": "Move often",
+        "char": "turtle_happy",
+        "caption": "Each stop is a chance<br>to <b>wake things up</b>"
+      },
+      "right": {
+        "label": "Hours, no break",
+        "char": "turtle_sad",
+        "caption": "Lifting while stiff<br>can <em>feel harder</em>"
+      },
+      "quip": "Pilates builds strength<br>for sitting and lifting!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute driver routine</b>",
+      "sub": "Try it at every stop!",
+      "sections": [
+        {
+          "heading": "1. Sit, step out, lift",
+          "color": "yellow",
+          "lines": [
+            "① Sit with your hips <em>right back in the seat</em>.",
+            "② Each time you get out: <em>5 gentle back bends</em>.",
+            "③ Hold boxes <em>close to your body</em>.",
+            "④ At home: bridges, <em>10 × 2 sets</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Tingling <em>travels down the leg</em>, or",
+            "pain keeps building — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling down a leg",
+        "A leg feels weak",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle started a courier job and now drives all day. Stepping out of the van to lift a box, his lower back feels stiff.\n\nStraight after a long sit, the body can feel less warmed up. Clinical Pilates builds hip and trunk strength and control, which can help with the sit-then-lift rhythm of driving work.\n\nHybi's routine: sit with your hips right back in the seat, do 5 gentle back bends each time you get out, hold boxes close, and do bridges at home (10 × 2 sets).\n\nTingling down a leg, a weak leg or pain that isn't easing after two weeks are worth an assessment first. Clinical Pilates at Hybrid Physio can help. Book online via the link in bio 🚚\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#lowbackpain",
+    "#courier",
+    "#driving",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#backhealth",
+    "#workhealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on clinical Pilates for drivers and couriers, moving often between drives, a 1-minute driver routine and signs worth getting checked.",
+  "story": {
+    "headline": "Driving all day, stiff back?",
+    "body": "5 back bends at each stop,<br>boxes close to the body.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-10",
+  "created": "2027-03-10-6",
+  "status": "approved",
+  "review_warnings": []
+}

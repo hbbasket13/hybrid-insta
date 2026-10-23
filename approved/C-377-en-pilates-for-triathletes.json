@@ -1,0 +1,130 @@
+{
+  "id": "C-377-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for triathletes",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto the triathlete<br>added <em>Pilates</em>",
+      "sub": "A triathlon Pilates story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Swim, bike, run —<br><em>no rest days</em> for Toto.",
+      "char": "rabbit_tired",
+      "bubble": "Why does one hip<br>keep feeling tight..?",
+      "bubble_type": "thought",
+      "note": "(after long rides, his lower back feels heavy too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Training hard, huh?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep! Could Pilates<br>help me at all?"
+      },
+      "note": "Hybi decided to explain <mark>what Pilates adds</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "All three sports<br>rely on <em>your trunk</em>",
+      "fact": "Swim, bike and run all involve <em>lots of repetition</em>",
+      "left": {
+        "label": "Adding Pilates",
+        "char": "rabbit_happy",
+        "caption": "Trains trunk and hip<br><b>control all round</b>"
+      },
+      "right": {
+        "label": "Training only",
+        "char": "rabbit_tired",
+        "caption": "Same moves on repeat can<br><em>load weak spots</em>"
+      },
+      "quip": "Pilates complements<br>your training!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute hip stability</b>",
+      "sub": "Try it on a recovery day!",
+      "sections": [
+        {
+          "heading": "1. Single-leg bridge",
+          "color": "yellow",
+          "lines": [
+            "① Lie down, knees bent, straighten one leg.",
+            "② Lift your hips, <em>keeping the pelvis level</em>.",
+            "③ <em>10 each side × 2 sets</em>, 2–3 times a week."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Back or hip pain gets <em>worse</em>, or your",
+            "leg <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em> in training?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Same spot hurts repeatedly",
+        "Pain changes your technique",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Swim, bike, run, repeat. Toto trains almost every day, and lately one hip and his lower back keep feeling tight.\n\nAll three sports involve a lot of repetition, so trunk and hip control matter. Pilates trains that control all round and can complement your training, not replace it.\n\nHybi's 1-minute move: single-leg bridge, keeping the pelvis level, 10 each side × 2 sets, 2–3 times a week. Stop if pain gets worse or your leg tingles.\n\nThe same spot hurting again and again, or pain that changes your technique, is worth an assessment. Clinical Pilates at Hybrid Physio can help you build a plan. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#triathlon",
+    "#triathlete",
+    "#swimbikerun",
+    "#endurancesport",
+    "#sydneypilates",
+    "#chatswoodpilates",
+    "#chatswood",
+    "#sydneytriathlon",
+    "#hybridphysiotherapy",
+    "#corestrength"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining how Pilates can complement triathlon training, why trunk control matters, a 1-minute single-leg bridge and signs worth getting checked.",
+  "story": {
+    "headline": "Triathlete? Try Pilates",
+    "body": "Single-leg bridge:<br>10 each side × 2.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-12",
+  "created": "2027-03-12-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,132 @@
+{
+  "id": "C-363-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for baseball and softball players",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "공 던진 다음 날<br><em>루루 어깨가 무거워요</em>",
+      "sub": "야구·소프트볼을 위한 필라테스",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말마다 <em>소프트볼</em>,<br>공을 던지는 루루.",
+      "char": "kanga_tired",
+      "bubble": "왜 경기 다음 날<br>어깨가 이렇게<br>무겁지..?",
+      "bubble_type": "thought",
+      "note": "(팔로만 세게 던지는 날이 많아..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 어깨가<br>무거우세요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 어깨만<br>키우면 될까요?"
+      },
+      "note": "하비는 <mark>던지는 힘이 어디서 오는지</mark> 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "던지기는<br><em>온몸으로 해요!</em>",
+      "fact": "좋은 송구는 팔보다 <em>다리와 몸통</em>에서 시작돼요",
+      "left": {
+        "label": "온몸 송구",
+        "char": "kanga_happy",
+        "caption": "다리·몸통이 도우면<br>어깨가 <b>나눠 일해요</b>"
+      },
+      "right": {
+        "label": "팔로만",
+        "char": "kanga_tired",
+        "caption": "팔 혼자 던지면<br>어깨가 <em>빨리 지쳐요</em>"
+      },
+      "quip": "몸통 힘이 있으면<br>어깨가 편해져요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 몸통 운동</b>",
+      "sub": "경기 없는 날 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 무릎 사이드 플랭크",
+          "color": "yellow",
+          "lines": [
+            "① 옆으로 누워 무릎 굽히고 팔꿈치는 어깨 밑.",
+            "② 엉덩이를 들어 몸을 <em>일직선</em>으로!",
+            "③ <em>15~20초 유지</em>, 좌우 3번씩.",
+            "④ 경기 없는 날, <em>하루 1번</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "던질 때 어깨가 <em>아프거나</em> 팔이 <em>저리면</em>",
+            "멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "어깨가 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "던질 때 어깨가 아프다",
+        "팔에 힘이 빠진다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "주말마다 소프트볼을 하는 루루. 경기 다음 날이면 어깨가 무거워요.\n\n좋은 송구는 팔보다 다리와 몸통에서 시작돼요. 팔로만 세게 던지면 어깨가 더 많이 일하기 쉬워요. 클리닉 필라테스는 몸통 힘과 조절력을 기르는 데 도움이 될 수 있어요.\n\n하비의 1분 운동: 무릎 사이드 플랭크, 15~20초 유지, 좌우 3번씩.\n\n던질 때 통증, 팔 힘 빠짐, 2주 넘는 불편함은 평가가 먼저예요. 하이브리드 피지오에서 함께해요. 프로필 링크에서 온라인 예약 ⚾\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#야구",
+    "#소프트볼",
+    "#어깨통증",
+    "#필라테스",
+    "#클리닉필라테스",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#pilates",
+    "#clinicalpilates",
+    "#softball",
+    "#baseball",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 공 던진 다음 날 어깨가 무거운 이유, 온몸 송구 비교, 1분 사이드 플랭크, 확인이 필요한 신호.",
+  "story": {
+    "headline": "경기 후 어깨가 무겁다면?",
+    "body": "사이드 플랭크 15~20초,<br>좌우 3번씩!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-06",
+  "created": "2027-03-06-3",
+  "status": "approved",
+  "review_warnings": []
+}

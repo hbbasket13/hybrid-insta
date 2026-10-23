@@ -1,0 +1,131 @@
+{
+  "id": "C-380-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for baristas",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo the barista's<br><em>wrists feel sore</em>",
+      "sub": "A barista story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day at the machine,<br><em>tamp</em> after tamp.",
+      "char": "cat_tired",
+      "bubble": "Why are my wrists<br>and forearms<br>so tight..?",
+      "bubble_type": "thought",
+      "note": "(by close, her shoulders feel heavy too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Wrists bothering you?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. will a massage<br>sort it out?"
+      },
+      "note": "Hybi decided to explain <mark>why the forearms tire</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Wrist angle</em> matters<br>more than you think",
+      "fact": "Tamping is the <em>same movement, over and over</em>",
+      "left": {
+        "label": "Straight wrist",
+        "char": "cat_happy",
+        "caption": "Elbow near your side,<br>wrist <b>in line</b>"
+      },
+      "right": {
+        "label": "Bent wrist",
+        "char": "cat_tired",
+        "caption": "Pressing at an angle makes<br><em>forearms work harder</em>"
+      },
+      "quip": "Massage helps — so does<br>how you tamp!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute forearm stretch</b>",
+      "sub": "Try it between orders!",
+      "sections": [
+        {
+          "heading": "1. Forearm stretch",
+          "color": "yellow",
+          "lines": [
+            "① Arm out in front, palm facing away.",
+            "② Other hand eases fingers <em>gently back</em>.",
+            "③ Hold <em>20 sec × 2</em>, each side, each break.",
+            "④ Standing long? <em>Shift your weight</em> side to side."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Fingers go <em>numb or tingly</em>, or pain",
+            "gets <em>worse</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hands tingle at night",
+        "Dropping cups more often",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo spends all day at the coffee machine, tamping shot after shot. By close, her wrists and forearms feel tight and her shoulders feel heavy.\n\nTamping is the same movement over and over, and pressing with a bent wrist makes the forearm muscles work harder. Remedial massage can help tight muscles feel easier, and it works well alongside stretching and good technique.\n\nHybi's 1-minute stretch: arm out, palm away, ease the fingers gently back, 20 seconds × 2 each side, each break. Stop if your fingers tingle.\n\nHands tingling at night or dropping cups is worth an assessment. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio ☕\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#barista",
+    "#baristalife",
+    "#wristpain",
+    "#forearmpain",
+    "#hospitality",
+    "#sydneycoffee",
+    "#sydneymassage",
+    "#sydneycbdmassage",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#massagetherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why a barista's wrists and forearms can tire, how wrist angle matters, a 1-minute forearm stretch and signs worth getting checked.",
+  "story": {
+    "headline": "Barista with sore wrists?",
+    "body": "Forearm stretch:<br>20 sec × 2, each break.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-13",
+  "created": "2027-03-13-2",
+  "status": "approved",
+  "review_warnings": []
+}

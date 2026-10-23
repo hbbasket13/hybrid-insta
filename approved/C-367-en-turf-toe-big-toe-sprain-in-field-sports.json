@@ -1,0 +1,131 @@
+{
+  "id": "C-367-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Turf toe: big toe sprain in field sports",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's <em>big toe</em> hurts<br>after weekend footy",
+      "sub": "A turf toe story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekend footy on<br><em>synthetic turf</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why does my big toe<br>twinge every time<br>I push off..?",
+      "bubble_type": "thought",
+      "note": "(going up on the toes makes it throb..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Toe giving you trouble?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. can I just<br>tape it and play?"
+      },
+      "note": "Hybi started by explaining <mark>the big toe joint</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The big toe may have<br><em>bent back too far</em>!",
+      "fact": "Turf toe: a sprain when the big toe <em>bends back hard</em>",
+      "left": {
+        "label": "Stiff sole",
+        "char": "kanga_happy",
+        "caption": "Less bend, so the joint<br>gets <b>a chance to settle</b>"
+      },
+      "right": {
+        "label": "Soft, bendy shoe",
+        "char": "kanga_tired",
+        "caption": "Every step bends<br>the toe <em>again</em>"
+      },
+      "quip": "Protect the bend<br>to help it settle!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>big toe game plan</b>",
+      "sub": "For the first week or two",
+      "sections": [
+        {
+          "heading": "1. Less bend, gradual return",
+          "color": "yellow",
+          "lines": [
+            "① Wear shoes with a <em>stiffer sole</em>.",
+            "② If swollen: elevate and ice <em>10–15 min</em>.",
+            "③ Tape to <em>limit how far it bends</em>.",
+            "④ Toe raises and hops <em>only when comfy</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "You <em>can't put weight</em> on it, it swells a lot,",
+            "or the toe looks odd — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A pop when it happened",
+        "Lots of bruising or swelling",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu plays weekend footy on synthetic turf, and now the big toe twinges every time he pushes off.\n\nWhen the big toe bends back hard, the joint can sprain. This is often called turf toe. Firm surfaces and soft, bendy shoes can make it more likely.\n\nHybi's plan for the first week or two: stiffer-soled shoes, elevate and ice for 10–15 minutes if it's swollen, tape to limit the bend, and bring back toe raises and hops only when they feel comfortable.\n\nA pop at the time, lots of bruising or swelling, or no improvement after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio ⚽\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#turftoe",
+    "#sportsinjury",
+    "#footinjury",
+    "#footy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining turf toe, why shoe stiffness matters, a first-fortnight plan and signs worth getting checked.",
+  "story": {
+    "headline": "Big toe sore after footy?",
+    "body": "Stiff sole and tape<br>to limit the bend.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-09",
+  "created": "2027-03-09-4",
+  "status": "approved",
+  "review_warnings": []
+}

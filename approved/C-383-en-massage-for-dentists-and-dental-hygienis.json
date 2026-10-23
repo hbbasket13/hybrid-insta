@@ -1,0 +1,131 @@
+{
+  "id": "C-383-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for dentists and dental hygienists",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle the hygienist's<br>neck <em>feels heavy</em>",
+      "sub": "A dental work story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Head down all day,<br><em>looking into mouths</em>.",
+      "char": "turtle_sad",
+      "bubble": "Why does my neck<br>get so stiff<br>every afternoon..?",
+      "bubble_type": "thought",
+      "note": "(by home time, even his fingers feel stiff..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Neck bothering you?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. will a massage<br>sort it out?"
+      },
+      "note": "Hybi decided to explain <mark>why still postures tire you</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Holding <em>still</em> is<br>the tiring part",
+      "fact": "Dental work often means <em>long periods looking down</em>",
+      "left": {
+        "label": "Move often",
+        "char": "turtle_happy",
+        "caption": "Loosen neck and shoulders<br><b>between patients</b>"
+      },
+      "right": {
+        "label": "No breaks",
+        "char": "turtle_sad",
+        "caption": "Hours without a break<br>can <em>leave you stiff</em>"
+      },
+      "quip": "Massage helps — so do<br>short breaks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute between-patients reset</b>",
+      "sub": "Try it before the next patient!",
+      "sections": [
+        {
+          "heading": "1. Neck, shoulders, hands",
+          "color": "yellow",
+          "lines": [
+            "① Set the chair height so you can <em>sit tall</em>.",
+            "② Chin tuck: <em>5 sec × 5 reps</em>.",
+            "③ Big shoulder rolls backwards: <em>10 reps</em>.",
+            "④ Make a fist and open wide: <em>10 reps</em>, both hands."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Your arm or hand <em>tingles or feels weak</em>",
+            "— stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Headaches come with it",
+        "Arm or hand tingling",
+        "Weaker grip"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle is a dental hygienist. All day he looks down into patients' mouths, and by the afternoon his neck and shoulders feel heavy and his fingers stiff.\n\nDental work often means long periods holding a head-down posture, so the neck and shoulder muscles get few breaks. Remedial massage can help tight muscles feel easier, and it works well alongside short breaks and exercise.\n\nHybi's 1-minute reset: chin tuck 5 seconds × 5, big shoulder rolls × 10, and fist-to-open-hand × 10.\n\nArm or hand tingling, a weaker grip, or headaches alongside it are worth an assessment. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#dentist",
+    "#dentalhygienist",
+    "#dentallife",
+    "#neckpain",
+    "#shoulderpain",
+    "#ergonomics",
+    "#sydneymassage",
+    "#sydneycbdmassage",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#massagetherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why dental work can leave the neck and shoulders heavy, why short breaks matter, a 1-minute between-patients reset and signs worth getting checked.",
+  "story": {
+    "headline": "Dental work, heavy neck?",
+    "body": "A 1-minute reset<br>between patients.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-15",
+  "created": "2027-03-15-2",
+  "status": "approved",
+  "review_warnings": []
+}

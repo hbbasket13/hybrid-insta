@@ -1,0 +1,131 @@
+{
+  "id": "C-369-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Training for a multi-day walking trip",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "A multi-day walk ahead.<br>Is Koko <em>ready</em>?",
+      "sub": "Training for a walking trip, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we get<br>you ready?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A <em>multi-day walk</em> booked<br>for a few months away.",
+      "char": "koala_tired",
+      "bubble": "One day is fine..<br>but day after day<br>after day..?",
+      "bubble_type": "thought",
+      "note": "(even a 30-minute stroll feels like plenty..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Got a trip coming up?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. should I start<br>doing big walks now?"
+      },
+      "note": "Hybi decided to show Koko how to <mark>build up gradually</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Walking fitness<br>builds <em>step by step</em>!",
+      "fact": "Walking fitness usually builds <em>over weeks</em>, not days",
+      "left": {
+        "label": "Build gradually",
+        "char": "koala_happy",
+        "caption": "The body has <b>time</b><br><b>to adapt</b>"
+      },
+      "right": {
+        "label": "All at once",
+        "char": "koala_tired",
+        "caption": "Sudden jumps can<br>leave you <em>worn out</em>"
+      },
+      "quip": "Add one thing<br>each week!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>walking trip prep</b>",
+      "sub": "Start a few months out!",
+      "sections": [
+        {
+          "heading": "1. How to build it up",
+          "color": "yellow",
+          "lines": [
+            "① Add <em>one thing</em> a week: distance, hills or pack.",
+            "② Walk <em>two days in a row</em> on weekends.",
+            "③ Step-ups and calf raises, <em>10 × 2 sets</em>.",
+            "④ <em>Break in</em> new shoes well before you go."
+          ]
+        },
+        {
+          "heading": "2. Stop and check first if…",
+          "color": "purple",
+          "lines": [
+            "You get <em>chest pain or unusual breathlessness</em>",
+            "— stop and see your <b>GP</b> first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth a check before you go",
+      "items": [
+        "Knees ache more as you walk",
+        "You've had a recent fall",
+        "Balance often feels wobbly"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko has a multi-day walk booked for a few months away. One day of walking feels fine, but day after day is a different story.\n\nWalking fitness usually builds over weeks, not days. Big jumps in distance can leave you worn out and sore.\n\nHybi's prep: add one thing each week (distance, hills or pack weight), walk two days in a row on weekends, do step-ups and calf raises (10 × 2 sets), and break in new shoes well before you go.\n\nIf your knees ache more the further you walk, you've had a recent fall or your balance feels wobbly, it's worth a check before you leave. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🥾\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#walking",
+    "#hiking",
+    "#trekking",
+    "#healthyageing",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala on preparing for a multi-day walking trip, building up gradually, a simple prep plan and when to get checked before you go.",
+  "story": {
+    "headline": "Multi-day walk coming up?",
+    "body": "Add one thing a week<br>and walk back-to-back days.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-09",
+  "created": "2027-03-09-6",
+  "status": "approved",
+  "review_warnings": []
+}

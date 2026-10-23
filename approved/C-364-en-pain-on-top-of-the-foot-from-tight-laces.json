@@ -1,0 +1,131 @@
+{
+  "id": "C-364-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain on top of the foot from tight laces",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why the top of Toto's foot<br>aches <em>after a run</em>",
+      "sub": "A shoelace story for runners, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "He ties his laces<br><em>extra tight</em> before runs.",
+      "char": "rabbit_tired",
+      "bubble": "Why does the top<br>of my foot throb<br>after a run..?",
+      "bubble_type": "thought",
+      "note": "(the lace marks are still there afterwards..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Foot bothering you?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. do I need<br>new shoes?"
+      },
+      "note": "Hybi suggested checking <mark>how the laces are tied</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "The top of the foot is<br><em>thin and sensitive</em>!",
+      "fact": "Tendons and nerves sit <em>just under the skin</em> up top",
+      "left": {
+        "label": "Skip-lacing",
+        "char": "rabbit_happy",
+        "caption": "Skip the eyelets over<br>the sore spot, <b>less press</b>"
+      },
+      "right": {
+        "label": "Extra tight",
+        "char": "rabbit_tired",
+        "caption": "Laces keep pressing<br>on the <em>top of the foot</em>"
+      },
+      "quip": "Before new shoes,<br>try new lacing!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute lacing reset</b>",
+      "sub": "Try it before your next run!",
+      "sections": [
+        {
+          "heading": "1. Foot-friendly lacing",
+          "color": "yellow",
+          "lines": [
+            "① Unlace and re-tie with <em>even</em>, snug tension.",
+            "② <em>Skip the eyelets</em> over the sore spot.",
+            "③ Use the <em>top loop</em> (heel lock) for heel hold.",
+            "④ Smooth the tongue so it <em>lies flat</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "One spot on the bone is <em>sore to touch</em>, or",
+            "there's <em>swelling</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Foot still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "One sore spot on the bone",
+        "Swelling on top of the foot",
+        "Numbness that lingers"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto ties his laces extra tight before every run, and afterwards the top of his foot throbs.\n\nTendons and nerves sit just under the skin on top of the foot, so laces pulled too tight can keep pressing on them. Re-tying with even tension, skipping the eyelets over the sore spot and using the top loop to hold the heel can often help.\n\nA sore spot on the bone, swelling, or numbness that lingers is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 👟\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#running",
+    "#runner",
+    "#footpain",
+    "#runningshoes",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why the top of the foot can ache after a run, a lacing comparison, a 1-minute lacing reset and signs worth getting checked.",
+  "story": {
+    "headline": "Top of your foot sore after runs?",
+    "body": "Skip the eyelets<br>over the sore spot.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-08",
+  "created": "2027-03-08-4",
+  "status": "approved",
+  "review_warnings": []
+}

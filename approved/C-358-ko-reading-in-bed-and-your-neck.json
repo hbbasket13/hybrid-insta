@@ -1,0 +1,131 @@
+{
+  "id": "C-358-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Reading in bed and your neck",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "침대에서 책 읽으면<br><em>모모 목이 뻐근해요</em>",
+      "sub": "하비와 알아보는 침대 독서 자세",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "자기 전 <em>한 시간</em>,<br>침대에서 책 읽는 모모.",
+      "char": "cat_tired",
+      "bubble": "왜 아침마다<br>목이 이렇게<br>뻣뻣하지..?",
+      "bubble_type": "thought",
+      "note": "(베개에 기대 턱이 가슴에 닿을 듯..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 목이<br>불편하세요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 독서를<br>끊어야 할까요?"
+      },
+      "note": "하비는 <mark>책 높이</mark>만 바꿔보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "책이 낮으면<br><em>고개도 내려가요!</em>",
+      "fact": "누워서 책을 보면 목이 <em>오래 숙인 자세</em>가 되기 쉬워요",
+      "left": {
+        "label": "책을 높게",
+        "char": "cat_happy",
+        "caption": "베개 위에 책을 두면<br>목이 <b>덜 숙여져요</b>"
+      },
+      "right": {
+        "label": "턱이 가슴에",
+        "char": "cat_tired",
+        "caption": "고개를 숙인 채로<br>목이 <em>오래 버텨요</em>"
+      },
+      "quip": "독서는 계속,<br>책 높이만 바꿔요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>침대 독서 자세</b>",
+      "sub": "오늘 밤부터 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 침대 독서 3단계",
+          "color": "yellow",
+          "lines": [
+            "① 등 뒤 <em>허리까지</em> 베개로 받쳐 앉아요.",
+            "② 무릎 위 베개에 책을 올려 <em>눈높이 가까이</em>!",
+            "③ <em>20분마다</em> 턱 당기기 5회.",
+            "④ 졸리면 책을 내려놓고 바로 누워요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "두통이 오거나 팔·손이 <em>저리면</em>",
+            "멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "목이 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "두통이 같이 온다",
+        "팔이나 손이 저리다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "자기 전 한 시간씩 침대에서 책을 읽는 모모. 그런데 아침마다 목이 뻣뻣해요.\n\n베개에 기대 누워 책을 보면 고개가 오래 숙여진 자세가 되기 쉬워요. 허리까지 베개로 받치고, 책을 무릎 위 베개에 올려 눈높이에 가깝게 하면 목 부담을 덜 수 있어요. 20분마다 턱 당기기 5회도 좋아요.\n\n두통이나 팔 저림이 있다면 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 📚\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#목통증",
+    "#독서",
+    "#수면자세",
+    "#카이로프랙틱",
+    "#시드니카이로프랙틱",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#chiropractic",
+    "#neckpain",
+    "#chatswood",
+    "#sydneychiro"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 침대에서 책 읽을 때 목이 뻐근한 이유, 책 높이 비교, 침대 독서 자세 3단계, 확인이 필요한 신호.",
+  "story": {
+    "headline": "침대 독서 후 목이 뻣뻣?",
+    "body": "책은 베개 위에,<br>눈높이 가까이!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-05",
+  "created": "2027-03-05-1",
+  "status": "approved",
+  "review_warnings": []
+}

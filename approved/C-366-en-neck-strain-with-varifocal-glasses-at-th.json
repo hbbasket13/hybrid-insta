@@ -1,0 +1,131 @@
+{
+  "id": "C-366-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Neck strain with varifocal glasses at the screen",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "New varifocals,<br>and a <em>stiff neck</em>?",
+      "sub": "A glasses-and-neck story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "New <em>varifocal glasses</em>,<br>same old screen.",
+      "char": "turtle_monitor",
+      "bubble": "Why does my chin<br>keep tilting up<br>to read this..?",
+      "bubble_type": "thought",
+      "note": "(by mid-afternoon, the back of the neck aches..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Neck bothering you?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. is it the<br>glasses or my neck?"
+      },
+      "note": "Hybi decided to check <mark>the viewing angle</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "You end up looking<br>through the <em>bottom</em>!",
+      "fact": "In varifocals, the <em>lower part</em> is usually for close-up",
+      "left": {
+        "label": "Lower screen",
+        "char": "turtle_happy",
+        "caption": "Eyes drop a little,<br>neck <b>tips back less</b>"
+      },
+      "right": {
+        "label": "Chin up",
+        "char": "turtle_sad",
+        "caption": "Tilting the chin up<br>keeps the neck <em>working</em>"
+      },
+      "quip": "Move the screen,<br>not your neck!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute screen set-up</b>",
+      "sub": "Try it right at your desk!",
+      "sections": [
+        {
+          "heading": "1. Set the screen to suit your lenses",
+          "color": "yellow",
+          "lines": [
+            "① Lower the monitor <em>a little</em>.",
+            "② Sit about <em>an arm's length</em> from the screen.",
+            "③ Every 30 min: chin tucks, <em>5 sec × 5</em>.",
+            "④ Ask your <b>optometrist</b> about computer glasses."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Headaches or <em>dizziness</em> come with it,",
+            "or your arm <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Frequent headaches",
+        "Arm or hand tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle got new varifocals, and now his chin keeps tilting up to read the screen.\n\nIn varifocals the lower part of the lens is usually for close-up, so a high monitor can mean looking up through the bottom of the lens. Hold that for hours and the back of the neck often feels stiff.\n\nHybi's set-up: lower the monitor a little, sit about an arm's length away, and do chin tucks (5 seconds × 5) every 30 minutes. Your optometrist can advise on dedicated computer glasses.\n\nFrequent headaches, arm tingling or no change after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 👓\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#neckpain",
+    "#techneck",
+    "#varifocals",
+    "#deskjob",
+    "#ergonomics",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why varifocal glasses can strain the neck at a screen, monitor height, a 1-minute set-up and signs worth getting checked.",
+  "story": {
+    "headline": "Varifocals giving you a stiff neck?",
+    "body": "Lower the screen a little,<br>chin tucks 5 sec × 5.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-08",
+  "created": "2027-03-08-6",
+  "status": "approved",
+  "review_warnings": []
+}

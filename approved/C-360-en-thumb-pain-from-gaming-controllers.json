@@ -1,0 +1,131 @@
+{
+  "id": "C-360-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Thumb pain from gaming controllers",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's thumb aches<br>after <em>gaming</em>",
+      "sub": "A gamer's thumb story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekends mean<br><em>hours</em> of gaming.",
+      "char": "cat_tired",
+      "bubble": "Why does the thumb<br>side of my wrist ache<br>after a session..?",
+      "bubble_type": "thought",
+      "note": "(gripping the controller tight, mashing buttons..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Thumb giving you grief?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. do I have to<br>quit gaming?"
+      },
+      "note": "Hybi started with <mark>giving the thumb a break</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Your thumb barely<br><em>gets a rest</em>!",
+      "fact": "During a game, the thumb repeats <em>small, fast moves</em> nonstop",
+      "left": {
+        "label": "Regular breaks",
+        "char": "cat_happy",
+        "caption": "A pause every 30–45 min<br>lets the thumb <b>rest</b>"
+      },
+      "right": {
+        "label": "Marathon",
+        "char": "cat_tired",
+        "caption": "Hours of tight gripping,<br>tendons <em>get cranky</em>"
+      },
+      "quip": "Keep playing, just give<br>your thumb a breather!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute thumb break</b>",
+      "sub": "Try it between matches!",
+      "sections": [
+        {
+          "heading": "1. Thumb break routine",
+          "color": "yellow",
+          "lines": [
+            "① Every <em>30–45 min</em>, put the controller down.",
+            "② Open your hand <em>wide</em>, then a soft fist, 10 times.",
+            "③ Slow thumb circles, 5 each way.",
+            "④ Lighter grip — buttons need <em>only a light press</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "The thumb side of your wrist <em>swells</em>, or",
+            "pain gets <em>worse</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Thumb still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling at the thumb base",
+        "Clicking or catching",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo games for hours on weekends, and afterwards the thumb side of her wrist aches.\n\nDuring a game, your thumb repeats small, fast movements with barely a break. Gripping the controller tightly for long sessions can leave the thumb tendons feeling cranky.\n\nHybi's 1-minute break: every 30-45 minutes put the controller down, open your hand wide then make a soft fist 10 times, and do 5 slow thumb circles each way. A lighter grip helps too.\n\nSwelling, clicking or catching, or pain lasting more than two weeks is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🎮\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#thumbpain",
+    "#wristpain",
+    "#gamer",
+    "#gaming",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why the thumb can ache after gaming, a break comparison, a 1-minute thumb break routine and signs worth getting checked.",
+  "story": {
+    "headline": "Thumb aching after gaming?",
+    "body": "Put the controller down<br>every 30–45 minutes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-05",
+  "created": "2027-03-05-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-356-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Front-of-shin ache when you walk faster",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's shins ache<br>when she <em>speeds up</em>",
+      "sub": "A front-of-shin story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "She joined a walking group<br>and <em>picked up the pace</em>.",
+      "char": "koala_tired",
+      "bubble": "Why does the front<br>of my shin ache when<br>I walk faster..?",
+      "bubble_type": "thought",
+      "note": "(at a slow stroll, it settles down again..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shins bothering you?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. should I stop<br>walking altogether?"
+      },
+      "note": "Hybi explained <mark>what the front-shin muscle does</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Your shin muscle works<br><em>every single step</em>!",
+      "fact": "The front-shin muscle <em>lowers your foot</em> gently each step",
+      "left": {
+        "label": "Shorter steps",
+        "char": "koala_happy",
+        "caption": "Quicker, shorter steps<br>can <b>ease the load</b>"
+      },
+      "right": {
+        "label": "Long strides",
+        "char": "koala_tired",
+        "caption": "Big heel-first strides<br>make the shin <em>work hard</em>"
+      },
+      "quip": "Build your pace up<br>a little at a time!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shin routine</b>",
+      "sub": "Try it sitting in a chair!",
+      "sections": [
+        {
+          "heading": "1. Seated toe raises",
+          "color": "yellow",
+          "lines": [
+            "① Sit with your feet flat on the floor.",
+            "② Heels stay down, lift your toes <em>up</em>.",
+            "③ Lower them <em>slowly over 3 seconds</em>.",
+            "④ <em>15 reps</em>, twice a day."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "One spot on the bone is <em>sore to touch</em>,",
+            "or it aches at rest — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Shins still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "One sore spot on the bone",
+        "Aching even at rest",
+        "Foot numbness or swelling"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko joined a walking group and picked up the pace. Now the front of her shins aches whenever she walks faster.\n\nThe muscle at the front of the shin lifts your foot as you swing your leg, then lowers it gently each time you land. Longer strides and a sudden jump in speed can give it a lot more work to do.\n\nHybi's 1-minute routine: seated toe raises, lower over 3 seconds, 15 reps twice a day. Build your pace gradually and try slightly shorter steps.\n\nOne sore spot on the bone, or aching at rest, is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐨\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#shinpain",
+    "#walking",
+    "#shinsplints",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#healthyageing",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why the front of the shin can ache when walking faster, stride comparison, a 1-minute toe raise routine and signs worth getting checked.",
+  "story": {
+    "headline": "Shins ache when you walk faster?",
+    "body": "Seated toe raises: 15 reps,<br>twice a day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-04",
+  "created": "2027-03-04-2",
+  "status": "approved",
+  "review_warnings": []
+}

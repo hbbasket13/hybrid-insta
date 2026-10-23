@@ -1,0 +1,131 @@
+{
+  "id": "C-373-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Bending over the bathroom sink in the morning",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "아침 세수할 때<br><em>허리가 뻐근한</em> 거북씨",
+      "sub": "하비와 알아보는 아침 허리 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "일어나자마자<br><em>세면대 앞</em>에 선 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "세수하려고 숙이면<br>허리가 왜<br>이렇게 뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(낮에는 그럭저럭 괜찮은데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>아침이 힘들구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 숙이는 게<br>무서워졌어요."
+      },
+      "note": "하비는 <mark>아침에 숙이는 법</mark>부터 알려주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "자고 일어나면<br><em>더 뻣뻣할 수 있어요!</em>",
+      "fact": "일어난 직후엔 허리가 <em>더 뻣뻣하게</em> 느껴지기 쉬워요",
+      "left": {
+        "label": "무릎 굽히기",
+        "char": "turtle_happy",
+        "caption": "고관절부터 숙이면<br>허리가 <b>덜 버텨요</b>"
+      },
+      "right": {
+        "label": "다리 펴고",
+        "char": "turtle_sad",
+        "caption": "허리만 구부리면<br><em>뻐근함이 커질 수 있어요</em>"
+      },
+      "quip": "몇 분 움직인 뒤<br>세수해 봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>아침 1분 루틴</b>",
+      "sub": "세면대 앞에서 바로!",
+      "sections": [
+        {
+          "heading": "1. 아침에 숙이는 법",
+          "color": "yellow",
+          "lines": [
+            "① 일어나서 <em>몇 분 걸은 뒤</em> 씻어요.",
+            "② 무릎을 <em>살짝 굽히고</em> 고관절부터 숙여요.",
+            "③ 한 손은 세면대를 <em>짚어서</em> 받쳐요.",
+            "④ 침대에서 무릎 당기기 <em>10초 × 5회</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 상담받으세요!",
+          "color": "purple",
+          "lines": [
+            "다리 저림·힘 빠짐, <em>소변·대변 변화</em>가",
+            "있다면 바로 의료진과 상담하기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리로 통증이 내려간다",
+        "다리가 저리거나 약하다",
+        "2주 넘게 그대로다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "아침마다 세면대 앞에서 숙이면 허리가 뻐근한 거북씨. 낮에는 그럭저럭 괜찮아요.\n\n자고 일어난 직후엔 허리가 더 뻣뻣하게 느껴지기 쉬워요. 그 상태로 다리를 편 채 허리만 숙이면 뻐근함이 커질 수 있어요.\n\n하비 팁: 일어나서 몇 분 걸은 뒤 씻기, 무릎 살짝 굽히고 고관절부터 숙이기, 한 손은 세면대 짚기!\n\n다리로 통증이 내려가거나, 저리거나 힘이 빠지거나, 2주 넘게 그대로라면 평가가 먼저예요. 하이브리드 피지오 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🪥\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#아침허리",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#chiropractic",
+    "#chiropractor",
+    "#sydneycbd",
+    "#lowbackpain"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 아침에 세면대 앞에서 허리가 뻐근한 이유, 숙이는 방법 비교, 아침 1분 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "아침 세수할 때 허리 뻐근?",
+    "body": "무릎 살짝 굽히고<br>한 손은 세면대 짚기.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-11",
+  "created": "2027-03-11-1",
+  "status": "approved",
+  "review_warnings": []
+}

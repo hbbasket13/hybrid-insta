@@ -1,0 +1,131 @@
+{
+  "id": "C-358-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Reading in bed and your neck",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why reading in bed<br>leaves Momo's <em>neck stiff</em>",
+      "sub": "A bedtime reading story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>An hour</em> in bed<br>with a good book.",
+      "char": "cat_tired",
+      "bubble": "Why is my neck<br>so stiff every<br>morning..?",
+      "bubble_type": "thought",
+      "note": "(propped on pillows, chin nearly on her chest..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Neck bothering you?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. do I have to<br>give up reading?"
+      },
+      "note": "Hybi suggested changing just <mark>where the book sits</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Low book,<br><em>low head</em>!",
+      "fact": "Reading lying back often keeps the neck <em>bent forward</em>",
+      "left": {
+        "label": "Book raised",
+        "char": "cat_happy",
+        "caption": "Book on a pillow,<br>neck <b>more upright</b>"
+      },
+      "right": {
+        "label": "Chin to chest",
+        "char": "cat_tired",
+        "caption": "Head tipped forward,<br>neck <em>holds for ages</em>"
+      },
+      "quip": "Keep reading,<br>just raise the book!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>bedtime reading set-up</b>",
+      "sub": "Try it tonight!",
+      "sections": [
+        {
+          "heading": "1. Three easy steps",
+          "color": "yellow",
+          "lines": [
+            "① Sit up with a pillow behind your <em>lower back</em> too.",
+            "② Rest the book on a pillow, <em>closer to eye level</em>.",
+            "③ Every <em>20 minutes</em>, do 5 slow chin tucks.",
+            "④ Getting sleepy? Put it down and lie flat."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Headaches start, or your arm or hand",
+            "<em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Neck still <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Headaches come with it",
+        "Arm or hand tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo reads in bed for an hour every night, propped up on pillows. Lately her neck feels stiff every morning.\n\nReading while lying back often keeps the head tipped forward for a long time. Supporting your lower back with a pillow, resting the book on a pillow closer to eye level, and doing 5 slow chin tucks every 20 minutes can ease the load on your neck.\n\nHeadaches, arm tingling, or stiffness lasting more than two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 📚\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#neckpain",
+    "#reading",
+    "#bedtime",
+    "#posture",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#sydneychiro",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#booklover"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why reading in bed can stiffen the neck, book height comparison, a bedtime reading set-up and signs worth getting checked.",
+  "story": {
+    "headline": "Neck stiff after reading in bed?",
+    "body": "Book on a pillow,<br>closer to eye level.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-05",
+  "created": "2027-03-05-4",
+  "status": "approved",
+  "review_warnings": []
+}

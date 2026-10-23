@@ -1,0 +1,131 @@
+{
+  "id": "C-374-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for retail workers on their feet",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "On her feet all day:<br><em>Momo's tired legs</em>",
+      "sub": "Pilates for retail workers, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Eight hours</em> a day<br>standing on the shop floor.",
+      "char": "cat_tired",
+      "bubble": "Why do my feet<br>and back feel so<br>heavy by closing..?",
+      "bubble_type": "thought",
+      "note": "(the calves feel tight as a drum..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Legs feeling heavy?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. could Pilates<br>actually help?"
+      },
+      "note": "Hybi decided to introduce <mark>clinical Pilates</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Standing still is<br><em>surprisingly tiring</em>!",
+      "fact": "Standing in one position for hours can <em>tire</em> legs and back",
+      "left": {
+        "label": "Shift around",
+        "char": "cat_happy",
+        "caption": "Moving your weight lets<br>muscles <b>take turns</b>"
+      },
+      "right": {
+        "label": "Locked in place",
+        "char": "cat_tired",
+        "caption": "The same muscles<br><em>keep holding on</em>"
+      },
+      "quip": "Pilates builds stamina<br>for long shifts!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shop-floor routine</b>",
+      "sub": "Right at the counter!",
+      "sections": [
+        {
+          "heading": "1. While you're standing",
+          "color": "yellow",
+          "lines": [
+            "① Rest one foot on a <em>low step</em>, then swap.",
+            "② Calf raises, <em>10 reps</em>, 3 times a shift.",
+            "③ Every 30 min, <em>march on the spot</em> for 20 steps.",
+            "④ Wear <em>comfy, cushioned shoes</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Your legs <em>swell or tingle</em> —",
+            "stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Painful first morning steps",
+        "Leg swelling or tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo stands on the shop floor for eight hours a day. By closing time her feet, calves and lower back feel heavy.\n\nStanding in one position for hours keeps the same muscles working, so they can tire quickly. Clinical Pilates builds stamina in the hips, trunk and feet, which can help with long shifts on your feet.\n\nHybi's routine: rest one foot on a low step and swap, do 10 calf raises three times a shift, and march on the spot for 20 steps every 30 minutes.\n\nPainful first steps in the morning, leg swelling or tingling, or no change after two weeks are worth an assessment first. Clinical Pilates at Hybrid Physio can help. Book online via the link in bio 🛍️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#retailworker",
+    "#standingallday",
+    "#tiredlegs",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#workhealth",
+    "#footpain"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat on clinical Pilates for retail workers, shifting position while standing, a 1-minute shop-floor routine and signs worth getting checked.",
+  "story": {
+    "headline": "On your feet all day?",
+    "body": "10 calf raises, and march<br>20 steps every 30 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-11",
+  "created": "2027-03-11-2",
+  "status": "approved",
+  "review_warnings": []
+}

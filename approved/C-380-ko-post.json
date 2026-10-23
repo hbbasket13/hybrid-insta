@@ -1,0 +1,131 @@
+{
+  "id": "C-380-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "바리스타를 위한 마사지",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "바리스타 모모의<br><em>손목이 시큰한</em> 이유",
+      "sub": "하비와 알아보는 바리스타 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 종일 커피 머신 앞,<br><em>탬핑</em>하고 또 탬핑.",
+      "char": "cat_tired",
+      "bubble": "왜 손목이랑 팔이<br>이렇게 땅기지..?",
+      "bubble_type": "thought",
+      "note": "(마감할 땐 어깨까지 묵직..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>손목이 불편해?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 마사지 받으면<br>괜찮아질까요?"
+      },
+      "note": "하비는 먼저 <mark>팔이 지치는 이유</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>손목 각도</em>가<br>생각보다 중요해요",
+      "fact": "탬핑은 <em>같은 동작을 수없이</em> 반복하는 일이에요",
+      "left": {
+        "label": "손목 일자로",
+        "char": "cat_happy",
+        "caption": "팔꿈치 옆구리에 붙이고<br>손목은 <b>곧게</b>"
+      },
+      "right": {
+        "label": "손목 꺾임",
+        "char": "cat_tired",
+        "caption": "꺾인 채로 누르면<br><em>팔 앞쪽이 더 일해요</em>"
+      },
+      "quip": "마사지와 함께<br>자세도 챙겨요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 손목·팔 스트레칭</b>",
+      "sub": "주문 사이에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 팔 앞쪽 스트레칭",
+          "color": "yellow",
+          "lines": [
+            "① 팔을 앞으로 뻗고 손바닥을 앞으로.",
+            "② 다른 손으로 손가락을 <em>살짝 몸쪽으로</em>.",
+            "③ <em>20초 × 2번</em>, 양쪽, 쉬는 시간마다.",
+            "④ 오래 서 있을 땐 <em>체중을 번갈아</em> 실어요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "손가락이 <em>저리거나 둔해지면</em>,",
+            "통증이 <em>심해지면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "밤에 손이 저리다",
+        "컵을 자꾸 놓친다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "하루 종일 커피 머신 앞에서 탬핑하는 바리스타 모모. 마감할 때쯤이면 손목과 팔이 땅기고 어깨까지 묵직해요.\n\n손목이 꺾인 채로 누르면 팔 앞쪽 근육이 더 일하게 돼요. 리메디얼 마사지는 뭉친 느낌을 푸는 데 도움이 될 수 있고, 자세와 스트레칭을 함께할 때 더 좋아요.\n\n하비의 1분 스트레칭: 팔 앞쪽 스트레칭 20초 × 2번, 양쪽, 쉬는 시간마다. 손가락이 저리면 멈추기!\n\n밤에 손이 저리거나 컵을 자꾸 놓친다면 평가가 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약 ☕\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#바리스타",
+    "#손목통증",
+    "#리메디얼마사지",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#시드니카페",
+    "#remedialmassage",
+    "#barista",
+    "#wristpain",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 바리스타의 손목과 팔이 지치는 이유, 손목 각도 비교, 1분 팔 앞쪽 스트레칭, 확인이 필요한 신호.",
+  "story": {
+    "headline": "바리스타 손목이 시큰하다면?",
+    "body": "팔 앞쪽 스트레칭<br>20초 × 2번!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-13",
+  "created": "2027-03-13-5",
+  "status": "approved",
+  "review_warnings": []
+}

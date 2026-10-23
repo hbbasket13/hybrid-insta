@@ -1,0 +1,132 @@
+{
+  "id": "C-355-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for walkers",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코의 산책 후<br><em>엉덩이가 묵직한 이유</em>",
+      "sub": "걷기를 사랑하는 분을 위한 필라테스",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "매일 아침 <em>한 시간</em>,<br>공원을 걷는 코코.",
+      "char": "koala_tired",
+      "bubble": "왜 오래 걸으면<br>엉덩이랑 허리가<br>묵직하지..?",
+      "bubble_type": "thought",
+      "note": "(돌아오는 길엔 걸음이 점점 느려져..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 산책<br>좋아하시나 봐요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 그냥 덜<br>걸어야 할까요?"
+      },
+      "note": "하비는 <mark>걷기를 받쳐주는 힘</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "걸을 땐 잠깐씩<br><em>한 발로 서요!</em>",
+      "fact": "한 걸음마다 몸은 잠깐 <em>한 발</em>로 균형을 잡아요",
+      "left": {
+        "label": "골반 안정",
+        "char": "koala_happy",
+        "caption": "엉덩이 옆 근육이<br>골반을 <b>받쳐줘요</b>"
+      },
+      "right": {
+        "label": "골반 흔들",
+        "char": "koala_tired",
+        "caption": "골반이 흔들리면<br>허리가 <em>더 일하기 쉬워요</em>"
+      },
+      "quip": "걷기는 계속하고<br>받쳐주는 힘을 길러요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 걷기 준비 운동</b>",
+      "sub": "산책 전후에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 클램 (옆으로 누워 엉덩이 운동)",
+          "color": "yellow",
+          "lines": [
+            "① 옆으로 누워 무릎을 굽히고 발을 모아요.",
+            "② 발은 붙인 채 위쪽 무릎을 <em>살짝</em> 열어요.",
+            "③ 골반이 뒤로 넘어가지 않게!",
+            "④ <em>좌우 10회씩</em>, 하루 1번."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "엉덩이·허리 통증이 <em>심해지면</em>",
+            "멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "걸을 때 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "통증이 점점 심해진다",
+        "밤에 아파서 깬다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "매일 아침 한 시간씩 공원을 걷는 코코. 그런데 오래 걸으면 엉덩이와 허리가 묵직해져요.\n\n걸을 때 몸은 한 걸음마다 잠깐씩 한 발로 균형을 잡아요. 엉덩이 옆 근육과 몸통이 골반을 받쳐주면 걷기가 더 편해질 수 있어요. 클리닉 필라테스는 이런 힘을 차근차근 기르는 데 도움이 될 수 있어요.\n\n하비의 1분 운동: 클램, 좌우 10회씩, 하루 1번. 통증이 심해지면 멈추기!\n\n통증이 점점 심해지거나 밤에 깬다면 평가가 먼저예요. 하이브리드 피지오에서 함께해요. 프로필 링크에서 온라인 예약 🐨\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#걷기운동",
+    "#산책",
+    "#필라테스",
+    "#클리닉필라테스",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#고관절",
+    "#물리치료",
+    "#pilates",
+    "#clinicalpilates",
+    "#walking",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 오래 걸으면 엉덩이가 묵직한 이유, 골반 안정 비교, 1분 클램 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "산책 후 엉덩이가 묵직하다면?",
+    "body": "클램 좌우 10회씩,<br>산책 전후에!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-04",
+  "created": "2027-03-04-1",
+  "status": "approved",
+  "review_warnings": []
+}

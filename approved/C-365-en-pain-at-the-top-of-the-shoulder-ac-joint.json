@@ -1,0 +1,131 @@
+{
+  "id": "C-365-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain at the top of the shoulder (AC joint)",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why the <em>top of Lulu's</em><br><em>shoulder</em> keeps aching",
+      "sub": "An AC joint story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Overhead lifts at work,<br><em>bench press</em> at the gym.",
+      "char": "kanga_tired",
+      "bubble": "Why does the top<br>of my shoulder<br>sting like that..?",
+      "bubble_type": "thought",
+      "note": "(reaching across the chest makes it sharper..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shoulder giving you grief?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. do I have<br>to stop training?"
+      },
+      "note": "Hybi started by explaining <mark>the little joint up top</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A <em>small joint</em> at the<br>top of the shoulder!",
+      "fact": "Where the collarbone meets the shoulder blade · <em>AC joint</em>",
+      "left": {
+        "label": "Adjust the load",
+        "char": "kanga_happy",
+        "caption": "Train in a range<br>that <b>feels okay</b>"
+      },
+      "right": {
+        "label": "Push through",
+        "char": "kanga_tired",
+        "caption": "Repeating painful lifts<br>can <em>keep it irritated</em>"
+      },
+      "quip": "It's not stopping,<br>it's adjusting the dose!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shoulder plan</b>",
+      "sub": "Try it before your next session!",
+      "sections": [
+        {
+          "heading": "1. Train around it, not through it",
+          "color": "yellow",
+          "lines": [
+            "① Shorten the range on <em>bench and dips</em>.",
+            "② Shoulder blade squeeze: <em>5 sec × 10</em>.",
+            "③ Keep pain at <em>3 out of 10 or lower</em>.",
+            "④ Check how it feels next day, then build."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "It looks <em>lumpy after a fall</em>, or you",
+            "<em>can't lift your arm</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain started after a fall",
+        "Pain wakes you at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu lifts overhead all day and loves a heavy bench. Lately the very top of the shoulder stings, especially reaching across the chest.\n\nThat spot is often the AC joint, where the collarbone meets the shoulder blade. Pushing through painful lifts can keep it irritated, so adjusting range and load usually helps more than stopping altogether.\n\nHybi's plan: shorten the range on bench and dips, add shoulder blade squeezes (5 seconds × 10), and keep pain at 3 out of 10 or lower.\n\nIf it started after a fall, wakes you at night or isn't improving after two weeks, an assessment comes first. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 💪\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#shoulderpain",
+    "#acjoint",
+    "#gymlife",
+    "#tradie",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining AC joint pain at the top of the shoulder, adjusting training load, a simple shoulder plan and signs worth getting checked.",
+  "story": {
+    "headline": "Top of your shoulder aching?",
+    "body": "Adjust range and load<br>before you stop.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-08",
+  "created": "2027-03-08-2",
+  "status": "approved",
+  "review_warnings": []
+}

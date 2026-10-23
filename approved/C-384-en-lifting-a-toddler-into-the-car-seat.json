@@ -1,0 +1,131 @@
+{
+  "id": "C-384-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Lifting a toddler into the car seat",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's back twinges<br>at the <em>car seat</em>",
+      "sub": "A car seat story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Toddler in arms,<br><em>twist and reach</em> into the car!",
+      "char": "kanga_tired",
+      "bubble": "Why does my back<br>twinge every time<br>I do this..?",
+      "bubble_type": "thought",
+      "note": "(this is harder than anything on site..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back bothering you?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. mostly when<br>I put my kid in the car."
+      },
+      "note": "Hybi decided to share <mark>an easier car seat method</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Turn with your <em>feet</em>,<br>not your back!",
+      "fact": "The <em>further you reach</em>, the harder your back works",
+      "left": {
+        "label": "Close and square",
+        "char": "kanga_happy",
+        "caption": "Hold them close,<br>face the <b>car seat</b>"
+      },
+      "right": {
+        "label": "Reach and twist",
+        "char": "kanga_tired",
+        "caption": "Twisting with arms out<br>can <em>add more load</em>"
+      },
+      "quip": "Small habits can<br>help your back!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>car seat tips</b>",
+      "sub": "Try them on your next drive!",
+      "sections": [
+        {
+          "heading": "1. An easier lift-in",
+          "color": "yellow",
+          "lines": [
+            "① Open the door wide and <em>face the car seat</em>.",
+            "② Hold your toddler <em>close to your body</em>.",
+            "③ Put one knee <em>on the back seat</em> to get closer.",
+            "④ Can they walk? Let them <em>climb in</em> themselves."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain or tingling spreads <em>down a leg</em>,",
+            "or it feels <em>weak</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling down the leg",
+        "Leg feels weak",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "For Lulu, lifting his toddler into the car seat is harder than anything on site. Every twist and reach gives his back a twinge.\n\nThe further you reach, and the more you twist while holding a load, the harder your back works. Face the car seat, hold your toddler close, and turn with your feet rather than your back.\n\nHybi's tips: open the door wide, put one knee on the back seat to get closer, and if your little one can walk, let them climb in themselves.\n\nTingling or weakness down a leg, or no change after two weeks, is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#parenting",
+    "#toddlerlife",
+    "#carseat",
+    "#parentlife",
+    "#backpain",
+    "#sydneychiro",
+    "#chatswoodchiro",
+    "#chatswood",
+    "#sydneyparents",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why lifting a toddler into a car seat can strain the back, how to face the seat and turn with your feet, easy car seat tips and signs worth getting checked.",
+  "story": {
+    "headline": "Car seat back twinge?",
+    "body": "Face the seat,<br>turn with your feet.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-15",
+  "created": "2027-03-15-6",
+  "status": "approved",
+  "review_warnings": []
+}

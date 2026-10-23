@@ -1,0 +1,131 @@
+{
+  "id": "C-379-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for volleyball players",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's calves ache<br>after <em>volleyball</em>",
+      "sub": "A volleyball recovery story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Jump, land, spike —<br><em>three games</em> every weekend!",
+      "char": "rabbit_tired",
+      "bubble": "Why are my calves<br>and shoulders<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(on Monday morning, even stairs feel hard..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big weekend of volleyball?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep! Would a massage<br>help me recover?"
+      },
+      "note": "Hybi decided to explain <mark>where massage fits</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage is a great<br><em>recovery teammate</em>",
+      "fact": "Massage <em>complements</em> training — it doesn't replace it",
+      "left": {
+        "label": "Massage + gym",
+        "char": "rabbit_happy",
+        "caption": "Ease tight muscles<br>and <b>keep up strength work</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "rabbit_tired",
+        "caption": "Without strength or landing<br>work, <em>load can build up</em>"
+      },
+      "quip": "Massage helps you recover —<br>training does the building!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>5-minute post-game routine</b>",
+      "sub": "Do it right after the final whistle!",
+      "sections": [
+        {
+          "heading": "1. Cool down",
+          "color": "yellow",
+          "lines": [
+            "① Walk easy for <em>5 minutes</em> to settle your breath.",
+            "② Calf stretch: <em>30 sec × 2</em>, each side.",
+            "③ Big shoulder circles: <em>10 forwards, 10 back</em>.",
+            "④ Drink water and get a good sleep."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain is <em>sharp</em> or there's <em>swelling</em> —",
+            "get it assessed before booking a massage."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Ankle swells after a roll",
+        "Front-of-knee pain on jumps",
+        "Shoulder pain when spiking"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Jump, land, spike, repeat. After three volleyball games every weekend, Toto's calves and shoulders feel heavy by Monday.\n\nRemedial massage can help tight muscles feel easier and support recovery. It complements training rather than replacing it, so strength and landing work still matter.\n\nHybi's post-game routine: walk easy for 5 minutes, calf stretch 30 seconds × 2 each side, then big shoulder circles, 10 each way. Sharp pain or swelling? Get it assessed first.\n\nAn ankle that swells after a roll, front-of-knee pain on jumps, or shoulder pain when spiking is worth checking. Our remedial massage therapists at Hybrid Physio can help with recovery. Book online via the link in bio 🏐\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#volleyball",
+    "#beachvolleyball",
+    "#sportsrecovery",
+    "#recovery",
+    "#sydneymassage",
+    "#sydneycbdmassage",
+    "#sydneycbd",
+    "#sydneysport",
+    "#hybridphysiotherapy",
+    "#massagetherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining how remedial massage can support volleyball recovery alongside strength work, a 5-minute post-game routine and signs worth getting checked.",
+  "story": {
+    "headline": "Heavy legs after volleyball?",
+    "body": "5-minute cool-down<br>after every game.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-13",
+  "created": "2027-03-13-4",
+  "status": "approved",
+  "review_warnings": []
+}

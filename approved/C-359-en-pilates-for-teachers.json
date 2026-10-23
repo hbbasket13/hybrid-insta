@@ -1,0 +1,131 @@
+{
+  "id": "C-359-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for teachers",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's back feels heavy<br>after <em>a day of teaching</em>",
+      "sub": "A Pilates story for teachers, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "On her feet all day,<br>bending to <em>little desks</em>.",
+      "char": "koala_tired",
+      "bubble": "Why does my lower<br>back feel so heavy<br>after class..?",
+      "bubble_type": "thought",
+      "note": "(by Friday afternoon, her feet feel heavy too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Busy term?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "So busy.. should I<br>just bend less?"
+      },
+      "note": "Hybi talked about <mark>how to bend and what holds you up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Low desks mean<br><em>lots of bending</em>!",
+      "fact": "Teachers often bend down to <em>low desks</em> many times a day",
+      "left": {
+        "label": "Knees bent",
+        "char": "koala_happy",
+        "caption": "Knees and hips help,<br>back <b>shares the load</b>"
+      },
+      "right": {
+        "label": "Back only",
+        "char": "koala_tired",
+        "caption": "Bending from the back<br><em>again and again</em>"
+      },
+      "quip": "Stronger hips can make<br>bending feel easier!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute hip routine</b>",
+      "sub": "Try it at home after school!",
+      "sections": [
+        {
+          "heading": "1. Bridge",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your back, knees bent, feet flat.",
+            "② Gently squeeze your glutes and <em>lift your hips</em>.",
+            "③ Hold <em>3 seconds</em>, lower slowly.",
+            "④ <em>10 reps</em>, once a day."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Back pain gets <em>worse</em>, or your leg",
+            "<em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Numbness in your legs",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko teaches on her feet all day, bending down to little desks again and again. By the end of class, her lower back feels heavy.\n\nBending from the back alone means it does most of the work. Using your knees and hips as well helps share the load. Clinical Pilates can help build hip and trunk strength so bending feels easier.\n\nHybi's 1-minute routine: bridges, hold 3 seconds, 10 reps, once a day. Stop if pain gets worse or your leg tingles.\n\nPain spreading down a leg or lasting more than two weeks is worth an assessment. Chat to our team at Hybrid Physio. Book online via the link in bio 🍎\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#teachers",
+    "#teacherlife",
+    "#lowbackpain",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneyphysio",
+    "#physiotherapy",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#strength"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why teaching can leave the back heavy, a bending comparison, a 1-minute bridge routine and signs worth getting checked.",
+  "story": {
+    "headline": "Back heavy after teaching?",
+    "body": "Bridges: 3 sec × 10,<br>at home after school.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-05",
+  "created": "2027-03-05-2",
+  "status": "approved",
+  "review_warnings": []
+}

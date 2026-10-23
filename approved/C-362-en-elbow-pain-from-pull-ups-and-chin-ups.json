@@ -1,0 +1,131 @@
+{
+  "id": "C-362-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Elbow pain from pull-ups and chin-ups",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's elbow aches<br>after <em>pull-ups</em>",
+      "sub": "An elbow story for gym-goers, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "She <em>ramped up</em> her<br>pull-ups this month.",
+      "char": "kanga_tired",
+      "bubble": "Why does the inside<br>of my elbow ache<br>after pull-ups..?",
+      "bubble_type": "thought",
+      "note": "(next morning, even lifting a mug twinges..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Elbow giving you grief?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. do I have to<br>stop training?"
+      },
+      "note": "Hybi started with <mark>how fast the load went up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Tendons adapt<br><em>more slowly</em>!",
+      "fact": "Tendons usually adapt <em>more slowly</em> than muscles do",
+      "left": {
+        "label": "Gradual build",
+        "char": "kanga_happy",
+        "caption": "Add a little each week,<br>tendons <b>keep up</b>"
+      },
+      "right": {
+        "label": "Big jump",
+        "char": "kanga_tired",
+        "caption": "Lots more reps at once,<br>elbow <em>gets cranky</em>"
+      },
+      "quip": "Keep training,<br>just adjust the dose!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pull-up reset</b>",
+      "sub": "Try it at your next session!",
+      "sections": [
+        {
+          "heading": "1. Elbow-friendly pull-ups",
+          "color": "yellow",
+          "lines": [
+            "① Ease back to a rep count that <em>feels OK</em>.",
+            "② Try a <em>neutral grip</em> (palms facing).",
+            "③ Light wrist curls: <em>3 sets of 10</em>, slowly.",
+            "④ Build back up <em>a little each week</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain lasts <em>into the next day</em>, or your grip",
+            "<em>weakens</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Elbow still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Elbow swelling or bruising",
+        "Tingling in your fingers",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu ramped up her pull-ups this month, and now the inside of her elbow aches after every session.\n\nTendons usually adapt more slowly than muscles. A big jump in reps can leave the elbow tendons feeling cranky. Rather than stopping altogether, it often helps to ease back to a comfortable amount and build up gradually.\n\nHybi's reset: fewer reps for now, try a neutral grip, and add slow wrist curls with a light weight, 3 sets of 10.\n\nSwelling, finger tingling, or pain lasting more than two weeks is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 💪\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#elbowpain",
+    "#pullups",
+    "#chinups",
+    "#gym",
+    "#strengthtraining",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why the elbow can ache after pull-ups, a training load comparison, an elbow-friendly pull-up reset and signs worth getting checked.",
+  "story": {
+    "headline": "Elbow aching after pull-ups?",
+    "body": "Ease back the reps,<br>build up week by week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-06",
+  "created": "2027-03-06-2",
+  "status": "approved",
+  "review_warnings": []
+}

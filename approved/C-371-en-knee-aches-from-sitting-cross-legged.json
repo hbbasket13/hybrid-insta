@@ -1,0 +1,131 @@
+{
+  "id": "C-371-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee aches from sitting cross-legged",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's knees ache<br>after <em>sitting cross-legged</em>",
+      "sub": "A knees-and-sitting story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Long stretches sitting<br><em>cross-legged</em> on the floor.",
+      "char": "cat_tired",
+      "bubble": "Why do my knees<br>feel achy every<br>time I get up..?",
+      "bubble_type": "thought",
+      "note": "(straightening the legs takes a while..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Knees bothering you?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. but I'm so<br>flexible. Why me?"
+      },
+      "note": "Hybi decided to look at <mark>the cross-legged position</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Flexible, but <em>long holds</em><br>can still ache!",
+      "fact": "Cross-legged means the knees are <em>deeply bent and twisted</em>",
+      "left": {
+        "label": "Sit on a cushion",
+        "char": "cat_happy",
+        "caption": "Raised hips mean<br>knees <b>bend less</b>"
+      },
+      "right": {
+        "label": "Long holds",
+        "char": "cat_tired",
+        "caption": "Deep bend and twist,<br><em>held for a long time</em>"
+      },
+      "quip": "The trick is to<br>change it up often!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute knee reset</b>",
+      "sub": "Try it right after sitting!",
+      "sections": [
+        {
+          "heading": "1. Change how you sit",
+          "color": "yellow",
+          "lines": [
+            "① Pop a <em>cushion</em> under your hips.",
+            "② Every <em>20–30 min</em>, straighten and move.",
+            "③ Straight-leg thigh squeeze: <em>5 sec × 10</em>.",
+            "④ Sit-to-stand from a chair, <em>10 reps</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "The knee <em>swells or catches</em> —",
+            "stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling in the knee",
+        "Locking or giving way",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo loves sitting cross-legged on the floor, but lately both knees ache every time she gets up.\n\nSitting cross-legged keeps the knees deeply bent and twisted. Even very flexible people can feel achy when that position is held for a long time.\n\nHybi's reset: sit on a cushion to raise your hips, straighten and move your legs every 20–30 minutes, do straight-leg thigh squeezes (5 seconds × 10) and 10 sit-to-stands from a chair.\n\nSwelling, locking, giving way or no change after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🐱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#posture",
+    "#floorsitting",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#knees"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why knees can ache after sitting cross-legged, using a cushion, a 1-minute knee reset and signs worth getting checked.",
+  "story": {
+    "headline": "Knees achy after floor sitting?",
+    "body": "Sit on a cushion and<br>move every 20–30 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-10",
+  "created": "2027-03-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

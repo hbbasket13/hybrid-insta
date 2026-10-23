@@ -1,0 +1,131 @@
+{
+  "id": "C-383-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "치과의사·치과위생사를 위한 마사지",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "치과위생사 거북씨,<br><em>목과 어깨가</em> 무거운 이유",
+      "sub": "하비와 알아보는 치과 직업 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 종일 고개 숙이고<br><em>입안을 들여다보는</em> 일.",
+      "char": "turtle_sad",
+      "bubble": "왜 오후만 되면<br>목이 뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(퇴근 무렵엔 손가락까지 뻣뻣..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>목이 불편해서 왔구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 마사지만 받으면<br>괜찮아지려나요?"
+      },
+      "note": "하비는 먼저 <mark>자세가 굳는 이유</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>숙인 채 멈춘 자세</em>가<br>더 힘들어요",
+      "fact": "진료는 <em>고개 숙인 자세를 오래</em> 유지하는 일이 많아요",
+      "left": {
+        "label": "자주 움직이기",
+        "char": "turtle_happy",
+        "caption": "환자 사이마다<br>목·어깨를 <b>풀어줘요</b>"
+      },
+      "right": {
+        "label": "계속 숙이기",
+        "char": "turtle_sad",
+        "caption": "쉬지 않고 숙이면<br><em>뻐근해질 수</em> 있어요"
+      },
+      "quip": "마사지와 함께<br>짧은 휴식도 챙겨요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>환자 사이 1분 루틴</b>",
+      "sub": "다음 환자 전에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 목·어깨·손 풀기",
+          "color": "yellow",
+          "lines": [
+            "① 의자 높이를 맞춰 <em>허리를 펴고</em> 앉아요.",
+            "② 턱 당기기 <em>5초 × 5회</em>.",
+            "③ 어깨 뒤로 크게 돌리기 <em>10회</em>.",
+            "④ 주먹 쥐었다 펴기 <em>10회</em>, 양손."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "팔·손이 <em>저리거나 힘이 빠지면</em>,",
+            "멈추고 먼저 <em>상담</em>받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "두통이 같이 온다",
+        "팔이나 손이 저리다",
+        "손에 힘이 빠진다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "하루 종일 고개를 숙이고 환자 입안을 들여다보는 치과위생사 거북씨. 오후만 되면 목과 어깨가 뻐근하고 손가락도 뻣뻣해요.\n\n진료는 고개 숙인 자세를 오래 유지하는 일이 많아요. 리메디얼 마사지는 뭉친 느낌을 푸는 데 도움이 될 수 있고, 짧은 휴식과 운동을 함께할 때 더 좋아요.\n\n하비의 1분 루틴: 턱 당기기 5초 × 5회, 어깨 뒤로 돌리기 10회, 주먹 쥐었다 펴기 10회.\n\n팔·손이 저리거나 두통이 같이 오면 평가가 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#치과위생사",
+    "#치과의사",
+    "#목통증",
+    "#어깨통증",
+    "#리메디얼마사지",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#dentalhygienist",
+    "#sydneymassage"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 치과 일로 목과 어깨가 무거운 이유, 계속 숙이기와 자주 움직이기 비교, 환자 사이 1분 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "치과 일, 목이 무겁다면?",
+    "body": "환자 사이마다<br>1분 루틴!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-15",
+  "created": "2027-03-15-5",
+  "status": "approved",
+  "review_warnings": []
+}

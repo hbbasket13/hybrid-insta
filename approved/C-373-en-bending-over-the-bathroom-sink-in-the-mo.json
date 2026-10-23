@@ -1,0 +1,131 @@
+{
+  "id": "C-373-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Bending over the bathroom sink in the morning",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's back<br><em>hates the bathroom sink</em>",
+      "sub": "A morning back story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Out of bed and<br>straight to the <em>sink</em>.",
+      "char": "turtle_sad",
+      "bubble": "Why does bending<br>to wash my face<br>feel so stiff..?",
+      "bubble_type": "thought",
+      "note": "(by lunchtime it's mostly fine..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Tough mornings?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. I've started<br>dreading bending."
+      },
+      "note": "Hybi started with <mark>how to bend in the morning</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Backs often feel<br><em>stiffer first thing</em>!",
+      "fact": "Right after waking, the back often feels <em>stiffer</em>",
+      "left": {
+        "label": "Knees soft",
+        "char": "turtle_happy",
+        "caption": "Hinge from the hips,<br>the back <b>works less</b>"
+      },
+      "right": {
+        "label": "Legs straight",
+        "char": "turtle_sad",
+        "caption": "Bending from the back<br><em>can feel stiffer</em>"
+      },
+      "quip": "Move for a few minutes<br>before you bend!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute morning routine</b>",
+      "sub": "Right at the sink!",
+      "sections": [
+        {
+          "heading": "1. Bending in the morning",
+          "color": "yellow",
+          "lines": [
+            "① <em>Walk around for a few minutes</em> first.",
+            "② <em>Soften the knees</em> and hinge from the hips.",
+            "③ Rest one hand <em>on the bench</em> for support.",
+            "④ In bed: knee hugs, <em>10 sec × 5</em>."
+          ]
+        },
+        {
+          "heading": "2. Get advice promptly if…",
+          "color": "purple",
+          "lines": [
+            "Leg numbness, weakness or <em>bladder/bowel</em>",
+            "<em>changes</em> — see a doctor promptly."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Leg tingling or weakness",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Every morning Mr Turtle bends over the bathroom sink and his lower back feels stiff. By lunchtime it's mostly fine.\n\nBacks often feel stiffer first thing after waking. Bending forward from the back with straight legs over a low sink can make that stiffness more noticeable.\n\nHybi's morning routine: walk around for a few minutes first, soften your knees and hinge from the hips, and rest one hand on the bench for support. Knee hugs in bed (10 seconds × 5) can help too.\n\nPain spreading down a leg, tingling or weakness, or no change after two weeks are worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🪥\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#lowbackpain",
+    "#morningstiffness",
+    "#backpain",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#deskjob",
+    "#posture"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why the back can feel stiff bending over the sink in the morning, how to hinge from the hips, a morning routine and signs worth getting checked.",
+  "story": {
+    "headline": "Back stiff at the sink?",
+    "body": "Soft knees, hinge from hips,<br>one hand on the bench.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-11",
+  "created": "2027-03-11-4",
+  "status": "approved",
+  "review_warnings": []
+}

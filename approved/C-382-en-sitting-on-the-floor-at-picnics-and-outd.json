@@ -1,0 +1,131 @@
+{
+  "id": "C-382-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Sitting on the floor at picnics and outdoor events",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's back aches<br>after a <em>picnic</em>",
+      "sub": "A sitting-on-the-grass story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Three hours on<br>a <em>picnic rug</em>!",
+      "char": "rabbit_tired",
+      "bubble": "Why does my back<br>ache every time<br>I stand up..?",
+      "bubble_type": "thought",
+      "note": "(and his legs feel tingly when he gets up..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Fun picnic?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep! But sitting on<br>the ground is hard.."
+      },
+      "note": "Hybi decided to share <mark>easier ways to sit</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Change position</em><br>often!",
+      "fact": "<em>Raising your hips a little</em> can make floor sitting easier",
+      "left": {
+        "label": "Mix it up",
+        "char": "rabbit_happy",
+        "caption": "Sit on a cushion and<br><b>change position</b> often"
+      },
+      "right": {
+        "label": "One position",
+        "char": "rabbit_tired",
+        "caption": "Staying put for hours<br>can <em>leave you stiff</em>"
+      },
+      "quip": "Keep moving between<br>positions!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>picnic sitting tips</b>",
+      "sub": "Try them on the rug!",
+      "sections": [
+        {
+          "heading": "1. Sit smarter",
+          "color": "yellow",
+          "lines": [
+            "① Sit on a <em>folded towel or cushion</em>.",
+            "② Lean back on a <em>tree or a bag</em>.",
+            "③ Change position every <em>15–20 minutes</em>.",
+            "④ To stand, <em>kneel first</em>, then step up."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Tingling down your leg <em>lingers</em>, or",
+            "pain gets <em>worse</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg tingling that lingers",
+        "Ongoing hip pain",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto spent three hours on a picnic rug in the park. Every time he stood up, his back ached and his legs felt tingly.\n\nStaying in one position on the ground for a long time can leave your back and hips feeling stiff. Raising your hips a little on a folded towel or cushion, and changing position every 15–20 minutes, can make it easier.\n\nHybi's tips: lean back on a tree or a bag, and kneel first before stepping up to stand. Stop if leg tingling lingers or pain gets worse.\n\nOngoing hip pain, or no change after two weeks, is worth an assessment. Our chiropractors at Hybrid Physio can help. Book online via the link in bio 🧺\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#picnic",
+    "#sydneypicnic",
+    "#backpain",
+    "#hippain",
+    "#outdoorevents",
+    "#sydneychiro",
+    "#sydneycbdchiro",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#posture"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why sitting on the ground for hours can leave you stiff, why changing position helps, easy picnic sitting tips and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff after a picnic?",
+    "body": "Sit on a cushion,<br>change position often.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-15",
+  "created": "2027-03-15-4",
+  "status": "approved",
+  "review_warnings": []
+}

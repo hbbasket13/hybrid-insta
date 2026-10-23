@@ -1,0 +1,131 @@
+{
+  "id": "C-376-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Switching to minimalist shoes: go slowly",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's new shoes<br>need a <em>slow start</em>",
+      "sub": "A minimalist shoe story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "New thin shoes,<br>and <em>10 km</em> on day one!",
+      "char": "rabbit_tired",
+      "bubble": "Why are my calves<br>so tight..?",
+      "bubble_type": "thought",
+      "note": "(by the next day, the soles of his feet ache too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>New shoes, huh?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep! But my calves<br>are really sore.."
+      },
+      "note": "Hybi decided to explain <mark>why the body needs time</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "New shoes shift<br>the <em>workload</em>",
+      "fact": "Thinner shoes ask more of your <em>calves, Achilles and feet</em>",
+      "left": {
+        "label": "Gradual switch",
+        "char": "rabbit_happy",
+        "caption": "Start small, give<br>your body <b>time to adapt</b>"
+      },
+      "right": {
+        "label": "Overnight switch",
+        "char": "rabbit_tired",
+        "caption": "A big jump can<br><em>overload</em> tissues"
+      },
+      "quip": "Shoes change in a day,<br>bodies take longer!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>shoe-switch plan</b>",
+      "sub": "Slow and steady wins here!",
+      "sections": [
+        {
+          "heading": "1. Build up gradually",
+          "color": "yellow",
+          "lines": [
+            "① Wear them for <em>walking and daily life</em> first.",
+            "② Swap in a <em>short part</em> of an easy run.",
+            "③ Calf raises: <em>10 reps × 2 sets</em>, daily.",
+            "④ Feeling fine next day? Add <em>a little more</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "The top of your foot gets <em>sharp, spot pain</em>,",
+            "or Achilles pain <em>lingers</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tender spot on top of foot",
+        "Stiff heel every morning",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto switched to thin minimalist shoes and ran 10 km on day one. By the next day, his calves and feet were complaining.\n\nThinner shoes ask more of your calves, Achilles and feet. The shoes change in a day, but your body usually needs a lot longer to adapt.\n\nHybi's plan: wear them for walking first, swap in a short part of an easy run, do calf raises (10 reps × 2 sets) daily, and add a little more only if you feel fine the next day.\n\nA tender spot on top of the foot, a stiff heel every morning, or no change after two weeks is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#running",
+    "#minimalistshoes",
+    "#barefootrunning",
+    "#calfpain",
+    "#runners",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneyrunners",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why switching to minimalist shoes should be gradual, how the workload shifts, a step-by-step switch plan and signs worth getting checked.",
+  "story": {
+    "headline": "New minimalist shoes? Go slowly",
+    "body": "Walk in them first,<br>then short runs.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-12",
+  "created": "2027-03-12-4",
+  "status": "approved",
+  "review_warnings": []
+}

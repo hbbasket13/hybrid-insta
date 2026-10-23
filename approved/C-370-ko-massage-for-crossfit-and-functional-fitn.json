@@ -1,0 +1,131 @@
+{
+  "id": "C-370-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for CrossFit and functional fitness",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "크로스핏 하는 루루,<br><em>마사지는 언제 받지?</em>",
+      "sub": "하비와 알아보는 운동과 마사지",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "일 끝나고 매일<br><em>크로스핏</em> 하는 루루.",
+      "char": "kanga_tired",
+      "bubble": "온몸이 뭉쳤는데<br>마사지만 받으면<br>되려나..?",
+      "bubble_type": "thought",
+      "note": "(다음 날 계단 내려갈 때 다리가 묵직..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>온몸이 뭉쳤구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 마사지 받으면<br>운동 계속해도 되죠?"
+      },
+      "note": "하비는 <mark>마사지를 잘 활용하는 법</mark>을 알려주었다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는<br><em>보완</em>하는 역할이에요!",
+      "fact": "마사지는 운동·재활을 <em>대신하지 않고 보완</em>해요",
+      "left": {
+        "label": "운동+마사지",
+        "char": "kanga_happy",
+        "caption": "회복을 돕는<br><b>보조 역할</b>이에요"
+      },
+      "right": {
+        "label": "마사지만 믿기",
+        "char": "kanga_tired",
+        "caption": "부하 조절 없이는<br><em>또 뭉칠 수 있어요</em>"
+      },
+      "quip": "운동량 조절이 먼저,<br>마사지는 그다음!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>마사지 활용 팁</b>",
+      "sub": "예약 전에 체크해요!",
+      "sections": [
+        {
+          "heading": "1. 마사지 잘 활용하는 법",
+          "color": "yellow",
+          "lines": [
+            "① 예약 때 <em>최근 운동 내용</em>을 알려줘요.",
+            "② 큰 시합 직전엔 <em>가볍게</em> 받아요.",
+            "③ 깊은 마사지는 <em>쉬는 날</em>로 잡아요.",
+            "④ 다음 날은 가벼운 움직임으로 풀어줘요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "운동 중 <em>뚝 소리와 함께</em> 아프거나,",
+            "저림·붓기가 있다면 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "갑자기 찌릿한 통증",
+        "팔다리가 저리다",
+        "2주 넘게 그대로다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "일 끝나고 매일 크로스핏을 하는 루루. 온몸이 뭉쳐서 마사지만 받으면 될지 궁금해요.\n\n리메디얼 마사지는 근육이 한결 편안하게 느껴지도록 도울 수 있지만, 운동량 조절과 재활을 대신하지는 않아요. 보완하는 역할이에요.\n\n하비 팁: 예약 때 최근 운동 내용 알려주기, 큰 시합 직전엔 가볍게, 깊은 마사지는 쉬는 날로!\n\n갑자기 찌릿한 통증, 저림, 2주 넘게 그대로인 통증은 평가가 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약 🏋️\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#크로스핏",
+    "#리메디얼마사지",
+    "#스포츠마사지",
+    "#시드니마사지",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#운동회복",
+    "#remedialmassage",
+    "#crossfit",
+    "#sydney",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 크로스핏과 리메디얼 마사지, 마사지가 운동을 보완하는 역할, 마사지 활용 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "크로스핏 후 마사지, 언제?",
+    "body": "깊은 마사지는 쉬는 날,<br>시합 직전엔 가볍게.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-10",
+  "created": "2027-03-10-1",
+  "status": "approved",
+  "review_warnings": []
+}

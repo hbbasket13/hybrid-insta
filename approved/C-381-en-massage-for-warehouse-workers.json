@@ -1,0 +1,131 @@
+{
+  "id": "C-381-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for warehouse workers",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's back feels<br><em>heavy after a shift</em>",
+      "sub": "A warehouse workday story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Lift, turn, stack —<br><em>boxes all day</em> long.",
+      "char": "kanga_tired",
+      "bubble": "Why does my back<br>feel so heavy<br>by knock-off..?",
+      "bubble_type": "thought",
+      "note": "(and he still hits the gym on weekends..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling heavy?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. will a massage<br>be enough?"
+      },
+      "note": "Hybi decided to explain <mark>how you lift</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Keep boxes <em>close</em>,<br>turn with your <em>feet</em>",
+      "fact": "The further a box is from you, the <em>more your back works</em>",
+      "left": {
+        "label": "Close lift",
+        "char": "kanga_happy",
+        "caption": "Bend hips and knees,<br>hold it <b>close</b>"
+      },
+      "right": {
+        "label": "Reach and twist",
+        "char": "kanga_tired",
+        "caption": "Arms out and twisting<br>can <em>add more load</em>"
+      },
+      "quip": "Massage helps — so does<br>how you lift!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shift reset</b>",
+      "sub": "Try it on your break!",
+      "sections": [
+        {
+          "heading": "1. Standing back extension",
+          "color": "yellow",
+          "lines": [
+            "① Feet hip-width, hands on your lower back.",
+            "② Push hips forward, lean <em>gently back</em>.",
+            "③ Hold <em>2 sec × 5 reps</em>, every break.",
+            "④ Lift close to your body, turn <em>with your feet</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain or tingling spreads <em>down a leg</em>,",
+            "or it feels <em>weak</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling down the leg",
+        "Leg feels weak",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lift, turn, stack, repeat. After a full shift of boxes, Lulu's lower back feels heavy by knock-off.\n\nThe further a box is from your body, the more your back works. Bend at the hips and knees, hold the load close, and turn with your feet rather than twisting. Remedial massage can help tight muscles feel easier, but it complements strength work and good lifting habits rather than replacing them.\n\nHybi's 1-minute reset: standing back extension, hold 2 seconds, 5 reps, every break.\n\nTingling or weakness down a leg, or no change after two weeks, is worth an assessment. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#warehouse",
+    "#warehouselife",
+    "#backpain",
+    "#lowbackpain",
+    "#manualhandling",
+    "#tradie",
+    "#sydneymassage",
+    "#chatswoodmassage",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#massagetherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why warehouse work can leave the back feeling heavy, how to lift close and turn with your feet, a 1-minute standing back extension and signs worth getting checked.",
+  "story": {
+    "headline": "Back heavy after a shift?",
+    "body": "Lift close,<br>turn with your feet.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-13",
+  "created": "2027-03-13-6",
+  "status": "approved",
+  "review_warnings": []
+}

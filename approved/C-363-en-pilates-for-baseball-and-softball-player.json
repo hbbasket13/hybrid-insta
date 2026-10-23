@@ -1,0 +1,131 @@
+{
+  "id": "C-363-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for baseball and softball players",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's shoulder feels<br>heavy <em>after game day</em>",
+      "sub": "A Pilates story for ball players, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every weekend,<br><em>softball</em> with the team.",
+      "char": "kanga_tired",
+      "bubble": "Why does my shoulder<br>feel so heavy the day<br>after a game..?",
+      "bubble_type": "thought",
+      "note": "(lots of hard throws, mostly with the arm..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shoulder feeling heavy?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. should I just<br>train my shoulder?"
+      },
+      "note": "Hybi explained <mark>where throwing power comes from</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Throwing is a<br><em>whole-body</em> move!",
+      "fact": "A good throw starts in the <em>legs and trunk</em>, not just the arm",
+      "left": {
+        "label": "Whole body",
+        "char": "kanga_happy",
+        "caption": "Legs and trunk help,<br>shoulder <b>shares the work</b>"
+      },
+      "right": {
+        "label": "All arm",
+        "char": "kanga_tired",
+        "caption": "The arm alone means<br>the shoulder <em>tires fast</em>"
+      },
+      "quip": "A stronger trunk can help<br>the shoulder cope!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute trunk routine</b>",
+      "sub": "Try it on non-game days!",
+      "sections": [
+        {
+          "heading": "1. Side plank on knees",
+          "color": "yellow",
+          "lines": [
+            "① On your side, knees bent, elbow under shoulder.",
+            "② Lift your hips into a <em>straight line</em>.",
+            "③ Hold <em>15–20 sec</em>, 3 times each side.",
+            "④ <em>Once a day</em> on non-game days."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Your shoulder <em>hurts when throwing</em>, or your",
+            "arm <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Shoulder still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain when you throw",
+        "Arm feels weak or dead",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu plays softball every weekend, and the day after a game her throwing shoulder feels heavy.\n\nA good throw usually starts in the legs and trunk, not just the arm. When the arm does most of the work, the shoulder can tire quickly. Clinical Pilates can help build trunk strength and control so the whole body shares the load.\n\nHybi's 1-minute routine: side plank on your knees, hold 15-20 seconds, 3 times each side, on non-game days.\n\nPain when throwing, a weak or dead arm, or no change after two weeks is worth an assessment. Chat to our team at Hybrid Physio. Book online via the link in bio ⚾\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#softball",
+    "#baseball",
+    "#shoulderpain",
+    "#throwing",
+    "#sydneycbd",
+    "#sydneypilates",
+    "#sydneyphysio",
+    "#physiotherapy",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why the throwing shoulder can feel heavy after a game, a whole-body throwing comparison, a 1-minute side plank routine and signs worth getting checked.",
+  "story": {
+    "headline": "Shoulder heavy after game day?",
+    "body": "Side plank on knees:<br>15–20 sec, 3 each side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-06",
+  "created": "2027-03-06-6",
+  "status": "approved",
+  "review_warnings": []
+}
