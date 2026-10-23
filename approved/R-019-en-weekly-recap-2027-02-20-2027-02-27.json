@@ -1,0 +1,135 @@
+{
+  "id": "R-019-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-02-20–2027-02-27",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Feb 20–27</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "cat_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "All in<br>one place!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Legs & stairs",
+      "sub": "Small and steady wins",
+      "sections": [
+        {
+          "heading": "Calf cramps at night",
+          "color": "yellow",
+          "lines": [
+            "Wall calf stretch, <em>30 sec × 2–3</em>, both sides.",
+            "Gentle walking during the day can help too."
+          ]
+        },
+        {
+          "heading": "Stairs as a leg workout",
+          "color": "yellow",
+          "lines": [
+            "Hold the rail, start with <em>1–2 flights</em>.",
+            "When it feels easy, add one flight a week."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Driving & cycling",
+      "sections": [
+        {
+          "heading": "Car seat set-up in three steps",
+          "color": "yellow",
+          "lines": [
+            "Pedals down, <em>knees slightly bent</em>.",
+            "Long drive? <em>Break every 2 hours</em>."
+          ]
+        },
+        {
+          "heading": "Numb fingers on long rides",
+          "color": "yellow",
+          "lines": [
+            "Change hand position <em>every 10–15 min</em>.",
+            "Wrists fairly straight, elbows soft."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Study & Pilates",
+      "sections": [
+        {
+          "heading": "Exam-season shoulder reset",
+          "color": "yellow",
+          "lines": [
+            "Stand up <em>every 30–45 minutes</em>.",
+            "10 big shoulder rolls, chin tuck 5 sec × 5."
+          ]
+        },
+        {
+          "heading": "Pilates for musicians",
+          "color": "yellow",
+          "lines": [
+            "Dead bug: lower back gently on the floor.",
+            "Reach opposite arm and leg, <em>8 each side</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Calf swollen or warm",
+        "Numb or tingling fingers",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Feb 20–27 is here.\n\nNight-time calf cramps? A wall calf stretch, 30 seconds two or three times on each side, can help. Taking the stairs is a free leg workout: hold the rail and start with one or two flights. In the car, set the seat so your knees stay slightly bent with the pedals down. And if your fingers go numb on long rides, try changing hand position every 10–15 minutes.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🐱\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#physio",
+    "#pilates",
+    "#calfcramps",
+    "#cycling",
+    "#posture",
+    "#exercisetips"
+  ],
+  "alt_text": "Hybi and Momo the cat recap this week's tips on calf cramps, stairs, car seat set-up, numb fingers when cycling, exam-season shoulders and Pilates, plus signs to get checked, across six comic slides.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Calves, stairs, driving and cycling,<br>all in one recap!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-02-28",
+  "created": "2027-02-28-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,136 @@
+{
+  "id": "R-020-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-03-01–2027-03-03",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>3/1–3/3</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "turtle_happy2"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "한 번에<br>정리해요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "출퇴근·이동 편",
+      "sub": "작게, 꾸준히 해봐요",
+      "sections": [
+        {
+          "heading": "자전거 안장 높이 맞추기",
+          "color": "yellow",
+          "lines": [
+            "페달 맨 아래에 <em>뒤꿈치</em> 올리기",
+            "다리가 <em>딱 펴지는</em> 높이가 기준"
+          ]
+        },
+        {
+          "heading": "기차·비행기 노트북 작업",
+          "color": "yellow",
+          "lines": [
+            "노트북은 가방이나 베개 위에",
+            "<em>20분마다</em> 위 보고 턱 당기기 5번"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "직장·발 편",
+      "sections": [
+        {
+          "heading": "30분 규칙: 움직임 휴식",
+          "color": "yellow",
+          "lines": [
+            "<em>30분 알림</em> 맞추기",
+            "일어나서 어깨 뒤로 5번 돌려요"
+          ]
+        },
+        {
+          "heading": "발볼 밑 통증",
+          "color": "yellow",
+          "lines": [
+            "밑창이 <em>단단한 신발</em> 고르기",
+            "발가락으로 바닥 누르기 5초 × 10"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "헬스·승마 편",
+      "sections": [
+        {
+          "heading": "헬스장 안쪽 허벅지 부상",
+          "color": "yellow",
+          "lines": [
+            "누워서 무릎 사이 공 <em>살짝</em> 조이기",
+            "5~10초 × 5~10번, 하루 2번"
+          ]
+        },
+        {
+          "heading": "승마인을 위한 필라테스",
+          "color": "yellow",
+          "lines": [
+            "버드독: 골반 수평, <em>3초</em> 버티기",
+            "양쪽 8번, 일주일에 3번"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호는 확인받기",
+      "items": [
+        "라이딩 후 무릎 붓기",
+        "팔·손 저림",
+        "2주 지나도 그대로"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "3월 첫 주(3/1–3/3) 하비의 주간 정리예요.\n\n자전거 출퇴근을 한다면 페달 맨 아래에 뒤꿈치를 올렸을 때 다리가 딱 펴지는 높이로 안장을 맞춰보세요. 기차에서 노트북을 쓸 땐 가방이나 베개 위에 올리고 20분마다 위를 보며 턱 당기기 5번. 회사에선 30분 알림을 맞추고 일어나 어깨를 돌려요. 발볼이 아프면 밑창이 단단한 신발이 도움이 될 수 있어요.\n\n자세한 만화는 이번 주 게시물에서 다시 볼 수 있어요. 프로필 링크에서 온라인 예약 🐢\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#거북목",
+    "#자전거출퇴근",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 이번 주 자전거 안장 높이, 이동 중 노트북 자세, 30분 움직임 휴식, 발볼 통증, 안쪽 허벅지, 승마 필라테스 팁과 확인이 필요한 신호를 정리한 6장짜리 만화 카드뉴스.",
+  "story": {
+    "headline": "이번 주 핵심만 모았어요",
+    "body": "자전거·노트북·발·허벅지 팁,<br>한 번에 다시 보기!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-03-07",
+  "created": "2027-03-07-1",
+  "status": "approved",
+  "review_warnings": []
+}

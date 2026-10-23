@@ -1,0 +1,135 @@
+{
+  "id": "R-020-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-03-01–2027-03-03",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Mar 1–3</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "turtle_happy2"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "All in<br>one place!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Commuting & travel",
+      "sub": "Small and steady wins",
+      "sections": [
+        {
+          "heading": "Setting your bike seat height",
+          "color": "yellow",
+          "lines": [
+            "Heel on the pedal at its lowest point:",
+            "the seat is right when your <em>leg is just straight</em>."
+          ]
+        },
+        {
+          "heading": "Laptop on the train or plane",
+          "color": "yellow",
+          "lines": [
+            "Rest the laptop on your bag or a pillow.",
+            "<em>Every 20 min</em>, look up and do 5 chin tucks."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Work & feet",
+      "sections": [
+        {
+          "heading": "The 30-minute rule",
+          "color": "yellow",
+          "lines": [
+            "Set a <em>30-minute reminder</em>.",
+            "Stand up and roll your shoulders back 5 times."
+          ]
+        },
+        {
+          "heading": "Pain under the ball of the foot",
+          "color": "yellow",
+          "lines": [
+            "Choose shoes with a <em>firmer sole</em>.",
+            "Press your toes into the floor, 5 sec × 10."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Gym & riding",
+      "sections": [
+        {
+          "heading": "Inner thigh strain at the gym",
+          "color": "yellow",
+          "lines": [
+            "Ball between knees, <em>squeeze gently</em>.",
+            "Hold 5–10 sec × 5–10 reps, twice a day."
+          ]
+        },
+        {
+          "heading": "Pilates for horse riders",
+          "color": "yellow",
+          "lines": [
+            "Bird dog: pelvis level, <em>hold 3 sec</em>.",
+            "8 each side, 3 times a week."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee swells after rides",
+        "Arm or hand tingling",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Hybi's Weekly Recap for Mar 1–3 is here.\n\nCycling to work? Put your heel on the pedal at its lowest point: your leg should be just straight. Working on a laptop on the train? Rest it on your bag or a pillow, and every 20 minutes look up and do five chin tucks. At the desk, a 30-minute reminder to stand and roll your shoulders can help. And for pain under the ball of the foot, shoes with a firmer sole often make walking easier.\n\nScroll back through this week's posts for the full comics. Book online via the link in bio 🐢\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#physio",
+    "#pilates",
+    "#bikecommute",
+    "#deskposture",
+    "#footpain",
+    "#exercisetips"
+  ],
+  "alt_text": "Hybi and Mr Turtle recap this week's tips on bike seat height, laptop posture on the go, 30-minute movement breaks, ball-of-foot pain, inner thigh strain and Pilates for riders, plus signs to get checked, across six comic slides.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "Bikes, laptops, feet and hips,<br>all in one recap!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-03-07",
+  "created": "2027-03-07-2",
+  "status": "approved",
+  "review_warnings": []
+}
