@@ -1,0 +1,131 @@
+{
+  "id": "C-285-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for triathletes",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "토토의 <em>수영·자전거·달리기</em><br>마사지는 언제?",
+      "sub": "하비와 알아보는 철인3종 회복 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "훈련에 맞춰<br>계획해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "철인3종 시즌,<br><em>세 종목</em>을 다 하는 토토.",
+      "char": "rabbit_tired",
+      "bubble": "어깨도 종아리도<br>다 뻐근해..<br>어디부터 풀지?",
+      "bubble_type": "thought",
+      "note": "(심지어 대회 전날 첫 딥 마사지를 예약..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>훈련이 많이 힘들구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 마사지 세게 받으면<br>기록도 좋아지죠?"
+      },
+      "note": "하비는 <mark>타이밍과 부위</mark>가 중요하다고 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "종목마다 <em>뭉치는 곳</em>이 달라요!",
+      "fact": "수영은 <em>어깨</em>, 자전거는 <em>허벅지</em>, 달리기는 <em>종아리</em>",
+      "left": {
+        "label": "회복 주간",
+        "char": "rabbit_happy",
+        "caption": "단단한 마사지는<br><b>회복 주간 초반</b>에"
+      },
+      "right": {
+        "label": "대회 전날",
+        "char": "rabbit_tired",
+        "caption": "처음 받는 딥 마사지는<br><em>피하는 게 좋아요</em>"
+      },
+      "quip": "이번 주 훈련을<br>치료사에게 알려줘요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 회복 플랜</b>",
+      "sub": "이번 주 훈련에 맞춰봐요!",
+      "sections": [
+        {
+          "heading": "1. 마사지 계획 세우기",
+          "color": "yellow",
+          "lines": [
+            "① 이번 주 <em>주력 종목</em>을 적어요.",
+            "② 수영 블록이면 어깨·등 위주로.",
+            "③ 러닝 블록이면 종아리·발 위주로.",
+            "④ 대회 직전엔 <em>가볍게</em> 받아요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 대신 물리치료!",
+          "color": "purple",
+          "lines": [
+            "뼈 한 곳이 <em>콕 집어 아프거나</em>,",
+            "통증이 <em>점점 심해지면</em> 물리치료 평가 먼저!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "날카롭게 콕 찌르는 통증",
+        "훈련마다 더 심해진다",
+        "자세나 폼이 바뀌었다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "수영, 자전거, 달리기까지 세 종목을 다 하는 토토. 온몸이 뻐근한데 마사지는 언제, 어디를 받아야 할까요?\n\n종목마다 부담이 가는 곳이 달라요. 수영은 어깨·등, 자전거는 허벅지·고관절·목, 달리기는 종아리·발. 단단한 마사지는 회복 주간 초반에, 대회 직전엔 가볍게 받는 게 보통 좋아요.\n\n마사지는 회복을 돕는 조연이에요. 근력 운동, 수면, 영양, 단계적인 훈련량이 주인공! 날카롭거나 점점 심해지는 통증은 물리치료 평가가 먼저예요.\n\n하이브리드 피지오 리메디얼 마사지 테라피스트가 훈련에 맞춰 도와드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#철인3종",
+    "#트라이애슬론",
+    "#리메디얼마사지",
+    "#스포츠마사지",
+    "#시드니마사지",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#triathlon",
+    "#remedialmassage",
+    "#sydneytriathlon",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 철인3종 종목별로 뭉치는 부위, 마사지 타이밍, 1분 회복 플랜, 물리치료 평가가 필요한 신호.",
+  "story": {
+    "headline": "철인3종, 마사지는 언제?",
+    "body": "이번 주 주력 종목을<br>치료사에게 알려주세요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-04",
+  "created": "2027-02-04-3",
+  "status": "approved",
+  "review_warnings": []
+}

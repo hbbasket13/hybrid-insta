@@ -1,0 +1,131 @@
+{
+  "id": "C-315-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Back pain in adult fast bowlers",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's back aches<br>after a <em>long spell</em>",
+      "sub": "A fast bowler's story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Season starts, and the<br>overs <em>jump straight up</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why does my back<br>grumble after<br>bowling..?",
+      "bubble_type": "thought",
+      "note": "(arching back the next day feels sore..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>A fast bowler?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. my back hurts<br>every season."
+      },
+      "note": "Hybi decided to talk about <mark>sudden jumps in overs</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Backs don't love<br><em>sudden jumps</em> in load",
+      "fact": "Bowling = bending + side bending + <em>twisting</em>, at speed",
+      "left": {
+        "label": "Build gradually",
+        "char": "rabbit_happy",
+        "caption": "Your back has<br><b>time to adapt</b>"
+      },
+      "right": {
+        "label": "Big jump",
+        "char": "rabbit_tired",
+        "caption": "Your back<br><em>struggles to keep up</em>"
+      },
+      "quip": "Start by counting<br>your overs!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>season back plan</b>",
+      "sub": "Start this week!",
+      "sections": [
+        {
+          "heading": "1. Track overs + build strength",
+          "color": "yellow",
+          "lines": [
+            "① <em>Log your overs</em> every week.",
+            "② Build them <em>gradually</em> from pre-season.",
+            "③ Trunk and hip strength, <em>twice a week</em>.",
+            "④ Have a coach and physio check your action."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "It hurts to <em>arch or twist</em> —",
+            "get advice before your next spell."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Back still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain when you arch back",
+        "Leg pain or numbness",
+        "Pain at night"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto's back grumbles after every long spell.\n\nFast bowling combines bending, side bending and twisting at speed, with big forces on landing. Adult quicks in weekend comps often jump straight into big overs early in the season, and backs notice.\n\nHybi's plan: log your overs and build them gradually, do two short strength sessions a week for trunk, hips and single-leg control, and have a coach and physio look at your action together.\n\nPain when arching, leg pain or numbness, or pain at night is worth an assessment. Our Chatswood and Sydney CBD physios can help plan your season. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#cricket",
+    "#fastbowling",
+    "#backpain",
+    "#sportsphysio",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#cricketseason",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining back load in fast bowling, tracking overs and strength work, and signs worth getting checked.",
+  "story": {
+    "headline": "Bowling this weekend?",
+    "body": "Count your overs<br>this week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-16",
+  "created": "2027-02-16-6",
+  "status": "approved",
+  "review_warnings": []
+}

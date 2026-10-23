@@ -1,0 +1,131 @@
+{
+  "id": "C-319-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for hairdressers and barbers",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "바버 거북씨의 어깨가<br><em>저녁마다 굳는 이유</em>",
+      "sub": "미용사·바버를 위한 하비 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 종일 <em>팔을 들고</em><br>가위질하는 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "어깨가 귀까지<br>올라간 느낌이야..",
+      "bubble_type": "thought",
+      "note": "(손목이랑 엄지까지 시큰..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>어깨가 뭉쳤구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 마사지만 받으면<br>괜찮아지려나요?"
+      },
+      "note": "하비는 먼저 <mark>의자 높이</mark>부터 보자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "의자 높이가<br><em>어깨를 바꿔요!</em>",
+      "fact": "팔을 오래 들고 있으면 <em>목·어깨·팔뚝</em>이 계속 일해요",
+      "left": {
+        "label": "가슴 높이",
+        "char": "turtle_happy",
+        "caption": "의자를 올려 맞추고<br>손님 주위를 <b>걸어요</b>"
+      },
+      "right": {
+        "label": "팔 뻗고 숙이기",
+        "char": "turtle_sad",
+        "caption": "뻗고 숙일수록<br><em>어깨가 버텨요</em>"
+      },
+      "quip": "작은 조정이<br>하루를 바꿔요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>30초 손님 사이 휴식</b>",
+      "sub": "손님 바뀔 때마다 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 30초 리셋",
+          "color": "yellow",
+          "lines": [
+            "① 팔을 <em>툭 떨구고</em> 어깨를 5번 돌려요.",
+            "② 손을 가볍게 5초 털어요.",
+            "③ 팔뚝을 <em>부드럽게</em> 늘려요, 양쪽 10초.",
+            "④ 손님 바뀔 때마다 반복!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인받기!",
+          "color": "purple",
+          "lines": [
+            "손가락이 <em>저리거나</em> 힘이 빠져",
+            "도구를 <em>떨어뜨린다면</em> 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "손가락이 저리다",
+        "손에 힘이 빠진다",
+        "바꿔도 점점 심해진다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "하루 종일 팔을 들고 가위와 드라이어를 잡는 바버 거북씨. 미용사·바버는 목·어깨·팔뚝에 부담이 쌓이기 쉬워요.\n\n손님 의자를 올리거나 내려 가슴 높이에서 작업하고, 팔을 뻗기보다 손님 주위를 걸어 다녀요. 손님 사이 30초 동안 팔 떨구기, 어깨 돌리기, 손 털기만 해도 도움이 될 수 있어요. 리메디얼 마사지는 이런 습관과 함께할 때 보통 더 잘 맞아요.\n\n손가락 저림, 손 힘 빠짐, 계속 심해지는 통증은 물리치료 평가가 먼저예요. 프로필 링크에서 온라인 예약 ✂️\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#미용사",
+    "#바버",
+    "#어깨통증",
+    "#리메디얼마사지",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#hairdresser",
+    "#barber",
+    "#chatswood",
+    "#workhealth"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 미용사·바버의 어깨가 뭉치는 이유, 의자 높이 비교, 손님 사이 30초 휴식, 확인이 필요한 신호.",
+  "story": {
+    "headline": "미용사·바버라면?",
+    "body": "의자는 가슴 높이로,<br>손님 사이 30초 리셋!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-18",
+  "created": "2027-02-18-1",
+  "status": "approved",
+  "review_warnings": []
+}

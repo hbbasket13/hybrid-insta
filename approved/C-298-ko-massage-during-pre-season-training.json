@@ -1,0 +1,131 @@
+{
+  "id": "C-298-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage during pre-season training",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "프리시즌, 루루의 다리가<br><em>납덩이 같은 이유</em>",
+      "sub": "하비와 알아보는 프리시즌 마사지",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "프리시즌 시작!<br><em>훈련량이 두 배</em>.",
+      "char": "kanga_tired",
+      "bubble": "다리가 왜 이렇게<br>무겁지..?",
+      "bubble_type": "thought",
+      "note": "(달리기·스프린트·헬스가 한꺼번에..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요.<br>다리가 무거워요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "마사지를 매일<br>받아야 할까요?"
+      },
+      "note": "하비는 <mark>회복에서 제일 큰 것</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "회복의 주인공은<br><em>훈련량 관리!</em>",
+      "fact": "잠·식사·적절한 훈련량이 <em>회복의 대부분</em>을 해요",
+      "left": {
+        "label": "계획적으로",
+        "char": "kanga_happy",
+        "caption": "훈련량을 서서히<br><b>늘려가요</b>"
+      },
+      "right": {
+        "label": "한꺼번에",
+        "char": "kanga_tired",
+        "caption": "갑자기 늘리면<br><em>다리가 무거워요</em>"
+      },
+      "quip": "마사지는 도움이 되는<br>보조 역할이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>프리시즌 마사지 팁</b>",
+      "sub": "훈련 주간에 맞춰 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 타이밍이 중요해요",
+          "color": "yellow",
+          "lines": [
+            "① 세게 받는 건 큰 훈련 <em>1~2일 전</em>에.",
+            "② 큰 훈련 전날 밤엔 피해요.",
+            "③ 힘든 훈련 블록 후엔 <em>가볍게</em>.",
+            "④ 이번 주 훈련·시합 일정을 꼭 말해요!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 말고 평가!",
+          "color": "purple",
+          "lines": [
+            "불편함이 <em>계속 돌아오거나</em> 심해지면",
+            "물리치료 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "같은 부위가 계속 아프다",
+        "훈련할수록 더 심해진다",
+        "붓거나 멍이 든다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "프리시즌이 시작되고 다리가 납덩이 같은 루루.\n\n달리기, 스프린트, 헬스가 한꺼번에 늘면 다리가 무거운 건 흔한 일이에요. 회복의 대부분은 잠, 식사, 서서히 늘리는 훈련량이 해요.\n\n리메디얼 마사지는 도움이 되는 보조 역할이에요. 세게 받는 건 큰 훈련 1~2일 전에, 힘든 블록 후엔 가볍게. 테라피스트에게 이번 주 훈련 일정을 꼭 알려 주세요.\n\n같은 부위가 계속 아프거나 훈련할수록 심해진다면 마사지보다 물리치료 평가가 먼저예요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#프리시즌",
+    "#스포츠마사지",
+    "#축구",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#preseason",
+    "#sportsmassage",
+    "#chatswood",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 프리시즌에 다리가 무거운 이유, 훈련량 관리, 마사지 타이밍, 평가가 필요한 신호.",
+  "story": {
+    "headline": "프리시즌 다리가 무겁다면?",
+    "body": "세게 받는 마사지는<br>큰 훈련 1~2일 전에!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-10",
+  "created": "2027-02-10-1",
+  "status": "approved",
+  "review_warnings": []
+}

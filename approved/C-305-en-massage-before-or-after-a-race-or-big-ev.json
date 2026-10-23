@@ -1,0 +1,131 @@
+{
+  "id": "C-305-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage before or after a race or big event",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's race day:<br>massage <em>when</em>?",
+      "sub": "A massage-timing story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Timing<br>matters!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A <em>half marathon</em><br>is coming up for Toto.",
+      "char": "rabbit_tired",
+      "bubble": "Will a deep massage<br>the day before<br>help me run..?",
+      "bubble_type": "thought",
+      "note": "(and it'd be his first deep tissue session..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Race coming up?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yes! Is a massage<br>the day before OK?"
+      },
+      "note": "Hybi's rule: <mark>nothing new in race week</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Timing</em> changes<br>everything!",
+      "fact": "Before: <em>2-4 days out</em>, lighter · After: rest a day or two",
+      "left": {
+        "label": "Early and light",
+        "char": "rabbit_happy",
+        "caption": "Lighter pressure 2-4 days<br>out, legs feel <b>fresh</b>"
+      },
+      "right": {
+        "label": "Deep, day before",
+        "char": "rabbit_tired",
+        "caption": "Can leave you sore<br>or <em>flat</em> on the day"
+      },
+      "quip": "Right after: rest, eat,<br>drink and walk it out!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute race plan</b>",
+      "sub": "Tell your therapist your race date!",
+      "sections": [
+        {
+          "heading": "1. Massage timing",
+          "color": "yellow",
+          "lines": [
+            "① Race week: <em>nothing new</em>.",
+            "② Before: <em>2-4 days out</em>, lighter pressure.",
+            "③ After: rest, rehydrate, eat, walk.",
+            "④ Gentle work a day or two later."
+          ]
+        },
+        {
+          "heading": "2. Get assessed instead if…",
+          "color": "purple",
+          "lines": [
+            "<em>Sharp pain</em>, swelling or pain on one spot",
+            "of bone, or a <em>warm, swollen calf</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it <em>assessed</em>,<br>not massaged",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See a physio or GP if you notice",
+      "items": [
+        "Sharp pain stops your run",
+        "Pain on one spot of bone",
+        "Warm, swollen calf"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Massage before a race or after it? Timing matters more than you'd think 🏃\n\nRace week isn't the time to try deep tissue work for the first time. If you like a pre-event massage, book it two to four days out with lighter pressure. Deep work too close to the start can leave you feeling flat.\n\nAfterwards, rest, rehydrate, eat and walk it out first. A gentle massage a day or two later can ease stiffness. Research suggests massage can reduce how sore you feel, but it complements sleep, food and easy movement rather than replacing them.\n\nPlan your timing with our remedial massage therapists at Hybrid Physio. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#massagetherapy",
+    "#sportsrecovery",
+    "#raceday",
+    "#marathontraining",
+    "#running",
+    "#runners",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto on timing a massage around race day, lighter versus deep pressure, a simple race plan and signs that need an assessment instead.",
+  "story": {
+    "headline": "Massage and race day",
+    "body": "Before: lighter, 2-4 days out.<br>After: rest first.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-2",
+  "status": "approved",
+  "review_warnings": []
+}

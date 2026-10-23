@@ -1,0 +1,131 @@
+{
+  "id": "C-315-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Back pain in adult fast bowlers",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "토토의 허리가<br><em>긴 스펠 후 아픈 이유</em>",
+      "sub": "하비와 알아보는 크리켓 투수 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말 크리켓 시즌 시작,<br>첫 경기부터 <em>오버 폭주</em>.",
+      "char": "rabbit_tired",
+      "bubble": "왜 볼링하고 나면<br>허리가 뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(다음 날 허리를 젖히기가 불편..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>패스트 볼러구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 시즌만 되면<br>허리가 아파요."
+      },
+      "note": "하비는 <mark>갑자기 늘어난 오버 수</mark> 이야기부터 꺼냈다."
+    },
+    {
+      "kind": "compare",
+      "title": "허리는 <em>갑자기 늘어난</em><br>부하에 약해요!",
+      "fact": "볼링 = 굽히기 + 옆으로 숙이기 + <em>비틀기</em>, 빠르게",
+      "left": {
+        "label": "조금씩 늘리기",
+        "char": "rabbit_happy",
+        "caption": "허리가 <b>적응할</b><br>시간이 있어요"
+      },
+      "right": {
+        "label": "갑자기 많이",
+        "char": "rabbit_tired",
+        "caption": "허리가<br><em>따라가기 버거워요</em>"
+      },
+      "quip": "오버 수를 세는 것부터<br>시작해봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>시즌 허리 관리</b>",
+      "sub": "이번 주부터 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 오버 수 관리 + 근력",
+          "color": "yellow",
+          "lines": [
+            "① 훈련·경기 <em>오버 수를 매주 기록</em>.",
+            "② 프리시즌부터 <em>조금씩</em> 늘려요.",
+            "③ 몸통·엉덩이 근력운동 <em>주 2회</em>.",
+            "④ 코치·물리치료사와 동작도 함께 보기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 상담받기",
+          "color": "purple",
+          "lines": [
+            "허리를 <em>젖히거나 비틀 때 아프면</em>",
+            "다음 스펠 전에 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 허리가 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있으면 확인받기",
+      "items": [
+        "젖힐 때 허리 통증",
+        "다리가 아프거나 저리다",
+        "밤에도 통증이 있다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "긴 스펠만 던지면 허리가 뻐근한 토토.\n\n패스트 볼링은 굽히기, 옆으로 숙이기, 비틀기를 빠르게 하고 착지 때 큰 힘이 실려요. 시즌 초 오버 수가 갑자기 늘면 허리가 버거울 수 있어요.\n\n하비의 팁: 오버 수를 매주 기록하고 조금씩 늘리기, 몸통·엉덩이 근력운동 주 2회, 코치와 물리치료사가 함께 동작 보기.\n\n젖힐 때 아프거나 다리가 저리거나 밤에도 아프면 평가받아요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#크리켓",
+    "#허리통증",
+    "#스포츠물리치료",
+    "#물리치료",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#cricket",
+    "#fastbowling",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 토끼 토토가 등장하는 7장짜리 만화 카드뉴스: 패스트 볼러의 허리 부하, 오버 수 관리와 근력운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "볼링 후 허리가 뻐근하다면?",
+    "body": "이번 주 오버 수부터<br>세어봐요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-16",
+  "created": "2027-02-16-3",
+  "status": "approved",
+  "review_warnings": []
+}

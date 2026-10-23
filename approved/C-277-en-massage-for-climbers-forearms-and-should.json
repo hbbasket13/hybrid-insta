@@ -1,0 +1,131 @@
+{
+  "id": "C-277-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for climbers' forearms and shoulders",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Forearms <em>pumped</em><br>after every climb?",
+      "sub": "Lulu's climbing recovery story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's look after<br>those arms!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After work, straight to<br>the <em>climbing gym</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why do my forearms<br>and shoulders feel<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(the overhang wall really took it out of her..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Been climbing again?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yep.. if I get a massage<br>can I keep climbing?"
+      },
+      "note": "Hybi explained <mark>where massage fits</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Climbing is a<br><em>grip sport</em>!",
+      "fact": "Every hold asks your <em>forearms</em> to squeeze hard",
+      "left": {
+        "label": "All together",
+        "char": "kanga_happy",
+        "caption": "Massage + rest days<br><b>+ strength work</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "kanga_tired",
+        "caption": "No rest days,<br><em>fatigue builds up</em>"
+      },
+      "quip": "Massage complements rest,<br>it doesn't replace it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute forearm care</b>",
+      "sub": "Try it on a rest day!",
+      "sections": [
+        {
+          "heading": "1. Rest-day forearm routine",
+          "color": "yellow",
+          "lines": [
+            "① Arm straight, stretch wrist <em>up and down, 15 sec</em>.",
+            "② Roll your forearm on a ball on a table, <em>1 min</em>.",
+            "③ Band shoulder-blade squeezes, <em>2 sets of 10</em>.",
+            "④ Save deeper massage for rest days."
+          ]
+        },
+        {
+          "heading": "2. See a physio if…",
+          "color": "purple",
+          "lines": [
+            "You felt a <em>pop</em> in a finger while crimping,",
+            "or elbow pain <em>keeps lingering</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Pain <em>hanging around</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain at the base of a finger",
+        "A pop while crimping",
+        "Elbow pain that lingers"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Climbing again this week? Lulu's forearms and shoulders are feeling it.\n\nClimbing asks for strong, sustained grip, and steeper walls load the shoulders and upper back too. Many climbers find remedial massage helps those areas feel less tight and heavy.\n\nMassage works alongside rest days, strength training and good technique rather than replacing them. Keep deeper work for rest days, and look after your forearms between sessions with gentle wrist stretches and a ball. A pop in a finger while crimping or a lingering sore elbow is worth a physio assessment.\n\nOur remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#climbing",
+    "#bouldering",
+    "#rockclimbing",
+    "#forearms",
+    "#chatswood",
+    "#chatswoodmassage",
+    "#sydneyclimbing",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#recovery",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo showing how climbing loads the forearms and shoulders, where massage fits, a rest-day routine and signs worth getting checked.",
+  "story": {
+    "headline": "Forearms pumped after climbing?",
+    "body": "Rest day: roll your forearms<br>on a ball for a minute.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-02",
+  "created": "2027-02-02-4",
+  "status": "approved",
+  "review_warnings": []
+}

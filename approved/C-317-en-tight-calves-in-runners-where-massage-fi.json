@@ -1,0 +1,131 @@
+{
+  "id": "C-317-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Tight calves in runners: where massage fits",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's calves feel<br>like <em>concrete</em>",
+      "sub": "Where massage fits for runners, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekend runs, and now<br><em>hill repeats</em> too.",
+      "char": "rabbit_tired",
+      "bubble": "Why are my calves<br>so tight lately..?",
+      "bubble_type": "thought",
+      "note": "(and even heavier since the new shoes..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Calves feeling tight?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. will a massage<br>sort it out?"
+      },
+      "note": "Hybi decided to show <mark>where massage fits</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Strength does the<br><em>heavy lifting</em>!",
+      "fact": "Your calves take <em>a big share of the load</em> on every stride",
+      "left": {
+        "label": "Strength first",
+        "char": "rabbit_happy",
+        "caption": "Strong calves cope<br>with training <b>more easily</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "rabbit_tired",
+        "caption": "Looser for a while,<br>then <em>tight again</em>"
+      },
+      "quip": "Massage is a helpful<br>add-on, not the main act!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute calf builder</b>",
+      "sub": "Try it on a step!",
+      "sections": [
+        {
+          "heading": "1. Single-leg calf raise",
+          "color": "yellow",
+          "lines": [
+            "① Hold a wall, stand on one leg.",
+            "② Rise up, then lower <em>slowly</em>.",
+            "③ Once knee straight, once knee bent.",
+            "④ <em>3 sets to fatigue</em>, 2–3 times a week."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Sharp pain mid-run, like a <em>kick to the calf</em>,",
+            "or <em>swelling or bruising</em> — get it checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>tight</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sudden sharp pain mid-run",
+        "Swelling or bruising",
+        "Redness and warmth"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto's calves feel like concrete after every run. Mileage jumps, hills, speed sessions or new shoes often show up in the calves first.\n\nRemedial massage can help them feel looser and less sore for a while, but strength does the heavy lifting. Try slow single-leg calf raises, knee straight and knee bent, 3 sets to fatigue, two or three times a week. Keep firmer massage a day or two away from hard sessions or races.\n\nSudden sharp pain mid-run, swelling, bruising, or a red, warm calf should be checked promptly. Our remedial massage therapists at Hybrid Physio work alongside our physios. Book online via the link in bio 🏃\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#runners",
+    "#running",
+    "#calfraises",
+    "#tightcalves",
+    "#sydneyrunners",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#strengthtraining",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining why runners' calves get tight, where massage fits, a single-leg calf raise routine and signs worth getting checked.",
+  "story": {
+    "headline": "Calves like concrete after runs?",
+    "body": "Slow single-leg calf raises,<br>3 sets, 2–3 times a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-17",
+  "created": "2027-02-17-2",
+  "status": "approved",
+  "review_warnings": []
+}

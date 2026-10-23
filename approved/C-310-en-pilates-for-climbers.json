@@ -1,0 +1,131 @@
+{
+  "id": "C-310-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for climbers",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Strong fingers,<br><em>cranky shoulders</em>?",
+      "sub": "A climbing story, with Momo and Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's train<br>off the wall too!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Bouldering every weekend,<br>but <em>hips sag</em> on overhangs.",
+      "char": "cat_tired",
+      "bubble": "Why do my feet<br>keep cutting loose..?",
+      "bubble_type": "thought",
+      "note": "(and the shoulders feel heavy the next day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Climbing a lot?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. I only really<br>train my fingers."
+      },
+      "note": "Hybi decided to explain <mark>the pull-only problem</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Climbing is<br>mostly <em>pulling</em>!",
+      "fact": "Climbers pull <em>far more</em> than they push",
+      "left": {
+        "label": "Push and pull",
+        "char": "cat_happy",
+        "caption": "Shoulders and trunk<br><b>stay balanced</b>"
+      },
+      "right": {
+        "label": "Pull only",
+        "char": "cat_tired",
+        "caption": "Shoulders work<br><em>one way all day</em>"
+      },
+      "quip": "Add some pushing work<br>off the wall!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute trunk builder</b>",
+      "sub": "Try it on a rest day!",
+      "sections": [
+        {
+          "heading": "1. Side plank",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your side, elbow under shoulder.",
+            "② Lift your hips: <em>head to feet in a line</em>.",
+            "③ Hold <em>20 sec × 3</em>, both sides.",
+            "④ Too hard? Bend your knees."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your shoulder feels <em>sharp or unstable</em> —",
+            "stop and get advice first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Shoulders still <em>cranky</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Shoulder pain when hanging",
+        "Swollen finger joints",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Strong fingers, cranky shoulders? Momo knows the feeling, especially when the hips sag on steep walls.\n\nClimbing training tends to focus on fingers and pulling, while shoulders, trunk and hips work hard on every reach without much dedicated training. Clinical Pilates can help with shoulder control overhead, trunk tension, usable hip range and some pushing to balance all that pulling.\n\nHybi's 1-minute builder: side plank, 20 seconds × 3, both sides. One or two sessions a week around climbing days is a common starting point.\n\nShoulder pain when hanging, or no change after two weeks, is worth an assessment. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#climbing",
+    "#bouldering",
+    "#climbingtraining",
+    "#shoulderhealth",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#reformerpilates",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat showing how Pilates balances out climbing's pulling, a side plank routine and signs worth getting checked.",
+  "story": {
+    "headline": "Climbers: train the push too",
+    "body": "Side plank 20 sec × 3,<br>on a rest day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-15",
+  "created": "2027-02-15-4",
+  "status": "approved",
+  "review_warnings": []
+}

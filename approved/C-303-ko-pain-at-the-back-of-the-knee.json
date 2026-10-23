@@ -1,0 +1,131 @@
+{
+  "id": "C-303-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain at the back of the knee",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코씨의 <em>무릎 뒤</em>가<br>당기는 이유",
+      "sub": "하비와 함께 알아보는 무릎 뒤 통증",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "산책을 <em>두 배로</em> 늘린<br>요즘의 코코씨.",
+      "char": "koala_tired",
+      "bubble": "무릎 뒤가 왜<br>이렇게 당기지..?",
+      "bubble_type": "thought",
+      "note": "(오래 앉았다 일어나면 더 뻐근..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>무릎이 불편해요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 아예 쉬어야<br>할까요?"
+      },
+      "note": "하비는 <mark>완전히 쉬기보다 조절</mark>을 권했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>멈추기</em>보다<br><b>줄이기</b>!",
+      "fact": "흔한 원인: 햄스트링·종아리 힘줄, <em>베이커 낭종</em>",
+      "left": {
+        "label": "양 줄이기",
+        "char": "koala_happy",
+        "caption": "짧게, 평평한 길로<br><b>계속 움직여요</b>"
+      },
+      "right": {
+        "label": "완전 휴식",
+        "char": "koala_tired",
+        "caption": "다시 움직일 때<br><em>더 뻐근할 수도</em>"
+      },
+      "quip": "패턴을 적어두면<br>원인 찾기가 쉬워요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 무릎 운동</b>",
+      "sub": "편한 범위에서 천천히!",
+      "sections": [
+        {
+          "heading": "1. 브릿지 & 뒤꿈치 들기",
+          "color": "yellow",
+          "lines": [
+            "① 누워서 무릎 세우고 엉덩이 들기.",
+            "② <em>3초 유지 × 10회</em>.",
+            "③ 벽 잡고 뒤꿈치 들기 <em>10회</em>.",
+            "④ 하루 1번, 몇 주에 걸쳐 늘려요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 확인받기!",
+          "color": "purple",
+          "lines": [
+            "<em>종아리가 붓고 뜨겁고</em> 붉다면",
+            "GP나 응급실에서 바로 진료받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "무릎이 걸려 안 펴진다",
+        "갑자기 붓는다",
+        "힘이 풀리며 꺾인다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "산책을 두 배로 늘린 코코씨, 요즘 무릎 뒤가 당겨요.\n\n무릎 뒤 통증은 햄스트링이나 종아리 힘줄, 관절과 연결된 물혹(베이커 낭종), 또는 갑자기 늘어난 활동량과 관련될 때가 많아요.\n\n완전히 쉬기보다 짧게, 평평한 길로 양을 줄이고, 브릿지와 뒤꿈치 들기로 천천히 힘을 길러요. 무엇이 통증을 부르는지 일주일 적어두면 도움이 돼요.\n\n종아리가 붓고 뜨겁고 붉다면 GP나 응급실에서 바로 확인받기! 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#무릎통증",
+    "#무릎뒤통증",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#시니어운동",
+    "#physiotherapy",
+    "#kneepain",
+    "#sydneyphysio",
+    "#chatswoodphysio"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 무릎 뒤 통증의 흔한 원인, 쉬기보다 양 줄이기, 브릿지와 뒤꿈치 들기, 바로 확인이 필요한 신호.",
+  "story": {
+    "headline": "무릎 뒤가 당긴다면?",
+    "body": "쉬기보다 줄이기,<br>브릿지 10회부터!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-11",
+  "created": "2027-02-11-3",
+  "status": "approved",
+  "review_warnings": []
+}

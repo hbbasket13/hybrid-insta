@@ -1,0 +1,131 @@
+{
+  "id": "C-276-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for hikers' legs",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Big bushwalk,<br><em>wobbly legs</em> the next day",
+      "sub": "Koko's hiking recovery story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's sort out<br>your recovery!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A coastal walk with<br><em>endless stairs</em>.",
+      "char": "koala_tired",
+      "bubble": "Why are the stairs<br>at home so hard<br>today..?",
+      "bubble_type": "thought",
+      "note": "(going down felt harder than going up..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Long walk this weekend?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. will a massage<br>sort my legs out?"
+      },
+      "note": "Hybi explained <mark>why downhill is the hard part</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's the <em>downhill</em><br>that gets you!",
+      "fact": "Going down, your quads and calves <em>brake with every step</em>",
+      "left": {
+        "label": "Prepared",
+        "char": "koala_happy",
+        "caption": "Hills and stairs<br><b>in the weeks before</b>"
+      },
+      "right": {
+        "label": "Big jump",
+        "char": "koala_tired",
+        "caption": "Much longer than usual,<br><em>sore for days</em>"
+      },
+      "quip": "Massage helps recovery,<br>training does the prep!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute recovery plan</b>",
+      "sub": "For the day of your walk and after",
+      "sections": [
+        {
+          "heading": "1. After a big walk",
+          "color": "yellow",
+          "lines": [
+            "① Drink <em>plenty of water</em> and eat a decent meal.",
+            "② On the drive home, <em>stretch your legs hourly</em>.",
+            "③ Next morning, <em>10–15 min easy walk</em>.",
+            "④ A remedial massage a day or two later can help."
+          ]
+        },
+        {
+          "heading": "2. See a GP or physio if…",
+          "color": "purple",
+          "lines": [
+            "A calf <em>swells</em>, or one spot is <em>sharply</em> sore —",
+            "get it checked rather than massaged."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still sore <em>days later</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling in a calf",
+        "Pain getting worse",
+        "Can't take weight on a leg"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Great day on the track, then the stairs at home feel impossible? That was Koko after a big coastal walk.\n\nDescending asks your quads and calves to brake with every step, so soreness often peaks a day or two later. A remedial massage can ease tightness and help you move more comfortably, though research suggests it mainly helps how sore you feel.\n\nThe bigger win is preparation: hills and stairs in the weeks before. A swollen calf or pain that keeps getting worse is worth a GP or physio check.\n\nOur remedial massage therapists at Hybrid Physio can help your legs recover. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#hiking",
+    "#bushwalking",
+    "#sydneywalks",
+    "#coastalwalk",
+    "#sydneycbd",
+    "#sydneymassage",
+    "#legrecovery",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#recovery",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why downhill walking makes legs sore, where massage helps, a recovery plan and signs worth getting checked.",
+  "story": {
+    "headline": "Sore legs after a big walk?",
+    "body": "Plenty of water, then an easy<br>walk the next morning.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-6",
+  "status": "approved",
+  "review_warnings": []
+}

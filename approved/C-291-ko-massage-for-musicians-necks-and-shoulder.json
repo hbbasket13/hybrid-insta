@@ -1,0 +1,131 @@
+{
+  "id": "C-291-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for musicians' necks and shoulders",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "기타 치는 거북씨,<br><em>목과 어깨</em>가 뻐근해요",
+      "sub": "하비와 알아보는 연주자 목·어깨 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "쉬는 시간이<br>도움이 돼요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "퇴근 후엔 밴드 합주,<br><em>3시간</em> 기타 연습.",
+      "char": "turtle_sad",
+      "bubble": "고개 숙이고 쳤더니<br>목이 뻣뻣해..",
+      "bubble_type": "thought",
+      "note": "(한쪽 어깨는 지판 쪽으로 계속 올라가 있고..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>연습이 길었구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 마사지 받으면<br>다 풀리겠죠?"
+      },
+      "note": "하비는 <mark>마사지와 움직임을 함께</mark> 하자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>한 자세</em>로 오래 연주하면?",
+      "fact": "작고 반복적인 동작을 한 자세로 <em>몇 시간씩</em> 해요",
+      "left": {
+        "label": "중간중간 쉬기",
+        "char": "turtle_happy",
+        "caption": "20~30분마다<br><b>1분 움직이기</b>"
+      },
+      "right": {
+        "label": "쉬지 않고",
+        "char": "turtle_sad",
+        "caption": "목·어깨가<br><em>먼저 뻐근해져요</em>"
+      },
+      "quip": "마사지 효과는 보통<br>짧아서 움직임이 짝꿍!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 연주 휴식</b>",
+      "sub": "합주 중간에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 20~30분마다 1분",
+          "color": "yellow",
+          "lines": [
+            "① 악기를 <em>내려놓아요</em>.",
+            "② 어깨를 뒤로 천천히 <em>5번</em> 돌려요.",
+            "③ 고개를 좌우로 천천히 돌려요.",
+            "④ 손을 털고, 다시 연주 시작!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "손이 <em>저리거나 힘이 빠지거나</em>,",
+            "<em>섬세한 조절</em>이 어려우면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "손이 저리거나 힘이 빠진다",
+        "연주 후 통증이 오래 간다",
+        "손가락 조절이 둔해졌다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "퇴근 후 밴드 합주로 3시간 기타를 치는 거북씨. 고개를 숙이고 한쪽 어깨를 올린 채 연주하다 보니 목과 어깨가 뻐근해요.\n\n악기 연주는 작고 반복적인 동작을 한 자세로 몇 시간씩 하는 일이에요. 리메디얼 마사지는 목·어깨·등의 묵직한 느낌을 풀어주는 데 도움이 될 수 있지만, 효과는 보통 짧아요.\n\n그래서 20~30분마다 1분 쉬기, 그리고 등·어깨 근력 운동을 함께 해보세요. 손 저림, 힘 빠짐, 섬세한 조절이 어려워지면 물리치료나 GP 평가가 먼저예요.\n\n프로필 링크에서 온라인 예약 🎸\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#연주자",
+    "#기타",
+    "#목어깨통증",
+    "#리메디얼마사지",
+    "#시드니마사지",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#musicians",
+    "#remedialmassage",
+    "#neckandshoulders",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 연주자의 목·어깨가 뻐근해지는 이유, 중간 휴식의 효과, 1분 연주 휴식, 확인이 필요한 신호.",
+  "story": {
+    "headline": "합주 후 목이 뻣뻣하다면?",
+    "body": "20~30분마다 악기 내려놓고<br>어깨 돌리기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-06",
+  "created": "2027-02-06-3",
+  "status": "approved",
+  "review_warnings": []
+}

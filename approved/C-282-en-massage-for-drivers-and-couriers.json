@@ -1,0 +1,131 @@
+{
+  "id": "C-282-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for drivers and couriers",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hours driving,<br>then <em>lifting parcels</em>",
+      "sub": "Mr Turtle's courier recovery story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekend <em>courier shifts</em>,<br>on top of the day job.",
+      "char": "turtle_sad",
+      "bubble": "Why are my back<br>and shoulders<br>so stiff..?",
+      "bubble_type": "thought",
+      "note": "(hours at the wheel, then straight into the boxes..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Long day on the road?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. will a massage<br>loosen it all up?"
+      },
+      "note": "Hybi explained the <mark>two very different loads</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Sit still, then<br><em>lift in a hurry</em>!",
+      "fact": "Long sitting mixed with <em>sudden lifting and twisting</em>",
+      "left": {
+        "label": "Steps first",
+        "char": "turtle_happy",
+        "caption": "A few steps, then lift<br><b>with parcels close</b>"
+      },
+      "right": {
+        "label": "Straight out",
+        "char": "turtle_sad",
+        "caption": "Stiff from sitting,<br><em>twisting to lift</em>"
+      },
+      "quip": "Massage can help,<br>habits do the rest!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute road habits</b>",
+      "sub": "Try them at every stop!",
+      "sections": [
+        {
+          "heading": "1. At each stop",
+          "color": "yellow",
+          "lines": [
+            "① Take <em>a few steps</em> before you lift.",
+            "② While parked, <em>10 shoulder rolls</em>.",
+            "③ Keep parcels <em>close to your body</em>.",
+            "④ <em>Turn your feet</em> instead of twisting."
+          ]
+        },
+        {
+          "heading": "2. Get checked, not just massaged, if…",
+          "color": "purple",
+          "lines": [
+            "You notice <em>numbness or pins and needles</em>,",
+            "or pain <em>spreads down a leg or arm</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff and sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numbness or tingling",
+        "Pain spreading down a limb",
+        "Back pain after a lift"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Sitting for hours, then jumping out to lift and carry? Mr Turtle's new weekend courier shifts have his body feeling both.\n\nDriving and delivering mix long stretches sitting still with sudden lifting, twisting and stairs. Tight hips, a stiff lower back and a sore neck and shoulders are common by the end of the week.\n\nRemedial massage can ease that tension, though the effects are usually short-term. It works well alongside small habits: a few steps before each lift, parcels held close, and turning your feet instead of twisting. Numbness or pain spreading down a limb is worth a physio or GP assessment.\n\nOur remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#courier",
+    "#delivery",
+    "#truckdriver",
+    "#lowerbackpain",
+    "#chatswood",
+    "#chatswoodmassage",
+    "#sydneymassage",
+    "#workhealth",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining how driving and lifting load the body, where massage fits, simple road habits and signs worth getting checked.",
+  "story": {
+    "headline": "Driving and lifting all day?",
+    "body": "A few steps before each lift,<br>turn your feet, not your back.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-6",
+  "status": "approved",
+  "review_warnings": []
+}

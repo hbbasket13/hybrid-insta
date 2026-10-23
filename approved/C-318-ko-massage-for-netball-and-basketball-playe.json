@@ -1,0 +1,131 @@
+{
+  "id": "C-318-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for netball and basketball players",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코트만 다녀오면<br>루루의 <em>다리가 무거워</em>",
+      "sub": "농구·넷볼 시즌, 마사지는 언제?",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "프리시즌 시작,<br>주 3번 <em>코트 훈련</em>.",
+      "char": "kanga_tired",
+      "bubble": "점프만 하면<br>종아리가 묵직해..",
+      "bubble_type": "thought",
+      "note": "(첫 몇 주는 허벅지까지 뻐근..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>다리가 무겁구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 경기 직전에<br>세게 풀면 될까요?"
+      },
+      "note": "하비는 <mark>마사지 타이밍</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는<br><em>타이밍</em>이 중요해요!",
+      "fact": "점프·착지·급정지는 <em>종아리·발·고관절</em>에 큰 부담",
+      "left": {
+        "label": "경기 이틀 전",
+        "char": "kanga_happy",
+        "caption": "가볍게 풀어주고<br>강한 건 <b>경기 후에</b>"
+      },
+      "right": {
+        "label": "경기 직전",
+        "char": "kanga_tired",
+        "caption": "강하게 풀면 근육이<br><em>처질 수 있어요</em>"
+      },
+      "quip": "세기와 날짜를<br>맞춰 봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>코트 다리 관리</b>",
+      "sub": "시즌 내내 이렇게 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 일주일 계획 세우기",
+          "color": "yellow",
+          "lines": [
+            "① 경기 1~2일 전: <em>가벼운</em> 마사지.",
+            "② 경기 다음 날·가벼운 날: 강한 마사지.",
+            "③ 착지 연습 + 종아리·고관절 근력 주 2회.",
+            "④ 훈련량은 <em>조금씩</em> 늘려요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 말고 확인!",
+          "color": "purple",
+          "lines": [
+            "발목을 <em>접질렀거나</em> 무릎이 <em>빠질 듯</em>하면",
+            "마사지보다 평가가 먼저예요."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "발목을 접질렀다",
+        "무릎이 빠질 듯하다",
+        "붓기가 가라앉지 않는다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "프리시즌 코트 훈련이 시작되고 다리가 무거운 루루. 농구·넷볼은 점프, 착지, 전력 질주, 급정지가 많아서 첫 몇 주는 종아리·허벅지가 뻐근하기 쉬워요.\n\n리메디얼 마사지는 묵직한 느낌을 덜고 움직임을 편하게 도와줄 수 있어요. 경기 1~2일 전엔 가볍게, 강한 마사지는 경기 후나 가벼운 훈련 날에. 착지 연습과 근력, 훈련량 조절을 대신하진 않아요.\n\n발목을 접질렀거나 무릎이 빠질 듯하면 평가가 먼저예요. 하이브리드 피지오에서 마사지와 물리치료를 함께 연결해요. 프로필 링크에서 온라인 예약 🏀\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#농구",
+    "#넷볼",
+    "#리메디얼마사지",
+    "#스포츠마사지",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#netball",
+    "#basketball",
+    "#chatswood",
+    "#sydneysport"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 코트 스포츠 후 다리가 무거운 이유, 경기 전후 마사지 타이밍, 일주일 관리 계획, 확인이 필요한 신호.",
+  "story": {
+    "headline": "코트 훈련 후 다리가 무겁다면?",
+    "body": "경기 1~2일 전엔 가볍게,<br>강한 마사지는 경기 후에!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-17",
+  "created": "2027-02-17-3",
+  "status": "approved",
+  "review_warnings": []
+}

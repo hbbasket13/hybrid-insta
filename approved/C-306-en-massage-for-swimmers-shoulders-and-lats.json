@@ -1,0 +1,131 @@
+{
+  "id": "C-306-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for swimmers' shoulders and lats",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Momo's swim shoulders<br>and <em>tight lats</em>",
+      "sub": "A swimmer's shoulder story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we loosen<br>things up?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Thousands</em> of strokes<br>every week.",
+      "char": "cat_tired",
+      "bubble": "Why do my shoulders<br>and lats feel<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(and she loves a good stretch, too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big swim week?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. if I get massages,<br>can I skip strength work?"
+      },
+      "note": "Hybi said <mark>massage is a complement</mark>, not a swap."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage <em>complements</em>,<br>it doesn't replace!",
+      "fact": "Every stroke pulls through the <em>lats, chest and shoulder</em>",
+      "left": {
+        "label": "Both together",
+        "char": "cat_happy",
+        "caption": "Massage + strength work,<br>shoulders feel <b>looser</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "cat_tired",
+        "caption": "No strength work,<br>tight <em>again soon</em>"
+      },
+      "quip": "Timing beats<br>heavy pressure!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shoulder care</b>",
+      "sub": "Right after your swim!",
+      "sections": [
+        {
+          "heading": "1. Keep it loose between visits",
+          "color": "yellow",
+          "lines": [
+            "① Foam roll your lats, <em>1 min each side</em>.",
+            "② Doorway chest opener, <em>20 sec × 3</em>.",
+            "③ Keep up any band work you've been given.",
+            "④ Lighter before hard sets, deeper after."
+          ]
+        },
+        {
+          "heading": "2. See a physio first if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>catches mid-stroke</em>, or your",
+            "shoulder <em>wakes you at night</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When it's more than<br><em>tightness</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain catches mid-stroke",
+        "Clicking with pain",
+        "Night waking from shoulder"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "All those laps add up, especially through your lats and shoulders 🏊\n\nFreestyle loads the lats, chest and back of the shoulder thousands of times a week. Many swimmers find remedial massage helps those areas feel looser between sessions.\n\nKeep expectations realistic: massage complements strength work and good technique rather than replacing them. Go lighter before a hard set, deeper after a big week. Between visits, foam roll your lats for a minute each side and open your chest in a doorway.\n\nPain that catches mid-stroke or wakes you at night is worth a physio check first. Our remedial massage therapists at Hybrid Physio work alongside our physios. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#sportsmassage",
+    "#swimming",
+    "#swimmer",
+    "#swimmersshoulder",
+    "#mastersswimming",
+    "#recovery",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo on remedial massage for swimmers' shoulders and lats, why it complements strength work, self-care between visits and when to see a physio.",
+  "story": {
+    "headline": "Big swim week?",
+    "body": "Foam roll your lats,<br>1 minute each side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-6",
+  "status": "approved",
+  "review_warnings": []
+}

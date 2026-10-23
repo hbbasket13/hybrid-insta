@@ -1,0 +1,131 @@
+{
+  "id": "C-320-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for golfers' backs and hips",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "18홀 다음 날<br>코코의 <em>허리가 뻐근해</em>",
+      "sub": "골퍼를 위한 마사지 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말마다 <em>골프 18홀</em>,<br>언덕도 걷고 공도 줍고.",
+      "char": "koala_tired",
+      "bubble": "다음 날 아침엔<br>허리가 뻣뻣하네..",
+      "bubble_type": "thought",
+      "note": "(몸을 돌릴 때 엉덩이까지 묵직..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>허리가 뻐근하구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 마사지 받으면<br>스윙이 편해질까요?"
+      },
+      "note": "하비는 먼저 <mark>워밍업</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "첫 티샷 전<br><em>5분</em>이 달라요!",
+      "fact": "스윙은 <em>허리·고관절·등</em>을 반복해서 크게 돌려요",
+      "left": {
+        "label": "워밍업",
+        "char": "koala_happy",
+        "caption": "고관절·몸통을 풀고<br><b>하프 스윙</b>부터"
+      },
+      "right": {
+        "label": "바로 드라이버",
+        "char": "koala_tired",
+        "caption": "덜 풀린 몸으로<br><em>세게 돌려요</em>"
+      },
+      "quip": "마사지는 근력·가동성의<br>보조예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>5분 티샷 워밍업</b>",
+      "sub": "첫 티 앞에서 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 5분 워밍업",
+          "color": "yellow",
+          "lines": [
+            "① 다리 앞뒤로 흔들기, 양쪽 <em>10회</em>.",
+            "② 몸통 천천히 돌리기 <em>10회</em>.",
+            "③ 숏아이언으로 하프 스윙 <em>5~6번</em>.",
+            "④ 그다음에 드라이버!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 확인받기!",
+          "color": "purple",
+          "lines": [
+            "허리 통증이 <em>다리로 뻗치거나</em>",
+            "<em>저림</em>이 있다면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>뻐근하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "통증이 다리로 뻗친다",
+        "다리가 저리다",
+        "팔꿈치 안쪽 통증 반복"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "라운드는 즐거웠는데 다음 날 아침 허리가 뻣뻣한 코코. 골프는 허리·고관절·등을 반복해서 크게 돌리고, 걷고 숙이는 일도 많아요.\n\n리메디얼 마사지는 엉덩이·고관절·허리를 가볍게 느끼게 하고 회전을 편하게 도와줄 수 있어요. 깊은 마사지는 라운드 며칠 전이나 다음 날, 전날엔 가볍게. 첫 티샷 전 5분 워밍업도 잊지 마세요.\n\n통증이 다리로 뻗치거나 저림이 있다면 물리치료 평가가 먼저예요. 하이브리드 피지오에서 함께 연결해요. 프로필 링크에서 온라인 예약 ⛳\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#골프",
+    "#골퍼",
+    "#허리통증",
+    "#리메디얼마사지",
+    "#시드니cbd",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#golf",
+    "#golfer",
+    "#sydneycbd",
+    "#golffitness"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 골프 후 허리·고관절이 뻐근한 이유, 워밍업 비교, 5분 티샷 워밍업, 확인이 필요한 신호.",
+  "story": {
+    "headline": "골프 다음 날 허리가 뻣뻣?",
+    "body": "첫 티 전 5분: 다리 흔들기,<br>몸통 돌리기, 하프 스윙!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-18",
+  "created": "2027-02-18-5",
+  "status": "approved",
+  "review_warnings": []
+}

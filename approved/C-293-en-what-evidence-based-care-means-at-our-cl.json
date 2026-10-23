@@ -1,0 +1,131 @@
+{
+  "id": "C-293-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What evidence-based care means at our clinic",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "What does <em>evidence-based</em><br>actually mean?",
+      "sub": "Hybi explains how care gets planned",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "So many treatments<br><em>online</em>. So confusing.",
+      "char": "turtle_sad",
+      "bubble": "Which one am I<br>meant to believe..?",
+      "bubble_type": "thought",
+      "note": "(every video says something different..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Something on your mind?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "What does evidence-<br>based actually mean?"
+      },
+      "note": "Hybi explained the <mark>three parts</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Research alone<br><em>isn't enough</em>!",
+      "fact": "Research + clinical experience + <em>your goals</em>, together",
+      "left": {
+        "label": "All three",
+        "char": "turtle_happy",
+        "caption": "A plan that fits<br>your <b>life and goals</b>"
+      },
+      "right": {
+        "label": "Just one part",
+        "char": "turtle_sad",
+        "caption": "If it doesn't fit you,<br>it <em>rarely sticks</em>"
+      },
+      "quip": "So questions are<br>always welcome!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first-visit questions</b>",
+      "sub": "Ask these at your appointment!",
+      "sections": [
+        {
+          "heading": "1. Try asking",
+          "color": "yellow",
+          "lines": [
+            "① <em>Why</em> are we doing this treatment?",
+            "② Exercise and education usually come <em>first</em>.",
+            "③ How will we <em>measure</em> my progress?",
+            "④ Share your goals — work, sport, life."
+          ]
+        },
+        {
+          "heading": "2. Talk it over again if…",
+          "color": "purple",
+          "lines": [
+            "Nothing has <em>changed</em> after a few weeks",
+            "— ask about adjusting or referring on."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Time to <em>review the plan</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Bring it up if you notice",
+      "items": [
+        "No change after a few weeks",
+        "The same session every time",
+        "New symptoms have appeared"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle has seen a hundred treatment videos online, and they all say something different.\n\nEvidence-based care blends three things: current research, your practitioner's clinical experience, and your own goals and preferences. For many muscle and joint problems, current guidelines usually put exercise and education first, with hands-on care as a helpful add-on.\n\nIt also means being upfront when evidence is thin, measuring progress, and changing the plan or referring on to your GP or another practitioner if things stall.\n\nQuestions about your plan are always welcome at Hybrid Physio. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#evidencebasedpractice",
+    "#physiotherapy",
+    "#physio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy",
+    "#activerecovery",
+    "#sydney",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining the three parts of evidence-based care, questions to ask at an appointment and when to review the plan.",
+  "story": {
+    "headline": "What is evidence-based care?",
+    "body": "Research + experience + your goals,<br>all together.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-08",
+  "created": "2027-02-08-2",
+  "status": "approved",
+  "review_warnings": []
+}

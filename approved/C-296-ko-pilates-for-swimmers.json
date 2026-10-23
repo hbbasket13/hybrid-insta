@@ -1,0 +1,131 @@
+{
+  "id": "C-296-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for swimmers",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "수영 후 모모의 어깨가<br><em>뻐근한 이유</em>",
+      "sub": "하비와 알아보는 수영인 필라테스",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "아침마다 <em>자유형</em><br>2km 하는 모모.",
+      "char": "cat_tired",
+      "bubble": "긴 세트만 하면<br>어깨가 왜<br>뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(숨 쉬려고 고개 돌릴 때도 목이 뻣뻣..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요.<br>어깨가 불편해요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "물 밖에서 하는<br>필라테스가<br>도움이 돼요?"
+      },
+      "note": "하비는 <mark>수영이 쓰는 근육</mark>부터 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "자유형은 <em>앞쪽 근육</em>을<br>많이 써요!",
+      "fact": "가슴·어깨 앞쪽 위주 · <em>등과 날개뼈</em>는 덜 훈련돼요",
+      "left": {
+        "label": "균형 잡기",
+        "char": "cat_happy",
+        "caption": "등·날개뼈 운동으로<br><b>앞뒤 균형</b>을 맞춰요"
+      },
+      "right": {
+        "label": "수영만",
+        "char": "cat_tired",
+        "caption": "앞쪽만 계속 쓰면<br><em>어깨가 뻐근</em>할 수 있어요"
+      },
+      "quip": "물 밖 훈련이<br>스트로크를 도와요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 어깨 준비</b>",
+      "sub": "벽 앞에서 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 월 슬라이드 (Wall slide)",
+          "color": "yellow",
+          "lines": [
+            "① 벽에 등을 대고 서서 팔을 W자로 올려요.",
+            "② 날개뼈를 느끼며 팔을 <em>천천히</em> 위로.",
+            "③ <em>10회 × 2세트</em>, 하루 1~2번.",
+            "④ 데드버그로 몸통 안정성도 함께!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "어깨가 <em>찌릿하거나 걸리는</em> 느낌이 들면",
+            "멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "밤에 어깨가 아파 깬다",
+        "팔 들 때 힘이 빠진다",
+        "2주 넘게 통증이 계속된다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "아침마다 자유형 2km 하는 모모. 긴 세트 후엔 어깨가 뻐근해요. 🏊\n\n자유형은 가슴과 어깨 앞쪽을 많이 써요. 클리니컬 필라테스는 날개뼈 조절, 등 근력, 몸통 회전 운동으로 균형을 맞추고, 물속에서 긴 자세를 유지하는 데 도움이 될 수 있어요.\n\n하비의 팁: 월 슬라이드 10회 × 2세트, 하루 1~2번. 보통 주 1~2회 필라테스가 수영 훈련과 잘 맞아요.\n\n밤에 어깨가 아파 깨거나, 팔 들 때 힘이 빠지거나, 2주 넘게 아프면 먼저 평가받아요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#수영",
+    "#어깨통증",
+    "#클리니컬필라테스",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#clinicalpilates",
+    "#swimming",
+    "#shoulderpain",
+    "#chatswood",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 자유형이 많이 쓰는 근육, 필라테스로 앞뒤 균형 맞추기, 월 슬라이드 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "수영 후 어깨가 뻐근하다면?",
+    "body": "월 슬라이드 10회 × 2세트,<br>하루 1~2번!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-5",
+  "status": "approved",
+  "review_warnings": []
+}

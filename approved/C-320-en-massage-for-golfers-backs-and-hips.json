@@ -1,0 +1,131 @@
+{
+  "id": "C-320-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for golfers' backs and hips",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's back is<br><em>stiff after 18 holes</em>",
+      "sub": "Where massage fits for golfers, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every weekend:<br><em>18 holes</em>, hills and bending.",
+      "char": "koala_tired",
+      "bubble": "Why is my back<br>so stiff this<br>morning..?",
+      "bubble_type": "thought",
+      "note": "(and the hips feel heavy when I turn..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling stiff?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. will a massage<br>make my swing easier?"
+      },
+      "note": "Hybi decided to start with <mark>the warm-up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Five minutes before<br>the <em>first tee</em> matters!",
+      "fact": "A swing turns your <em>back, hips and mid-back</em> again and again",
+      "left": {
+        "label": "Warm-up first",
+        "char": "koala_happy",
+        "caption": "Hips and trunk loose,<br>then <b>half swings</b>"
+      },
+      "right": {
+        "label": "Driver first",
+        "char": "koala_tired",
+        "caption": "Turning hard on<br>a <em>cold body</em>"
+      },
+      "quip": "Massage supports strength<br>and mobility work!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>5-minute first-tee warm-up</b>",
+      "sub": "Right by the first tee!",
+      "sections": [
+        {
+          "heading": "1. 5-minute warm-up",
+          "color": "yellow",
+          "lines": [
+            "① Leg swings, <em>10 each side</em>.",
+            "② Slow trunk turns, <em>10 reps</em>.",
+            "③ <em>5–6 half swings</em> with a short iron.",
+            "④ Then reach for the driver!"
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Back pain <em>spreads into the leg</em>,",
+            "or you notice <em>pins and needles</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading to the leg",
+        "Pins and needles",
+        "Inner elbow pain returning"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Great round, stiff back the next morning? Golf asks your lower back, hips and mid-back to turn hard again and again, on top of walking hills and bending for the ball.\n\nRemedial massage around the hips, glutes and lower back can ease stiffness and make turning feel more comfortable. Keep deeper sessions a few days out from a round or the day after, with lighter work the day before. It complements strength and mobility work rather than replacing it, and a five-minute warm-up before the first tee helps too.\n\nBack pain spreading into the leg or pins and needles is worth a physio assessment. Book online via the link in bio ⛳\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#golf",
+    "#golfer",
+    "#golffitness",
+    "#backpain",
+    "#golfwarmup",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#sydneygolf",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why golf leaves the back and hips stiff, warm-up versus going straight to driver, a 5-minute warm-up and signs worth getting checked.",
+  "story": {
+    "headline": "Golf this weekend?",
+    "body": "Leg swings, trunk turns and half swings<br>before the first tee.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-18",
+  "created": "2027-02-18-2",
+  "status": "approved",
+  "review_warnings": []
+}

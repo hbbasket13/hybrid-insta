@@ -1,0 +1,131 @@
+{
+  "id": "C-300-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Getting the most from your appointment time",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Making the most of<br>Koko's <em>appointment</em>",
+      "sub": "Small habits, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko rushes in<br><em>ten minutes late</em>.",
+      "char": "koala_tired",
+      "bubble": "I'd only just caught<br>my breath, and it's<br>over already..?",
+      "bubble_type": "thought",
+      "note": "(and the exercises are already a blur..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Busy morning?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "I want more out of<br>my sessions!"
+      },
+      "note": "Hybi shared a <mark>few small habits</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't just watch,<br><em>have a go!</em>",
+      "fact": "Practising <em>in the session</em> means technique gets checked",
+      "left": {
+        "label": "Practise it",
+        "char": "koala_happy",
+        "caption": "Technique checked,<br>plus a <b>quick video</b>"
+      },
+      "right": {
+        "label": "Just watch",
+        "char": "koala_tired",
+        "caption": "At home, the details<br>are <em>a blur</em>"
+      },
+      "quip": "Ask questions right<br>there in the room!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>appointment checklist</b>",
+      "sub": "Try it at your next visit!",
+      "sections": [
+        {
+          "heading": "1. Come prepared",
+          "color": "yellow",
+          "lines": [
+            "① Arrive <em>a few minutes early</em> to settle in.",
+            "② Wear clothes you can move in.",
+            "③ Start with <em>what's changed</em> since last time.",
+            "④ Leave with your <em>top 2–3</em> priorities noted."
+          ]
+        },
+        {
+          "heading": "2. Always mention…",
+          "color": "purple",
+          "lines": [
+            "Any <em>flare-ups</em> after your exercises",
+            "or new symptoms since last visit."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Always <em>speak up</em> about…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Tell your practitioner if",
+      "items": [
+        "Exercises made it worse",
+        "New symptoms showed up",
+        "You've had a near fall"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko rushed in late, caught her breath, and the session was nearly over.\n\nA few small habits help: arrive a few minutes early, wear clothes you can move in, and start with a quick update on how the exercises went and any flare-ups since last time. That helps your practitioner adjust the plan.\n\nHybi's tip: ask to practise your exercises in the session so technique can be checked, and film a short clip on your phone. Before you leave, note your top two or three priorities for the week.\n\nOur team at Hybrid Physio shapes each session around your feedback. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#physio",
+    "#rehab",
+    "#exercisetherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala sharing small habits to get more from an appointment, from arriving early to practising exercises and noting priorities.",
+  "story": {
+    "headline": "Make your appointment count",
+    "body": "Arrive early, practise in session,<br>note your priorities.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-10",
+  "created": "2027-02-10-6",
+  "status": "approved",
+  "review_warnings": []
+}

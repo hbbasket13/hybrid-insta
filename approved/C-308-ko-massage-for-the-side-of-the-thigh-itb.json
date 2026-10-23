@@ -1,0 +1,131 @@
+{
+  "id": "C-308-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for the side of the thigh (ITB)",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "토토의 허벅지 바깥,<br><em>ITB를 풀 수 있을까?</em>",
+      "sub": "하비와 함께 알아보는 ITB 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "달리기 거리를 늘린<br>토토의 <em>허벅지 바깥</em>.",
+      "char": "rabbit_tired",
+      "bubble": "밧줄처럼<br>뻣뻣해..<br>세게 풀어야 하나?",
+      "bubble_type": "thought",
+      "note": "(폼롤러 위에서 이를 꽉 깨무는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>허벅지가 뻣뻣해요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. ITB를 세게<br>늘려야 할까요?"
+      },
+      "note": "하비는 <mark>ITB가 어떤 조직인지</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "ITB는 <em>질기고 단단해요</em>",
+      "fact": "ITB는 두꺼운 결합조직 · 마사지로 <em>늘어나진 않아요</em>",
+      "left": {
+        "label": "주변 근육",
+        "char": "rabbit_happy",
+        "caption": "엉덩이·고관절 앞·허벅지<br>근육을 <b>풀어줘요</b>"
+      },
+      "right": {
+        "label": "세게 누르기",
+        "char": "rabbit_tired",
+        "caption": "이 악물 만큼 세게<br><em>꼭 필요하진 않아요</em>"
+      },
+      "quip": "편안하고 꾸준한 압이<br>보통 더 좋아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 엉덩이 운동</b>",
+      "sub": "마사지 효과를 오래 가게!",
+      "sections": [
+        {
+          "heading": "1. 옆으로 누워 다리 들기",
+          "color": "yellow",
+          "lines": [
+            "① 옆으로 누워 무릎을 펴요.",
+            "② 위쪽 다리를 <em>살짝 뒤로</em> 들어요.",
+            "③ <em>3초 유지 × 10회</em>, 양쪽.",
+            "④ 달리기·자전거 양도 조금씩 조절."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 물리치료 평가도 함께!",
+          "color": "purple",
+          "lines": [
+            "달릴 때 <em>무릎 바깥이 찌릿</em>하거나,",
+            "쉬어도 <em>통증이 계속 커진다면</em>!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "달릴 때 무릎 바깥 통증",
+        "붓기가 있다",
+        "쉬어도 점점 심해진다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "마사지로 ITB를 '풀' 수 있을까요? 정확히는 아니에요. 그래도 괜찮아요.\n\nITB는 허벅지 바깥을 따라 내려가는 두껍고 질긴 결합조직이라 잘 늘어나지 않아요. 마사지가 할 수 있는 건 주변 근육, 즉 엉덩이, 고관절 앞, 허벅지 앞뒤의 긴장을 덜어주는 거예요.\n\n이 악물 만큼 센 압보다 편안하고 꾸준한 압이 보통 더 좋아요. 엉덩이 근력 운동과 달리기·자전거 양 조절을 함께하면 가벼운 느낌이 더 오래가요.\n\n달릴 때 무릎 바깥이 찌릿하거나 붓는다면 물리치료 평가도 함께! 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#itb",
+    "#장경인대",
+    "#리메디얼마사지",
+    "#러닝",
+    "#시드니cbd",
+    "#시드니",
+    "#하이브리드피지오",
+    "#스포츠마사지",
+    "#remedialmassage",
+    "#itband",
+    "#runners",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: ITB가 늘어나지 않는 이유, 주변 근육 마사지와 센 압 비교, 엉덩이 근력 운동, 평가가 필요한 신호.",
+  "story": {
+    "headline": "ITB, 풀 수 있을까?",
+    "body": "주변 근육은 마사지로,<br>엉덩이 힘은 운동으로!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-13",
+  "created": "2027-02-13-5",
+  "status": "approved",
+  "review_warnings": []
+}

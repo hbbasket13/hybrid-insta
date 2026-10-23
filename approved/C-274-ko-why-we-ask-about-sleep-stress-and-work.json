@@ -1,0 +1,131 @@
+{
+  "id": "C-274-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Why we ask about sleep, stress and work",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "왜 <em>잠이랑 스트레스</em>까지<br>물어볼까?",
+      "sub": "거북씨와 알아보는 초진 질문 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "궁금했죠?<br>같이 알아봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "마감 주간, <em>잠은 5시간</em>.<br>허리는 더 뻐근한 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "잠 못 잔 날엔<br>왜 더 아프지..?",
+      "bubble_type": "thought",
+      "note": "(이번 주만 벌써 야근 세 번째..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>요즘 잠은 잘 자요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "허리 때문에 왔는데<br>잠은 왜 물어요..?"
+      },
+      "note": "하비는 <mark>통증에 영향을 주는 것들</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "통증은 <em>생활</em>에 따라<br>달라질 수 있어요!",
+      "fact": "연구에 따르면 <em>잠이 부족하면</em> 통증에 더 예민해질 수 있어요",
+      "left": {
+        "label": "푹 잔 날",
+        "char": "turtle_happy",
+        "caption": "같은 움직임도<br><b>덜 예민하게</b> 느껴요"
+      },
+      "right": {
+        "label": "못 잔 날",
+        "char": "turtle_sad",
+        "caption": "같은 움직임도<br><em>더 아프게</em> 느낄 수 있어요"
+      },
+      "quip": "그래서 생활 이야기가<br>계획에 꼭 필요해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 생활 메모</b>",
+      "sub": "진료 전에 적어 와요!",
+      "sections": [
+        {
+          "heading": "1. 진료 전 메모하기",
+          "color": "yellow",
+          "lines": [
+            "① 최근 일주일 <em>수면 시간</em> 적기.",
+            "② 스트레스 정도를 <em>0~10점</em>으로 적기.",
+            "③ 하루 앉는 시간·운전·들기 적기.",
+            "④ 말하기 편한 만큼만 공유해요!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP 상담도 함께!",
+          "color": "purple",
+          "lines": [
+            "잠 못 드는 날이 <em>몇 주째 계속</em>되거나,",
+            "기분이 <em>계속 가라앉는다면</em> GP와 상담하기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "밤에 통증으로 깬다",
+        "다리로 저림이 퍼진다",
+        "2주 넘게 그대로다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "\"물리치료사가 왜 잠을 물어보지?\" 궁금했던 거북씨.\n\n통증은 조직만의 문제가 아닐 수 있어요. 연구에 따르면 잠이 부족하면 신경계가 더 예민해질 수 있고, 스트레스는 근육 긴장을 높일 수 있어요. 하루 업무도 몸이 버티는 부하를 바꾸죠.\n\n수면·스트레스·업무를 조금 알면 실제 생활에 맞는 계획을 세울 수 있어요. 말하기 편한 만큼만 공유하면 돼요.\n\n하이브리드 피지오 팀이 전체 그림을 함께 봐요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#허리통증",
+    "#수면",
+    "#스트레스",
+    "#직장인건강",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#backpain"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 물리치료사가 수면·스트레스·업무를 묻는 이유, 진료 전 메모 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "왜 잠까지 물어볼까?",
+    "body": "수면·스트레스·업무 메모,<br>진료 전에 적어 와요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-288-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage and posture: what it can and can't change",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "마사지로 거북씨의<br><em>자세가 바뀔까?</em>",
+      "sub": "하비와 알아보는 마사지와 자세 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "솔직하게<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루 <em>9시간</em>,<br>모니터 앞 거북씨.",
+      "char": "turtle_monitor",
+      "bubble": "마사지 꾸준히 받으면<br>자세도 펴지겠지?",
+      "bubble_type": "thought",
+      "note": "(굽은 어깨가 늘 신경 쓰이는 중..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>자세가 걱정이구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 마사지로<br>자세 교정되나요?"
+      },
+      "note": "하비는 <mark>마사지가 할 수 있는 것</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지가 <em>할 수 있는 것</em>",
+      "fact": "연구에 따르면 모두에게 맞는 <em>정답 자세</em>는 없어요",
+      "left": {
+        "label": "할 수 있어요",
+        "char": "turtle_happy",
+        "caption": "근육 긴장을 풀고<br><b>움직임을 편하게</b>"
+      },
+      "right": {
+        "label": "어려워요",
+        "char": "turtle_sad",
+        "caption": "척추 모양을 바꾸거나<br><em>자세를 고정</em>하진 못해요"
+      },
+      "quip": "한 자세로 오래 있는 게<br>더 큰 문제예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 자세 리셋</b>",
+      "sub": "마사지와 함께 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 자세 바꾸기 + 등 운동",
+          "color": "yellow",
+          "lines": [
+            "① <em>30분마다</em> 일어나 자세를 바꿔요.",
+            "② 어깨를 뒤로 크게 <em>5번</em> 돌려요.",
+            "③ 날개뼈를 모아 <em>5초 유지 × 10회</em>.",
+            "④ 하루 2~3번, 책상에서 바로!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>팔로 뻗치거나</em>,",
+            "손이 <em>저려온다면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔이나 손이 저리다",
+        "두통이 점점 심해진다",
+        "몇 주째 나아지지 않는다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "마사지를 꾸준히 받으면 굽은 자세가 펴질까 궁금한 거북씨. 솔직하게 말하면, 마사지만으로는 어려워요.\n\n리메디얼 마사지는 근육 긴장을 풀고, 뻣뻣함을 줄이고, 움직임을 편하게 하는 데 도움이 될 수 있어요. 하지만 척추 모양이나 평소 서는 방식을 바꾸지는 못해요.\n\n연구에 따르면 모두에게 맞는 정답 자세는 없어요. 한 자세로 오래 있는 게 보통 더 큰 문제예요. 마사지에 자주 자세 바꾸기와 등·어깨 근력 운동을 더해보세요.\n\n팔 저림이나 심해지는 두통은 물리치료 평가가 먼저예요. 하이브리드 피지오 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#자세",
+    "#거북목",
+    "#리메디얼마사지",
+    "#마사지",
+    "#직장인건강",
+    "#시드니마사지",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#posture",
+    "#deskjob",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 마사지가 자세에 할 수 있는 것과 어려운 것, 정답 자세가 없는 이유, 1분 자세 리셋, 확인이 필요한 신호.",
+  "story": {
+    "headline": "마사지로 자세가 바뀔까?",
+    "body": "긴장은 풀어주고,<br>자주 움직이는 건 내 몫!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-05",
+  "created": "2027-02-05-3",
+  "status": "approved",
+  "review_warnings": []
+}

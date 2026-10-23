@@ -1,0 +1,131 @@
+{
+  "id": "C-293-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What evidence-based care means at our clinic",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "<em>근거 기반 치료</em>,<br>그게 뭐예요?",
+      "sub": "하비와 알아보는 진료의 기준",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "인터넷에 치료법이<br><em>너무 많은</em> 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "뭘 믿어야<br>할지 모르겠네..?",
+      "bubble_type": "thought",
+      "note": "(영상마다 말이 다 달라..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요.<br>고민이 있어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "근거 기반이라는 말,<br>무슨 뜻이에요?"
+      },
+      "note": "하비는 <mark>세 가지 기둥</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "연구만으론<br><em>부족해요!</em>",
+      "fact": "연구 + 치료사의 경험 + <em>나의 목표</em>, 세 가지가 함께",
+      "left": {
+        "label": "세 가지 함께",
+        "char": "turtle_happy",
+        "caption": "내 생활과 목표에<br><b>맞춘 계획</b>"
+      },
+      "right": {
+        "label": "한 가지만",
+        "char": "turtle_sad",
+        "caption": "나에게 맞지 않으면<br><em>오래 못 가요</em>"
+      },
+      "quip": "그래서 질문은<br>언제든 환영이에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>진료 200% 활용법</b>",
+      "sub": "첫 진료 때 이렇게 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 물어보세요",
+          "color": "yellow",
+          "lines": [
+            "① 이 치료를 <em>왜</em> 하는지 물어봐요.",
+            "② 운동·교육이 보통 <em>먼저</em>예요.",
+            "③ 근력·가동범위 등 <em>측정 기록</em>을 확인해요.",
+            "④ 내 목표를 꼭 말해요!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 다시 상의해요!",
+          "color": "purple",
+          "lines": [
+            "몇 주째 <em>변화가 없다면</em>",
+            "계획 수정이나 의뢰를 상의하기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>계획을 점검해요</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 상의하기",
+      "items": [
+        "몇 주째 그대로다",
+        "같은 치료만 반복된다",
+        "새로운 증상이 생겼다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "인터넷엔 치료법이 너무 많아서 뭘 믿어야 할지 헷갈리는 거북씨.\n\n근거 기반 치료는 연구 결과, 치료사의 임상 경험, 그리고 나의 목표와 선호, 세 가지를 함께 보는 거예요. 많은 근골격계 문제에서 보통 운동과 교육이 먼저이고, 손으로 하는 치료는 도움이 되는 보조 역할이에요.\n\n근거가 약한 부분은 솔직하게 설명하고, 측정하며 진행하다 변화가 없으면 계획을 바꾸거나 GP·다른 전문가에게 의뢰해요.\n\n궁금한 점은 언제든 물어봐 주세요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#근거기반치료",
+    "#물리치료",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#evidencebasedpractice",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 근거 기반 치료의 세 가지 기둥, 진료 때 물어볼 질문, 계획을 다시 점검할 신호.",
+  "story": {
+    "headline": "근거 기반 치료, 뭐예요?",
+    "body": "연구 + 경험 + 나의 목표,<br>세 가지 함께!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-08",
+  "created": "2027-02-08-5",
+  "status": "approved",
+  "review_warnings": []
+}

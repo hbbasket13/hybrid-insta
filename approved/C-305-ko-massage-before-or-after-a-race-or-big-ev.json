@@ -1,0 +1,132 @@
+{
+  "id": "C-305-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage before or after a race or big event",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "토토의 레이스,<br>마사지는 <em>언제?</em>",
+      "sub": "하비와 함께 알아보는 마사지 타이밍",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "타이밍이<br>중요해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>하프 마라톤</em>을<br>앞둔 토토.",
+      "char": "rabbit_tired",
+      "bubble": "전날 세게<br>마사지 받으면<br>더 잘 뛰려나..?",
+      "bubble_type": "thought",
+      "note": "(처음 받아보는 딥티슈인데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>레이스 준비 중이죠?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네! 전날 마사지<br>괜찮을까요?"
+      },
+      "note": "하비는 <mark>레이스 주간엔 새로운 건 피하기</mark>를 권했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>타이밍</em>이 달라요!",
+      "fact": "레이스 <em>2~4일 전</em> 가볍게 · 끝난 뒤엔 1~2일 쉬고",
+      "left": {
+        "label": "미리, 가볍게",
+        "char": "rabbit_happy",
+        "caption": "2~4일 전 가벼운 압으로<br>몸이 <b>가뿐하게</b>"
+      },
+      "right": {
+        "label": "전날 딥티슈",
+        "char": "rabbit_tired",
+        "caption": "당일에 뻐근하거나<br><em>몸이 무거울 수도</em>"
+      },
+      "quip": "끝난 직후엔 쉬고<br>먹고 걷기부터!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 레이스 플랜</b>",
+      "sub": "레이스 날짜를 알려주세요!",
+      "sections": [
+        {
+          "heading": "1. 마사지 타이밍",
+          "color": "yellow",
+          "lines": [
+            "① 레이스 주간엔 <em>새로운 건 NO</em>.",
+            "② 전: <em>2~4일 전</em>, 가벼운 압.",
+            "③ 후: 휴식·수분·식사·가볍게 걷기.",
+            "④ 1~2일 뒤 부드럽게, 깊게는 주 후반."
+          ]
+        },
+        {
+          "heading": "2. 마사지 대신 평가가 필요할 땐",
+          "color": "purple",
+          "lines": [
+            "<em>날카로운 통증</em>·부기·뼈 한 곳 통증,",
+            "종아리가 <em>붓고 뜨겁다면</em> 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>마사지보다 평가</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "뛸 수 없는 날카로운 통증",
+        "뼈 한 곳이 콕 아프다",
+        "종아리 부기와 열감"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "레이스 전 마사지, 언제 받는 게 좋을까요? 타이밍이 생각보다 중요해요 🏃\n\n레이스 주간엔 처음 받는 딥티슈는 피하는 게 보통 좋아요. 받는다면 2~4일 전에 가벼운 압으로! 너무 가까이 깊게 받으면 당일 몸이 무거울 수 있어요.\n\n끝난 직후엔 휴식, 수분, 식사, 가볍게 걷기부터. 1~2일 뒤 부드러운 마사지가 뻣뻣함을 덜어줄 수 있어요. 연구에 따르면 운동 후 근육통 느낌을 줄이는 데 도움될 수 있지만, 잠과 영양을 대신하진 않아요.\n\n하이브리드 피지오 리메디얼 마사지 테라피스트와 계획해 보세요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#스포츠마사지",
+    "#마라톤",
+    "#러닝",
+    "#회복",
+    "#채스우드",
+    "#시드니",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#sportsmassage",
+    "#raceday",
+    "#running",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 레이스 전후 마사지 타이밍, 가벼운 압과 딥티슈 비교, 레이스 플랜, 마사지 대신 평가가 필요한 신호.",
+  "story": {
+    "headline": "레이스 전 마사지 타이밍",
+    "body": "전: 2~4일 전 가볍게<br>후: 1~2일 쉬고 부드럽게",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-5",
+  "status": "approved",
+  "review_warnings": []
+}

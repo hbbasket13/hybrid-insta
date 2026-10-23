@@ -1,0 +1,131 @@
+{
+  "id": "C-322-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What progress looks like: it's rarely a straight line",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Two good weeks, then<br>a <em>bad day</em>. Back to zero?",
+      "sub": "Recovery rarely runs in a straight line",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Two good weeks, and<br>today it's <em>stiff again</em>.",
+      "char": "koala_tired",
+      "bubble": "Have I undone<br>all my progress..?",
+      "bubble_type": "thought",
+      "note": "(after a long day in the garden yesterday..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Rough day today?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. is any of this<br>actually working?"
+      },
+      "note": "Hybi decided to show her <mark>what progress looks like</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Compare with last month,<br>not <em>yesterday</em>!",
+      "fact": "Most recoveries move forward <em>in zigzags</em>",
+      "left": {
+        "label": "Vs last month",
+        "char": "koala_happy",
+        "caption": "Can you <b>do more</b><br>than four weeks ago?"
+      },
+      "right": {
+        "label": "Vs yesterday",
+        "char": "koala_tired",
+        "caption": "Easily thrown by<br><em>one flat day</em>"
+      },
+      "quip": "A flare-up isn't<br>starting over!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute progress log</b>",
+      "sub": "One minute a day is plenty!",
+      "sections": [
+        {
+          "heading": "1. Track what you can do",
+          "color": "yellow",
+          "lines": [
+            "① Note stairs, sleep, sitting and walking time.",
+            "② On a bad day, <em>ease off a little</em>.",
+            "③ After a few days, build up <em>gradually</em>.",
+            "④ Bring your notes to your next visit."
+          ]
+        },
+        {
+          "heading": "2. Check in sooner if…",
+          "color": "purple",
+          "lines": [
+            "You're <em>steadily worse</em> over two weeks,",
+            "or notice <em>numbness or weakness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check in <em>sooner</em> if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Let your practitioner know",
+      "items": [
+        "Steadily worse for 2 weeks",
+        "New numbness or weakness",
+        "Pain that feels different"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Two good weeks, then a rough day that made Koko wonder if anything's working? That's how most recoveries look. Progress zigzags.\n\nA big day, a poor night's sleep or a stressful week can stir things up for a few days, and that usually doesn't mean you're back at square one. Track what you can do, not just how sore you are: stairs, sleep, how long you can sit or walk. Compare this month with last month rather than today with yesterday, ease off a little on bad days, then build up again.\n\nIf you're steadily worse over a couple of weeks or notice numbness or weakness, let us know sooner. Our team at Hybrid Physio reviews your plan with you. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#recovery",
+    "#rehab",
+    "#flareup",
+    "#progress",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#movementhealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining why recovery zigzags, comparing with last month rather than yesterday, a 1-minute progress log and when to check in sooner.",
+  "story": {
+    "headline": "Bad day after a good week?",
+    "body": "Compare this month with last month.<br>Most recoveries zigzag.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-19",
+  "created": "2027-02-19-4",
+  "status": "approved",
+  "review_warnings": []
+}

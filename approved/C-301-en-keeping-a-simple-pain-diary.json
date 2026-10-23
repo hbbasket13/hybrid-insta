@@ -1,0 +1,131 @@
+{
+  "id": "C-301-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Keeping a simple pain diary",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's pain:<br>why is it <em>up and down</em>?",
+      "sub": "A one-line pain diary, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we track<br>it together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Good days, bad days</em>,<br>and no idea why.",
+      "char": "turtle_monitor",
+      "bubble": "What did I do<br>yesterday to feel<br>like this..?",
+      "bubble_type": "thought",
+      "note": "(asked how it's been, he always says 'up and down'..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>How's the week been?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Umm.. up and down,<br>I think?"
+      },
+      "note": "Hybi suggested a <mark>one-line pain diary</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Pain often shows up<br><em>a day later</em>!",
+      "fact": "Tuesday's gardening can show up as <em>Wednesday's ache</em>",
+      "left": {
+        "label": "Written down",
+        "char": "turtle_happy",
+        "caption": "Activity next to pain,<br>patterns <b>stand out</b>"
+      },
+      "right": {
+        "label": "From memory",
+        "char": "turtle_sad",
+        "caption": "'Up and down'<br>leaves <em>no clues</em>"
+      },
+      "quip": "Look at 1-2 weeks,<br>not one rough day!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute pain diary</b>",
+      "sub": "Every night, in your phone notes!",
+      "sections": [
+        {
+          "heading": "1. One line is enough",
+          "color": "yellow",
+          "lines": [
+            "① Pain score <em>0-10</em>.",
+            "② What you did (walk, gym, long drive).",
+            "③ How you slept and what helped.",
+            "④ Jot down the <em>wins</em> too!"
+          ]
+        },
+        {
+          "heading": "2. Skip the diary and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Pain keeps <em>building</em>, or it",
+            "<em>wakes you</em> at night — get it checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>stuck</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Scores flat for 2 weeks",
+        "Pain wakes you at night",
+        "Tingling or weakness"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "\"It's been up and down\" is Mr Turtle's answer every time. A pain diary gives a lot more to work with.\n\nPain often shows up a day after the activity that stirred it, so Tuesday's gardening can turn into Wednesday's ache. Writing it down makes those links easier to spot.\n\nHybi's one-line diary: a pain score out of 10, what you did, how you slept and what helped. Note the wins too, and look at a week or two rather than one rough day.\n\nBring it to your next session so our team at Hybrid Physio can adjust your plan. Book online via the link in bio 📝\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#paindiary",
+    "#persistentpain",
+    "#selfmanagement",
+    "#healthhabits",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#northshore"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle showing why pain can lag a day behind activity, how to keep a one-line pain diary and signs worth getting checked.",
+  "story": {
+    "headline": "Try a one-line pain diary",
+    "body": "Score, activity, sleep, what helped.<br>One line a night.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-11",
+  "created": "2027-02-11-4",
+  "status": "approved",
+  "review_warnings": []
+}

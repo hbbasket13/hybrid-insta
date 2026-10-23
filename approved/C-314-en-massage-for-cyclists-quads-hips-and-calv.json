@@ -1,0 +1,131 @@
+{
+  "id": "C-314-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for cyclists: quads, hips and calves",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's quads feel<br><em>completely cooked</em>",
+      "sub": "A rider's recovery story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Recovery is<br>training too!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A big weekend of riding,<br>then <em>hard to stand tall</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why are my quads<br>and calves so tight..?",
+      "bubble_type": "thought",
+      "note": "(the front of the hips feels heavy too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big week on the bike?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. a massage<br>sorts it all, right?"
+      },
+      "note": "Hybi explained that <mark>massage is one part</mark> of recovery."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage is <em>one piece</em><br>of recovery!",
+      "fact": "Recovery = rest + sleep + sensible load + strength + <em>massage</em>",
+      "left": {
+        "label": "All together",
+        "char": "rabbit_happy",
+        "caption": "Legs can feel<br><b>lighter</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "rabbit_tired",
+        "caption": "Tightness can<br><em>come back fast</em>"
+      },
+      "quip": "It complements your<br>recovery, not replaces it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>rider recovery tips</b>",
+      "sub": "Remember these when you book!",
+      "sections": [
+        {
+          "heading": "1. Timing and pressure",
+          "color": "yellow",
+          "lines": [
+            "① <em>Keep it light</em> the day before an event.",
+            "② Save deeper work for <em>recovery days</em>.",
+            "③ Pressure too much? Say so straight away.",
+            "④ Keep up rest, sleep and strength work."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Swelling, heat or <em>one-sided sharp pain</em> —",
+            "get it checked before a massage."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>tight</em> all the time?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Front-of-knee pain",
+        "Tingling down the leg",
+        "A swollen, warm calf"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Big week on the bike? Toto's quads, hips and calves feel completely cooked.\n\nHours of pedalling load the front of the thighs, the hip flexors, glutes and calves. Remedial massage can ease that tight, heavy feeling and help you move more comfortably between rides. Keep it lighter the day before an event and save deeper work for recovery days.\n\nMassage complements rest, sleep, sensible training load and strength work rather than replacing them.\n\nKnee pain, tingling or a swollen calf are worth getting checked first. Our remedial massage therapists can tailor a session to your riding week. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#sportsmassage",
+    "#cycling",
+    "#cyclinglife",
+    "#roadcycling",
+    "#recovery",
+    "#sydneycycling",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#massagetherapy",
+    "#cyclist"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining where remedial massage fits in a cyclist's recovery, timing tips and signs worth getting checked.",
+  "story": {
+    "headline": "Legs cooked after the ride?",
+    "body": "Save deeper massage<br>for a recovery day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-16",
+  "created": "2027-02-16-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-281-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What happens at a review appointment",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "What happens at a<br><em>review appointment</em>?",
+      "sub": "Koko's follow-up visit, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's find out<br>before you come!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Follow-up</em> booked<br>for next week.",
+      "char": "koala_tired",
+      "bubble": "What do they even<br>do at a review..?",
+      "bubble_type": "thought",
+      "note": "(she did the exercises, but was she doing them right?)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "So Koko met Hybi again<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi again!<br>How have things been?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "A bit better.. but I'm<br>not sure about the<br>exercises"
+      },
+      "note": "Hybi walked through <mark>what a review involves</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A review is a<br><em>compare</em> session!",
+      "fact": "Tests from your first visit are <em>repeated and compared</em>",
+      "left": {
+        "label": "Honest update",
+        "char": "koala_happy",
+        "caption": "What's easier, what's<br><b>still tricky</b>"
+      },
+      "right": {
+        "label": "\"All good!\"",
+        "char": "koala_tired",
+        "caption": "Hiding niggles makes<br><em>adjusting harder</em>"
+      },
+      "quip": "That's how your plan<br>gets fine-tuned!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute review prep</b>",
+      "sub": "Jot these down before you come in!",
+      "sections": [
+        {
+          "heading": "1. Before your review",
+          "color": "yellow",
+          "lines": [
+            "① Note <em>one thing that's easier</em>.",
+            "② Note <em>one movement still tricky</em>.",
+            "③ Write down exercise questions.",
+            "④ Add any <em>goals or events</em> coming up."
+          ]
+        },
+        {
+          "heading": "2. Call us before then if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>suddenly gets worse</em>, or you",
+            "notice <em>new symptoms</em> before your visit."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Noticed any <em>changes</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Mention these at your review",
+      "items": [
+        "Pain has got worse",
+        "New pins and needles",
+        "Exercises feel too hard"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Follow-up booked and not sure what happens next? Koko wondered too.\n\nA review usually starts with a check-in on how things have been since your last visit and how the exercises went. Your practitioner then re-tests the movements from your first session to see what's changed.\n\nFrom there, your plan gets adjusted. Exercises may progress or change, and hands-on treatment may be part of the session depending on what suits you. Bring notes on what's easier, what's still tricky and any goals coming up.\n\nOur team at Hybrid Physio is always happy to explain the why behind your plan. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#followup",
+    "#reviewappointment",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#rehab",
+    "#patientinfo",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining what happens at a review appointment, why tests are repeated, notes to bring and changes worth mentioning.",
+  "story": {
+    "headline": "Follow-up coming up?",
+    "body": "Jot down what's easier<br>and what's still tricky.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-2",
+  "status": "approved",
+  "review_warnings": []
+}

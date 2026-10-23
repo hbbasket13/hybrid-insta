@@ -1,0 +1,131 @@
+{
+  "id": "C-295-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "New to Hybrid Physiotherapy? What to expect from your team",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하이브리드 피지오가<br><em>처음이라면?</em>",
+      "sub": "하비와 알아보는 우리 팀 소개",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>둘러볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "목이 불편한데<br><em>어디서 시작</em>할지 모르는 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "물리치료? 카이로?<br>필라테스?<br>뭘 받아야 하지..?",
+      "bubble_type": "thought",
+      "note": "(예약 버튼 앞에서 한참 고민..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요.<br>처음 오셨죠?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "누구한테<br>받아야 할지<br>모르겠어요.."
+      },
+      "note": "하비는 <mark>우리 팀</mark>을 하나씩 소개했다."
+    },
+    {
+      "kind": "compare",
+      "title": "한 지붕 아래<br><em>네 가지 서비스</em>",
+      "fact": "물리치료·카이로·필라테스·리메디얼 마사지가 <em>함께</em>",
+      "left": {
+        "label": "팀으로 함께",
+        "char": "turtle_happy",
+        "caption": "서로 의논해서<br><b>하나의 계획</b>으로"
+      },
+      "right": {
+        "label": "따로따로",
+        "char": "turtle_sad",
+        "caption": "매번 처음부터<br><em>다시 설명해야</em>"
+      },
+      "quip": "필요하면 팀 안에서<br>연결해 드려요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>첫 방문 가이드</b>",
+      "sub": "이것만 알면 쉬워요!",
+      "sections": [
+        {
+          "heading": "1. 우리 팀은 이런 일을 해요",
+          "color": "yellow",
+          "lines": [
+            "① 물리치료사: 평가 후 <em>운동 중심</em> 계획.",
+            "② 카이로프랙터: 손 치료 + 운동·생활 조언.",
+            "③ 필라테스 팀: 리포머·매트 <em>맞춤 프로그램</em>.",
+            "④ 리메디얼 마사지: 근육 긴장 완화를 도와요."
+          ]
+        },
+        {
+          "heading": "2. 어디서 시작할지 모르겠다면",
+          "color": "purple",
+          "lines": [
+            "<em>리셉션 팀</em>에 물어보세요.",
+            "알맞은 서비스를 안내해 드려요!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>평가부터</em> 받아요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 경우라면 먼저 확인받기",
+      "items": [
+        "통증이 몇 주째 그대로",
+        "저림이 같이 온다",
+        "어디가 문제인지 모르겠다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "하이브리드 피지오가 처음인 거북씨. 물리치료, 카이로, 필라테스 중 뭘 받아야 할지 고민이에요.\n\n저희는 물리치료사, 카이로프랙터, 클리니컬 필라테스 팀, 리메디얼 마사지 테라피스트가 한 팀으로 일해요. 다른 서비스가 더 도움이 될 것 같으면 팀 안에서 연결해 드려서, 매번 처음부터 다시 시작하지 않아도 돼요.\n\n어디서 시작할지 모르겠다면 리셉션 팀에 물어보세요. 채스우드·시드니 CBD에서 만나요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#하이브리드피지오",
+    "#시드니물리치료",
+    "#물리치료",
+    "#카이로프랙틱",
+    "#필라테스",
+    "#시드니cbd",
+    "#채스우드",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 하이브리드 피지오의 물리치료·카이로·필라테스·리메디얼 마사지 팀 소개와 첫 방문 가이드.",
+  "story": {
+    "headline": "처음이라면 이렇게 시작해요",
+    "body": "어디서 시작할지 모르겠다면<br>리셉션 팀에 물어보세요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-1",
+  "status": "approved",
+  "review_warnings": []
+}

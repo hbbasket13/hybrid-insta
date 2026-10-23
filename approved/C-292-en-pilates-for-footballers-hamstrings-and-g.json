@@ -1,0 +1,131 @@
+{
+  "id": "C-292-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for footballers: hamstrings and groin",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's hamstring<br>keeps <em>grabbing</em>",
+      "sub": "Footy prep for hamstrings and groin, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Tradie by day,<br><em>footballer</em> on weekends.",
+      "char": "kanga_tired",
+      "bubble": "Why does the back<br>of my thigh grab<br>when I sprint..?",
+      "bubble_type": "thought",
+      "note": "(and the groin feels tight after kicking..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Legs giving you grief?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Can Pilates actually<br>help my footy?"
+      },
+      "note": "Hybi started with <mark>hamstrings and groin</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Hamstrings often strain<br><em>while lengthening</em>",
+      "fact": "Strains often happen <em>at speed</em>, as the muscle lengthens",
+      "left": {
+        "label": "Long strength",
+        "char": "kanga_happy",
+        "caption": "Build strength through<br>a <b>longer range</b>"
+      },
+      "right": {
+        "label": "Sudden sprints",
+        "char": "kanga_tired",
+        "caption": "Big jumps in training<br>load <em>can lead to strains</em>"
+      },
+      "quip": "Kicking and cutting need<br>inner-thigh strength too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute leg prep</b>",
+      "sub": "Try it on a mat!",
+      "sections": [
+        {
+          "heading": "1. Bridge with a cushion squeeze",
+          "color": "yellow",
+          "lines": [
+            "① Lie down, knees bent, cushion between knees.",
+            "② Squeeze <em>gently</em> and lift your hips.",
+            "③ Hold <em>3 sec × 10 reps</em>, 2–3 times a week.",
+            "④ Getting easy? Try it on one leg, slowly."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain is <em>sharp</em> or getting <em>worse</em>",
+            "— stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A sharp grab mid-sprint",
+        "Bruising or pain walking",
+        "Groin pain after every game"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu plays footy every weekend, and the back of his thigh keeps grabbing when he sprints. ⚽\n\nHamstrings often strain at speed, right as the muscle lengthens. Kicking and changing direction also lean on the inner thigh, and both cop it more when training load jumps in pre-season.\n\nHybi's tip: bridge with a cushion squeeze, 3 seconds, 10 reps, 2–3 times a week. Clinical Pilates usually works well as an add-on to your running and gym work, not a swap.\n\nA sharp grab mid-sprint, bruising or groin pain that keeps coming back is worth an assessment first. Our Pilates team at Hybrid Physio works alongside our physios. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#football",
+    "#footy",
+    "#hamstring",
+    "#groinpain",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#preseason",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why footballers strain hamstrings and groins, a cushion-squeeze bridge and signs worth getting checked.",
+  "story": {
+    "headline": "Hamstring grabbing when you sprint?",
+    "body": "Cushion bridge: 3 sec × 10,<br>2–3 times a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-08",
+  "created": "2027-02-08-4",
+  "status": "approved",
+  "review_warnings": []
+}

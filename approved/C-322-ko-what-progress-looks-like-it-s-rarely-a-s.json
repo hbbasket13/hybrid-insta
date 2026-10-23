@@ -1,0 +1,131 @@
+{
+  "id": "C-322-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What progress looks like: it's rarely a straight line",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "좋다가 갑자기 나빠지면<br><em>다시 처음일까?</em>",
+      "sub": "회복은 보통 지그재그예요",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "2주 동안 좋았는데,<br>오늘은 <em>다시 뻐근</em>.",
+      "char": "koala_tired",
+      "bubble": "다 원점으로<br>돌아간 걸까..?",
+      "bubble_type": "thought",
+      "note": "(어제 정원 일을 오래 했더니..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>오늘 좀 힘들구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 지금까지 한 게<br>소용없는 걸까요?"
+      },
+      "note": "하비는 <mark>회복의 모양</mark>을 보여주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "어제 말고<br><em>한 달 전</em>과 비교해요!",
+      "fact": "대부분의 회복은 <em>오르락내리락</em>하며 나아가요",
+      "left": {
+        "label": "한 달 비교",
+        "char": "koala_happy",
+        "caption": "할 수 있는 게<br><b>늘었는지</b> 봐요"
+      },
+      "right": {
+        "label": "어제와 비교",
+        "char": "koala_tired",
+        "caption": "하루 컨디션에<br><em>흔들리기 쉬워요</em>"
+      },
+      "quip": "플레어업은 원점이<br>아니에요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 회복 기록법</b>",
+      "sub": "하루 1분이면 충분해요!",
+      "sections": [
+        {
+          "heading": "1. 할 수 있는 것 적기",
+          "color": "yellow",
+          "lines": [
+            "① 계단·수면·앉아 있는 시간을 적어요.",
+            "② 안 좋은 날엔 운동량을 <em>살짝 줄여요</em>.",
+            "③ 며칠 뒤 다시 <em>조금씩</em> 늘려요.",
+            "④ 기록은 다음 진료 때 가져와요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 미루지 말고 연락!",
+          "color": "purple",
+          "lines": [
+            "2주 넘게 <em>계속 나빠지거나</em>,",
+            "<em>저림·힘 빠짐</em>이 새로 생기면 알리기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>더 빨리</em> 알려요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "담당 선생님께 바로 알리기",
+      "items": [
+        "2주 넘게 계속 나빠진다",
+        "저림·힘 빠짐이 생겼다",
+        "평소와 다른 통증"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "2주 동안 좋다가 하루 확 뻐근해진 코코. 대부분의 회복은 지그재그예요. 바쁜 하루, 잠 못 잔 밤, 스트레스가 며칠 몸을 흔들 수 있지만 보통 원점은 아니에요.\n\n통증 점수만 보지 말고 계단, 수면, 앉아 있는 시간처럼 할 수 있는 것을 적어요. 어제 말고 한 달 전과 비교하기. 안 좋은 날엔 살짝 줄였다가 다시 조금씩 늘려요.\n\n2주 넘게 계속 나빠지거나 저림·힘 빠짐이 생기면 미루지 말고 알려주세요. 하이브리드 피지오 팀이 함께 계획을 조정해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#회복",
+    "#재활",
+    "#물리치료",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#rehab",
+    "#recovery",
+    "#sydneyphysio",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 회복이 지그재그인 이유, 어제와 한 달 전 비교, 1분 회복 기록법, 더 빨리 알려야 할 신호.",
+  "story": {
+    "headline": "좋다가 하루 나빠졌다면?",
+    "body": "어제 말고 한 달 전과 비교해요.<br>회복은 대부분 지그재그!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-19",
+  "created": "2027-02-19-1",
+  "status": "approved",
+  "review_warnings": []
+}

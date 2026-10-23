@@ -1,0 +1,131 @@
+{
+  "id": "C-312-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for surfers",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's pop-up<br>is <em>always a beat late</em>",
+      "sub": "A surf story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we train<br>on land first?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The wave arrives, but<br>getting up is <em>too slow</em>.",
+      "char": "cat_tired",
+      "bubble": "Why do I feel<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(and after paddling, the neck and back ache too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Surfing this summer?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. but my pop-up<br>is so slow.."
+      },
+      "note": "Hybi decided to break down <mark>what a pop-up needs</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "A pop-up is a <em>press,</em><br>a <em>tuck</em> and a landing!",
+      "fact": "Pop-up = <em>press</em> + knee tuck + stable landing",
+      "left": {
+        "label": "Strong trunk",
+        "char": "cat_happy",
+        "caption": "Feet land<br><b>quickly</b>"
+      },
+      "right": {
+        "label": "Loose trunk",
+        "char": "cat_tired",
+        "caption": "Hips<br><em>lag behind</em>"
+      },
+      "quip": "You can practise the<br>sequence on land!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute pop-up drill</b>",
+      "sub": "Try it on a mat!",
+      "sections": [
+        {
+          "heading": "1. Plank to knee tuck",
+          "color": "yellow",
+          "lines": [
+            "① Hands under shoulders, plank position.",
+            "② Draw one knee <em>towards your chest</em>, slowly.",
+            "③ Alternate sides, <em>8 reps × 2 sets</em>.",
+            "④ A few times a week, slow and controlled."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your back or shoulder feels <em>sharp</em> —",
+            "stop and get advice first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Back pain after paddling",
+        "Shoulder pain that lingers",
+        "Tingling down a leg"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "The wave is there, but Momo's pop-up is always a beat late.\n\nA good pop-up is a press, a tuck and a stable landing. Clinical Pilates can train each part: reformer planks and knee tucks for the transition, extension work for paddling endurance through the upper back, hip mobility for a lower stance, and balance work for a moving board.\n\nHybi's 1-minute drill: plank to knee tuck, alternating sides, 8 reps × 2 sets, slow and controlled. Many surfers fit one or two sessions a week around the forecast.\n\nPain that lingers after paddling is worth an assessment. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#surfing",
+    "#surftraining",
+    "#popup",
+    "#reformerpilates",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#surflife",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat breaking down a surf pop-up, a plank-to-knee-tuck drill and signs worth getting checked.",
+  "story": {
+    "headline": "Want a quicker pop-up?",
+    "body": "Plank to knee tuck,<br>8 reps × 2 sets.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-15",
+  "created": "2027-02-15-6",
+  "status": "approved",
+  "review_warnings": []
+}

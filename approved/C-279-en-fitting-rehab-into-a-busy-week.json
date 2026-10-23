@@ -1,0 +1,131 @@
+{
+  "id": "C-279-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Fitting rehab into a busy week",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Back at work and<br>rehab's <em>slipped away</em>?",
+      "sub": "Mr Turtle's busy-week rehab, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Short counts too,<br>let's try!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Holidays over,<br><em>back at the desk</em>.",
+      "char": "turtle_monitor",
+      "bubble": "Didn't do a single<br>exercise this week..",
+      "bubble_type": "thought",
+      "note": "(the exercise band is gathering dust in a drawer..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>How's the rehab going?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "No time.. can I just<br>do it all on Sunday?"
+      },
+      "note": "Hybi explained why <mark>short and often</mark> wins."
+    },
+    {
+      "kind": "compare",
+      "title": "Short and <em>often</em><br>usually lasts longer!",
+      "fact": "<em>10 minutes</em> most days often beats one long skipped session",
+      "left": {
+        "label": "10 min a day",
+        "char": "turtle_happy",
+        "caption": "Linked to habits,<br><b>it keeps going</b>"
+      },
+      "right": {
+        "label": "Sunday cram",
+        "char": "turtle_sad",
+        "caption": "Keeps getting pushed,<br><em>then skipped</em>"
+      },
+      "quip": "Pick the 2–3 exercises<br>that matter most!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute habit stack</b>",
+      "sub": "Start today, no gym needed!",
+      "sections": [
+        {
+          "heading": "1. Stack it onto your day",
+          "color": "yellow",
+          "lines": [
+            "① Calf raises <em>while the kettle boils</em>.",
+            "② <em>10 squats</em> before your shower.",
+            "③ On Sunday, <em>book rehab into your calendar</em>.",
+            "④ Keep a band <em>next to your desk</em>."
+          ]
+        },
+        {
+          "heading": "2. Tell us if…",
+          "color": "purple",
+          "lines": [
+            "The program <em>doesn't fit your life</em>, or",
+            "an exercise <em>makes pain worse</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>not sticking</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Chat to your practitioner if",
+      "items": [
+        "Exercises make it worse",
+        "There's truly no time",
+        "No change after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Back at work after the break and your rehab exercises have quietly disappeared? Mr Turtle knows the feeling.\n\nMost people find it hard to keep exercises going once the week fills up. The good news is that short, regular sessions usually work better than long ones you keep putting off.\n\nTry stacking exercises onto things you already do, booking rehab into your calendar like a meeting and keeping a band at your desk. Ask which two or three exercises matter most right now. If your program doesn't fit your life, tell us so we can adjust it.\n\nOur team at Hybrid Physio is happy to help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#rehab",
+    "#homeexercise",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#busylife",
+    "#officeworker",
+    "#habits",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle showing how to keep rehab going in a busy week, why short and often helps, habit-stacking tips and when to talk to your practitioner.",
+  "story": {
+    "headline": "Rehab slipped in a busy week?",
+    "body": "Calf raises while<br>the kettle boils.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-02",
+  "created": "2027-02-02-6",
+  "status": "approved",
+  "review_warnings": []
+}

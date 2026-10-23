@@ -1,0 +1,131 @@
+{
+  "id": "C-307-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for tennis and pickleball players",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Momo's pickleball:<br>can <em>Pilates</em> help?",
+      "sub": "A court-ready story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Momo's hooked on<br><em>tennis and pickleball</em>.",
+      "char": "cat_tired",
+      "bubble": "Why do my shoulder<br>and elbow ache<br>after a match..?",
+      "bubble_type": "thought",
+      "note": "(and her ankles feel wobbly on side steps..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Curious about Pilates?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yes! But will it<br>help on court?"
+      },
+      "note": "Hybi explained that <mark>rotation starts in the trunk</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Rotation comes<br>from the <em>trunk</em>!",
+      "fact": "Turning through mid-back and hips can <em>share the load</em>",
+      "left": {
+        "label": "Trunk turns",
+        "char": "cat_happy",
+        "caption": "Mid-back and hips turn,<br>the arm <b>works less</b>"
+      },
+      "right": {
+        "label": "All arm",
+        "char": "cat_tired",
+        "caption": "Shoulder and elbow<br><em>do it alone</em>"
+      },
+      "quip": "One or two sessions<br>a week often suits!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute court Pilates</b>",
+      "sub": "Try it on a non-match day!",
+      "sections": [
+        {
+          "heading": "1. Single-leg balance",
+          "color": "yellow",
+          "lines": [
+            "① Stand on one leg, hips level.",
+            "② Hold <em>30 sec × 2 each side</em>.",
+            "③ Then slowly turn your trunk side to side.",
+            "④ Twice a week, not the day before a match."
+          ]
+        },
+        {
+          "heading": "2. Stop and get advice if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>builds</em> during the exercise,",
+            "or your ankle <em>keeps rolling</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Elbow pain that lingers",
+        "Shoulder pain on serves",
+        "Ankle keeps rolling"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Hooked on tennis or pickleball? Here's what clinical Pilates can add to your game 🎾\n\nBoth sports ask for quick side-to-side footwork, controlled rotation and shoulders that handle repeated serves. Pilates trains those qualities with spring resistance that's easy to adjust: single-leg control for your lunges, trunk rotation for your groundstrokes and shoulder strength through range.\n\nMost players find one or two sessions a week fits well, placed away from big match days. The program can shift when you're playing more or managing a niggle.\n\nOur Pilates team at Hybrid Physio starts with an assessment and builds a program around your sport. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#tennis",
+    "#pickleball",
+    "#reformerpilates",
+    "#sportsperformance",
+    "#injuryprevention",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo on how clinical Pilates can support tennis and pickleball players, trunk rotation, a single-leg balance routine and when to get advice.",
+  "story": {
+    "headline": "Tennis or pickleball regular?",
+    "body": "Single-leg balance, 30 sec,<br>twice a week.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-13",
+  "created": "2027-02-13-4",
+  "status": "approved",
+  "review_warnings": []
+}

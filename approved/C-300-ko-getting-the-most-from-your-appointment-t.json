@@ -1,0 +1,131 @@
+{
+  "id": "C-300-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Getting the most from your appointment time",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코의 진료 시간,<br><em>알차게 쓰는 법</em>",
+      "sub": "하비와 알아보는 진료 꿀팁",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "헐레벌떡 <em>지각</em>한<br>코코.",
+      "char": "koala_tired",
+      "bubble": "숨 고르다 보니<br>벌써 끝났네..?",
+      "bubble_type": "thought",
+      "note": "(운동 동작도 기억이 가물가물..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요.<br>오늘 바빴죠?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "진료 시간을 더<br>잘 쓰고 싶어요!"
+      },
+      "note": "하비는 <mark>작은 습관 몇 가지</mark>를 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "보기만 말고<br><em>직접 해봐요!</em>",
+      "fact": "진료 중에 운동을 <em>직접 해보면</em> 자세를 바로 확인받아요",
+      "left": {
+        "label": "직접 해보기",
+        "char": "koala_happy",
+        "caption": "자세를 확인받고<br>폰으로 <b>짧게 촬영</b>"
+      },
+      "right": {
+        "label": "보기만",
+        "char": "koala_tired",
+        "caption": "집에 가면<br><em>기억이 가물가물</em>"
+      },
+      "quip": "궁금한 건 그 자리에서<br>물어봐요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>진료 활용 체크</b>",
+      "sub": "다음 진료 때 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 이렇게 준비해요",
+          "color": "yellow",
+          "lines": [
+            "① <em>몇 분 일찍</em> 도착해서 숨 고르기.",
+            "② 움직이기 편한 옷 입기.",
+            "③ 지난번 이후 <em>달라진 점</em>을 먼저 말해요.",
+            "④ 이번 주 할 일 <em>2~3가지</em> 메모하기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 꼭 알려주세요!",
+          "color": "purple",
+          "lines": [
+            "운동 후 <em>통증이 심해졌거나</em>",
+            "새로운 증상이 생겼다면 말하기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 건 <em>꼭 말해요</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "진료 시작할 때 알려주기",
+      "items": [
+        "운동 후 더 아팠다",
+        "새로운 증상이 생겼다",
+        "넘어질 뻔한 적이 있다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "헐레벌떡 지각한 코코. 숨 고르다 보니 진료가 벌써 끝나 버렸어요.\n\n몇 분 일찍 도착하고, 움직이기 편한 옷을 입고, 지난번 이후 운동이 어땠는지 먼저 이야기해 보세요. 치료사가 계획을 바로 조정할 수 있어요.\n\n하비의 팁: 운동은 보기만 하지 말고 진료 중에 직접 해보며 자세를 확인받고, 폰으로 짧게 촬영해 두기. 끝나기 전에 이번 주 할 일 2~3가지를 메모해요.\n\n운동 후 더 아팠거나 새로운 증상이 생겼다면 꼭 알려 주세요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#진료꿀팁",
+    "#물리치료",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#재활운동",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 진료 시간을 알차게 쓰는 습관, 운동 직접 해보기, 진료 준비 체크, 꼭 알려야 할 변화.",
+  "story": {
+    "headline": "진료 시간 알차게 쓰기",
+    "body": "몇 분 일찍 도착,<br>운동은 직접 해보기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-10",
+  "created": "2027-02-10-3",
+  "status": "approved",
+  "review_warnings": []
+}

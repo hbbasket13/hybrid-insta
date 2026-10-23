@@ -1,0 +1,131 @@
+{
+  "id": "C-288-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage and posture: what it can and can't change",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Can massage change<br>Mr Turtle's <em>posture</em>?",
+      "sub": "An honest massage story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's be<br>honest about it!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Nine hours</em> a day<br>in front of a screen.",
+      "char": "turtle_monitor",
+      "bubble": "If I get massages<br>often, will my<br>posture straighten?",
+      "bubble_type": "thought",
+      "note": "(those rounded shoulders are always on his mind..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Worried about posture?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. can massage<br>correct it?"
+      },
+      "note": "Hybi explained <mark>what massage can and can't do</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "What massage<br><em>can</em> and <em>can't</em> do",
+      "fact": "Research suggests there's <em>no single correct posture</em>",
+      "left": {
+        "label": "It can",
+        "char": "turtle_happy",
+        "caption": "Ease tension and make<br>moving <b>more comfortable</b>"
+      },
+      "right": {
+        "label": "It can't",
+        "char": "turtle_sad",
+        "caption": "Reshape your spine<br>or <em>lock in</em> a posture"
+      },
+      "quip": "Staying still too long<br>is the bigger issue!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute posture reset</b>",
+      "sub": "Pair it with your massage!",
+      "sections": [
+        {
+          "heading": "1. Move often + upper back",
+          "color": "yellow",
+          "lines": [
+            "① Every <em>30 minutes</em>, stand and change position.",
+            "② Roll your shoulders back <em>5 times</em>.",
+            "③ Squeeze shoulder blades, <em>5 sec × 10</em>.",
+            "④ Do it 2–3 times a day at your desk."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads into your arm</em>, or",
+            "your hands <em>tingle</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm or hand tingling",
+        "Headaches keep building",
+        "No better after a few weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle wonders if regular massage will straighten out those rounded shoulders. Honestly? Not on its own.\n\nRemedial massage can ease muscle tension, help you feel less stiff and make moving more comfortable. What it doesn't do is reshape your spine or change how you naturally stand.\n\nResearch suggests there's no single correct posture anyway. Staying in one position too long is usually the bigger issue. Massage works well alongside regular position changes and upper back strength work.\n\nPain spreading into the arm, pins and needles or building headaches are worth a physio check. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#posture",
+    "#deskjob",
+    "#officeworker",
+    "#neckandshoulders",
+    "#massagetherapy",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydney",
+    "#techneck",
+    "#hybridphysiotherapy",
+    "#physiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining what remedial massage can and can't change about posture, why there's no single correct posture, a 1-minute reset and signs worth getting checked.",
+  "story": {
+    "headline": "Can massage change posture?",
+    "body": "It eases tension.<br>Moving often does the rest.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-05",
+  "created": "2027-02-05-6",
+  "status": "approved",
+  "review_warnings": []
+}

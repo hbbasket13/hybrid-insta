@@ -1,0 +1,131 @@
+{
+  "id": "C-295-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "New to Hybrid Physiotherapy? What to expect from your team",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "New to <b>Hybrid Physio</b>?<br>Meet <em>your team</em>",
+      "sub": "Hybi gives Mr Turtle the grand tour",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Come and<br>have a look!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A stiff neck, and<br><em>no idea</em> where to start.",
+      "char": "turtle_sad",
+      "bubble": "Physio? Chiro?<br>Pilates? Which one<br>do I book..?",
+      "bubble_type": "thought",
+      "note": "(staring at the booking page for ages..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>First visit?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "I'm not sure who<br>I should see.."
+      },
+      "note": "Hybi introduced <mark>the whole team</mark>, one by one."
+    },
+    {
+      "kind": "compare",
+      "title": "Four services,<br><em>one team</em>",
+      "fact": "Physio, chiro, Pilates and remedial massage, <em>together</em>",
+      "left": {
+        "label": "Joined-up",
+        "char": "turtle_happy",
+        "caption": "Practitioners talk,<br>you get <b>one plan</b>"
+      },
+      "right": {
+        "label": "Scattered",
+        "char": "turtle_sad",
+        "caption": "Starting from scratch<br><em>every time</em>"
+      },
+      "quip": "We'll refer within<br>the team when it fits!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>first-visit guide</b>",
+      "sub": "Here's who does what!",
+      "sections": [
+        {
+          "heading": "1. Meet the team",
+          "color": "yellow",
+          "lines": [
+            "① Physios: assessment and an <em>exercise</em> plan.",
+            "② Chiros: hands-on care plus exercise and advice.",
+            "③ Pilates team: <em>tailored</em> reformer and mat work.",
+            "④ Remedial massage: helps with muscle tension."
+          ]
+        },
+        {
+          "heading": "2. Not sure where to start?",
+          "color": "purple",
+          "lines": [
+            "Ask our <em>admin team</em> —",
+            "they'll point you the right way!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Start with <em>an assessment</em> if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked first if you notice",
+      "items": [
+        "Pain unchanged for weeks",
+        "Pins and needles with it",
+        "Unsure what's going on"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle has a stiff neck and no idea whether to book physio, chiro or Pilates.\n\nAt Hybrid Physio, our physiotherapists, chiropractors, clinical Pilates team and remedial massage therapists work as one team. Physios build exercise-based plans, chiros use hands-on care alongside exercise, the Pilates team runs tailored reformer and mat programs, and remedial massage can help with muscle tension.\n\nWe talk to each other, so if another service would help, we'll suggest it and you won't start from scratch.\n\nNot sure where to begin? Our admin team can help. See you in Chatswood or Sydney CBD. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#chiropractic",
+    "#clinicalpilates",
+    "#remedialmassage",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydney",
+    "#alliedhealth"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle introducing the Hybrid Physio team of physios, chiropractors, Pilates and remedial massage, plus a first-visit guide.",
+  "story": {
+    "headline": "New here? Meet your team",
+    "body": "Not sure where to start?<br>Ask our admin team.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-4",
+  "status": "approved",
+  "review_warnings": []
+}

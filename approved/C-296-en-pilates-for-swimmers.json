@@ -1,0 +1,131 @@
+{
+  "id": "C-296-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for swimmers",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's shoulders<br>feel <em>tight after laps</em>",
+      "sub": "Pilates for swimmers, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>2 km of freestyle</em><br>every morning.",
+      "char": "cat_tired",
+      "bubble": "Why do my shoulders<br>feel so tight<br>after long sets..?",
+      "bubble_type": "thought",
+      "note": "(and my neck gets stiff turning to breathe..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shoulders feeling it?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Can Pilates on land<br>help my swimming?"
+      },
+      "note": "Hybi explained <mark>which muscles swimming uses</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Freestyle loves<br>the <em>front of the body</em>",
+      "fact": "Chest and front shoulder work hard · <em>upper back</em>, less so",
+      "left": {
+        "label": "Balanced",
+        "char": "cat_happy",
+        "caption": "Back and shoulder blade<br>work <b>balances it out</b>"
+      },
+      "right": {
+        "label": "Laps only",
+        "char": "cat_tired",
+        "caption": "Same muscles, every lap,<br><em>can feel tight</em>"
+      },
+      "quip": "Time on land can<br>support your stroke!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute shoulder prep</b>",
+      "sub": "Try it against a wall!",
+      "sections": [
+        {
+          "heading": "1. Wall slide",
+          "color": "yellow",
+          "lines": [
+            "① Back to the wall, arms in a W shape.",
+            "② Feel your shoulder blades, slide arms up <em>slowly</em>.",
+            "③ <em>10 reps × 2 sets</em>, once or twice a day.",
+            "④ Add dead bugs for a steady trunk."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "You feel a <em>catch</em> or <em>sharp pain</em> in the shoulder",
+            "— stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Shoulder pain wakes you",
+        "Weakness lifting your arm",
+        "Pain lasting over 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo swims 2 km of freestyle every morning, and the shoulders feel tight after long sets. 🏊\n\nFreestyle leans heavily on the chest and the front of the shoulder. Clinical Pilates can balance that with shoulder blade control, upper back strength and rotation work, plus a steady trunk that helps you hold a long line in the water.\n\nHybi's tip: wall slides, 10 reps × 2 sets, once or twice a day. One or two Pilates sessions a week often fits around pool training.\n\nShoulder pain at night, weakness lifting your arm or pain lasting more than two weeks is worth an assessment first. Our Pilates team at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#swimming",
+    "#swimmer",
+    "#shoulderpain",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#reformerpilates",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining how freestyle loads the shoulders, how Pilates balances it, a wall slide routine and signs worth getting checked.",
+  "story": {
+    "headline": "Tight shoulders after laps?",
+    "body": "Wall slides: 10 × 2 sets,<br>once or twice a day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-2",
+  "status": "approved",
+  "review_warnings": []
+}

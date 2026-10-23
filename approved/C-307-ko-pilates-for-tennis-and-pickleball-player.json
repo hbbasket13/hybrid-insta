@@ -1,0 +1,131 @@
+{
+  "id": "C-307-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for tennis and pickleball players",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "모모의 <em>피클볼</em>,<br>필라테스가 도울까?",
+      "sub": "하비와 함께 알아보는 코트 위 필라테스",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말마다 <em>테니스·피클볼</em>에<br>푹 빠진 모모.",
+      "char": "cat_tired",
+      "bubble": "경기 끝나면<br>어깨랑 팔꿈치가<br>왜 뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(옆으로 뛸 때 발목도 불안불안..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>필라테스 궁금해요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네! 근데 코트에도<br>도움이 될까요?"
+      },
+      "note": "하비는 <mark>회전은 몸통에서</mark> 시작된다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "회전은 <em>몸통</em>에서<br>나와요!",
+      "fact": "등 가운데·골반 회전이 <em>어깨·팔꿈치</em> 부담을 나눌 수 있어요",
+      "left": {
+        "label": "몸통 회전",
+        "char": "cat_happy",
+        "caption": "몸통이 같이 돌면<br>팔이 <b>덜 일해요</b>"
+      },
+      "right": {
+        "label": "팔로만 치기",
+        "char": "cat_tired",
+        "caption": "어깨·팔꿈치가<br><em>혼자 버텨요</em>"
+      },
+      "quip": "주 1~2회면<br>보통 충분해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 코트 필라테스</b>",
+      "sub": "경기 없는 날에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 한 발 균형 잡기",
+          "color": "yellow",
+          "lines": [
+            "① 한 발로 서서 골반을 수평으로.",
+            "② <em>30초 × 양쪽 2회</em>.",
+            "③ 익숙해지면 몸통을 좌우로 천천히.",
+            "④ 주 2회, 큰 경기 전날은 피해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 상담받기!",
+          "color": "purple",
+          "lines": [
+            "운동 중 <em>통증이 심해지거나</em>,",
+            "<em>발목이 자꾸 꺾인다면</em> 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔꿈치 통증이 계속된다",
+        "서브할 때 어깨가 아프다",
+        "발목이 자주 접질린다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "테니스·피클볼에 푹 빠진 모모. 클리니컬 필라테스는 코트에서 어떤 도움이 될까요? 🎾\n\n두 종목 모두 빠른 좌우 발놀림, 몸통 회전, 반복되는 서브를 버티는 어깨가 필요해요. 필라테스는 스프링 저항으로 한 발 균형, 몸통 회전 조절, 범위 전체에서의 어깨 힘을 길러줄 수 있어요.\n\n대부분 주 1~2회, 큰 경기 날과 떨어뜨려 하면 무리 없이 맞출 수 있어요.\n\n하이브리드 피지오 필라테스 팀은 평가부터 시작해 종목에 맞춰 프로그램을 짜요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#클리니컬필라테스",
+    "#필라테스",
+    "#테니스",
+    "#피클볼",
+    "#채스우드",
+    "#시드니",
+    "#하이브리드피지오",
+    "#부상예방",
+    "#clinicalpilates",
+    "#tennis",
+    "#pickleball",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 테니스·피클볼에서 몸통 회전의 역할, 한 발 균형 운동, 상담이 필요한 신호.",
+  "story": {
+    "headline": "테니스·피클볼 즐긴다면?",
+    "body": "한 발 균형 30초,<br>주 2회부터!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-13",
+  "created": "2027-02-13-1",
+  "status": "approved",
+  "review_warnings": []
+}

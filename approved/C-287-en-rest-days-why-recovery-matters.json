@@ -1,0 +1,131 @@
+{
+  "id": "C-287-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Rest days: why recovery matters",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto hasn't taken<br><em>a day off</em> since New Year",
+      "sub": "A rest-day story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Rest days count<br>as training too!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Run every day, then<br><em>run again</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why do my legs<br>feel so heavy<br>lately..?",
+      "bubble_type": "thought",
+      "note": "(sore for days, and sleep isn't great either..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling flat lately?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. maybe I just<br>need to train harder?"
+      },
+      "note": "Hybi explained that <mark>your body adapts while it recovers</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "You get fitter<br>while you <em>recover</em>!",
+      "fact": "Training is the stimulus · <em>adaptation</em> mostly happens after",
+      "left": {
+        "label": "Easy rest day",
+        "char": "rabbit_happy",
+        "caption": "A walk or easy swim<br>keeps you <b>moving</b>"
+      },
+      "right": {
+        "label": "Hard every day",
+        "char": "rabbit_tired",
+        "caption": "Recovery can't keep up,<br>progress <em>can stall</em>"
+      },
+      "quip": "Plan rest days like<br>you plan sessions!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute recovery plan</b>",
+      "sub": "Pop it in your calendar!",
+      "sections": [
+        {
+          "heading": "1. Plan your rest",
+          "color": "yellow",
+          "lines": [
+            "① Make <em>1–2 days a week</em> light or off.",
+            "② Rest day: a walk, easy swim or mobility.",
+            "③ Aim for <em>7–9 hours</em> of sleep, same bedtime.",
+            "④ Add an <em>easier week</em> every month or so."
+          ]
+        },
+        {
+          "heading": "2. Ease back if…",
+          "color": "purple",
+          "lines": [
+            "Soreness <em>hangs around for days</em>, or",
+            "niggles <em>keep stacking up</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Signs you need<br><em>more recovery</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Worth a chat if you notice",
+      "items": [
+        "Soreness lasting days",
+        "Performance keeps dropping",
+        "Niggles stacking up"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto has trained every single day since New Year. Lately the legs feel heavy and the times have stopped improving.\n\nTraining is the stimulus, but most of the adaptation happens while you recover. Skip recovery for long enough and sessions feel harder, soreness lingers and small niggles start to stack up.\n\nRest doesn't have to mean the couch. A walk, an easy swim or gentle mobility all count. Protect your seven to nine hours of sleep. Most people do well with one or two lighter days a week, plus an easier week every month or so.\n\nOur team at Hybrid Physio can help you balance training and recovery. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#restday",
+    "#recovery",
+    "#running",
+    "#sydneyrunners",
+    "#trainingtips",
+    "#sleep",
+    "#chatswood",
+    "#sydneycbd",
+    "#physiotherapy",
+    "#pilates",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why the body adapts during recovery, easy rest days versus hard training every day, a 1-minute recovery plan and signs you need more rest.",
+  "story": {
+    "headline": "Rest days count as training",
+    "body": "1–2 lighter days a week,<br>7–9 hours of sleep.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-05",
+  "created": "2027-02-05-2",
+  "status": "approved",
+  "review_warnings": []
+}

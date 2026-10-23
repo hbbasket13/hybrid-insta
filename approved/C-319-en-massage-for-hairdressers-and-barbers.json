@@ -1,0 +1,131 @@
+{
+  "id": "C-319-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for hairdressers and barbers",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's shoulders<br><em>tighten by closing</em>",
+      "sub": "A story for hairdressers and barbers",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day with his<br><em>arms up</em>, cutting hair.",
+      "char": "turtle_sad",
+      "bubble": "My shoulders feel<br>up near my ears..",
+      "bubble_type": "thought",
+      "note": "(and the wrists and thumbs ache too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Shoulders tight?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. will a massage<br>sort it out?"
+      },
+      "note": "Hybi decided to check <mark>the chair height</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Chair height changes<br><em>your shoulders</em>!",
+      "fact": "Arms held up for hours keep <em>neck, shoulders, forearms</em> busy",
+      "left": {
+        "label": "Chest height",
+        "char": "turtle_happy",
+        "caption": "Pump the chair and<br><b>step around</b> the client"
+      },
+      "right": {
+        "label": "Reach and lean",
+        "char": "turtle_sad",
+        "caption": "The more you reach,<br>the more <em>shoulders hold</em>"
+      },
+      "quip": "Small changes add<br>up over a long day!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>30-second client reset</b>",
+      "sub": "Between every client!",
+      "sections": [
+        {
+          "heading": "1. 30-second reset",
+          "color": "yellow",
+          "lines": [
+            "① <em>Drop your arms</em>, roll shoulders 5 times.",
+            "② Shake out your hands for 5 seconds.",
+            "③ Stretch each forearm <em>gently</em>, 10 sec.",
+            "④ Repeat between every client."
+          ]
+        },
+        {
+          "heading": "2. Get it checked if…",
+          "color": "purple",
+          "lines": [
+            "Fingers go <em>numb or tingly</em>, or your",
+            "hand feels weak and you <em>drop tools</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numb or tingly fingers",
+        "Hand weakness",
+        "Pain that keeps building"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle spends all day behind the chair with his arms up, head tilted and hands gripping. Hairdressers and barbers load the neck, shoulders and forearms a lot, especially in a busy week.\n\nA few things can help: pump the chair so you're working around chest height, step around the client rather than reaching, and take 30 seconds between appointments to drop your arms, roll your shoulders and shake out your hands. Remedial massage can ease tight shoulders and forearms, and it works well alongside those habits.\n\nNumb or tingly fingers, hand weakness or pain that keeps building is worth a physio assessment. Book online via the link in bio ✂️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#hairdresser",
+    "#barber",
+    "#hairdresserlife",
+    "#shouldertension",
+    "#workhealth",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why hairdressers' shoulders tighten, how chair height helps, a 30-second reset between clients and signs worth getting checked.",
+  "story": {
+    "headline": "Hairdresser or barber?",
+    "body": "Chair at chest height,<br>30-second reset between clients.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-18",
+  "created": "2027-02-18-4",
+  "status": "approved",
+  "review_warnings": []
+}

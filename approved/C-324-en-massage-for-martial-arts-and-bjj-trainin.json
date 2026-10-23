@@ -1,0 +1,131 @@
+{
+  "id": "C-324-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for martial arts and BJJ training",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Rolling five nights a week?<br>Lulu's <em>forearms are cooked</em>",
+      "sub": "Massage around BJJ and martial arts",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After work, every night:<br><em>BJJ rolling</em>.",
+      "char": "kanga_tired",
+      "bubble": "My grip and neck<br>are so tight..",
+      "bubble_type": "thought",
+      "note": "(and grading is only two weeks away..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big training week?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. can I get a deep<br>one before grading?"
+      },
+      "note": "Hybi decided to explain <mark>massage timing</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Save firm massage<br>for <em>lighter days</em>!",
+      "fact": "Gripping, framing and bridging load <em>forearms, neck, hips</em>",
+      "left": {
+        "label": "Light day",
+        "char": "kanga_happy",
+        "caption": "Firm work suits<br>a <b>lighter training day</b>"
+      },
+      "right": {
+        "label": "Night before",
+        "char": "kanga_tired",
+        "caption": "Deep work can leave<br>you <em>feeling heavy</em>"
+      },
+      "quip": "Keep it light 1–2 days<br>before comp!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute pre-massage check</b>",
+      "sub": "Tell your therapist!",
+      "sections": [
+        {
+          "heading": "1. Let your therapist know",
+          "color": "yellow",
+          "lines": [
+            "① Your style and <em>how often</em> you train.",
+            "② Upcoming comp or grading dates.",
+            "③ Any <em>late taps</em> on joint locks or bad falls.",
+            "④ Then choose pressure and positions together."
+          ]
+        },
+        {
+          "heading": "2. Get assessed instead if…",
+          "color": "purple",
+          "lines": [
+            "A joint feels <em>unstable</em>, a <em>pop with swelling</em>,",
+            "or a knock to the head."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A joint that feels unstable",
+        "A pop with swelling",
+        "Numbness or tingling"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Forearms cooked and neck stiff after a week of rolling? BJJ and other martial arts ask a lot of the grip, neck, upper back and hips.\n\nRemedial massage can help you feel looser and move more comfortably between sessions. It sits well alongside sleep, sensible training load and strength work rather than replacing them. Keep lighter work for the day or two before a comp or grading, and save firmer sessions for lighter training days. Tell your therapist about any late taps or awkward landings.\n\nA joint that feels unstable, a pop with swelling, numbness or a knock to the head needs a physio assessment first. Our team at Hybrid Physio can help. Book online via the link in bio 🥋\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#bjj",
+    "#brazilianjiujitsu",
+    "#martialarts",
+    "#sportsmassage",
+    "#grappling",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneybjj",
+    "#hybridphysiotherapy",
+    "#recovery"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why BJJ loads the grip, neck and hips, when to time firm massage, what to tell your therapist and signs worth getting checked.",
+  "story": {
+    "headline": "Rolling most nights?",
+    "body": "Keep firm massage away from comp day,<br>and mention recent tap-outs.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-19",
+  "created": "2027-02-19-6",
+  "status": "approved",
+  "review_warnings": []
+}

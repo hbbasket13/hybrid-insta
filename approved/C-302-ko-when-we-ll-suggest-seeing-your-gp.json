@@ -1,0 +1,131 @@
+{
+  "id": "C-302-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "When we'll suggest seeing your GP",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "코코씨, 왜 <em>GP</em>에<br>가보라고 할까?",
+      "sub": "하비가 알려주는 함께하는 진료",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "걱정 말아요,<br>같이 알아봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "허리가 아픈데<br><em>몸살 기운</em>까지 있는 코코씨.",
+      "char": "koala_tired",
+      "bubble": "그냥 낮잠 자면<br>나아지려나..?",
+      "bubble_type": "thought",
+      "note": "(요즘 밤엔 편한 자세도 없다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>어디가 불편해요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "허리요.. 근데 왜<br>GP 얘기를 해요?"
+      },
+      "note": "하비는 <mark>함께 보는 게 왜 중요한지</mark> 설명했다."
+    },
+    {
+      "kind": "compare",
+      "title": "GP 권유는 <em>팀워크</em>예요!",
+      "fact": "대부분의 통증은 움직임과 시간으로 <em>가라앉아요</em>",
+      "left": {
+        "label": "함께 진료",
+        "char": "koala_happy",
+        "caption": "동의하면 GP에게 편지,<br>치료도 <b>계속해요</b>"
+      },
+      "right": {
+        "label": "혼자 버티기",
+        "char": "koala_tired",
+        "caption": "열·체중 감소를<br><em>그냥 넘기기</em>"
+      },
+      "quip": "다른 원인도 같이<br>살펴보는 거예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 GP 준비</b>",
+      "sub": "의사도 함께 봐야 할 때",
+      "sections": [
+        {
+          "heading": "1. GP 진료 전 준비하기",
+          "color": "yellow",
+          "lines": [
+            "① 언제부터 아팠는지 적어요.",
+            "② 열·체중 변화·밤 통증을 메모해요.",
+            "③ 우리 평가 내용을 GP에게 전해요.",
+            "④ 동의하면 <em>소견서</em>를 써드려요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 응급실로!",
+          "color": "purple",
+          "lines": [
+            "사타구니 <em>감각 저하</em>, 배뇨·배변 변화,",
+            "<em>다리 힘이 점점</em> 빠진다면 즉시!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>GP와 함께</em> 봐요",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "열과 함께 오는 허리 통증",
+        "이유 없는 체중 감소",
+        "자세와 무관한 밤 통증"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "물리치료사나 카이로프랙터가 왜 GP에 가보라고 할까요?\n\n대부분의 통증은 적절한 움직임과 시간으로 가라앉아요. 하지만 열, 이유 없는 체중 감소, 어떤 자세에서도 줄지 않는 밤 통증이 함께 있다면 의사의 진료도 필요할 수 있어요.\n\n몇 주 동안 열심히 해도 나아지지 않을 때도 GP가 더 넓게 살펴볼 수 있어요. 떠넘기는 게 아니라 팀워크예요. 동의하면 GP에게 편지를 쓰고 치료도 함께 이어가요.\n\n하이브리드 피지오 팀과 다음 단계를 상의해 보세요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#gp",
+    "#허리통증",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#팀케어",
+    "#physiotherapy",
+    "#alliedhealth",
+    "#sydneyphysio",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: GP 진료를 권하는 이유, 팀워크 진료, GP 진료 전 준비, 의사 확인이 필요한 신호.",
+  "story": {
+    "headline": "GP 권유, 팀워크예요",
+    "body": "열·체중 감소·신경 증상,<br>함께 살펴봐요.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-11",
+  "created": "2027-02-11-5",
+  "status": "approved",
+  "review_warnings": []
+}

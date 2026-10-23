@@ -1,0 +1,131 @@
+{
+  "id": "C-291-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for musicians' necks and shoulders",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Mr Turtle's guitar<br>is leaving his <em>neck tight</em>",
+      "sub": "A musician's neck story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Micro-breaks<br>can help!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After work: band practice,<br><em>three hours</em> of guitar.",
+      "char": "turtle_sad",
+      "bubble": "Head down all night..<br>my neck's so stiff..",
+      "bubble_type": "thought",
+      "note": "(and one shoulder hitched up to the fretboard..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Long rehearsal?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. will a massage<br>loosen it all up?"
+      },
+      "note": "Hybi suggested <mark>pairing massage with movement</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Hours in <em>one position</em>?",
+      "fact": "Playing means <em>small, repeated movements</em> for hours",
+      "left": {
+        "label": "Micro-breaks",
+        "char": "turtle_happy",
+        "caption": "Every 20–30 min,<br><b>move for a minute</b>"
+      },
+      "right": {
+        "label": "No breaks",
+        "char": "turtle_sad",
+        "caption": "The neck and shoulders<br><em>feel it first</em>"
+      },
+      "quip": "Massage helps short-term;<br>pair it with movement!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute rehearsal break</b>",
+      "sub": "Try it mid-practice!",
+      "sections": [
+        {
+          "heading": "1. Every 20–30 minutes",
+          "color": "yellow",
+          "lines": [
+            "① <em>Put the instrument down</em>.",
+            "② Roll your shoulders back slowly <em>5 times</em>.",
+            "③ Gently turn your head side to side.",
+            "④ Shake out your hands, then play on!"
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Hands go <em>numb, tingly or weak</em>, or",
+            "you lose <em>fine control</em> — get it checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hand numbness or tingling",
+        "Pain long after playing",
+        "Losing fine control"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "After a full day at the desk, Mr Turtle plays three hours of guitar at band practice. Head down, one shoulder hitched up, and his neck feels it.\n\nPlaying an instrument means hours of small, repeated movements in one position. Remedial massage can ease that tight, heavy feeling in the neck, shoulders and upper back, but the effect is usually short-term.\n\nPair it with micro-breaks every 20 to 30 minutes and some upper back strength work, like band rows. Numbness, tingling, hand weakness or losing fine control is worth a physio or GP assessment first.\n\nOur remedial massage therapists at Hybrid Physio can help. Book online via the link in bio. 🎸\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#musicians",
+    "#guitarist",
+    "#remedialmassage",
+    "#neckandshoulders",
+    "#neckpain",
+    "#musicianshealth",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydneymusicians",
+    "#massagetherapy",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why musicians' necks and shoulders tighten, how micro-breaks help, a 1-minute rehearsal break and signs worth getting checked.",
+  "story": {
+    "headline": "Neck tight after rehearsal?",
+    "body": "Every 20–30 minutes, put it down<br>and roll your shoulders.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-06",
+  "created": "2027-02-06-6",
+  "status": "approved",
+  "review_warnings": []
+}

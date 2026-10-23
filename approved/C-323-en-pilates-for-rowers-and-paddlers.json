@@ -1,0 +1,131 @@
+{
+  "id": "C-323-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for rowers and paddlers",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's back feels<br><em>heavy after paddling</em>",
+      "sub": "Pilates for rowers and paddlers, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Every weekend:<br>two hours of <em>dragon boat</em>.",
+      "char": "cat_tired",
+      "bubble": "The more I paddle,<br>the stiffer my<br>back gets..",
+      "bubble_type": "thought",
+      "note": "(and by afternoon, the shoulders ache too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling stiff?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. should I just<br>do back exercises?"
+      },
+      "note": "Hybi decided to look at <mark>trunk rotation</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Turn from the middle,<br>not <em>the shoulders</em>!",
+      "fact": "Paddling power comes from <em>trunk rotation</em>",
+      "left": {
+        "label": "Trunk rotation",
+        "char": "cat_happy",
+        "caption": "Turning from the ribs<br><b>shares the load</b>"
+      },
+      "right": {
+        "label": "Arms and back",
+        "char": "cat_tired",
+        "caption": "Pulling only with them<br>can <em>tire one area</em>"
+      },
+      "quip": "Hips and mid-back<br>should pitch in too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute rotation drill</b>",
+      "sub": "Before you hit the water!",
+      "sections": [
+        {
+          "heading": "1. Open book",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your side, knees bent to 90°.",
+            "② Reach both arms out in front.",
+            "③ <em>Slowly</em> open the top arm, turning your chest.",
+            "④ <em>8 reps each side</em>, 1–2 times a day."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "You get <em>sharp rib pain</em> when rowing",
+            "or breathing deeply."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sharp rib pain",
+        "Back pain building weekly",
+        "A shoulder aching at night"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo's back feels heavy after every dragon boat session. Rowing asks for a lot of hip bend at the catch, while kayak, outrigger and dragon boat paddling drive power through trunk rotation. When hips are stiff or the mid-back doesn't turn much, the lower back and shoulders often end up doing extra work.\n\nClinical Pilates can target those gaps: hip mobility, rotation and shoulder blade control. One or two sessions a week, ideally on lighter training days, is a good start.\n\nSharp rib pain, back pain that builds week to week or a shoulder that aches at night is worth an assessment. Our Pilates team at Hybrid Physio starts with an assessment. Book online via the link in bio 🚣\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#rowing",
+    "#paddling",
+    "#dragonboat",
+    "#kayaking",
+    "#outrigger",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why paddling can leave the back heavy, trunk rotation versus arms and back, an open book drill and signs worth getting checked.",
+  "story": {
+    "headline": "Rower or paddler?",
+    "body": "One Pilates session on a lighter day:<br>hips, rotation, shoulder blades.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-19",
+  "created": "2027-02-19-2",
+  "status": "approved",
+  "review_warnings": []
+}

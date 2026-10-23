@@ -1,0 +1,131 @@
+{
+  "id": "C-285-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for triathletes",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Swim, bike, run:<br>where does <em>massage</em> fit?",
+      "sub": "A triathlon recovery story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's plan it<br>around training!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Race season, and Toto<br>does <em>all three sports</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Shoulders, quads,<br>calves.. where<br>do I even start?",
+      "bubble_type": "thought",
+      "note": "(Toto even booked a first deep massage for race eve..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big training week?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. harder massage<br>means faster times, right?"
+      },
+      "note": "Hybi explained that <mark>timing and focus</mark> matter most."
+    },
+    {
+      "kind": "compare",
+      "title": "Each sport loads<br><em>different spots</em>!",
+      "fact": "Swim: <em>shoulders</em> · Bike: <em>quads, neck</em> · Run: <em>calves, feet</em>",
+      "left": {
+        "label": "Recovery week",
+        "char": "rabbit_happy",
+        "caption": "Firmer work fits<br><b>early in the week</b>"
+      },
+      "right": {
+        "label": "Race eve",
+        "char": "rabbit_tired",
+        "caption": "A first deep session<br><em>isn't ideal</em>"
+      },
+      "quip": "Tell your therapist<br>this week's training!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute recovery plan</b>",
+      "sub": "Match massage to your week!",
+      "sections": [
+        {
+          "heading": "1. Plan your sessions",
+          "color": "yellow",
+          "lines": [
+            "① Note this week's <em>main discipline</em>.",
+            "② Pool block? Focus on shoulders, upper back.",
+            "③ Run block? Focus on calves and feet.",
+            "④ Keep it <em>lighter</em> in the days before a race."
+          ]
+        },
+        {
+          "heading": "2. See a physio instead if…",
+          "color": "purple",
+          "lines": [
+            "Pain is <em>sharp</em> or sits on a bone, or it",
+            "<em>gets worse</em> each session — get assessed."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sharp, pinpoint pain",
+        "Worse every session",
+        "It changes your technique"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Swim, bike, run, repeat. Toto's whole body feels tight, but where does massage actually fit?\n\nEach discipline loads something different: shoulders and upper back from the pool, quads, hip flexors and neck from the bike, calves and feet from running. Firmer remedial massage often suits early in a recovery week, with lighter sessions close to race day. A first-ever deep session right before an event isn't ideal.\n\nMassage is a support act. Strength work, sleep, fuelling and sensible load progressions do most of the work. Sharp, localised or worsening pain is worth a physio assessment instead.\n\nOur remedial massage therapists at Hybrid Physio can tailor sessions to your training. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#triathlon",
+    "#triathlontraining",
+    "#remedialmassage",
+    "#sportsmassage",
+    "#recovery",
+    "#chatswood",
+    "#sydneycbd",
+    "#sydneytriathlon",
+    "#endurance",
+    "#swimbikerun",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining where each triathlon discipline loads the body, how to time remedial massage, a 1-minute recovery plan and signs worth a physio check.",
+  "story": {
+    "headline": "Triathlon block underway?",
+    "body": "Tell your therapist this week's<br>focus: pool, bike or run.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-04",
+  "created": "2027-02-04-6",
+  "status": "approved",
+  "review_warnings": []
+}

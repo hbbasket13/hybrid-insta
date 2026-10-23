@@ -1,0 +1,131 @@
+{
+  "id": "C-290-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage during a marathon training block",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Marathon block:<br>when should <em>massage</em> fit?",
+      "sub": "A marathon recovery story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Timing is<br>the key!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Long runs every weekend,<br>Toto's <em>marathon block</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Calves like rocks..<br>I'll get them<br>worked hard!",
+      "bubble_type": "thought",
+      "note": "(deep massage the day before the long run = heavy legs..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Legs feeling heavy?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. isn't harder<br>pressure better?"
+      },
+      "note": "Hybi explained that <mark>timing and pressure</mark> matter most."
+    },
+    {
+      "kind": "compare",
+      "title": "When, and<br>how <em>firm</em>?",
+      "fact": "Sleep, food and your plan do most of the <em>recovery work</em>",
+      "left": {
+        "label": "Easy day",
+        "char": "rabbit_happy",
+        "caption": "Lighter work after<br>a long run or <b>easy day</b>"
+      },
+      "right": {
+        "label": "Before key runs",
+        "char": "rabbit_tired",
+        "caption": "Deep pressure can leave<br>legs <em>feeling heavy</em>"
+      },
+      "quip": "Leave a day or two<br>before key sessions!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute massage timing</b>",
+      "sub": "Pop it next to your training plan!",
+      "sections": [
+        {
+          "heading": "1. Book it at the right time",
+          "color": "yellow",
+          "lines": [
+            "① Book after a long run or on an <em>easy day</em>.",
+            "② Leave <em>1–2 days</em> before speed work or long runs.",
+            "③ Tell your therapist which week you're in.",
+            "④ Keep calf and quad strength work <em>going</em>."
+          ]
+        },
+        {
+          "heading": "2. See a physio instead if…",
+          "color": "purple",
+          "lines": [
+            "Bone pain <em>builds</em> as you run, or",
+            "a niggle <em>changes your stride</em> — get assessed."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Bone pain that builds",
+        "Changes in your stride",
+        "Worse week after week"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto's marathon block is underway, with long runs every weekend. A deep massage the day before a long run left the legs heavier, not lighter.\n\nMany runners find massage helps tight calves and quads feel looser as the kilometres climb. It's a useful extra, but sleep, food, strength work and a sensible build do most of the recovery.\n\nTiming matters: lighter work after long runs or on easy days, and a day or two of space before key sessions. Tell your remedial massage therapist where you are in your block. Bone pain that builds or a niggle that changes your stride is worth a physio assessment.\n\nBook online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#marathontraining",
+    "#running",
+    "#sydneyrunners",
+    "#remedialmassage",
+    "#sportsmassage",
+    "#runnerslife",
+    "#sydneycbd",
+    "#chatswood",
+    "#recovery",
+    "#longrun",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining how to time remedial massage in a marathon block, why pressure matters, a 1-minute booking plan and signs worth a physio check.",
+  "story": {
+    "headline": "Marathon block underway?",
+    "body": "Lighter massage on easy days.<br>Leave space before long runs.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-06",
+  "created": "2027-02-06-2",
+  "status": "approved",
+  "review_warnings": []
+}

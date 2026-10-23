@@ -1,0 +1,131 @@
+{
+  "id": "C-318-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for netball and basketball players",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's legs feel<br><em>heavy after court</em>",
+      "sub": "Netball and basketball season, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Preseason is on:<br><em>three court sessions</em> a week.",
+      "char": "kanga_tired",
+      "bubble": "Every jump, my calves<br>feel like lead..",
+      "bubble_type": "thought",
+      "note": "(and the quads ache for the first few weeks..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Legs feeling heavy?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. can I go hard<br>right before a game?"
+      },
+      "note": "Hybi decided to explain <mark>massage timing</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "With massage,<br><em>timing</em> matters!",
+      "fact": "Jumps, landings and stops load <em>calves, feet and hips</em>",
+      "left": {
+        "label": "1–2 days out",
+        "char": "kanga_happy",
+        "caption": "Lighter work first,<br>firmer work <b>after games</b>"
+      },
+      "right": {
+        "label": "Right before",
+        "char": "kanga_tired",
+        "caption": "Deep work can leave<br>legs <em>feeling flat</em>"
+      },
+      "quip": "Match the pressure<br>to the day!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>court-legs week plan</b>",
+      "sub": "Use it all season!",
+      "sections": [
+        {
+          "heading": "1. Plan your week",
+          "color": "yellow",
+          "lines": [
+            "① 1–2 days before a game: <em>lighter</em> massage.",
+            "② After games or light days: firmer work.",
+            "③ Landing drills + calf and hip strength, 2x/week.",
+            "④ Build training load <em>gradually</em>."
+          ]
+        },
+        {
+          "heading": "2. See a physio instead if…",
+          "color": "purple",
+          "lines": [
+            "You <em>rolled an ankle</em> or a knee <em>gives way</em> —",
+            "get assessed before massage."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A rolled ankle",
+        "A knee that gives way",
+        "Swelling that won't settle"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Preseason court training is back and Lulu's legs feel like lead. Netball and basketball mean jumping, landing, sprinting and sudden stops, so tight calves and heavy quads are common early on.\n\nRemedial massage can ease that heavy feeling and help you move more comfortably. Timing matters: lighter work a day or two before games, firmer sessions after games or on light training days. It complements landing practice, calf and hip strength, and sensible training load rather than replacing them.\n\nA rolled ankle, a knee that gives way or swelling that won't settle needs an assessment first. Our team at Hybrid Physio refers between massage and physio when needed. Book online via the link in bio 🏀\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#netball",
+    "#basketball",
+    "#sportsmassage",
+    "#preseason",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneysport",
+    "#hybridphysiotherapy",
+    "#recovery",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why court sports load the legs, how to time massage around games, a weekly plan and signs worth getting checked.",
+  "story": {
+    "headline": "Big week on court?",
+    "body": "Lighter massage 1–2 days before games,<br>firmer work after.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-17",
+  "created": "2027-02-17-6",
+  "status": "approved",
+  "review_warnings": []
+}

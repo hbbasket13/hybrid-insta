@@ -1,0 +1,131 @@
+{
+  "id": "C-321-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for dancers",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Momo is bendy. So why<br>do <em>landings wobble</em>?",
+      "sub": "A Pilates story for dancers, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Leg up past her head,<br>but the <em>landing wobbles</em>.",
+      "char": "cat_tired",
+      "bubble": "I'm so flexible..<br>why do I feel<br>unsteady..?",
+      "bubble_type": "thought",
+      "note": "(and turnout makes the knees grumble..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Dancing feel off?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. should I just<br>stretch more?"
+      },
+      "note": "Hybi decided to explain <mark>flexibility vs strength</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Flexibility needs<br><em>control</em>!",
+      "fact": "Reaching end range and <em>holding it there</em> are different",
+      "left": {
+        "label": "Controlled range",
+        "char": "cat_happy",
+        "caption": "Strong all the way<br>to <b>end range</b>"
+      },
+      "right": {
+        "label": "Flexible only",
+        "char": "cat_tired",
+        "caption": "Gets there, but<br><em>wobbles easily</em>"
+      },
+      "quip": "Turnout from the hips,<br>not the knees!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute foot strength</b>",
+      "sub": "Before class or rehearsal!",
+      "sections": [
+        {
+          "heading": "1. Single-leg rise",
+          "color": "yellow",
+          "lines": [
+            "① Hold the barre lightly, stand on one leg.",
+            "② Rise high onto the ball of the foot.",
+            "③ Lower <em>slowly</em> all the way down.",
+            "④ <em>3 sets of 10</em>, each side."
+          ]
+        },
+        {
+          "heading": "2. Stop and get it checked if…",
+          "color": "purple",
+          "lines": [
+            "One spot on the <em>foot or shin</em> hurts more",
+            "with each jump — don't train through it."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "One sore spot on the shin",
+        "A painful catch in the hip",
+        "Back pain with backbends"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo can kick past her head, yet her landings wobble. Many dancers have plenty of flexibility but less strength at end range.\n\nClinical Pilates trains control through the full range, which can help extensions, balances and landings feel steadier. Side-lying work and reformer footwork help more of your turnout come from the hips, and slow single-leg rises build feet and calves for long rehearsal days. One or two sessions a week is a good start, lighter in performance weeks.\n\nPain in one spot on the foot or shin that builds with jumping is worth an assessment. Our Pilates team at Hybrid Physio starts with an assessment, then builds a program around your dance style. Book online via the link in bio 🩰\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#dancer",
+    "#ballet",
+    "#dancetraining",
+    "#reformerpilates",
+    "#sydneycbd",
+    "#sydneypilates",
+    "#sydneydance",
+    "#hybridphysiotherapy",
+    "#turnout",
+    "#strength"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why flexible dancers need strength, controlled range versus flexibility alone, a single-leg rise routine and signs worth getting checked.",
+  "story": {
+    "headline": "Dancer? Train your strength",
+    "body": "3 sets of 10 slow single-leg rises,<br>each side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-18",
+  "created": "2027-02-18-6",
+  "status": "approved",
+  "review_warnings": []
+}

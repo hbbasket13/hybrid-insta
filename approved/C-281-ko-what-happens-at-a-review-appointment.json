@@ -1,0 +1,131 @@
+{
+  "id": "C-281-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What happens at a review appointment",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "두 번째 진료에선<br><em>뭘 할까?</em>",
+      "sub": "코코와 알아보는 재진 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "미리<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "다음 주 <em>재진 예약</em>.<br>살짝 긴장한 코코.",
+      "char": "koala_tired",
+      "bubble": "이번엔 또<br>뭘 하는 거지..?",
+      "bubble_type": "thought",
+      "note": "(운동은 했는데 잘한 건지 모르겠어..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그날 <b>하이브리드 피지오</b>에서<br>하비를 다시 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 또 만났네요.<br>그동안 어땠어요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "조금 나아졌는데..<br>운동이 맞는지 몰라서요"
+      },
+      "note": "하비는 <mark>재진에서 하는 일</mark>을 차근차근 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "재진은 <em>비교</em>하는<br>시간이에요!",
+      "fact": "첫 진료 때의 <em>움직임과 검사</em>를 다시 해서 비교해요",
+      "left": {
+        "label": "솔직하게",
+        "char": "koala_happy",
+        "caption": "편해진 것·힘든 것<br><b>그대로 말하기</b>"
+      },
+      "right": {
+        "label": "괜찮다고만",
+        "char": "koala_tired",
+        "caption": "불편한 점을 숨기면<br><em>조정이 어려워요</em>"
+      },
+      "quip": "그래야 계획을<br>딱 맞게 바꿀 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 재진 준비</b>",
+      "sub": "진료 전에 메모해 봐요!",
+      "sections": [
+        {
+          "heading": "1. 재진 전 메모하기",
+          "color": "yellow",
+          "lines": [
+            "① <em>편해진 것</em> 한 가지 적기.",
+            "② 아직 <em>힘든 동작</em> 한 가지 적기.",
+            "③ 헷갈린 운동이나 질문 적기.",
+            "④ 다가오는 <em>목표·행사</em>도 적기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 미리 연락하기!",
+          "color": "purple",
+          "lines": [
+            "진료 전에 통증이 <em>갑자기 심해지거나</em>,",
+            "<em>새로운 증상</em>이 생기면 미리 알려주기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이런 변화가 <em>있다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "재진 때 꼭 이야기하기",
+      "items": [
+        "통증이 더 심해졌다",
+        "새로운 저림이 생겼다",
+        "운동이 너무 어렵다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "재진 예약을 앞두고 살짝 긴장한 코코. 두 번째 진료에선 뭘 할까요?\n\n재진은 보통 지난 진료 후 어땠는지, 운동은 어땠는지 묻는 것부터 시작해요. 그다음 첫 진료 때 했던 움직임과 검사를 다시 해서 비교해요.\n\n그 결과에 따라 운동이 진행되거나 바뀌고, 계획에 따라 손 치료가 함께할 수도 있어요. 편해진 것, 힘든 동작, 질문, 목표를 메모해 오면 진료가 더 알차져요.\n\n하이브리드 피지오 팀이 계획의 이유를 함께 설명해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#재진",
+    "#물리치료",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#재활",
+    "#진료준비",
+    "#시니어건강",
+    "#physiotherapy",
+    "#chatswood",
+    "#sydneyphysio",
+    "#sydney"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 재진에서 하는 일, 첫 진료와 비교하는 이유, 1분 재진 준비 메모, 미리 알려야 할 변화.",
+  "story": {
+    "headline": "재진에선 뭘 할까?",
+    "body": "편해진 것·힘든 것<br>메모해 오세요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-5",
+  "status": "approved",
+  "review_warnings": []
+}

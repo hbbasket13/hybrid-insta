@@ -1,0 +1,131 @@
+{
+  "id": "C-298-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage during pre-season training",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Pre-season legs<br>feeling like <em>lead</em>?",
+      "sub": "Where massage fits as training ramps up",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Pre-season is here.<br><em>Double the training</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why do my legs<br>feel so heavy..?",
+      "bubble_type": "thought",
+      "note": "(running, sprints and gym, all at once..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Legs feeling heavy?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Should I get a<br>massage every day?"
+      },
+      "note": "Hybi started with <mark>what does most of the recovery</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Training load<br>is the <em>big one</em>",
+      "fact": "Sleep, food and sensible load do <em>most of the recovery</em>",
+      "left": {
+        "label": "Gradual build",
+        "char": "kanga_happy",
+        "caption": "Ramp training up<br><b>bit by bit</b>"
+      },
+      "right": {
+        "label": "All at once",
+        "char": "kanga_tired",
+        "caption": "Big jumps leave legs<br><em>heavy and tight</em>"
+      },
+      "quip": "Massage is a<br>helpful extra!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pre-season massage tips</b>",
+      "sub": "Plan it around your week!",
+      "sections": [
+        {
+          "heading": "1. Timing matters",
+          "color": "yellow",
+          "lines": [
+            "① Firmer work <em>1–2 days before</em> a big session.",
+            "② Not the night before a big session.",
+            "③ <em>Lighter</em> pressure after a heavy block.",
+            "④ Tell your therapist this week's training."
+          ]
+        },
+        {
+          "heading": "2. Get assessed instead if…",
+          "color": "purple",
+          "lines": [
+            "A niggle keeps <em>coming back</em> or gets <em>worse</em>",
+            "— chat to a physio."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "The same spot keeps hurting",
+        "Worse with every session",
+        "Swelling or bruising"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Pre-season has started, and Lulu's legs feel like lead.\n\nMore running, sprints and gym all at once means heavy, tight legs are pretty common. Sleep, food and a gradual ramp-up in training do most of the recovery work.\n\nRemedial massage can be a helpful extra, often easing that heavy feeling for a while. Timing matters: firmer work a day or two before a hard session, lighter work after a big block. Tell your therapist what your training week looks like.\n\nIf a niggle keeps coming back or gets worse with training, that's a job for an assessment. Our remedial massage therapists work alongside our physios at Hybrid Physio. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#preseason",
+    "#sportsmassage",
+    "#football",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#recovery",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why pre-season legs feel heavy, the role of training load, massage timing tips and signs worth an assessment.",
+  "story": {
+    "headline": "Pre-season legs feeling heavy?",
+    "body": "Firmer massage 1–2 days<br>before big sessions.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-10",
+  "created": "2027-02-10-4",
+  "status": "approved",
+  "review_warnings": []
+}

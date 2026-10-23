@@ -1,0 +1,131 @@
+{
+  "id": "C-304-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Squash and badminton: knees and ankles on a fast court",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's lunges: are the<br>knees and <em>ankles</em> ready?",
+      "sub": "A fast-court story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we get<br>you ready?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "After work, Toto is<br>hooked on <em>squash</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Why do my calves<br>and knees feel<br>like this after..?",
+      "bubble_type": "thought",
+      "note": "(the stairs feel heavy the next morning..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Straight from the court?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. won't more<br>games toughen me up?"
+      },
+      "note": "Hybi suggested <mark>strengthening the lunge itself</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Hundreds</em> of lunges<br>in one match!",
+      "fact": "Deep lunges, quick stops and pivots in a <em>small space</em>",
+      "left": {
+        "label": "Warmed up",
+        "char": "rabbit_happy",
+        "caption": "Lunges and shuffles,<br>then <b>ease in</b>"
+      },
+      "right": {
+        "label": "Straight in",
+        "char": "rabbit_tired",
+        "caption": "Cold legs, then<br><em>deep lunges</em>"
+      },
+      "quip": "Play the first game<br>at a lower pace!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute court prep</b>",
+      "sub": "Twice a week + before each match",
+      "sections": [
+        {
+          "heading": "1. Build a stronger lunge",
+          "color": "yellow",
+          "lines": [
+            "① Split squats, <em>10 each side</em>.",
+            "② Step-ups, <em>10 each side</em>.",
+            "③ Slow single-leg calf raises, <em>10 each</em>.",
+            "④ Twice a week; add light weight later."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel a <em>pop</em> at the back of the heel,",
+            "or <em>can't put weight</em> on the ankle."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sudden pain behind the heel",
+        "Knee swells or locks",
+        "Can't weight the ankle"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Squash or badminton after work? Those deep lunges and quick pivots ask a lot of your knees and ankles 🏸\n\nBoth sports pack hundreds of lunges, stops and push-offs into one match, often in a small space. Calves, knees and ankles take most of that load.\n\nHybi's prep: split squats, step-ups and slow single-leg calf raises twice a week. Before you play, warm up with lunges in each direction and side shuffles, then ease into the first game.\n\nA sudden pop at the back of the heel, a knee that swells or locks, or an ankle you can't stand on is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#squash",
+    "#badminton",
+    "#racketsports",
+    "#kneepain",
+    "#anklepain",
+    "#sportsinjury",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto on protecting knees and ankles in squash and badminton, with an on-court warm-up, lunge strength exercises and signs worth getting checked.",
+  "story": {
+    "headline": "Court booked tonight?",
+    "body": "Lunges and side shuffles<br>before the first game.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-4",
+  "status": "approved",
+  "review_warnings": []
+}

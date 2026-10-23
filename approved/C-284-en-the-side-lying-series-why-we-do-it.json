@@ -1,0 +1,131 @@
+{
+  "id": "C-284-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "The side-lying series: why we do it",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why does Momo spend<br>class <em>lying on her side</em>?",
+      "sub": "A side-lying series story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "It's less boring<br>than it looks!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Pilates class, and Momo<br>is <em>on her side</em> again.",
+      "char": "cat_tired",
+      "bubble": "Leg up, leg down..<br>is this even<br>doing anything..?",
+      "bubble_type": "thought",
+      "note": "(so Momo started kicking as high as possible..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Curious about this one?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. higher kicks<br>are better, right?"
+      },
+      "note": "Hybi explained that <mark>control beats height</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Control</em> beats height!",
+      "fact": "Outer hip muscles keep your <em>pelvis level</em> when you walk",
+      "left": {
+        "label": "Small and slow",
+        "char": "cat_happy",
+        "caption": "Hips stacked, so the<br>hip does <b>the work</b>"
+      },
+      "right": {
+        "label": "Big high kicks",
+        "char": "cat_tired",
+        "caption": "The waist rolls back<br>to <em>help out</em>"
+      },
+      "quip": "Smaller lifts often<br>feel harder, in a good way!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute wall side kick</b>",
+      "sub": "All you need is a wall!",
+      "sections": [
+        {
+          "heading": "1. Wall leg lift",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your side, back and heels to a wall.",
+            "② Bend your knees slightly, hips stacked.",
+            "③ Lift the top leg, <em>heel on the wall</em>.",
+            "④ <em>10 slow lifts</em>, then switch sides."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Side-of-hip pain <em>keeps going</em>, or",
+            "it <em>gets worse</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Ongoing side-of-hip pain",
+        "Can't lie on that side",
+        "Hip hurts more on stairs"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo spends half of Pilates class lying on her side, lifting one leg up and down. Is it actually doing anything?\n\nThe side-lying series trains the muscles on the outside of your hip, the ones that keep your pelvis level when you walk, run or climb stairs. Lying down means little load through the knees or lower back.\n\nThe secret is control, not height. Try it with your back and heels against a wall: 10 slow lifts, heel touching the wall. If lying on your side is uncomfortable, a towel or pillow often helps. Ongoing side-of-hip pain is worth an assessment.\n\nOur Pilates team at Hybrid Physio can guide you. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#sydneypilates",
+    "#pilatessydney",
+    "#hipstrength",
+    "#glutes",
+    "#matpilates",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining the Pilates side-lying series, why control beats height, a wall side-kick routine and signs worth getting checked.",
+  "story": {
+    "headline": "Side-lying leg lifts, done right",
+    "body": "Back and heels to a wall.<br>10 slow lifts each side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-04",
+  "created": "2027-02-04-2",
+  "status": "approved",
+  "review_warnings": []
+}

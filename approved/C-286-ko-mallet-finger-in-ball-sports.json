@@ -1,0 +1,131 @@
+{
+  "id": "C-286-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Mallet finger in ball sports",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "토토의 손가락 끝이<br><em>펴지지 않아요</em>",
+      "sub": "하비와 알아보는 망치손가락 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "빨리 확인받는 게<br>좋아요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말 터치 풋볼,<br>공이 <em>손끝에 쾅!</em>",
+      "char": "rabbit_tired",
+      "bubble": "어? 손가락 끝이<br>안 펴지네..<br>좀 기다려볼까?",
+      "bubble_type": "thought",
+      "note": "(손가락 끝마디가 툭 처진 채로..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>손가락을 다쳤구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 며칠 두면<br>저절로 펴지겠죠?"
+      },
+      "note": "하비는 <mark>일찍 확인받는 것</mark>이 중요하다고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>망치손가락</em>, 뭐예요?",
+      "fact": "끝마디를 펴는 <em>힘줄</em>이 다쳐 손끝이 처지는 상태",
+      "left": {
+        "label": "부목 착용",
+        "char": "rabbit_happy",
+        "caption": "끝마디를 <b>쭉 편 채로</b><br>밤낮 유지해요"
+      },
+      "right": {
+        "label": "그냥 기다림",
+        "char": "rabbit_tired",
+        "caption": "손끝이 굽으면<br><em>회복이 늦어질 수 있어요</em>"
+      },
+      "quip": "보통 부목이<br>주된 치료예요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 부목 관리</b>",
+      "sub": "의사 안내에 맞춰 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 부목 생활 요령",
+          "color": "yellow",
+          "lines": [
+            "① 부목은 <em>밤낮</em> 계속 착용해요.",
+            "② 교체할 땐 손가락을 <em>책상에 평평히</em> 대요.",
+            "③ 손끝이 굽지 않게 피부를 닦고 말려요.",
+            "④ 다른 관절·손목은 <em>하루 여러 번</em> 움직여요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 연락하세요!",
+          "color": "purple",
+          "lines": [
+            "부목 아래 피부가 <em>하얗게 변하거나</em>,",
+            "<em>상처·물집</em>이 생기면 바로 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이럴 땐 <em>꼭 확인!</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "손끝이 스스로 안 펴진다",
+        "마디가 붓고 멍이 든다",
+        "부목이 헐겁거나 아프다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "주말 터치 풋볼에서 공이 손끝에 맞은 토토. 손가락 끝마디가 처진 채 스스로 펴지지 않아요.\n\n이런 상태를 흔히 망치손가락(mallet finger)이라고 해요. 끝마디를 펴는 힘줄이 다치고, 때로는 작은 뼛조각이 함께 떨어지기도 해요. 기다려보기보다 일찍 GP나 물리치료사에게 확인받는 게 좋아요.\n\n보통 부목이 주된 치료예요. 의사가 정한 기간 동안 밤낮으로 끝마디를 편 채 유지하고, 다른 관절은 계속 움직여요. 운동 복귀는 단계적으로, 의사 안내에 맞춰요.\n\n시드니 CBD·채스우드 물리치료사가 GP와 함께 도와드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#망치손가락",
+    "#손가락부상",
+    "#스포츠부상",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#malletfinger",
+    "#fingerinjury",
+    "#sportsphysio",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 망치손가락이란 무엇인지, 일찍 확인받아야 하는 이유, 1분 부목 관리 요령, 확인이 필요한 신호.",
+  "story": {
+    "headline": "손끝이 안 펴진다면?",
+    "body": "망치손가락은 일찍 확인!<br>보통 부목이 주된 치료예요.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-05",
+  "created": "2027-02-05-1",
+  "status": "approved",
+  "review_warnings": []
+}

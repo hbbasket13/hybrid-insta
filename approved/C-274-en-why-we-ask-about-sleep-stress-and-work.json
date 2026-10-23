@@ -1,0 +1,131 @@
+{
+  "id": "C-274-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Why we ask about sleep, stress and work",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why does Hybi ask about<br><em>sleep and stress</em>?",
+      "sub": "Mr Turtle's first-visit questions, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Curious?<br>Let's find out!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Deadline week,<br><em>five hours</em> of sleep.",
+      "char": "turtle_monitor",
+      "bubble": "Why does my back<br>hurt more after<br>a bad night..?",
+      "bubble_type": "thought",
+      "note": "(third late night at the office this week..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then he met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>How's your sleep lately?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "I'm here for my back..<br>why ask about sleep?"
+      },
+      "note": "Hybi explained <mark>what can shape pain</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Pain can change with<br>your <em>daily life</em>!",
+      "fact": "Research suggests <em>poor sleep</em> can make pain feel louder",
+      "left": {
+        "label": "Good sleep",
+        "char": "turtle_happy",
+        "caption": "The same task often<br>feels <b>less sensitive</b>"
+      },
+      "right": {
+        "label": "Rough night",
+        "char": "turtle_sad",
+        "caption": "The same task can<br>feel <em>more sore</em>"
+      },
+      "quip": "That's why your routine<br>shapes your plan!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute life notes</b>",
+      "sub": "Jot these down before you come in!",
+      "sections": [
+        {
+          "heading": "1. Before your visit",
+          "color": "yellow",
+          "lines": [
+            "① Note your <em>sleep hours</em> over the last week.",
+            "② Rate your stress <em>0 to 10</em>.",
+            "③ Note sitting, driving or lifting each day.",
+            "④ Share only what you're comfortable with."
+          ]
+        },
+        {
+          "heading": "2. Check in with your GP if…",
+          "color": "purple",
+          "lines": [
+            "Sleep has been <em>poor for weeks</em>, or your",
+            "mood <em>keeps dipping</em> — have a chat to your GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain wakes you at night",
+        "Tingling spreads down a leg",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "\"Why is my physio asking how I'm sleeping?\" Mr Turtle wondered the same thing.\n\nPain is shaped by more than tissues. Research suggests a run of poor sleep can make the nervous system more sensitive, and stress can raise muscle tension. Your work sets the daily load your body handles too.\n\nKnowing a little about your sleep, stress and routine helps us build a plan that fits real life, like shorter exercises in a flat-out week. You only share what you're comfortable with.\n\nOur team at Hybrid Physio looks at the whole picture. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#backpain",
+    "#sleep",
+    "#stress",
+    "#officeworker",
+    "#painscience",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why physios ask about sleep, stress and work, with notes to bring and signs worth getting checked.",
+  "story": {
+    "headline": "Why ask about sleep?",
+    "body": "Jot down sleep, stress and work<br>before your visit.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-311-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Why exercise is part of almost every plan",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "루루가 매번<br><em>운동 숙제</em>를 받는 이유",
+      "sub": "하비와 알아보는 운동 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "왜 그런지<br>알려줄게요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "치료 받고 나면 좋은데<br><em>며칠 뒤 다시 뻐근</em>.",
+      "char": "kanga_tired",
+      "bubble": "운동 숙제는<br>꼭 해야 하나..?",
+      "bubble_type": "thought",
+      "note": "(현장 일에 헬스까지, 시간이 없는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>숙제가 귀찮구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 치료만 받으면<br>안 될까요?"
+      },
+      "note": "하비는 <mark>몸이 부하에 적응한다</mark>는 것부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "몸은 <em>쓰는 만큼</em><br>적응해요!",
+      "fact": "근육·힘줄·뼈는 <em>주어진 부하</em>에 맞춰 변해요",
+      "left": {
+        "label": "운동도 함께",
+        "char": "kanga_happy",
+        "caption": "버틸 수 있는 힘이<br><b>조금씩 늘어요</b>"
+      },
+      "right": {
+        "label": "치료만",
+        "char": "kanga_tired",
+        "caption": "편해진 느낌이<br><em>잠깐일 수 있어요</em>"
+      },
+      "quip": "치료는 창문을 열고,<br>운동이 이어가요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>숙제 잘하는 법</b>",
+      "sub": "작고 구체적으로 시작해요!",
+      "sections": [
+        {
+          "heading": "1. 세 가지만 꾸준히",
+          "color": "yellow",
+          "lines": [
+            "① 운동은 <em>딱 3개</em>만 골라요.",
+            "② 양치 후처럼 <em>매일 같은 시간</em>에.",
+            "③ 횟수·세트를 적어두고 체크해요.",
+            "④ 쉬워지면 다음 진료 때 조정해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 멈추고 상담받기",
+          "color": "purple",
+          "lines": [
+            "운동 중 통증이 <em>점점 심해지면</em>",
+            "멈추고 담당 치료사와 상담하기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>잘 안 늘면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이럴 땐 다시 평가받기",
+      "items": [
+        "운동하면 더 아프다",
+        "밤에도 통증이 있다",
+        "몇 주째 변화가 없다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "치료 받으면 좋은데 며칠 뒤 다시 뻐근해지는 루루. 매번 받는 운동 숙제, 왜 그럴까요?\n\n근육, 힘줄, 뼈는 주어진 부하에 맞춰 적응해요. 그래서 현재 가이드라인은 허리 통증, 무릎 관절염, 여러 힘줄 문제에 운동과 교육을 먼저 권하고, 손 치료는 도움이 되는 보조로 봐요.\n\n하비의 팁: 운동은 딱 3개, 매일 같은 시간에. 세 개를 꾸준히 하는 게 열 개를 건너뛰는 것보다 보통 더 도움이 돼요.\n\n운동할수록 아프거나 변화가 없다면 다시 평가받아요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#운동치료",
+    "#재활운동",
+    "#물리치료",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#홈운동",
+    "#physiotherapy",
+    "#exerciseismedicine",
+    "#sydneyphysio",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 캥거루 루루가 등장하는 7장짜리 만화 카드뉴스: 치료 계획에 운동이 들어가는 이유, 운동 숙제 잘하는 법, 다시 평가가 필요한 신호.",
+  "story": {
+    "headline": "왜 매번 운동 숙제일까?",
+    "body": "딱 3개만,<br>매일 같은 시간에!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-15",
+  "created": "2027-02-15-5",
+  "status": "approved",
+  "review_warnings": []
+}

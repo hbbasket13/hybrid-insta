@@ -1,0 +1,131 @@
+{
+  "id": "C-280-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for martial artists",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "발차기 연습 후엔<br><em>허리가 뻐근해요</em>",
+      "sub": "태권도 하는 모모와 필라테스 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주 3회 <em>태권도</em>.<br>높은 발차기가 자랑인 모모.",
+      "char": "cat_tired",
+      "bubble": "발차기 연습만 하면<br>왜 허리가 뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(돌려차기 할 땐 중심도 자꾸 흔들려..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>훈련 열심히 했구나?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "저 유연한데요..<br>스트레칭만 더 할까요?"
+      },
+      "note": "하비는 <mark>유연성과 조절력의 차이</mark>를 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "높이보다 <em>조절력</em>이<br>중요해요!",
+      "fact": "큰 고관절 범위 <em>끝에서의 힘</em>이 발차기를 지켜줘요",
+      "left": {
+        "label": "끝 범위 조절",
+        "char": "cat_happy",
+        "caption": "크게 움직여도<br><b>몸통이 안정</b>돼요"
+      },
+      "right": {
+        "label": "유연성만",
+        "char": "cat_tired",
+        "caption": "높이 차도<br><em>중심이 흔들려요</em>"
+      },
+      "quip": "천천히 연습하면<br>빠른 동작에도 도움돼요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 한 다리 균형</b>",
+      "sub": "도장 가기 전에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 한 다리 균형 잡기",
+          "color": "yellow",
+          "lines": [
+            "① 한 다리로 서서 몸통을 곧게 세워요.",
+            "② 들어 올린 무릎을 <em>천천히 옆으로</em> 열어요.",
+            "③ <em>5초 유지</em> 후 천천히 돌아와요.",
+            "④ <em>양쪽 8회씩</em>, 하루 한 번."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 먼저 확인받기!",
+          "color": "purple",
+          "lines": [
+            "사타구니 깊은 통증이나, 허리 통증이",
+            "<em>다리로 퍼진다면</em> 먼저 평가받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "사타구니 깊은 통증",
+        "다리로 퍼지는 허리 통증",
+        "던진 후 어깨가 헐겁다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "발차기 연습만 하면 허리가 뻐근한 모모.\n\n발차기, 스프롤, 던지기는 고관절 끝 범위의 힘, 등 가운데의 회전, 한 다리 균형을 많이 요구해요. 유연하다고 다 조절되는 건 아니에요.\n\n클리닉 필라테스에서는 레그 서클, 옆으로 누운 다리 운동, 리포머 회전, 한 다리 운동으로 이 부분을 천천히 키울 수 있어요. 사타구니 깊은 통증이나 다리로 퍼지는 허리 통증은 먼저 물리치료사 평가를 받아요.\n\n하이브리드 피지오 필라테스 팀과 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#필라테스",
+    "#클리닉필라테스",
+    "#태권도",
+    "#무술",
+    "#채스우드",
+    "#시드니필라테스",
+    "#하이브리드피지오",
+    "#허리통증",
+    "#pilates",
+    "#martialarts",
+    "#taekwondo",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 무술에 필요한 고관절 조절력, 유연성과 조절력의 차이, 1분 한 다리 균형 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "발차기 후 허리가 뻐근?",
+    "body": "한 다리 균형<br>5초 × 양쪽 8회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-1",
+  "status": "approved",
+  "review_warnings": []
+}

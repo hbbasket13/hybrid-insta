@@ -1,0 +1,131 @@
+{
+  "id": "C-316-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Bringing someone along to your appointment",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Can Koko bring<br><em>someone along</em>?",
+      "sub": "A support-person story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Of course!<br>They're welcome!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Great appointment, but<br>at home <em>it's all a blur</em>.",
+      "char": "koala_tired",
+      "bubble": "How many reps was it..?<br>What did I want to ask..?",
+      "bubble_type": "thought",
+      "note": "(new places always feel a bit nerve-racking..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Anything on your mind?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Can my daughter<br>come with me?"
+      },
+      "note": "Hybi smiled: <mark>support people are welcome</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Two sets of ears<br>can <em>really help</em>!",
+      "fact": "Partners, friends, family and carers are <em>all welcome</em>",
+      "left": {
+        "label": "Together",
+        "char": "koala_happy",
+        "caption": "You both<br><b>remember the plan</b>"
+      },
+      "right": {
+        "label": "On your own",
+        "char": "koala_tired",
+        "caption": "Questions are<br><em>easy to forget</em>"
+      },
+      "quip": "Agree on their role<br>before you arrive!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>bring-a-buddy tips</b>",
+      "sub": "Sort it out on the way in!",
+      "sections": [
+        {
+          "heading": "1. Making it work",
+          "color": "yellow",
+          "lines": [
+            "① Let us know <em>when you book</em>.",
+            "② Agree on <em>their role</em>: notes, explaining.",
+            "③ Ask to <em>film the exercise demo</em>.",
+            "④ Want a private chat? Just ask."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You can talk with your practitioner <em>alone</em>",
+            "at any time, no reason needed."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When to <em>book an assessment</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Book in if you notice",
+      "items": [
+        "A recent fall",
+        "Walking feels less steady",
+        "Pain lasting over 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko leaves a great appointment, then forgets the reps by the time she gets home. Can she bring someone along?\n\nAbsolutely. Partners, friends, family members and carers are welcome. A second set of ears can help you remember the plan and ask the questions you forgot. If English isn't your first language, someone close to you can help explain things. Just let us know when you book.\n\nAgree on their role on the way in, and ask if they can film the exercise demo on your phone. You can always ask to speak with your practitioner on your own.\n\nOur team at Hybrid Physio is happy to include your support person. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#carers",
+    "#healthyageing",
+    "#patientcare",
+    "#physio",
+    "#chiropractic"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining how to bring a support person to an appointment, tips for agreeing on roles and filming exercises, and when to book an assessment.",
+  "story": {
+    "headline": "Bringing someone along?",
+    "body": "They're welcome.<br>Agree on their role first.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-17",
+  "created": "2027-02-17-4",
+  "status": "approved",
+  "review_warnings": []
+}

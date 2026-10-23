@@ -1,0 +1,131 @@
+{
+  "id": "C-309-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Single-leg strength: why Pilates trains one side at a time",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Is one of Momo's legs<br>doing <em>all the work</em>?",
+      "sub": "A single-leg strength story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's check<br>one side at a time!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Squats every day, but<br><em>wobbly on the stairs</em>.",
+      "char": "cat_tired",
+      "bubble": "Why does one side<br>always feel harder..?",
+      "bubble_type": "thought",
+      "note": "(walking, stairs, running: all one leg at a time..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Legs feeling uneven?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. but I do<br>heaps of squats?"
+      },
+      "note": "Hybi decided to explain <mark>why one side at a time</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Two-leg moves can<br><em>hide a gap</em>",
+      "fact": "In a squat, the <em>stronger side</em> often quietly takes more",
+      "left": {
+        "label": "One side",
+        "char": "cat_happy",
+        "caption": "The quieter leg<br><b>does its share</b>"
+      },
+      "right": {
+        "label": "Both together",
+        "char": "cat_tired",
+        "caption": "The strong side<br><em>can take over</em>"
+      },
+      "quip": "That's why Pilates often<br>works one side at a time!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute leg check</b>",
+      "sub": "All you need is a high chair!",
+      "sections": [
+        {
+          "heading": "1. Single-leg sit-to-stand",
+          "color": "yellow",
+          "lines": [
+            "① Stand on one leg in front of a high chair.",
+            "② Sit down slowly, <em>stand up slowly</em>.",
+            "③ <em>6–8 reps per side</em>, hold a bench if needed.",
+            "④ Easier? Lower the chair or slow it down."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your knee, hip or ankle <em>hurts</em> —",
+            "stop and get advice first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uneven</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "One leg weak after injury",
+        "Pain during single-leg work",
+        "The gap keeps growing"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo does squats every day, yet one leg still wobbles on the stairs.\n\nWalking, stairs and running mostly happen on one leg at a time. In two-leg moves like a squat, the stronger side can quietly take more of the load, which is why clinical Pilates often works one side at a time, building strength and balance together.\n\nHybi's 1-minute check: single-leg sit-to-stand from a high chair, 6–8 reps per side, holding a bench if needed. Notice which side feels harder.\n\nSmall differences are normal. A clearly weaker leg after an injury, or pain during single-leg work, is worth an assessment first. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#reformerpilates",
+    "#sydneypilates",
+    "#singlelegstrength",
+    "#balance",
+    "#sydneycbd",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#strengthtraining",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why Pilates trains one leg at a time, a single-leg sit-to-stand and signs worth getting checked.",
+  "story": {
+    "headline": "One leg doing all the work?",
+    "body": "Single-leg sit-to-stand,<br>6–8 per side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-13",
+  "created": "2027-02-13-6",
+  "status": "approved",
+  "review_warnings": []
+}

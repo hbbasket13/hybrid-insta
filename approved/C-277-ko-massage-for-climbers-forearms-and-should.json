@@ -1,0 +1,131 @@
+{
+  "id": "C-277-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for climbers' forearms and shoulders",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "클라이밍만 하면<br><em>팔뚝이 터질 듯</em>",
+      "sub": "루루와 알아보는 클라이머 회복 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "회복법,<br>같이 알아봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "퇴근 후엔 <em>클라이밍장</em>.<br>새 취미에 빠진 루루.",
+      "char": "kanga_tired",
+      "bubble": "팔뚝이랑 어깨가<br>왜 이렇게 묵직하지..?",
+      "bubble_type": "thought",
+      "note": "(오버행 벽은 특히 더 힘들어..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>클라이밍 다녀왔구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 마사지만 받으면<br>계속 타도 되죠?"
+      },
+      "note": "하비는 <mark>마사지가 하는 역할</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "클라이밍은<br><em>악력 스포츠</em>예요!",
+      "fact": "홀드마다 <em>팔뚝 근육</em>이 오래, 세게 쥐어야 해요",
+      "left": {
+        "label": "함께 챙기기",
+        "char": "kanga_happy",
+        "caption": "마사지 + 휴식일<br><b>+ 근력 운동</b>"
+      },
+      "right": {
+        "label": "마사지만",
+        "char": "kanga_tired",
+        "caption": "쉬지 않고 계속 타면<br><em>피로가 쌓여요</em>"
+      },
+      "quip": "마사지는 회복을 돕고<br>휴식을 대신하진 않아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 팔뚝 케어</b>",
+      "sub": "쉬는 날 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 휴식일 팔뚝 관리",
+          "color": "yellow",
+          "lines": [
+            "① 팔을 펴고 손목을 <em>위·아래로 15초씩</em>.",
+            "② 테이블 위 공에 팔뚝을 <em>1분간</em> 굴려요.",
+            "③ 밴드로 날개뼈 모으기 <em>10회 × 2세트</em>.",
+            "④ 깊은 마사지는 쉬는 날에 받아요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 물리치료사 확인!",
+          "color": "purple",
+          "lines": [
+            "크림프 중 손가락에서 <em>뚝 소리</em>가 났거나,",
+            "팔꿈치 통증이 <em>계속 남는다면</em> 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "통증이 계속 <em>남는다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "손가락 마디가 아프다",
+        "뚝 소리 후 통증",
+        "팔꿈치가 계속 아프다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "클라이밍만 다녀오면 팔뚝과 어깨가 묵직한 루루.\n\n클라이밍은 홀드를 오래, 세게 쥐어야 하는 악력 스포츠예요. 경사진 벽에서는 어깨와 등 위쪽도 함께 일하죠. 리메디얼 마사지는 그 뭉친 느낌을 덜어주는 데 도움이 될 수 있어요.\n\n다만 마사지는 휴식일과 근력 운동을 대신하지 않아요. 깊은 마사지는 쉬는 날에, 그 사이엔 손목 스트레칭과 공 굴리기! 손가락에서 뚝 소리가 났다면 물리치료사 평가가 먼저예요.\n\n프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#클라이밍",
+    "#볼더링",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#팔뚝",
+    "#remedialmassage",
+    "#climbing",
+    "#bouldering",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 클라이밍이 팔뚝과 어깨에 주는 부하, 마사지의 역할, 1분 팔뚝 케어, 확인이 필요한 신호.",
+  "story": {
+    "headline": "클라이밍 후 팔뚝이 묵직?",
+    "body": "쉬는 날, 공 위에<br>팔뚝 1분 굴리기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-02",
+  "created": "2027-02-02-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-275-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for netball and basketball players",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Jump, land, cut, repeat..<br>Momo's <em>landings wobble</em>",
+      "sub": "A court-sport Pilates story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's train<br>those landings!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Netball</em> every Saturday.<br>Momo loves the court.",
+      "char": "cat_tired",
+      "bubble": "Why do my landings<br>get shaky in the<br>last quarter..?",
+      "bubble_type": "thought",
+      "note": "(and the calves are burning by the final whistle..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big game this week?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. do I just need<br>more fitness?"
+      },
+      "note": "Hybi started with <mark>control on one leg</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Court sports are<br><em>landing sports</em>!",
+      "fact": "One game can mean <em>hundreds of landings</em> and quick stops",
+      "left": {
+        "label": "Slow control",
+        "char": "cat_happy",
+        "caption": "Watch the knee, build<br><b>control first</b>"
+      },
+      "right": {
+        "label": "Speed first",
+        "char": "cat_tired",
+        "caption": "Wobbly landings,<br><em>more load piling on</em>"
+      },
+      "quip": "Control first,<br>speed comes later!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute calf builder</b>",
+      "sub": "Grab a wall and try it now!",
+      "sections": [
+        {
+          "heading": "1. Single-leg heel raise",
+          "color": "yellow",
+          "lines": [
+            "① Stand on one leg, hand lightly on a wall.",
+            "② Rise <em>slowly</em> up onto your toes.",
+            "③ Lower over <em>3 seconds</em>.",
+            "④ <em>3 sets of 10</em>, each side."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Ankle or knee pain <em>gets worse</em>, or you",
+            "have a current injury — <em>get it assessed</em> first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Landings still <em>shaky</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee feels like it gives way",
+        "Swelling after landing",
+        "Pain lasting over 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Netball or basketball on the calendar? Momo's landings get wobbly late in the game, and she's not alone.\n\nCourt sports are full of jumps, stops and sharp changes of direction. Your ankles, knees and hips soak up that load, so control on one leg matters as much as fitness.\n\nClinical Pilates lets you practise single-leg squats, lunges and jump-board work with adjustable springs, building control before speed. Pre-season, two sessions a week is a common start; in season, one often keeps things ticking over.\n\nOur Pilates team at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#netball",
+    "#basketball",
+    "#reformerpilates",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#landingcontrol",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat showing why single-leg control matters for netball and basketball, a calf raise routine and signs worth getting checked.",
+  "story": {
+    "headline": "Wobbly landings on court?",
+    "body": "Single-leg heel raises:<br>3 sets of 10 each side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-2",
+  "status": "approved",
+  "review_warnings": []
+}

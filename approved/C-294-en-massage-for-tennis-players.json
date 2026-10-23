@@ -1,0 +1,131 @@
+{
+  "id": "C-294-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for tennis players",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's arm feels<br><em>heavy after tennis</em>",
+      "sub": "Where massage fits for tennis players",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Serving <em>all summer</em><br>long.",
+      "char": "rabbit_tired",
+      "bubble": "Why does my arm<br>feel so heavy<br>after every set..?",
+      "bubble_type": "thought",
+      "note": "(calves and the back of the shoulder too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Arm feeling heavy?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Will massage<br>sort it all out?"
+      },
+      "note": "Hybi explained <mark>where massage fits</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage <em>helps</em>,<br>strength <em>builds</em>",
+      "fact": "Massage effects are usually <em>short-term</em> · pair it up",
+      "left": {
+        "label": "Massage + gym",
+        "char": "rabbit_happy",
+        "caption": "Builds the <b>capacity</b><br>to handle more hitting"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "rabbit_tired",
+        "caption": "Looser for a bit,<br>then <em>heavy again</em>"
+      },
+      "quip": "Massage complements<br>rehab, not replaces it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>tennis recovery plan</b>",
+      "sub": "Plan it around your matches!",
+      "sections": [
+        {
+          "heading": "1. Timing and strength",
+          "color": "yellow",
+          "lines": [
+            "① <em>Lighter</em> massage 1–2 days before a tournament.",
+            "② Save deeper work for <em>after</em> the weekend.",
+            "③ Calf raises <em>15 × 2 sets</em>, 2–3 times a week.",
+            "④ Add forearm and shoulder strength work."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "A <em>sudden sharp</em> calf pain hits mid-rally",
+            "— stop playing and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check <em>before</em> a massage",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See a physio first if you notice",
+      "items": [
+        "Elbow pain lasting weeks",
+        "Shoulder pain at night",
+        "Sudden calf pain mid-rally"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto has been serving all summer, and the arm feels heavy after every set. 🎾\n\nTennis loads the same spots over and over: grip through the forearm, serving through the back of the shoulder, footwork through the calves. Remedial massage can help those areas feel looser, though the effect is usually short-term.\n\nHybi's plan: lighter massage a day or two before a tournament, deeper work after. Pair it with calf raises and forearm and shoulder strength work so your body copes with more hitting.\n\nElbow pain lasting weeks or shoulder pain at night is worth a physio assessment first. Our remedial massage therapists work alongside our physios at Hybrid Physio. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#tennis",
+    "#tenniselbow",
+    "#sportsmassage",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#sydneyphysio",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#recovery",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto the rabbit explaining where tennis players tighten up, how massage and strength work fit together, and signs to see a physio first.",
+  "story": {
+    "headline": "Heavy arm after tennis?",
+    "body": "Light massage before,<br>deeper work after.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-08",
+  "created": "2027-02-08-6",
+  "status": "approved",
+  "review_warnings": []
+}

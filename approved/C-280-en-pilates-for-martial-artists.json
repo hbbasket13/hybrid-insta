@@ -1,0 +1,131 @@
+{
+  "id": "C-280-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for martial artists",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Big kicks, then a<br><em>cranky lower back</em>",
+      "sub": "Momo's martial arts Pilates story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Taekwondo</em> three nights<br>a week. Kicks up high!",
+      "char": "cat_tired",
+      "bubble": "Why does my back<br>ache after kicking<br>drills..?",
+      "bubble_type": "thought",
+      "note": "(and the balance wobbles on every turning kick..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big training week?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "I'm already bendy..<br>should I just stretch more?"
+      },
+      "note": "Hybi explained <mark>flexibility vs control</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Control</em> matters more<br>than height!",
+      "fact": "Strength at the <em>end of your hip range</em> supports your kicks",
+      "left": {
+        "label": "Hip control",
+        "char": "cat_happy",
+        "caption": "Big range, and<br><b>a steady trunk</b>"
+      },
+      "right": {
+        "label": "Bendy only",
+        "char": "cat_tired",
+        "caption": "Kicks go high,<br><em>balance wobbles</em>"
+      },
+      "quip": "Slow practice often<br>carries over to speed!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute balance drill</b>",
+      "sub": "Try it before training!",
+      "sections": [
+        {
+          "heading": "1. Single-leg knee opener",
+          "color": "yellow",
+          "lines": [
+            "① Stand on one leg, trunk tall.",
+            "② Slowly open the lifted knee <em>out to the side</em>.",
+            "③ Hold <em>5 seconds</em>, return slowly.",
+            "④ <em>8 each side</em>, once a day."
+          ]
+        },
+        {
+          "heading": "2. Get checked first if…",
+          "color": "purple",
+          "lines": [
+            "You have <em>deep groin pain</em>, or back pain",
+            "<em>spreading into the leg</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Deep groin or hip pain",
+        "Back pain into the leg",
+        "Shoulder loose after a throw"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "BJJ, karate, Muay Thai or taekwondo? Momo's kicks go high, but her lower back grumbles after drills.\n\nKicks, sprawls and throws ask for strength at the end of your hip range, rotation through the mid-back and solid balance on one leg. Being bendy doesn't always mean being in control.\n\nClinical Pilates can build each of these at a controlled pace: leg circles and side-lying work for the hips, reformer rotation for the mid-back, single-leg work for pivots. Deep groin pain or back pain spreading into the leg is worth a physio assessment first.\n\nOur Pilates team at Hybrid Physio can tailor sessions to your style. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#martialarts",
+    "#taekwondo",
+    "#bjj",
+    "#muaythai",
+    "#chatswood",
+    "#chatswoodpilates",
+    "#sydneypilates",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining why hip control matters for martial arts, a single-leg balance drill and signs worth getting checked.",
+  "story": {
+    "headline": "Martial artist with a sore back?",
+    "body": "Single-leg knee opener:<br>5 sec, 8 each side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-4",
+  "status": "approved",
+  "review_warnings": []
+}

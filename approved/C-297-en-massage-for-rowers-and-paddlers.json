@@ -1,0 +1,131 @@
+{
+  "id": "C-297-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for rowers and paddlers",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's back feels<br><em>tight after paddling</em>",
+      "sub": "Rowers and paddlers: where massage fits",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Kayaking</em> every<br>weekend.",
+      "char": "kanga_tired",
+      "bubble": "Why are my back<br>and forearms<br>so tight..?",
+      "bubble_type": "thought",
+      "note": "(gripping the paddle like it owes him money..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back feeling tight?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Will a massage sort<br>out my recovery?"
+      },
+      "note": "Hybi showed him <mark>the bigger recovery picture</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage is <em>one piece</em><br>of recovery",
+      "fact": "Sleep, food, sensible load and strength do <em>most of the work</em>",
+      "left": {
+        "label": "The full mix",
+        "char": "kanga_happy",
+        "caption": "Massage + sleep, food<br>+ <b>strength work</b>"
+      },
+      "right": {
+        "label": "Massage only",
+        "char": "kanga_tired",
+        "caption": "Skip the rest and<br>it <em>stays tight</em>"
+      },
+      "quip": "And relax that grip<br>on the paddle!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>paddler recovery plan</b>",
+      "sub": "Fit it around your training!",
+      "sections": [
+        {
+          "heading": "1. Timing and grip",
+          "color": "yellow",
+          "lines": [
+            "① Deeper work <em>1–2 days before</em> a hard session.",
+            "② Skip deep massage the morning of a race.",
+            "③ Hold the paddle or handle <em>lightly</em>.",
+            "④ Forearm stretch <em>20 sec × 3</em> after sessions."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>sharp rib pain</em> while paddling",
+            "— stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Check <em>before</em> a massage",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See a physio first if you notice",
+      "items": [
+        "Sharp pain around the ribs",
+        "Pain worse each session",
+        "Pins and needles in hands"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu kayaks every weekend, and his back and forearms are feeling it. 🚣\n\nRowing and paddling load the lats, forearms, upper back and hip flexors over thousands of strokes. Remedial massage can help ease that tightness, but it won't replace sleep, food, a sensible training load or strength work.\n\nHybi's tips: schedule deeper work a day or two before hard sessions, skip it the morning of a race, and keep a relaxed grip on the paddle.\n\nSharp rib pain, pain that worsens each session or tingling hands is worth a physio assessment first. Our remedial massage therapists at Hybrid Physio can tailor each session. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#rowing",
+    "#kayaking",
+    "#paddling",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#recovery",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining where paddlers tighten up, massage as one piece of recovery, timing and grip tips, and signs to see a physio first.",
+  "story": {
+    "headline": "Tight back after paddling?",
+    "body": "Deeper massage 1–2 days before,<br>relaxed grip.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-6",
+  "status": "approved",
+  "review_warnings": []
+}

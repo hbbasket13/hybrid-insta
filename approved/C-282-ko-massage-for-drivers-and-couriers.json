@@ -1,0 +1,131 @@
+{
+  "id": "C-282-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for drivers and couriers",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "운전하고, 들고, 또 운전..<br><em>허리가 뻣뻣해요</em>",
+      "sub": "택배 부업 거북씨의 회복 이야기",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말엔 <em>택배 배송</em> 부업.<br>바쁜 거북씨.",
+      "char": "turtle_sad",
+      "bubble": "허리랑 어깨가<br>왜 이렇게 뻣뻣하지..?",
+      "bubble_type": "thought",
+      "note": "(운전석에 몇 시간, 내리면 바로 박스..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>배송 많이 했구나?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "네.. 마사지 받으면<br>다 풀리겠죠?"
+      },
+      "note": "하비는 <mark>두 가지 다른 부하</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "오래 앉았다가<br><em>갑자기 들기!</em>",
+      "fact": "오래 가만히 앉았다가 <em>갑자기 들고 비트는</em> 부하가 섞여요",
+      "left": {
+        "label": "몇 걸음 먼저",
+        "char": "turtle_happy",
+        "caption": "걷고 나서 들고<br><b>박스는 몸 가까이</b>"
+      },
+      "right": {
+        "label": "내리자마자",
+        "char": "turtle_sad",
+        "caption": "굳은 채로 들고<br><em>허리를 비틀어요</em>"
+      },
+      "quip": "마사지는 도움이 되고,<br>습관이 함께 가요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 배송 습관</b>",
+      "sub": "정차할 때마다 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 정차할 때마다",
+          "color": "yellow",
+          "lines": [
+            "① 내리면 <em>몇 걸음</em> 걷고 들기.",
+            "② 주차 중 <em>어깨 돌리기 × 10회</em>.",
+            "③ 박스는 <em>몸 가까이</em> 붙여서 들기.",
+            "④ 허리 대신 <em>발을 돌려</em> 방향 바꾸기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 대신 확인!",
+          "color": "purple",
+          "lines": [
+            "<em>저림·감각 둔함</em>이 있거나,",
+            "통증이 <em>팔·다리로 퍼지면</em> GP·물리치료사에게!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리가 저리다",
+        "통증이 팔다리로 퍼진다",
+        "들고 난 뒤 안 풀린다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "운전석에 몇 시간, 내리자마자 박스 들기. 주말 택배 부업에 허리가 뻣뻣한 거북씨.\n\n운전과 배송은 오래 가만히 앉아 있다가 갑자기 들고, 비틀고, 계단을 오르는 일이 섞여 있어요. 엉덩이, 허리, 목·어깨가 뻐근해지기 쉬워요.\n\n리메디얼 마사지는 근육 긴장을 덜어주는 데 도움이 될 수 있지만, 효과는 보통 짧아요. 몇 걸음 걷고 들기, 박스는 몸 가까이 같은 습관과 함께해요. 저림이나 팔다리로 퍼지는 통증은 먼저 확인받기!\n\n프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#택배기사",
+    "#운전",
+    "#허리통증",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#courier",
+    "#truckdriver",
+    "#chatswood",
+    "#sydney"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 운전과 배송이 몸에 주는 두 가지 부하, 마사지의 역할, 1분 배송 습관, 확인이 필요한 신호.",
+  "story": {
+    "headline": "운전하고 들고, 허리 뻣뻣?",
+    "body": "내리면 몇 걸음 걷고,<br>박스는 몸 가까이!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-03",
+  "created": "2027-02-03-3",
+  "status": "approved",
+  "review_warnings": []
+}

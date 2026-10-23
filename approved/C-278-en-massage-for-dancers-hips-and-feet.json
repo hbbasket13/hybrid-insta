@@ -1,0 +1,131 @@
+{
+  "id": "C-278-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for dancers' hips and feet",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Long rehearsals,<br><em>aching hips and arches</em>",
+      "sub": "Momo's dance recovery story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Show coming up,<br><em>rehearsals every day</em>.",
+      "char": "cat_tired",
+      "bubble": "Why do my arches<br>and hips feel<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(two hours of turnout work today alone..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then she met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Busy rehearsal week?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "So busy.. if I get a<br>massage, can I keep going?"
+      },
+      "note": "Hybi explained <mark>timing your massage</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Massage has<br><em>good timing</em> too!",
+      "fact": "Turnout and jumps load the <em>deep hip muscles</em> and feet",
+      "left": {
+        "label": "Light day",
+        "char": "cat_happy",
+        "caption": "Deeper work on a<br><b>lighter training day</b>"
+      },
+      "right": {
+        "label": "Show eve",
+        "char": "cat_tired",
+        "caption": "Deep work now can<br><em>leave legs heavy</em>"
+      },
+      "quip": "Light before a show,<br>deeper on easy days!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute foot care</b>",
+      "sub": "Try it at home tonight!",
+      "sections": [
+        {
+          "heading": "1. Arches and calves",
+          "color": "yellow",
+          "lines": [
+            "① Seated, roll your arch on a ball for <em>1 min</em>.",
+            "② Slow calf raises, <em>full range × 10</em>.",
+            "③ Seated toe spreads, <em>10 times</em>.",
+            "④ Once a day — small habits add up."
+          ]
+        },
+        {
+          "heading": "2. See a physio if…",
+          "color": "purple",
+          "lines": [
+            "Pain on <em>top of the foot</em> builds with jumping,",
+            "or an ankle <em>won't settle</em> after a landing."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>aching</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Top-of-foot pain with jumps",
+        "A hip that clicks with pain",
+        "An ankle that won't settle"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "New term, more rehearsals, and Momo's hips and arches are already letting her know.\n\nTurnout, jumps and time on demi-pointe load the deep hip muscles, calves and the small muscles under the foot. Many dancers find remedial massage helps those areas feel less tight and heavy through a busy term.\n\nMassage sits alongside strength work, good technique and rest, not instead of them. Keep deeper sessions for lighter days, and look after your feet at home with a ball, slow calf raises and toe spreads. Pain on top of the foot that builds with jumping is worth a physio assessment.\n\nOur remedial massage therapists at Hybrid Physio can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#dancer",
+    "#ballet",
+    "#dancerecovery",
+    "#dancersfeet",
+    "#sydneycbd",
+    "#sydneymassage",
+    "#sydneydance",
+    "#hybridphysiotherapy",
+    "#sydney",
+    "#recovery",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo the cat explaining how dance loads the hips and feet, when to time a massage, a foot-care routine and signs worth getting checked.",
+  "story": {
+    "headline": "Tired arches after rehearsal?",
+    "body": "Roll your arch on a ball,<br>then 10 slow calf raises.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-02",
+  "created": "2027-02-02-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-297-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for rowers and paddlers",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "패들링 후 루루의 등이<br><em>뻐근한 이유</em>",
+      "sub": "하비와 알아보는 패들러 마사지",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말마다 <em>카약</em>을<br>타는 루루.",
+      "char": "kanga_tired",
+      "bubble": "노만 저으면<br>등이랑 팔뚝이<br>왜 이렇게 뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(손잡이를 꽉 쥐어서 팔이 터질 듯..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요.<br>등이 뻐근해요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "마사지 받으면<br>회복이 다 될까요?"
+      },
+      "note": "하비는 <mark>회복의 큰 그림</mark>부터 보여줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는 회복의<br><em>한 조각</em>이에요!",
+      "fact": "잠·식사·훈련량·근력 운동이 <em>회복의 기본</em>",
+      "left": {
+        "label": "함께 챙기기",
+        "char": "kanga_happy",
+        "caption": "마사지 + 잠·식사<br>+ <b>근력 운동</b>"
+      },
+      "right": {
+        "label": "마사지만",
+        "char": "kanga_tired",
+        "caption": "다른 회복을 빼면<br><em>계속 뻐근해요</em>"
+      },
+      "quip": "그립은 살짝<br>느슨하게 잡아요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>패들러 회복 루틴</b>",
+      "sub": "훈련 일정에 맞춰 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 타이밍과 그립",
+          "color": "yellow",
+          "lines": [
+            "① 깊은 마사지는 강훈련 <em>1~2일 전</em>에.",
+            "② 시합 당일 아침엔 깊은 마사지 피하기.",
+            "③ 노·손잡이는 <em>가볍게</em> 쥐어요.",
+            "④ 전완 스트레칭 <em>20초 × 3회</em>, 훈련 후."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "<em>갈비뼈 쪽 날카로운</em> 통증이 오면",
+            "멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "마사지 전에 <em>확인할 것</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 물리치료 먼저",
+      "items": [
+        "갈비뼈 쪽 날카로운 통증",
+        "훈련할수록 더 아프다",
+        "손이 저리다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "주말마다 카약 타는 루루. 노를 저을수록 등과 팔뚝이 뻐근해요. 🚣\n\n조정·패들링은 광배근, 전완, 등, 고관절 굴곡근을 수천 번 반복해서 써요. 리메디얼 마사지는 이런 뻐근함을 풀어 주는 데 도움이 될 수 있지만, 잠·식사·적절한 훈련량·근력 운동을 대신하진 않아요.\n\n하비의 팁: 깊은 마사지는 강훈련 1~2일 전에, 노는 가볍게 쥐기.\n\n갈비뼈 쪽 날카로운 통증, 점점 심해지는 통증, 손 저림이 있다면 물리치료 평가가 먼저예요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#카약",
+    "#조정",
+    "#패들링",
+    "#시드니cbd",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#rowing",
+    "#kayaking",
+    "#sydneycbd",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 패들러가 뭉치는 부위, 회복의 한 조각인 마사지, 마사지 타이밍과 그립 팁, 물리치료가 먼저인 신호.",
+  "story": {
+    "headline": "노 젓고 등이 뻐근하다면?",
+    "body": "깊은 마사지는 강훈련 1~2일 전,<br>그립은 가볍게!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-09",
+  "created": "2027-02-09-3",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-308-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for the side of the thigh (ITB)",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Can Toto really<br>'<em>release</em>' his ITB?",
+      "sub": "An outer-thigh story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's find out<br>together!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "More kilometres, and<br>a <em>rope-tight</em> outer thigh.",
+      "char": "rabbit_tired",
+      "bubble": "Do I need to<br>roll it harder..?",
+      "bubble_type": "thought",
+      "note": "(gritting his teeth on the foam roller..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Thigh feeling tight?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. can you<br>stretch my ITB?"
+      },
+      "note": "Hybi explained <mark>what the ITB actually is</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "The ITB is <em>tough</em>,<br>not stuck!",
+      "fact": "A thick, strong band: massage <em>won't lengthen it</em>",
+      "left": {
+        "label": "Muscles around",
+        "char": "rabbit_happy",
+        "caption": "Glutes, front of hip,<br>quads <b>ease off</b>"
+      },
+      "right": {
+        "label": "Brutal pressure",
+        "char": "rabbit_tired",
+        "caption": "Gritting your teeth<br>is <em>not needed</em>"
+      },
+      "quip": "Steady, comfy pressure<br>usually suits better!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute glute builder</b>",
+      "sub": "Help that loose feeling last!",
+      "sections": [
+        {
+          "heading": "1. Side-lying leg lift",
+          "color": "yellow",
+          "lines": [
+            "① Lie on your side, legs straight.",
+            "② Lift the top leg <em>slightly back</em>.",
+            "③ Hold <em>3 sec × 10 reps</em>, each side.",
+            "④ Tweak run or ride load gradually."
+          ]
+        },
+        {
+          "heading": "2. Book a physio check too if…",
+          "color": "purple",
+          "lines": [
+            "Sharp <em>outer-knee pain</em> on runs, or",
+            "pain that <em>keeps building</em> despite rest."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Outer-knee pain on runs",
+        "Swelling",
+        "Pain building despite rest"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Can massage really 'release' your ITB? Not quite, and that's fine.\n\nThe iliotibial band is a thick, strong band of tissue down the outside of the thigh. It doesn't stretch much, so no amount of pressure will lengthen it. What massage can do is ease tension in the muscles around it: the glutes, the front of the hip, the quads and the hamstrings.\n\nSteady, comfortable pressure usually beats gritting your teeth. Pair it with hip and glute strength and sensible changes to your running or riding load.\n\nSharp outer-knee pain on runs or swelling is worth a physio check. Our remedial massage therapists at Hybrid Physio can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#itband",
+    "#runnersofinstagram",
+    "#cyclinglife",
+    "#glutes",
+    "#recovery",
+    "#sportsmassage",
+    "#sydneycbd",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#chatswood"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto on what remedial massage can and can't do for the ITB, comfortable pressure, a glute strength exercise and when to get checked.",
+  "story": {
+    "headline": "Can you 'release' your ITB?",
+    "body": "Ease the muscles around it,<br>then build glute strength.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-13",
+  "created": "2027-02-13-2",
+  "status": "approved",
+  "review_warnings": []
+}

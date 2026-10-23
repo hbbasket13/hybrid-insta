@@ -1,0 +1,131 @@
+{
+  "id": "C-311-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Why exercise is part of almost every plan",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu always leaves<br>with <em>exercise homework</em>",
+      "sub": "Why movement matters, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let me<br>explain why!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Feels great after treatment,<br>then <em>stiff again</em> days later.",
+      "char": "kanga_tired",
+      "bubble": "Do I really have<br>to do the homework..?",
+      "bubble_type": "thought",
+      "note": "(work on site, then the gym.. who has time?)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Homework a chore?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. can't I just<br>get treatment?"
+      },
+      "note": "Hybi decided to explain <mark>how the body adapts</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Your body adapts<br>to <em>what you ask of it</em>",
+      "fact": "Muscles, tendons and bones adapt to <em>the load you give them</em>",
+      "left": {
+        "label": "Plus exercise",
+        "char": "kanga_happy",
+        "caption": "Your capacity<br><b>builds over time</b>"
+      },
+      "right": {
+        "label": "Treatment only",
+        "char": "kanga_tired",
+        "caption": "The relief can<br><em>be short-lived</em>"
+      },
+      "quip": "Treatment opens a window,<br>exercise builds on it!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>homework that sticks</b>",
+      "sub": "Small and specific wins!",
+      "sections": [
+        {
+          "heading": "1. Keep it to three",
+          "color": "yellow",
+          "lines": [
+            "① Pick <em>just 3 exercises</em>.",
+            "② Same time <em>every day</em>, like brushing teeth.",
+            "③ Write down reps and sets, tick them off.",
+            "④ Getting easy? Adjust at your next visit."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>keeps building</em> as you go —",
+            "stop and chat to your practitioner."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>not improving</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get reassessed if you notice",
+      "items": [
+        "Exercise makes it worse",
+        "Pain at night",
+        "No change in a few weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu feels great after treatment, then stiff again a few days later. So why the exercise homework every time?\n\nMuscles, tendons and bones adapt to the load you give them. Current guidelines for back pain, knee and hip arthritis and many tendon problems put exercise and education first, with hands-on care as a helpful add-on. Treatment can ease things for a while; exercise helps you build on it.\n\nHybi's tip: pick just three exercises and do them at the same time each day. Three you actually do usually help more than ten you skip.\n\nIf exercise makes things worse or nothing changes, get reassessed. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#exerciseismedicine",
+    "#rehab",
+    "#homeexercise",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#tradielife",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#chiropractic"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why exercise is part of almost every treatment plan, tips for sticking with homework and signs to get reassessed.",
+  "story": {
+    "headline": "Why the homework?",
+    "body": "Just 3 exercises,<br>same time every day.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-15",
+  "created": "2027-02-15-2",
+  "status": "approved",
+  "review_warnings": []
+}

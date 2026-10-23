@@ -1,0 +1,131 @@
+{
+  "id": "C-279-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Fitting rehab into a busy week",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "바빠지니 재활 운동이<br><em>사라졌어요</em>",
+      "sub": "거북씨와 알아보는 바쁜 주 재활 팁",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "짧게라도<br>같이 해봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "휴가 끝, <em>업무 복귀</em>.<br>운동은 어디 갔지?",
+      "char": "turtle_monitor",
+      "bubble": "이번 주도 운동<br>한 번도 못 했네..",
+      "bubble_type": "thought",
+      "note": "(운동 밴드는 서랍 속에서 먼지만..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>운동은 잘 되고 있어요?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "시간이 없어서요..<br>주말에 몰아서 할까요?"
+      },
+      "note": "하비는 <mark>짧아도 자주</mark>가 중요하다고 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "짧게, <em>자주</em>가<br>더 오래 가요!",
+      "fact": "매일 <em>10분</em>이 미루기만 하는 긴 운동보다 나을 때가 많아요",
+      "left": {
+        "label": "매일 10분",
+        "char": "turtle_happy",
+        "caption": "습관에 붙이니<br><b>꾸준히 이어져요</b>"
+      },
+      "right": {
+        "label": "주말에 몰아서",
+        "char": "turtle_sad",
+        "caption": "자꾸 미루다<br><em>결국 건너뛰어요</em>"
+      },
+      "quip": "꼭 필요한 2~3개만<br>골라서 해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 습관 붙이기</b>",
+      "sub": "오늘부터 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 일상에 운동 붙이기",
+          "color": "yellow",
+          "lines": [
+            "① 물 끓이는 동안 <em>종아리 들기</em>.",
+            "② 샤워 전 <em>스쿼트 10회</em>.",
+            "③ 일요일에 운동 시간을 <em>캘린더에</em> 넣기.",
+            "④ 밴드는 <em>책상 옆</em>에 두기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 꼭 말해 주세요!",
+          "color": "purple",
+          "lines": [
+            "프로그램이 <em>생활에 안 맞거나</em>,",
+            "운동 중 통증이 <em>심해진다면</em> 바로 알려주기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 <em>잘 안 된다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이럴 땐 담당 치료사와 상의하기",
+      "items": [
+        "운동하면 더 아프다",
+        "시간이 도저히 없다",
+        "2주 넘게 변화가 없다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "휴가 끝나고 업무에 복귀하니 재활 운동이 조용히 사라진 거북씨.\n\n바빠지면 운동을 이어가기 어려운 게 보통이에요. 다행히 짧고 자주 하는 운동이 미루기만 하는 긴 운동보다 나을 때가 많아요.\n\n물 끓이는 동안 종아리 들기, 운동 시간을 캘린더에 넣기, 밴드를 책상 옆에 두기. 담당 치료사에게 지금 가장 중요한 2~3개를 물어보세요. 프로그램이 생활에 안 맞으면 말해 주세요, 함께 조정해요.\n\n프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#재활운동",
+    "#홈운동",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#직장인건강",
+    "#운동습관",
+    "#물리치료",
+    "#rehab",
+    "#physiotherapy",
+    "#sydneycbd",
+    "#sydney"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 7장짜리 만화 카드뉴스: 바쁜 주에도 재활 운동을 이어가는 법, 짧고 자주의 장점, 습관 붙이기 팁, 상의가 필요한 신호.",
+  "story": {
+    "headline": "바빠서 운동을 못 했다면?",
+    "body": "물 끓이는 동안<br>종아리 들기부터!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-02",
+  "created": "2027-02-02-3",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-306-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for swimmers' shoulders and lats",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "모모의 수영 후<br><em>어깨와 광배근</em>",
+      "sub": "하비와 함께 알아보는 수영 어깨 케어",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>풀어볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "일주일에 <em>수천 번</em>의<br>자유형 스트로크.",
+      "char": "cat_tired",
+      "bubble": "왜 어깨랑 겨드랑이<br>뒤가 묵직하지..?",
+      "bubble_type": "thought",
+      "note": "(스트레칭을 좋아하는데도 뻣뻣..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>수영 많이 했어요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 마사지만 받으면<br>운동은 안 해도 돼요?"
+      },
+      "note": "하비는 <mark>마사지는 더해주는 것</mark>이라고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지는 <em>보완</em>,<br>대신이 아니에요!",
+      "fact": "스트로크마다 <em>광배근·가슴·어깨 뒤</em>가 일해요",
+      "left": {
+        "label": "함께 하기",
+        "char": "cat_happy",
+        "caption": "마사지 + 근력 운동<br>어깨가 <b>가벼워요</b>"
+      },
+      "right": {
+        "label": "마사지만",
+        "char": "cat_tired",
+        "caption": "근력 운동 없이<br><em>다시 뻣뻣</em>"
+      },
+      "quip": "세게보다 타이밍이<br>더 중요해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 어깨 케어</b>",
+      "sub": "수영 끝나고 바로!",
+      "sections": [
+        {
+          "heading": "1. 다음 방문까지 유지하기",
+          "color": "yellow",
+          "lines": [
+            "① 폼롤러로 광배근 <em>1분씩 양쪽</em>.",
+            "② 문틀 잡고 가슴 열기 <em>20초 × 3회</em>.",
+            "③ 받은 밴드 운동은 꾸준히.",
+            "④ 큰 훈련 전엔 가볍게, 후엔 깊게."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 물리치료 평가 먼저!",
+          "color": "purple",
+          "lines": [
+            "스트로크 중 <em>걸리는 통증</em>이나,",
+            "밤에 <em>어깨 때문에 깬다면</em> 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "스트로크 중 걸리는 통증",
+        "통증과 함께 딸깍 소리",
+        "밤에 어깨 때문에 깬다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "수영 거리가 늘수록 광배근과 어깨도 그만큼 일해요 🏊\n\n자유형은 스트로크마다 광배근, 가슴, 어깨 뒤를 써요. 많은 수영인이 리메디얼 마사지 후 어깨와 등 위쪽이 한결 가볍다고 느껴요.\n\n다만 마사지는 근력 운동과 좋은 자세를 대신하지 않고 더해주는 거예요. 큰 훈련 전엔 가볍게, 많이 한 주 뒤엔 깊게. 방문 사이엔 폼롤러로 광배근 1분씩, 문틀에서 가슴 열기!\n\n스트로크 중 걸리는 통증이나 밤에 깨는 어깨는 물리치료 평가가 먼저예요. 하이브리드 피지오에서 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#수영",
+    "#수영어깨",
+    "#리메디얼마사지",
+    "#스포츠마사지",
+    "#채스우드",
+    "#시드니",
+    "#하이브리드피지오",
+    "#회복",
+    "#remedialmassage",
+    "#swimming",
+    "#swimmersshoulder",
+    "#hybridphysiotherapy"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 수영으로 뭉치는 광배근과 어깨, 마사지와 근력 운동의 관계, 방문 사이 셀프 케어, 평가가 필요한 신호.",
+  "story": {
+    "headline": "수영 많이 한 주라면?",
+    "body": "폼롤러로 광배근 1분씩,<br>문틀에서 가슴 열기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-3",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-276-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for hikers' legs",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "부시워크 다음 날,<br><em>다리가 후들후들</em>",
+      "sub": "코코와 알아보는 하이킹 후 회복",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "회복 방법,<br>같이 알아봐요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "해안 산책로 <em>계단 코스</em>.<br>신나게 다녀온 코코.",
+      "char": "koala_tired",
+      "bubble": "다음 날 계단이<br>왜 이렇게 힘들지..?",
+      "bubble_type": "thought",
+      "note": "(올라갈 때보다 내려올 때가 더 힘들었는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>긴 산책 다녀왔구나?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 마사지 받으면<br>다 풀릴까요?"
+      },
+      "note": "하비는 <mark>내리막이 왜 힘든지</mark>부터 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "힘든 건 <em>내리막</em>이에요!",
+      "fact": "내려갈 땐 허벅지·종아리가 <em>매 걸음 브레이크</em>를 걸어요",
+      "left": {
+        "label": "미리 준비",
+        "char": "koala_happy",
+        "caption": "몇 주 전부터 계단·언덕<br><b>조금씩 연습</b>"
+      },
+      "right": {
+        "label": "갑자기 장거리",
+        "char": "koala_tired",
+        "caption": "평소보다 훨씬 길게<br><em>다음 날 뻐근</em>"
+      },
+      "quip": "마사지는 회복을 돕고,<br>준비는 운동이 해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 회복 루틴</b>",
+      "sub": "산책한 날 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 하이킹 후 회복하기",
+          "color": "yellow",
+          "lines": [
+            "① 물을 <em>충분히</em> 마시고 식사 챙기기.",
+            "② 오래 앉아 있다면 <em>1시간마다</em> 일어나기.",
+            "③ 다음 날 아침 <em>10~15분 가볍게</em> 걷기.",
+            "④ 1~2일 뒤 리메디얼 마사지도 도움돼요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 GP·물리치료사 확인!",
+          "color": "purple",
+          "lines": [
+            "종아리가 <em>붓거나</em> 한 곳이 <em>날카롭게</em> 아프면",
+            "마사지 대신 먼저 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "며칠 지나도 <em>그대로라면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "종아리가 붓는다",
+        "점점 더 아파진다",
+        "무릎·발목에 못 선다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "부시워크 다음 날, 집 계단이 너무 힘든 코코.\n\n내리막에서는 허벅지와 종아리가 매 걸음 브레이크를 걸어서, 하이킹 하루이틀 뒤에 가장 뻐근한 경우가 많아요. 리메디얼 마사지는 뭉친 느낌을 덜고 움직임을 편하게 하는 데 도움이 될 수 있어요.\n\n다만 더 큰 도움은 준비예요. 몇 주 전부터 계단·언덕을 조금씩 연습해 보세요. 종아리가 붓거나 점점 아프면 GP나 물리치료사에게 확인받기!\n\n하이브리드 피지오 리메디얼 마사지 테라피스트와 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#부시워크",
+    "#하이킹",
+    "#시드니cbd",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#다리근육",
+    "#remedialmassage",
+    "#hiking",
+    "#bushwalking",
+    "#sydneycbd",
+    "#sydney"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 하이킹 내리막이 힘든 이유, 마사지의 역할, 1분 회복 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "하이킹 다음 날 다리가 뻐근?",
+    "body": "물 충분히, 다음 날<br>가볍게 10분 걷기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-01",
+  "created": "2027-02-01-3",
+  "status": "approved",
+  "review_warnings": []
+}

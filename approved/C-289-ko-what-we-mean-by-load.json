@@ -1,0 +1,131 @@
+{
+  "id": "C-289-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "What we mean by 'load'",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "루루가 자꾸 듣는 말,<br><em>'부하'</em>가 뭐예요?",
+      "sub": "하비와 알아보는 부하 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "알고 보면<br>간단해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "몇 주 쉬다가<br>헬스장 <em>복귀 첫날</em>.",
+      "char": "kanga_tired",
+      "bubble": "예전 무게 그대로<br>들었을 뿐인데..<br>왜 뻐근하지?",
+      "bubble_type": "thought",
+      "note": "(현장 일까지 겹쳐 어깨가 묵직..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>갑자기 무리했구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 아예 푹<br>쉬어야 할까요?"
+      },
+      "note": "하비는 <mark>부하와 감당 능력</mark>부터 설명해줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "부하가 <em>능력보다</em><br>빨리 오르면?",
+      "fact": "부하 = 몸에 거는 요구 · 능력 = 지금 <em>감당할 수 있는</em> 양",
+      "left": {
+        "label": "조금씩 올리기",
+        "char": "kanga_happy",
+        "caption": "능력도 같이<br><b>천천히 늘어요</b>"
+      },
+      "right": {
+        "label": "갑자기 확",
+        "char": "kanga_tired",
+        "caption": "능력이 못 따라와<br><em>삐걱댈 수 있어요</em>"
+      },
+      "quip": "푹 쉬기만 해도<br>능력이 줄 수 있어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 부하 조절</b>",
+      "sub": "한 번에 하나씩만 바꿔봐요!",
+      "sections": [
+        {
+          "heading": "1. 네 가지 다이얼",
+          "color": "yellow",
+          "lines": [
+            "① <em>양</em>: 몇 세트, 몇 kg, 몇 km",
+            "② <em>강도</em>: 얼마나 무겁게, 빠르게",
+            "③ <em>빈도</em>: 일주일에 몇 번",
+            "④ <em>회복</em>: 운동 사이 쉬는 시간"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 한 단계 낮추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>24시간 넘게</em> 남거나,",
+            "움직임이 <em>달라지면</em> 낮추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "통증이 점점 커진다",
+        "다음 날까지 안 가라앉는다",
+        "움직이는 방식이 달라졌다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "몇 주 쉬다가 헬스장에서 예전 무게를 바로 든 루루. 현장 일까지 겹쳐 몸이 뻐근해요.\n\n'부하'는 몸에 거는 요구예요. 걸음 수, 무게, 거리, 앉아 있는 시간까지 모두 포함돼요. '능력'은 지금 몸이 감당할 수 있는 양이고요. 부하가 능력보다 빨리 오르면 불편함이 생기기 쉽고, 푹 쉬기만 하면 능력이 줄 수도 있어요.\n\n양, 강도, 빈도, 회복 네 가지 다이얼을 하나씩 조절해보세요. 다음 날 아침 가라앉는 가벼운 불편감은 보통 괜찮아요.\n\n하이브리드 피지오 팀이 알맞은 설정을 함께 찾아드려요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#부하관리",
+    "#운동부하",
+    "#헬스",
+    "#부상예방",
+    "#물리치료",
+    "#시드니물리치료",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#loadmanagement",
+    "#physiotherapy",
+    "#tradie",
+    "#chatswood"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 부하와 감당 능력의 뜻, 갑자기 올릴 때와 조금씩 올릴 때 비교, 네 가지 다이얼, 확인이 필요한 신호.",
+  "story": {
+    "headline": "'부하'가 뭐예요?",
+    "body": "양·강도·빈도·회복,<br>다이얼은 하나씩!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-06",
+  "created": "2027-02-06-1",
+  "status": "approved",
+  "review_warnings": []
+}

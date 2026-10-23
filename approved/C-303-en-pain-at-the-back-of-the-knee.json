@@ -1,0 +1,131 @@
+{
+  "id": "C-303-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Pain at the back of the knee",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's knee aches<br><em>at the back</em>",
+      "sub": "A back-of-knee story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Koko <em>doubled</em><br>her daily walks.",
+      "char": "koala_tired",
+      "bubble": "Why is the back<br>of my knee<br>so tight..?",
+      "bubble_type": "thought",
+      "note": "(it's stiffer after a long sit, too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Knee bothering you?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. should I<br>stop walking?"
+      },
+      "note": "Hybi suggested <mark>trimming, not stopping</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Trim</em> it,<br>don't <b>stop</b> it!",
+      "fact": "Common causes: hamstring or calf tendons, a <em>Baker's cyst</em>",
+      "left": {
+        "label": "Trim the load",
+        "char": "koala_happy",
+        "caption": "Shorter, flatter walks,<br>you <b>keep moving</b>"
+      },
+      "right": {
+        "label": "Full rest",
+        "char": "koala_tired",
+        "caption": "Getting going again<br>can feel <em>stiffer</em>"
+      },
+      "quip": "Note what sets it off,<br>the pattern helps!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute knee builder</b>",
+      "sub": "Stay in a comfy range!",
+      "sections": [
+        {
+          "heading": "1. Bridges & heel raises",
+          "color": "yellow",
+          "lines": [
+            "① Lie down, knees bent, lift your hips.",
+            "② Hold <em>3 sec × 10 reps</em>.",
+            "③ Hold a wall, rise onto toes <em>10 reps</em>.",
+            "④ Once a day, build over a few weeks."
+          ]
+        },
+        {
+          "heading": "2. Get it checked promptly if…",
+          "color": "purple",
+          "lines": [
+            "Your <em>calf is swollen, warm or red</em> —",
+            "see a GP or emergency department."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee locks or catches",
+        "Sudden swelling",
+        "Knee gives way"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko doubled her daily walks, and now the back of her knee feels tight.\n\nPain behind the knee often comes from the hamstring or calf tendons near the joint, a fluid-filled swelling linked to the knee (a Baker's cyst), or a quick jump in activity.\n\nWhat usually helps: trimming the walk rather than stopping, choosing flatter routes, and building hamstring and calf strength with bridges and heel raises over a few weeks.\n\nOne exception: a calf that's swollen, warm or red needs prompt review with your GP or an emergency department. Our Chatswood and Sydney CBD physios can help with the next step. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#backofknee",
+    "#hamstrings",
+    "#calfstrength",
+    "#kneerehab",
+    "#chatswoodphysio",
+    "#sydneycbdphysio",
+    "#chatswood",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko on pain at the back of the knee: common causes, trimming load instead of stopping, bridges and heel raises, and signs to get checked promptly.",
+  "story": {
+    "headline": "Ache behind your knee?",
+    "body": "Trim, don't stop.<br>Start with 10 bridges.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-11",
+  "created": "2027-02-11-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-299-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Touch football and futsal: hamstrings and ankles",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Touch or futsal?<br>Mind those <em>hammies and ankles</em>",
+      "sub": "Quick feet, hard turns, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Futsal</em> after work,<br>straight off the bus.",
+      "char": "kanga_tired",
+      "bubble": "No warm-up, first<br>sprint.. why did my<br>hamstring grab..?",
+      "bubble_type": "thought",
+      "note": "(and that ankle nearly rolled, too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Legs bothering you?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "I want to play<br>the whole season!"
+      },
+      "note": "Hybi started with <mark>the warm-up</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A <em>10-minute warm-up</em><br>changes the game",
+      "fact": "Cold hamstrings and a <em>first-minute sprint</em> don't mix",
+      "left": {
+        "label": "10 min prep",
+        "char": "kanga_happy",
+        "caption": "Jog, swings, short<br>sprints to <b>warm up</b>"
+      },
+      "right": {
+        "label": "Cold sprint",
+        "char": "kanga_tired",
+        "caption": "Cold muscles at speed<br><em>can strain</em>"
+      },
+      "quip": "And train your ankles<br>with balance work!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute ankle balance</b>",
+      "sub": "Try it while brushing your teeth!",
+      "sections": [
+        {
+          "heading": "1. Single-leg stand",
+          "color": "yellow",
+          "lines": [
+            "① Stand on <em>one leg</em> while you brush your teeth.",
+            "② Too easy? Try <em>eyes closed</em> or on a pillow.",
+            "③ <em>30 sec each side</em>, once or twice a day.",
+            "④ Add small side-to-side hops."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Your ankle feels <em>wobbly</em> or pain gets <em>worse</em>",
+            "— stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Sudden grab in the thigh",
+        "Can't walk on a rolled ankle",
+        "An ankle that gives way"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu jumped straight into futsal after work, and his hamstring grabbed on the first sprint. ⚽\n\nTouch and futsal are all short sprints, sharp stops and quick turns, so hamstrings and ankles do a lot of the work. Ten minutes is plenty to warm up: easy jog, leg swings, then a few short sprints with turns.\n\nHybi's tip: stand on one leg while brushing your teeth, 30 seconds each side. Hamstring work like single-leg bridges twice a week can help too, starting with low numbers.\n\nA sudden grab in the back of the thigh or an ankle that keeps giving way is worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#futsal",
+    "#touchfootball",
+    "#hamstring",
+    "#anklesprain",
+    "#sydneycbd",
+    "#sydneycbdphysio",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#socialsport"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu the kangaroo explaining why touch and futsal load hamstrings and ankles, a 10-minute warm-up, a single-leg balance drill and signs worth getting checked.",
+  "story": {
+    "headline": "Warmed up before futsal?",
+    "body": "10-minute warm-up, then<br>30 sec single-leg stands.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-10",
+  "created": "2027-02-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

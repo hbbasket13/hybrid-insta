@@ -1,0 +1,131 @@
+{
+  "id": "C-302-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "When we'll suggest seeing your GP",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why would Hybi say<br>'<em>see your GP</em>'?",
+      "sub": "Teamwork care, with Koko and Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Don't worry,<br>let's talk it through!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Back pain, and Koko<br>feels <em>unwell</em> too.",
+      "char": "koala_tired",
+      "bubble": "Maybe a nap<br>will sort it..?",
+      "bubble_type": "thought",
+      "note": "(lately no position feels comfy at night either..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>What's bothering you?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "My back.. but why<br>mention my GP?"
+      },
+      "note": "Hybi explained <mark>why teamwork matters</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A GP referral is<br><em>teamwork</em>!",
+      "fact": "Most aches settle with <em>movement and time</em>",
+      "left": {
+        "label": "Working together",
+        "char": "koala_happy",
+        "caption": "With consent, we write<br>to your GP and <b>keep going</b>"
+      },
+      "right": {
+        "label": "Going it alone",
+        "char": "koala_tired",
+        "caption": "Brushing off fever<br>or <em>weight loss</em>"
+      },
+      "quip": "It's about checking<br>the bigger picture!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute GP prep</b>",
+      "sub": "When a doctor should look too",
+      "sections": [
+        {
+          "heading": "1. Before your GP visit",
+          "color": "yellow",
+          "lines": [
+            "① Note when the pain started.",
+            "② Jot down fever, weight change, night pain.",
+            "③ Share our assessment with your GP.",
+            "④ With consent, we can <em>write a letter</em>."
+          ]
+        },
+        {
+          "heading": "2. Go to emergency straight away if…",
+          "color": "purple",
+          "lines": [
+            "<em>Numbness</em> around the groin, bladder or",
+            "bowel changes, or <em>worsening leg weakness</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "When we'll suggest<br><em>your GP</em>",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "See your GP if you notice",
+      "items": [
+        "Back pain with a fever",
+        "Unexplained weight loss",
+        "Night pain in any position"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Why would a physio or chiropractor suggest seeing your GP?\n\nMost aches and pains settle with the right movement, load and time. But part of a good assessment is spotting when a doctor's input is needed too, like fever with back pain, unexplained weight loss or night pain that doesn't ease in any position.\n\nSometimes progress simply stalls, and a GP review can look at the bigger picture. It's never a brush-off. With your consent we can write to your GP and keep working on your plan together.\n\nOur team at Hybrid Physio is happy to talk through next steps. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#chiropractic",
+    "#alliedhealth",
+    "#gp",
+    "#teamcare",
+    "#backpain",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydneycbd"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining when we suggest seeing a GP, why it is teamwork, how to prepare and signs that need a doctor.",
+  "story": {
+    "headline": "When we'll suggest your GP",
+    "body": "Fever, weight loss, nerve changes.<br>Teamwork, not a brush-off.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-11",
+  "created": "2027-02-11-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-278-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for dancers' hips and feet",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "긴 리허설 끝,<br><em>골반이랑 발바닥</em>이 욱신",
+      "sub": "춤추는 모모와 알아보는 회복 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "공연 앞두고 <em>매일 리허설</em>.<br>열심히 연습하는 모모.",
+      "char": "cat_tired",
+      "bubble": "발바닥이랑 골반이<br>왜 이렇게 묵직하지..?",
+      "bubble_type": "thought",
+      "note": "(턴아웃 연습만 오늘 두 시간째..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>연습 많이 했구나?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 마사지 받으면<br>계속 연습해도 되죠?"
+      },
+      "note": "하비는 <mark>마사지 타이밍</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "마사지도<br><em>타이밍</em>이 있어요!",
+      "fact": "턴아웃·점프는 <em>깊은 고관절 근육</em>과 발바닥을 많이 써요",
+      "left": {
+        "label": "가벼운 날에",
+        "char": "cat_happy",
+        "caption": "깊은 마사지는<br><b>연습 적은 날</b>에"
+      },
+      "right": {
+        "label": "공연 전날",
+        "char": "cat_tired",
+        "caption": "세게 받으면 다리가<br><em>무거울 수 있어요</em>"
+      },
+      "quip": "공연 전날엔 가볍게,<br>깊게는 쉬는 날에!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 발 케어</b>",
+      "sub": "집에서 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 발바닥·종아리 관리",
+          "color": "yellow",
+          "lines": [
+            "① 앉아서 발바닥으로 공을 <em>1분간</em> 굴려요.",
+            "② 종아리 들기, <em>끝까지 천천히 × 10회</em>.",
+            "③ 앉아서 발가락 <em>쫙 펴기 × 10회</em>.",
+            "④ 하루 한 번, 꾸준히가 중요해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 물리치료사 확인!",
+          "color": "purple",
+          "lines": [
+            "점프할수록 <em>발등이 아프거나</em>,",
+            "착지 후 발목이 <em>가라앉지 않는다면</em> 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "계속 <em>욱신거린다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "점프할수록 발등 통증",
+        "통증과 함께 골반 소리",
+        "발목이 안 가라앉는다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "리허설이 길어질수록 골반과 발바닥이 욱신한 모모.\n\n턴아웃, 점프, 드미 푸앵트는 깊은 고관절 근육과 종아리, 발바닥의 작은 근육을 많이 써요. 리메디얼 마사지는 그 묵직한 느낌을 덜어주는 데 도움이 될 수 있어요.\n\n마사지는 근력 운동·테크닉·휴식과 함께 가는 거예요. 깊은 마사지는 연습이 적은 날에, 집에서는 공 굴리기와 종아리 들기! 점프할수록 발등이 아프면 물리치료사 평가가 먼저예요.\n\n프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#리메디얼마사지",
+    "#댄서",
+    "#발레",
+    "#시드니cbd",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#발바닥",
+    "#remedialmassage",
+    "#dancer",
+    "#ballet",
+    "#sydneycbd",
+    "#sydney"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 댄서의 골반·발에 쌓이는 부하, 마사지 타이밍, 1분 발 케어, 확인이 필요한 신호.",
+  "story": {
+    "headline": "리허설 후 발바닥이 욱신?",
+    "body": "공 위에 발바닥 1분,<br>종아리 들기 10회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-02",
+  "created": "2027-02-02-5",
+  "status": "approved",
+  "review_warnings": []
+}

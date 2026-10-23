@@ -1,0 +1,131 @@
+{
+  "id": "C-324-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for martial arts and BJJ training",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "주 5일 주짓수,<br>루루의 <em>팔뚝이 터질 듯</em>",
+      "sub": "격투기·주짓수와 마사지 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "퇴근 후엔<br>매일 밤 <em>주짓수 롤링</em>.",
+      "char": "kanga_tired",
+      "bubble": "그립 잡던 팔이랑<br>목이 너무 뻐근해..",
+      "bubble_type": "thought",
+      "note": "(그레이딩까지 2주 남았는데..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>훈련이 많았구나?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 그레이딩 전날<br>세게 풀어도 될까요?"
+      },
+      "note": "하비는 <mark>마사지 타이밍</mark>부터 알려주기로 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "강한 마사지는<br><em>가벼운 날</em>에!",
+      "fact": "그립·프레임·브릿지는 <em>팔뚝·목·고관절</em>을 많이 써요",
+      "left": {
+        "label": "가벼운 날",
+        "char": "kanga_happy",
+        "caption": "강한 마사지는<br><b>훈련 적은 날</b>"
+      },
+      "right": {
+        "label": "시합 전날",
+        "char": "kanga_tired",
+        "caption": "세게 풀면 몸이<br><em>무거울 수 있어요</em>"
+      },
+      "quip": "시합 1~2일 전엔<br>가볍게 풀어요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>마사지 전 1분 체크</b>",
+      "sub": "치료사에게 이렇게 말해요!",
+      "sections": [
+        {
+          "heading": "1. 치료사에게 알려주기",
+          "color": "yellow",
+          "lines": [
+            "① 종목과 <em>주 몇 회</em> 훈련하는지.",
+            "② 다가오는 시합·그레이딩 날짜.",
+            "③ 최근 <em>늦게 탭</em>한 관절기나 넘어진 일.",
+            "④ 그다음 압력·자세를 함께 정해요."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 말고 평가!",
+          "color": "purple",
+          "lines": [
+            "관절이 <em>불안정</em>하거나 <em>뚝 소리</em>와 붓기,",
+            "머리를 부딪혔다면 먼저 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "관절이 불안정하다",
+        "뚝 소리 후 붓는다",
+        "손발이 저리다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "주 5일 롤링에 팔뚝과 목이 뻐근한 루루. 주짓수와 격투기는 그립, 프레임, 브릿지, 가드 유지로 팔뚝·목·등·고관절을 많이 써요.\n\n리메디얼 마사지는 훈련 사이 몸을 가볍고 편하게 느끼게 도와줄 수 있어요. 수면, 근력, 적당한 훈련량을 대신하진 않아요. 시합·그레이딩 1~2일 전엔 가볍게, 강한 마사지는 가벼운 훈련 날에. 최근 늦게 탭한 관절기도 치료사에게 알려주세요.\n\n관절이 불안정하거나 뚝 소리와 붓기, 저림, 머리 부딪힘은 물리치료 평가가 먼저예요. 프로필 링크에서 온라인 예약 🥋\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주짓수",
+    "#격투기",
+    "#리메디얼마사지",
+    "#스포츠마사지",
+    "#채스우드",
+    "#시드니물리치료",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#bjj",
+    "#martialarts",
+    "#chatswood",
+    "#sportsmassage"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 주짓수 후 팔뚝·목이 뻐근한 이유, 마사지 타이밍 비교, 치료사에게 알려줄 것, 확인이 필요한 신호.",
+  "story": {
+    "headline": "매일 밤 롤링 중이라면?",
+    "body": "강한 마사지는 시합 날과 멀리,<br>최근 탭한 일도 알려주세요!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-19",
+  "created": "2027-02-19-3",
+  "status": "approved",
+  "review_warnings": []
+}

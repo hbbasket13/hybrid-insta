@@ -1,0 +1,131 @@
+{
+  "id": "C-313-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for hikers",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why the downhills feel<br><em>so hard</em> for Koko",
+      "sub": "A hiking story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Let's get<br>trail-ready!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Fine going up, but<br><em>wobbly legs</em> going down.",
+      "char": "koala_tired",
+      "bubble": "What if I slip<br>on those rocks..?",
+      "bubble_type": "thought",
+      "note": "(and the thighs feel heavy the next day..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Big hike coming up?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yes.. but I worry<br>about my balance."
+      },
+      "note": "Hybi decided to explain <mark>the braking muscles</mark> first."
+    },
+    {
+      "kind": "compare",
+      "title": "Downhills need<br><em>braking strength</em>!",
+      "fact": "Going down, your thighs work <em>while they lengthen</em>",
+      "left": {
+        "label": "Slow control",
+        "char": "koala_happy",
+        "caption": "Legs brake<br><b>smoothly</b>"
+      },
+      "right": {
+        "label": "Dropping down",
+        "char": "koala_tired",
+        "caption": "Thighs<br><em>tire quickly</em>"
+      },
+      "quip": "Practising slow returns<br>can help!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute downhill drill</b>",
+      "sub": "One step is all you need!",
+      "sections": [
+        {
+          "heading": "1. Slow step-down",
+          "color": "yellow",
+          "lines": [
+            "① Stand on a low step, hold the rail.",
+            "② Lower one foot over <em>3 slow seconds</em>.",
+            "③ <em>8 reps per side</em>.",
+            "④ Start several weeks before a big hike."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your knee <em>swells or feels sharp</em> —",
+            "stop and get advice first."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>unsteady</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A recent fall",
+        "Ankles that roll often",
+        "A swollen, sore knee"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko is fine going uphill, but the legs get wobbly on the way down.\n\nTrails ask for single-leg strength, ankles that react to rocks and roots, and thighs that can control long descents. Clinical Pilates trains that braking skill with slow, controlled returns on the reformer, plus balance and footwork.\n\nHybi's 1-minute drill: slow step-downs from a low step, 3 seconds each, 8 reps per side. Two Pilates sessions a week alongside hill and stair walks, starting several weeks out, is a practical way to prepare.\n\nA recent fall or ankles that roll often are worth an assessment. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#hiking",
+    "#bushwalking",
+    "#balance",
+    "#reformerpilates",
+    "#sydneypilates",
+    "#chatswood",
+    "#sydney",
+    "#hybridphysiotherapy",
+    "#healthyageing",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko the koala explaining the braking strength needed for downhill hiking, a slow step-down drill and signs worth getting checked.",
+  "story": {
+    "headline": "Hike coming up?",
+    "body": "Slow step-downs,<br>8 reps per side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-16",
+  "created": "2027-02-16-4",
+  "status": "approved",
+  "review_warnings": []
+}

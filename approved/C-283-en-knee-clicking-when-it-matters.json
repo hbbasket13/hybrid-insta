@@ -1,0 +1,131 @@
+{
+  "id": "C-283-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee clicking: when it matters",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Lulu's knees go<br><em>click on the stairs</em>",
+      "sub": "A noisy-knee story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Noise alone is<br>usually harmless!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Kneeling and squatting<br><em>all day</em> on site.",
+      "char": "kanga_tired",
+      "bubble": "Click.. click..<br>is my knee wearing out..?",
+      "bubble_type": "thought",
+      "note": "(lately Lulu has been skipping squats at the gym..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Noisy knees, hey?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. should I go<br>easy on them?"
+      },
+      "note": "Hybi explained that <mark>symptoms matter more than sound</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Symptoms</em> matter<br>more than sound!",
+      "fact": "Research suggests painless knee noise is <em>very common</em>",
+      "left": {
+        "label": "Noisy, comfy",
+        "char": "kanga_happy",
+        "caption": "No pain? Knees usually<br>cope <b>fine with use</b>"
+      },
+      "right": {
+        "label": "Pain or swelling",
+        "char": "kanga_tired",
+        "caption": "Swelling or catching<br>is <em>worth a check</em>"
+      },
+      "quip": "Avoiding stairs can leave<br>your legs less conditioned!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>1-minute knee builder</b>",
+      "sub": "Three times a week, nice and slow!",
+      "sections": [
+        {
+          "heading": "1. Sit-to-stand",
+          "color": "yellow",
+          "lines": [
+            "① Sit near the front of a sturdy chair.",
+            "② Stand up <em>without using your hands</em>.",
+            "③ Lower back down slowly over 3 seconds.",
+            "④ <em>10 reps × 2 sets</em>, 3 times a week."
+          ]
+        },
+        {
+          "heading": "2. Stop if…",
+          "color": "purple",
+          "lines": [
+            "Pain keeps <em>building</em>, or your",
+            "knee <em>swells up</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>worried</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling after activity",
+        "Locking or giving way",
+        "Clicks began after a twist"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu's knees click every time she takes the stairs. Kneeling and squatting on site all day, it's easy to wonder if something is wearing out.\n\nResearch suggests painless knee noises are very common and usually aren't a sign of harm. What matters more is what comes with the sound. Avoiding stairs or squats because of a click can leave your legs less conditioned.\n\nHybi's 1-minute builder: sit-to-stands without using your hands, 10 reps × 2 sets, three times a week. Stop if pain builds or the knee swells.\n\nSwelling after activity, locking, giving way, or clicks that started after a twist are worth an assessment. Our Sydney CBD and Chatswood physios can help. Book online via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#noisyknees",
+    "#kneehealth",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#chatswoodphysio",
+    "#sydneycbd",
+    "#tradielife",
+    "#strengthtraining",
+    "#hybridphysiotherapy",
+    "#physio"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why knee clicking is common, why symptoms matter more than sound, a sit-to-stand routine and signs worth getting checked.",
+  "story": {
+    "headline": "Clicky knees on the stairs?",
+    "body": "Symptoms matter more than sound.<br>Try 10 sit-to-stands.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-04",
+  "created": "2027-02-04-4",
+  "status": "approved",
+  "review_warnings": []
+}

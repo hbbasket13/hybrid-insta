@@ -1,0 +1,131 @@
+{
+  "id": "C-290-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage during a marathon training block",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "마라톤 훈련 중,<br><em>마사지는 언제?</em>",
+      "sub": "하비와 알아보는 마라톤 회복 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "타이밍이<br>중요해요!"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말마다 <em>장거리</em>,<br>마라톤 준비하는 토토.",
+      "char": "rabbit_tired",
+      "bubble": "종아리가 돌덩이..<br>세게 풀어야겠다!",
+      "bubble_type": "thought",
+      "note": "(롱런 전날 딥 마사지 받고 다리가 천근만근..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>다리가 많이 무겁구나?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 세게 받을수록<br>좋은 거 아니에요?"
+      },
+      "note": "하비는 <mark>타이밍과 압력</mark>이 중요하다고 알려줬다."
+    },
+    {
+      "kind": "compare",
+      "title": "언제, 얼마나 <em>세게?</em>",
+      "fact": "회복의 중심은 <em>수면·영양·훈련 계획</em>, 마사지는 추가",
+      "left": {
+        "label": "쉬운 날",
+        "char": "rabbit_happy",
+        "caption": "롱런 뒤나 쉬운 날엔<br><b>가볍게</b>"
+      },
+      "right": {
+        "label": "핵심 훈련 전날",
+        "char": "rabbit_tired",
+        "caption": "깊은 압력은 다리를<br><em>무겁게 할 수 있어요</em>"
+      },
+      "quip": "롱런·스피드 전엔<br>하루 이틀 여유를!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 마사지 일정</b>",
+      "sub": "훈련표 옆에 적어봐요!",
+      "sections": [
+        {
+          "heading": "1. 마사지 타이밍 잡기",
+          "color": "yellow",
+          "lines": [
+            "① 롱런 다음 날이나 <em>쉬운 날</em>에 예약.",
+            "② 핵심 훈련 전 <em>1~2일</em>은 비워두기.",
+            "③ 지금 훈련 주차를 치료사에게 알려요.",
+            "④ 종아리·허벅지 근력 운동은 <em>주 2번</em> 계속!"
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 마사지 대신 물리치료!",
+          "color": "purple",
+          "lines": [
+            "뛸수록 <em>뼈가 아파지거나</em>,",
+            "통증 때문에 <em>보폭이 바뀌면</em> 평가 먼저!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>아프다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "뛸수록 뼈가 아프다",
+        "달리는 자세가 바뀌었다",
+        "매주 점점 심해진다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "주말마다 장거리를 뛰며 마라톤을 준비하는 토토. 롱런 전날 딥 마사지를 받았더니 다리가 오히려 무거웠어요.\n\n마사지는 뭉친 종아리와 허벅지를 가볍게 느끼게 도와줄 수 있어요. 다만 회복의 중심은 수면, 영양, 근력 운동, 단계적인 훈련 계획이에요.\n\n롱런 뒤나 쉬운 날엔 가볍게, 핵심 훈련 전엔 하루 이틀 여유를 두세요. 지금 몇 주 차인지 리메디얼 마사지 테라피스트에게 알려주면 압력을 맞출 수 있어요. 뛸수록 뼈가 아프면 물리치료 평가가 먼저예요.\n\n프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#마라톤",
+    "#마라톤훈련",
+    "#러닝",
+    "#리메디얼마사지",
+    "#스포츠마사지",
+    "#시드니러닝",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#marathontraining",
+    "#remedialmassage",
+    "#sydneyrunners",
+    "#sydneycbd"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 마라톤 훈련 중 마사지 타이밍과 압력, 1분 마사지 일정 잡기, 물리치료 평가가 필요한 신호.",
+  "story": {
+    "headline": "마라톤 훈련 중 마사지는?",
+    "body": "쉬운 날엔 가볍게,<br>롱런 전엔 하루 이틀 여유!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-06",
+  "created": "2027-02-06-5",
+  "status": "approved",
+  "review_warnings": []
+}

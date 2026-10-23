@@ -1,0 +1,132 @@
+{
+  "id": "C-304-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Squash and badminton: knees and ankles on a fast court",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "토토의 <em>런지</em>, 무릎과<br>발목은 괜찮을까?",
+      "sub": "하비와 함께 하는 코트 준비 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>준비해볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "퇴근 후 <em>스쿼시</em>에<br>푹 빠진 토토.",
+      "char": "rabbit_tired",
+      "bubble": "경기만 하면<br>종아리랑 무릎이<br>왜 이러지..?",
+      "bubble_type": "thought",
+      "note": "(다음 날 아침 계단이 무겁다..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕! 나는 하비야.<br>코트에서 왔어요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 더 많이 뛰면<br>적응되겠죠?"
+      },
+      "note": "하비는 <mark>런지 자체를 강하게</mark> 만들자고 했다."
+    },
+    {
+      "kind": "compare",
+      "title": "한 경기에 런지가<br><em>수백 번!</em>",
+      "fact": "깊은 런지·급정지·방향 전환을 <em>좁은 코트</em>에서 반복",
+      "left": {
+        "label": "워밍업 후",
+        "char": "rabbit_happy",
+        "caption": "런지·사이드 스텝으로<br><b>천천히 시작</b>"
+      },
+      "right": {
+        "label": "바로 경기",
+        "char": "rabbit_tired",
+        "caption": "몸이 덜 풀린 채<br><em>급하게 런지</em>"
+      },
+      "quip": "첫 게임은<br>천천히 시작해요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>1분 코트 준비</b>",
+      "sub": "주 2회 + 경기 전 워밍업",
+      "sections": [
+        {
+          "heading": "1. 런지를 버티는 힘 기르기",
+          "color": "yellow",
+          "lines": [
+            "① 스플릿 스쿼트 <em>10회 × 양쪽</em>.",
+            "② 스텝업 <em>10회 × 양쪽</em>.",
+            "③ 한 발 뒤꿈치 들기, <em>천천히 10회</em>.",
+            "④ 주 2회, 쉬워지면 무게 조금 추가."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "뒤꿈치 뒤에서 <em>'뚝'</em> 소리가 나거나,",
+            "발목에 <em>체중을 못 싣는다면</em> 확인받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "뒤꿈치 뒤 갑작스런 통증",
+        "무릎이 붓거나 걸린다",
+        "발을 디딜 수 없다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "퇴근 후 스쿼시·배드민턴 즐기는 토토. 깊은 런지와 빠른 방향 전환이 무릎과 발목에 부담이 될 수 있어요 🏸\n\n두 종목 모두 짧은 경기 안에 런지, 급정지, 밀어내기를 수백 번 반복해요. 종아리·무릎·발목이 그 대부분을 받아내죠.\n\n주 2회 스플릿 스쿼트, 스텝업, 천천히 한 발 뒤꿈치 들기로 힘을 길러보세요. 경기 전엔 런지와 사이드 스텝으로 워밍업하고 첫 게임은 천천히!\n\n뒤꿈치 뒤 '뚝' 하는 통증, 붓거나 걸리는 무릎, 디딜 수 없는 발목은 확인받기. 시드니 CBD·채스우드 물리치료사가 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#스쿼시",
+    "#배드민턴",
+    "#무릎통증",
+    "#발목통증",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#채스우드",
+    "#물리치료",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#squash",
+    "#badminton",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 스쿼시와 배드민턴의 런지 부담, 워밍업 비교, 런지 근력 운동, 확인이 필요한 신호.",
+  "story": {
+    "headline": "코트 가기 전 1분!",
+    "body": "런지·사이드 스텝으로<br>먼저 워밍업!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-02-12",
+  "created": "2027-02-12-1",
+  "status": "approved",
+  "review_warnings": []
+}
