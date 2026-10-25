@@ -126,6 +126,12 @@
   },
   "scheduled_date": "2026-10-24",
   "created": "2026-10-24-6",
-  "status": "approved",
-  "review_warnings": []
+  "status": "posted",
+  "review_warnings": [],
+  "posted": {
+    "date": "2026-10-25",
+    "media_id": "18435892096150497",
+    "permalink": "https://www.instagram.com/p/De5cg0SFfUh/",
+    "story_id": "18639355765028700"
+  }
 }
