@@ -118,6 +118,12 @@
   },
   "scheduled_date": "2026-11-12",
   "created": "2026-11-12-1",
-  "status": "approved",
-  "review_warnings": []
+  "status": "posted",
+  "review_warnings": [],
+  "posted": {
+    "date": "2026-11-13",
+    "media_id": "17933059323423030",
+    "permalink": "https://www.instagram.com/p/Dfpcr81kbNI/",
+    "story_id": "18398324506206681"
+  }
 }
