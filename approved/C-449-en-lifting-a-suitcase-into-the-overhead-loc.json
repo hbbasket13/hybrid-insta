@@ -1,0 +1,131 @@
+{
+  "id": "C-449-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Lifting a suitcase into the overhead locker",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's back twinges<br>at the <em>overhead locker</em>",
+      "sub": "A lower back story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A <em>rushed</em> suitcase lift<br>in the boarding queue.",
+      "char": "kanga_tired",
+      "bubble": "I twisted as I lifted<br>and my back twinged..",
+      "bubble_type": "thought",
+      "note": "(the queue behind me was huge..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore back?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. from putting<br>my bag up on the plane."
+      },
+      "note": "Hybi started with <mark>lifting in two stages</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't swing it up<br><em>in one go</em>!",
+      "fact": "Keep the bag <em>close</em> and lift in two stages, via chest height",
+      "left": {
+        "label": "Two stages",
+        "char": "kanga_happy",
+        "caption": "Chest height first,<br>then push — <b>less strain</b>"
+      },
+      "right": {
+        "label": "Twist & swing",
+        "char": "kanga_tired",
+        "caption": "Far away and twisting,<br><em>your back takes it all</em>"
+      },
+      "quip": "Keep travelling,<br>just change the lift!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>overhead locker lift</b>",
+      "sub": "Remember it before you board!",
+      "sections": [
+        {
+          "heading": "1. Close, in stages, no rush",
+          "color": "yellow",
+          "lines": [
+            "① Bag <em>close to you</em>, knees bent.",
+            "② Pause at <em>chest height</em>.",
+            "③ Move your feet — <em>don't twist</em>.",
+            "④ Heavy? <em>Ask for help</em> or check it in."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em>, or you get",
+            "<em>tingling or weakness</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain or tingling in a leg",
+        "Hard to change position",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "The boarding queue was long, so Lulu rushed her suitcase into the overhead locker. She twisted as she lifted, and her back twinged.\n\nLifting a heavy bag far from your body while twisting can put extra load on your back. Keeping it close and lifting in two stages can ease that.\n\nHybi's tip: bag close, knees bent, pause at chest height, then push it in. Turn with your feet, and ask for help or check it in if it's heavy.\n\nPain spreading down a leg, tingling or weakness is worth an assessment first. Our Chatswood and Sydney CBD chiropractors can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#sydneychiro",
+    "#backpain",
+    "#travel",
+    "#traveltips",
+    "#carryon",
+    "#flying",
+    "#sydneycbd",
+    "#sydneycbdchiro",
+    "#hybridphysiotherapy",
+    "#chiro",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on why lifting a suitcase into the overhead locker can strain the back, two-stage versus twisting lifts, locker tips and signs worth getting checked.",
+  "story": {
+    "headline": "Back twinge at the overhead locker?",
+    "body": "Bag close, pause at chest height,<br>then push it in.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-09",
+  "created": "2027-04-09-6",
+  "status": "approved",
+  "review_warnings": []
+}

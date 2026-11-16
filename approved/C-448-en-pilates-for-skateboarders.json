@@ -1,0 +1,131 @@
+{
+  "id": "C-448-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for skateboarders",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's knees and back<br>ache after <em>skating</em>",
+      "sub": "A Pilates story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Hours</em> at the<br>skate park every weekend.",
+      "char": "rabbit_tired",
+      "bubble": "Every landing<br>jolts my knees..",
+      "bubble_type": "thought",
+      "note": "(a hundred kickflip attempts. again.)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>A skater, hey?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yep.. and I'm sore<br>all over afterwards."
+      },
+      "note": "Hybi started with <mark>trunk and hip strength</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Balance isn't<br><em>just your feet</em>!",
+      "fact": "When your <em>trunk and hips</em> help, landings get softer",
+      "left": {
+        "label": "Soft landing",
+        "char": "rabbit_happy",
+        "caption": "Knees bent, hips back,<br>and it <b>jolts less</b>"
+      },
+      "right": {
+        "label": "Stiff legs",
+        "char": "rabbit_tired",
+        "caption": "Land with straight legs,<br><em>knees take it all</em>"
+      },
+      "quip": "Keep skating,<br>just build your base!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>skater Pilates</b>",
+      "sub": "Before a session or on rest days!",
+      "sections": [
+        {
+          "heading": "1. Build your trunk and balance",
+          "color": "yellow",
+          "lines": [
+            "① Bridges, <em>10 slow reps</em>.",
+            "② Stand on one leg, <em>30 sec</em> each side.",
+            "③ Side-lying leg lifts, <em>10 each side</em>.",
+            "④ <em>10 easy squats</em> before you skate."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "A fall leads to <em>a lot of swelling</em>, or",
+            "it's <em>hard to put weight on</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Big swelling after a fall",
+        "Knee feels like it gives way",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto spends hours at the skate park every weekend. Every landing jolts his knees, and his back is stiff afterwards.\n\nBalance on a board comes from your trunk and hips as well as your feet. Landing with bent knees and hips can help spread the load.\n\nHybi's prep: 10 slow bridges, 30 seconds on one leg each side, and a few easy squats before you skate. Clinical Pilates can help build trunk and hip control.\n\nBig swelling after a fall or a knee that gives way is worth an assessment first. Our Chatswood and Sydney CBD physio-led clinical Pilates team can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#skateboarding",
+    "#skatepark",
+    "#kneepain",
+    "#corestrength",
+    "#sydneypilates",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto on why skating can leave the knees and back sore, soft versus stiff landings, skater Pilates and signs worth getting checked.",
+  "story": {
+    "headline": "Knees jolting at the skate park?",
+    "body": "10 slow bridges,<br>30 sec single-leg balance.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-09",
+  "created": "2027-04-09-2",
+  "status": "approved",
+  "review_warnings": []
+}

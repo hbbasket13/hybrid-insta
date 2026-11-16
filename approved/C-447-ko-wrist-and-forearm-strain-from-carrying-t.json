@@ -1,0 +1,131 @@
+{
+  "id": "C-447-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Wrist and forearm strain from carrying trays",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "쟁반 나르는 모모의<br><em>손목이 시큰한 이유</em>",
+      "sub": "하비와 함께 알아보는 손목 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "점심시간 카페에서<br><em>쟁반을 수십 번</em> 나르는 모모.",
+      "char": "cat_tired",
+      "bubble": "손목이랑 팔뚝이<br>시큰시큰해..",
+      "bubble_type": "thought",
+      "note": "(점심 러시는 끝이 없어..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 손목이<br>불편하군요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 일을<br>쉬어야 할까요?"
+      },
+      "note": "하비는 <mark>쟁반 드는 법</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "쟁반은 <em>손목만</em>으로<br>드는 게 아니에요!",
+      "fact": "쟁반은 <em>몸 가까이</em>, 손바닥 전체로 받쳐요",
+      "left": {
+        "label": "몸 가까이",
+        "char": "cat_happy",
+        "caption": "팔꿈치 붙이고 받치면<br>손목이 <b>덜 꺾여요</b>"
+      },
+      "right": {
+        "label": "손끝으로",
+        "char": "cat_tired",
+        "caption": "손목 꺾고 멀리 들면<br><em>팔뚝이 다 버텨요</em>"
+      },
+      "quip": "일은 계속하고<br>드는 법을 바꿔요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>손목 쉬는 시간</b>",
+      "sub": "근무 중 틈틈이!",
+      "sections": [
+        {
+          "heading": "1. 받치는 법과 짧은 휴식",
+          "color": "yellow",
+          "lines": [
+            "① 쟁반은 <em>손바닥 전체</em>로 받치기.",
+            "② 무거우면 <em>두 손</em>으로, 나눠서.",
+            "③ 손목 앞뒤 스트레칭 <em>15초씩</em>.",
+            "④ 틈날 때 주먹 쥐었다 펴기 <em>10회</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "<em>손가락 저림</em>이 계속되거나,",
+            "<em>붓고 힘이 빠지면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "손가락이 저리거나 둔하다",
+        "손목이 붓거나 열감이 있다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "점심시간 카페에서 쟁반을 수십 번 나르는 모모. 요즘 손목과 팔뚝이 시큰해요.\n\n손목을 꺾은 채 쟁반을 몸에서 멀리 들면 팔뚝 근육이 계속 버티게 될 수 있어요. 몸 가까이 손바닥 전체로 받치면 부담을 나눌 수 있어요.\n\n하비의 팁: 손바닥 전체로 받치기, 무거우면 두 손으로 나눠 들기, 틈틈이 손목 스트레칭.\n\n손가락 저림이 계속되거나 붓고 힘이 빠진다면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 ☕\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#손목통증",
+    "#팔뚝통증",
+    "#카페알바",
+    "#바리스타",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#물리치료",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#wristpain",
+    "#hospitality"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 쟁반을 나르다 손목이 시큰한 이유, 몸 가까이 받치기 비교, 손목 쉬는 시간 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "쟁반 나르다 손목이 시큰하다면?",
+    "body": "손바닥 전체로 받치고,<br>틈틈이 손목 스트레칭!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-09",
+  "created": "2027-04-09-1",
+  "status": "approved",
+  "review_warnings": []
+}

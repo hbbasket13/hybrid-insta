@@ -1,0 +1,131 @@
+{
+  "id": "C-457-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Nappy changes: change-table height and your back",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "기저귀 갈 때마다<br>루루의 <em>허리가 뻐근한 이유</em>",
+      "sub": "하비와 함께 알아보는 허리 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "하루에도 <em>여러 번</em><br>허리 숙여 기저귀 가는 루루.",
+      "char": "kanga_tired",
+      "bubble": "왜 일어날 때마다<br>허리가 뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(아기는 오늘도 쑥쑥..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 허리가<br>불편하군요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 기저귀 갈 때<br>특히 그래요."
+      },
+      "note": "하비는 <mark>기저귀대 높이</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "높이만 바꿔도<br>허리가 <em>편해져요</em>!",
+      "fact": "기저귀대는 <em>허리 높이</em> 정도가 편한 경우가 많아요",
+      "left": {
+        "label": "허리 높이",
+        "char": "kanga_happy",
+        "caption": "몸 가까이 서서<br>허리를 <b>덜 숙여요</b>"
+      },
+      "right": {
+        "label": "너무 낮게",
+        "char": "kanga_tired",
+        "caption": "하루 여러 번 숙이면<br><em>허리가 다 버텨요</em>"
+      },
+      "quip": "아기는 그대로,<br>높이만 맞춰요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>기저귀 갈이 꿀팁</b>",
+      "sub": "오늘부터 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 높이 맞추고 가까이 서기",
+          "color": "yellow",
+          "lines": [
+            "① 기저귀대는 <em>허리 높이</em>로 맞추기.",
+            "② 필요한 물건은 <em>손 닿는 곳</em>에.",
+            "③ 숙일 땐 <em>무릎 살짝 굽히기</em>.",
+            "④ 아기에게서 <em>한 손은 떼지 않기</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 내려가거나</em>,",
+            "다리가 <em>저리면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리로 저림이 내려간다",
+        "밤에 아파서 잠을 깬다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "하루에도 여러 번 허리를 숙여 기저귀를 가는 루루. 일어날 때마다 허리가 뻐근해요.\n\n기저귀대가 너무 낮으면 하루 여러 번 허리를 깊이 숙이게 되기 쉬워요. 허리 높이 정도로 맞추고 몸 가까이 서면 부담을 나누는 데 도움이 될 수 있어요.\n\n하비의 팁: 필요한 물건은 손 닿는 곳에, 숙일 땐 무릎 살짝 굽히기. 아기에게서 한 손은 떼지 않기!\n\n통증이 다리로 내려가거나 저림이 있다면 평가가 먼저예요. 채스우드·시드니 CBD 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 👶\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#육아",
+    "#기저귀",
+    "#초보엄마",
+    "#육아스타그램",
+    "#카이로프랙틱",
+    "#채스우드",
+    "#시드니육아",
+    "#하이브리드피지오",
+    "#chiropractic",
+    "#chatswood",
+    "#newmum"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 기저귀 갈 때 허리가 뻐근한 이유, 허리 높이와 너무 낮은 기저귀대 비교, 기저귀 갈이 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "기저귀 갈 때 허리가 뻐근하다면?",
+    "body": "기저귀대는 허리 높이,<br>몸 가까이 서기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-13",
+  "created": "2027-04-13-5",
+  "status": "approved",
+  "review_warnings": []
+}

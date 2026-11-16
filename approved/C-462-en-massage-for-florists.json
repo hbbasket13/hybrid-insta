@@ -1,0 +1,131 @@
+{
+  "id": "C-462-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for florists",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's wrists and legs ache<br>after <em>florist shifts</em>",
+      "sub": "A muscle tension story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "On her feet <em>all day</em>,<br>trimming and wrapping.",
+      "char": "cat_tired",
+      "bubble": "Why do my wrists<br>and calves feel<br>so heavy..?",
+      "bubble_type": "thought",
+      "note": "(so many bouquet orders today..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling stiff?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. and I really<br>love this job.."
+      },
+      "note": "Hybi started with <mark>mixing up tasks and taking breaks</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's the <em>repetition</em><br>that adds up!",
+      "fact": "Cutting and tying all day can tire <em>wrist and forearm muscles</em>",
+      "left": {
+        "label": "Mix it up",
+        "char": "cat_happy",
+        "caption": "Swap cutting and wrapping,<br><b>half-fill</b> buckets"
+      },
+      "right": {
+        "label": "One task only",
+        "char": "cat_tired",
+        "caption": "Hours of the same move,<br><em>tension builds up</em>"
+      },
+      "quip": "Massage is a great<br>sidekick for recovery!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>florist stretch breaks</b>",
+      "sub": "Try these between orders!",
+      "sections": [
+        {
+          "heading": "1. Mix it up and loosen up",
+          "color": "yellow",
+          "lines": [
+            "① Keep your snips <em>sharp</em>.",
+            "② <em>Half-fill</em> buckets, carry them close.",
+            "③ Stretch wrists both ways, <em>15 sec each</em>.",
+            "④ Stand on a <em>cushioned mat</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Hands feel <em>numb or weak</em>, or your",
+            "wrist gets <em>swollen or warm</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>feeling stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hand numbness or weakness",
+        "Wrist swelling or warmth",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo is on her feet all day, trimming stems and wrapping bouquets, and by closing time her wrists and calves feel heavy.\n\nRepeating the same cutting and tying movements, and standing for hours, can leave muscles tired and tense. Swapping between tasks and half-filling buckets may help share the load. Remedial massage can be a helpful sidekick, easing tight muscles as part of your recovery.\n\nHybi's tip: stretch your wrists both ways for 15 seconds each, and stand on a cushioned mat for long shifts.\n\nHand numbness or weakness, or a swollen, warm wrist, is worth getting checked. Our Chatswood and Sydney CBD remedial massage therapists can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#florist",
+    "#floristlife",
+    "#wristpain",
+    "#musclestiffness",
+    "#onyourfeet",
+    "#sydneycbd",
+    "#sydneyremedialmassage",
+    "#sydneymassage",
+    "#sydneyflorist",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why florist work can leave wrists and legs aching, mixing up tasks versus one task only, quick stretch breaks and signs worth getting checked.",
+  "story": {
+    "headline": "Heavy wrists after a florist shift?",
+    "body": "Mix up tasks,<br>half-fill the buckets.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-15",
+  "created": "2027-04-15-4",
+  "status": "approved",
+  "review_warnings": []
+}

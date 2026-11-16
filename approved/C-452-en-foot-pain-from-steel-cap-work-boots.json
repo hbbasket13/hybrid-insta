@@ -1,0 +1,131 @@
+{
+  "id": "C-452-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Foot pain from steel-cap work boots",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's feet hurt<br>in <em>steel-cap boots</em>",
+      "sub": "A foot story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Ten-hour days</em> on site<br>in steel-cap boots.",
+      "char": "kanga_tired",
+      "bubble": "By knock-off,<br>my feet are throbbing..",
+      "bubble_type": "thought",
+      "note": "(and the new boots are still so stiff..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore feet?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. but I have to<br>wear these boots."
+      },
+      "note": "Hybi started with <mark>boot fit and socks</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Safety boots still need<br>to <em>fit your feet</em>!",
+      "fact": "Get the <em>length and width</em> right — good socks matter too",
+      "left": {
+        "label": "Good fit",
+        "char": "kanga_happy",
+        "caption": "Toe room, laces snug,<br>feet <b>rub less</b>"
+      },
+      "right": {
+        "label": "Near enough",
+        "char": "kanga_tired",
+        "caption": "Too loose or too tight,<br><em>your feet take it all</em>"
+      },
+      "quip": "Keep the safety,<br>just sort the fit!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>work boot foot care</b>",
+      "sub": "Before and after your shift!",
+      "sections": [
+        {
+          "heading": "1. Get the fit, then unwind",
+          "color": "yellow",
+          "lines": [
+            "① Try boots on in the <em>afternoon</em>.",
+            "② Wear <em>cushioned work socks</em>.",
+            "③ Roll your sole on a ball, <em>1–2 min</em>.",
+            "④ Calf stretch, <em>30 sec</em> each side."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your foot is <em>swollen or warm</em>, or you get",
+            "<em>tingling or numbness</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A swollen or warm foot",
+        "Tingling or numb feet",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu walks the site in steel-cap boots for ten hours a day, and by knock-off her feet are throbbing.\n\nSafety boots are a must, but if the length or width isn't right, your feet can struggle over a long shift. A good fit and cushioned socks can help.\n\nHybi's tip: try boots on in the afternoon when feet are a little bigger, wear cushioned work socks, and roll your sole on a ball and stretch your calves after work.\n\nSwelling, warmth, tingling or numbness is worth an assessment first. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#footpain",
+    "#workboots",
+    "#steelcaps",
+    "#tradie",
+    "#tradielife",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu on why steel-cap work boots can leave the feet sore, good fit versus near enough, work boot foot care and signs worth getting checked.",
+  "story": {
+    "headline": "Sore feet in steel-cap boots?",
+    "body": "Fit boots in the afternoon,<br>roll your sole after work.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-10",
+  "created": "2027-04-10-6",
+  "status": "approved",
+  "review_warnings": []
+}

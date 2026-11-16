@@ -1,0 +1,131 @@
+{
+  "id": "C-457-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Nappy changes: change-table height and your back",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's back aches<br>after <em>nappy changes</em>",
+      "sub": "A lower back story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Bending over to change<br>nappies, <em>again and again</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why does my back<br>ache every time<br>I straighten up..?",
+      "bubble_type": "thought",
+      "note": "(and the baby keeps growing..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore back?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. mostly when<br>I'm changing nappies."
+      },
+      "note": "Hybi started with <mark>the change-table height</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The right height<br>can make it <em>easier</em>!",
+      "fact": "A change table around <em>waist height</em> often suits best",
+      "left": {
+        "label": "Waist height",
+        "char": "kanga_happy",
+        "caption": "Stand close, and<br>you <b>bend less</b>"
+      },
+      "right": {
+        "label": "Too low",
+        "char": "kanga_tired",
+        "caption": "Bending low all day,<br><em>your back takes it all</em>"
+      },
+      "quip": "Same bub,<br>just a better height!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>nappy change tips</b>",
+      "sub": "Start with the next change!",
+      "sections": [
+        {
+          "heading": "1. Set the height, stand close",
+          "color": "yellow",
+          "lines": [
+            "① Set the table to about <em>waist height</em>.",
+            "② Keep supplies <em>within reach</em>.",
+            "③ <em>Soften your knees</em> as you lean in.",
+            "④ Always keep <em>one hand on bub</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>travels down your leg</em>, or your",
+            "leg feels <em>numb or tingly</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain or tingling down a leg",
+        "Back pain wakes you",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu changes nappies many times a day, and lately her lower back aches every time she straightens up.\n\nWhen the change table is too low, you can end up bending deeply over and over. Setting it to around waist height and standing close may help share the load on your back.\n\nHybi's tip: keep wipes and nappies within reach, soften your knees as you lean in, and always keep one hand on bub.\n\nPain or tingling down a leg, or back pain that wakes you, is worth an assessment. Our Chatswood and Sydney CBD chiropractors can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#backpain",
+    "#lowerbackpain",
+    "#newmum",
+    "#parenting",
+    "#nappychange",
+    "#chatswood",
+    "#sydneychiropractor",
+    "#sydneymums",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why nappy changes can make the lower back ache, a waist-height versus too-low change table, simple tips and signs worth getting checked.",
+  "story": {
+    "headline": "Back aching after nappy changes?",
+    "body": "Table at waist height,<br>stand close to bub.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-13",
+  "created": "2027-04-13-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-436-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Getting in and out of a tall car",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's back twinges<br>getting into a <em>tall car</em>",
+      "sub": "A back story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Up and down</em><br>her new SUV, every day.",
+      "char": "koala_tired",
+      "bubble": "Why does my back<br>twinge every time<br>I climb in..?",
+      "bubble_type": "thought",
+      "note": "(she loves the car, though..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Back twinging?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. I step in<br>one leg first."
+      },
+      "note": "Hybi started with <mark>sit first, then turn</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Climbing in with a twist<br>is <em>hard on your back</em>!",
+      "fact": "Sit <em>bottom-first</em>, then swing both legs in together",
+      "left": {
+        "label": "Bottom first",
+        "char": "koala_happy",
+        "caption": "Sit on the seat, then<br>swing <b>both legs together</b>"
+      },
+      "right": {
+        "label": "One leg first",
+        "char": "koala_tired",
+        "caption": "Step up and twist,<br><em>your back takes it all</em>"
+      },
+      "quip": "Keep the car,<br>just change the order!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>tall-car technique</b>",
+      "sub": "Try it in the car park today!",
+      "sections": [
+        {
+          "heading": "1. Sit, swivel, then step out",
+          "color": "yellow",
+          "lines": [
+            "① Hold the handle and sit <em>bottom-first</em>.",
+            "② Knees together, swing <em>both legs in</em>.",
+            "③ Getting out, put <em>both feet down</em> first.",
+            "④ Use the side step <em>slowly</em> if there is one."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down your leg</em>, or you",
+            "notice <em>numbness</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Back pain at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko climbs in and out of her new SUV every day, and lately her back twinges each time.\n\nStepping up one leg first while twisting can leave your back doing most of the work. Sitting bottom-first and swinging both legs in together may make it easier.\n\nHybi's tip: hold the handle and sit bottom-first, keep your knees together and swivel both legs in, and when getting out, put both feet on the ground before you stand.\n\nPain spreading down your leg, numbness or weakness are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🚙\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#backpain",
+    "#lowerbackpain",
+    "#suv",
+    "#driving",
+    "#everydaymovement",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why getting into a tall car can twinge the back, bottom-first versus one-leg-first entry, a tall-car technique and signs worth getting checked.",
+  "story": {
+    "headline": "Back twinge getting into the car?",
+    "body": "Sit bottom-first,<br>then swing both legs in together.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-05",
+  "created": "2027-04-05-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,137 @@
+{
+  "id": "R-026-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-04-12–2027-04-15",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>4/12–4/15</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "rabbit_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "한 번에<br>복습해요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "목·자세 편",
+      "sub": "화면 보고 고개 숙일 때",
+      "sections": [
+        {
+          "heading": "무릎 위 태블릿 목 관리",
+          "color": "yellow",
+          "lines": [
+            "태블릿은 <em>쿠션이나 거치대</em>에 올리기.",
+            "<em>20–30분마다</em> 자세 바꾸기."
+          ]
+        },
+        {
+          "heading": "치과 의사를 위한 필라테스",
+          "color": "yellow",
+          "lines": [
+            "턱 당기기 <em>5초씩 5회</em>.",
+            "날개뼈 모으기 <em>10회</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "집·일상 편",
+      "sub": "옷 입기부터 기저귀 갈기까지",
+      "sections": [
+        {
+          "heading": "재킷 입을 때 어깨 통증",
+          "color": "yellow",
+          "lines": [
+            "<em>아픈 팔부터</em> 소매에 넣기.",
+            "<em>편한 범위</em>에서만 움직이기."
+          ]
+        },
+        {
+          "heading": "기저귀 갈이대 높이와 허리",
+          "color": "yellow",
+          "lines": [
+            "갈이대는 <em>허리 높이</em> 정도로.",
+            "기댈 땐 무릎을 <em>살짝 굽히기</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "일터·이동 편",
+      "sub": "책상에서, 버스 정류장에서",
+      "sections": [
+        {
+          "heading": "콜센터 직원 마사지",
+          "color": "yellow",
+          "lines": [
+            "화면은 <em>눈높이</em>, 헤드셋 쓰기.",
+            "<em>30분마다</em> 잠깐 일어서기."
+          ]
+        },
+        {
+          "heading": "버스 쫓다 생긴 종아리 통증",
+          "color": "yellow",
+          "lines": [
+            "처음엔 <em>아픈 동작</em>은 줄이기.",
+            "<em>몇 분 일찍</em> 집에서 나서기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔이 저리거나 힘이 없다",
+        "밤에 아파서 깬다",
+        "종아리가 붓고 뜨겁다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "4월 12일부터 4월 15일까지, 이번 주 하비의 만화를 한 번에 정리했어요.\n\n태블릿은 쿠션이나 거치대에 올리고 20–30분마다 자세를 바꿔요. 재킷을 입을 땐 아픈 팔부터 소매에 넣으면 어깨가 한결 편할 수 있어요. 기저귀 갈이대는 허리 높이 정도로 맞춰 주세요. 콜센터에서 일한다면 화면을 눈높이에 두고 30분마다 잠깐 일어서요.\n\n자세한 내용은 이번 주 만화를 넘겨 보세요. 채스우드·시드니 CBD에서 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#하이브리드피지오",
+    "#hybridphysio",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#몸관리",
+    "#필라테스",
+    "#카이로프랙틱",
+    "#리메디얼마사지",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 토토가 등장하는 6장짜리 주간 정리 카드뉴스: 4/12–4/15 만화 6편의 핵심 팁과 확인이 필요한 신호.",
+  "story": {
+    "headline": "이번 주 몸 관리 핵심 정리",
+    "body": "태블릿부터 버스 정류장까지,<br>6가지 팁을 모았어요!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-04-18",
+  "created": "2027-04-18-1",
+  "status": "approved",
+  "review_warnings": []
+}

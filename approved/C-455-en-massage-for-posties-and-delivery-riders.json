@@ -1,0 +1,131 @@
+{
+  "id": "C-455-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for posties and delivery riders",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu aches all over<br>after a <em>day of deliveries</em>",
+      "sub": "A muscle tension story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "On and off the scooter<br><em>all day long</em>.",
+      "char": "kanga_tired",
+      "bubble": "My shoulders and back<br>feel like concrete..",
+      "bubble_type": "thought",
+      "note": "(the parcels just keep coming..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling stiff?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. even my days off<br>don't loosen me up."
+      },
+      "note": "Hybi started with <mark>giving muscles a break</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Muscles need<br><em>breaks</em> too!",
+      "fact": "Repeated work goes easier with <em>short breaks and stretches</em>",
+      "left": {
+        "label": "Little breaks",
+        "char": "kanga_happy",
+        "caption": "Roll shoulders between drops,<br>hold boxes <b>close</b>"
+      },
+      "right": {
+        "label": "Push through",
+        "char": "kanga_tired",
+        "caption": "Hours with no break,<br><em>tension builds up</em>"
+      },
+      "quip": "Massage is a great<br>sidekick for recovery!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>between-drops stretches</b>",
+      "sub": "Try these on your run!",
+      "sections": [
+        {
+          "heading": "1. Loosen up and lift smart",
+          "color": "yellow",
+          "lines": [
+            "① Roll your shoulders back <em>10 times</em>.",
+            "② <em>Bend your knees</em>, hold boxes close.",
+            "③ Stretch <em>calves and thighs</em> every 1–2 hours.",
+            "④ Finish your shift with a warm shower."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain keeps <em>getting worse</em>, or arms or",
+            "legs feel <em>numb or tingly</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>feeling stiff</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numbness or pins and needles",
+        "Pain wakes you at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu hops on and off the scooter and lifts parcels all day. Lately her shoulders and back stay tight, even on days off.\n\nRepeating the same movements for hours can leave muscles tired and tense. Short breaks, regular stretches and keeping boxes close to your body may help share the load. Remedial massage can be a helpful sidekick, easing tight muscles as part of your recovery.\n\nHybi's tip: roll your shoulders back 10 times between drops and stretch your calves and thighs every hour or two.\n\nNumbness, pins and needles or pain that wakes you are worth getting checked. Our Chatswood and Sydney CBD remedial massage therapists can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#deliveryrider",
+    "#postie",
+    "#couriers",
+    "#musclestiffness",
+    "#backpain",
+    "#shoulderpain",
+    "#chatswood",
+    "#sydneyremedialmassage",
+    "#sydneymassage",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why delivery work can leave muscles stiff, little breaks versus pushing through, quick between-drops stretches and signs worth getting checked.",
+  "story": {
+    "headline": "Aching after a day of deliveries?",
+    "body": "Shoulder rolls × 10,<br>keep boxes close.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-12",
+  "created": "2027-04-12-6",
+  "status": "approved",
+  "review_warnings": []
+}

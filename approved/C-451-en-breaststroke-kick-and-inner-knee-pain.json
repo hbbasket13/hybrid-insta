@@ -1,0 +1,131 @@
+{
+  "id": "C-451-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Breaststroke kick and inner knee pain",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's inner knee hurts<br>with <em>breaststroke</em>",
+      "sub": "A knee story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Morning laps,<br><em>breaststroke only</em>.",
+      "char": "rabbit_tired",
+      "bubble": "Every kick twinges<br>on the inside of my knee..",
+      "bubble_type": "thought",
+      "note": "(but breaststroke is my favourite..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore knee?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. do I have<br>to stop swimming?"
+      },
+      "note": "Hybi started with <mark>the shape and amount of kicking</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Breaststroke kick<br>works the <em>inner knee</em>!",
+      "fact": "Keep the kick <em>narrower</em> and build distance slowly",
+      "left": {
+        "label": "Narrow & smooth",
+        "char": "rabbit_happy",
+        "caption": "Kick about knee-width,<br>the inside <b>pulls less</b>"
+      },
+      "right": {
+        "label": "Wide & hard",
+        "char": "rabbit_tired",
+        "caption": "Knees wide, kicking hard,<br><em>inner knee takes it</em>"
+      },
+      "quip": "Keep swimming,<br>just change the kick!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>breaststroke knee care</b>",
+      "sub": "Before you hit the pool!",
+      "sections": [
+        {
+          "heading": "1. Narrow the kick, mix it up",
+          "color": "yellow",
+          "lines": [
+            "① Leg swings on deck, <em>10 each side</em>.",
+            "② Keep the kick <em>narrow and smooth</em>.",
+            "③ Mix in some <em>freestyle</em> laps.",
+            "④ Build distance <em>gradually</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your knee <em>swells or catches</em>, or",
+            "pain is <em>getting worse</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A swollen knee",
+        "Knee catches or gives way",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto swims breaststroke laps every morning, and lately the inside of his knee twinges with every kick.\n\nThe breaststroke kick opens and rotates the knees, which can pull on the inner knee. A narrower, smoother kick and building distance slowly can ease the load.\n\nHybi's tip: a few leg swings on deck, keep the kick narrow and smooth, and mix some freestyle into your laps.\n\nA knee that swells, catches or keeps getting more painful is worth an assessment first. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#breaststroke",
+    "#swimming",
+    "#swimmer",
+    "#lapswimming",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto on why breaststroke kick can hurt the inner knee, narrow versus wide kicks, breaststroke knee care and signs worth getting checked.",
+  "story": {
+    "headline": "Inner knee twinge in breaststroke?",
+    "body": "Narrow, smooth kick,<br>and mix in some freestyle.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-10",
+  "created": "2027-04-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

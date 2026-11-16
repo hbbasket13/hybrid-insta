@@ -1,0 +1,137 @@
+{
+  "id": "R-025-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-04-05–2027-04-10",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Apr 5–10</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "turtle_happy2"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Quick catch-up<br>time!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Everyday moves",
+      "sub": "From the car to the kitchen",
+      "sections": [
+        {
+          "heading": "Getting in and out of a tall car",
+          "color": "yellow",
+          "lines": [
+            "Hold the handle and sit <em>bottom-first</em>.",
+            "Knees together, <em>swing both legs</em> in."
+          ]
+        },
+        {
+          "heading": "Loading the dishwasher",
+          "color": "yellow",
+          "lines": [
+            "Bottom rack? <em>Kneel on one knee</em>.",
+            "Turn your feet to <em>face the rack</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "On the job",
+      "sub": "Lifting and carrying at work",
+      "sections": [
+        {
+          "heading": "Massage for removalists",
+          "color": "yellow",
+          "lines": [
+            "Keep loads <em>close</em>, bend your knees.",
+            "Turn with your <em>feet</em>, not your back."
+          ]
+        },
+        {
+          "heading": "Carrying trays: wrists and forearms",
+          "color": "yellow",
+          "lines": [
+            "Rest the tray on your <em>whole palm</em>.",
+            "Heavy? Use <em>two hands</em> or split it."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Sport and the pool",
+      "sub": "On the court and in the lane",
+      "sections": [
+        {
+          "heading": "Pilates for squash and badminton",
+          "color": "yellow",
+          "lines": [
+            "Single-leg stand, <em>30 seconds each</em>.",
+            "Slow lunges, <em>8 each side</em>, knee aligned."
+          ]
+        },
+        {
+          "heading": "Breaststroke kick and inner knee",
+          "color": "yellow",
+          "lines": [
+            "Keep the kick <em>narrow and smooth</em>.",
+            "Mix in some <em>freestyle laps</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Tingling in your fingers",
+        "Knee swelling or giving way"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Hybi's weekly recap for Apr 5–10, with this week's comics in one place.\n\nGetting into a tall car, hold the handle, sit bottom-first and swing both legs in together. For the bottom rack of the dishwasher, kneeling on one knee can ease the load on your back. Removalists can keep loads close and turn with their feet, not their back. Carrying trays? Rest them on your whole palm.\n\nScroll back through the week for the full comics. Our Chatswood and Sydney CBD physios, chiropractors and remedial massage therapists can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#physiotherapy",
+    "#clinicalpilates",
+    "#chiropractic",
+    "#remedialmassage",
+    "#sydney",
+    "#healthtips"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Mr Turtle summing up six comics from Apr 5 to Apr 10, with one key tip each and signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "From tall cars to the pool,<br>six quick tips to scroll back to!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-04-11",
+  "created": "2027-04-11-2",
+  "status": "approved",
+  "review_warnings": []
+}

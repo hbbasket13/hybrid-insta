@@ -1,0 +1,131 @@
+{
+  "id": "C-444-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for squash and badminton players",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's knees and back<br>ache after <em>squash or badminton</em>",
+      "sub": "A racquet sports story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Fast lunges</em>, quick turns<br>and big swings.",
+      "char": "kanga_tired",
+      "bubble": "Why do my knees<br>and back ache<br>after every game..?",
+      "bubble_type": "thought",
+      "note": "(the shuttle always lands on the other side..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore after a game?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. I skip the warm-up<br>and go straight in."
+      },
+      "note": "Hybi started with <mark>lunge control and trunk strength</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Stopping well</em><br>takes practice too!",
+      "fact": "<em>Controlling knees and hips</em> in a lunge can share the load",
+      "left": {
+        "label": "Controlled",
+        "char": "kanga_happy",
+        "caption": "Knee over your toes,<br>your <b>trunk helps out</b>"
+      },
+      "right": {
+        "label": "Collapsing",
+        "char": "kanga_tired",
+        "caption": "Knee caves inwards,<br><em>knees and back take it all</em>"
+      },
+      "quip": "Keep playing,<br>just practise how you stop!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>on-court Pilates</b>",
+      "sub": "Only 5 minutes before a game!",
+      "sections": [
+        {
+          "heading": "1. Balance, lunge, rotation control",
+          "color": "yellow",
+          "lines": [
+            "① Single-leg stand, <em>30 seconds each</em>.",
+            "② Slow lunges, <em>8 each side</em>, knee aligned.",
+            "③ Lying knee rolls, <em>8 each side</em>.",
+            "④ <em>Light jogging</em> to warm up before play."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your knee <em>swells</em> or <em>gives way</em>, or",
+            "you <em>can't take weight</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee swelling or giving way",
+        "Hard to take weight",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu flies around the court with fast lunges and quick turns. After every game, her knees and back ache.\n\nSquash and badminton involve lots of sudden stops and changes of direction. Keeping your knee in line with your toes in a lunge and using your trunk may share the load.\n\nHybi's tip: a 30-second single-leg stand each side, 8 slow lunges each side and 8 lying knee rolls. Warm up with some light jogging before you play.\n\nA knee that swells or gives way, or trouble taking weight, are worth an assessment. Our Chatswood and Sydney CBD physio-led clinical Pilates team can help. Book online via the link in bio 🏸\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#badminton",
+    "#squash",
+    "#racquetsports",
+    "#kneepain",
+    "#sportsrecovery",
+    "#sydneypilates",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why squash and badminton can leave the knees and back achy, a controlled lunge versus a collapsing knee, on-court Pilates and signs worth getting checked.",
+  "story": {
+    "headline": "Knees sore after squash or badminton?",
+    "body": "Single-leg stand 30 seconds,<br>8 slow lunges each side.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-08",
+  "created": "2027-04-08-4",
+  "status": "approved",
+  "review_warnings": []
+}

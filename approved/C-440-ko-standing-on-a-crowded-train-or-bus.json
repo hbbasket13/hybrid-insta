@@ -1,0 +1,131 @@
+{
+  "id": "C-440-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Standing on a crowded train or bus",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "만원 기차에 서서 가면<br>토토의 <em>허리가 뻐근한 이유</em>",
+      "sub": "하비와 함께 알아보는 출퇴근 자세",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "매일 아침 <em>만원 기차</em>에<br>서서 가는 토토.",
+      "char": "rabbit_tired",
+      "bubble": "내릴 때마다 허리랑<br>어깨가 왜 이러지..?",
+      "bubble_type": "thought",
+      "note": "(앉을 자리는 늘 없어..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 출근길이<br>힘들군요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 한 손으로 손잡이<br>꽉 잡고 버텨요."
+      },
+      "note": "하비는 <mark>서는 자세</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>다리로 균형</em>을<br>잡아 보세요!",
+      "fact": "발을 <em>앞뒤로 벌리고</em> 무릎을 살짝 굽히면 흔들림을 받기 쉬워요",
+      "left": {
+        "label": "앞뒤로",
+        "char": "rabbit_happy",
+        "caption": "발 앞뒤로, 무릎 살짝<br>다리가 <b>흔들림을 받아요</b>"
+      },
+      "right": {
+        "label": "매달리기",
+        "char": "rabbit_tired",
+        "caption": "다리 쭉 펴고 매달리면<br><em>허리·어깨가 다 버텨요</em>"
+      },
+      "quip": "출퇴근은 그대로,<br>서는 법만 바꿔요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>만원 기차 자세</b>",
+      "sub": "내일 출근길에 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 발 벌리고, 손 바꾸고",
+          "color": "yellow",
+          "lines": [
+            "① 발은 <em>앞뒤로 엇갈려</em> 서기.",
+            "② 무릎은 <em>살짝 굽혀</em> 부드럽게.",
+            "③ 손잡이는 <em>가슴 높이</em>, 손 바꾸기.",
+            "④ 가방은 <em>양쪽 어깨</em>나 발 사이에."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 퍼지거나</em>,",
+            "<em>저림</em>이 생기면 무리 말고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리가 저리거나 힘이 없다",
+        "밤에도 허리가 아프다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "매일 아침 만원 기차에 서서 가는 토토. 내릴 때쯤이면 허리와 어깨가 뻐근해요.\n\n다리를 쭉 펴고 한 손으로 매달려 버티면 흔들림을 허리와 어깨가 받아내기 쉬워요. 발을 앞뒤로 벌리고 무릎을 살짝 굽히면 다리가 균형을 도와줄 수 있어요.\n\n하비의 팁: 발은 앞뒤로 엇갈려 서기, 무릎 살짝 굽히기, 손잡이는 가슴 높이에서 잡고 손 바꾸기. 가방은 양쪽 어깨에 메요.\n\n다리가 저리거나 밤에도 아프다면 평가가 먼저예요. 채스우드·시드니 CBD 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🚆\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#출퇴근",
+    "#지하철",
+    "#만원기차",
+    "#직장인",
+    "#카이로프랙틱",
+    "#시드니카이로",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#chiropractic",
+    "#sydneychiro",
+    "#commute"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 만원 기차에 서서 갈 때 허리가 뻐근한 이유, 발 앞뒤로 서기 비교, 만원 기차 자세 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "만원 기차에서 허리가 뻐근?",
+    "body": "발은 앞뒤로 엇갈리고,<br>무릎은 살짝 굽히기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-06",
+  "created": "2027-04-06-3",
+  "status": "approved",
+  "review_warnings": []
+}

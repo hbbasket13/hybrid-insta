@@ -1,0 +1,131 @@
+{
+  "id": "C-450-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for yoga teachers",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Koko the yoga teacher's<br><em>tight shoulders and wrists</em>",
+      "sub": "A muscle story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Four classes</em> a day,<br>demoing every pose.",
+      "char": "koala_tired",
+      "bubble": "My students leave loose..<br>I just feel tighter..",
+      "bubble_type": "thought",
+      "note": "(how many downward dogs today..?)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling tight?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. even though<br>I do yoga every day."
+      },
+      "note": "Hybi started with <mark>recovery for teachers</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Teaching<br><em>uses your body</em> too!",
+      "fact": "<em>Demo less</em> and guide more with words and cues",
+      "left": {
+        "label": "Share the load",
+        "char": "koala_happy",
+        "caption": "Demo only when needed,<br>and you <b>tire less</b>"
+      },
+      "right": {
+        "label": "Demo it all",
+        "char": "koala_tired",
+        "caption": "Every pose, every class,<br><em>same spots get tired</em>"
+      },
+      "quip": "Keep teaching,<br>and look after you too!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>teacher recovery</b>",
+      "sub": "Try it between classes!",
+      "sections": [
+        {
+          "heading": "1. Share the load, then unwind",
+          "color": "yellow",
+          "lines": [
+            "① Between classes, <em>water and 5 min</em> rest.",
+            "② Make a <em>loose fist</em>, circle the wrists.",
+            "③ Demo <em>once or twice</em>, then cue it.",
+            "④ Check in on tight spots with massage."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Hand tingling</em> keeps coming back, or",
+            "pain is <em>getting worse</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in a hand or arm",
+        "Pain that wakes you at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko teaches four yoga classes a day. Her students leave feeling loose, but her own shoulders and wrists feel tighter.\n\nDemonstrating the same poses every class keeps the same muscles working over and over. Demoing less and guiding with words and cues can give your body a break.\n\nHybi's recovery: water and five minutes' rest between classes, gentle wrist circles, and demo once or twice before cueing. Massage can help tight spots feel easier.\n\nHand tingling that keeps coming back is worth an assessment first. Our Chatswood and Sydney CBD remedial massage therapists can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#yogateacher",
+    "#yoga",
+    "#yogalife",
+    "#shouldertension",
+    "#wristpain",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#massage",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko on tight shoulders and wrists from teaching yoga, sharing the load versus demoing everything, a teacher recovery routine and signs worth getting checked.",
+  "story": {
+    "headline": "Teaching yoga leaves you tight?",
+    "body": "Demo once or twice,<br>rest 5 minutes between classes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-10",
+  "created": "2027-04-10-4",
+  "status": "approved",
+  "review_warnings": []
+}

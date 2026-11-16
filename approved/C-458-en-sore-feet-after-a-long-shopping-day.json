@@ -1,0 +1,131 @@
+{
+  "id": "C-458-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Sore feet after a long shopping day",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's feet hurt<br>after a <em>long shopping day</em>",
+      "sub": "A foot story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Hours on her feet</em><br>at the shopping centre.",
+      "char": "koala_tired",
+      "bubble": "Why do my feet<br>throb every time<br>I get home..?",
+      "bubble_type": "thought",
+      "note": "(the sales just never end..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore feet?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. do I have<br>to shop less?"
+      },
+      "note": "Hybi started with <mark>shoes and sit-down breaks</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's the <em>hard floors</em><br>and long hours!",
+      "fact": "Hours on hard floors can leave your <em>feet worn out</em>",
+      "left": {
+        "label": "Comfy shoes",
+        "char": "koala_happy",
+        "caption": "Cushioned, well-fitted shoes<br>and <b>a sit-down</b>"
+      },
+      "right": {
+        "label": "Thin flats",
+        "char": "koala_tired",
+        "caption": "Hours in thin soles,<br><em>your feet take it all</em>"
+      },
+      "quip": "Keep shopping,<br>just change your shoes!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>shopping-day foot care</b>",
+      "sub": "Check before you head out!",
+      "sections": [
+        {
+          "heading": "1. Good shoes and breaks",
+          "color": "yellow",
+          "lines": [
+            "① Wear <em>cushioned, well-fitted</em> shoes.",
+            "② Sit down for a break <em>every hour</em>.",
+            "③ At home, stretch calves <em>30 sec × 2</em>.",
+            "④ <em>Gently roll</em> your foot on a ball."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your foot is <em>very swollen</em>, or it's",
+            "<em>hard to put weight on it</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Hard to put weight on it",
+        "Swelling or warmth",
+        "Ongoing first-step heel pain"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko spent hours walking and standing at the shopping centre, and now her feet throb every time she gets home.\n\nLong stretches on hard floors can tire your feet out, especially in thin-soled shoes. Cushioned, well-fitted shoes and regular sit-down breaks may help your feet cope with a big day out.\n\nHybi's tip: sit down for a break every hour, then at home stretch your calves for 30 seconds twice and gently roll your foot over a ball.\n\nTrouble putting weight on your foot, swelling or warmth, or heel pain with your first steps each morning are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#footpain",
+    "#sorefeet",
+    "#heelpain",
+    "#shopping",
+    "#footcare",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why feet can hurt after a long shopping day, comfy shoes versus thin flats, simple foot care tips and signs worth getting checked.",
+  "story": {
+    "headline": "Sore feet after shopping?",
+    "body": "Comfy shoes,<br>a sit-down every hour.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-13",
+  "created": "2027-04-13-6",
+  "status": "approved",
+  "review_warnings": []
+}

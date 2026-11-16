@@ -1,0 +1,137 @@
+{
+  "id": "R-026-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-04-12–2027-04-15",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Apr 12–15</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "rabbit_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Quick catch-up<br>time!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Neck and posture",
+      "sub": "When screens pull you forward",
+      "sections": [
+        {
+          "heading": "Tablet on your lap: neck care",
+          "color": "yellow",
+          "lines": [
+            "Prop the tablet on a <em>cushion or stand</em>.",
+            "Change position every <em>20–30 minutes</em>."
+          ]
+        },
+        {
+          "heading": "Pilates for dentists",
+          "color": "yellow",
+          "lines": [
+            "Chin tucks, <em>5 sec × 5</em>.",
+            "Shoulder blade squeezes, <em>10 reps</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Home and family",
+      "sub": "Jackets on, nappies changed",
+      "sections": [
+        {
+          "heading": "Shoulder pain putting on a jacket",
+          "color": "yellow",
+          "lines": [
+            "<em>Sore arm first</em> into the sleeve.",
+            "Move only in a <em>comfortable range</em>."
+          ]
+        },
+        {
+          "heading": "Nappy changes and your back",
+          "color": "yellow",
+          "lines": [
+            "Set the table to about <em>waist height</em>.",
+            "<em>Soften your knees</em> as you lean in."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Work and on the go",
+      "sub": "At the desk and at the bus stop",
+      "sections": [
+        {
+          "heading": "Massage for call-centre staff",
+          "color": "yellow",
+          "lines": [
+            "Screen at <em>eye level</em>, use a headset.",
+            "Stand up briefly <em>every 30 minutes</em>."
+          ]
+        },
+        {
+          "heading": "Calf strain sprinting for the bus",
+          "color": "yellow",
+          "lines": [
+            "Early on, <em>ease off</em> what hurts.",
+            "Leave home a <em>few minutes early</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm tingling or weakness",
+        "Pain wakes you at night",
+        "Calf swollen, hot or red"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's weekly recap for Apr 12–15, with this week's comics in one place.\n\nProp your tablet on a cushion or stand and change position every 20–30 minutes. Putting on a jacket with a sore shoulder, try the sore arm first into the sleeve. Setting the change table to about waist height can ease the strain on your back. At a call centre, keep the screen at eye level and stand up briefly every 30 minutes.\n\nScroll back through the week for the full comics. Our Chatswood and Sydney CBD physios, chiropractors and remedial massage therapists can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#physiotherapy",
+    "#clinicalpilates",
+    "#chiropractic",
+    "#remedialmassage",
+    "#sydney",
+    "#healthtips"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Toto summing up six comics from Apr 12 to Apr 15, with one key tip each and signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "From tablets to the bus stop,<br>six quick tips to scroll back to!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-04-18",
+  "created": "2027-04-18-2",
+  "status": "approved",
+  "review_warnings": []
+}

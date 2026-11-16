@@ -1,0 +1,131 @@
+{
+  "id": "C-443-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for stage crew and event setup workers",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's shoulders and back<br>feel <em>knotted after a setup</em>",
+      "sub": "A muscle recovery story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Hauling <em>stage gear</em><br>from before sunrise.",
+      "char": "kanga_tired",
+      "bubble": "Why does everything<br>feel so knotted<br>after pack-down..?",
+      "bubble_type": "thought",
+      "note": "(the show's at night, the work starts at dawn..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling knotted up?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. I carry heavy<br>gear solo, no breaks."
+      },
+      "note": "Hybi started with <mark>sharing the load and recovery time</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Solo and non-stop</em><br>tires your muscles!",
+      "fact": "<em>Team lifts</em> and short breaks can share the load",
+      "left": {
+        "label": "Team lift",
+        "char": "kanga_happy",
+        "caption": "Two people, legs doing the work,<br><b>short breathers</b>"
+      },
+      "right": {
+        "label": "All solo",
+        "char": "kanga_tired",
+        "caption": "Heavy gear, solo, no breaks,<br><em>your back takes it all</em>"
+      },
+      "quip": "Same job,<br>just smarter carrying and recovery!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>crew recovery routine</b>",
+      "sub": "Start on setup morning!",
+      "sections": [
+        {
+          "heading": "1. Warm up, share, recover",
+          "color": "yellow",
+          "lines": [
+            "① Before bump-in: <em>arm circles, 10 squats</em>.",
+            "② Heavy cases? <em>Two-person lift</em>.",
+            "③ After pack-down, <em>stretch shoulders and calves</em>.",
+            "④ Massage is <em>one way to help recovery</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You have <em>tingling</em> or <em>sharp</em> pain —",
+            "get advice before booking a massage."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in arms or legs",
+        "Swelling or bruising",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu hauls stage gear from before sunrise, and by pack-down her shoulders and back feel knotted.\n\nCarrying heavy gear solo with no breaks can tire your muscles out. Team lifts and short breathers can share the load, and massage can be one helpful way to support recovery.\n\nHybi's tip: before bump-in, do some arm circles and 10 squats, use a two-person lift for heavy cases, and gently stretch your shoulders and calves after pack-down.\n\nTingling, swelling or bruising after a knock, or pain that isn't settling, are worth checking first. Our Chatswood and Sydney CBD remedial massage therapists can help. Book online via the link in bio 🎤\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#stagecrew",
+    "#eventcrew",
+    "#roadie",
+    "#musclerecovery",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneyremedialmassage",
+    "#backpain",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why stage and event setup can leave the shoulders and back knotted, team lifts versus carrying solo, a crew recovery routine and signs worth getting checked.",
+  "story": {
+    "headline": "Knotted up after a setup?",
+    "body": "Team-lift heavy cases,<br>stretch after pack-down.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-07",
+  "created": "2027-04-07-6",
+  "status": "approved",
+  "review_warnings": []
+}

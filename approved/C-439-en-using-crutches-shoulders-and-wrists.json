@@ -1,0 +1,131 @@
+{
+  "id": "C-439-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Using crutches: shoulders and wrists",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's shoulders and wrists<br>ache on <em>crutches</em>",
+      "sub": "A crutches story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Hurt ankle,<br><em>commuting on crutches</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why do my shoulders<br>and wrists hurt more<br>than my ankle..?",
+      "bubble_type": "thought",
+      "note": "(she misses hopping everywhere..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore shoulders?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. I lean on the<br>tops under my arms."
+      },
+      "note": "Hybi started with <mark>crutch height and how you grip</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Crutches are for<br>your <em>hands</em>!",
+      "fact": "Take your weight through your <em>hands, not your armpits</em>",
+      "left": {
+        "label": "Hands",
+        "char": "kanga_happy",
+        "caption": "Straight wrists, soft elbows,<br><b>push through your hands</b>"
+      },
+      "right": {
+        "label": "Armpits",
+        "char": "kanga_tired",
+        "caption": "Leaning on the tops,<br><em>your shoulders take it all</em>"
+      },
+      "quip": "Keep the crutches,<br>just change the fit and grip!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>crutch fit check</b>",
+      "sub": "Try it in front of a mirror!",
+      "sections": [
+        {
+          "heading": "1. Set the height, grip with hands",
+          "color": "yellow",
+          "lines": [
+            "① Leave <em>2–3 finger widths</em> under the armpit.",
+            "② Handles at <em>wrist height</em>, elbows soft.",
+            "③ Keep wrists <em>straight</em>, push through palms.",
+            "④ Take <em>small steps</em> and rest often."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your arm or hand goes <em>tingly</em>, or",
+            "shoulder pain <em>gets worse</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in your fingers",
+        "Hard to lift your arm",
+        "Leg more swollen or sore"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "After hurting her ankle, Lulu is commuting on crutches. A few days in, her shoulders and wrists hurt more than her ankle.\n\nLeaning your armpits on the tops of the crutches can load up your shoulders and arms. Your weight is meant to go through your hands on the handles.\n\nHybi's tip: leave 2–3 finger widths under the armpit, set the handles at wrist height and keep your wrists straight. Take small steps and rest often, and follow your treating team's advice on how much weight to put through the leg.\n\nTingling fingers or a leg that's getting more swollen are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🩼\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#crutches",
+    "#ankleinjury",
+    "#shoulderpain",
+    "#wristpain",
+    "#rehab",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why crutches can make the shoulders and wrists ache, pushing through the hands versus leaning on the armpits, a crutch fit check and signs worth getting checked.",
+  "story": {
+    "headline": "Sore shoulders on crutches?",
+    "body": "2–3 finger widths under the arm,<br>weight through your hands.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-06",
+  "created": "2027-04-06-2",
+  "status": "approved",
+  "review_warnings": []
+}

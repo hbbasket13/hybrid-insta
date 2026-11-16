@@ -1,0 +1,131 @@
+{
+  "id": "C-456-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Tablet on your lap: neck care",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's neck gets stiff<br>with a <em>tablet on his lap</em>",
+      "sub": "A neck story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Hours of streaming</em><br>on the couch.",
+      "char": "rabbit_tired",
+      "bubble": "Why is my neck<br>so stiff when<br>I look up..?",
+      "bubble_type": "thought",
+      "note": "(just one more episode..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff neck?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. do I have<br>to give up my tablet?"
+      },
+      "note": "Hybi started with <mark>screen height and moving often</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's the <em>same position</em><br>for hours!",
+      "fact": "Looking down for ages gives your <em>neck muscles</em> no break",
+      "left": {
+        "label": "Screen up",
+        "char": "rabbit_happy",
+        "caption": "Prop it on a cushion,<br>your neck <b>bends less</b>"
+      },
+      "right": {
+        "label": "Flat on lap",
+        "char": "rabbit_tired",
+        "caption": "Hours looking down,<br><em>your neck holds on</em>"
+      },
+      "quip": "Keep the tablet,<br>just raise the screen!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>tablet neck care</b>",
+      "sub": "Try these right on the couch!",
+      "sections": [
+        {
+          "heading": "1. Raise the screen, move often",
+          "color": "yellow",
+          "lines": [
+            "① Prop the tablet on a <em>cushion or stand</em>.",
+            "② Change position every <em>20–30 minutes</em>.",
+            "③ Gentle chin tucks, <em>5 times</em>.",
+            "④ Roll your shoulders back <em>10 times</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads into your arm</em>, or you get",
+            "<em>dizziness or a bad headache</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm tingling or weakness",
+        "Dizziness or headaches",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto has been streaming on the couch for hours with his tablet flat on his lap, and now his neck feels stiff every time he looks up.\n\nIt's often less about one 'bad posture' and more about holding the same head-down position for a long time. Propping the screen higher and changing position often may help your neck feel more comfortable.\n\nHybi's tip: rest the tablet on a cushion or stand, switch positions every 20–30 minutes, and add a few gentle chin tucks and shoulder rolls.\n\nArm tingling, dizziness or headaches are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#neckpain",
+    "#techneck",
+    "#screentime",
+    "#tablet",
+    "#posture",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why a tablet on your lap can stiffen the neck, a raised screen versus a flat-on-lap tablet, simple neck care tips and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff neck from your tablet?",
+    "body": "Prop the screen up,<br>move every 20–30 minutes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-13",
+  "created": "2027-04-13-4",
+  "status": "approved",
+  "review_warnings": []
+}

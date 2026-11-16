@@ -1,0 +1,131 @@
+{
+  "id": "C-441-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for cabin crew",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "비행이 끝나면<br>모모의 <em>허리·어깨가 지치는 이유</em>",
+      "sub": "하비와 함께 알아보는 승무원 필라테스",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "카트 밀고 짐 올리고,<br><em>하루 종일 서 있는</em> 모모.",
+      "char": "cat_tired",
+      "bubble": "착륙하고 나면 허리랑<br>어깨가 왜 이러지..?",
+      "bubble_type": "thought",
+      "note": "(미소는 끝까지 지켜야 해..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 비행 후<br>지치는군요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 짐을 머리 위로<br>한 번에 올려요."
+      },
+      "note": "하비는 <mark>몸통 힘과 나눠 들기</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "짐은 <em>두 번에 나눠</em><br>올려요!",
+      "fact": "<em>몸통 힘</em>을 쓰고 단계를 나누면 부담이 줄 수 있어요",
+      "left": {
+        "label": "나눠 들기",
+        "char": "cat_happy",
+        "caption": "가슴까지 올렸다가<br>다리 힘으로 <b>한 번 더</b>"
+      },
+      "right": {
+        "label": "한 번에",
+        "char": "cat_tired",
+        "caption": "팔로만 확 올리면<br><em>허리·어깨가 다 버텨요</em>"
+      },
+      "quip": "비행은 그대로,<br>몸 쓰는 법만 바꿔요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>비행 전후 필라테스</b>",
+      "sub": "레이오버 호텔에서도 OK!",
+      "sections": [
+        {
+          "heading": "1. 몸통·어깨·종아리 깨우기",
+          "color": "yellow",
+          "lines": [
+            "① 숨 내쉬며 <em>브릿지 8회</em>.",
+            "② 벽에 팔 대고 <em>천천히 올리기 8회</em>.",
+            "③ 종아리 들기 <em>10회</em>, 천천히 내리기.",
+            "④ 카트는 <em>몸 가까이</em> 두고 다리로 밀기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "팔이 <em>저리거나</em> 통증이 <em>퍼지면</em>,",
+            "운동을 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔·손이 저리다",
+        "밤에도 통증이 있다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "카트를 밀고 짐을 올리며 하루 종일 서 있는 모모. 착륙하고 나면 허리와 어깨가 지쳐요.\n\n무거운 짐을 팔로만 한 번에 머리 위로 올리면 허리와 어깨가 부담을 떠안기 쉬워요. 몸통 힘을 쓰고 가슴 높이를 거쳐 나눠 올리면 부담이 줄 수 있어요.\n\n하비의 팁: 브릿지 8회, 벽에 팔 대고 올리기 8회, 종아리 들기 10회. 카트는 몸 가까이 두고 다리로 밀어요.\n\n팔이 저리거나 밤에도 아프다면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사의 클리닉 필라테스가 함께해요. 프로필 링크에서 온라인 예약 ✈️\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#승무원",
+    "#승무원일상",
+    "#허리통증",
+    "#어깨통증",
+    "#필라테스",
+    "#클리닉필라테스",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#시드니필라테스",
+    "#pilates",
+    "#clinicalpilates",
+    "#cabincrew"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 비행 후 허리·어깨가 지치는 이유, 짐을 나눠 올리기 비교, 비행 전후 필라테스, 확인이 필요한 신호.",
+  "story": {
+    "headline": "비행 후 허리·어깨가 지친다면?",
+    "body": "짐은 가슴 높이 거쳐 두 번에,<br>브릿지 8회!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-07",
+  "created": "2027-04-07-1",
+  "status": "approved",
+  "review_warnings": []
+}

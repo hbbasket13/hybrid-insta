@@ -1,0 +1,131 @@
+{
+  "id": "C-461-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Watching TV from an angle: neck care",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's neck is stiff<br>after <em>TV from an angle</em>",
+      "sub": "A neck story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A whole series binge<br>with his <em>head turned</em>.",
+      "char": "turtle_sad",
+      "bubble": "Why can't I turn<br>my head the<br>other way..?",
+      "bubble_type": "thought",
+      "note": "(just one more episode..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff neck?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. do I have<br>to cut back on TV?"
+      },
+      "note": "Hybi started with <mark>facing the screen</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's the <em>long hours</em><br>turned to one side!",
+      "fact": "Holding your head turned for ages can tire <em>your neck muscles</em>",
+      "left": {
+        "label": "Face it",
+        "char": "turtle_happy",
+        "caption": "Turn your body to the TV,<br>your neck <b>can relax</b>"
+      },
+      "right": {
+        "label": "Side-on",
+        "char": "turtle_sad",
+        "caption": "Hours looking one way,<br><em>your neck holds on</em>"
+      },
+      "quip": "Keep the show,<br>just change your seat!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>TV-time neck care</b>",
+      "sub": "Before the next episode!",
+      "sections": [
+        {
+          "heading": "1. Face the screen, move often",
+          "color": "yellow",
+          "lines": [
+            "① Turn the couch or yourself to <em>face the TV</em>.",
+            "② <em>Swap seats</em> now and then.",
+            "③ Between episodes, <em>get up and walk</em>.",
+            "④ Slowly turn your head each way, <em>5 times</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads into your arm</em>, or you get",
+            "<em>dizziness or a bad headache</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm tingling or weakness",
+        "Dizziness or headaches",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle binged a whole series from the end of the couch with his head turned to the TV, and now his neck won't turn the other way.\n\nHolding your head turned to one side for hours can leave your neck muscles tired and stiff. Turning your body or the couch to face the screen, and swapping seats now and then, may help.\n\nHybi's tip: get up and walk between episodes, and slowly turn your head each way five times.\n\nArm tingling, dizziness or headaches are worth getting checked. Our Chatswood and Sydney CBD chiropractors can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#neckpain",
+    "#stiffneck",
+    "#bingewatching",
+    "#tvtime",
+    "#posture",
+    "#chatswood",
+    "#sydneychiropractor",
+    "#sydneychiro",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why watching TV from an angle can stiffen the neck, facing the screen versus sitting side-on, simple neck care tips and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff neck after a TV binge?",
+    "body": "Face the screen,<br>get up between episodes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-14",
+  "created": "2027-04-14-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,137 @@
+{
+  "id": "R-025-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-04-05–2027-04-10",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>4/5–4/10</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "turtle_happy2"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "한 번에<br>복습해요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "일상 동작 편",
+      "sub": "차 타기부터 설거지까지",
+      "sections": [
+        {
+          "heading": "높은 차 타고 내리기",
+          "color": "yellow",
+          "lines": [
+            "손잡이 잡고 <em>엉덩이부터</em> 앉기.",
+            "무릎 모아 <em>두 다리 함께</em> 돌리기."
+          ]
+        },
+        {
+          "heading": "식기세척기 정리할 때",
+          "color": "yellow",
+          "lines": [
+            "아래 칸은 <em>한쪽 무릎</em> 꿇고 넣기.",
+            "발끝을 <em>칸 쪽으로</em> 향하기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "일터 편",
+      "sub": "나르고 드는 일이 많다면",
+      "sections": [
+        {
+          "heading": "이삿짐 나르는 분 마사지",
+          "color": "yellow",
+          "lines": [
+            "짐은 <em>몸 가까이</em>, 무릎 굽혀 들기.",
+            "허리 말고 <em>발로 방향</em> 바꾸기."
+          ]
+        },
+        {
+          "heading": "쟁반 나를 때 손목 관리",
+          "color": "yellow",
+          "lines": [
+            "쟁반은 <em>손바닥 전체</em>로 받치기.",
+            "무거우면 <em>두 손</em>으로, 나눠 들기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "운동·취미 편",
+      "sub": "코트와 수영장에서",
+      "sections": [
+        {
+          "heading": "스쿼시·배드민턴 필라테스",
+          "color": "yellow",
+          "lines": [
+            "한 발 서기 <em>30초씩</em>.",
+            "천천히 런지 <em>8회씩</em>, 무릎 정렬."
+          ]
+        },
+        {
+          "heading": "평영 발차기 무릎 관리",
+          "color": "yellow",
+          "lines": [
+            "발차기는 <em>좁고 부드럽게</em>.",
+            "<em>자유형</em>도 섞어서 수영하기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리가 저리거나 힘이 없다",
+        "손가락이 저리다",
+        "무릎이 붓거나 빠진다"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "4월 5일부터 4월 10일까지, 이번 주 하비의 만화를 한 번에 정리했어요.\n\n높은 차에 탈 땐 손잡이를 잡고 엉덩이부터 앉은 뒤 두 다리를 함께 돌려요. 식기세척기 아래 칸은 한쪽 무릎을 꿇고 넣으면 허리 부담을 덜 수 있어요. 무거운 짐은 몸 가까이 붙이고 허리 대신 발로 방향을 바꿔요. 쟁반은 손바닥 전체로 받쳐 주세요.\n\n자세한 내용은 이번 주 만화를 넘겨 보세요. 채스우드·시드니 CBD에서 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#하이브리드피지오",
+    "#hybridphysio",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#몸관리",
+    "#필라테스",
+    "#카이로프랙틱",
+    "#리메디얼마사지",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 거북씨가 등장하는 6장짜리 주간 정리 카드뉴스: 4/5–4/10 만화 6편의 핵심 팁과 확인이 필요한 신호.",
+  "story": {
+    "headline": "이번 주 몸 관리 핵심 정리",
+    "body": "차 타기부터 수영까지,<br>6가지 팁을 모았어요!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-04-11",
+  "created": "2027-04-11-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-440-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Standing on a crowded train or bus",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's back aches<br>on a <em>packed train</em>",
+      "sub": "A commuting posture story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Standing on a<br><em>packed train</em>, every morning.",
+      "char": "rabbit_tired",
+      "bubble": "Why do my back<br>and shoulder ache<br>by my stop..?",
+      "bubble_type": "thought",
+      "note": "(there's never a free seat..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Tough commute?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. I just hang on<br>tight with one hand."
+      },
+      "note": "Hybi started with <mark>how you stand</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Let your <em>legs</em><br>do the balancing!",
+      "fact": "A <em>staggered stance</em> with soft knees can absorb the sway",
+      "left": {
+        "label": "Staggered",
+        "char": "rabbit_happy",
+        "caption": "One foot forward, knees soft,<br>legs <b>absorb the sway</b>"
+      },
+      "right": {
+        "label": "Hanging on",
+        "char": "rabbit_tired",
+        "caption": "Stiff legs, one arm up,<br><em>your back takes it all</em>"
+      },
+      "quip": "Same commute,<br>just a different stance!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>packed-train stance</b>",
+      "sub": "Try it on tomorrow's commute!",
+      "sections": [
+        {
+          "heading": "1. Stagger, soften, switch",
+          "color": "yellow",
+          "lines": [
+            "① Stand with feet <em>staggered</em>, hip-width.",
+            "② Keep your knees <em>slightly bent</em>.",
+            "③ Hold a rail at <em>chest height</em>, swap hands.",
+            "④ Bag on <em>both shoulders</em> or between feet."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down your leg</em>, or you",
+            "notice <em>numbness</em> — ease off and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Back pain at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto stands on a packed train every morning, and by his stop his back and shoulder ache.\n\nLocking your knees and hanging on with one arm can leave your back and shoulder absorbing every sway. A staggered stance with soft knees lets your legs help with balance.\n\nHybi's tip: stand with one foot slightly ahead of the other, keep your knees softly bent, and hold a rail at chest height, swapping hands now and then. Wear your bag on both shoulders or pop it between your feet.\n\nLeg numbness or weakness, or back pain at night, are worth an assessment. Our Chatswood and Sydney CBD chiropractors can help. Book online via the link in bio 🚆\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#backpain",
+    "#commute",
+    "#sydneytrains",
+    "#officelife",
+    "#posture",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneycbdchiro",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why standing on a packed train can make the back ache, a staggered stance versus hanging on, a packed-train stance and signs worth getting checked.",
+  "story": {
+    "headline": "Back ache on the train?",
+    "body": "Stagger your feet,<br>keep your knees soft.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-06",
+  "created": "2027-04-06-6",
+  "status": "approved",
+  "review_warnings": []
+}

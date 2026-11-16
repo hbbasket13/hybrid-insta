@@ -1,0 +1,131 @@
+{
+  "id": "C-464-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for students in exam season",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto feels stiff<br>during <em>exam season</em>",
+      "sub": "A Pilates story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Hours at the desk</em><br>without moving.",
+      "char": "rabbit_tired",
+      "bubble": "Why are my back<br>and neck so stiff..?",
+      "bubble_type": "thought",
+      "note": "(exams are next week..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling stiff?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. I've got<br>no time to exercise."
+      },
+      "note": "Hybi started with <mark>short movement and breathing breaks</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Your body needs<br><em>study breaks</em> too!",
+      "fact": "The longer you sit, the more <em>short movement breaks</em> can help",
+      "left": {
+        "label": "Move often",
+        "char": "rabbit_happy",
+        "caption": "Breathe and move gently<br>between <b>study blocks</b>"
+      },
+      "right": {
+        "label": "Frozen in place",
+        "char": "rabbit_tired",
+        "caption": "Hours without moving,<br><em>everything stiffens</em>"
+      },
+      "quip": "Keep studying,<br>just add little breaks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>study-break Pilates</b>",
+      "sub": "Try these on your next break!",
+      "sections": [
+        {
+          "heading": "1. Breathe and move gently",
+          "color": "yellow",
+          "lines": [
+            "① Stand up every <em>30–45 minutes</em>.",
+            "② Slow belly breaths, <em>5 times</em>.",
+            "③ Round and lengthen your back, <em>5 times</em>.",
+            "④ Squeeze shoulder blades, <em>10 times</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads into an arm or leg</em>, or",
+            "you notice <em>numbness</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numbness in an arm or leg",
+        "Pain wakes you at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "It's exam season, and Toto has been glued to his desk for hours. Now his back and neck feel stiff.\n\nThe longer you sit, the more your body tends to welcome short movement breaks. Slow breathing and gentle Pilates-style movements between study blocks may ease stiffness and help you reset before the next session.\n\nHybi's tip: stand up every 30–45 minutes, take five slow belly breaths, round and lengthen your back five times, and squeeze your shoulder blades ten times.\n\nNumbness in an arm or leg, or pain that wakes you, is worth an assessment. Our Chatswood and Sydney CBD physio-led clinical Pilates team can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#examseason",
+    "#studentlife",
+    "#studybreak",
+    "#backpain",
+    "#neckpain",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#sydneycbdpilates",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why long exam study sessions can leave you stiff, moving often versus staying frozen in place, study-break Pilates moves and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff from exam study?",
+    "body": "Stand every 30–45 minutes,<br>breathe and move gently.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-15",
+  "created": "2027-04-15-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-445-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for removalists",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Toto's <em>tight, tired body</em><br>after a day of removals",
+      "sub": "A muscle story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A whole day of<br><em>lifting boxes</em>.",
+      "char": "rabbit_tired",
+      "bubble": "My back and shoulders<br>feel like rocks..",
+      "bubble_type": "thought",
+      "note": "(five flights of stairs. three times.)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Feeling tight?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. rest doesn't<br>really loosen it up."
+      },
+      "note": "Hybi started with <mark>recovery after hard work</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Muscles need<br><em>recovery time</em> too!",
+      "fact": "After heavy work, <em>gentle movement and rest</em> can help",
+      "left": {
+        "label": "Wind down",
+        "char": "rabbit_happy",
+        "caption": "Ease off and rest well,<br>and you feel <b>less stiff</b>"
+      },
+      "right": {
+        "label": "Push through",
+        "char": "rabbit_tired",
+        "caption": "Lifting on tight muscles,<br><em>fatigue builds up</em>"
+      },
+      "quip": "Keep working,<br>just look after recovery!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>after-work reset</b>",
+      "sub": "Try it once the truck is empty!",
+      "sections": [
+        {
+          "heading": "1. Lift close, then wind down",
+          "color": "yellow",
+          "lines": [
+            "① Keep loads <em>close</em>, bend your knees.",
+            "② Turn with your <em>feet</em>, not your back.",
+            "③ An easy walk after work, <em>5–10 min</em>.",
+            "④ Chest and hamstring stretch, <em>20 sec</em> each."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em>, or you get",
+            "<em>tingling or weakness</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg tingling or weakness",
+        "Strong pain at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto spends all day lifting boxes and furniture, and by knock-off his back and shoulders feel like rocks.\n\nRepeated heavy lifting keeps the same muscles working hard all day. Giving them some recovery time after work can help.\n\nHybi's reset: keep loads close, turn with your feet, then finish with an easy walk and a few stretches. Massage can help tight, overworked muscles feel easier.\n\nPain spreading down a leg, tingling or weakness is worth an assessment first. Our Chatswood and Sydney CBD remedial massage therapists can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#removalist",
+    "#movinghouse",
+    "#backpain",
+    "#musclerecovery",
+    "#tradie",
+    "#sydneymassage",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#massage",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto on tight muscles after a day of removals, recovering versus pushing through, an after-work reset and signs worth getting checked.",
+  "story": {
+    "headline": "Sore after a day of removals?",
+    "body": "Lift close to your body,<br>then a 5-minute walk.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-08",
+  "created": "2027-04-08-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-463-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Calf strain sprinting for the bus",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's calf twinged<br>while <em>sprinting for the bus</em>",
+      "sub": "A calf story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The bus was leaving,<br>so he <em>sprinted</em>.",
+      "char": "turtle_sad",
+      "bubble": "Ouch.. something<br>just pulled<br>in my calf..!",
+      "bubble_type": "thought",
+      "note": "(and the bus left anyway..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore calf?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. am I never<br>allowed to run again?"
+      },
+      "note": "Hybi started with <mark>easing back in gradually</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A <em>cold calf</em> and a<br><em>sudden sprint</em>!",
+      "fact": "A sprint with no warm-up can catch <em>your calf</em> off guard",
+      "left": {
+        "label": "Step by step",
+        "char": "turtle_happy",
+        "caption": "Walk as comfortable,<br>build up <b>gradually</b>"
+      },
+      "right": {
+        "label": "Rush it",
+        "char": "turtle_sad",
+        "caption": "Running on it too soon<br><em>may slow recovery</em>"
+      },
+      "quip": "No need to rush,<br>build back up gradually!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>calf recovery guide</b>",
+      "sub": "Slow and steady wins!",
+      "sections": [
+        {
+          "heading": "1. Ease off, then build up",
+          "color": "yellow",
+          "lines": [
+            "① Early on, <em>ease off</em> what hurts.",
+            "② Move your ankle <em>within comfort</em>.",
+            "③ When walking eases, add <em>calf raises</em>.",
+            "④ Leave home a <em>few minutes early</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "It's <em>hard to walk</em>, it's very swollen,",
+            "or your calf is <em>hot and red</em> — get it checked."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Can't walk or rise on toes",
+        "Calf swollen, hot or red",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "The bus was pulling away, so Mr Turtle sprinted. He felt a sudden pull in his calf, and now he notices it with every step.\n\nSprinting from a standstill with no warm-up can catch your calf muscles off guard. Easing off what hurts for the first few days, moving within comfort, and building back up step by step can support recovery.\n\nHybi's tip: once walking feels easier, add a few calf raises and build up gradually. And leaving home a few minutes early helps too.\n\nIf walking is hard, or your calf is swollen, hot or red, get it checked promptly. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#calfstrain",
+    "#calfpain",
+    "#musclestrain",
+    "#running",
+    "#commuterlife",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why sprinting for the bus can strain the calf, building back up gradually versus rushing it, a simple recovery guide and signs worth getting checked.",
+  "story": {
+    "headline": "Calf twinge after a sprint?",
+    "body": "Ease off first,<br>then build up step by step.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-15",
+  "created": "2027-04-15-2",
+  "status": "approved",
+  "review_warnings": []
+}

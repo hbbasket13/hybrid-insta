@@ -1,0 +1,137 @@
+{
+  "id": "R-024-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-03-27–2027-04-03",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Hybi's <b>Weekly Recap</b><br><em>Mar 27–Apr 3</em>",
+      "sub": "This week's body tips in one place",
+      "left": {
+        "char": "cat_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Quick catch-up<br>time!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "Active weekends",
+      "sub": "Bouncing and walking",
+      "sections": [
+        {
+          "heading": "Trampoline: ankles and knees",
+          "color": "yellow",
+          "lines": [
+            "Take turns — <em>one at a time</em>.",
+            "Land with <em>softly bent knees</em>."
+          ]
+        },
+        {
+          "heading": "Sydney hills: calves and Achilles",
+          "color": "yellow",
+          "lines": [
+            "Heel raises on a step, <em>10 slow reps</em>.",
+            "Take <em>shorter steps</em> going uphill."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Home and family",
+      "sub": "Garden jobs and grandkids",
+      "sections": [
+        {
+          "heading": "Pushing a wheelbarrow",
+          "color": "yellow",
+          "lines": [
+            "Load the weight <em>over the wheel</em>.",
+            "<em>Half loads</em>, more trips."
+          ]
+        },
+        {
+          "heading": "Pilates for grandparents",
+          "color": "yellow",
+          "lines": [
+            "Sit to stand from a chair, <em>10 times</em>.",
+            "Hold a chair and <em>balance on one leg</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "Out and about",
+      "sub": "On the lead and on the plane",
+      "sections": [
+        {
+          "heading": "Dog walkers: wrists and arms",
+          "color": "yellow",
+          "lines": [
+            "Hold the lead <em>short and close</em>.",
+            "<em>Swap hands</em> regularly."
+          ]
+        },
+        {
+          "heading": "Sleeping upright on a plane",
+          "color": "yellow",
+          "lines": [
+            "A travel pillow to <em>support the sides</em>.",
+            "Recline your seat <em>a little</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Get it checked if…",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee gives way or locks",
+        "Leg numbness or weakness",
+        "Tingling in hand or arm"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Hybi's weekly recap for Mar 27–Apr 3, with this week's comics in one place.\n\nOn the trampoline, take turns with the kids and land with softly bent knees. Before tackling Sydney's hills, try 10 slow heel raises on a step. Loading a wheelbarrow over the wheel, with half loads and more trips, can ease the strain on your back. On a long flight, a travel pillow can support the sides of your neck.\n\nScroll back through the week for the full comics. Our Chatswood and Sydney CBD physios, chiropractors and remedial massage therapists can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#weeklyrecap",
+    "#hybridphysio",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#physiotherapy",
+    "#clinicalpilates",
+    "#chiropractic",
+    "#remedialmassage",
+    "#sydney",
+    "#healthtips"
+  ],
+  "alt_text": "A six-slide cartoon recap with Hybi and Momo summing up six comics from Mar 27 to Apr 3, with one key tip each and signs worth getting checked.",
+  "story": {
+    "headline": "This week's tips in one place",
+    "body": "From trampolines to long flights,<br>six quick tips to scroll back to!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-04-04",
+  "created": "2027-04-04-2",
+  "status": "approved",
+  "review_warnings": []
+}

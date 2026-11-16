@@ -1,0 +1,131 @@
+{
+  "id": "C-453-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for dentists",
+  "location_tag": "Chatswood",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle the dentist<br>gets a <em>stiff neck and back</em>",
+      "sub": "A Pilates story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All day <em>leaning over</em><br>the dental chair.",
+      "char": "turtle_sad",
+      "bubble": "My neck and between<br>my shoulder blades ache..",
+      "bubble_type": "thought",
+      "note": "(twelve patients booked today..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff neck?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. but I can't<br>avoid leaning in."
+      },
+      "note": "Hybi started with <mark>trunk support and micro-breaks</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Leaning in needs<br><em>trunk strength</em>!",
+      "fact": "<em>Hinge from your hips</em> and change position between patients",
+      "left": {
+        "label": "Use your trunk",
+        "char": "turtle_happy",
+        "caption": "Hinge, long spine,<br>the neck <b>works less</b>"
+      },
+      "right": {
+        "label": "Neck only",
+        "char": "turtle_sad",
+        "caption": "Just dropping your head,<br><em>neck takes it all</em>"
+      },
+      "quip": "Keep the patients,<br>build your trunk!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>between-patient Pilates</b>",
+      "sub": "One minute between patients!",
+      "sections": [
+        {
+          "heading": "1. Lengthen, support, move",
+          "color": "yellow",
+          "lines": [
+            "① Chin tucks, <em>5 sec × 5</em>.",
+            "② Shoulder blade squeezes, <em>10 reps</em>.",
+            "③ Stand and open your chest, <em>20 sec</em>.",
+            "④ Days off: bridges and bird dogs, <em>10 each</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Arm or hand tingling</em> keeps coming back, or",
+            "pain is <em>getting worse</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in an arm or hand",
+        "Frequent headaches",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle is a dentist who spends all day leaning over the chair, and by home time his neck and upper back ache.\n\nDropping just your head can leave the neck holding its weight for long stretches. Hinging from the hips and changing position between patients can share the load.\n\nHybi's tip: chin tucks, shoulder blade squeezes and a quick chest opener between patients. Clinical Pilates can help build trunk and upper back support.\n\nArm or hand tingling or frequent headaches are worth an assessment first. Our Chatswood and Sydney CBD physio-led clinical Pilates team can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#dentist",
+    "#dentallife",
+    "#neckpain",
+    "#posture",
+    "#sydneypilates",
+    "#sydneyphysio",
+    "#chatswood",
+    "#chatswoodphysio",
+    "#hybridphysiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle on why dentists can get a stiff neck and upper back, trunk versus neck-only leaning, between-patient Pilates and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff neck from the dental chair?",
+    "body": "Hinge from your hips,<br>chin tucks between patients.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-12",
+  "created": "2027-04-12-4",
+  "status": "approved",
+  "review_warnings": []
+}

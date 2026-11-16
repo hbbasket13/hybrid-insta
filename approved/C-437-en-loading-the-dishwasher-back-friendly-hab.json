@@ -1,0 +1,131 @@
+{
+  "id": "C-437-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Loading the dishwasher: back-friendly habits",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's back aches<br>loading the <em>dishwasher</em>",
+      "sub": "A kitchen posture story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Bend, twist, repeat</em><br>at the dishwasher.",
+      "char": "koala_tired",
+      "bubble": "Why does my back<br>ache every time<br>I load this..?",
+      "bubble_type": "thought",
+      "note": "(the dishes never seem to end..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Achy back?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. I bend and<br>twist for every plate."
+      },
+      "note": "Hybi started with <mark>how you bend</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>Bending and twisting</em><br>over and over adds up!",
+      "fact": "<em>Hinge at the hips</em> and face the rack to share the load",
+      "left": {
+        "label": "Face it",
+        "char": "koala_happy",
+        "caption": "Knees bent, facing the rack,<br>dishes <b>close to you</b>"
+      },
+      "right": {
+        "label": "Twist and reach",
+        "char": "koala_tired",
+        "caption": "Stiff legs and a twist,<br><em>your back takes it all</em>"
+      },
+      "quip": "Same dishes,<br>just a different way to load!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>back-friendly dish duty</b>",
+      "sub": "Try it after dinner tonight!",
+      "sections": [
+        {
+          "heading": "1. Stack, kneel, face it",
+          "color": "yellow",
+          "lines": [
+            "① Stack dishes on the <em>bench first</em>.",
+            "② For the bottom rack, <em>kneel on one knee</em>.",
+            "③ Turn your feet to <em>face the rack</em>.",
+            "④ Finish with <em>a gentle stand-up stretch</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain keeps <em>getting worse</em>, or your",
+            "leg feels <em>numb</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Back pain at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko bends and twists for every plate she loads into the dishwasher, and her back aches by the end.\n\nShort, repeated bend-and-twist movements can tire your back out. Hinging at the hips and facing the rack may share the load.\n\nHybi's tip: stack the dishes on the bench first, kneel on one knee for the bottom rack, and turn your feet so you face the rack instead of twisting. Finish with a gentle stand-up stretch.\n\nLeg numbness or weakness, or pain that keeps getting worse, are worth an assessment. Our Chatswood and Sydney CBD chiropractors can help. Book online via the link in bio 🍽️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#backpain",
+    "#lowerbackpain",
+    "#dishwasher",
+    "#housework",
+    "#homelife",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#posture",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why loading the dishwasher can make the back ache, facing the rack versus twisting, back-friendly loading habits and signs worth getting checked.",
+  "story": {
+    "headline": "Back ache at the dishwasher?",
+    "body": "Stack on the bench first,<br>kneel for the bottom rack.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-05",
+  "created": "2027-04-05-6",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-441-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for cabin crew",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's back and shoulders<br>are <em>done after a flight</em>",
+      "sub": "Pilates for cabin crew, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Trolleys, lockers and<br><em>hours on her feet</em>.",
+      "char": "cat_tired",
+      "bubble": "Why do my back<br>and shoulders ache<br>after every landing..?",
+      "bubble_type": "thought",
+      "note": "(and the smile stays on the whole time..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Achy after flying?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. I lift bags<br>overhead in one go."
+      },
+      "note": "Hybi started with <mark>trunk strength and lifting in stages</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Lift bags<br><em>in two stages</em>!",
+      "fact": "Use your <em>trunk</em> and lift in stages to share the load",
+      "left": {
+        "label": "Two stages",
+        "char": "cat_happy",
+        "caption": "Up to chest height,<br>then <b>legs help push up</b>"
+      },
+      "right": {
+        "label": "One go",
+        "char": "cat_tired",
+        "caption": "Straight up with arms,<br><em>your back takes it all</em>"
+      },
+      "quip": "Keep flying,<br>just change how you lift!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>flight-day Pilates</b>",
+      "sub": "Works in a layover hotel too!",
+      "sections": [
+        {
+          "heading": "1. Wake up trunk, shoulders, calves",
+          "color": "yellow",
+          "lines": [
+            "① Breathe out and <em>bridge, 8 times</em>.",
+            "② Wall arm slides, <em>slowly, 8 times</em>.",
+            "③ Calf raises <em>× 10</em>, lowering slowly.",
+            "④ Push trolleys <em>close to you</em>, using your legs."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your arm goes <em>tingly</em>, or pain <em>spreads</em> —",
+            "stop the exercise and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in your arm or hand",
+        "Pain at night as well",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo pushes trolleys, lifts bags into lockers and stands for hours. After every landing, her back and shoulders are done.\n\nLifting a heavy bag straight overhead with just your arms can load up your back and shoulders. Using your trunk and lifting in stages, via chest height, may share the load.\n\nHybi's tip: 8 slow bridges, 8 wall arm slides and 10 calf raises, even in a layover hotel. Keep trolleys close and push with your legs.\n\nTingling in your arm or hand, or pain at night, are worth an assessment. Our Chatswood and Sydney CBD physio-led clinical Pilates team can help. Book online via the link in bio ✈️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#cabincrew",
+    "#flightattendant",
+    "#crewlife",
+    "#backpain",
+    "#shoulderpain",
+    "#sydneypilates",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why flying shifts can tire the back and shoulders, lifting bags in two stages versus one go, flight-day Pilates and signs worth getting checked.",
+  "story": {
+    "headline": "Back and shoulders done after flying?",
+    "body": "Lift bags in two stages,<br>8 slow bridges.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-07",
+  "created": "2027-04-07-4",
+  "status": "approved",
+  "review_warnings": []
+}

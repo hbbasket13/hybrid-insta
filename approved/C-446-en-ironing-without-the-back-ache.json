@@ -1,0 +1,131 @@
+{
+  "id": "C-446-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Ironing without the back ache",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's back aches<br>every time she <em>irons</em>",
+      "sub": "A lower back story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>An hour</em> of ironing<br>at a low board.",
+      "char": "cat_tired",
+      "bubble": "Ugh, my back aches<br>when I straighten up..",
+      "bubble_type": "thought",
+      "note": "(and still ten shirts to go..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Achy back?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. it's always<br>after ironing."
+      },
+      "note": "Hybi started with <mark>the height of the board</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Board <em>height</em><br>matters!",
+      "fact": "Set the board <em>around hip height</em> and change position often",
+      "left": {
+        "label": "Right height",
+        "char": "cat_happy",
+        "caption": "Raise the board and<br>you <b>bend less</b>"
+      },
+      "right": {
+        "label": "Hunched over",
+        "char": "cat_tired",
+        "caption": "Bent over a low board,<br><em>your back takes it all</em>"
+      },
+      "quip": "Keep the ironing,<br>just raise the board!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>back-friendly ironing</b>",
+      "sub": "Before the iron heats up!",
+      "sections": [
+        {
+          "heading": "1. Set the height, take breaks",
+          "color": "yellow",
+          "lines": [
+            "① Board at about <em>hip height</em>.",
+            "② Rest one foot on a <em>low step</em>.",
+            "③ Every <em>15 min</em>, stand tall and walk.",
+            "④ Sitting? Match your chair to the board."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down a leg</em>, or you get",
+            "<em>tingling or weakness</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain or tingling in a leg",
+        "Pain that stays after rest",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Sunday night, and Momo has been ironing at a low board for an hour. Now her back aches when she straightens up.\n\nA low board keeps you bent forward in one position for a long time. Raising it and changing position often can ease the load on your back.\n\nHybi's tip: set the board at about hip height, rest one foot on a low step, and stand tall and walk every 15 minutes.\n\nPain spreading down a leg, tingling or weakness is worth an assessment first. Our Chatswood and Sydney CBD chiropractors can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#sydneychiro",
+    "#backpain",
+    "#lowerbackpain",
+    "#ironing",
+    "#posture",
+    "#housework",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#hybridphysiotherapy",
+    "#chiro",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo on why ironing can make the back ache, board height compared, back-friendly ironing tips and signs worth getting checked.",
+  "story": {
+    "headline": "Back aches when you iron?",
+    "body": "Board at hip height,<br>stand tall every 15 min.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-08",
+  "created": "2027-04-08-6",
+  "status": "approved",
+  "review_warnings": []
+}

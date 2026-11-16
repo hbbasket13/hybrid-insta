@@ -1,0 +1,131 @@
+{
+  "id": "C-456-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Tablet on your lap: neck care",
+  "location_tag": "Sydney CBD",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "무릎 위 태블릿 보다가<br>토토의 <em>목이 뻐근한 이유</em>",
+      "sub": "하비와 함께 알아보는 목 이야기",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "소파에서 <em>몇 시간째</em><br>태블릿만 보는 토토.",
+      "char": "rabbit_tired",
+      "bubble": "왜 고개를 들면<br>목이 뻣뻣하지..?",
+      "bubble_type": "thought",
+      "note": "(한 편만 더 보려다가..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 목이<br>불편하군요?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "네.. 태블릿을<br>그만 봐야 할까요?"
+      },
+      "note": "하비는 <mark>화면 높이와 자세 바꾸기</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "문제는 <em>오래 같은</em><br>자세예요!",
+      "fact": "오래 숙이고 있으면 <em>목 근육</em>이 쉬지 못해요",
+      "left": {
+        "label": "화면 올리기",
+        "char": "rabbit_happy",
+        "caption": "쿠션·거치대로 올리면<br>목이 <b>덜 숙여져요</b>"
+      },
+      "right": {
+        "label": "무릎에 두기",
+        "char": "rabbit_tired",
+        "caption": "몇 시간 내려다보면<br><em>목이 계속 버텨요</em>"
+      },
+      "quip": "태블릿은 그대로,<br>높이만 바꿔요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>태블릿 목 관리</b>",
+      "sub": "소파에서 바로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 화면 올리고 자주 움직이기",
+          "color": "yellow",
+          "lines": [
+            "① 쿠션이나 거치대로 <em>화면 올리기</em>.",
+            "② <em>20~30분마다</em> 자세 바꾸기.",
+            "③ 턱 살짝 당기기 <em>5회</em>.",
+            "④ 어깨 뒤로 돌리기 <em>10회</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>팔로 퍼지거나</em>,",
+            "<em>어지럼·심한 두통</em>이 있으면 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔이 저리거나 힘이 빠진다",
+        "어지럼·두통이 함께 온다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "소파에서 무릎 위 태블릿으로 몇 시간째 영상을 보는 토토. 고개를 들 때마다 목이 뻣뻣해요.\n\n'나쁜 자세' 하나보다 오래 같은 자세로 숙이고 있는 게 목에 부담이 되기 쉬워요. 쿠션이나 거치대로 화면을 올리고 자주 자세를 바꾸면 도움이 될 수 있어요.\n\n하비의 팁: 20~30분마다 자세 바꾸기, 턱 살짝 당기기 5회, 어깨 뒤로 돌리기 10회.\n\n팔이 저리거나 어지럼·두통이 함께 온다면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 함께해요. 프로필 링크에서 온라인 예약 📱\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#목통증",
+    "#거북목",
+    "#태블릿",
+    "#자세교정",
+    "#물리치료",
+    "#시드니물리치료",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#neckpain",
+    "#screentime"
+  ],
+  "alt_text": "하비와 토토가 등장하는 7장짜리 만화 카드뉴스: 무릎 위 태블릿으로 목이 뻐근한 이유, 화면 올리기와 무릎에 두기 비교, 태블릿 목 관리 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "태블릿 보다 목이 뻣뻣하다면?",
+    "body": "화면은 쿠션 위로,<br>20~30분마다 자세 바꾸기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-13",
+  "created": "2027-04-13-1",
+  "status": "approved",
+  "review_warnings": []
+}

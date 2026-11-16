@@ -1,0 +1,131 @@
+{
+  "id": "C-460-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Thumb pain from pruning with secateurs",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's thumb hurts<br>after <em>pruning the garden</em>",
+      "sub": "A hand story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Hours of pruning</em><br>in the garden.",
+      "char": "cat_tired",
+      "bubble": "Why does my thumb<br>ache every time<br>I squeeze..?",
+      "bubble_type": "thought",
+      "note": "(the roses just keep growing..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore thumb?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. do I have<br>to give up gardening?"
+      },
+      "note": "Hybi started with <mark>your tools and breaks</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's the <em>repeated</em><br><em>hard squeeze</em>!",
+      "fact": "Squeezing hard over and over can wear out <em>your thumb</em>",
+      "left": {
+        "label": "Better tools",
+        "char": "cat_happy",
+        "caption": "Sharp secateurs, and<br><b>loppers</b> for thick branches"
+      },
+      "right": {
+        "label": "Blunt blades",
+        "char": "cat_tired",
+        "caption": "Blunt blades, hard squeezes,<br><em>your thumb takes it all</em>"
+      },
+      "quip": "Keep gardening,<br>just swap your tools!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>pruning hand care</b>",
+      "sub": "Check before you head outside!",
+      "sections": [
+        {
+          "heading": "1. Right tools, regular breaks",
+          "color": "yellow",
+          "lines": [
+            "① Keep secateur blades <em>sharp</em>.",
+            "② Use <em>loppers</em> for thicker branches.",
+            "③ Switch tasks every <em>15–20 minutes</em>.",
+            "④ Open and close your hand <em>10 times</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your thumb gets <em>swollen or warm</em>, or your",
+            "hand feels <em>numb or tingly</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>sore</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Swelling or warmth",
+        "Numbness or a weak grip",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo has been pruning the garden for hours, and lately her thumb aches every time she squeezes the secateurs.\n\nSqueezing hard over and over can tire out the muscles and tendons around your thumb. Keeping blades sharp and using loppers for thicker branches may help ease the load.\n\nHybi's tip: switch to a different garden job every 15–20 minutes, and open and close your hand 10 times while you rest.\n\nSwelling or warmth, numbness, a weaker grip or pain that hangs around for more than two weeks is worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#thumbpain",
+    "#handpain",
+    "#gardening",
+    "#gardenlife",
+    "#pruning",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why pruning can make the thumb sore, better tools versus blunt blades, simple hand care tips and signs worth getting checked.",
+  "story": {
+    "headline": "Sore thumb from pruning?",
+    "body": "Sharp blades, loppers,<br>a break every 15–20 minutes.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-14",
+  "created": "2027-04-14-2",
+  "status": "approved",
+  "review_warnings": []
+}

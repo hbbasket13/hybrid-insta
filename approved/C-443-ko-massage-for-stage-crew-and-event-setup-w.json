@@ -1,0 +1,131 @@
+{
+  "id": "C-443-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for stage crew and event setup workers",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "무대 설치 후<br>루루의 <em>어깨·허리가 뭉치는 이유</em>",
+      "sub": "하비와 함께 알아보는 근육 회복 이야기",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "새벽부터 <em>무대 장비</em>를<br>나르고 세우는 루루.",
+      "char": "kanga_tired",
+      "bubble": "철수까지 끝나면<br>온몸이 왜 이렇게 뭉치지..?",
+      "bubble_type": "thought",
+      "note": "(공연은 밤, 일은 새벽부터..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 몸이<br>뭉쳤군요?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "네.. 무거운 걸 혼자<br>쉬지 않고 날라요."
+      },
+      "note": "하비는 <mark>나눠 들기와 회복 시간</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "<em>혼자, 쉬지 않고</em>는<br>근육이 지쳐요!",
+      "fact": "<em>함께 들고</em> 틈틈이 쉬면 근육 부담을 나눌 수 있어요",
+      "left": {
+        "label": "같이 들기",
+        "char": "kanga_happy",
+        "caption": "둘이 들고 다리 힘으로<br>틈틈이 <b>숨 돌려요</b>"
+      },
+      "right": {
+        "label": "혼자 다",
+        "char": "kanga_tired",
+        "caption": "무거운 걸 혼자 계속<br><em>어깨·허리가 다 버텨요</em>"
+      },
+      "quip": "일은 그대로,<br>나르는 법과 쉬는 법만!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>현장 회복 루틴</b>",
+      "sub": "셋업 날 아침부터 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 풀고, 나누고, 회복하기",
+          "color": "yellow",
+          "lines": [
+            "① 시작 전 <em>팔 돌리기·스쿼트 10회</em>.",
+            "② 무거운 장비는 <em>두 명이</em> 들기.",
+            "③ 끝나면 어깨·종아리 <em>가볍게 늘리기</em>.",
+            "④ 마사지는 <em>회복을 돕는</em> 한 가지 방법."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "<em>저림</em>이 있거나 통증이 <em>날카로우면</em>,",
+            "마사지 전에 먼저 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "팔·다리가 저리다",
+        "부딪힌 뒤 붓고 멍든다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "새벽부터 무대 장비를 나르고 세우는 루루. 철수까지 끝나면 어깨와 허리가 잔뜩 뭉쳐요.\n\n무거운 장비를 혼자, 쉬지 않고 나르면 근육이 쉽게 지칠 수 있어요. 함께 들고 틈틈이 쉬면 부담을 나눌 수 있고, 마사지는 회복을 돕는 한 가지 방법이 될 수 있어요.\n\n하비의 팁: 시작 전 팔 돌리기와 스쿼트 10회, 무거운 장비는 두 명이 들기, 끝나면 어깨와 종아리 가볍게 늘리기.\n\n저림이 있거나 부딪힌 뒤 붓는다면 평가가 먼저예요. 채스우드·시드니 CBD 리메디얼 마사지 테라피스트가 함께해요. 프로필 링크에서 온라인 예약 🎤\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#무대스태프",
+    "#행사스태프",
+    "#공연장",
+    "#근육뭉침",
+    "#어깨뭉침",
+    "#리메디얼마사지",
+    "#마사지",
+    "#시드니마사지",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#remedialmassage",
+    "#stagecrew"
+  ],
+  "alt_text": "하비와 루루가 등장하는 7장짜리 만화 카드뉴스: 무대 설치 후 어깨·허리가 뭉치는 이유, 함께 들기와 혼자 나르기 비교, 현장 회복 루틴, 확인이 필요한 신호.",
+  "story": {
+    "headline": "무대 설치 후 온몸이 뭉쳤다면?",
+    "body": "무거운 장비는 두 명이,<br>끝나면 가볍게 늘리기!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-07",
+  "created": "2027-04-07-3",
+  "status": "approved",
+  "review_warnings": []
+}

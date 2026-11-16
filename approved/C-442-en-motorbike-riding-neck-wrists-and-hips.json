@@ -1,0 +1,131 @@
+{
+  "id": "C-442-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Motorbike riding: neck, wrists and hips",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's neck, wrists and hips<br>ache after <em>a ride</em>",
+      "sub": "A riding posture story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Long weekend rides</em><br>on her motorbike.",
+      "char": "kanga_tired",
+      "bubble": "Why do my neck, wrists<br>and hips ache<br>after every ride..?",
+      "bubble_type": "thought",
+      "note": "(the riding itself is pure joy..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff after riding?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. I grip tight<br>and ride without stopping."
+      },
+      "note": "Hybi started with <mark>a lighter grip and regular breaks</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Gripping hard for hours<br><em>adds up</em>!",
+      "fact": "A <em>relaxed grip</em> and regular breaks can share the load",
+      "left": {
+        "label": "Relaxed",
+        "char": "kanga_happy",
+        "caption": "Soft elbows, light grip,<br><b>stops to stretch</b>"
+      },
+      "right": {
+        "label": "Death grip",
+        "char": "kanga_tired",
+        "caption": "Tight grip, no breaks,<br><em>neck and wrists take it all</em>"
+      },
+      "quip": "Keep riding,<br>just change your grip and breaks!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>fuel-stop stretch routine</b>",
+      "sub": "Try it every time you fill up!",
+      "sections": [
+        {
+          "heading": "1. Get off, loosen up, ride on",
+          "color": "yellow",
+          "lines": [
+            "① Chin tucks <em>× 5</em>, then slow neck turns.",
+            "② Wrist stretches, <em>10 seconds each way</em>.",
+            "③ Lunge stance <em>hip stretch</em>, 20 seconds.",
+            "④ Set levers and bars so <em>hands feel relaxed</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your hand goes <em>numb</em> or feels <em>weak</em> —",
+            "stop riding and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in your fingers",
+        "Neck pain spreading to arm",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu loves long weekend rides on her motorbike, but every time she gets off, her neck, wrists and hips ache.\n\nGripping the bars hard and holding one position for hours can tire your neck and wrists. A relaxed grip and regular breaks may share the load.\n\nHybi's tip: at every fuel stop, do 5 chin tucks, stretch your wrists for 10 seconds each way and hold a lunge-stance hip stretch for 20 seconds. Set your levers and bars so your hands feel relaxed.\n\nTingling fingers or neck pain spreading into your arm are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio 🏍️\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#motorbike",
+    "#motorcycle",
+    "#riding",
+    "#neckpain",
+    "#wristpain",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why motorbike riding can leave the neck, wrists and hips achy, a relaxed grip versus a death grip, a fuel-stop stretch routine and signs worth getting checked.",
+  "story": {
+    "headline": "Achy after a long ride?",
+    "body": "Relax your grip,<br>stretch at every fuel stop.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-07",
+  "created": "2027-04-07-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-447-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Wrist and forearm strain from carrying trays",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's wrist aches<br>from <em>carrying trays</em>",
+      "sub": "A wrist and forearm story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Dozens of trays</em><br>through the lunch rush.",
+      "char": "cat_tired",
+      "bubble": "My wrist and forearm<br>feel so achy..",
+      "bubble_type": "thought",
+      "note": "(the lunch rush never ends..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore wrist?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. do I need<br>time off work?"
+      },
+      "note": "Hybi started with <mark>how you hold the tray</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Trays aren't<br><em>just a wrist job</em>!",
+      "fact": "Hold the tray <em>close</em>, supported on your whole palm",
+      "left": {
+        "label": "Close in",
+        "char": "cat_happy",
+        "caption": "Elbow in, palm under,<br>the wrist <b>bends less</b>"
+      },
+      "right": {
+        "label": "Fingertips",
+        "char": "cat_tired",
+        "caption": "Bent wrist, arm out,<br><em>forearm takes it all</em>"
+      },
+      "quip": "Keep the shifts,<br>just change the carry!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>wrist breaks</b>",
+      "sub": "Little resets during your shift!",
+      "sections": [
+        {
+          "heading": "1. Support it and take breaks",
+          "color": "yellow",
+          "lines": [
+            "① Rest the tray on your <em>whole palm</em>.",
+            "② Heavy? Use <em>two hands</em> or split it.",
+            "③ Gentle wrist stretch, <em>15 sec</em> each way.",
+            "④ Open and close your fist, <em>10 times</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "<em>Finger tingling</em> keeps coming back, or",
+            "it <em>swells or feels weak</em> — get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling or numb fingers",
+        "A swollen or warm wrist",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo carries dozens of trays through the café lunch rush, and lately her wrist and forearm feel achy.\n\nHolding a tray far from your body with the wrist bent can keep the forearm muscles working hard. Keeping it close and supported on your whole palm can share the load.\n\nHybi's tip: palm under the tray, two hands or two trips when it's heavy, and a quick wrist stretch between orders.\n\nFinger tingling that keeps coming back, swelling or weakness is worth an assessment first. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#wristpain",
+    "#forearmpain",
+    "#hospitality",
+    "#cafelife",
+    "#barista",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo on why carrying trays can strain the wrist and forearm, close versus fingertip holds, quick wrist breaks and signs worth getting checked.",
+  "story": {
+    "headline": "Achy wrist from carrying trays?",
+    "body": "Whole palm under the tray,<br>stretch between orders.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-09",
+  "created": "2027-04-09-4",
+  "status": "approved",
+  "review_warnings": []
+}

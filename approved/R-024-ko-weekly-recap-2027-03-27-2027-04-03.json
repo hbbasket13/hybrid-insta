@@ -1,0 +1,137 @@
+{
+  "id": "R-024-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "clinic",
+  "format": "carousel",
+  "topic": "Weekly recap 2027-03-27–2027-04-03",
+  "location_tag": "Chatswood",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "하비의 <b>주간 정리</b><br><em>3/27–4/3</em>",
+      "sub": "이번 주 몸 관리, 핵심만 모았어요",
+      "left": {
+        "char": "cat_happy"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "한 번에<br>복습해요!"
+      }
+    },
+    {
+      "kind": "tips",
+      "title": "활동적인 주말 편",
+      "sub": "뛰고 걷는 날엔",
+      "sections": [
+        {
+          "heading": "트램펄린 무릎·발목 관리",
+          "color": "yellow",
+          "lines": [
+            "한 명씩 <em>번갈아</em> 뛰기.",
+            "착지할 땐 무릎을 <em>살짝 굽히기</em>."
+          ]
+        },
+        {
+          "heading": "언덕 산책 종아리 관리",
+          "color": "yellow",
+          "lines": [
+            "계단에서 뒤꿈치 들기 <em>천천히 10회</em>.",
+            "오르막에선 <em>보폭 짧게</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "집·가족 편",
+      "sub": "마당일도, 손주 돌보기도",
+      "sections": [
+        {
+          "heading": "손수레 밀 때 허리 관리",
+          "color": "yellow",
+          "lines": [
+            "무게는 <em>바퀴 위쪽</em>에 싣기.",
+            "<em>반만 싣고</em> 여러 번 나르기."
+          ]
+        },
+        {
+          "heading": "조부모를 위한 필라테스",
+          "color": "yellow",
+          "lines": [
+            "의자에서 앉았다 일어서기 <em>10회</em>.",
+            "의자 잡고 <em>한 발로 서기</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "tips",
+      "title": "일상·여행 편",
+      "sub": "산책길과 비행기에서",
+      "sections": [
+        {
+          "heading": "강아지 산책 손목·팔 관리",
+          "color": "yellow",
+          "lines": [
+            "리드줄은 <em>짧게, 몸 가까이</em>.",
+            "<em>손을 자주</em> 바꿔 잡기."
+          ]
+        },
+        {
+          "heading": "비행기에서 잘 때 목 관리",
+          "color": "yellow",
+          "lines": [
+            "목베개로 <em>양옆</em> 받치기.",
+            "등받이를 <em>살짝</em> 젖히기."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "이번 주 확인 신호",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "무릎이 빠지거나 걸린다",
+        "다리가 저리거나 힘이 없다",
+        "손·팔이 저리다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "3월 27일부터 4월 3일까지, 이번 주 하비의 만화를 한 번에 정리했어요.\n\n트램펄린은 한 명씩 번갈아 뛰고, 착지할 땐 무릎을 살짝 굽혀요. 언덕 산책 전엔 계단에서 뒤꿈치 들기를 천천히 10회 해봐요. 손수레는 무게를 바퀴 위쪽에 싣고 반만 채워 여러 번 나르면 허리 부담을 덜 수 있어요. 비행기에선 목베개로 양옆을 받쳐 주세요.\n\n자세한 내용은 이번 주 만화를 넘겨 보세요. 채스우드·시드니 CBD에서 함께해요. 프로필 링크에서 온라인 예약\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#주간정리",
+    "#weeklyrecap",
+    "#하이브리드피지오",
+    "#hybridphysio",
+    "#시드니물리치료",
+    "#채스우드",
+    "#시드니cbd",
+    "#몸관리",
+    "#필라테스",
+    "#카이로프랙틱",
+    "#리메디얼마사지",
+    "#sydneyphysio"
+  ],
+  "alt_text": "하비와 모모가 등장하는 6장짜리 주간 정리 카드뉴스: 3/27–4/3 만화 6편의 핵심 팁과 확인이 필요한 신호.",
+  "story": {
+    "headline": "이번 주 몸 관리 핵심 정리",
+    "body": "트램펄린부터 비행기까지,<br>6가지 팁을 모았어요!",
+    "char": "hybi_wave"
+  },
+  "scheduled_date": "2027-04-04",
+  "created": "2027-04-04-1",
+  "status": "approved",
+  "review_warnings": []
+}
