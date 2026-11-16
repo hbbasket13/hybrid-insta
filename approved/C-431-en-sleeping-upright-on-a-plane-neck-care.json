@@ -1,0 +1,131 @@
+{
+  "id": "C-431-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Sleeping upright on a plane: neck care",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle's neck hurts<br>after <em>sleeping on a plane</em>",
+      "sub": "A neck story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Dozing upright, then<br>his head <em>drops</em>.",
+      "char": "turtle_sad",
+      "bubble": "I woke up and now<br>I can't turn my neck..",
+      "bubble_type": "thought",
+      "note": "(and six more hours of flying..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff neck?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. every time<br>I fly."
+      },
+      "note": "Hybi started with <mark>how to support your neck</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Your neck needs<br><em>support</em> while you sleep!",
+      "fact": "A head <em>flopped to one side</em> for a long time strains the neck",
+      "left": {
+        "label": "Supported",
+        "char": "turtle_happy",
+        "caption": "Pillow or window to lean on,<br>the neck <b>bends less</b>"
+      },
+      "right": {
+        "label": "Flopped",
+        "char": "turtle_sad",
+        "caption": "Head drops to the side,<br><em>neck bent for hours</em>"
+      },
+      "quip": "Enjoy the trip,<br>just support your neck!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>in-flight neck care</b>",
+      "sub": "Try them on your next flight!",
+      "sections": [
+        {
+          "heading": "1. Support your neck, move often",
+          "color": "yellow",
+          "lines": [
+            "① Use a travel pillow to <em>support the sides</em>.",
+            "② <em>Recline</em> your seat a little.",
+            "③ When awake, <em>get up and walk</em> now and then.",
+            "④ <em>5 slow neck turns</em> each way."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>dizzy</em> or have a bad headache,",
+            "or your arm <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Arm tingling or weakness",
+        "Bad headache or dizziness",
+        "No better after a week"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle dozed off upright on a long flight, his head dropped to one side, and he woke up barely able to turn his neck.\n\nWhen your head flops to one side for a long time, your neck keeps working to hold it. Supporting your head with a travel pillow or the window can ease that load.\n\nHybi's in-flight neck care: use a travel pillow to support the sides, recline your seat a little, get up and walk when you're awake, and do a few slow neck turns.\n\nArm tingling, a bad headache or dizziness is worth checking first. Our Chatswood and Sydney CBD chiropractors can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#neckpain",
+    "#neckcare",
+    "#travel",
+    "#longhaulflight",
+    "#travelpillow",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why the neck can hurt after sleeping upright on a plane, supported versus flopped head positions, in-flight neck care and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff neck after a long flight?",
+    "body": "Support the sides with a pillow,<br>and get up to walk!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-02",
+  "created": "2027-04-02-2",
+  "status": "approved",
+  "review_warnings": []
+}

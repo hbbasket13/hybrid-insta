@@ -1,0 +1,131 @@
+{
+  "id": "C-421-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Pushing a wheelbarrow without the back ache",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "외바퀴 수레를 밀고 나면<br>코코의 <em>허리가 아픈 이유</em>",
+      "sub": "하비와 함께 알아보는 허리 이야기",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "주말마다 정원에서<br><em>흙 가득한 수레</em>를 미는 코코.",
+      "char": "koala_tired",
+      "bubble": "왜 수레만 밀고 나면<br>허리가 뻐근하지..?",
+      "bubble_type": "thought",
+      "note": "(정원 일은 끝이 없어..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 허리가<br>불편하군요?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "네.. 정원 일을<br>줄여야 할까요?"
+      },
+      "note": "하비는 <mark>수레 싣고 미는 방법</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "수레는 <em>바퀴 쪽</em>에<br>무게를 실어요!",
+      "fact": "짐을 <em>바퀴 쪽</em>에 실으면 허리 부담이 줄 수 있어요",
+      "left": {
+        "label": "바퀴 쪽",
+        "char": "koala_happy",
+        "caption": "앞쪽에 싣고 다리로 밀어<br>허리가 <b>덜 일해요</b>"
+      },
+      "right": {
+        "label": "가득 싣기",
+        "char": "koala_tired",
+        "caption": "손잡이 쪽까지 가득 실으면<br><em>허리가 다 버텨요</em>"
+      },
+      "quip": "정원 일은 그대로,<br>싣는 법만 바꿔요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>수레 허리 지키기</b>",
+      "sub": "정원 일 전에 기억해요!",
+      "sections": [
+        {
+          "heading": "1. 똑똑하게 싣고 밀기",
+          "color": "yellow",
+          "lines": [
+            "① 짐은 <em>바퀴 쪽</em>으로 싣기.",
+            "② <em>반만 채워</em> 여러 번 나르기.",
+            "③ 들 땐 <em>무릎 굽혀</em> 다리 힘으로.",
+            "④ 방향은 허리 대신 <em>발로</em> 돌기."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 뻗치거나</em>,",
+            "다리가 <em>저리면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리가 저리거나 힘이 빠짐",
+        "밤에도 허리가 아프다",
+        "2주 넘게 나아지지 않는다"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "주말마다 정원에서 흙 가득한 외바퀴 수레를 미는 코코. 요즘 정원 일을 마치면 허리가 뻐근해요.\n\n짐을 손잡이 쪽까지 가득 실으면 들어 올리는 무게가 커져 허리가 더 버텨야 할 수 있어요. 바퀴 쪽에 실으면 바퀴가 무게를 더 받아줘요.\n\n하비의 팁: 짐은 바퀴 쪽으로, 반만 채워 여러 번, 들 땐 무릎 굽혀 다리 힘으로, 방향은 발로 돌기.\n\n다리가 저리거나 밤에도 아프다면 평가가 먼저예요. 채스우드·시드니 CBD 카이로프랙터가 함께해요. 프로필 링크에서 온라인 예약 🌱\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#허리통증",
+    "#정원가꾸기",
+    "#가드닝",
+    "#외바퀴수레",
+    "#카이로프랙틱",
+    "#채스우드",
+    "#하이브리드피지오",
+    "#시드니카이로",
+    "#chiropractic",
+    "#sydneychiro",
+    "#backpain",
+    "#gardening"
+  ],
+  "alt_text": "하비와 코코가 등장하는 7장짜리 만화 카드뉴스: 외바퀴 수레를 밀고 나면 허리가 아픈 이유, 바퀴 쪽 싣기와 가득 싣기 비교, 수레 허리 지키기 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "수레 밀고 허리가 뻐근하다면?",
+    "body": "짐은 바퀴 쪽으로,<br>반만 채워 여러 번!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-30",
+  "created": "2027-03-30-1",
+  "status": "approved",
+  "review_warnings": []
+}

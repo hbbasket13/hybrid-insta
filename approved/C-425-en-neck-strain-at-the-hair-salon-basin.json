@@ -1,0 +1,131 @@
+{
+  "id": "C-425-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Neck strain at the hair salon basin",
+  "location_tag": "Chatswood",
+  "patient": "rabbit",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Toto's neck aches<br>after <em>a salon hair wash</em>",
+      "sub": "A neck story, with Hybi",
+      "left": {
+        "char": "rabbit_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Head tipped <em>way back</em><br>at the salon basin.",
+      "char": "rabbit_tired",
+      "bubble": "My neck's so sore..<br>should I say something?",
+      "bubble_type": "thought",
+      "note": "(the head massage was lovely, though..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Toto met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff neck?"
+      },
+      "right": {
+        "char": "rabbit_neutral",
+        "bubble": "Yeah.. it happens<br>after every haircut."
+      },
+      "note": "Hybi started with <mark>how you sit at the basin</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "A neck tipped <em>too far back</em><br>works hard!",
+      "fact": "Necks don't love staying <em>fully tipped back</em> for long",
+      "left": {
+        "label": "Supported",
+        "char": "rabbit_happy",
+        "caption": "Rolled towel underneath,<br>the neck <b>works less</b>"
+      },
+      "right": {
+        "label": "Hanging",
+        "char": "rabbit_tired",
+        "caption": "Resting on the hard edge,<br><em>neck bent the whole time</em>"
+      },
+      "quip": "Keep your salon visits,<br>just change the setup!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>salon basin tips</b>",
+      "sub": "For your next haircut!",
+      "sections": [
+        {
+          "heading": "1. Support your neck and settle in",
+          "color": "yellow",
+          "lines": [
+            "① Ask for a <em>rolled towel</em> behind your neck.",
+            "② Sit with your hips <em>close to the basin</em>.",
+            "③ If it's uncomfortable, <em>speak up early</em>.",
+            "④ Afterwards, <em>5 slow neck turns</em> each way."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>dizzy</em> or your vision blurs,",
+            "or your arm <em>tingles</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Dizziness or a bad headache",
+        "Arm tingling or weakness",
+        "No better after a week"
+      ],
+      "char2": "rabbit_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "rabbit_happy"
+      }
+    }
+  ],
+  "caption": "Toto spent ages at the salon basin with his head tipped right back, and now his neck aches after every haircut.\n\nNecks often don't love staying fully tipped back for long. A little support behind the neck can take some of the load off.\n\nHybi's basin tips: ask for a rolled towel behind your neck, sit with your hips close to the basin, and speak up early if it's uncomfortable. Afterwards, a few slow neck turns can help you loosen up.\n\nDizziness, blurred vision or arm tingling mean stop and get checked. Our Chatswood and Sydney CBD chiropractors can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#neckpain",
+    "#neckcare",
+    "#hairsalon",
+    "#haircut",
+    "#sydneychiro",
+    "#chatswood",
+    "#chatswoodchiro",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Toto explaining why a neck can ache after a salon hair wash, supported versus hanging neck positions, basin tips and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff neck after a salon wash?",
+    "body": "Rolled towel behind your neck,<br>and speak up early!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-31",
+  "created": "2027-03-31-2",
+  "status": "approved",
+  "review_warnings": []
+}

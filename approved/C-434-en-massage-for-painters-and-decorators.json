@@ -1,0 +1,131 @@
+{
+  "id": "C-434-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for painters and decorators",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why painter Lulu's<br><em>neck and shoulders</em> feel tight",
+      "sub": "A work story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Looking up at ceilings</em><br>with a roller all day.",
+      "char": "kanga_tired",
+      "bubble": "My neck and shoulders<br>feel like concrete..",
+      "bubble_type": "thought",
+      "note": "(why are ceilings so big..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff neck?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. worst on<br>ceiling days."
+      },
+      "note": "Hybi started with <mark>changing how you work</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't keep your head<br><em>tipped back</em> for hours!",
+      "fact": "Arms up, <em>looking up for ages</em>, can tighten neck and shoulders",
+      "left": {
+        "label": "Use the pole",
+        "char": "kanga_happy",
+        "caption": "An extension pole means<br>the neck <b>tips back less</b>"
+      },
+      "right": {
+        "label": "Craning up",
+        "char": "kanga_tired",
+        "caption": "Head back for hours,<br><em>neck and shoulders strain</em>"
+      },
+      "quip": "Keep painting,<br>just change your setup!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>painter tips</b>",
+      "sub": "Start on today's job!",
+      "sections": [
+        {
+          "heading": "1. Look after neck and shoulders",
+          "color": "yellow",
+          "lines": [
+            "① Use an <em>extension pole</em> for ceilings.",
+            "② <em>Alternate</em> ceiling and wall work.",
+            "③ <em>10 big shoulder rolls</em> between coats.",
+            "④ Use <em>massage</em> for tight spots."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your arm goes <em>numb</em> or feels weak,",
+            "or pain <em>gets worse</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in arm or hand",
+        "Trouble lifting your arm",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu spends all day looking up at ceilings with a roller, and by knock-off time her neck and shoulders feel like concrete.\n\nHolding your arms up and your head tipped back for ages can leave the neck and shoulders tight. An extension pole and mixing up your tasks can ease the load.\n\nHybi's painter tips: use an extension pole for ceilings, alternate ceiling and wall work, and do a few big shoulder rolls between coats. Remedial massage may help tight neck and shoulder muscles feel easier.\n\nArm tingling, weakness or trouble lifting your arm is worth an assessment first. Our Chatswood and Sydney CBD remedial massage therapists can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#painter",
+    "#painteranddecorator",
+    "#tradie",
+    "#neckpain",
+    "#sydneymassage",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#tradielife",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why a painter's neck and shoulders can feel tight, using an extension pole versus craning up, painter tips and signs worth getting checked.",
+  "story": {
+    "headline": "Tight neck after ceiling work?",
+    "body": "Use an extension pole,<br>and alternate your tasks!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-03",
+  "created": "2027-04-03-2",
+  "status": "approved",
+  "review_warnings": []
+}

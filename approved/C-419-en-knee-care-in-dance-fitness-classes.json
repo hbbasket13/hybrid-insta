@@ -1,0 +1,131 @@
+{
+  "id": "C-419-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Knee care in dance fitness classes",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Momo's knee twinges<br>in <em>dance fitness class</em>",
+      "sub": "A knee story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Dance fitness<br><em>after work</em>.",
+      "char": "cat_tired",
+      "bubble": "Why does my knee<br>twinge every time<br>I spin..?",
+      "bubble_type": "thought",
+      "note": "(once the music starts, she can't stop..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore knee?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. do I have to<br>quit dance class?"
+      },
+      "note": "Hybi started with <mark>how you turn</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "When you turn,<br><em>turn your feet too</em>!",
+      "fact": "Spinning on a <em>planted foot</em> can twist the knee",
+      "left": {
+        "label": "Pivot",
+        "char": "cat_happy",
+        "caption": "Heel up, feet turn too,<br>knee <b>stays happier</b>"
+      },
+      "right": {
+        "label": "Planted foot",
+        "char": "cat_tired",
+        "caption": "Foot stuck, body spins,<br><em>knee takes the twist</em>"
+      },
+      "quip": "Keep dancing,<br>just change the turn!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>dance-class knee care</b>",
+      "sub": "Remember these before class!",
+      "sections": [
+        {
+          "heading": "1. Dance with happy knees",
+          "color": "yellow",
+          "lines": [
+            "① Warm up for <em>5 minutes</em> first.",
+            "② Land with knees <em>softly bent</em>.",
+            "③ Turn on the <em>ball of your foot</em>.",
+            "④ Choose the <em>low-impact option</em> if needed."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your knee <em>swells or catches</em>,",
+            "or feels like it <em>gives way</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee swelling",
+        "Knee locks or gives way",
+        "No better after 2 weeks"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Momo loves her after-work dance fitness class, but lately her knee twinges every time she spins.\n\nSpinning on a planted foot can twist the knee. Lifting your heel slightly and letting your feet turn with you may help share that load.\n\nHybi's tip: warm up for five minutes, land with softly bent knees, pivot on the ball of your foot, and choose the low-impact option on harder days.\n\nSwelling, a knee that catches or gives way, or no change after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#dancefitness",
+    "#danceworkout",
+    "#groupfitness",
+    "#kneecare",
+    "#sydneyphysio",
+    "#sydneycbdphysio",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why spinning in dance fitness can make the knee twinge, pivoting versus a planted foot, knee-care tips for class and signs worth getting checked.",
+  "story": {
+    "headline": "Knee twinge in dance class?",
+    "body": "Pivot on the ball of your foot,<br>land with soft knees.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-29",
+  "created": "2027-03-29-2",
+  "status": "approved",
+  "review_warnings": []
+}

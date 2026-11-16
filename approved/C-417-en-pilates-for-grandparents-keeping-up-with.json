@@ -1,0 +1,131 @@
+{
+  "id": "C-417-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for grandparents keeping up with grandkids",
+  "location_tag": "Sydney CBD",
+  "patient": "turtle",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Mr Turtle tires out<br><em>keeping up with the grandkids</em>",
+      "sub": "A clinical Pilates story, with Hybi",
+      "left": {
+        "char": "turtle_sad"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Getting up off the floor<br>is <em>getting harder</em>.",
+      "char": "turtle_sad",
+      "bubble": "Why does my back<br>ache every time<br>I lift the little one..?",
+      "bubble_type": "thought",
+      "note": "(the grandkids always want a cuddle..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Mr Turtle met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Grandkids wearing you out?"
+      },
+      "right": {
+        "char": "turtle_neutral",
+        "bubble": "Yeah.. isn't that<br>just getting older?"
+      },
+      "note": "Hybi started with <mark>practising everyday moves</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Lift the grandkids<br>with <em>your legs</em>!",
+      "fact": "Bend your knees and <em>hold them close</em> to ease your back",
+      "left": {
+        "label": "Legs",
+        "char": "turtle_happy",
+        "caption": "Knees bent, child close,<br>back <b>works less</b>"
+      },
+      "right": {
+        "label": "Back only",
+        "char": "turtle_sad",
+        "caption": "Bending at the back alone,<br><em>back takes it all</em>"
+      },
+      "quip": "It's not just age,<br>it's practice!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>grandparent fitness</b>",
+      "sub": "Try these with clinical Pilates!",
+      "sections": [
+        {
+          "heading": "1. Practise everyday moves",
+          "color": "yellow",
+          "lines": [
+            "① Sit to stand from a chair, <em>10 times</em>.",
+            "② Heel raises holding a wall, <em>10 reps</em>.",
+            "③ Hold a chair and <em>balance on one leg</em>.",
+            "④ Lift the little ones <em>close to you</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "You feel <em>dizzy or very breathless</em>,",
+            "or have <em>chest discomfort</em> — see your GP."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "A recent fall",
+        "Feeling dizzy often",
+        "No better after 2 weeks"
+      ],
+      "char2": "turtle_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "turtle_happy2"
+      }
+    }
+  ],
+  "caption": "Mr Turtle loves time with his grandkids, but getting up off the floor and lifting the little ones is getting harder.\n\nPlaying with grandkids is a mix of sitting, standing, lifting and balancing. At any age, these everyday moves can often be built up with regular, gentle practice.\n\nHybi's tip: practise sit to stand from a chair, try heel raises and one-leg balance while holding support, and lift the grandkids with bent knees, close to your body.\n\nA recent fall, frequent dizziness or pain that isn't settling are worth an assessment. Our Chatswood and Sydney CBD physio-led clinical Pilates team can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#grandparents",
+    "#healthyageing",
+    "#balance",
+    "#strengthtraining",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#physiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Mr Turtle explaining why keeping up with the grandkids can be tiring, lifting with the legs versus the back, everyday-move practice and signs worth getting checked.",
+  "story": {
+    "headline": "Grandkids wearing you out?",
+    "body": "Sit to stand × 10,<br>lift them close to you.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-27",
+  "created": "2027-03-27-6",
+  "status": "approved",
+  "review_warnings": []
+}

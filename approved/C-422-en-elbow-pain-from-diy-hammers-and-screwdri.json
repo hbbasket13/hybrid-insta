@@ -1,0 +1,131 @@
+{
+  "id": "C-422-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Elbow pain from DIY: hammers and screwdrivers",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's elbow hurts<br>after a <em>DIY weekend</em>",
+      "sub": "An elbow story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A whole weekend of<br><em>hammers and screwdrivers</em>.",
+      "char": "kanga_tired",
+      "bubble": "Why does my elbow<br>twinge when I<br>just lift a cup..?",
+      "bubble_type": "thought",
+      "note": "(just one more shelf to put up..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore elbow?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. do I have<br>to give up DIY?"
+      },
+      "note": "Hybi started with <mark>how you grip your tools</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "The tighter the grip,<br>the <em>harder the elbow works</em>!",
+      "fact": "A <em>hard, long grip</em> can tire the elbow's tendons",
+      "left": {
+        "label": "Easy grip",
+        "char": "kanga_happy",
+        "caption": "Just-enough grip and breaks,<br>elbow <b>tires less</b>"
+      },
+      "right": {
+        "label": "Death grip",
+        "char": "kanga_tired",
+        "caption": "Squeezing hard for hours,<br><em>elbow takes it all</em>"
+      },
+      "quip": "Keep up the DIY,<br>just change the grip!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>DIY elbow care</b>",
+      "sub": "Remember these before you grab a tool!",
+      "sections": [
+        {
+          "heading": "1. Grip smart, take breaks",
+          "color": "yellow",
+          "lines": [
+            "① Grip only <em>as hard as you need</em>.",
+            "② Choose tools with <em>thicker handles</em>.",
+            "③ Take <em>regular breaks</em> for your arm.",
+            "④ Lots of screws? Try a <em>power drill</em>."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your fingers go <em>numb or tingly</em>,",
+            "or the elbow is <em>swollen and hot</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Numb or tingly fingers",
+        "Hard to lift a cup",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu spent the whole weekend hammering and putting up shelves, and now the outside of her elbow twinges when she lifts a cup.\n\nGripping tools hard for long periods can load the tendons on the outside of the elbow. Adjusting how hard you grip and how often you rest may help.\n\nHybi's tip: grip only as hard as you need, choose tools with thicker handles, take regular breaks, and use a power drill when there are lots of screws.\n\nNumb or tingly fingers, trouble lifting a cup, or no change after two weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#elbowpain",
+    "#tenniselbow",
+    "#diy",
+    "#homeimprovement",
+    "#weekendproject",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why a DIY weekend can make the elbow hurt, an easy grip versus a death grip, elbow-care tips for tool use and signs worth getting checked.",
+  "story": {
+    "headline": "Elbow twinge after DIY?",
+    "body": "Grip only as hard as you need,<br>take regular breaks.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-30",
+  "created": "2027-03-30-2",
+  "status": "approved",
+  "review_warnings": []
+}

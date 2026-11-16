@@ -1,0 +1,131 @@
+{
+  "id": "C-421-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Pushing a wheelbarrow without the back ache",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's back aches<br>after <em>pushing the wheelbarrow</em>",
+      "sub": "A back story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "A <em>full wheelbarrow</em><br>every weekend.",
+      "char": "koala_tired",
+      "bubble": "Why does my back<br>ache after every<br>wheelbarrow run..?",
+      "bubble_type": "thought",
+      "note": "(the garden is never, ever finished..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore back?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. should I<br>cut back on gardening?"
+      },
+      "note": "Hybi started with <mark>how you load and push</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Load it<br><em>over the wheel</em>!",
+      "fact": "Loading <em>over the wheel</em> lets it carry more weight",
+      "left": {
+        "label": "Front-loaded",
+        "char": "koala_happy",
+        "caption": "Weight over the wheel,<br>back <b>works less</b>"
+      },
+      "right": {
+        "label": "Overloaded",
+        "char": "koala_tired",
+        "caption": "Piled up near the handles,<br><em>back takes it all</em>"
+      },
+      "quip": "Keep gardening,<br>just change the load!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>wheelbarrow back care</b>",
+      "sub": "Remember these before you garden!",
+      "sections": [
+        {
+          "heading": "1. Load smart, push smart",
+          "color": "yellow",
+          "lines": [
+            "① Load the weight <em>over the wheel</em>.",
+            "② <em>Half loads</em>, more trips.",
+            "③ Lift with <em>bent knees</em> and your legs.",
+            "④ <em>Turn with your feet</em>, not your back."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down your leg</em>,",
+            "or your leg feels <em>numb or weak</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Back pain at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko pushes a full wheelbarrow around the garden every weekend, and lately her back aches after every run.\n\nPiling the load near the handles means you lift and steady more of the weight, so your back may have to work harder. Loading over the wheel lets the wheel carry more of it.\n\nHybi's tip: load over the wheel, use half loads and more trips, lift with bent knees, and turn with your feet rather than twisting.\n\nPain spreading down your leg, numbness or weakness, or back pain at night are worth an assessment. Our Chatswood and Sydney CBD chiropractors can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#backpain",
+    "#lowerbackpain",
+    "#gardening",
+    "#wheelbarrow",
+    "#sydneychiro",
+    "#chatswoodchiro",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#gardenlife",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why pushing a wheelbarrow can make the back ache, loading over the wheel versus overloading, simple wheelbarrow habits and signs worth getting checked.",
+  "story": {
+    "headline": "Back ache after the wheelbarrow?",
+    "body": "Load over the wheel,<br>half loads, more trips.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-30",
+  "created": "2027-03-30-4",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-424-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Elbow stiffness after a break: getting it moving",
+  "location_tag": "Chatswood",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Koko's elbow won't<br>straighten <em>after the cast</em>",
+      "sub": "An elbow story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "The break has healed,<br>but the elbow's <em>still stiff</em>.",
+      "char": "koala_tired",
+      "bubble": "Why won't my arm<br>straighten or bend<br>all the way..?",
+      "bubble_type": "thought",
+      "note": "(the cast is finally off, too..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff elbow?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. will it just<br>loosen up on its own?"
+      },
+      "note": "Hybi started with <mark>moving little and often</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Move your elbow<br><em>little and often</em>!",
+      "fact": "With your doctor's OK, start with <em>gentle movement</em>",
+      "left": {
+        "label": "Little & often",
+        "char": "koala_happy",
+        "caption": "Gentle moves through the day,<br>elbow <b>can loosen up</b>"
+      },
+      "right": {
+        "label": "Guarding it",
+        "char": "koala_tired",
+        "caption": "Keeping it still to protect it,<br><em>stiffness can stay</em>"
+      },
+      "quip": "No need to fear it,<br>just move gently!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>elbow moving plan</b>",
+      "sub": "Once your doctor says it's OK!",
+      "sections": [
+        {
+          "heading": "1. Move little and often",
+          "color": "yellow",
+          "lines": [
+            "① Gently <em>bend and straighten</em>, 10 times.",
+            "② Turn your palm <em>up and down</em>, 10 times.",
+            "③ Spread it <em>through the day</em>.",
+            "④ Start with <em>light daily tasks</em>, like a cup."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your elbow gets <em>more swollen or hot</em>,",
+            "or your fingers go <em>numb or tingly</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Elbow swollen or hot",
+        "Numb or tingly fingers",
+        "Movement stuck for weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko's broken elbow has healed and the cast is off, but her arm still won't straighten or bend all the way.\n\nElbows often stiffen after a period of being kept still. Once your doctor or treating team says it's OK, gentle movement, little and often, is commonly recommended to help it loosen up.\n\nHybi's tip: gently bend and straighten, turn your palm up and down, spread it through the day, and start with light everyday tasks.\n\nAn elbow that gets more swollen or hot, numb or tingly fingers, or movement that's stuck for weeks are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#elbowrehab",
+    "#fracturerecovery",
+    "#brokenarm",
+    "#rehab",
+    "#elbowstiffness",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why an elbow can stay stiff after a cast, moving little and often versus guarding it, a gentle elbow moving plan and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff elbow after a cast?",
+    "body": "Bend and straighten gently,<br>little and often.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-31",
+  "created": "2027-03-31-4",
+  "status": "approved",
+  "review_warnings": []
+}

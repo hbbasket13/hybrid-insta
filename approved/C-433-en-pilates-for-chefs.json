@@ -1,0 +1,131 @@
+{
+  "id": "C-433-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for chefs",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why chef Momo's<br><em>back feels stiff</em>",
+      "sub": "A kitchen story, with Hybi",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Leaning over the bench</em><br>through a long shift.",
+      "char": "cat_tired",
+      "bubble": "My back is so stiff<br>by the end of service..",
+      "bubble_type": "thought",
+      "note": "(and the orders just keep coming..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Momo met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Stiff back?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "Yeah.. hours of standing<br>and leaning over."
+      },
+      "note": "Hybi started with <mark>moving more and building strength</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't hold<br><em>one position</em> for hours!",
+      "fact": "<em>Change position often</em> and build strength to keep going",
+      "left": {
+        "label": "Switch it up",
+        "char": "cat_happy",
+        "caption": "Change position often,<br>the back <b>works less</b>"
+      },
+      "right": {
+        "label": "Stuck leaning",
+        "char": "cat_tired",
+        "caption": "Hours in one posture,<br><em>back takes it all</em>"
+      },
+      "quip": "Keep cooking,<br>just keep moving!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>kitchen Pilates</b>",
+      "sub": "Before or after your shift!",
+      "sections": [
+        {
+          "heading": "1. At the bench and at home",
+          "color": "yellow",
+          "lines": [
+            "① Rest one foot on a <em>low step</em>, then swap.",
+            "② Bend <em>from the hips</em> to reach down.",
+            "③ <em>10 calf raises</em> during quiet moments.",
+            "④ <em>10 bridges</em> at home."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down your leg</em>, or",
+            "your leg feels <em>numb</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Leg numbness or weakness",
+        "Pain worse at night"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "Chef Momo spends long shifts leaning over the bench, and by the end of service her back feels stiff.\n\nHolding one position for hours can leave your back doing all the work. Changing position often and building strength can help you get through a busy service.\n\nHybi's kitchen tips: rest one foot on a low step and swap, bend from the hips to reach down, and fit in a few calf raises. Clinical Pilates can help build trunk and hip strength for long days on your feet.\n\nPain spreading down a leg or numbness is worth an assessment first. Our Chatswood and Sydney CBD physios run clinical Pilates and can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#chef",
+    "#chefslife",
+    "#hospitality",
+    "#backpain",
+    "#sydneypilates",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#kitchenlife",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Momo explaining why a chef's back can feel stiff, switching positions versus staying stuck, kitchen Pilates tips and signs worth getting checked.",
+  "story": {
+    "headline": "Stiff back after service?",
+    "body": "Foot on a low step,<br>and bend from the hips!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-03",
+  "created": "2027-04-03-4",
+  "status": "approved",
+  "review_warnings": []
+}

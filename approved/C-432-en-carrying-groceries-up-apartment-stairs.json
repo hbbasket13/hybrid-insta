@@ -1,0 +1,131 @@
+{
+  "id": "C-432-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "chiro",
+  "format": "carousel",
+  "topic": "Carrying groceries up apartment stairs",
+  "location_tag": "Sydney CBD",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's back aches<br>after <em>hauling groceries upstairs</em>",
+      "sub": "A back story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "All the bags <em>in one hand</em>,<br>up the apartment stairs.",
+      "char": "kanga_tired",
+      "bubble": "I'll just carry it<br>all in one trip..",
+      "bubble_type": "thought",
+      "note": "(and the lift is out of order again..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore back?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. every time<br>I do the shopping."
+      },
+      "note": "Hybi started with <mark>how you share the load</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't load up<br><em>just one side</em>!",
+      "fact": "A load <em>on one side</em> makes your back work lopsided",
+      "left": {
+        "label": "Split it",
+        "char": "kanga_happy",
+        "caption": "Bags in both hands, close in,<br>the back <b>works less</b>"
+      },
+      "right": {
+        "label": "One-sided",
+        "char": "kanga_tired",
+        "caption": "Everything in one hand,<br><em>you lean to the side</em>"
+      },
+      "quip": "Keep the shopping,<br>just change the carry!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>shopping carry tips</b>",
+      "sub": "Try them on your next shop!",
+      "sections": [
+        {
+          "heading": "1. Split the load, take breaks",
+          "color": "yellow",
+          "lines": [
+            "① <em>Split bags</em> between both hands.",
+            "② Heavy shop? Make <em>two trips</em>.",
+            "③ A <em>backpack</em> is a handy option.",
+            "④ <em>Pause</em> on the landings."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down your leg</em>, or",
+            "your leg feels <em>numb</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Pain spreading down a leg",
+        "Leg numbness or weakness",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu carries all the shopping in one hand up the apartment stairs, and her back aches every time.\n\nWhen the load sits on one side, your body leans and your back can end up working lopsided. Splitting the bags between both hands and keeping them close can ease that.\n\nHybi's carry tips: split the bags between both hands, make two trips when the shop is heavy, try a backpack, and pause on the landings.\n\nPain spreading down a leg, numbness or weakness is worth an assessment first. Our Chatswood and Sydney CBD chiropractors can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chiropractic",
+    "#chiropractor",
+    "#backpain",
+    "#lowbackpain",
+    "#apartmentliving",
+    "#groceries",
+    "#stairs",
+    "#sydneychiro",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why the back can ache after carrying groceries up apartment stairs, split versus one-sided carrying, carry tips and signs worth getting checked.",
+  "story": {
+    "headline": "Sore back after the shopping?",
+    "body": "Split the bags,<br>and pause on the landings!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-02",
+  "created": "2027-04-02-6",
+  "status": "approved",
+  "review_warnings": []
+}

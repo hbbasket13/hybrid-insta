@@ -1,0 +1,131 @@
+{
+  "id": "C-427-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "remedial",
+  "format": "carousel",
+  "topic": "Massage for dog walkers",
+  "location_tag": "Sydney CBD",
+  "patient": "koala",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why dog walker Koko's<br><em>arms and shoulders</em> feel tight",
+      "sub": "A dog walking story, with Hybi",
+      "left": {
+        "char": "koala_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Walking <em>a whole pack</em><br>every single day.",
+      "char": "koala_tired",
+      "bubble": "Every tug on the lead<br>makes my arm ache..",
+      "bubble_type": "thought",
+      "note": "(they all want to go different ways..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Koko met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Achy arm?"
+      },
+      "right": {
+        "char": "koala_neutral",
+        "bubble": "Yeah.. always<br>my right one."
+      },
+      "note": "Hybi started with <mark>how you hold the lead</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't let <em>one arm</em><br>do all the work!",
+      "fact": "One arm on the lead means <em>those muscles</em> take it all",
+      "left": {
+        "label": "Close in",
+        "char": "koala_happy",
+        "caption": "Short lead, close to you,<br>the arm <b>gets pulled less</b>"
+      },
+      "right": {
+        "label": "Arm out",
+        "char": "koala_tired",
+        "caption": "Arm stretched out long,<br><em>shoulder gets dragged</em>"
+      },
+      "quip": "Keep the walks,<br>just change your grip!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>walking tips</b>",
+      "sub": "Try them on your next walk!",
+      "sections": [
+        {
+          "heading": "1. Change how you hold the lead",
+          "color": "yellow",
+          "lines": [
+            "① Hold the lead <em>short and close</em> to you.",
+            "② <em>Swap hands</em> regularly.",
+            "③ After, <em>20-second</em> wrist and arm stretches.",
+            "④ Use <em>massage</em> for tight spots."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your hand goes <em>numb</em> or feels weak,",
+            "or pain <em>gets worse</em> — stop and get advice."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Tingling in hand or arm",
+        "Trouble gripping things",
+        "No better after 2 weeks"
+      ],
+      "char2": "koala_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "koala_happy"
+      }
+    }
+  ],
+  "caption": "Koko walks a whole pack of dogs every day, and lately every tug on the lead makes her right arm and shoulder ache.\n\nHolding the lead in one hand means those muscles do all the work. Keeping the lead short and close to your body can mean less pulling on the arm.\n\nHybi's walking tips: hold the lead short and close, swap hands regularly, and stretch your wrists and arms afterwards. Remedial massage may help tight forearms and shoulders feel easier.\n\nTingling, weakness or trouble gripping is worth an assessment first. Our Chatswood and Sydney CBD remedial massage therapists can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massagetherapy",
+    "#dogwalker",
+    "#dogwalking",
+    "#dogsofinstagram",
+    "#shoulderpain",
+    "#sydneymassage",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#doglife",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Koko explaining why a dog walker's arms and shoulders can feel tight, a close versus outstretched lead grip, walking tips and signs worth getting checked.",
+  "story": {
+    "headline": "Achy arm after the dog walk?",
+    "body": "Short lead, close to you,<br>and swap hands!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-01",
+  "created": "2027-04-01-4",
+  "status": "approved",
+  "review_warnings": []
+}

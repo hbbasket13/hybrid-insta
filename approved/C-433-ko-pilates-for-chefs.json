@@ -1,0 +1,131 @@
+{
+  "id": "C-433-ko",
+  "lang": "ko",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for chefs",
+  "location_tag": "Sydney CBD",
+  "patient": "cat",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "셰프 모모의<br><em>허리가 뻐근한 이유</em>",
+      "sub": "하비와 함께 알아보는 주방 이야기",
+      "left": {
+        "char": "cat_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "같이<br>알아볼까요?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "조리대에 <em>숙인 채</em><br>긴 근무를 하는 모모.",
+      "char": "cat_tired",
+      "bubble": "서비스 끝나면<br>허리가 뻣뻣해..",
+      "bubble_type": "thought",
+      "note": "(주문은 끝없이 들어오고..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "그러다 <b>하이브리드 피지오</b>에서<br>하비를 만났다.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "안녕하세요!<br>하비예요. 허리가<br>불편하군요?"
+      },
+      "right": {
+        "char": "cat_neutral",
+        "bubble": "네.. 오래 서서<br>숙이고 있어요."
+      },
+      "note": "하비는 <mark>자세 바꾸기와 힘 기르기</mark>부터 이야기했다."
+    },
+    {
+      "kind": "compare",
+      "title": "한 자세로<br><em>오래</em> 버티지 않아요!",
+      "fact": "자세를 <em>자주 바꾸고</em> 버틸 힘을 길러요",
+      "left": {
+        "label": "바꿔 가며",
+        "char": "cat_happy",
+        "caption": "자세를 자주 바꾸면<br>허리가 <b>덜 버텨요</b>"
+      },
+      "right": {
+        "label": "숙인 채로",
+        "char": "cat_tired",
+        "caption": "몇 시간 같은 자세로<br><em>허리가 다 버텨요</em>"
+      },
+      "quip": "요리는 계속하고<br>자세만 바꿔요!"
+    },
+    {
+      "kind": "tips",
+      "title": "하비의 <b>주방 필라테스</b>",
+      "sub": "근무 전후로 해봐요!",
+      "sections": [
+        {
+          "heading": "1. 서서도, 쉬는 날에도",
+          "color": "yellow",
+          "lines": [
+            "① 한 발을 <em>낮은 받침</em>에 번갈아 올리기.",
+            "② 숙일 땐 <em>엉덩이부터</em> 접기.",
+            "③ 까치발 들기 <em>10회</em>.",
+            "④ 집에서 브릿지 <em>10회</em>."
+          ]
+        },
+        {
+          "heading": "2. 이럴 땐 바로 멈추세요!",
+          "color": "purple",
+          "lines": [
+            "통증이 <em>다리로 뻗치거나</em>,",
+            "다리가 <em>저리면</em> 멈추고 상담받기!"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "그래도 계속 <em>불편하다면?</em>",
+      "bubble": "원인은 사람마다 달라요.<br><b>정확한 평가</b>가 먼저예요!",
+      "heading": "이런 신호가 있다면 꼭 확인받기",
+      "items": [
+        "다리로 뻗치는 통증",
+        "다리 저림이나 힘 빠짐",
+        "밤에 통증이 심해진다"
+      ],
+      "char2": "cat_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "<b>하이브리드 피지오</b>에서 만나요!<br>예약은 <mark>프로필 bio 링크</mark>에서!",
+      "right": {
+        "char": "cat_happy"
+      }
+    }
+  ],
+  "caption": "조리대에 숙인 채 긴 근무를 하는 셰프 모모. 서비스가 끝나면 허리가 뻣뻣해요.\n\n한 자세로 오래 있으면 허리가 계속 버티게 될 수 있어요. 자세를 자주 바꾸고, 버틸 힘을 기르는 게 도움이 될 수 있어요.\n\n하비의 주방 팁: 한 발을 낮은 받침에 번갈아 올리기, 숙일 땐 엉덩이부터 접기, 까치발 들기 10회. 클리니컬 필라테스는 몸통과 엉덩이 힘을 기르는 데 도움이 될 수 있어요.\n\n다리로 뻗치는 통증이나 저림이 있다면 평가가 먼저예요. 채스우드·시드니 CBD 물리치료사가 지도하는 클리니컬 필라테스가 함께해요. 프로필 링크에서 온라인 예약 👩‍🍳\n\n일반 건강 정보이며 개인 진료를 대신하지 않아요",
+  "hashtags": [
+    "#셰프",
+    "#주방",
+    "#허리통증",
+    "#클리니컬필라테스",
+    "#필라테스",
+    "#시드니필라테스",
+    "#시드니cbd",
+    "#하이브리드피지오",
+    "#시드니한인",
+    "#clinicalpilates",
+    "#chef",
+    "#sydneypilates"
+  ],
+  "alt_text": "하비와 모모가 등장하는 7장짜리 만화 카드뉴스: 셰프의 허리가 뻐근한 이유, 자세 바꾸기 비교, 주방 필라테스 팁, 확인이 필요한 신호.",
+  "story": {
+    "headline": "근무 후 허리가 뻣뻣하다면?",
+    "body": "한 발 받침에 올리고,<br>숙일 땐 엉덩이부터!",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-04-03",
+  "created": "2027-04-03-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": "C-416-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "physio",
+  "format": "carousel",
+  "topic": "Trampoline time with the kids: ankle and knee care",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's knees and ankles<br>ache after <em>trampoline time</em>",
+      "sub": "A knee and ankle story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "Weekend <em>trampoline time</em><br>with the kids.",
+      "char": "kanga_tired",
+      "bubble": "Why do my knees<br>and ankles ache<br>after every bounce..?",
+      "bubble_type": "thought",
+      "note": "(the kids never want to get off..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore knees?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. do I have to<br>give up the trampoline?"
+      },
+      "note": "Hybi started with <mark>how you land</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "It's not the height,<br>it's <em>the landing</em>!",
+      "fact": "<em>Softly bent knees</em> help share the landing load",
+      "left": {
+        "label": "Soft bounces",
+        "char": "kanga_happy",
+        "caption": "Small bounces, soft knees,<br>joints <b>take less</b>"
+      },
+      "right": {
+        "label": "Sky high",
+        "char": "kanga_tired",
+        "caption": "Straight knees, big jumps,<br><em>joints take it all</em>"
+      },
+      "quip": "Keep bouncing,<br>just change the landing!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>trampoline basics</b>",
+      "sub": "Remember these before you bounce!",
+      "sections": [
+        {
+          "heading": "1. Small, soft and taking turns",
+          "color": "yellow",
+          "lines": [
+            "① <em>One at a time</em> — take turns with the kids.",
+            "② Land with <em>softly bent knees</em>.",
+            "③ Keep to <em>small, controlled</em> bounces.",
+            "④ Bounce <em>a few minutes</em>, then rest."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Your ankle <em>rolls and swells</em>, or",
+            "your knee feels like it <em>gives way</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Knee gives way or locks",
+        "Ankle swollen or bruised",
+        "Hard to put weight on it"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu bounces on the trampoline with her kids every weekend, and lately her knees and ankles ache afterwards.\n\nOn a trampoline, the landing matters more than the height. Big jumps on straight knees can send more load into the joints, and bouncing together makes collisions and awkward landings more likely.\n\nHybi's tip: take turns one at a time, land with softly bent knees, keep bounces small and controlled, and rest every few minutes.\n\nA knee that gives way, an ankle that swells or bruises, or trouble putting weight on it are worth an assessment. Our Chatswood and Sydney CBD physios can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#physiotherapy",
+    "#kneepain",
+    "#anklepain",
+    "#trampoline",
+    "#familytime",
+    "#parenting",
+    "#sydneyphysio",
+    "#chatswoodphysio",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#physio",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why trampoline time can make knees and ankles ache, soft landings versus big jumps, simple trampoline basics and signs worth getting checked.",
+  "story": {
+    "headline": "Achy knees after the trampoline?",
+    "body": "One at a time,<br>land with soft knees.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-27",
+  "created": "2027-03-27-2",
+  "status": "approved",
+  "review_warnings": []
+}

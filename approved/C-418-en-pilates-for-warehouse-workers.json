@@ -1,0 +1,131 @@
+{
+  "id": "C-418-en",
+  "lang": "en",
+  "style": "comic",
+  "service": "pilates",
+  "format": "carousel",
+  "topic": "Pilates for warehouse workers",
+  "location_tag": "Chatswood",
+  "patient": "kanga",
+  "slides": [
+    {
+      "kind": "cover",
+      "title": "Why Lulu's back aches<br>after a <em>warehouse shift</em>",
+      "sub": "A clinical Pilates story, with Hybi",
+      "left": {
+        "char": "kanga_tired"
+      },
+      "right": {
+        "char": "hybi_wave",
+        "bubble": "Shall we find<br>out together?"
+      }
+    },
+    {
+      "kind": "scene",
+      "title": "<em>Lifting boxes</em><br>all day long.",
+      "char": "kanga_tired",
+      "bubble": "Why does my back<br>feel so stiff by the<br>end of every shift..?",
+      "bubble_type": "thought",
+      "note": "(another mountain of parcels today..)",
+      "h": 380
+    },
+    {
+      "kind": "duo",
+      "title": "Then Lulu met Hybi<br>at <b>Hybrid Physio</b>.",
+      "left": {
+        "char": "hybi_wave",
+        "bubble": "Hi! I'm Hybi.<br>Sore back?"
+      },
+      "right": {
+        "char": "kanga_neutral",
+        "bubble": "Yeah.. can it get better<br>while I keep working?"
+      },
+      "note": "Hybi started with <mark>how you lift and turn</mark>."
+    },
+    {
+      "kind": "compare",
+      "title": "Don't twist,<br><em>turn with your feet</em>!",
+      "fact": "Twisting while holding a load can <em>add strain</em>",
+      "left": {
+        "label": "Feet turn",
+        "char": "kanga_happy",
+        "caption": "Box close, step around,<br>back <b>works less</b>"
+      },
+      "right": {
+        "label": "Twist",
+        "char": "kanga_tired",
+        "caption": "Holding a box and twisting,<br><em>back takes it all</em>"
+      },
+      "quip": "Same job,<br>just a smarter way to move!"
+    },
+    {
+      "kind": "tips",
+      "title": "Hybi's <b>warehouse back care</b>",
+      "sub": "Remember these on shift!",
+      "sections": [
+        {
+          "heading": "1. Lift smart, take breaks",
+          "color": "yellow",
+          "lines": [
+            "① Hold boxes <em>close to your body</em>.",
+            "② <em>Move your feet</em> to turn, don't twist.",
+            "③ Take <em>short breaks</em> to stand tall.",
+            "④ Pilates can build <em>trunk and hip</em> strength."
+          ]
+        },
+        {
+          "heading": "2. Stop and get checked if…",
+          "color": "purple",
+          "lines": [
+            "Pain <em>spreads down your leg</em>,",
+            "or your leg feels <em>numb or weak</em>."
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "title": "Still <em>uncomfortable</em>?",
+      "bubble": "Causes differ for everyone.<br><b>An assessment</b> comes first!",
+      "heading": "Get it checked if you notice",
+      "items": [
+        "Leg numbness or weakness",
+        "Back pain at night",
+        "No better after 2 weeks"
+      ],
+      "char2": "kanga_surprised"
+    },
+    {
+      "kind": "cta",
+      "title": "Meet Hybi at <b>Hybrid Physio</b>!<br>Book via the <mark>link in bio</mark>",
+      "right": {
+        "char": "kanga_happy"
+      }
+    }
+  ],
+  "caption": "Lulu lifts and carries boxes all day at the warehouse, and lately her back feels stiff by the end of every shift.\n\nTwisting while holding a load, or lifting it far from your body, can add strain to the back. Building trunk and hip strength may help your body handle the load of repeated lifting.\n\nHybi's tip: hold boxes close, move your feet to turn instead of twisting, and take short breaks to stand tall and stretch.\n\nPain spreading down your leg, numbness or weakness, or back pain at night are worth an assessment. Our Chatswood and Sydney CBD physio-led clinical Pilates team can help. Book online via the link in bio\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pilates",
+    "#clinicalpilates",
+    "#backpain",
+    "#warehouselife",
+    "#warehouseworker",
+    "#liftingtechnique",
+    "#sydneypilates",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#sydneyphysio",
+    "#physiotherapy",
+    "#sydney"
+  ],
+  "alt_text": "A seven-slide cartoon carousel with Hybi and Lulu explaining why warehouse shifts can leave the back stiff, turning with the feet versus twisting, simple back-care habits and signs worth getting checked.",
+  "story": {
+    "headline": "Back stiff after every shift?",
+    "body": "Hold it close,<br>turn with your feet.",
+    "char": "hybi_neutral"
+  },
+  "scheduled_date": "2027-03-29",
+  "created": "2027-03-29-4",
+  "status": "approved",
+  "review_warnings": []
+}
