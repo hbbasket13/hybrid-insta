@@ -1,0 +1,232 @@
+{
+  "id": "Q-046-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 46,
+  "service": "physio",
+  "topic": "Exercise you'll actually keep doing",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/exercise-adherence-choosing-what-lasts/",
+  "slides": [
+    {
+      "top": "January Quinn:<br>gym at <em>5am</em>, daily.",
+      "props": [
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "New year, new quokka."
+        }
+      ],
+      "bottom": "Bold. Very bold."
+    },
+    {
+      "top": "Day 3:<br>the alarm goes off.",
+      "props": [
+        "bed",
+        "blanket",
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Snooze button: 1. Quinn: 0."
+    },
+    {
+      "top": "Week 2: the gym bag<br>becomes a <em>doorstop</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "item": "bag",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Motivation has left the chat."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Why can't I stick with anything?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a gentler idea."
+    },
+    {
+      "top": "The best exercise is the<br>one you <mark>keep doing</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Enjoyable and easy to reach beats perfect"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Motivation comes and goes.<br>Habits stay."
+    },
+    {
+      "top": "Tip 1: Pick something<br>you <mark>actually enjoy</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Dancing, walking, a team sport:<br>whatever you'd say yes to."
+    },
+    {
+      "top": "Tip 2: Start <mark>smaller</mark><br>than you think.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Below your limit, then build up."
+    },
+    {
+      "top": "Tip 3: Bring a<br><mark>buddy</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "happy",
+          "item": "phone",
+          "say": "Class at 6? I'm in!"
+        }
+      ],
+      "bottom": "A class or a mate makes<br>skipping much harder."
+    },
+    {
+      "top": "Tip 4: Keep a<br><mark>15-minute</mark> backup.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "For busy weeks.<br>Restarting small still counts."
+    },
+    {
+      "top": "Pain getting in the way?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried",
+          "fx": [
+            "pain_knee"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Make it part of the plan, not a secret"
+        }
+      ],
+      "bottom": "If pain keeps stopping you,<br>get some individual advice."
+    },
+    {
+      "top": "Small steps count.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's new-year plan was the gym at 5am every day. By week two, the gym bag had become a doorstop.\n\nThe best exercise is often the one you'll keep doing. Motivation comes and goes, so enjoyment, convenience and routine usually matter more than finding the perfect program.\n\nThings that often help: choose something you actually like, start below your limit and build gradually, add a class or a training buddy, attach it to an existing routine, and keep a 15-minute fallback for busy weeks. If something isn't working after a fair go, swap it.\n\nIf pain or a health condition keeps stopping you, make it part of the plan and get individual advice.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#exercisehabits",
+    "#motivation",
+    "#fitnessroutine",
+    "#newyear",
+    "#movemore",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's ambitious 5am gym plan fizzles and physio Kay shares tips for choosing exercise that lasts.",
+  "story": {
+    "headline": "Gym plan fizzled<br>by week two?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "item": "bag",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "props": [
+        "clock@860"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-11",
+  "scheduled_time": "18:00",
+  "created": "2026-12-11-2",
+  "status": "approved",
+  "review_warnings": []
+}

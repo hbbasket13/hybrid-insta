@@ -1,0 +1,235 @@
+{
+  "id": "Q-026-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 26,
+  "service": "physio",
+  "topic": "Why nerve pain feels different",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/nerve-pain-neuropathic-explained/",
+  "slides": [
+    {
+      "top": "Quinn's leg felt<br><em>zappy</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "surprised",
+          "fx": [
+            "exclaim",
+            "motion"
+          ],
+          "shout": "BZZT!"
+        }
+      ],
+      "bottom": "Like a phone charger,<br>but in a leg."
+    },
+    {
+      "top": "And it got <em>louder</em><br>at night.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sore",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Burning, pins and needles…<br>at rest?!"
+    },
+    {
+      "top": "Quinn's plan: stretch it<br><em>really hard</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "It did not enjoy that one bit."
+    },
+    {
+      "top": "Time to ask Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Why does this pain feel so different?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay listened to every<br>zap and buzz."
+    },
+    {
+      "top": "Nerve pain can <mark>burn</mark>,<br><mark>zap</mark> or tingle.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Nerves feel different to muscles"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "An irritated nerve can flare at<br>rest and at night."
+    },
+    {
+      "top": "Tip 1: Ease the<br><mark>squeeze</mark>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Change positions often, avoid<br>long, cramped postures."
+    },
+    {
+      "top": "Tip 2: Gentle nerve<br><mark>glides</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Little and often, easy does it.<br>No aggressive stretching."
+    },
+    {
+      "top": "Tip 3: Keep <mark>moving</mark><br>and getting stronger.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Just tweak what stirs it up."
+    },
+    {
+      "top": "Tip 4: Make nights<br><mark>comfier</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "A pillow tweak or new position<br>may ease night symptoms."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Weakness or numbness that's spreading"
+        }
+      ],
+      "bottom": "Bladder or bowel changes, or<br>saddle numbness? Get help soon."
+    },
+    {
+      "top": "Zaps and tingles welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's leg felt zappy, burning and tingly, and it got louder at night. Quinn's plan was to stretch it really hard. It did not enjoy that.\n\nNerve pain often feels different to muscle or joint pain: burning, electric or pins and needles, sometimes at rest or at night. Finding the cause with a proper assessment is the first step.\n\nWhat often helps: change positions and avoid long cramped postures, try gentle nerve glides little and often instead of hard stretching, keep moving and building strength, and set up a comfier sleeping position.\n\nGet checked promptly for spreading numbness, weakness, clumsiness, saddle numbness, bladder or bowel changes, or symptoms after an injury.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#nervepain",
+    "#sciatica",
+    "#pinsandneedles",
+    "#carpaltunnel",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood",
+    "#sydneycbd",
+    "#painscience",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has zappy nerve pain, tries stretching too hard, and learns position, nerve glide, movement and sleep tips from physio Kay.",
+  "story": {
+    "headline": "Burning, zapping<br>or tingling?",
+    "body": "Why nerve pain feels different",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-01",
+  "scheduled_time": "18:00",
+  "created": "2026-12-01-2",
+  "status": "approved",
+  "review_warnings": []
+}

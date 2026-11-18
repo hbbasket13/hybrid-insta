@@ -1,0 +1,227 @@
+{
+  "id": "Q-017-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 17,
+  "service": "physio",
+  "topic": "High-arch feet",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/high-arch-cavus-foot-pain/",
+  "slides": [
+    {
+      "top": "Quinn's wet footprint:<br>just <em>heel and toes</em>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "surprised",
+          "say": "Where's the middle bit?"
+        }
+      ],
+      "bottom": "The arch? Floating."
+    },
+    {
+      "top": "Rolled the same ankle.<br><em>Again</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Third time this year. Rude."
+    },
+    {
+      "top": "Old sneakers: worn out<br>on the <em>outer edge</em>.",
+      "props": [
+        "shoe@800"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Plus a sore ball of the foot."
+    },
+    {
+      "top": "Quinn asked Kay about it.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Are high arches bad?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a look at both feet."
+    },
+    {
+      "top": "A <mark>rigid</mark> high arch<br>absorbs less shock.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Pressure piles onto heel and forefoot"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Arch shape can play a part, but<br>it's rarely the whole story."
+    },
+    {
+      "top": "Tip 1: Pick <mark>stable</mark> shoes.",
+      "props": [
+        "shoe@780"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Roomy toe box, wider sole,<br>firm heel. Not mega-squishy."
+    },
+    {
+      "top": "Tip 2: Ask about<br><mark>custom insoles</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Generic arch pushers can make<br>a high arch feel worse."
+    },
+    {
+      "top": "Tip 3: Train <mark>balance</mark><br>and ankle strength.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Outer-ankle muscles help<br>stop you rolling over."
+    },
+    {
+      "top": "Tip 4: Finish rehab on<br><mark>old sprains</mark>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Unfinished rehab predicts more<br>sprains than arch shape does."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "One foot only, or the arch is rising"
+        }
+      ],
+      "bottom": "Numb feet, tripping or weaker<br>legs? See your GP."
+    },
+    {
+      "top": "Every arch is welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's wet footprint showed just a heel and toes, and the same ankle kept rolling.\n\nA rigid high arch doesn't flatten much under load, so it can absorb less shock and pile pressure onto the heel and ball of the foot. Arch shape can play a part, but it's rarely the whole story.\n\nWhat often helps: stable shoes with a roomy toe box and firm heel, asking about custom insoles rather than generic arch pushers, balance and outer-ankle strength work, and properly finishing rehab after any sprain.\n\nIf only one foot has a high arch, the arch is getting higher, or you notice numb feet, tripping or weaker legs, see your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#higharches",
+    "#footpain",
+    "#anklesprain",
+    "#footwear",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood",
+    "#feethealth",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka discovers high arches at the beach, keeps rolling an ankle, and learns four foot-friendly tips from physio Kay.",
+  "story": {
+    "headline": "High arches and<br>rolled ankles?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "props": [
+        "shoe@800"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-27",
+  "created": "2026-11-27-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

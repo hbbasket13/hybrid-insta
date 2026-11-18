@@ -1,0 +1,234 @@
+{
+  "id": "Q-048-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 48,
+  "service": "physio",
+  "topic": "Balance in midlife",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/balance-decline-midlife-training/",
+  "slides": [
+    {
+      "top": "Quinn put on socks<br><em>standing up</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "surprised",
+          "shout": "Whoa—whoa—WHOA!",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "The wall caught Quinn. Again."
+    },
+    {
+      "top": "Then a trail walk.<br>One <em>tiny</em> root.",
+      "props": [
+        "hill",
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "worried",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Wobble level: jelly on a train."
+    },
+    {
+      "top": "Quinn tested it:<br>one leg, <em>30 seconds</em>.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Made it to 9. Just about."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "say": "Is my balance retiring early?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had good news."
+    },
+    {
+      "top": "Balance fades quietly<br>but <mark>trains fast</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Eyes, inner ear and joints work as a team"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Less use, slower signals.<br>Practice wakes them up."
+    },
+    {
+      "top": "Tip 1: Stand on <mark>one leg</mark><br>while you brush.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Near something to hold at first."
+    },
+    {
+      "top": "Tip 2: Then make it<br>a little <mark>harder</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "sleepy",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Eyes closed or head turns.<br>Too easy = not training."
+    },
+    {
+      "top": "Tip 3: Single-leg<br><mark>strength</mark>.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Step-ups, split squats,<br>single-leg calf raises."
+    },
+    {
+      "top": "Tip 4: Walk on<br><mark>bumpy ground</mark>.",
+      "props": [
+        "trees",
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Grass, sand, trails. Short and<br>often beats long and rare."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden balance changes or dizziness"
+        }
+      ],
+      "bottom": "Numbness or other new<br>symptoms? See your GP first.",
+      "props": [
+        "chair@310"
+      ]
+    },
+    {
+      "top": "Steady does it.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn wobbled putting on socks, stumbled on a trail root, then managed just 9 seconds on one leg.\n\nBalance relies on your eyes, inner ear and the position sense in your joints and muscles. These can slowly fade from midlife, often unnoticed, but balance tends to respond well to training, often within weeks.\n\nThings that often help: single-leg stands while brushing your teeth (near support), making it harder with eyes closed or head turns, single-leg strength like step-ups and split squats, and walking on grass, sand or trails. Short and often works well.\n\nSudden balance changes, dizziness, or numbness with other new symptoms need a medical check first. See your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#balance",
+    "#balancetraining",
+    "#healthyageing",
+    "#midlife",
+    "#fallsprevention",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka discovers wobbly balance while putting on socks and learns simple balance training tips from physio Kay.",
+  "story": {
+    "headline": "Wobbly putting<br>on your socks?",
+    "body": "Try Quinn's one-leg test",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "props": [
+        "clock@860"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-12",
+  "scheduled_time": "18:00",
+  "created": "2026-12-12-2",
+  "status": "approved",
+  "review_warnings": []
+}

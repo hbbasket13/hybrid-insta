@@ -1,0 +1,220 @@
+{
+  "id": "Q-034-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 34,
+  "service": "physio",
+  "topic": "Rowing: backs and ribs",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/rowing-injuries-back-ribs/",
+  "slides": [
+    {
+      "top": "Winter. Quinn took<br>rowing <em>indoors</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "proud",
+          "say": "One hour on the erg. Easy."
+        }
+      ],
+      "bottom": "The rowing machine had other ideas."
+    },
+    {
+      "top": "Minute 42.<br>Back: <em>rounded</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Technique quietly left the room."
+    },
+    {
+      "top": "Deep breath…<br>ribs: <em>ouch</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Even a sneeze felt personal."
+    },
+    {
+      "top": "Quinn rowed over<br>to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "My back and ribs are both upset!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay listened first."
+    },
+    {
+      "top": "Long, tired pieces can<br>add <mark>back load</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Form slips as fatigue builds"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Sudden load changes add up, too."
+    },
+    {
+      "top": "Tip 1: Break up<br>long <mark>erg pieces</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "say": "Bike day? Don't mind if I do."
+        }
+      ],
+      "bottom": "Shorter blocks, or swap some<br>sessions for the bike."
+    },
+    {
+      "top": "Tip 2: Build <mark>hips</mark><br>and trunk.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Then practise holding position<br>when you're tired."
+    },
+    {
+      "top": "Tip 3: Change things<br><em>one at a time</em>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Training load, rigging, blades —<br>ease into each change."
+    },
+    {
+      "top": "Tip 4: Fuel your <mark>bones</mark>.",
+      "props": [
+        "table"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Eat enough to match training —<br>bones need fuel, too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Rib pain with deep breaths or coughs"
+        }
+      ],
+      "bottom": "Back pain with numbness or<br>night pain: same day."
+    },
+    {
+      "top": "Row steady, row strong.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn moved rowing indoors for winter, planned an hour on the erg, and met a rounded back and grumpy ribs by minute 42.\n\nRowing loads the lower back thousands of times a week, and long, tired pieces can let technique slip. Sudden changes, like a new season or switching indoors, are common times for aches to build.\n\nWhat often helps: break up long erg sessions or swap some for cycling, build hip and trunk strength, change load, rigging or blades one at a time, and eat enough to match your training.\n\nRib pain with deep breaths, coughing or sneezing should be assessed rather than rowed through. Back pain with numbness, leg weakness or constant night pain needs a same-day check.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#rowing",
+    "#indoorrowing",
+    "#ergtraining",
+    "#backpain",
+    "#ribpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sportsphysio"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes a long rowing machine session and learns from physio Kay to break up erg pieces, build hip and trunk strength, change one thing at a time and fuel well.",
+  "story": {
+    "headline": "Rowing aches in<br>your back or ribs?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "window"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-05",
+  "scheduled_time": "18:00",
+  "created": "2026-12-05-2",
+  "status": "approved",
+  "review_warnings": []
+}

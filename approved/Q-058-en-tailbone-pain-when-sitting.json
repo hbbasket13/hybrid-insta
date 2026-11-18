@@ -1,0 +1,229 @@
+{
+  "id": "Q-058-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 58,
+  "service": "physio",
+  "topic": "Tailbone pain when sitting",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/coccyx-tailbone-pain-guide/",
+  "slides": [
+    {
+      "top": "Quinn sat down. The chair<br>had <em>other plans</em>.",
+      "props": [
+        "chair@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "surprised",
+          "fx": [
+            "exclaim",
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Why does it even have wheels?"
+    },
+    {
+      "top": "Now every seat feels<br>like a <em>rock</em>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "sore",
+          "fx": [
+            "pain_bum"
+          ]
+        }
+      ],
+      "bottom": "The comfy couch? Also a traitor."
+    },
+    {
+      "top": "Leaning back: <em>worse</em>.<br>Standing: fine.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Quinn now stands in meetings."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "Why does sitting hurt my tailbone?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "It's a common one."
+    },
+    {
+      "top": "Your tailbone takes weight<br>when you <mark>lean back</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Slumping piles pressure on it"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Tight pelvic floor muscles can<br>keep it grumbling, too."
+    },
+    {
+      "top": "Tip 1: A <mark>wedge cushion</mark><br>with a cut-out.",
+      "props": [
+        "chair",
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "It takes pressure off the tip<br>and supports the thighs."
+    },
+    {
+      "top": "Tip 2: Sit tall on your<br><mark>sitting bones</mark>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Less slump, less tailbone load."
+    },
+    {
+      "top": "Tip 3: Break up long<br><mark>sitting</mark> spells.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Stand, stroll, then sit again."
+    },
+    {
+      "top": "Tip 4: Gentle hip and back<br><mark>mobility</mark>, then strength.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Warmth can help with comfort.<br>Many cases settle over weeks."
+    },
+    {
+      "top": "See a doctor soon if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Saddle numbness or bladder changes"
+        }
+      ],
+      "bottom": "A big fall, fever, weight loss<br>or steadily worsening pain."
+    },
+    {
+      "top": "Sore tailbone? Say hi.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn sat down, the office chair rolled away, and now every seat feels like a rock, especially when leaning back.\n\nYour tailbone takes more weight when you lean back or slump, and tight pelvic floor muscles can keep it grumbling.\n\nThings that often help: a wedge cushion with a cut-out to take pressure off, sitting tall on your sitting bones, breaking up long sitting spells, and gentle hip and back mobility before building strength. Warmth can help with comfort, and many cases settle over weeks to a few months.\n\nSee a doctor promptly after a big fall, or with saddle numbness, bladder or bowel changes, fever, unexplained weight loss, or pain that keeps getting worse.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#tailbonepain",
+    "#coccyx",
+    "#sittingpain",
+    "#pelvichealth",
+    "#officelife",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka lands hard when a chair rolls away and physio Kay shares tips for tailbone pain when sitting.",
+  "story": {
+    "headline": "Tailbone sore<br>when you sit?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "sore",
+          "fx": [
+            "pain_bum"
+          ]
+        }
+      ],
+      "props": [
+        "chair"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-17",
+  "scheduled_time": "18:00",
+  "created": "2026-12-17-2",
+  "status": "approved",
+  "review_warnings": []
+}

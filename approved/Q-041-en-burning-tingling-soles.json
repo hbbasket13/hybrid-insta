@@ -1,0 +1,232 @@
+{
+  "id": "Q-041-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 41,
+  "service": "physio",
+  "topic": "Burning, tingling soles",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/tarsal-tunnel-syndrome-foot-nerve/",
+  "slides": [
+    {
+      "top": "Quinn got a job<br>at a <em>shoe shop</em>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "I live among shoes now."
+        }
+      ],
+      "bottom": "Irony was waiting backstage."
+    },
+    {
+      "top": "By 5pm: soles <em>buzzing</em><br>like a phone on silent.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Burning, tingling,<br>pins and needles."
+    },
+    {
+      "top": "And at night?<br>Even <em>louder</em>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Feet: fizzy. Sleep: cancelled."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Why are my feet fizzing?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay started with the ankle."
+    },
+    {
+      "top": "A nerve runs through a<br><mark>tunnel</mark> by the ankle.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Squeeze the tunnel, the nerve complains"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Swelling, flat arches or<br>old sprains can crowd it."
+    },
+    {
+      "top": "Tip 1: Shoes with<br><mark>room to breathe</mark>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Skip tight straps and snug boots."
+    },
+    {
+      "top": "Tip 2: Calm the<br><mark>swelling</mark>.",
+      "props": [
+        "chair",
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Feet up for a bit<br>after a long day."
+    },
+    {
+      "top": "Tip 3: Gentle nerve<br>glides + <mark>strength</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calf and foot work, little<br>and often."
+    },
+    {
+      "top": "Tip 4: Flare-up? Ease off,<br>then <mark>build back</mark>.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Think months, not days.<br>Steady beats intense."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "New numbness, weakness or burning pain"
+        }
+      ],
+      "bottom": "Burning feet with diabetes?<br>Raise it with your GP.",
+      "props": [
+        "chair@310"
+      ]
+    },
+    {
+      "top": "Happy soles, happy Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn started a job on the shop floor, and by the end of each shift the soles were burning and tingling, even worse at night.\n\nOne possible reason: a nerve runs through a narrow tunnel behind the inner ankle bone, and swelling, a flattening arch or an old sprain can crowd it. Your lower back can cause foot symptoms too, so the whole chain is worth checking.\n\nThings that often help: roomy, supportive shoes without tight straps, settling swelling, gentle nerve glides with calf and foot strengthening, and easing off in flare-ups before building back. Progress is usually gradual.\n\nAny new numbness, weakness or burning foot pain is worth getting assessed. If you have diabetes, talk to your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#footpain",
+    "#tarsaltunnel",
+    "#nervepain",
+    "#burningfeet",
+    "#onyourfeet",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets burning, tingling soles from a standing job and learns footwear, swelling, nerve-glide and pacing tips from physio Kay.",
+  "story": {
+    "headline": "Burning, tingling<br>soles by 5pm?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "props": [
+        "shoe@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-09",
+  "scheduled_time": "09:00",
+  "created": "2026-12-09-1",
+  "status": "approved",
+  "review_warnings": []
+}

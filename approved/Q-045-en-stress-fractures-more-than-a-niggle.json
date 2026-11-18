@@ -1,0 +1,235 @@
+{
+  "id": "Q-045-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 45,
+  "service": "physio",
+  "topic": "Stress fractures: more than a niggle",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/stress-fracture-bone-injury-guide/",
+  "slides": [
+    {
+      "top": "Quinn signed up for<br>a <em>half marathon</em>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined",
+          "say": "Six weeks. Easy."
+        }
+      ],
+      "bottom": "Training plan: 'just add more'."
+    },
+    {
+      "top": "Week 3: a tiny spot<br>on the shin <em>nags</em>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "At first, only late in the run…"
+    },
+    {
+      "top": "Then earlier.<br>Then <em>while walking</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Quinn: 'It's just a niggle.'"
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "say": "It's nothing, right? …Right?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked Quinn to point to it."
+    },
+    {
+      "top": "Bone repairs itself —<br>but it needs <mark>time</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Load outran repair. Bone got grumpy."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Fingertip-sized pain that keeps<br>building is a clue."
+    },
+    {
+      "top": "Tip 1: <em>Don't</em> run through<br>pinpoint pain.",
+      "props": [
+        "chair",
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "neutral",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Pushing on usually makes it worse."
+    },
+    {
+      "top": "Tip 2: Build mileage<br><mark>gradually</mark>.",
+      "props": [
+        "calendar@840",
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Watch hills and surface<br>changes too."
+    },
+    {
+      "top": "Tip 3: Eat enough<br>for your <mark>training</mark>.",
+      "props": [
+        "table@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Bone needs fuel to rebuild."
+    },
+    {
+      "top": "Tip 4: Cross-train<br>while it <mark>heals</mark>.",
+      "props": [
+        "water"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Then strength work and a<br>graded return to running."
+    },
+    {
+      "top": "Get it checked soon if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain at rest or at night"
+        }
+      ],
+      "bottom": "Groin, hip or top-of-foot pain?<br>See your GP promptly."
+    },
+    {
+      "top": "Steady wins the race.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn signed up for a half marathon and kept adding kilometres. A tiny sore spot on the shin showed up late in runs, then earlier, then on walks.\n\nBone is always repairing itself. When training load outpaces that repair, a bone stress injury can build. Pain you can cover with a fingertip that keeps progressing is a common clue.\n\nThings that often help: not running through focal, worsening pain, building volume gradually, eating enough for your training, and cross-training while it heals, followed by strength work and a graded return to running.\n\nPain at rest or at night, or pain in the groin, hip or top of the foot, should be assessed promptly. See your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#stressfracture",
+    "#runninginjury",
+    "#shinpain",
+    "#halfmarathon",
+    "#runners",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka trains for a half marathon, ignores a growing shin niggle, and learns about bone stress and smart training from physio Kay.",
+  "story": {
+    "headline": "A niggle that keeps<br>getting worse?",
+    "body": "When it might be bone stress",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-11",
+  "scheduled_time": "09:00",
+  "created": "2026-12-11-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,229 @@
+{
+  "id": "Q-031-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 31,
+  "service": "physio",
+  "topic": "CrossFit and injury risk",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/crossfit-injuries-prevention/",
+  "slides": [
+    {
+      "top": "Quinn joined a<br><em>CrossFit</em> box.",
+      "props": [
+        "dumbbell@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Week one. I'm basically an athlete."
+        }
+      ],
+      "bottom": "The whiteboard said “AMRAP”."
+    },
+    {
+      "top": "Rep 47.<br>Form: <em>gone</em>.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "The clock kept going. So did Quinn."
+    },
+    {
+      "top": "Next morning.<br>Shoulders: <em>on strike</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Even waving hello felt heroic."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "worried",
+          "say": "Is CrossFit out to get me?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a calmer take."
+    },
+    {
+      "top": "<mark>Fatigue</mark> is often<br>where form slips.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Tired reps change how you move"
+        },
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Backs round, shoulders take over."
+    },
+    {
+      "top": "Tip 1: End the set when<br><mark>form</mark> breaks.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "wink",
+          "say": "Clock says go. Form says no."
+        }
+      ],
+      "bottom": "Not when the timer or<br>your muscles decide."
+    },
+    {
+      "top": "Tip 2: Scale <mark>steadily</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Pick a version you can finish<br>in good positions."
+    },
+    {
+      "top": "Tip 3: Strict strength<br><em>before</em> kipping.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Build strict pull-ups first,<br>then add the swing."
+    },
+    {
+      "top": "Tip 4: Warm up for<br>today's <mark>positions</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "happy"
+        }
+      ],
+      "bottom": "And ease in, especially in<br>your first six months."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain before you start, or in one spot"
+        }
+      ],
+      "bottom": "Severe pain or dark urine?<br>See a doctor the same day."
+    },
+    {
+      "top": "Scaled, steady, still strong.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined a CrossFit box, chased the clock on rep 47, and woke up with shoulders on strike.\n\nFatigue is often where things go wrong: as a set wears on, technique can slip, the back may round and the shoulders start doing extra work.\n\nWhat often helps: end the set when your form breaks, not when the timer says so; scale consistently; build strict strength before kipping; and warm up for the positions the workout asks for, easing in over your first months. Don't train through a familiar ache.\n\nIf pain is there before you start, or keeps showing up in one spot, get it checked. Severe muscle pain out of proportion to a session or dark urine needs a same-day medical review.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#crossfit",
+    "#crossfitinjury",
+    "#functionalfitness",
+    "#shoulderpain",
+    "#backpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#trainsmart"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes a CrossFit workout and learns from physio Kay to stop sets when form breaks, scale steadily, build strict strength and warm up well.",
+  "story": {
+    "headline": "CrossFit leaving<br>you sore?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined"
+        }
+      ],
+      "props": [
+        "dumbbell@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-04",
+  "scheduled_time": "09:00",
+  "created": "2026-12-04-1",
+  "status": "approved",
+  "review_warnings": []
+}

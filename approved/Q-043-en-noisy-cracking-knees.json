@@ -1,0 +1,224 @@
+{
+  "id": "Q-043-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 43,
+  "service": "physio",
+  "topic": "Noisy, cracking knees",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/noisy-knees-crepitus-explained/",
+  "slides": [
+    {
+      "top": "Quinn squatted to<br>pick up <em>one sock</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "surprised",
+          "shout": "CRRRACK!",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "The whole office heard it."
+    },
+    {
+      "top": "Stairs now sound like<br><em>bubble wrap</em>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "worried",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Pop. Crackle. Pop."
+    },
+    {
+      "top": "Quinn googled it.<br><em>Big mistake</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone",
+          "think": "Bone on bone?? At my age??"
+        }
+      ],
+      "bottom": "3am internet: not a great source."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried",
+          "say": "Are my knees falling apart?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay's first question:<br>does it hurt?"
+    },
+    {
+      "top": "Noise without pain is<br>usually <mark>harmless</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Often just gas bubbles or gliding tendons"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Lots of pain-free knees crackle."
+    },
+    {
+      "top": "Tip 1: Strong legs make<br><mark>happy knees</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Quads, glutes and calves —<br>even if the noise stays."
+    },
+    {
+      "top": "Tip 2: Keep taking<br><mark>the stairs</mark>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Painless noise?<br>No reason to stop."
+    },
+    {
+      "top": "Tip 3: Build up<br><mark>gradually</mark>.",
+      "props": [
+        "hill",
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Back to squats, runs or hikes?<br>Add a little each week."
+    },
+    {
+      "top": "Tip 4: Ignore the<br><mark>scary labels</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "wink",
+          "say": "Crunchy? I prefer 'crispy'."
+        }
+      ],
+      "bottom": "Moving more is usually kinder<br>to knees than moving less."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "The noise comes with pain or swelling"
+        }
+      ],
+      "bottom": "Or locking, catching, giving<br>way, or after an injury."
+    },
+    {
+      "top": "Snap, crackle, welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's knees started crackling on every squat and staircase, and a late-night search made it sound much worse than it was.\n\nKnee noise without pain is very common and usually harmless. It's often gas bubbles in the joint fluid or tendons gliding over bone, and it doesn't mean your knee is wearing out.\n\nThings that often help: strengthening quads, glutes and calves, staying active and using stairs, and building load back gradually when returning to squats, running or hiking.\n\nIf the noise comes with pain, swelling, locking, catching, giving way, or started after an injury, it's worth getting it assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneepain",
+    "#noisyknees",
+    "#crepitus",
+    "#kneehealth",
+    "#strengthtraining",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka worries about crackling knees and learns from physio Kay that painless noise is common, plus strength, stairs and pacing tips.",
+  "story": {
+    "headline": "Knees crackling<br>on the stairs?",
+    "body": "Why noise alone is usually okay",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "props": [
+        "stairs"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-10",
+  "scheduled_time": "09:00",
+  "created": "2026-12-10-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,234 @@
+{
+  "id": "Q-022-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 22,
+  "service": "physio",
+  "topic": "Cricket: bowlers' backs, fielders' shoulders",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/cricket-injuries-bowlers-fielders/",
+  "slides": [
+    {
+      "top": "Summer means one thing:<br><em>cricket</em>.",
+      "props": [
+        "bat@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "item": "ball",
+          "shout": "HOWZAT?!"
+        }
+      ],
+      "bottom": "Quinn's been 'warming up'<br>all week."
+    },
+    {
+      "top": "Nets, school, club<br><em>and</em> backyard.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "That's a lot of overs<br>for one back."
+    },
+    {
+      "top": "Now one side of the<br>back <em>grumbles</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "Worse each spell,<br>better with rest."
+    },
+    {
+      "top": "Quinn asked Kay<br>between innings.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ],
+          "say": "Back AND shoulder. Is it cricket?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the scorebook."
+    },
+    {
+      "top": "Bowling twists and bends<br>the back with <mark>big force</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Big jumps in overs load the back"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Sudden spikes in bowling or<br>throwing are a common trigger."
+    },
+    {
+      "top": "Tip 1: Count <mark>every</mark> ball.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Nets, school, club, backyard —<br>it all adds up."
+    },
+    {
+      "top": "Tip 2: Build up<br><mark>gradually</mark>.",
+      "props": [
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "happy",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Add bowling and throwing slowly<br>across the preseason weeks."
+    },
+    {
+      "top": "Tip 3: Strength for trunk,<br>hips and <mark>shoulders</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Nordic curls may help hammies<br>cope with quick singles."
+    },
+    {
+      "top": "Tip 4: Warm up first —<br>and wear the <mark>helmet</mark>.",
+      "props": [
+        "bat@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Before bowling or throwing at<br>full intensity."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "One-sided back pain in a young bowler"
+        }
+      ],
+      "bottom": "Or back pain lasting a week or<br>two, or returning after rest."
+    },
+    {
+      "top": "Good luck this season!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bowled in the nets, at school, at club and in the backyard. Then one side of the back started to grumble, and the shoulder joined in.\n\nFast bowling bends and twists the lower back under big force, and boundary throws load the shoulder. Sudden jumps in bowling or throwing, often at the start of the season, are a common trigger.\n\nWhat often helps: count every ball you bowl, build up gradually through preseason, strengthen your trunk, hips, shoulders and hamstrings, warm up properly, and wear your helmet.\n\nIf a young bowler has one-sided back pain, pain lasting a week or two, or pain that comes back after rest, get it checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#cricket",
+    "#fastbowling",
+    "#cricketinjuries",
+    "#juniorcricket",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood",
+    "#sydneycbd",
+    "#sportsphysio",
+    "#lowbackpain"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka bowls too many overs, gets a sore back and shoulder, and learns workload, preseason, strength and warm-up tips from physio Kay.",
+  "story": {
+    "headline": "Bowled a few<br>too many overs?",
+    "body": "4 cricket tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "props": [
+        "bat@860"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-29",
+  "scheduled_time": "18:00",
+  "created": "2026-11-29-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,224 @@
+{
+  "id": "Q-028-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 28,
+  "service": "physio",
+  "topic": "The grinding shoulder blade",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/snapping-scapula-grinding-shoulder-blade/",
+  "slides": [
+    {
+      "top": "Quinn's shoulder blade<br>makes a <em>noise</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ],
+          "shout": "CRUNCH!"
+        }
+      ],
+      "bottom": "Like stepping on autumn leaves."
+    },
+    {
+      "top": "Quinn turned it into a<br><em>party trick</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "wink",
+          "say": "Wanna hear it again?"
+        }
+      ],
+      "bottom": "Encore after encore."
+    },
+    {
+      "top": "Now it <em>aches</em> after<br>long desk days.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "The party trick lost its sparkle."
+    },
+    {
+      "top": "Quinn asked Kay<br>what was going on.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is my shoulder blade grinding away?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a calm answer."
+    },
+    {
+      "top": "The blade <mark>glides</mark> over<br>the ribs on muscle.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "The noise itself is usually harmless"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Overhead work or posture can<br>change the glide and add noise."
+    },
+    {
+      "top": "Tip 1: Retire the<br><mark>party trick</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Clicking it on purpose can keep<br>the area cranky."
+    },
+    {
+      "top": "Tip 2: Strengthen around<br>the <mark>shoulder blade</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Band work for the muscles that<br>steady the blade on the ribs."
+    },
+    {
+      "top": "Tip 3: Keep your<br><mark>mid-back</mark> moving.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A stiff upper back can change<br>how the blade moves."
+    },
+    {
+      "top": "Tip 4: Ease the <mark>overhead</mark><br>and reaching load.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy"
+        }
+      ],
+      "bottom": "And check your desk set-up too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Lots of pain, or weakness in the arm"
+        }
+      ],
+      "bottom": "Or if it started after<br>a fracture or injury."
+    },
+    {
+      "top": "Crunchy shoulders welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's shoulder blade made a crunching noise, so naturally it became a party trick. Then it started aching after long desk days.\n\nThe shoulder blade glides over the ribs with muscle in between. Overhead work, posture and muscle changes can alter that glide and add noise. The noise itself is usually harmless; it's pain or limited function that's worth working on.\n\nWhat often helps: stop clicking it on purpose, strengthen the muscles that steady the shoulder blade, keep your mid-back moving, and ease overhead and reaching load while checking your desk set-up.\n\nIf there's significant pain, weakness, or it started after a fall or fracture, get it checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#shoulderblade",
+    "#scapula",
+    "#shoulderpain",
+    "#deskjob",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood",
+    "#sydneycbd",
+    "#posture",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka turns a crunchy shoulder blade into a party trick, then learns strength, mobility and load tips from physio Kay.",
+  "story": {
+    "headline": "Crunchy<br>shoulder blade?",
+    "body": "Quinn's party trick, explained",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-02",
+  "scheduled_time": "18:00",
+  "created": "2026-12-02-2",
+  "status": "approved",
+  "review_warnings": []
+}

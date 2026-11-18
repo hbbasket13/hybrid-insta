@@ -1,0 +1,227 @@
+{
+  "id": "Q-042-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 42,
+  "service": "physio",
+  "topic": "Pain under the big toe",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/sesamoid-pain-big-toe-guide/",
+  "slides": [
+    {
+      "top": "Quinn joined a<br><em>dance class</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "say": "I was born for this!",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "The big toe had other plans."
+    },
+    {
+      "top": "Every push-off:<br><em>ouch</em>, right under the toe.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "One tiny spot. Very loud."
+    },
+    {
+      "top": "Party night.<br>Heels? <em>Absolutely not</em>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "think": "Sneakers with a dress?"
+        }
+      ],
+      "bottom": "The toe has vetoed fashion."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried",
+          "say": "It's like a pebble in my foot!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay pressed one spot. Bingo.",
+      "props": [
+        "chair@310"
+      ]
+    },
+    {
+      "top": "Two tiny bones sit<br><mark>under the big toe</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "They take big loads at push-off"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Lots of dancing or running<br>can irritate them."
+    },
+    {
+      "top": "Tip 1: Take the<br><mark>pressure off</mark>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Stiffer soles or a cut-out pad<br>can offload the spot."
+    },
+    {
+      "top": "Tip 2: Pause heels and<br><mark>thin, bendy shoes</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Less barefoot time on hard floors."
+    },
+    {
+      "top": "Tip 3: Keep fit the<br><mark>low-impact</mark> way.",
+      "props": [
+        "water"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Swim or cycle while jumping<br>and dance take a break."
+    },
+    {
+      "top": "Tip 4: Rebuild slowly<br>once it <mark>settles</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calf and foot strength, then<br>a gradual return to dance."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain isn't easing with offloading"
+        }
+      ],
+      "bottom": "Swelling or bruising<br>under the toe? Get it seen."
+    },
+    {
+      "top": "Dance on — gently.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined a dance class, and soon every push-off brought a sharp spot of pain right under the big toe.\n\nTwo pea-sized bones sit inside the tendon under the big toe joint and take a lot of load at push-off. Lots of dancing, running or court sport can irritate them.\n\nThings that often help: offloading with stiffer soles or a cut-out pad, pausing heels and thin, bendy shoes, keeping fit with swimming or cycling, then rebuilding calf and foot strength with a gradual return. Settling can take several weeks, and going back too fast often sets it off again.\n\nIf pain isn't easing with offloading, or there's swelling or bruising, get it assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#footpain",
+    "#bigtoe",
+    "#sesamoid",
+    "#dancerlife",
+    "#runners",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets pain under the big toe from dance class and learns offloading, footwear, cross-training and rebuilding tips from physio Kay.",
+  "story": {
+    "headline": "Pain right under<br>your big toe?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "props": [
+        "shoe@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-09",
+  "scheduled_time": "18:00",
+  "created": "2026-12-09-2",
+  "status": "approved",
+  "review_warnings": []
+}

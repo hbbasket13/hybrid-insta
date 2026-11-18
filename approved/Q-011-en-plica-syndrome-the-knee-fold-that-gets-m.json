@@ -1,0 +1,238 @@
+{
+  "id": "Q-011-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 11,
+  "service": "physio",
+  "topic": "Plica syndrome: the knee fold that gets missed",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/knee-plica-syndrome-guide-2/",
+  "slides": [
+    {
+      "top": "Quinn's knee started<br>making <em>sound effects</em>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "surprised",
+          "say": "Did my knee just… click?",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Not the soundtrack Quinn wanted."
+    },
+    {
+      "top": "Stairs? <em>Ouch</em>.<br>Spin class? Also ouch.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Mostly on the inner side<br>of the kneecap."
+    },
+    {
+      "top": "A long movie.<br>An even <em>longer</em> knee ache.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Sitting still with bent knees:<br>not Quinn's friend."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is my kneecap broken?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked a few things."
+    },
+    {
+      "top": "Many knees have a <mark>plica</mark>:<br>a soft fold in the lining.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "That fold may be irritated"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Usually quiet. Lots of bending<br>can make it cranky."
+    },
+    {
+      "top": "Tip 1: Ease off the<br><mark>repetitive bending</mark>.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink",
+          "say": "Lift, please!"
+        }
+      ],
+      "bottom": "Fewer deep squats, stairs and<br>bike kms for a little while."
+    },
+    {
+      "top": "Tip 2: Build <mark>thigh and hip</mark><br>strength.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Strong quads and hips help<br>share the load at the kneecap."
+    },
+    {
+      "top": "Tip 3: Check your<br><mark>saddle height</mark>.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "determined",
+          "think": "Too low = more knee bend"
+        }
+      ],
+      "bottom": "A low bike seat means extra<br>bending with every pedal."
+    },
+    {
+      "top": "Tip 4: Give it <mark>time</mark>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Irritated tissue often settles<br>over several weeks."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Locking, giving way or big swelling"
+        }
+      ],
+      "bottom": "Not easing with rehab?<br>Worth a proper look."
+    },
+    {
+      "top": "Clicky knees welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's knee started clicking and aching on the inner side of the kneecap, especially on stairs, at spin class and during long movies.\n\nMany knees have a plica, a soft fold in the joint lining. It's usually quiet, but lots of repetitive bending or a knock can irritate it, and it's often mistaken for other kneecap pain.\n\nWhat often helps: ease off repetitive bending for a while, build thigh and hip strength, check your bike saddle isn't too low, and give irritated tissue several weeks to settle. Painless clicking on its own is usually harmless.\n\nIf your knee locks, gives way, swells a lot, or isn't easing with rehab, get it assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneepain",
+    "#plica",
+    "#kneeclicking",
+    "#cyclinglife",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood",
+    "#kneerehab",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's knee clicks and aches, and physio Kay explains the knee plica and four simple tips.",
+  "story": {
+    "headline": "Clicky, achy<br>kneecap?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "props": [
+        "stairs@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-24",
+  "created": "2026-11-24-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

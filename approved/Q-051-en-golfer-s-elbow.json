@@ -1,0 +1,220 @@
+{
+  "id": "Q-051-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 51,
+  "service": "physio",
+  "topic": "Golfer's elbow",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/golfers-elbow-medial-elbow-pain/",
+  "slides": [
+    {
+      "top": "Quinn's weekend project:<br>build <em>six</em> flat-pack shelves.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Allen keys fear me."
+        }
+      ],
+      "bottom": "Armed with one tiny screwdriver."
+    },
+    {
+      "top": "Monday: the inner elbow<br>says <em>ouch</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "sore",
+          "item": "cup",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Gripping a mug? Ouch.<br>Opening a jar? Double ouch."
+    },
+    {
+      "top": "Dr Google says:<br><em>golfer's</em> elbow.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone",
+          "say": "I have never golfed. Ever."
+        }
+      ],
+      "bottom": "Rude, honestly."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "How do I have golfer's elbow?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Turns out golf is optional."
+    },
+    {
+      "top": "Tendons get cranky when<br>load <mark>outpaces</mark> them.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Lots of gripping, too soon"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Rest calms it, but on its own<br>it won't build the tendon back."
+    },
+    {
+      "top": "Tip 1: Ease off the<br><mark>grippy</mark> jobs for now.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Pause the heavy gripping —<br>keep everything else moving."
+    },
+    {
+      "top": "Tip 2: Gentle wrist<br><mark>holds</mark> to start.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Press and hold, no movement.<br>It can ease pain enough to load."
+    },
+    {
+      "top": "Tip 3: Build strength<br><mark>slowly</mark>, ~3x a week.",
+      "props": [
+        "table@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Slow wrist curls, light weight<br>or band. Weeks, not days."
+    },
+    {
+      "top": "Tip 4: Check grip size<br>and <mark>technique</mark>.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Chunkier handles and a looser<br>grip can share the load."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Tingling into ring or little finger"
+        }
+      ],
+      "bottom": "Hand numbness or weakness?<br>Get it assessed early."
+    },
+    {
+      "top": "Golf optional.<br>Elbows welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn built six flat-pack shelves in one weekend, and by Monday the inner elbow was complaining about every mug and jar. Golfer's elbow, without a single round of golf.\n\nInner elbow pain often shows up when gripping and wrist work outpace what the tendon is ready for. Rest can calm it, but on its own it doesn't rebuild the tendon's capacity.\n\nWhat often helps: ease off the heavy gripping for a while, start with gentle wrist holds, then build strength slowly a few times a week over several weeks, and check grip size and technique on tools, racquets or clubs.\n\nTingling into the ring or little finger, numbness or hand weakness is worth getting assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#golferselbow",
+    "#elbowpain",
+    "#tendonpain",
+    "#gripstrength",
+    "#diy",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets inner elbow pain from a flat-pack weekend and learns load, wrist strength and grip tips from physio Kay.",
+  "story": {
+    "headline": "Golfer's elbow<br>without the golf?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "sore",
+          "item": "cup"
+        }
+      ],
+      "props": [
+        "boxes@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-14",
+  "scheduled_time": "09:00",
+  "created": "2026-12-14-1",
+  "status": "approved",
+  "review_warnings": []
+}

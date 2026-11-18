@@ -1,0 +1,219 @@
+{
+  "id": "Q-047-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 47,
+  "service": "physio",
+  "topic": "Does kinesiology tape work?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/kinesiology-tape-does-it-work/",
+  "slides": [
+    {
+      "top": "Quinn saw athletes in<br><em>colourful tape</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "surprised",
+          "say": "Ooh. Superpowers?",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Quinn wanted the full rainbow."
+    },
+    {
+      "top": "One roll later…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Basically an Olympian now."
+        }
+      ],
+      "bottom": "Taped: shoulder, knee,<br>and one ear."
+    },
+    {
+      "top": "Shoulder: still sore.<br>Ear: still <em>taped</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder",
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Where are the superpowers?"
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Does this tape actually work?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay gave an honest answer."
+    },
+    {
+      "top": "Small, <mark>short-term</mark> help<br>at best.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "It may help you feel safer to move"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Fake tape often works as well.<br>The real work is moving."
+    },
+    {
+      "top": "Tip 1: Tape is a <mark>cue</mark>,<br>not the plan.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Pair it with real exercise."
+    },
+    {
+      "top": "Tip 2: Rolled ankles<br>before? Go <mark>rigid</mark>.",
+      "props": [
+        "chair",
+        "shoe@780"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Firm strapping or a brace has<br>more support behind it."
+    },
+    {
+      "top": "Tip 3: Peel it off<br><mark>in the shower</mark>.",
+      "props": [
+        "water"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Slowly, with the hair —<br>kinder on the skin."
+    },
+    {
+      "top": "Tip 4: Use the <mark>confidence</mark><br>to build strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Feeling supported can make<br>moving easier."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain that wakes you, or new numbness"
+        }
+      ],
+      "bottom": "Calf swelling or a spreading<br>rash? Get it seen promptly."
+    },
+    {
+      "top": "Tape optional. Moving: yes.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn saw athletes in colourful tape and taped everything, including one ear. The sore shoulder didn't notice.\n\nResearch suggests kinesiology tape may give a small, short-lived drop in pain, and fake taping often does about as well. Its real value may be helping you feel supported enough to move.\n\nThings that often help: use tape as a cue alongside an exercise program, choose firm strapping or a brace if you've rolled an ankle before, peel tape off gently in the shower, and use the confidence to build strength.\n\nPain that wakes you, new numbness or weakness, calf swelling, or a spreading rash should be checked promptly.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kinesiologytape",
+    "#kinesiotape",
+    "#sportstape",
+    "#sportsinjury",
+    "#rehab",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka tapes everything in colourful kinesiology tape and learns from physio Kay what tape can and can't do.",
+  "story": {
+    "headline": "Does kinesiology<br>tape work?",
+    "body": "Quinn finds out the honest answer",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-12",
+  "scheduled_time": "09:00",
+  "created": "2026-12-12-1",
+  "status": "approved",
+  "review_warnings": []
+}

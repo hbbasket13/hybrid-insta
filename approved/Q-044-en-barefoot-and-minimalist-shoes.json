@@ -1,0 +1,229 @@
+{
+  "id": "Q-044-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 44,
+  "service": "physio",
+  "topic": "Barefoot and minimalist shoes",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/barefoot-minimalist-shoes-evidence/",
+  "slides": [
+    {
+      "top": "Quinn bought<br><em>barefoot shoes</em>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud",
+          "say": "Like toes, but fancier!"
+        }
+      ],
+      "bottom": "Plan: run 10km tomorrow."
+    },
+    {
+      "top": "Tomorrow:<br>Quinn ran <em>10km</em>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Toes: free. Calves: furious."
+    },
+    {
+      "top": "The next morning:<br>calves <em>on strike</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Every step down the hall: ouch."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "say": "Weren't these meant to be natural?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had seen this one before."
+    },
+    {
+      "top": "Less shoe moves load<br>to <mark>calf and foot</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "It moves load, it doesn't remove it"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Too much, too soon is the<br>usual troublemaker."
+    },
+    {
+      "top": "Tip 1: <mark>Walk</mark> in them<br>before you run.",
+      "props": [
+        "trees",
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Daily walks first,<br>for a few weeks."
+    },
+    {
+      "top": "Tip 2: Train your<br><mark>feet</mark> too.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calf raises, toe and arch<br>work: handy in any shoes."
+    },
+    {
+      "top": "Tip 3: Start with 5–10<br>minutes of <mark>running</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Add a little each week over<br>two to three months."
+    },
+    {
+      "top": "Tip 4: Achy is okay.<br><mark>Pinpoint pain</mark> isn't.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "neutral",
+          "say": "All-over sore: fine. One spot: stop."
+        }
+      ],
+      "bottom": "Ease off if pain gets focal<br>or hangs around."
+    },
+    {
+      "top": "Get advice first if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Achilles or heel pain, past stress fracture"
+        }
+      ],
+      "bottom": "Diabetes or numb feet?<br>Get individual advice first.",
+      "props": [
+        "chair@310"
+      ]
+    },
+    {
+      "top": "Toes out, steady pace.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought barefoot shoes and ran 10km in them the very next day. The calves were not impressed.\n\nMinimal shoes don't remove load, they shift it from the knee towards the calf, Achilles and foot. Walking in them can build foot strength, but jumping in too fast is when niggles often show up.\n\nThings that often help: walk in them for a few weeks before running, add calf raises and toe and arch work, start with 5–10 minutes of running and build over two to three months, and ease off if pain becomes pinpoint or lingers.\n\nIf you have Achilles or heel pain, a past stress fracture, diabetes or reduced foot sensation, get individual advice before switching.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#barefootshoes",
+    "#minimalistshoes",
+    "#running",
+    "#footstrength",
+    "#runningtips",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka runs 10km in new barefoot shoes, gets sore calves, and learns from physio Kay how to transition gradually.",
+  "story": {
+    "headline": "New barefoot shoes?<br>Read this first.",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "shoe@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-10",
+  "scheduled_time": "18:00",
+  "created": "2026-12-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

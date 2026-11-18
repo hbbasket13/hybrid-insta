@@ -1,0 +1,215 @@
+{
+  "id": "Q-052-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 52,
+  "service": "physio",
+  "topic": "Dry needling: what it does and doesn't do",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/dry-needling-what-it-is-evidence/",
+  "slides": [
+    {
+      "top": "Quinn's friend says<br>she got <em>needled</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "say": "Like... a pincushion?!"
+        }
+      ],
+      "bottom": "Quinn had questions. Many."
+    },
+    {
+      "top": "Quinn pictured it<br>a bit <em>dramatically</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried",
+          "fx": [
+            "gloom",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Spoiler: it's not a cactus hug."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "What does dry needling do?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay kept it honest."
+    },
+    {
+      "top": "A thin needle, <mark>nothing</mark><br>injected.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "It may ease pain short-term"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Often a deep, dull ache.<br>Sometimes a little twitch."
+    },
+    {
+      "top": "What it <em>doesn't</em> do:<br>the long-term work.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "blank",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Lasting change mostly comes<br>from progressive exercise."
+    },
+    {
+      "top": "Tip 1: Use the calmer<br>window to <mark>train</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Less pain can make loading<br>exercises easier to start."
+    },
+    {
+      "top": "Tip 2: A bit sore after?<br>Keep <mark>moving</mark> gently.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A day or two of soreness or<br>a small bruise can be normal."
+    },
+    {
+      "top": "Tip 3: Ask about<br>the <mark>bigger plan</mark>.",
+      "props": [
+        "calendar@200"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "So what comes next?"
+        }
+      ],
+      "bottom": "Needling works best as one part<br>of a plan, not the whole plan."
+    },
+    {
+      "top": "Tip 4: Twitch or no twitch,<br>that's <mark>fine</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A twitch doesn't predict<br>how much it will help."
+    },
+    {
+      "top": "Get help promptly if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Chest pain or breathlessness after"
+        }
+      ],
+      "bottom": "Or spreading redness or fever<br>after a session."
+    },
+    {
+      "top": "Curious? Ask us anything.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn heard a friend got dry needled and pictured a full pincushion situation. Kay had a calmer explanation.\n\nDry needling uses a thin, solid needle in a tight, tender muscle, with nothing injected. It may ease pain in the short term, but lasting change mostly comes from progressive exercise, so it works best as one part of a bigger plan.\n\nA few tips: use the calmer window to get your exercises going, keep moving gently if you're a bit sore for a day or two, ask what the plan is beyond the session, and don't judge it by whether a muscle twitched.\n\nChest pain or breathlessness after a session, or spreading redness or fever, needs prompt medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#dryneedling",
+    "#musclepain",
+    "#exerciseismedicine",
+    "#painrelief",
+    "#physiotips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka learns from physio Kay what dry needling can and can't do, plus four practical tips.",
+  "story": {
+    "headline": "Dry needling:<br>what does it do?",
+    "body": "The honest take, in Quinn's reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-14",
+  "scheduled_time": "18:00",
+  "created": "2026-12-14-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,228 @@
+{
+  "id": "Q-016-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 16,
+  "service": "physio",
+  "topic": "Front-of-ankle pinch",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/ankle-impingement-front-pain-guide/",
+  "slides": [
+    {
+      "top": "Quinn tried the 'squat like<br>a toddler' challenge.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "say": "How low can I go?"
+        }
+      ],
+      "bottom": "The toddler made it look easy."
+    },
+    {
+      "top": "Bottom of the squat:<br>a <em>pinch</em> at the ankle front.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Walking? Fine. Squats? Nope."
+    },
+    {
+      "top": "Quinn remembered an old<br><em>ankle sprain</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "blank",
+          "think": "That sprain from three years ago…"
+        }
+      ],
+      "bottom": "Never really rehabbed it. Oops."
+    },
+    {
+      "top": "Quinn showed Kay<br>the spot.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "It pinches right here!"
+        },
+        {
+          "who": "kay",
+          "pose": "crouch",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked how far<br>the ankle bends."
+    },
+    {
+      "top": "A stiff ankle can <mark>pinch</mark><br>at the front.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Old sprains can leave it stiff"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Front tissue gets squashed<br>at the end of the bend."
+    },
+    {
+      "top": "Tip 1: Knee-to-wall<br><mark>ankle drills</mark>.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Plus calf stretches, knee bent<br>and knee straight."
+    },
+    {
+      "top": "Tip 2: Strong calves,<br><mark>steady</mark> feet.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Calf raises and single-leg work,<br>built up step by step."
+    },
+    {
+      "top": "Tip 3: Tweak <mark>squat depth</mark><br>and landings.",
+      "props": [
+        "ball@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Adjust stance, depth and kicking<br>volume while it settles."
+    },
+    {
+      "top": "Tip 4: Add <mark>balance</mark> work.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Especially after a sprain.<br>Wobbly is part of training."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Swelling, locking or the ankle giving way"
+        }
+      ],
+      "bottom": "Or still pinching despite rehab?<br>Time for a proper check."
+    },
+    {
+      "top": "Stiff ankles welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn tried the 'squat like a toddler' challenge and felt a sharp pinch at the front of the ankle. Walking was fine, deep squats were not.\n\nWhen the ankle is stiff, often after an old sprain that was never fully rehabbed, tissue at the front of the joint can get squashed at the end of the bend.\n\nWhat often helps: knee-to-wall drills and calf stretches, calf raises and single-leg strength, tweaking squat depth, landings and kicking volume for a while, and regular balance work.\n\nIf your ankle swells, locks or gives way, or the pinch hangs around despite consistent rehab, get it assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#anklepain",
+    "#ankleimpingement",
+    "#squats",
+    "#anklesprain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood",
+    "#sydneycbd",
+    "#mobility",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka feels a pinch at the front of the ankle in a deep squat, and physio Kay shares four tips to ease it.",
+  "story": {
+    "headline": "Pinch at the front<br>of your ankle?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "props": [
+        "mat"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-26",
+  "created": "2026-11-26-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

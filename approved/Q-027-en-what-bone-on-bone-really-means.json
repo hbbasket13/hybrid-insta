@@ -1,0 +1,217 @@
+{
+  "id": "Q-027-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 27,
+  "service": "physio",
+  "topic": "What 'bone on bone' really means",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/bone-on-bone-arthritis-explained/",
+  "slides": [
+    {
+      "top": "Quinn's knee X-ray said<br><em>three words</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "shout": "BONE ON BONE?!"
+        }
+      ],
+      "bottom": "Quinn read them 47 times."
+    },
+    {
+      "top": "New plan: <em>no more<br>moving</em>. Ever.",
+      "props": [
+        "blanket",
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "sad"
+        }
+      ],
+      "bottom": "The couch was thrilled."
+    },
+    {
+      "top": "Weeks later: knees<br>even <em>stiffer</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Hmm. That plan backfired."
+    },
+    {
+      "top": "Quinn went to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried",
+          "say": "Is my knee just… worn out?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "X-ray report in paw."
+    },
+    {
+      "top": "X-rays show the <mark>gap</mark>,<br>not how it feels.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "X-rays and pain often don't match"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Pain also depends on muscles,<br>sleep, stress and mood."
+    },
+    {
+      "top": "Tip 1: Exercise helps<br>at <mark>every</mark> X-ray grade.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "It's a first-line treatment for<br>knee and hip arthritis."
+    },
+    {
+      "top": "Tip 2: Moving <mark>won't</mark><br>wear it out faster.",
+      "props": [
+        "trees",
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Studies haven't shown exercise<br>speeds up cartilage loss."
+    },
+    {
+      "top": "Tip 3: Make a<br><mark>3-month</mark> plan.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Ask what suits your joint now —<br>and what to build toward."
+    },
+    {
+      "top": "Tip 4: Get <mark>stronger</mark><br>now.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "proud",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Strength helps the knee — and<br>helps with whatever comes next."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain or stiffness keeps limiting you"
+        }
+      ],
+      "bottom": "A physio or GP can help you<br>map out next steps."
+    },
+    {
+      "top": "All knees welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's knee X-ray said \"bone on bone\", so Quinn decided to stop moving. Weeks later, the knee felt even stiffer.\n\nX-rays show the space between bones, not how a joint feels. Imaging and pain often don't match, and pain also depends on muscle strength, sleep, stress and mood. Avoiding movement can lead to weaker muscles and stiffer joints.\n\nWhat often helps: exercise is a first-line treatment for knee and hip arthritis at every X-ray grade, research hasn't shown it speeds up cartilage loss, and a three-month plan to build strength can make a real difference to how you move.\n\nIf pain or stiffness keeps limiting your day, get it checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneearthritis",
+    "#osteoarthritis",
+    "#boneonbone",
+    "#kneepain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood",
+    "#exerciseismedicine",
+    "#hiparthritis"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka panics over a 'bone on bone' X-ray report, then learns from physio Kay that exercise and strength can help at every grade.",
+  "story": {
+    "headline": "Told you're<br>'bone on bone'?",
+    "body": "What it really means — new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-02",
+  "scheduled_time": "09:00",
+  "created": "2026-12-02-1",
+  "status": "approved",
+  "review_warnings": []
+}

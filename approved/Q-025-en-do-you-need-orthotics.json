@@ -1,0 +1,221 @@
+{
+  "id": "Q-025-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 25,
+  "service": "physio",
+  "topic": "Do you need orthotics?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/foot-orthotics-who-benefits/",
+  "slides": [
+    {
+      "top": "Quinn saw an ad for<br><em>fancy insoles</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "shout": "Space-age insoles! Must have!"
+        }
+      ],
+      "bottom": "Very shiny. Very confident."
+    },
+    {
+      "top": "Quinn's feet had been<br><em>sore</em> lately.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Which made the ad<br>look even better."
+    },
+    {
+      "top": "Then a friend said:<br>'You've got <em>flat feet</em>!'",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "think": "My feet are… flat?!"
+        }
+      ],
+      "bottom": "Quinn spiralled a little."
+    },
+    {
+      "top": "Quinn took the question<br>to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Do I need orthotics?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a few questions first."
+    },
+    {
+      "top": "Orthotics can help some<br>problems — <mark>not everyone</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Flat feet are often just normal"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Like some heel or forefoot<br>pain — it depends on you."
+    },
+    {
+      "top": "Tip 1: Check your<br><mark>shoes</mark> first.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Fit, width, cushioning —<br>and how many kms they've done."
+    },
+    {
+      "top": "Tip 2: Ask what<br><mark>changed</mark>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "More standing? A new sport?<br>A walking holiday?"
+    },
+    {
+      "top": "Tip 3: Build <mark>strong</mark> feet<br>and calves.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calf raises, small foot muscles<br>and ankle mobility."
+    },
+    {
+      "top": "Tip 4: Orthotics are a<br><mark>support</mark>, not the plan.",
+      "props": [
+        "shoe@820",
+        "plant@200"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Match them to the shoe, give<br>them 2–6 weeks, keep training."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain gets worse with your orthotics"
+        }
+      ],
+      "bottom": "Diabetes or numb feet? Plan<br>footwear with your care team."
+    },
+    {
+      "top": "Happy feet welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn saw an ad for space-age insoles, and a friend announced Quinn had flat feet. Cue a small spiral.\n\nOrthotics can help some conditions, such as certain heel or forefoot pain, but they aren't for everyone. Flat feet on their own are often just a normal variation.\n\nBefore reaching for insoles, check your shoes (fit, width, cushioning, age) and think about what changed recently, like more standing or a new sport. Calf raises, foot muscle work and ankle mobility often help. If you do use orthotics, treat them as support alongside strengthening, match them to the shoe, and give them a few weeks.\n\nIf pain worsens with orthotics, or you have diabetes or numb feet, get it checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#orthotics",
+    "#footpain",
+    "#flatfeet",
+    "#heelpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood",
+    "#footcare",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka nearly buys fancy insoles, then learns from physio Kay to check shoes, recent changes and foot strength before trying orthotics.",
+  "story": {
+    "headline": "Do you really<br>need orthotics?",
+    "body": "Quinn asks Kay in the new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone"
+        }
+      ],
+      "props": [
+        "shoe@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-01",
+  "scheduled_time": "09:00",
+  "created": "2026-12-01-1",
+  "status": "approved",
+  "review_warnings": []
+}

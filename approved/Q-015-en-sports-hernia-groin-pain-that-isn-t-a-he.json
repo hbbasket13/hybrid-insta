@@ -1,0 +1,229 @@
+{
+  "id": "Q-015-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 15,
+  "service": "physio",
+  "topic": "Sports hernia: groin pain that isn't a hernia",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/sports-hernia-groin-pain/",
+  "slides": [
+    {
+      "top": "Quinn's futsal comeback.<br>Peak <em>athlete</em>.",
+      "props": [
+        "ball@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "proud",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Sprint, cut, kick… ow?"
+    },
+    {
+      "top": "Even a <em>sneeze</em><br>hurts the groin.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "shout": "ACHOO— ow!",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "Coughing joined the party too."
+    },
+    {
+      "top": "Dr Google said:<br>'<em>Sports hernia</em>.'",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "think": "Do I have a hole in me?!",
+          "item": "phone"
+        }
+      ],
+      "bottom": "Quinn checked. No lump."
+    },
+    {
+      "top": "Quinn took the question<br>to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is it a hernia if there's no lump?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Good question, actually."
+    },
+    {
+      "top": "Despite the name,<br>it's <mark>not a true hernia</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "The groin tissues are overloaded"
+        },
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Belly and inner-thigh muscles<br>tug at the same spot."
+    },
+    {
+      "top": "Tip 1: Rest alone isn't<br>the <mark>whole plan</mark>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Rest settles pain, but doesn't<br>rebuild what got overloaded."
+    },
+    {
+      "top": "Tip 2: Build <mark>inner-thigh</mark><br>and core strength.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Progressed step by step.<br>A physio can set the dose."
+    },
+    {
+      "top": "Tip 3: Sprint, then cut,<br>then <mark>kick</mark>.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Rebuild them in that order<br>before match day."
+    },
+    {
+      "top": "Tip 4: Think <mark>months</mark>,<br>not days.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Steady rehab often takes<br>a couple of months or more."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A lump, fever, or testicle pain or swelling"
+        }
+      ],
+      "bottom": "Night pain or a big one-off<br>injury? Get it checked promptly."
+    },
+    {
+      "top": "Back to the pitch, steadily.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's futsal comeback came with groin pain that flared with sprinting, kicking and even sneezing. Dr Google said \"sports hernia\".\n\nDespite the name, it usually isn't a true hernia. The belly and inner-thigh muscles both pull near the pubic bone, and repeated sprinting, cutting and kicking can overload those tissues.\n\nWhat often helps: rest alone usually isn't enough, so build inner-thigh, core and hip strength step by step, then rebuild sprinting, cutting and kicking in that order. Steady rehab often takes a couple of months or more.\n\nA groin lump, fever, testicle pain or swelling, night pain, or pain after one big injury should be checked promptly.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#groinpain",
+    "#sportshernia",
+    "#futsal",
+    "#footballinjury",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood",
+    "#sportsphysio",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets groin pain at futsal, learns from physio Kay that a 'sports hernia' isn't a true hernia, and follows four rehab tips.",
+  "story": {
+    "headline": "Groin pain that<br>isn't a hernia?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "surprised",
+          "fx": [
+            "pain_hip",
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "ball@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-26",
+  "created": "2026-11-26-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

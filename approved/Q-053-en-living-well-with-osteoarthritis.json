@@ -1,0 +1,240 @@
+{
+  "id": "Q-053-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 53,
+  "service": "physio",
+  "topic": "Living well with osteoarthritis",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/living-with-osteoarthritis-daily-tips/",
+  "slides": [
+    {
+      "top": "Quinn's knees now make<br>a <em>creak</em> sound.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ],
+          "say": "Was that me or the floor?"
+        }
+      ],
+      "bottom": "Morning stiffness: the album."
+    },
+    {
+      "top": "Getting up from the couch:<br>a <em>three-act</em> drama.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "With an intermission."
+    },
+    {
+      "top": "Even the jar lid<br>is <em>winning</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "bottle",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Quinn vs jar: 0–3."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Are flares a bad sign?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a calmer take."
+    },
+    {
+      "top": "Flares come and go — they<br>don't mean <mark>more damage</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Reduce the load, not the movement"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Joints usually like gentle,<br>regular movement."
+    },
+    {
+      "top": "Tip 1: A warm shower<br>to <mark>ease</mark> morning stiffness.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "Then ease into the day slowly."
+    },
+    {
+      "top": "Tip 2: Raise the seat,<br>spare the <mark>knees</mark>.",
+      "props": [
+        "chair",
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Higher chairs take less force<br>to stand up from."
+    },
+    {
+      "top": "Tip 3: Let tools and big<br>joints do the <mark>work</mark>.",
+      "props": [
+        "table@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "carry",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Jar grips, thick handles, and<br>carry with two hands."
+    },
+    {
+      "top": "Tip 4: <mark>Pace</mark> it, and<br>keep strength training.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Short chunks with breaks beat<br>a big day, then a sore one."
+    },
+    {
+      "top": "Tip 5: A walking stick is<br>a <mark>tool</mark>, not a defeat.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Held in the opposite hand,<br>it can ease hip and knee load."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain changes how you live or work"
+        }
+      ],
+      "bottom": "Pain relief questions?<br>Chat with your GP."
+    },
+    {
+      "top": "Creaky joints welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's knees have started creaking, the couch has become a three-act drama, and the jar lid keeps winning.\n\nLiving with osteoarthritis often means good days and flare days. Flares come and go, and they don't mean the joint is getting worse. The idea is to reduce the load, not the movement.\n\nDaily tweaks that can help: a warm shower for morning stiffness, a higher seat that is easier to stand from, jar grips and two-handed carrying, pacing jobs into chunks, keeping up strength training, and a walking stick in the opposite hand if it helps you stay active.\n\nIf pain is changing how you live or work, get it checked. Questions about pain relief or surgery are best discussed with your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#osteoarthritis",
+    "#kneearthritis",
+    "#hiparthritis",
+    "#jointhealth",
+    "#activeageing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's knees start creaking and physio Kay shares five everyday tips for living well with osteoarthritis.",
+  "story": {
+    "headline": "Creaky knees?<br>Keep moving.",
+    "body": "5 daily tips in Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-15",
+  "scheduled_time": "09:00",
+  "created": "2026-12-15-1",
+  "status": "approved",
+  "review_warnings": []
+}

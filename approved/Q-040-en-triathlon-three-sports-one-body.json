@@ -1,0 +1,225 @@
+{
+  "id": "Q-040-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 40,
+  "service": "physio",
+  "topic": "Triathlon: three sports, one body",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/triathlon-injuries-prevention/",
+  "slides": [
+    {
+      "top": "Quinn signed up for<br>a <em>triathlon</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Three sports, zero rest days!"
+        }
+      ],
+      "bottom": "Quinn made a spreadsheet. Of course."
+    },
+    {
+      "top": "Week six.<br>Rest days: <em>none</em>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "blank",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "The spreadsheet had no gaps."
+    },
+    {
+      "top": "Bike, then run.<br>Achilles: <em>hello?</em>",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "The shoulder chimed in after swims."
+    },
+    {
+      "top": "Quinn jogged over<br>to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "worried",
+          "say": "Which sport is hurting me?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: probably the total."
+    },
+    {
+      "top": "Three sports, three<br>loads <mark>stacked up</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Running often causes the most"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Even with less time running."
+    },
+    {
+      "top": "Tip 1: Track the<br><mark>total</mark> load.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "And build running extra gently."
+    },
+    {
+      "top": "Tip 2: Strength<br><mark>twice a week</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calves, hips and trunk."
+    },
+    {
+      "top": "Tip 3: Bike fit and<br><mark>swim technique</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Better form, not just more laps."
+    },
+    {
+      "top": "Tip 4: Schedule <mark>real</mark><br>rest days.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Bricks bugging your Achilles?<br>Shorten the run for a while."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain that sticks around or gets worse"
+        }
+      ],
+      "bottom": "Better checked early than<br>trained through."
+    },
+    {
+      "top": "Swim. Bike. Run. Rest.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn signed up for a triathlon with a spreadsheet and zero rest days. By week six, the Achilles and shoulder had questions.\n\nThree sports mean three sets of loads stacking up. Running often accounts for the most injuries even with less training time, and bike-to-run sessions can be extra demanding on the calf and Achilles.\n\nWhat often helps: track your total load across all three sports and build running gently, do strength work for calves, hips and trunk twice a week, get a bike fit and work on swim technique, and schedule genuine rest days. If brick sessions bother your Achilles, shorten the run for a while.\n\nPain that persists or gets worse with training is worth getting assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#triathlon",
+    "#triathlete",
+    "#triathlontraining",
+    "#achillespain",
+    "#runninginjury",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#endurancesports"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overtrains for a triathlon and learns from physio Kay to track total load, do strength work, refine bike fit and swim technique, and rest.",
+  "story": {
+    "headline": "Triathlon training<br>catching up?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined"
+        }
+      ],
+      "props": [
+        "calendar@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-08",
+  "scheduled_time": "18:00",
+  "created": "2026-12-08-2",
+  "status": "approved",
+  "review_warnings": []
+}

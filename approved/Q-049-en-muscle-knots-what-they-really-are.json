@@ -1,0 +1,225 @@
+{
+  "id": "Q-049-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 49,
+  "service": "physio",
+  "topic": "Muscle knots: what they really are",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/trigger-points-muscle-knots-evidence/",
+  "slides": [
+    {
+      "top": "Quinn found a <em>knot</em><br>in the shoulder.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "say": "It's the size of a walnut!",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "(It was not the size<br>of a walnut.)"
+    },
+    {
+      "top": "Quinn bought a<br><em>massage ball</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Plan: squash it into oblivion."
+    },
+    {
+      "top": "Two days later…<br>it's <em>back</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "The knot has a return ticket."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "How do I break up this knot?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay's answer surprised Quinn."
+    },
+    {
+      "top": "Knots are more like<br><mark>touchy spots</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Not a lump to break — sensitive tissue"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Rubbing can ease it for a while.<br>Habits keep it calm."
+    },
+    {
+      "top": "Tip 1: Change position<br><mark>often</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Hours in one spot wind it up."
+    },
+    {
+      "top": "Tip 2: Protect sleep,<br>tame <mark>stress</mark>.",
+      "props": [
+        "bed",
+        "blanket",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Both can turn sensitivity up."
+    },
+    {
+      "top": "Tip 3: Build <mark>strength</mark><br>and keep going.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Neck, shoulders and hips,<br>even after it settles."
+    },
+    {
+      "top": "Tip 4: Enjoy a massage<br>for <mark>comfort</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "heart"
+          ]
+        }
+      ],
+      "bottom": "Just pair it with movement.",
+      "props": [
+        "chair"
+      ]
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Night pain that won't ease with moving"
+        }
+      ],
+      "bottom": "Fever, weight loss, numbness<br>or weakness? See your GP."
+    },
+    {
+      "top": "Let's untangle it together.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn found a shoulder knot, squashed it with a massage ball, and two days later it was back.\n\nMuscle knots are probably not lumps you can break up. They're more likely areas of sensitive tissue and nerves. Massage or pressure can ease them for a while, but daily habits often decide whether they keep coming back.\n\nThings that often help: changing position often, protecting sleep and managing stress, building strength in the neck, shoulders and hips and keeping it going, and enjoying massage for comfort alongside movement.\n\nNight pain that doesn't ease with moving, fever, unexplained weight loss, or numbness or weakness should be checked by your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#muscleknots",
+    "#triggerpoints",
+    "#shoulderpain",
+    "#neckpain",
+    "#deskworker",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka battles a returning shoulder knot and learns from physio Kay what knots are and which habits help.",
+  "story": {
+    "headline": "That knot keeps<br>coming back?",
+    "body": "What muscle knots really are",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-13",
+  "scheduled_time": "09:00",
+  "created": "2026-12-13-1",
+  "status": "approved",
+  "review_warnings": []
+}

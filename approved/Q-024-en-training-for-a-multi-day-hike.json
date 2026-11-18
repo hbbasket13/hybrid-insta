@@ -1,0 +1,231 @@
+{
+  "id": "Q-024-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 24,
+  "service": "physio",
+  "topic": "Training for a multi-day hike",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/multi-day-hike-training-preparation/",
+  "slides": [
+    {
+      "top": "Quinn booked a<br><em>5-day</em> trek.",
+      "props": [
+        "backpack@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "5 days. 80 km. Easy."
+        }
+      ],
+      "bottom": "Training plan: vibes."
+    },
+    {
+      "top": "Training so far:<br>flat walks to the <em>café</em>.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Lovely. Not very hilly."
+    },
+    {
+      "top": "Trial hike: the<br><em>downhill</em> part.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Knees: 'We did not<br>train for this.'"
+    },
+    {
+      "top": "Quinn asked Kay for<br>a <em>real</em> plan.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "sore",
+          "say": "Why do the DOWNHILLS hurt most?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "With about 12 weeks to go."
+    },
+    {
+      "top": "Flat walks build stamina,<br>not <mark>descent strength</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Going down works your thighs hard"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Downhills load the quads<br>and knees, day after day."
+    },
+    {
+      "top": "Weeks 1–4: <mark>strength</mark><br>twice a week.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Squats, step-ups, split squats,<br>calf raises, plus a long walk."
+    },
+    {
+      "top": "Weeks 5–8: add <mark>downhills</mark><br>and a light pack.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Step-downs and hills help<br>prepare for long descents."
+    },
+    {
+      "top": "Weeks 9–12: back-to-back<br>days in <mark>real boots</mark>.",
+      "props": [
+        "trees",
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Full pack, the actual socks —<br>and treat hot spots early."
+    },
+    {
+      "top": "Final week:<br><mark>taper</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Arrive rested. And pack poles<br>for the descents."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Known knee, hip or back issue? Start early"
+        }
+      ],
+      "bottom": "Going to high altitude?<br>Chat with a travel doctor too."
+    },
+    {
+      "top": "Happy trails, hikers.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn booked a five-day trek and trained with flat walks to the café. Then the first big downhill arrived, and the knees were not impressed.\n\nFlat walking builds stamina, but descents load the quads and knees in a different way, day after day, often with a pack on.\n\nA 12-week plan can help: strength twice a week (squats, step-ups, split squats, calf raises) with a weekend walk, then add downhills, step-downs and a light pack, then back-to-back days in your real boots and socks. Treat hot spots early, use poles downhill, and taper the final week.\n\nKnown knee, hip or back issue? Get a plan early. Heading to altitude? See a travel doctor.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hiking",
+    "#trekking",
+    "#multidayhike",
+    "#hikingtraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood",
+    "#sydneycbd",
+    "#kneepain",
+    "#bushwalking"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka books a five-day trek, struggles on the downhill, and follows physio Kay's 12-week strength, hills, boots and taper plan.",
+  "story": {
+    "headline": "Big hike<br>coming up?",
+    "body": "Quinn's 12-week trek plan",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "hill",
+        "sun@860"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-30",
+  "scheduled_time": "18:00",
+  "created": "2026-11-30-2",
+  "status": "approved",
+  "review_warnings": []
+}

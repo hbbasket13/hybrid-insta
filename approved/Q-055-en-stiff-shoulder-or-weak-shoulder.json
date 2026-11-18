@@ -1,0 +1,230 @@
+{
+  "id": "Q-055-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 55,
+  "service": "physio",
+  "topic": "Stiff shoulder or weak shoulder?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/frozen-shoulder-vs-rotator-cuff/",
+  "slides": [
+    {
+      "top": "Quinn vs one jacket.<br>Round <em>three</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder",
+            "sweat"
+          ],
+          "say": "Sleeve, where are you?"
+        }
+      ],
+      "bottom": "The jacket is winning."
+    },
+    {
+      "top": "Top shelf?<br><em>Nope</em>.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "The biscuits live up there now."
+    },
+    {
+      "top": "One friend says '<em>frozen</em>'.<br>Another says 'cuff'.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Quinn is now very confused."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is it stiff, or is it weak?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a simple question back."
+    },
+    {
+      "top": "Can someone else move it<br><mark>further</mark> than you?",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "If yes, often a cuff load issue"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Stuck both ways? More like a<br>stiff, tight joint capsule."
+    },
+    {
+      "top": "Tip 1: Get the <mark>label</mark><br>right first.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "crouch",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "A hands-on movement check<br>often tells more than a scan."
+    },
+    {
+      "top": "Tip 2: Stiff shoulder?<br><mark>Gentle</mark> beats forceful.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Move within comfort. Big, painful<br>stretches can stir it up."
+    },
+    {
+      "top": "Tip 3: Cuff issue? Build<br><mark>strength</mark> steadily.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Progressive strengthening,<br>often over 8–12 weeks."
+    },
+    {
+      "top": "Tip 4: Patience is part<br>of the <mark>plan</mark>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "proud",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Stiff shoulders can take months<br>to ease — that's normal."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Arm numbness, sudden weakness, a fall"
+        }
+      ],
+      "bottom": "Diabetes? Check in early —<br>it can be more stubborn."
+    },
+    {
+      "top": "Stiff or weak? Let's<br>find out together.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn lost three rounds to one jacket and can no longer reach the biscuits on the top shelf. Is it a frozen shoulder or a rotator cuff problem?\n\nA simple clue: if someone else can move your arm further than you can, it's often a cuff load issue. If it's stuck both ways, a stiff joint capsule is more likely.\n\nThe label matters: a hands-on movement check comes first. Stiff shoulders usually prefer gentle movement within comfort over forceful stretching, while cuff problems often respond to steady strengthening over 8 to 12 weeks. Patience is part of the plan.\n\nArm numbness, sudden weakness or pain after a fall is worth getting checked. If you have diabetes, check in earlier.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#frozenshoulder",
+    "#rotatorcuff",
+    "#shoulderpain",
+    "#shoulderhealth",
+    "#over40",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka struggles with a jacket and physio Kay explains the difference between a stiff and a weak shoulder.",
+  "story": {
+    "headline": "Stiff shoulder<br>or weak shoulder?",
+    "body": "One simple clue in Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-16",
+  "scheduled_time": "09:00",
+  "created": "2026-12-16-1",
+  "status": "approved",
+  "review_warnings": []
+}

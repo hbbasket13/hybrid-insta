@@ -1,0 +1,225 @@
+{
+  "id": "Q-033-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 33,
+  "service": "physio",
+  "topic": "Corns, calluses and toenails",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/toenail-corns-calluses-foot-guide/",
+  "slides": [
+    {
+      "top": "Quinn bought <em>gorgeous</em><br>new shoes.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy",
+          "say": "Half a size small. Basically fits.",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "The shoes had other plans."
+    },
+    {
+      "top": "Hour three.<br>Toes: <em>squished</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Every step was a small drama."
+    },
+    {
+      "top": "Corn? Callus?<br>Quinn <em>panic-googled</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Then eyed the razor. Hmm."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Why is my foot growing armour?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay smiled. Then explained."
+    },
+    {
+      "top": "It's often <mark>pressure</mark><br>and friction.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Skin thickens where load piles up"
+        },
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "surprised"
+        }
+      ],
+      "bottom": "Treat just the spot? It may return."
+    },
+    {
+      "top": "Tip 1: Shoes with a<br>roomy <mark>toe box</mark>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Width AND length. Running shoes<br>often need extra room."
+    },
+    {
+      "top": "Tip 2: Cut nails<br><mark>straight across</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Curved corners can dig<br>into the skin."
+    },
+    {
+      "top": "Tip 3: Build walking<br>and running <mark>gradually</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Sudden jumps in load add<br>pressure and friction."
+    },
+    {
+      "top": "Tip 4: Skip the <em>DIY</em><br>foot surgery.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "wink",
+          "say": "Razor? Back in the drawer."
+        }
+      ],
+      "bottom": "No razors, no digging out nails.<br>A podiatrist can help."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Spreading redness, pus or fever: same day"
+        }
+      ],
+      "bottom": "Diabetes or poor circulation?<br>Get feet checked early."
+    },
+    {
+      "top": "Happy feet, happy Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's gorgeous new shoes were half a size too small. By hour three, the toes were filing complaints.\n\nIngrown nails, corns and calluses usually come from pressure and friction. Skin thickens where load piles up, so treating only the spot often means it comes back.\n\nWhat often helps: shoes with enough toe box width and length, cutting nails straight across, and building walking or running gradually. Skip the razors and DIY nail removal; a podiatrist can help with painful corns and ingrown nails. A sore foot can change how you walk, so new knee or hip aches are worth a look too.\n\nSpreading redness, pus or fever needs same-day care, and anyone with diabetes or poor circulation should get foot problems checked early.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#footcare",
+    "#happyfeet",
+    "#footpain",
+    "#ingrowntoenail",
+    "#footwear",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka squeezes into tight shoes and learns from physio Kay about pressure, roomy shoes, straight nail cutting and skipping DIY foot surgery.",
+  "story": {
+    "headline": "Shoes squishing<br>your toes?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "props": [
+        "shoe@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-05",
+  "scheduled_time": "09:00",
+  "created": "2026-12-05-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,226 @@
+{
+  "id": "Q-039-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 39,
+  "service": "physio",
+  "topic": "Isometrics: why holding still helps",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/isometric-exercise-tendon-pain/",
+  "slides": [
+    {
+      "top": "Quinn's new workout:<br><em>holding still</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "say": "Not moving? I'm a natural."
+        }
+      ],
+      "bottom": "Easiest exercise ever. Surely."
+    },
+    {
+      "top": "Second 20.<br>Thighs: <em>screaming</em>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "sore",
+          "fx": [
+            "sweat",
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "Nothing moved. Everything burned."
+    },
+    {
+      "top": "Quinn, on the floor,<br><em>puzzled</em>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "How can doing nothing be this hard?"
+    },
+    {
+      "top": "Quinn rolled over<br>to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "surprised",
+          "say": "Why does holding still burn so much?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay grinned."
+    },
+    {
+      "top": "Still muscles can still<br>work <mark>very hard</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Load without the bounce"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "That can suit grumpy tendons."
+    },
+    {
+      "top": "Tip 1: Pick a<br><mark>simple hold</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Wall sit, wall push,<br>or a firm grip squeeze."
+    },
+    {
+      "top": "Tip 2: <em>Keep breathing</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "say": "Breathe in… and out…"
+        }
+      ],
+      "bottom": "Holding your breath can spike<br>blood pressure."
+    },
+    {
+      "top": "Tip 3: Holds are <mark>one<br>part</mark> of the plan.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Strength gains stay near<br>the angle you train."
+    },
+    {
+      "top": "Tip 4: Get your <mark>dose</mark><br>from a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Not a random video, especially<br>with heart or BP concerns."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral",
+          "say": "Chest pain, dizzy or breathless? Stop."
+        }
+      ],
+      "bottom": "A snap at the heel or knee?<br>Same-day attention."
+    },
+    {
+      "top": "Hold still. Smile.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn thought holding still would be the easiest workout ever. Twenty seconds into a wall sit, the thighs disagreed.\n\nIn an isometric hold, muscles can work very hard even though nothing moves. Because the tendon is loaded without the bounce, holds can suit tendons that are irritable with movement. Results vary, and holds work best as one part of a wider programme.\n\nWhat often helps: pick a simple hold such as a wall sit or wall push, keep breathing rather than straining, combine holds with moving strength work, and get your dose from a physio, especially with heart or blood pressure concerns.\n\nStop and seek help for chest pain, dizziness or unusual breathlessness. A sudden snap at the heel or knee needs same-day attention.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#isometrics",
+    "#wallsit",
+    "#tendonpain",
+    "#tendinopathy",
+    "#strengthtraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#exercisetips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka discovers that holding still can be hard work, and physio Kay explains how isometric holds can help tendons, with breathing and dosing tips.",
+  "story": {
+    "headline": "Why holding still<br>can help",
+    "body": "Isometric tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "props": [
+        "clock@840"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-08",
+  "scheduled_time": "09:00",
+  "created": "2026-12-08-1",
+  "status": "approved",
+  "review_warnings": []
+}

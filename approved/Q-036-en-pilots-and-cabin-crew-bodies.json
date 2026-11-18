@@ -1,0 +1,225 @@
+{
+  "id": "Q-036-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 36,
+  "service": "physio",
+  "topic": "Pilots and cabin crew bodies",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/pilots-cabin-crew-injuries/",
+  "slides": [
+    {
+      "top": "Quinn joined the<br><em>cabin crew</em>.",
+      "props": [
+        "suitcase@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "proud",
+          "say": "Welcome aboard, everyone!"
+        }
+      ],
+      "bottom": "Glamorous? Mostly."
+    },
+    {
+      "top": "Overhead bags.<br>So. Many. <em>Bags</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "sore",
+          "item": "bag",
+          "fx": [
+            "sweat",
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Each one heavier than the last."
+    },
+    {
+      "top": "Hotel bed at 3pm.<br>Body clock: <em>confused</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Back and feet: still on duty."
+    },
+    {
+      "top": "Home layover.<br>Time to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "Is flying hard on the body?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay nodded. Often, yes."
+    },
+    {
+      "top": "Long sits, lifting and<br><mark>body-clock</mark> changes.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Broken sleep can turn pain up"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Pilots add vibration to the mix."
+    },
+    {
+      "top": "Tip 1: Set up your seat,<br>then <mark>shift often</mark>.",
+      "props": [
+        "planeseat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Use lumbar support, and stand<br>or move when you can."
+    },
+    {
+      "top": "Tip 2: Bags close,<br>and <mark>ask for help</mark>.",
+      "props": [
+        "suitcase@800"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Heavy ones are a two-person job."
+    },
+    {
+      "top": "Tip 3: A <mark>hotel room</mark><br>workout.",
+      "props": [
+        "window"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Bodyweight moves and a band:<br>legs, hips, trunk, neck."
+    },
+    {
+      "top": "Tip 4: Water, good shoes,<br><mark>compression socks</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "bottle"
+        }
+      ],
+      "bottom": "Handy for long standing days<br>and puffy legs."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "One leg swollen and sore: urgent care"
+        }
+      ],
+      "bottom": "Chest pain or short of breath?<br>Urgent. Headaches? See a GP."
+    },
+    {
+      "top": "Cleared for take-off.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined the cabin crew: so many overhead bags, then a hotel bed at 3pm with a very confused body clock.\n\nFlying can be hard on the body. Long periods seated, lifting bags overhead, pushing carts and broken sleep across time zones can all add up, and pilots deal with vibration and fixed positions on top.\n\nWhat often helps: set up your seat and change position regularly, keep bags close and ask for help with heavy ones, do a short bodyweight or band routine on layovers, and stay hydrated with good shoes. Compression socks may help puffy legs.\n\nOne swollen, painful leg, chest pain or shortness of breath needs urgent care. Persistent headaches are worth a GP visit.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#cabincrew",
+    "#flightattendant",
+    "#pilotlife",
+    "#aviation",
+    "#backpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka works as cabin crew, aches after heavy bags and jet lag, and learns seat, lifting, layover exercise and hydration tips from physio Kay.",
+  "story": {
+    "headline": "Flying for work<br>and aching?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "bottle"
+        }
+      ],
+      "props": [
+        "window"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-06",
+  "scheduled_time": "18:00",
+  "created": "2026-12-06-2",
+  "status": "approved",
+  "review_warnings": []
+}

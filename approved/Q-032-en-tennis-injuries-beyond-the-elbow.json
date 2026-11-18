@@ -1,0 +1,220 @@
+{
+  "id": "Q-032-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 32,
+  "service": "physio",
+  "topic": "Tennis injuries beyond the elbow",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/tennis-injuries-beyond-elbow/",
+  "slides": [
+    {
+      "top": "Quinn took up <em>tennis</em>.<br>Elbow: totally fine.",
+      "props": [
+        "ball@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "proud",
+          "say": "Serve of the century!"
+        }
+      ],
+      "bottom": "The rest of Quinn? Different story."
+    },
+    {
+      "top": "Shoulder, back, hip…<br>a <em>full tour</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder",
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "Who knew tennis had so many parts?"
+    },
+    {
+      "top": "Wide forehand.<br>Calf: <em>nope</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Quinn left the court dramatically."
+    },
+    {
+      "top": "Quinn found Kay<br>courtside.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried",
+          "say": "I thought tennis was an elbow thing!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had news."
+    },
+    {
+      "top": "The <mark>serve</mark> is a<br>whole-body chain.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Leaks often land on shoulder or back"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Legs, hips, trunk, then the arm."
+    },
+    {
+      "top": "Tip 1: Add serves and<br>new spins <mark>slowly</mark>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Tournaments and comebacks<br>are big load jumps."
+    },
+    {
+      "top": "Tip 2: Strengthen,<br>don't just <em>stretch</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Rotator cuff and shoulder-blade<br>strength and endurance."
+    },
+    {
+      "top": "Tip 3: Turn through your<br><mark>upper back</mark> and hips.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "So your low back does<br>less of the work."
+    },
+    {
+      "top": "Tip 4: Train calves<br>and <mark>quick turns</mark>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calf raises, balance work, and<br>shoes that suit the court."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden calf pain and swelling: same day"
+        }
+      ],
+      "bottom": "Or back pain with numbness<br>or leg weakness."
+    },
+    {
+      "top": "See you on court.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's elbow was fine. The shoulder, back, hip and calf? They had opinions.\n\nTennis loads far more than the elbow. The serve is a whole-body chain, and when energy leaks from legs, hips or trunk, the shoulder or low back can end up absorbing it. Sudden jumps in playing load are often part of the story.\n\nWhat often helps: build serve volume and new spins gradually, strengthen the rotator cuff and shoulder blade rather than only stretching, turn through your upper back and hips, and train calves, balance and change of direction.\n\nA sudden painful, swelling calf needs a same-day review, as does back pain with numbness or leg weakness. Shoulder pain during the serve is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#tennis",
+    "#tennisplayer",
+    "#tennisinjury",
+    "#shoulderpain",
+    "#calfstrain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sportsphysio"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka learns from physio Kay that tennis loads the shoulder, back and calves, with tips on serve load, strength, rotation and calf training.",
+  "story": {
+    "headline": "Tennis sore, but<br>not the elbow?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "ball@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-04",
+  "scheduled_time": "18:00",
+  "created": "2026-12-04-2",
+  "status": "approved",
+  "review_warnings": []
+}

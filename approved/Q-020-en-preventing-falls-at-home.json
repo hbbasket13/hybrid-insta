@@ -1,0 +1,238 @@
+{
+  "id": "Q-020-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 20,
+  "service": "physio",
+  "topic": "Preventing falls at home",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/falls-prevention-home-checklist/",
+  "slides": [
+    {
+      "top": "Quinn's hallway rug has<br>a <em>secret mission</em>.",
+      "props": [
+        "mat",
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Mission: catch a toe."
+    },
+    {
+      "top": "Midnight loo trip.<br>Lights? <em>Off</em>.",
+      "props": [
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sleepy",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Slippers? Loose. Floor? Shiny."
+    },
+    {
+      "top": "Getting up from the couch:<br><em>three attempts</em>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Legs: 'We used to be stronger.'"
+    },
+    {
+      "top": "Quinn asked Kay for help.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "How do I stop the near-misses?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a two-part plan."
+    },
+    {
+      "top": "<mark>Strength and balance</mark>,<br>plus a safer home.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Less activity can mean more wobble"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Moving less weakens legs, which<br>makes wobbles more likely."
+    },
+    {
+      "top": "Tip 1: Balance practice,<br><mark>3 times a week</mark>.",
+      "props": [
+        "table@760"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calf raises, heel-to-toe walks,<br>holding a bench if needed."
+    },
+    {
+      "top": "Tip 2: Sit-to-stands,<br><mark>no hands</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Up and down from a chair.<br>Add reps a few at a time."
+    },
+    {
+      "top": "Tip 3: <mark>De-trip</mark> the house.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Tape down or ditch loose rugs.<br>Night lights on the loo route."
+    },
+    {
+      "top": "Tip 4: Swap floppy slippers<br>for <mark>grippy shoes</mark>.",
+      "props": [
+        "shoe@780"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Non-slip mats and rails in the<br>bathroom help too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "You've had a fall, or new dizziness"
+        }
+      ],
+      "bottom": "Fear of falling limiting you?<br>That's worth a chat too."
+    },
+    {
+      "top": "Steady on, Sydney.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's hallway rug kept trying to catch a toe, midnight loo trips happened in the dark, and getting off the couch took three attempts.\n\nMoving less can weaken the legs, which makes wobbles and falls more likely. Falls prevention usually has two parts: strength and balance work, plus a safer home.\n\nWhat often helps: balance practice about three times a week, sit-to-stands without using your hands, removing trip hazards and adding night lights, and swapping loose slippers for grippy shoes. Getting your eyes and hearing checked can help too.\n\nIf you've had a fall, notice new dizziness or unsteadiness, or fear of falling is holding you back, it's worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#fallsprevention",
+    "#balance",
+    "#healthyageing",
+    "#homesafety",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood",
+    "#sydneycbd",
+    "#strengthtraining",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka dodges a sneaky rug and dark hallways, and physio Kay shares four strength, balance and home-safety tips.",
+  "story": {
+    "headline": "Sneaky rugs and<br>wobbly legs?",
+    "body": "4 falls-prevention tips from Quinn",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "props": [
+        "plant@860"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-28",
+  "created": "2026-11-28-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

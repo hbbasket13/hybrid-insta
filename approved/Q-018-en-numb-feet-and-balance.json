@@ -1,0 +1,242 @@
+{
+  "id": "Q-018-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 18,
+  "service": "physio",
+  "topic": "Numb feet and balance",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/peripheral-neuropathy-feet-balance/",
+  "slides": [
+    {
+      "top": "Quinn's feet feel like<br>walking on <em>sand</em>.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "blank",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Beach vibes. Zero beach."
+    },
+    {
+      "top": "At night: <em>tingly</em>,<br>burning toes.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Like tiny ants throwing a party."
+    },
+    {
+      "top": "Lights off?<br>Instant <em>wobble</em>.",
+      "props": [
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "worried",
+          "fx": [
+            "motion",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Eyes were doing the feet's job."
+    },
+    {
+      "top": "Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Why are my feet so wobbly?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked feeling and balance."
+    },
+    {
+      "top": "Long nerves to the feet<br>can get <mark>less sensitive</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Your feet send the brain less info"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Less info makes balance harder,<br>especially in the dark."
+    },
+    {
+      "top": "Tip 1: Practise <mark>balance</mark>,<br>with backup nearby.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "crouch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Challenging but safe. A bench<br>or a physio close by."
+    },
+    {
+      "top": "Tip 2: <mark>Check your feet</mark><br>every day.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Look for cuts, blisters or<br>redness, between toes too."
+    },
+    {
+      "top": "Tip 3: Wear <mark>shoes</mark>,<br>even indoors.",
+      "props": [
+        "shoe@780"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Socks alone can slip. Bare feet<br>can miss small injuries."
+    },
+    {
+      "top": "Tip 4: Light up the<br><mark>night path</mark>.",
+      "props": [
+        "moon@860",
+        "plant@200"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Night lights on, loose rugs<br>and trailing cords gone."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Numbness spreading over days or weeks"
+        }
+      ],
+      "bottom": "Or one side worse, or a new foot<br>wound? Get checked promptly."
+    },
+    {
+      "top": "Steady steps ahead.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's feet felt like walking on sand, toes burned at night, and turning off the lights meant an instant wobble.\n\nThe long nerves to the feet can become less sensitive, so the brain gets less information about where your feet are. That makes balance harder, especially in the dark when your eyes can't help.\n\nWhat often helps: challenging balance practice with support nearby, checking your feet every day, wearing shoes rather than socks or bare feet, and lighting up the night path at home. Your GP can check for causes that may be treatable.\n\nNumbness that spreads over days or weeks, one side clearly worse, foot drop, or a new foot wound should be checked promptly.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#numbfeet",
+    "#balance",
+    "#neuropathy",
+    "#fallsprevention",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood",
+    "#sydneycbd",
+    "#healthyageing",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's feet feel numb and wobbly in the dark, and physio Kay shares four balance and foot-care tips.",
+  "story": {
+    "headline": "Numb feet and<br>wobbly nights?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "worried",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "moon@860"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-27",
+  "created": "2026-11-27-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

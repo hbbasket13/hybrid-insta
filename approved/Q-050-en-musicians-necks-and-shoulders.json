@@ -1,0 +1,230 @@
+{
+  "id": "Q-050-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 50,
+  "service": "physio",
+  "topic": "Musicians' necks and shoulders",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/musician-injuries-neck-shoulder-hand/",
+  "slides": [
+    {
+      "top": "Quinn's violin exam:<br><em>two weeks away</em>.",
+      "props": [
+        "calendar@180"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "book",
+          "say": "Practice. All. Day."
+        }
+      ],
+      "bottom": "What could go wrong?"
+    },
+    {
+      "top": "6 hours a day.<br>Neck: <em>not a fan</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Left shoulder joined the protest."
+    },
+    {
+      "top": "Then the fingers<br>felt a bit <em>fizzy</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Quinn: 'Probably just passion.'"
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried",
+          "say": "Do I have to stop playing?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay's plan had breaks in it.",
+      "props": [
+        "chair@310"
+      ]
+    },
+    {
+      "top": "A practice jump is a<br><mark>big training load</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Load matters more than perfect posture"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Long, still, one-sided playing<br>adds up fast."
+    },
+    {
+      "top": "Tip 1: Build practice<br>time <mark>gradually</mark>.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Not 1 hour to 6 overnight."
+    },
+    {
+      "top": "Tip 2: Move every<br><mark>20–30 minutes</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "A short break, a little wiggle."
+    },
+    {
+      "top": "Tip 3: Strengthen neck<br>and <mark>upper back</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Two short sessions a week."
+    },
+    {
+      "top": "Tip 4: Check your<br><mark>setup</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "item": "book"
+        }
+      ],
+      "bottom": "Chin rest, strap, stool, stand:<br>ask your teacher too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Numb, tingly or weak fingers"
+        }
+      ],
+      "bottom": "Or pain past a couple of weeks.<br>Don't play through nerve signs."
+    },
+    {
+      "top": "Encore — gently.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "With a violin exam two weeks away, Quinn jumped to six hours of practice a day. The neck and shoulder protested, and the fingers started to feel fizzy.\n\nPlaying means long, still, often one-sided postures plus repetitive fine work. Sudden jumps in practice time are a common trigger, and load usually matters more than perfect posture.\n\nThings that often help: build practice time gradually, take short movement breaks every 20–30 minutes, add two short strength sessions a week for the neck and upper back, and review your setup with your teacher.\n\nPain lasting more than a couple of weeks, or numbness, tingling or weakness in the fingers, is worth getting assessed. Modifying playing is usually better than stopping completely.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#musicianhealth",
+    "#musicians",
+    "#violin",
+    "#neckpain",
+    "#shoulderpain",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka over-practises for a violin exam and learns load, break, strength and setup tips from physio Kay.",
+  "story": {
+    "headline": "Big practice weeks<br>hurting your neck?",
+    "body": "4 tips for musicians from Quinn",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "props": [
+        "calendar@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-13",
+  "scheduled_time": "18:00",
+  "created": "2026-12-13-2",
+  "status": "approved",
+  "review_warnings": []
+}

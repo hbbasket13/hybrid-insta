@@ -1,0 +1,231 @@
+{
+  "id": "Q-014-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 14,
+  "service": "physio",
+  "topic": "Arm symptoms from the neck and shoulder",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/thoracic-outlet-syndrome-explained/",
+  "slides": [
+    {
+      "top": "Quinn's tote bag holds<br><em>everything</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "proud",
+          "say": "Snacks, laptop, a tiny cactus…",
+          "item": "bag"
+        }
+      ],
+      "bottom": "Including a small pot plant."
+    },
+    {
+      "top": "By 3pm, Quinn's whole arm<br>feels <em>heavy</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck",
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "And the little fingers? Tingly."
+    },
+    {
+      "top": "Hanging the washing:<br>arm runs out of <em>battery</em>.",
+      "props": [
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "blank",
+          "fx": [
+            "sweat",
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Reaching up makes it build."
+    },
+    {
+      "top": "Quinn showed Kay<br>the spaghetti arm.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "It feels like wet spaghetti!"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about work, bags<br>and driving."
+    },
+    {
+      "top": "Nerves pass a <mark>tight gap</mark><br>by the neck and collarbone.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Some habits can squeeze that space"
+        },
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Overhead work, heavy bags and<br>hiked shoulders can add up."
+    },
+    {
+      "top": "Tip 1: <mark>Lighten</mark> the bag.",
+      "props": [
+        "backpack@720"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Or use a backpack, both straps.<br>The cactus can stay home."
+    },
+    {
+      "top": "Tip 2: Let your<br>shoulders <mark>drop</mark>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Set up your desk and car so<br>shoulders aren't hiked up."
+    },
+    {
+      "top": "Tip 3: Breathe <mark>low</mark>,<br>not high in the chest.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Relaxed belly breaths may ease<br>busy neck muscles."
+    },
+    {
+      "top": "Tip 4: Build <mark>shoulder</mark><br>strength, gently.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Plus gentle nerve gliding,<br>not aggressive stretching."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden swelling, colour change or cold arm"
+        }
+      ],
+      "bottom": "See a doctor promptly for those.<br>Slow burn? Book an assessment."
+    },
+    {
+      "top": "Heavy arms welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's tote bag holds everything, and by 3pm the whole arm feels heavy, with tingly little fingers and an achy neck.\n\nNerves (and sometimes blood vessels) pass through a tight space between the neck, first rib and collarbone. Overhead work, heavy bags, hiked-up shoulders and upper-chest breathing may all add pressure there.\n\nWhat often helps: lighten your bag or use both backpack straps, set up your desk and car so your shoulders can drop, practise relaxed lower breathing, and build shoulder strength with gentle nerve gliding. Progress is usually gradual.\n\nSudden arm swelling, colour change or a cold arm needs prompt medical care. Symptoms that keep building are worth assessing.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#armpain",
+    "#tinglingfingers",
+    "#neckpain",
+    "#thoracicoutlet",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood",
+    "#sydneycbd",
+    "#officehealth",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's arm feels heavy and tingly from a huge tote bag, and physio Kay shares four tips for the neck and shoulder.",
+  "story": {
+    "headline": "Heavy, tingly<br>arm by 3pm?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "blank",
+          "item": "bag",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-11-25",
+  "created": "2026-11-25-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

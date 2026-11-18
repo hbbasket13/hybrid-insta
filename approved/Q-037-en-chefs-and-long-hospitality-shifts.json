@@ -1,0 +1,227 @@
+{
+  "id": "Q-037-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 37,
+  "service": "physio",
+  "topic": "Chefs and long hospitality shifts",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/chefs-hospitality-workers-injuries/",
+  "slides": [
+    {
+      "top": "Quinn's first night<br>as a <em>line cook</em>.",
+      "props": [
+        "table"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Yes, chef!"
+        }
+      ],
+      "bottom": "12 hours, hard floors, no chairs."
+    },
+    {
+      "top": "Hour ten.<br>Feet: <em>on fire</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "Heels, arches, the lot."
+    },
+    {
+      "top": "Low fridge…<br><em>again</em>.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "The lower back filed a complaint."
+    },
+    {
+      "top": "Quinn saw Kay on<br>a day off.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "Is this just part of the job?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: common, not compulsory."
+    },
+    {
+      "top": "Long standing and<br>bending <mark>add up</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Load builds across long shifts"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Heat and late nights don't help."
+    },
+    {
+      "top": "Tip 1: Supportive,<br><mark>non-slip</mark> shoes.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Replace them when worn. Mats<br>help at fixed stations."
+    },
+    {
+      "top": "Tip 2: Keep knives<br><mark>sharp</mark>.",
+      "props": [
+        "table"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Sharp knife, lighter grip, happy wrist"
+        }
+      ],
+      "bottom": "Less grip force can mean<br>less forearm strain."
+    },
+    {
+      "top": "Tip 3: Mini moves<br>between <mark>orders</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Calf raises, shoulder rolls,<br>a foot up on a box."
+    },
+    {
+      "top": "Tip 4: <mark>Water</mark> and<br>real breaks.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "bottle"
+        }
+      ],
+      "bottom": "Hot kitchens dry you out fast."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Heel or wrist pain that won't settle"
+        }
+      ],
+      "bottom": "Deep cut or burn on the hand?<br>Get prompt medical care."
+    },
+    {
+      "top": "Yes, chef. Take care, chef.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first night as a line cook: twelve hours on hard floors, a very low fridge, and feet on fire by hour ten.\n\nLong standing, repeated bending, lifting pots and stock at pace, heat and late finishes can all add up across a shift. Aches are common in kitchens, but they don't have to be part of the uniform.\n\nWhat often helps: supportive, non-slip shoes replaced when worn, anti-fatigue mats at fixed stations, sharp knives to ease grip force, mini moves like calf raises and shoulder rolls between orders, plus water and proper breaks.\n\nHeel, arch or wrist pain that won't settle is worth getting checked. Deep cuts or burns to the hand need prompt medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chefs",
+    "#cheflife",
+    "#hospitality",
+    "#kitchenlife",
+    "#footpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka works a long kitchen shift and learns from physio Kay about good shoes, sharp knives, mini moves and breaks.",
+  "story": {
+    "headline": "Long shifts on<br>your feet?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "table"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-07",
+  "scheduled_time": "09:00",
+  "created": "2026-12-07-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,229 @@
+{
+  "id": "Q-019-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 19,
+  "service": "physio",
+  "topic": "Broken collarbone recovery",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/clavicle-fracture-recovery/",
+  "slides": [
+    {
+      "top": "Quinn showed off<br>a <em>cartwheel</em>.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "The landing was less impressive."
+    },
+    {
+      "top": "Landed on the shoulder.<br><em>Crack</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "X-ray: a broken collarbone."
+    },
+    {
+      "top": "Sleeping with a sling:<br>a whole new <em>sport</em>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Pillow fort engineering: expert."
+    },
+    {
+      "top": "Week 2. Quinn visited Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Will I ever wave again?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Dramatic? Quinn? Never."
+    },
+    {
+      "top": "Collarbones often <mark>heal</mark><br>in about 6 to 12 weeks.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Gentle movement helps along the way"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Rehab is matched to the break<br>and your doctor's plan."
+    },
+    {
+      "top": "Tip 1: Sling for comfort,<br>then <mark>wean off</mark> slowly.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Often after a few weeks, indoors<br>first. Follow your team."
+    },
+    {
+      "top": "Tip 2: Keep nearby joints<br><mark>moving</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Elbow, wrist, hand and neck<br>like gentle moves."
+    },
+    {
+      "top": "Tip 3: Let <mark>pain</mark> set<br>the pace.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined"
+        }
+      ],
+      "bottom": "A physio can map out the stages<br>for your daily life and sport."
+    },
+    {
+      "top": "Tip 4: Expect a <mark>bump</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "The healing lump often shrinks<br>over a year or so."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Tented skin, a wound, or a cold numb hand"
+        }
+      ],
+      "bottom": "Or breathless after the fall?<br>Get medical care promptly."
+    },
+    {
+      "top": "Waving again, step by step.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's cartwheel ended with a landing on the shoulder and a broken collarbone. Sleeping in a sling became a whole new sport.\n\nCollarbones often heal in about 6 to 12 weeks in adults, and rehab is matched to the type of break and your doctor's plan.\n\nWhat often helps: use the sling for comfort, then wean off gradually as advised, keep the elbow, wrist, hand and neck gently moving, and let pain guide the pace. A bump over the bone is common and often shrinks over a year or so. If you smoke, quitting can support bone healing.\n\nTented or white skin, an open wound, a cold or numb hand, or breathlessness after a fall needs prompt medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#brokencollarbone",
+    "#claviclefracture",
+    "#shoulderinjury",
+    "#fracturerehab",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood",
+    "#rehab",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka breaks a collarbone after a cartwheel and learns four recovery tips from physio Kay.",
+  "story": {
+    "headline": "Broken collarbone?<br>Here's the road back.",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sad",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-11-28",
+  "created": "2026-11-28-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

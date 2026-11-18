@@ -1,0 +1,231 @@
+{
+  "id": "Q-054-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 54,
+  "service": "physio",
+  "topic": "Exercise snacks: two minutes counts",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/exercise-snacks-short-bouts-guide/",
+  "slides": [
+    {
+      "top": "Quinn's gym plan:<br>start <em>next Monday</em>.",
+      "props": [
+        "calendar@200"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "blank",
+          "say": "Every Monday since March."
+        }
+      ],
+      "bottom": "The Monday never came."
+    },
+    {
+      "top": "Meanwhile: nine hours<br>of <em>sitting</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "sleepy",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Chair, desk, couch, repeat."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "I don't have a spare hour!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Good news: you don't need one."
+    },
+    {
+      "top": "Short bouts <mark>count</mark>.<br>Even 1–2 minutes.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Little and often adds up"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Brisk bursts and quick strength<br>moves, spread through the day."
+    },
+    {
+      "top": "Tip 1: Take the stairs<br>at a <mark>brisk</mark> pace.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A minute or two that makes<br>talking a bit harder."
+    },
+    {
+      "top": "Tip 2: Brushing teeth?<br>Add <mark>calf raises</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "happy"
+        }
+      ],
+      "bottom": "10–20 reps, no gym required."
+    },
+    {
+      "top": "Tip 3: Sit-to-stands<br>between <mark>meetings</mark>.",
+      "props": [
+        "chair@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Or a set of squats every time<br>you leave your desk."
+    },
+    {
+      "top": "Tip 4: Stand up every<br><mark>30–45 minutes</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "A brisk walk on a call counts too."
+    },
+    {
+      "top": "Already training?<br>Snacks are a <mark>bonus</mark>.",
+      "props": [
+        "dumbbell@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Bigger strength goals still<br>need progressive training."
+    },
+    {
+      "top": "Check in first if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Heart condition or long inactive? See GP"
+        }
+      ],
+      "bottom": "Sore joints? Pick walking,<br>seated moves or band work."
+    },
+    {
+      "top": "Two minutes starts now.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn has been starting the gym \"next Monday\" since March, while sitting for nine hours a day.\n\nGood news: short bouts count. Exercise snacks of one or two minutes, spread through the day, can add up, and sitting breaks help too.\n\nEasy ideas: take the stairs at a brisk pace, do calf raises while brushing your teeth, fit in sit-to-stands between meetings, and get up every 30 to 45 minutes. If you already train, snacks are a bonus rather than a swap.\n\nIf you have a heart condition or have been inactive for a long time, check with your GP before adding vigorous bursts. If joint pain limits stairs or squats, a physio can help you find options that suit you.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#exercisesnacks",
+    "#movemore",
+    "#deskjob",
+    "#officehealth",
+    "#strengthtraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka, who never has time for the gym, learns from physio Kay that two-minute exercise snacks count.",
+  "story": {
+    "headline": "No time to<br>exercise?",
+    "body": "Why 2 minutes counts",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "stairs@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-15",
+  "scheduled_time": "18:00",
+  "created": "2026-12-15-2",
+  "status": "approved",
+  "review_warnings": []
+}

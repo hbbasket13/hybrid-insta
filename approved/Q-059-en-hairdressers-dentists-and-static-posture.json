@@ -1,0 +1,239 @@
+{
+  "id": "Q-059-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 59,
+  "service": "physio",
+  "topic": "Hairdressers, dentists and static posture",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/hairdressers-dentists-posture-injuries/",
+  "slides": [
+    {
+      "top": "Quinn opened a salon.<br>Name: <em>Quinn's Cuts</em>.",
+      "props": [
+        "chair@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Fringes are my passion."
+        }
+      ],
+      "bottom": "Business was booming."
+    },
+    {
+      "top": "Arms up. Head tilted.<br>For <em>8 hours</em>.",
+      "props": [
+        "chair@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Every client, same side, all day."
+    },
+    {
+      "top": "By 5pm: neck, shoulders,<br><em>and</em> a headache.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "The dentist next door? Same."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "worried",
+          "say": "Is this just part of the job?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay says: not necessarily."
+    },
+    {
+      "top": "Unsupported arms keep<br>muscles <mark>working nonstop</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Fatigue builds over the hours"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Same position, same side, every<br>day — little time to recover."
+    },
+    {
+      "top": "Tip 1: <mark>Rest</mark> your<br>forearms when you can.",
+      "props": [
+        "table@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Supporting the arms may be the<br>most useful change of all."
+    },
+    {
+      "top": "Tip 2: Bring the work<br><mark>closer</mark>.",
+      "props": [
+        "chair@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Adjust the chair height instead<br>of reaching or bending."
+    },
+    {
+      "top": "Tip 3: 30-second<br><mark>micro-breaks</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Drop your arms, roll your<br>shoulders, then back to it."
+    },
+    {
+      "top": "Tip 4: Switch <mark>sides</mark>,<br>mix up tasks.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "flip": true
+        }
+      ],
+      "bottom": "Variety matters more than one<br>'perfect' posture."
+    },
+    {
+      "top": "Tip 5: Build neck and<br>shoulder <mark>endurance</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Lighter, sharper tools can<br>mean less grip, too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Hands go numb at night"
+        }
+      ],
+      "bottom": "Daily headaches? See your GP.<br>Weakness or worsening pain too."
+    },
+    {
+      "top": "Hard-working hands welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn opened a salon, Quinn's Cuts, and spent eight hours a day with arms up and head tilted. By 5pm: neck, shoulders and a headache. The dentist next door felt the same.\n\nWhen the arms are held up without support, neck and shoulder muscles keep working, and fatigue builds over the day, especially in the same position on the same side.\n\nTips that can help: rest your forearms when you can, bring the work closer, take 30-second micro-breaks, switch sides and mix up tasks, and build neck and shoulder endurance. Lighter, sharper tools may reduce grip effort too.\n\nNight-time hand numbness, weakness or worsening pain is worth getting checked. Daily headaches warrant a chat with your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hairdresser",
+    "#dentistlife",
+    "#neckpain",
+    "#workposture",
+    "#ergonomics",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka opens a hair salon, gets a sore neck and shoulders, and learns five posture-friendly work tips from physio Kay.",
+  "story": {
+    "headline": "Arms up<br>all day at work?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "props": [
+        "chair@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-18",
+  "scheduled_time": "09:00",
+  "created": "2026-12-18-1",
+  "status": "approved",
+  "review_warnings": []
+}

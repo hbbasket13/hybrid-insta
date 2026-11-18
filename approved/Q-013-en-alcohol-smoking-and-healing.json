@@ -1,0 +1,234 @@
+{
+  "id": "Q-013-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 13,
+  "service": "physio",
+  "topic": "Alcohol, smoking and healing",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/alcohol-smoking-injury-healing/",
+  "slides": [
+    {
+      "top": "Quinn rolled an ankle<br>at Saturday footy.",
+      "props": [
+        "ball@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Recovery plan: couch, snacks,<br>a few drinks?"
+    },
+    {
+      "top": "Party for one.<br>Guest of honour: the <em>ankle</em>.",
+      "props": [
+        "table@760"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "say": "Cheers to my ankle!",
+          "item": "cup"
+        }
+      ],
+      "bottom": "The ankle did not cheers back."
+    },
+    {
+      "top": "Slept after drinks.<br>Woke up <em>unrested</em>.",
+      "props": [
+        "bed",
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Rehab day? Felt like a sloth."
+    },
+    {
+      "top": "At rehab, Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Do drinks slow down healing?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Honest question. Honest answer."
+    },
+    {
+      "top": "Alcohol and smoking can<br><mark>slow repair</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Less oxygen, less sleep, slower repair"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Smoking cuts blood flow. Alcohol<br>disrupts deep sleep."
+    },
+    {
+      "top": "Tip 1: Go easy on drinks<br>in the <mark>first few days</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Early on, alcohol may add to<br>swelling. Water wins."
+    },
+    {
+      "top": "Tip 2: Keep it <mark>moderate</mark><br>during rehab.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Better sleep, better strength<br>gains from your training."
+    },
+    {
+      "top": "Tip 3: Smoke? Ask your GP<br>about <mark>quitting support</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "determined",
+          "item": "phone"
+        }
+      ],
+      "bottom": "Especially before surgery.<br>Quitline can help too."
+    },
+    {
+      "top": "Tip 4: Back the <mark>basics</mark>.",
+      "props": [
+        "trees@860",
+        "sun@200"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Sleep, enough protein and<br>staying active all help healing."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain or swelling isn't settling"
+        }
+      ],
+      "bottom": "Surgery coming up? Chat to your<br>GP or surgeon about habits."
+    },
+    {
+      "top": "Healing is a team sport.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn rolled an ankle at footy and planned a recovery party. The ankle was not impressed.\n\nAlcohol and smoking can slow tissue and bone repair. Smoking reduces blood flow and oxygen to healing tissue, and alcohol disrupts deep sleep and can blunt strength gains. The effects are mostly about heavy or frequent use, not a single drink.\n\nWhat often helps: go easy on alcohol in the first few days after an injury, keep it moderate during rehab, ask your GP about support to quit smoking (especially before planned surgery), and back the basics: sleep, protein and staying active.\n\nIf pain or swelling isn't settling, get it checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#injuryrecovery",
+    "#healing",
+    "#quitsmoking",
+    "#sportsinjury",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd",
+    "#chatswood",
+    "#rehab",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka rolls an ankle, plans a recovery party, and learns from physio Kay how alcohol and smoking can slow healing.",
+  "story": {
+    "headline": "Toasting your<br>injury?",
+    "body": "How drinks and smokes affect healing",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "item": "cup",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "props": [
+        "table@760"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-25",
+  "created": "2026-11-25-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

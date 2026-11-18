@@ -1,0 +1,240 @@
+{
+  "id": "Q-012-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 12,
+  "service": "physio",
+  "topic": "Fibromyalgia: what actually helps",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/fibromyalgia-explained-management/",
+  "slides": [
+    {
+      "top": "Quinn walked to the<br><em>letterbox</em>. That's it.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "blank",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Body review: one star.<br>Everywhere."
+    },
+    {
+      "top": "Aches here, there<br>and <em>everywhere</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "For months, not days."
+    },
+    {
+      "top": "Slept nine hours.<br>Woke up <em>tired</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sleepy",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Plus brain fog. Keys? Gone."
+    },
+    {
+      "top": "Quinn's GP mentioned<br><mark>fibromyalgia</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sad",
+          "say": "My scans were normal. So what is it?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "So Quinn asked Kay what helps."
+    },
+    {
+      "top": "The pain system can get<br><mark>extra sensitive</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Pain doesn't always mean damage"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Like a smoke alarm that goes off<br>every time you make toast."
+    },
+    {
+      "top": "Tip 1: Move, but start<br><mark>smaller</mark> than you think.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Gentle walks and light strength,<br>built up very gradually."
+    },
+    {
+      "top": "Tip 2: <mark>Pace</mark> it,<br>even on good days.",
+      "props": [
+        "table@760"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Skip the boom-and-bust cycle.<br>Steady beats heroic."
+    },
+    {
+      "top": "Tip 3: Look after<br><mark>sleep</mark>.",
+      "props": [
+        "bed",
+        "blanket",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Poor sleep and pain feed each<br>other. A steady routine helps."
+    },
+    {
+      "top": "Tip 4: Learn how<br><mark>pain works</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "item": "book",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Knowing hurt isn't always harm<br>can ease the worry."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Widespread pain that lasts months"
+        }
+      ],
+      "bottom": "Start with your GP. They can<br>rule other things out."
+    },
+    {
+      "top": "Go gently. We're here.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn walked to the letterbox and felt like they'd run a marathon. Aches everywhere, tired after a full night's sleep, and a foggy brain.\n\nFibromyalgia is linked to a pain system that has become extra sensitive, a bit like a smoke alarm that goes off when you make toast. That's why scans often look normal.\n\nThings that often help: start exercise smaller than you think and build slowly, pace yourself even on good days, protect your sleep routine, and learn how pain works. Progress is often gradual, with ups and downs.\n\nIf you've had widespread pain for months, start with your GP, who can rule out other causes and coordinate care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#fibromyalgia",
+    "#chronicpain",
+    "#painscience",
+    "#pacing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood",
+    "#sydneycbd",
+    "#gentleexercise",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka aches all over, learns from physio Kay that the pain system can become sensitive, and tries four gentle tips.",
+  "story": {
+    "headline": "Aching all over<br>for months?",
+    "body": "4 gentle tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "sleepy",
+          "item": "cup"
+        }
+      ],
+      "props": [
+        "table@760"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-24",
+  "created": "2026-11-24-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,227 @@
+{
+  "id": "Q-060-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 60,
+  "service": "physio",
+  "topic": "Golf: back, elbow and shoulder",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/golf-injuries-back-elbow-shoulder/",
+  "slides": [
+    {
+      "top": "Quinn's first golf day<br>in <em>six months</em>.",
+      "props": [
+        "hill",
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud",
+          "say": "Three buckets, please!"
+        }
+      ],
+      "bottom": "Ambitious. Very ambitious."
+    },
+    {
+      "top": "Swings 1 to 300:<br><em>no</em> warm-up.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "What could possibly go wrong?"
+    },
+    {
+      "top": "Next morning: back, elbow<br><em>and</em> shoulder.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "The full golf combo."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Why does golf hurt everywhere?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay talked swings and sitting."
+    },
+    {
+      "top": "Stiff hips and mid-back?<br>The <mark>low back</mark> pays.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "A fast twist, ~100 times a round"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Add a week at a desk and<br>a sudden jump in practice."
+    },
+    {
+      "top": "Tip 1: Warm up for<br>about <mark>10 minutes</mark>.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Moving drills, then short irons<br>before the driver."
+    },
+    {
+      "top": "Tip 2: Rotate the hips<br>and <mark>mid-back</mark> daily.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A few minutes most days helps<br>share the turn around."
+    },
+    {
+      "top": "Tip 3: Strength train<br><mark>twice</mark> a week.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Legs, hips, trunk and<br>the rotator cuff."
+    },
+    {
+      "top": "Tip 4: Build practice<br><mark>gradually</mark>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Easy grip, fitted clubs,<br>and a push cart for the bag."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain that lingers or gets worse"
+        }
+      ],
+      "bottom": "Numbness or weakness, too.<br>Sore elbow? Ease off early."
+    },
+    {
+      "top": "See you on the fairway.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first golf day in six months: three buckets, 300 swings, no warm-up. Next morning, back, elbow and shoulder all had opinions.\n\nThe golf swing is a fast twist repeated around a hundred times a round. If the hips and mid-back are stiff, the low back often takes up the slack, and a sudden jump in practice after a week at a desk adds to it.\n\nTips that may help: a ten-minute dynamic warm-up starting with short irons, daily hip and mid-back rotation, strength training twice a week, and building practice gradually with an easy grip, fitted clubs and a push cart.\n\nPain that lingers or gets worse, or any numbness or weakness, is worth getting checked. Easing off a sore elbow early is wise.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#golf",
+    "#golfinjury",
+    "#golffitness",
+    "#lowbackpain",
+    "#golferselbow",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes a first golf day back and physio Kay shares warm-up, mobility, strength and practice tips.",
+  "story": {
+    "headline": "Back to golf<br>after a break?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "hill",
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-18",
+  "scheduled_time": "18:00",
+  "created": "2026-12-18-2",
+  "status": "approved",
+  "review_warnings": []
+}

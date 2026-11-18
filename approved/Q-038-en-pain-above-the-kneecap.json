@@ -1,0 +1,228 @@
+{
+  "id": "Q-038-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 38,
+  "service": "physio",
+  "topic": "Pain above the kneecap",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/quadriceps-tendinopathy-knee/",
+  "slides": [
+    {
+      "top": "Quinn chased a<br><em>deeper</em> squat.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "proud",
+          "say": "Deeper. DEEPER."
+        }
+      ],
+      "bottom": "New flat shoes, extra sets. Why not?"
+    },
+    {
+      "top": "Next morning: a spot<br><em>above the kneecap</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Weirdly fine once warmed up."
+    },
+    {
+      "top": "The office stairs.<br>Each one a <em>boss level</em>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Quinn took the lift. Twice."
+    },
+    {
+      "top": "Time to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is it jumper's knee?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Close, but one floor up."
+    },
+    {
+      "top": "Above the kneecap may be<br>the <mark>quad tendon</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Deep knee bends load it a lot"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Often after a sudden jump in load."
+    },
+    {
+      "top": "Tip 1: <mark>Adjust</mark>,<br>don't stop.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Less depth, slower, fewer sets.<br>Total rest can weaken tendons."
+    },
+    {
+      "top": "Tip 2: Try a<br>steady <mark>hold</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Holds may ease pain for some,<br>not everyone."
+    },
+    {
+      "top": "Tip 3: Slow, steady<br>and <mark>progressive</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Mild discomfort can be OK.<br>Strength is the main event."
+    },
+    {
+      "top": "Tip 4: Check the<br><mark>next-day</mark> knee.",
+      "props": [
+        "bed",
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Stiffer or sorer tomorrow?<br>Ease back a little."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A pop, or can't straighten it: same day"
+        }
+      ],
+      "bottom": "Hot, swollen or locked knee?<br>Same-day assessment, too."
+    },
+    {
+      "top": "Patience is a <em>muscle</em>, too.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn chased a deeper squat with new flat shoes and extra sets. Next morning: a sore spot just above the kneecap.\n\nPain there may come from the quadriceps tendon, which gets loaded a lot in deep knee bends. It often follows a sudden jump in training, like more depth or volume.\n\nWhat often helps: adjust rather than stop, since complete rest can leave tendons less ready for load; try steady holds, which may ease pain for some; build slow, progressive strength; and use the next-day response as your guide. Tendons usually need months, so consistency matters.\n\nA sudden pop, or being unable to straighten the knee, needs same-day assessment, as does a hot, swollen or locked knee.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneepain",
+    "#quadtendon",
+    "#tendinopathy",
+    "#squats",
+    "#strengthtraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#gymlife"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets pain above the kneecap after deeper squats and learns from physio Kay to adjust load, try holds, build strength and check the next-day response.",
+  "story": {
+    "headline": "Sore just above<br>the kneecap?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "props": [
+        "mat"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-07",
+  "scheduled_time": "18:00",
+  "created": "2026-12-07-2",
+  "status": "approved",
+  "review_warnings": []
+}

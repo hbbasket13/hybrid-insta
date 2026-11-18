@@ -1,0 +1,217 @@
+{
+  "id": "Q-030-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 30,
+  "service": "physio",
+  "topic": "Netball: landing and pivoting",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/netball-injuries-knee-ankle/",
+  "slides": [
+    {
+      "top": "Saturday: Quinn's first<br><em>netball</em> game.",
+      "props": [
+        "ball@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "shout": "MINE!"
+        }
+      ],
+      "bottom": "Bib on. Confidence: high."
+    },
+    {
+      "top": "Catch, stop, <em>pivot</em>.<br>Over and over.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "surprised",
+          "fx": [
+            "motion",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "No running with the ball,<br>it seems."
+    },
+    {
+      "top": "Then: landed on a <em>foot</em>.<br>Not Quinn's.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "The ankle did a little roll."
+    },
+    {
+      "top": "Quinn hobbled<br>over to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried",
+          "say": "Why are netball ankles SO dramatic?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Bib still on."
+    },
+    {
+      "top": "Netball means sudden<br><mark>stops and landings</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Quick stops load knees and ankles"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Ankles and knees take most<br>of that load."
+    },
+    {
+      "top": "Tip 1: A proper<br><mark>warm-up</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy"
+        }
+      ],
+      "bottom": "About 15 minutes of moving,<br>hopping and landing drills."
+    },
+    {
+      "top": "Tip 2: Land <mark>soft</mark>,<br>knee over toes.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Don't let the knee cave in.<br>Land on two feet if you can."
+    },
+    {
+      "top": "Tip 3: Single-leg<br><mark>balance</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Great for ankles — every<br>sprain needs it in rehab."
+    },
+    {
+      "top": "Tip 4: Strong <mark>hamstrings</mark><br>and glutes.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Practise sharp turns at<br>training, not first in a game."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Knee swells, gives way or can't take weight"
+        }
+      ],
+      "bottom": "An ankle that keeps rolling<br>is worth a check too."
+    },
+    {
+      "top": "See you at the courts.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first netball game: catch, stop, pivot, repeat. Then Quinn landed on someone else's foot and the ankle did a little roll.\n\nBecause you can't run with the ball, netball is full of sudden stops, one-foot landings and pivots. Ankles and knees take much of that load.\n\nWhat often helps: a 15-minute neuromuscular warm-up before play, soft landings with the knee tracking over the toes, single-leg balance work, and strong hamstrings and glutes. Practise sharp changes of direction at training before game day, and fully rehab every sprain.\n\nIf a knee swells, gives way or can't take weight, or an ankle keeps rolling, get it checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#netball",
+    "#netballinjuries",
+    "#anklesprain",
+    "#aclprevention",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood",
+    "#sydneycbd",
+    "#sportsphysio",
+    "#netballlife"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka plays a first netball game, rolls an ankle, and learns warm-up, landing, balance and strength tips from physio Kay.",
+  "story": {
+    "headline": "Netball season<br>is here!",
+    "body": "Landing tips in Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "item": "ball"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-03",
+  "scheduled_time": "18:00",
+  "created": "2026-12-03-2",
+  "status": "approved",
+  "review_warnings": []
+}

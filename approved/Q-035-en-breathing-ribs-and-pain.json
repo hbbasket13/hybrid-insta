@@ -1,0 +1,225 @@
+{
+  "id": "Q-035-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 35,
+  "service": "physio",
+  "topic": "Breathing, ribs and pain",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/breathing-mechanics-pain-guide/",
+  "slides": [
+    {
+      "top": "Deadline day.<br>Quinn forgot to <em>breathe</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Shoulders up near the ears."
+    },
+    {
+      "top": "4pm.<br>Neck: <em>concrete</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Breaths coming from the shoulders."
+    },
+    {
+      "top": "Quinn found a viral<br><em>breathing hack</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "It promised a brand-new ribcage."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Can breathing really affect my neck?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay said: a bit, maybe."
+    },
+    {
+      "top": "Upper-chest breathing<br>works <mark>neck muscles</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "All day long, that can add up"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "But it won't reshape your ribs."
+    },
+    {
+      "top": "Tip 1: Breathe <mark>low</mark><br>and slow.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Through the nose, ribs widening<br>sideways, shoulders relaxed."
+    },
+    {
+      "top": "Tip 2: Take <mark>breath breaks</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A few slow breaths at your desk<br>can help settle stress."
+    },
+    {
+      "top": "Tip 3: Learn to <mark>brace</mark><br>for heavy lifts.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "determined"
+        }
+      ],
+      "bottom": "A coach can show you how to<br>brace and breathe together."
+    },
+    {
+      "top": "Tip 4: It's a helper,<br>not the <em>whole</em> plan.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Keep up strength work and<br>active treatment, too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Breathless, chest tight or dizzy? GP first"
+        }
+      ],
+      "bottom": "Snoring or sleepy all day?<br>Chat with your GP, too."
+    },
+    {
+      "top": "Breathe easy, Sydney.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Deadline day: Quinn forgot to breathe, the shoulders crept up, and by 4pm the neck felt like concrete.\n\nBreathing high into the upper chest all day can keep extra work on the neck muscles. Breathing retraining can be a useful part of care for some neck pain, but it won't reshape your ribs or replace strength training.\n\nWhat often helps: breathe low and slow through the nose, letting the ribs widen sideways; take a few slow breaths during desk breaks; learn to brace properly for heavy lifts; and keep active treatment and strength work going.\n\nBreathlessness, chest tightness or dizziness should be checked by your GP first. Snoring or daytime sleepiness is worth a GP chat too.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#breathing",
+    "#breathwork",
+    "#neckpain",
+    "#deskjob",
+    "#officelife",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka holds tension at the desk and learns from physio Kay how low, slow breathing, breath breaks and bracing can help alongside strength work.",
+  "story": {
+    "headline": "Neck tight by<br>4pm?",
+    "body": "Breathing tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "props": [
+        "clock@840"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-06",
+  "scheduled_time": "09:00",
+  "created": "2026-12-06-1",
+  "status": "approved",
+  "review_warnings": []
+}
