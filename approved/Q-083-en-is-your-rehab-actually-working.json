@@ -1,0 +1,219 @@
+{
+  "id": "Q-083-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 83,
+  "service": "physio",
+  "topic": "Is your rehab actually working?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/is-rehab-program-working-signs/",
+  "slides": [
+    {
+      "top": "Quinn's rehab, week 9.<br>Same <em>3 exercises</em>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Same reps. Same weight. Zzz."
+    },
+    {
+      "top": "Pain today: 5.<br>Yesterday: <em>3</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad"
+        }
+      ],
+      "bottom": "Is this even working?!"
+    },
+    {
+      "top": "Quinn tracked pain<br><em>every hour</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "The spreadsheet got dramatic."
+    },
+    {
+      "top": "Quinn brought it to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "My pain goes up and down!"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay zoomed out a little."
+    },
+    {
+      "top": "Recovery is rarely a<br><mark>straight line</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Function can improve before pain does"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "And exercises need to get<br>harder over time."
+    },
+    {
+      "top": "Tip 1: Track <mark>2–3</mark><br>measures.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "book"
+        }
+      ],
+      "bottom": "Walking time, reps or load,<br>and a weekly pain average."
+    },
+    {
+      "top": "Tip 2: Review every<br><mark>two weeks</mark>.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Daily ups and downs are<br>mostly noise."
+    },
+    {
+      "top": "Tip 3: Spot the<br><mark>quieter</mark> wins.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Shorter bad days, quicker<br>settling, better sleep."
+    },
+    {
+      "top": "Tip 4: Make it <mark>harder</mark>,<br>bit by bit.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Ask your clinician for a<br>clear progression plan."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "No change after a real 6–8 week go"
+        }
+      ],
+      "bottom": "New numbness, weakness or<br>spreading pain? Book a review."
+    },
+    {
+      "top": "Progress, not perfection.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn is on week nine of rehab: same three exercises, same weight, and a pain score that changes every day. Is it even working?\n\nRecovery is rarely a straight line. Function can improve before pain does, and exercises usually need to get gradually harder to keep driving change.\n\nSome ways to judge it: track two or three measures (like walking time, reps or load, and a weekly pain average), review every two weeks rather than daily, notice quieter wins such as shorter bad days and better sleep, and ask your clinician for a clear progression plan.\n\nIf nothing has shifted after a genuine 6–8 weeks, or you notice new numbness, weakness or spreading pain, a review is a good idea.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#rehab",
+    "#exerciserehab",
+    "#painrecovery",
+    "#strengthtraining",
+    "#physiotips",
+    "#sydneycbd",
+    "#chatswood",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka wonders if rehab is working, and physio Kay shares tracking, reviewing and progression tips.",
+  "story": {
+    "headline": "Is your rehab<br>actually working?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "book"
+        }
+      ],
+      "props": [
+        "mat"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-30",
+  "created": "2026-12-30-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

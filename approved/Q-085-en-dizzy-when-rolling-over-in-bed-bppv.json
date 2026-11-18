@@ -1,0 +1,227 @@
+{
+  "id": "Q-085-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 85,
+  "service": "physio",
+  "topic": "Dizzy when rolling over in bed (BPPV)",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/bppv-vertigo-dizziness-treatment-2/",
+  "slides": [
+    {
+      "top": "6am. Quinn rolls over…<br>the room <em>spins</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "surprised",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "The ceiling did a full lap."
+    },
+    {
+      "top": "Sitting still?<br>Fine <em>again</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "think": "Was that a dream?"
+        }
+      ],
+      "bottom": "Under a minute, then calm."
+    },
+    {
+      "top": "Reaching the top shelf…<br><em>whoosh</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "surprised",
+          "fx": [
+            "motion",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Certain head moves set it off."
+    },
+    {
+      "top": "Quinn visited Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is my head broken?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked when it happens."
+    },
+    {
+      "top": "Tiny ear crystals can<br><mark>drift</mark> out of place.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Head moves then send false spin signals"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "This is called BPPV."
+    },
+    {
+      "top": "Tip 1: Get the <mark>right</mark><br>diagnosis first.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "neutral"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Which ear and canal matter<br>for which move helps."
+    },
+    {
+      "top": "Tip 2: A guided<br><mark>repositioning</mark> move.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Like the Epley. Brief dizziness<br>during it is common."
+    },
+    {
+      "top": "Tip 3: Go <mark>easy</mark><br>for a day or two.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Mild unsteadiness afterwards<br>is common."
+    },
+    {
+      "top": "Tip 4: Know your<br><mark>early signs</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "proud"
+        }
+      ],
+      "bottom": "It can come back, and the same<br>approach often helps again."
+    },
+    {
+      "top": "See a doctor promptly if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Constant spinning or new severe headache"
+        }
+      ],
+      "bottom": "Double vision, slurred speech,<br>weakness or hearing loss?"
+    },
+    {
+      "top": "Steady on, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn rolled over in bed at 6am and the whole room spun. Sitting still, it settled within a minute, then came back when reaching for the top shelf.\n\nBrief dizziness set off by certain head positions can be BPPV: tiny crystals in the inner ear drift into a balance canal, so head movements send false spinning signals.\n\nWhat often helps: get the right diagnosis first (which ear and canal matter), then a guided repositioning manoeuvre like the Epley. Feeling briefly dizzy during it, and a bit unsteady for a day or two after, is common. It can come back, and the same approach often helps again.\n\nConstant vertigo, a new severe headache, double vision, slurred speech, weakness or hearing loss need prompt medical assessment.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#vertigo",
+    "#bppv",
+    "#dizziness",
+    "#vestibularphysio",
+    "#balance",
+    "#sydneycbd",
+    "#chatswood",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets dizzy rolling over in bed and physio Kay explains BPPV with diagnosis, repositioning and recovery tips.",
+  "story": {
+    "headline": "Room spins when<br>you roll over?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "surprised",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "bed"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-31",
+  "created": "2026-12-31-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,218 @@
+{
+  "id": "Q-098-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 98,
+  "service": "physio",
+  "topic": "New parent wrist and thumb pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/new-parent-wrist-thumb-pain/",
+  "slides": [
+    {
+      "top": "Quinn is now a<br><em>parent</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "happy",
+          "say": "Best job ever.",
+          "fx": [
+            "heart"
+          ]
+        }
+      ],
+      "bottom": "Tiny joey. Huge feelings."
+    },
+    {
+      "top": "Week 8: the joey gets<br><em>heavier</em> every day.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Lift, feed, burp, repeat. ×100."
+    },
+    {
+      "top": "Now the thumb side of<br>the wrist says <em>nope</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "sore",
+          "fx": [
+            "exclaim",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Even opening a bottle stings."
+    },
+    {
+      "top": "Quinn visited Kay<br>during nap time.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sleepy",
+          "say": "Is parenting a sport now?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: kind of, yes."
+    },
+    {
+      "top": "Lots of <mark>reps</mark>, little<br>rest, less sleep.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Scooping strains the thumb side"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Partners get it too — it's<br>mostly the lifting."
+    },
+    {
+      "top": "Tip 1: Lift with <mark>straight</mark><br>wrists.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Thumbs in, forearms do the work"
+        }
+      ],
+      "bottom": "Bring bub close, use both<br>hands, and swap sides."
+    },
+    {
+      "top": "Tip 2: Go easy on<br>the <mark>thumb</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone",
+          "say": "Less scrolling? Rude."
+        }
+      ],
+      "bottom": "Long scrolls, wringing cloths,<br>one-handed pram pushing."
+    },
+    {
+      "top": "Tip 3: A <mark>thumb splint</mark><br>can help.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Worn for the tricky tasks —<br>sometimes overnight."
+    },
+    {
+      "top": "Tip 4: <mark>Strength</mark> once<br>it settles.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Grip, thumb and forearm work<br>to help it stay away."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Numbness, tingling or weakness"
+        }
+      ],
+      "bottom": "Severe pain, or not easing<br>with changes? Get it checked."
+    },
+    {
+      "top": "Parents welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn became a parent. By week eight the joey was heavier every day, and the thumb side of Quinn's wrist started saying nope, even to opening a bottle.\n\nScooping a baby under the arms bends the wrist with the thumb stuck out, and new parents do it many times a day with little rest and less sleep. Partners can get it too.\n\nWhat often helps: lifting with straight wrists and both hands, bringing bub close and swapping sides, easing thumb-heavy tasks like long scrolling, a thumb splint for tricky tasks, and grip and forearm strength once it settles.\n\nNumbness, tingling, weakness, severe pain, or pain that isn't easing with changes is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#newparent",
+    "#newmum",
+    "#wristpain",
+    "#thumbpain",
+    "#postpartum",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where new parent Quinn the quokka develops thumb-side wrist pain and learns lifting, thumb, splint and strength tips from physio Kay.",
+  "story": {
+    "headline": "New parent with<br>a sore wrist?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "happy",
+          "fx": [
+            "heart"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-06",
+  "created": "2027-01-06-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

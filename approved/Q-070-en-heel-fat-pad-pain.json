@@ -1,0 +1,222 @@
+{
+  "id": "Q-070-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 70,
+  "service": "physio",
+  "topic": "Heel fat pad pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/heel-fat-pad-syndrome-guide/",
+  "slides": [
+    {
+      "top": "Quinn went full<br><em>barefoot</em> at home.",
+      "props": [
+        "plant@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "proud",
+          "say": "Free feet, free spirit."
+        }
+      ],
+      "bottom": "Tiles everywhere. Hard ones."
+    },
+    {
+      "top": "A week later. Heel:<br>like a <em>bruise</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Right in the middle of the heel."
+    },
+    {
+      "top": "Worse after a long<br>day <em>standing</em>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "blank",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Concrete: zero sympathy."
+    },
+    {
+      "top": "Quinn hobbled<br>in to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried",
+          "say": "Is it the plantar thing?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the heel."
+    },
+    {
+      "top": "The heel's <mark>cushion</mark><br>may be irritated.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Centre of heel, builds with load"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Different from first-step<br>morning heel pain."
+    },
+    {
+      "top": "Tip 1: <mark>Cushion</mark> it.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Heel cups, gel pads, or<br>well-padded shoes."
+    },
+    {
+      "top": "Tip 2: <mark>Slippers</mark> on<br>hard floors.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "say": "Barefoot era: over."
+        }
+      ],
+      "bottom": "Often the biggest change<br>at home."
+    },
+    {
+      "top": "Tip 3: Less concrete,<br>more <mark>cross-training</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Swim or cycle while it settles.<br>Mats help at standing jobs."
+    },
+    {
+      "top": "Tip 4: Build <mark>calf</mark><br>and foot strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Be patient: often 6–12 weeks."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Severe pain, or after a fall from height"
+        }
+      ],
+      "bottom": "Numbness, or no change with<br>cushioning? Get it checked."
+    },
+    {
+      "top": "Treat your heels kindly.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn went full barefoot on hard tiles at home. A week later, the middle of the heel felt like a deep bruise, worse after a long day standing.\n\nThat pattern can point to an irritated heel fat pad, the heel's natural cushion. It's different from plantar heel pain, which tends to be worst with the first steps in the morning.\n\nWhat can help: cushion it with heel cups, gel pads or well-padded shoes, wear slippers on hard floors, swap some concrete walking or running for swimming or cycling, use mats at standing jobs, and build calf and foot strength. Recovery is often slow, around 6–12 weeks.\n\nSevere pain, pain after a fall from height, numbness, or no change with cushioning is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#heelpain",
+    "#footpain",
+    "#fatpad",
+    "#barefoot",
+    "#standingjob",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka walks barefoot on hard floors, gets a bruised-feeling heel, and learns cushioning, slipper, cross-training and strength tips from physio Kay.",
+  "story": {
+    "headline": "Heel feel like<br>a bruise?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-23",
+  "scheduled_time": "18:00",
+  "created": "2026-12-23-2",
+  "status": "approved",
+  "review_warnings": []
+}

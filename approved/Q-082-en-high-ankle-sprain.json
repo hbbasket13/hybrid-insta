@@ -1,0 +1,225 @@
+{
+  "id": "Q-082-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 82,
+  "service": "physio",
+  "topic": "High ankle sprain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/high-ankle-sprain-syndesmosis-guide/",
+  "slides": [
+    {
+      "top": "Quinn's footy debut.<br>Big <em>pivot</em> energy.",
+      "props": [
+        "ball@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "shout": "Watch this move!"
+        }
+      ],
+      "bottom": "The foot stayed. Quinn didn't."
+    },
+    {
+      "top": "A week later…<br>still <em>sore</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Higher up than a usual sprain."
+    },
+    {
+      "top": "Stairs: Quinn's new<br><em>enemy</em>.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "blank",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Pushing off hurts the most."
+    },
+    {
+      "top": "Quinn limped in to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Don't sprains settle in a week?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay took a careful look."
+    },
+    {
+      "top": "It may be a <mark>high</mark><br>ankle sprain.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "The link between shin bones is strained"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Every step loads it, so it<br>often takes longer to settle."
+    },
+    {
+      "top": "Tip 1: Get it <mark>assessed</mark><br>early.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "neutral"
+        },
+        {
+          "who": "kay",
+          "pose": "crouch",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Stability shapes the plan.<br>Imaging is sometimes needed."
+    },
+    {
+      "top": "Tip 2: <mark>Protect</mark> it<br>at first.",
+      "props": [
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "sleepy"
+        }
+      ],
+      "bottom": "Sometimes a boot for comfort,<br>as your physio advises."
+    },
+    {
+      "top": "Tip 3: Rebuild <mark>calf</mark><br>and balance.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Movement, strength, balance,<br>then walk, jog, cut."
+    },
+    {
+      "top": "Tip 4: Let <mark>push-off</mark><br>set the pace.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Not the calendar. Stable ones<br>often take 6–12 weeks."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Can't bear weight on it"
+        }
+      ],
+      "bottom": "Or a sprain that isn't settling<br>the way it should?"
+    },
+    {
+      "top": "Pivot with care, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's footy debut: one big pivot on a planted foot, and a week later the ankle is still sore, higher up than a usual sprain. Stairs are the worst.\n\nThis can be a high ankle sprain, where the connection between the two shin bones above the ankle is strained. Each step loads it, so it often takes longer to settle than a classic rolled ankle.\n\nWhat often helps: an early assessment (stability shapes the plan), protecting it at first, then rebuilding movement, calf strength and balance before walking, jogging and cutting. Let push-off tolerance, not the calendar, guide you.\n\nIf you can't bear weight, or the sprain isn't settling as expected, get it checked promptly.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#anklesprain",
+    "#highanklesprain",
+    "#footyinjury",
+    "#sportsphysio",
+    "#anklerehab",
+    "#chatswood",
+    "#sydneycbd",
+    "#sportsinjury",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka twists an ankle playing footy and physio Kay explains high ankle sprains with assessment, protection, strength and pacing tips.",
+  "story": {
+    "headline": "Ankle sprain<br>not settling?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "ball"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-29",
+  "created": "2026-12-29-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

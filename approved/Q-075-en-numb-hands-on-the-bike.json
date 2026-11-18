@@ -1,0 +1,222 @@
+{
+  "id": "Q-075-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 75,
+  "service": "physio",
+  "topic": "Numb hands on the bike",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/numb-hands-cycling-handlebar-palsy/",
+  "slides": [
+    {
+      "top": "Quinn bought<br><em>full lycra</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Aero. Sleek. Fast.",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Big weekend ride: booked."
+    },
+    {
+      "top": "Kilometre 60.<br>Pinkies: <em>missing</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sore",
+          "think": "Where did my fingers go?",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Ring and little fingers: asleep."
+    },
+    {
+      "top": "Indoor trainer day.<br>Hands tingly <em>again</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Quinn googled it. 40 tabs open."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Are numb hands just part of cycling?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: common, but not required."
+    },
+    {
+      "top": "Pressure plus <mark>buzz</mark><br>can squash a nerve.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Too much weight through the palms"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Long rides push it<br>past the threshold."
+    },
+    {
+      "top": "Tip 1: Swap hand spots<br><mark>every few minutes</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Tops, hoods, drops, repeat"
+        }
+      ],
+      "bottom": "Keep elbows soft and relaxed."
+    },
+    {
+      "top": "Tip 2: Get a<br><mark>bike fit</mark>.",
+      "props": [
+        "clock@850"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Level saddle, bars in reach,<br>weight balanced over the bike."
+    },
+    {
+      "top": "Tip 3: <mark>Padding</mark> helps.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy",
+          "say": "New padded gloves!",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Padded gloves, cushioned tape,<br>slightly wider tyres."
+    },
+    {
+      "top": "Tip 4: Strong <mark>trunk</mark>,<br>lighter hands.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "A strong core means less<br>leaning on the bars."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Numbness lasts more than a day or two"
+        }
+      ],
+      "bottom": "Clumsy hands, or numb off<br>the bike? Get it looked at."
+    },
+    {
+      "top": "Ride on, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought full lycra for a big ride. By kilometre 60, the ring and little fingers had gone to sleep.\n\nNumb hands on the bike are common. Pressure on the heel of the palm plus road buzz can irritate a nerve, especially when too much weight goes through your hands on long or static indoor rides.\n\nWhat often helps: changing hand positions every few minutes with relaxed elbows, a bike fit to balance your weight, padded gloves or bar tape, and building trunk strength so you lean less on the bars.\n\nNumbness lasting more than a day or two, clumsy or weak hands, thinning hand muscles or symptoms off the bike are worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#cycling",
+    "#roadcycling",
+    "#numbhands",
+    "#bikefit",
+    "#sydneycycling",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets numb fingers on a long bike ride and learns hand position, bike fit, padding and trunk strength tips from physio Kay.",
+  "story": {
+    "headline": "Numb fingers<br>on long rides?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-26",
+  "scheduled_time": "09:00",
+  "created": "2026-12-26-1",
+  "status": "approved",
+  "review_warnings": []
+}

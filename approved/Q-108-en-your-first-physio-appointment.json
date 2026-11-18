@@ -1,0 +1,231 @@
+{
+  "id": "Q-108-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 108,
+  "service": "physio",
+  "topic": "Your first physio appointment",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/what-happens-first-physio-appointment/",
+  "slides": [
+    {
+      "top": "Quinn's first physio<br>visit. <em>Nerves</em>: high.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "What even happens in there?"
+    },
+    {
+      "top": "Quinn packed for<br><em>every</em> scenario.",
+      "props": [
+        "suitcase@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "bag"
+        }
+      ],
+      "bottom": "Snacks. Torch. A spare umbrella."
+    },
+    {
+      "top": "Wore skinny jeans.<br>For a <em>knee</em> issue.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Rolling them up: not an option."
+    },
+    {
+      "top": "Kay said hi first.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "worried",
+          "say": "So… what happens now?"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Step 1: a chat. Just talking."
+    },
+    {
+      "top": "Kay asks what <mark>happened</mark><br>and your goals.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "What makes it better or worse?"
+        },
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Sleep, work, activity, history."
+    },
+    {
+      "top": "Then: how you <mark>move</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "crouch",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Range, strength, a few tests."
+    },
+    {
+      "top": "Next: a plain-English<br><mark>explanation</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Here's what it is, and isn't"
+        },
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Then treatment and a home plan."
+    },
+    {
+      "top": "Tip 1: Wear <mark>shorts</mark><br>or a singlet.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Bring scans, reports and<br>a medication list."
+    },
+    {
+      "top": "Tip 2: Ask your<br><mark>questions</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "How will we measure progress?"
+        }
+      ],
+      "bottom": "And you can say stop anytime."
+    },
+    {
+      "top": "Tip 3: Allow <mark>extra</mark><br>time.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "First visits usually run longer."
+    },
+    {
+      "top": "Medical care first if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Major injury or chest pain"
+        }
+      ],
+      "bottom": "Or numbness or weakness<br>that's getting worse."
+    },
+    {
+      "top": "Nerves: officially low.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first physio visit: nerves high, bag packed for every scenario, and skinny jeans for a knee problem.\n\nHere's what usually happens. First, a chat about what happened, what makes it better or worse, and your goals. Then a look at how you move, with some strength and range tests. Next, a plain-language explanation, some treatment and a plan for home.\n\nA few tips: wear shorts or a singlet so the area is easy to reach, bring any scans, reports and a medication list, ask your questions, and allow extra time because first visits run longer. You can say stop at any point.\n\nMajor injuries, chest pain or worsening numbness or weakness need medical care first.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#firstphysio",
+    "#physiovisit",
+    "#whattoexpect",
+    "#kneepain",
+    "#backpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where nervous Quinn the quokka has a first physio appointment and physio Kay walks through the chat, assessment, explanation and plan.",
+  "story": {
+    "headline": "First physio visit<br>nerves?",
+    "body": "What to expect, in Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-11",
+  "scheduled_time": "18:00",
+  "created": "2027-01-11-2",
+  "status": "approved",
+  "review_warnings": []
+}

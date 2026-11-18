@@ -1,0 +1,216 @@
+{
+  "id": "Q-104-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 104,
+  "service": "physio",
+  "topic": "The dimple-level ache (SI joint)",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/sacroiliac-joint-pain-guide/",
+  "slides": [
+    {
+      "top": "Quinn's favourite pose:<br>the <em>flamingo</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "One leg. All day. Elegant."
+        }
+      ],
+      "bottom": "Plus a heavy bag, one shoulder."
+    },
+    {
+      "top": "Then: an ache by the<br><em>dimple</em> above the bum.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "One side. Very specific."
+    },
+    {
+      "top": "The internet said:<br>'Pelvis <em>out of place</em>!'",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Quinn imagined a runaway pelvis."
+    },
+    {
+      "top": "Quinn rushed to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Can you pop it back in?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Kay laughed kindly."
+    },
+    {
+      "top": "SI joints are <mark>strong</mark><br>and barely move.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "It's sensitivity, not slipping"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "One-sided loads can stir it up."
+    },
+    {
+      "top": "Tip 1: Spread the<br>load <mark>evenly</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "item": "bag"
+        }
+      ],
+      "bottom": "Both feet, no leg-crossing,<br>swap bag sides."
+    },
+    {
+      "top": "Tip 2: Stairs one<br>at a <mark>time</mark> in flares.",
+      "props": [
+        "stairs@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Not two at a time for now."
+    },
+    {
+      "top": "Tip 3: Build your<br><mark>glutes</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Bridges, side-lying leg lifts,<br>step-ups."
+    },
+    {
+      "top": "Tip 4: Give it<br><mark>time</mark>.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Many improve over 4–8 weeks<br>with load changes + strength."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Morning stiffness over 30 min or night pain"
+        }
+      ],
+      "bottom": "Or fever, or symptoms that<br>keep getting worse."
+    },
+    {
+      "top": "Flamingo mode: retired.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's favourite pose was the flamingo: one leg, all day, heavy bag on one shoulder. Then came a one-sided ache by the dimple above the bum.\n\nThe SI joints are strong and move only a few millimetres, so they don't slip out of place. Pain here is more about sensitivity and load, and one-sided habits can stir it up.\n\nWhat often helps: spread the load (stand on both feet, skip leg-crossing, swap bag sides), take stairs one at a time during flares, and build the glutes and hips with bridges, side-lying leg lifts and step-ups. Many people improve over 4–8 weeks.\n\nGet it checked if you have morning stiffness over 30 minutes, night pain, fever or symptoms that keep worsening.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#sijointpain",
+    "#lowbackpain",
+    "#pelvicpain",
+    "#glutes",
+    "#posture",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka stands on one leg too often, gets an ache near the SI joint, and learns load and strength tips from physio Kay.",
+  "story": {
+    "headline": "Ache by the dimple<br>above your bum?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-09",
+  "scheduled_time": "18:00",
+  "created": "2027-01-09-2",
+  "status": "approved",
+  "review_warnings": []
+}

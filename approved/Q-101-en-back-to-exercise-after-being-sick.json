@@ -1,0 +1,223 @@
+{
+  "id": "Q-101-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 101,
+  "service": "physio",
+  "topic": "Back to exercise after being sick",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/returning-to-exercise-after-illness-guide/",
+  "slides": [
+    {
+      "top": "Quinn had a cold.<br>Day 6: <em>so bored</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "say": "I could run a marathon. Probably."
+        }
+      ],
+      "bottom": "Narrator: probably not."
+    },
+    {
+      "top": "Fever gone. So Quinn<br>went <em>full speed</em>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Same plan as before the cold."
+    },
+    {
+      "top": "Ten minutes later…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sore",
+          "fx": [
+            "sweat",
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Legs: jelly. Lungs: on strike."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Why did that feel so hard?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay smiled. Very common."
+    },
+    {
+      "top": "Your body is still<br><mark>catching up</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Going back too fast can mean a relapse"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "A staged return is often kinder."
+    },
+    {
+      "top": "Tip 1: Check where<br>symptoms <mark>sit</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Neck up only? Gentle moves may be OK"
+        }
+      ],
+      "bottom": "Chest, fever or body aches?<br>Rest first."
+    },
+    {
+      "top": "Tip 2: Wait 24–48 hrs<br>after the <mark>fever</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Then start almost too easy."
+    },
+    {
+      "top": "Tip 3: Climb back<br>in <mark>stages</mark>.",
+      "props": [
+        "stairs@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Hold each step 1–2 days.<br>Next day fine? Move up."
+    },
+    {
+      "top": "Tip 4: Light strength<br>can come <mark>early</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Lower load first. Symptoms<br>back? Drop a stage."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Chest pain, racing heart or dizziness"
+        }
+      ],
+      "bottom": "Wiped out for days after?<br>See your GP first."
+    },
+    {
+      "top": "Easy does it, champ.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's cold finally cleared, so naturally Quinn went straight back to full-speed runs. Ten minutes later: jelly legs.\n\nAfter an illness, the body is often still catching up, and jumping back to your old training load is a common cause of relapse or injury.\n\nWhat often helps: rest if symptoms are in the chest or you have a fever or body aches, wait 24–48 hours after a fever, start almost too easy, then step up in stages, holding each for a day or two. Light strength work can often come back early at a lower load.\n\nChest pain, a racing heart, dizziness or fatigue that crashes for days after activity means stopping and checking in with your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#backtoexercise",
+    "#afterillness",
+    "#returntotraining",
+    "#fitnessrecovery",
+    "#running",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka rushes back to running after a cold and learns from physio Kay how to return to exercise in easy stages.",
+  "story": {
+    "headline": "Back to training<br>after a cold?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "stairs@830"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-08",
+  "scheduled_time": "09:00",
+  "created": "2027-01-08-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,225 @@
+{
+  "id": "Q-064-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 64,
+  "service": "physio",
+  "topic": "Surfing: shoulders and backs",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/surfing-injuries-shoulder-back/",
+  "slides": [
+    {
+      "top": "Quinn's first<br><em>surf trip</em>.",
+      "props": [
+        "sun@200"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "say": "Waves, here I come!"
+        }
+      ],
+      "bottom": "Plan: five sessions a day."
+    },
+    {
+      "top": "Day two.<br>Arms: <em>noodles</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "blank",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Surfing = mostly paddling."
+    },
+    {
+      "top": "Day three.<br>Lower back: <em>nope</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Hours arched on a board."
+    },
+    {
+      "top": "Back home, Quinn<br>visited Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "worried",
+          "say": "Why does my whole top half hurt?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "The neck had joined in, too."
+    },
+    {
+      "top": "Paddling loads shoulders<br>and an <mark>arched</mark> back.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Trips spike how much you paddle"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Big swells do the same."
+    },
+    {
+      "top": "Tip 1: Train your<br><mark>shoulders</mark> on land.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Rotator cuff, shoulder blades,<br>rows — twice a week."
+    },
+    {
+      "top": "Tip 2: Loosen the<br><mark>upper back</mark> and hips.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "bottom": "It can take load off<br>your lower back."
+    },
+    {
+      "top": "Tip 3: Get fit <mark>before</mark><br>the trip.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Not after. Your future self<br>will thank you."
+    },
+    {
+      "top": "Tip 4: Warm up before<br>you <mark>paddle out</mark>.",
+      "props": [
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Cold water and early starts<br>need it most."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain that won't settle with less surf"
+        }
+      ],
+      "bottom": "Head or neck knock in the water?<br>Get medical help straight away."
+    },
+    {
+      "top": "See you out the back.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first surf trip: five sessions a day, noodle arms by day two and a grumpy lower back by day three.\n\nMost of surfing is paddling, lying arched with the shoulders working overhead. Surf trips and big swells can suddenly multiply that load, which is when shoulder, back and neck aches often flare.\n\nWhat can help: train the rotator cuff, shoulder blades and rows on land about twice a week, keep the upper back and hips moving, build fitness before a trip, and warm up before paddling out.\n\nShoulder or back pain that doesn't settle with less surfing is worth getting checked. Any head or neck injury in the water needs immediate medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#surfing",
+    "#surfer",
+    "#sydneysurf",
+    "#shoulderpain",
+    "#backpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes a surf trip, gets sore arms and back, and learns land training, mobility, fitness and warm-up tips from physio Kay.",
+  "story": {
+    "headline": "Surf trip leave<br>you sore?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "sun@860"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-20",
+  "scheduled_time": "18:00",
+  "created": "2026-12-20-2",
+  "status": "approved",
+  "review_warnings": []
+}

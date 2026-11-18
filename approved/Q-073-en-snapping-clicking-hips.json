@@ -1,0 +1,220 @@
+{
+  "id": "Q-073-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 73,
+  "service": "physio",
+  "topic": "Snapping, clicking hips",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/snapping-hip-syndrome-explained/",
+  "slides": [
+    {
+      "top": "Quinn's hip got<br>a <em>ringtone</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "surprised",
+          "shout": "*CLUNK*",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Every leg lift. Every time."
+    },
+    {
+      "top": "New dance class.<br><em>Five nights</em> a week.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "proud",
+          "fx": [
+            "motion",
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "What could possibly go wrong?"
+    },
+    {
+      "top": "Now the click comes<br>with an <em>ouch</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "Quinn's hip: still DJing."
+    },
+    {
+      "top": "Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is my hip popping out of place?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: usually not."
+    },
+    {
+      "top": "Often a <mark>tendon</mark> flicking<br>over bone.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "A painless snap is usually harmless"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Pain or catching matters more<br>than how loud it snaps."
+    },
+    {
+      "top": "Tip 1: Ease back on<br>the <mark>trigger move</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Keep pain-free activity going<br>while it settles."
+    },
+    {
+      "top": "Tip 2: Strength over<br><mark>hard stretching</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Cranking a stretch can irritate<br>a flicking tendon."
+    },
+    {
+      "top": "Tip 3: Build hip muscles<br><mark>gradually</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Outer hip or hip flexors —<br>a physio can guide which."
+    },
+    {
+      "top": "Tip 4: Give it a few<br><mark>weeks</mark>.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Most cases settle with<br>sensible load changes."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Locking, catching or deep groin pain"
+        }
+      ],
+      "bottom": "Painful snapping that won't<br>settle? Worth a proper look."
+    },
+    {
+      "top": "Keep dancing, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's hip started clunking with every leg lift, right after signing up for five dance classes a week.\n\nA snapping hip is often a tendon flicking over a bony bump, not the joint popping out. Painless snapping usually needs no treatment. Pain, catching and locking matter more than the noise.\n\nIf it's sore, what often helps: easing back on the move that sets it off while staying active, choosing gradual strengthening over hard stretching, and giving it a few weeks of sensible load changes.\n\nLocking, catching, deep groin pain or painful snapping that won't settle is worth getting assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#snappinghip",
+    "#hippain",
+    "#dancerlife",
+    "#hipclicking",
+    "#hipstrength",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's hip starts clicking after extra dance classes and physio Kay explains tendon snapping and gentle load and strength tips.",
+  "story": {
+    "headline": "Does your hip<br>go clunk?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-25",
+  "scheduled_time": "09:00",
+  "created": "2026-12-25-1",
+  "status": "approved",
+  "review_warnings": []
+}

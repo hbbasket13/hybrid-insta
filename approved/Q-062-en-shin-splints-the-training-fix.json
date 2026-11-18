@@ -1,0 +1,222 @@
+{
+  "id": "Q-062-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 62,
+  "service": "physio",
+  "topic": "Shin splints: the training fix",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/shin-splints-runners-guide/",
+  "slides": [
+    {
+      "top": "Quinn signed up<br>for a <em>fun run</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "say": "Zero to 10k by Friday!",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "The plan: every day. Fast."
+    },
+    {
+      "top": "Day five.<br>Shins: <em>screaming</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "A dull ache along the inside."
+    },
+    {
+      "top": "Quinn googled it.<br>At <em>2am</em>.",
+      "props": [
+        "moon"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Now Quinn has twelve diagnoses."
+    },
+    {
+      "top": "So Quinn saw Kay<br>instead.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Do I have to quit running?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: not quit — adjust."
+    },
+    {
+      "top": "Too much, too soon is<br>the usual <mark>culprit</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Bone needs time to adapt to impact"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Load matters more than<br>foot shape."
+    },
+    {
+      "top": "Tip 1: <mark>Turn down</mark> the<br>running, don't stop.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Mild pain only — settled<br>by the next day."
+    },
+    {
+      "top": "Tip 2: Stay fit with<br><mark>low-impact</mark> options.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "happy",
+          "say": "Pool running counts!"
+        }
+      ],
+      "bottom": "Cycling, swimming or<br>pool running."
+    },
+    {
+      "top": "Tip 3: Build <mark>calf</mark><br>strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Calf raises, then single-leg,<br>then add weight."
+    },
+    {
+      "top": "Tip 4: Come back with<br><mark>run-walk</mark> intervals.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Add about 10% a week. Hills<br>and speed work can wait."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sharp, pinpoint pain on the bone"
+        }
+      ],
+      "bottom": "Pain at rest, at night, or worse<br>every run? Get it checked."
+    },
+    {
+      "top": "Easy runs, happy shins.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn signed up for a fun run and went from zero to running every day. By day five, the shins were not having it.\n\nShin splints usually show up when impact jumps faster than bone and tissues can adapt: more kilometres, harder surfaces, or coming back at your old pace. Training load often matters more than foot shape.\n\nWhat can help: turn the running down rather than off, keep fit with cycling, swimming or pool running, build calf strength step by step, and return with run-walk intervals, adding about 10% a week.\n\nSharp pinpoint pain on the bone, pain at rest or at night, or pain that worsens each run is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#shinsplints",
+    "#running",
+    "#runners",
+    "#sydneyrunners",
+    "#runningtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes training for a fun run, gets sore shins, and learns load, cross-training, calf strength and run-walk tips from physio Kay.",
+  "story": {
+    "headline": "Shins aching<br>after runs?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-19",
+  "scheduled_time": "18:00",
+  "created": "2026-12-19-2",
+  "status": "approved",
+  "review_warnings": []
+}

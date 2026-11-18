@@ -1,0 +1,230 @@
+{
+  "id": "Q-068-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 68,
+  "service": "physio",
+  "topic": "Warm-ups that actually work",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/warm-up-before-exercise-evidence/",
+  "slides": [
+    {
+      "top": "Quinn's warm-up:<br><em>one</em> side stretch.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "wink",
+          "say": "Done. Let's go."
+        }
+      ],
+      "bottom": "Held for a heroic 4 seconds."
+    },
+    {
+      "top": "First sprint.<br>Legs: <em>still asleep</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sleepy",
+          "fx": [
+            "zzz",
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Body: buffering…"
+    },
+    {
+      "top": "Next time: a very long<br><em>static stretch</em>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "blank",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Somehow Quinn felt weaker."
+    },
+    {
+      "top": "Quinn asked Kay<br>what actually works.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is my warm-up wrong?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a 10-minute recipe."
+    },
+    {
+      "top": "Warm up the body,<br><mark>rehearse</mark> the moves.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Long static holds can sap power"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Save long stretches for after."
+    },
+    {
+      "top": "Tip 1: 2–4 minutes of<br><mark>easy cardio</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Start gentle, then get brisker."
+    },
+    {
+      "top": "Tip 2: <mark>Moving</mark><br>stretches.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Leg swings, arm circles,<br>lunges with a twist."
+    },
+    {
+      "top": "Tip 3: <mark>Rehearse</mark> the<br>session.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Empty bar, strides, or quick<br>changes of direction."
+    },
+    {
+      "top": "Tip 4: Cold morning?<br>Go a bit <mark>longer</mark>.",
+      "props": [
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Only 5 minutes? Brisk cardio,<br>then ramp-up sets."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried",
+          "fx": [
+            "pain_knee"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain in the warm-up that stays all session"
+        }
+      ],
+      "bottom": "That deserves a proper look."
+    },
+    {
+      "top": "Ten minutes well spent.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's old warm-up: one side stretch, held for a heroic four seconds. The first sprint felt like the legs were still in bed.\n\nA good warm-up raises body temperature, wakes up the nervous system and rehearses the moves you're about to do. Long static stretches right before exercise can briefly sap strength and power, so save them for afterwards.\n\nA simple recipe: 2–4 minutes of easy cardio that gets brisker, 3–4 minutes of moving stretches like leg swings and arm circles, then rehearse the session with an empty bar, strides or direction changes. Go a bit longer on cold mornings.\n\nPain during the warm-up that sticks around into your session is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#warmup",
+    "#fitnesstips",
+    "#gymlife",
+    "#running",
+    "#sportsinjury",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka skips a proper warm-up and learns from physio Kay a simple 10-minute routine of cardio, moving stretches and rehearsal.",
+  "story": {
+    "headline": "Is your warm-up<br>actually working?",
+    "body": "Quinn's 10-minute recipe",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "sun@860"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-22",
+  "scheduled_time": "18:00",
+  "created": "2026-12-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

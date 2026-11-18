@@ -1,0 +1,232 @@
+{
+  "id": "Q-094-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 94,
+  "service": "physio",
+  "topic": "An honest desk setup guide",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/desk-setup-ergonomics-honest-guide/",
+  "slides": [
+    {
+      "top": "Quinn's cart: a fancy<br><em>$1,800 chair</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "happy",
+          "item": "phone",
+          "say": "This chair will save me!"
+        }
+      ],
+      "bottom": "Plus a wobble ball. And a stool."
+    },
+    {
+      "top": "Three gadgets later…<br>neck: <em>still grumpy</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "The chair was very nice, though."
+    },
+    {
+      "top": "Laptop low. Head <em>down</em>.<br>Six hours straight.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Like a turtle reading a menu."
+    },
+    {
+      "top": "Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad",
+          "say": "Did I buy the wrong chair?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had an honest answer."
+    },
+    {
+      "top": "Staying <mark>still</mark> too long<br>matters most.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Your next posture is your best one"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Fancy gear is optional variety,<br>not a must."
+    },
+    {
+      "top": "Tip 1: Screen near<br><mark>eye level</mark>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "An arm's length away. Laptop?<br>Add a stand and keyboard."
+    },
+    {
+      "top": "Tip 2: Elbows and feet<br><mark>supported</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Elbows near 90°, feet flat —<br>a footrest if needed."
+    },
+    {
+      "top": "Tip 3: Headset, <em>not</em><br>phone-on-shoulder.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Ears free, neck happy"
+        }
+      ],
+      "bottom": "Keep the mouse close to<br>the keyboard too."
+    },
+    {
+      "top": "Tip 4: <mark>Movement snacks</mark><br>every 30–45 min.",
+      "props": [
+        "stairs@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A walk, stairs, a few squats.<br>Plus strength twice a week."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Ongoing pain, numbness or tingling"
+        }
+      ],
+      "bottom": "That needs a proper check,<br>not another gadget."
+    },
+    {
+      "top": "Move often, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought a fancy chair, a balance ball and a kneeling stool. The neck stayed grumpy, because the laptop was still low and Quinn still sat for six hours straight.\n\nStaying still for long stretches often matters more than any one posture, and pricey gear is optional variety rather than a must.\n\nWhat often helps: the screen near eye level about an arm's length away, elbows near 90 degrees with feet supported, a headset instead of cradling the phone, and short movement snacks every 30 to 45 minutes, plus strength work about twice a week.\n\nPain that persists, numbness or tingling deserve a proper assessment rather than another gadget.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#desksetup",
+    "#ergonomics",
+    "#workfromhome",
+    "#neckpain",
+    "#officelife",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka buys desk gadgets for a sore neck and learns honest screen, chair, headset and movement tips from physio Kay.",
+  "story": {
+    "headline": "Bought a fancy chair<br>and still sore?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "blank"
+        }
+      ],
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-04",
+  "created": "2027-01-04-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

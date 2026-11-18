@@ -1,0 +1,221 @@
+{
+  "id": "Q-096-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 96,
+  "service": "physio",
+  "topic": "Achilles tendon pain: load, not just rest",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/achilles-tendinopathy-loading-rehab/",
+  "slides": [
+    {
+      "top": "First steps out of bed:<br><em>robot mode</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "blank",
+          "say": "Beep. Boop.",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Stiff heel, then it warms up."
+    },
+    {
+      "top": "Quinn's plan:<br><em>rest it forever</em>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Three weeks on the couch."
+    },
+    {
+      "top": "First run back…<br>it <em>still</em> hurts.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Rest calmed it. Didn't build it."
+    },
+    {
+      "top": "Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad",
+          "say": "But I rested so well!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a different plan."
+    },
+    {
+      "top": "Tendons often like <mark>load</mark>,<br>not just rest.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Strength builds what running needs"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Change usually takes months,<br>not days."
+    },
+    {
+      "top": "Tip 1: Slow <mark>calf raises</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Then heavier, knee straight<br>and bent, then hops."
+    },
+    {
+      "top": "Tip 2: Let pain be<br>your <mark>guide</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Settled by tomorrow? Okay!"
+        }
+      ],
+      "bottom": "Morning stiffness creeping up?<br>Dial it back a bit."
+    },
+    {
+      "top": "Tip 3: Change runs<br>before <em>stopping</em> them.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Fewer hills and less speed<br>for a while."
+    },
+    {
+      "top": "Tip 4: Go easy on<br><em>hard</em> stretching.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Strength matters more than<br>forcing a stretch."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A sudden snap, a gap, or no push-off"
+        }
+      ],
+      "bottom": "Big swelling too? Get prompt<br>medical care."
+    },
+    {
+      "top": "Steady steps, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first steps out of bed were pure robot mode. So Quinn rested the Achilles for three weeks on the couch, and the first run back still hurt.\n\nRest can calm an irritated tendon, but it does little to build the capacity running needs. Tendons often respond to gradual loading, and change usually takes months.\n\nWhat often helps: slow calf raises that progress to heavier work and hops, using next-day symptoms as a guide, trimming hills and speed before stopping runs, and going easy on forceful stretching.\n\nA snap or pop, a gap in the tendon, major swelling or suddenly not being able to push off need prompt medical assessment.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#achillestendon",
+    "#achillespain",
+    "#runninginjury",
+    "#calfraises",
+    "#running",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka rests a sore Achilles too long and learns calf loading, pain-guided and running tips from physio Kay.",
+  "story": {
+    "headline": "Achilles stiff in<br>the morning?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-05",
+  "created": "2027-01-05-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

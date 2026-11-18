@@ -1,0 +1,228 @@
+{
+  "id": "Q-074-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 74,
+  "service": "physio",
+  "topic": "A kneecap that slips sideways",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/kneecap-dislocation-patellar-instability/",
+  "slides": [
+    {
+      "top": "Quinn's big moment<br>at <em>netball</em>.",
+      "props": [
+        "ball@850"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Fake left, go right…"
+    },
+    {
+      "top": "…and the kneecap<br>went <em>left</em> anyway.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "surprised",
+          "fx": [
+            "pain_knee",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It slid back as the<br>leg straightened."
+    },
+    {
+      "top": "Now even stairs feel<br>a bit <em>suspicious</em>.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "worried",
+          "think": "Will it slip again?"
+        }
+      ],
+      "bottom": "That wobbly, not-sure feeling."
+    },
+    {
+      "top": "Quinn booked in<br>with Kay.",
+      "props": [
+        "chair@300"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried",
+          "say": "Will it keep popping out?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: let's lower the odds."
+    },
+    {
+      "top": "A first slip can loosen<br>the <mark>inner support</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Strength and control are big levers"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Groove shape and bendy joints<br>play a part too."
+    },
+    {
+      "top": "Tip 1: Strong <mark>thighs</mark><br>first.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Quad strength is the<br>foundation of rehab."
+    },
+    {
+      "top": "Tip 2: Train the<br><mark>hips</mark> too.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Strong hips help stop the<br>knee caving inward."
+    },
+    {
+      "top": "Tip 3: Practise <mark>landing</mark><br>and turning.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "proud",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Balance, landing and<br>change-of-direction drills."
+    },
+    {
+      "top": "Tip 4: <mark>Finish</mark> the rehab.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined",
+          "say": "No early comebacks!"
+        }
+      ],
+      "bottom": "Return often takes 3–6 months.<br>Rushing back is a common trap."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "It slips, swells quickly or locks"
+        }
+      ],
+      "bottom": "Keeps giving way?<br>See a doctor for a check."
+    },
+    {
+      "top": "Back on court, steady.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's big netball moment: fake left, go right… and the kneecap went left anyway, then slid back as the leg straightened.\n\nA kneecap that slips sideways is most common in teens and young adults. After a first episode, the main goal is lowering the chance of another one, and strength and control are big levers.\n\nRehab often includes quad strength, hip strength to stop the knee caving in, and landing, balance and change-of-direction practice. Finishing rehab matters: return to sport often takes three to six months.\n\nIf the kneecap slips, the knee swells quickly, locks or keeps giving way, get it checked by a doctor.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneecap",
+    "#patellarinstability",
+    "#netball",
+    "#kneerehab",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's kneecap slips during netball and physio Kay shares thigh, hip, landing and finish-your-rehab tips.",
+  "story": {
+    "headline": "Kneecap ever<br>slipped sideways?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "ball@850"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-25",
+  "scheduled_time": "18:00",
+  "created": "2026-12-25-2",
+  "status": "approved",
+  "review_warnings": []
+}

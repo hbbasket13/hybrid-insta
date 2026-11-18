@@ -1,0 +1,218 @@
+{
+  "id": "Q-087-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 87,
+  "service": "physio",
+  "topic": "Can't touch your toes?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/cant-touch-toes-hamstring-flexibility/",
+  "slides": [
+    {
+      "top": "Quinn tried yoga.<br>Toes: <em>unreachable</em>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "blank",
+          "think": "Are my toes moving away?"
+        }
+      ],
+      "bottom": "Hands stopped at the knees."
+    },
+    {
+      "top": "Theory: arms are just<br><em>too short</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Scientifically speaking."
+    },
+    {
+      "top": "2am googling:<br>tight = <em>broken</em>?",
+      "props": [
+        "moon"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone"
+        }
+      ],
+      "bottom": "The internet was not helpful."
+    },
+    {
+      "top": "Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "sad",
+          "say": "Is my body broken?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay smiled. Very common."
+    },
+    {
+      "top": "Toe touching is <mark>more</mark><br>than hamstrings.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Hips, spine and stretch tolerance count"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Lots of fit people can't, and<br>that's often fine."
+    },
+    {
+      "top": "Tip 1: Get strong<br>in the <mark>long range</mark>.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Slow hip hinges like Romanian<br>deadlifts can help range."
+    },
+    {
+      "top": "Tip 2: Stretching?<br>Hold <mark>30–60 sec</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Most days. Strong stretch,<br>not pain."
+    },
+    {
+      "top": "Tip 3: Warm up <mark>before</mark><br>testing.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Don't judge by one cold<br>morning try."
+    },
+    {
+      "top": "Tip 4: Give it<br><mark>4–8 weeks</mark>.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Before sport, dynamic moves.<br>Long holds afterwards."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Tingling down the leg when you stretch"
+        }
+      ],
+      "bottom": "Or sudden loss of flexibility<br>on one side?"
+    },
+    {
+      "top": "Toes optional, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn tried yoga and discovered the toes are unreachable. Theory: arms are too short.\n\nTouching your toes depends on more than hamstring length: hip hinge, spine and how well your nervous system tolerates the stretch all play a part. Plenty of fit, healthy people can't do it, and that's often fine.\n\nIf you do want more range: build strength through a long range with slow hip hinges, hold stretches for 30–60 seconds most days (strong stretch, not pain), warm up before testing yourself, and give it 4–8 weeks. Before sport, dynamic moves suit better than long holds.\n\nTingling down the leg while stretching, or a sudden loss of flexibility on one side, is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#flexibility",
+    "#hamstrings",
+    "#stretching",
+    "#mobility",
+    "#yoga",
+    "#sydneycbd",
+    "#chatswood",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka can't touch their toes and physio Kay explains flexibility with strength, stretching, warm-up and patience tips.",
+  "story": {
+    "headline": "Can't touch<br>your toes?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "mat"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-01",
+  "created": "2027-01-01-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

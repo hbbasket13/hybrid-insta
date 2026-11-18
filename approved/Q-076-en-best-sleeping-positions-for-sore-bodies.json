@@ -1,0 +1,231 @@
+{
+  "id": "Q-076-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 76,
+  "service": "physio",
+  "topic": "Best sleeping positions for sore bodies",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/best-sleeping-positions-pain-guide/",
+  "slides": [
+    {
+      "top": "Quinn's sleep style:<br><em>chaotic starfish</em>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Rolling all night? Normal."
+    },
+    {
+      "top": "Morning.<br>Neck: <em>very opinionated</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Who chose that pillow?"
+    },
+    {
+      "top": "3am, wide awake.<br>The ache feels <em>louder</em>.",
+      "props": [
+        "moon@860",
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Fewer distractions at night."
+    },
+    {
+      "top": "Quinn quizzed Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "What's the best sleeping position?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: the comfy one, honestly."
+    },
+    {
+      "top": "No single position<br>is <mark>perfect</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Pillows are your main tool"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Small tweaks can help during<br>sore phases."
+    },
+    {
+      "top": "Tip 1: Sore back? Pillow<br><mark>between the knees</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Back sleeper? Try a pillow<br>under the knees instead."
+    },
+    {
+      "top": "Tip 2: Keep your neck<br><mark>level</mark> with the bed.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Side sleepers: thicker pillow"
+        }
+      ],
+      "bottom": "Back sleepers usually<br>need a lower pillow."
+    },
+    {
+      "top": "Tip 3: Sore shoulder?<br>Sleep on the <mark>other</mark> side.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "happy",
+          "fx": [
+            "heart"
+          ]
+        }
+      ],
+      "bottom": "Hug a pillow for support."
+    },
+    {
+      "top": "Tip 4: Give a new setup<br><mark>3–5 nights</mark>.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "sleepy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "The first nights often<br>feel a bit odd."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Night pain that no position eases"
+        }
+      ],
+      "bottom": "Fever, weight loss or feeling<br>unwell too? See your GP."
+    },
+    {
+      "top": "Sweet dreams, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn sleeps like a chaotic starfish and wakes up with a very opinionated neck. Then the 3am aches feel louder.\n\nThere's no single perfect sleeping position, and moving around at night is normal. During sore phases, small pillow tweaks can take some stress off.\n\nIdeas that often help: a pillow between the knees for a sore back (or under the knees if you're on your back), a pillow that keeps your neck level, sleeping on the other side and hugging a pillow for a sore shoulder, and giving a new setup three to five nights.\n\nNight pain that no position eases, or that comes with fever, weight loss or feeling unwell, needs a check with your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#sleep",
+    "#sleepposition",
+    "#backpain",
+    "#neckpain",
+    "#shoulderpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka sleeps like a starfish, wakes up sore, and learns simple pillow and position tips from physio Kay.",
+  "story": {
+    "headline": "Waking up<br>sore?",
+    "body": "4 sleep tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "props": [
+        "bed",
+        "moon@860"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-26",
+  "scheduled_time": "18:00",
+  "created": "2026-12-26-2",
+  "status": "approved",
+  "review_warnings": []
+}

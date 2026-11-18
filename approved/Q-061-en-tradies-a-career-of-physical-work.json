@@ -1,0 +1,229 @@
+{
+  "id": "Q-061-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 61,
+  "service": "physio",
+  "topic": "Tradies: a career of physical work",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/tradies-physical-work-injury-prevention/",
+  "slides": [
+    {
+      "top": "Quinn's first week<br>as a <em>tradie</em>.",
+      "props": [
+        "boxes@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Built for this."
+        }
+      ],
+      "bottom": "Boots on, big plans."
+    },
+    {
+      "top": "Week three.<br>Knees: <em>not loving it</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Kneeling all day adds up."
+    },
+    {
+      "top": "Ceiling job all day.<br>Shoulders: <em>offended</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Arms up for hours will do that."
+    },
+    {
+      "top": "Quinn caught Kay<br>before smoko.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "Do tradies just ache forever?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a different take."
+    },
+    {
+      "top": "Work builds <mark>fatigue</mark>,<br>not always strength.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Same tasks for years, no off-season"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Big days spike the load, too."
+    },
+    {
+      "top": "Tip 1: Two short<br><mark>strength</mark> sessions.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Legs, back, shoulders, trunk —<br>twice a week."
+    },
+    {
+      "top": "Tip 2: Warm up before<br>the <mark>first lift</mark>.",
+      "props": [
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "About five minutes, especially<br>on cold mornings."
+    },
+    {
+      "top": "Tip 3: Let the <mark>gear</mark><br>do the work.",
+      "props": [
+        "boxes@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink",
+          "say": "That's a two-quokka job."
+        }
+      ],
+      "bottom": "Knee pads, trolleys, and a mate<br>for awkward loads."
+    },
+    {
+      "top": "Tip 4: Rotate tasks,<br>rest when it <mark>grumbles</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Mix positions. Sleep counts<br>as training too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Aches that keep coming back or build up"
+        }
+      ],
+      "bottom": "Sudden or severe symptoms?<br>Seek urgent medical care."
+    },
+    {
+      "top": "Tools down. Stretch up.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first weeks on the tools: knees grumbling from kneeling, shoulders sulking after a day of overhead work.\n\nYears of the same physical tasks, big-day load spikes and no off-season can build fatigue faster than strength, so aches often creep in.\n\nWhat can help: two short strength sessions a week for legs, back, shoulders and trunk, a five-minute warm-up before the first heavy lift, letting knee pads, trolleys and lifting aids (or a mate) share the load, rotating tasks, and taking proper rest when your body complains.\n\nIf aches keep coming back, follow a pattern or keep building, get them looked at early rather than pushing through. Sudden or severe symptoms need urgent medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#tradies",
+    "#tradielife",
+    "#construction",
+    "#backpain",
+    "#kneepain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka starts work as a tradie, gets sore knees and shoulders, and learns strength, warm-up, gear and rest tips from physio Kay.",
+  "story": {
+    "headline": "Tradie body<br>feeling the years?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "boxes@830"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-19",
+  "scheduled_time": "09:00",
+  "created": "2026-12-19-1",
+  "status": "approved",
+  "review_warnings": []
+}

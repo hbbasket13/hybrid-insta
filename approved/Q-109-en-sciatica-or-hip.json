@@ -1,0 +1,238 @@
+{
+  "id": "Q-109-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 109,
+  "service": "physio",
+  "topic": "Sciatica or hip?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/sciatica-vs-hip-pain-difference/",
+  "slides": [
+    {
+      "top": "Quinn's new hobby:<br><em>pain detective</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "determined",
+          "fx": [
+            "question"
+          ],
+          "say": "The case of the sore leg…"
+        }
+      ],
+      "bottom": "Suspects: the back or the hip."
+    },
+    {
+      "top": "Clue 1: it zaps<br>down <em>past the knee</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_bum",
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Worse after long sitting."
+    },
+    {
+      "top": "Clue 2: the internet<br>said <em>everything</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Case: officially more confusing."
+    },
+    {
+      "top": "Quinn called in<br>the expert.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "Back or hip? You decide!"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: the pattern gives clues."
+    },
+    {
+      "top": "Where it hurts is a<br><mark>big hint</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Nerve pain often goes below the knee"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Hip joint pain: mostly groin."
+    },
+    {
+      "top": "Outer hip, sore on<br>stairs or <mark>at night</mark>?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "That can be a tendon instead."
+    },
+    {
+      "top": "Tip 1: Nerve-ish? Keep<br><mark>moving</mark> gently.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Break up long sitting."
+    },
+    {
+      "top": "Tip 2: Hip joint?<br><mark>Strength</mark> work helps.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Glutes, range work, sensible<br>load."
+    },
+    {
+      "top": "Tip 3: Outer hip?<br>Ease the <mark>squeeze</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Pillow between knees. Don't<br>hang on one hip."
+    },
+    {
+      "top": "Tip 4: Don't stretch<br>it <mark>blindly</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "wink",
+          "say": "Find the source first, then stretch"
+        }
+      ],
+      "bottom": "Hard stretches can stir<br>some problems up."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Saddle numbness or bladder changes"
+        }
+      ],
+      "bottom": "Weakening leg too: urgent care.<br>Slow to improve? Get assessed."
+    },
+    {
+      "top": "Case closed, detective.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Detective Quinn took on the case of the sore leg: back or hip? The internet only made it worse.\n\nWhere it hurts is a big clue. Nerve-related pain (sciatica) often travels below the knee, sometimes with tingling, and may be worse with sitting. Hip joint pain tends to sit in the groin. Outer-hip pain that's sore at night or on stairs can be a tendon.\n\nWhat often helps: keep moving gently and break up sitting for nerve-type pain, strength work for the hip joint, and less squeeze on a sore outer hip (pillow between the knees). Don't stretch blindly; find the source first.\n\nSaddle numbness, bladder or bowel changes or a weakening leg need urgent care. Not improving in a couple of weeks? Get assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#sciatica",
+    "#hippain",
+    "#legpain",
+    "#lowbackpain",
+    "#glutes",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where detective Quinn the quokka tries to work out if a sore leg is sciatica or the hip, and physio Kay explains the clues and tips.",
+  "story": {
+    "headline": "Sciatica<br>or hip?",
+    "body": "Quinn cracks the case in the new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "determined",
+          "fx": [
+            "question"
+          ]
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-12",
+  "scheduled_time": "09:00",
+  "created": "2027-01-12-1",
+  "status": "approved",
+  "review_warnings": []
+}

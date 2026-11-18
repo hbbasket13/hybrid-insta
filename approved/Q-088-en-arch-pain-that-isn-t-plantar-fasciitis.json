@@ -1,0 +1,218 @@
+{
+  "id": "Q-088-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 88,
+  "service": "physio",
+  "topic": "Arch pain that isn't plantar fasciitis",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/arch-pain-foot-causes-guide/",
+  "slides": [
+    {
+      "top": "New shoes. New city.<br><em>25,000 steps</em>.",
+      "props": [
+        "suitcase@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "proud",
+          "say": "Who needs a bus?"
+        }
+      ],
+      "bottom": "Day one of the holiday."
+    },
+    {
+      "top": "Day three:<br>arch <em>on strike</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Right in the middle of the foot."
+    },
+    {
+      "top": "Dr Google says:<br><em>plantar fasciitis</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone"
+        }
+      ],
+      "bottom": "Case closed? Not quite."
+    },
+    {
+      "top": "Back home, Quinn saw Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "It's plantar fasciitis, right?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: let's check first."
+    },
+    {
+      "top": "Arch pain has <mark>many</mark><br>possible causes.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Tendon, joint, bone or nerve, too"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "A sudden jump in load<br>often comes first."
+    },
+    {
+      "top": "Tip 1: Ease the load<br>that <mark>set it off</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Fewer huge step days for now."
+    },
+    {
+      "top": "Tip 2: Heel raises,<br><mark>every week</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Calf and foot strength is the<br>step people often skip."
+    },
+    {
+      "top": "Tip 3: Review your<br><mark>shoes</mark>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Insoles or taping can support<br>the painful phase."
+    },
+    {
+      "top": "Tip 4: Return<br><mark>gradually</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Arch pain often settles in<br>6–12 weeks with a good plan."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "One sore spot that's worse with impact"
+        }
+      ],
+      "bottom": "Or tingling, burning, or a<br>foot changing shape?"
+    },
+    {
+      "top": "Happy feet, happy Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn walked 25,000 steps a day in new shoes on holiday. By day three the arch was on strike, and Dr Google said plantar fasciitis.\n\nArch pain isn't always plantar fasciitis. Tendons, midfoot joints, bone stress and nerves can all be involved, and a sudden jump in walking load or a footwear change often comes first.\n\nWhat often helps: ease the load that set it off, do regular heel raises for calf and foot strength, review your shoes (insoles or taping can support the painful phase), and return to walking or running gradually. Arch pain often settles in 6–12 weeks with a good plan.\n\nOne sore spot that's worse with impact, tingling or burning, or a foot changing shape is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#archpain",
+    "#footpain",
+    "#plantarfasciitis",
+    "#feet",
+    "#walking",
+    "#chatswood",
+    "#sydneycbd",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets arch pain after a big walking holiday and physio Kay shares load, strength, footwear and gradual-return tips.",
+  "story": {
+    "headline": "Arch pain after<br>a big week?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "props": [
+        "shoe"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-01",
+  "created": "2027-01-01-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

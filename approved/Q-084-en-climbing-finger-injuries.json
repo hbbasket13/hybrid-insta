@@ -1,0 +1,208 @@
+{
+  "id": "Q-084-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 84,
+  "service": "physio",
+  "topic": "Climbing finger injuries",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/climbing-finger-pulley-injury-guide/",
+  "slides": [
+    {
+      "top": "Quinn found <em>bouldering</em>.<br>Obsessed.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "say": "Tiny hold? No problem."
+        }
+      ],
+      "bottom": "The fingers had other plans."
+    },
+    {
+      "top": "*pop*<br>Ring finger: <em>nope</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "exclaim",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Small hold. Big feelings."
+    },
+    {
+      "top": "Can't even grip<br>a <em>coffee</em> properly.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "blank",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Gripping hurts. Life is hard."
+    },
+    {
+      "top": "Quinn showed Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "worried",
+          "say": "It popped! Is it ruined?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked it carefully."
+    },
+    {
+      "top": "Finger <mark>pulleys</mark> keep<br>tendons close.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Crimping tiny holds loads them most"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "A pop often goes with a milder<br>sprain, not the worst case."
+    },
+    {
+      "top": "Tip 1: Keep it moving,<br><mark>skip</mark> the crimps.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Gentle bending through range.<br>Climb less, don't fully stop."
+    },
+    {
+      "top": "Tip 2: Try <mark>H-taping</mark><br>for light climbs.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "It can offload the pulley<br>as you ease back in."
+    },
+    {
+      "top": "Tip 3: Rebuild <mark>grip</mark><br>strength slowly.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Open-hand hangs, guided by<br>how it feels next morning."
+    },
+    {
+      "top": "Tip 4: Easy grades,<br><mark>big</mark> holds first.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Hard crimping comes back last."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Tendon bowstrings or finger won't bend"
+        }
+      ],
+      "bottom": "Or marked swelling?<br>Get it assessed promptly."
+    },
+    {
+      "top": "Climb smart, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn found bouldering, loved tiny holds, then felt a pop in the ring finger. Now even holding a coffee is a struggle.\n\nFinger pulleys are bands that keep the tendons close to the bone, and crimping on small holds loads them the most. A pop can happen with milder sprains too, so it isn't automatically the worst case.\n\nWhat often helps: keep the finger gently moving while skipping crimps, climb less rather than stopping, try H-taping for light sessions, rebuild grip strength with controlled open-hand work, and return on easy grades and big holds. Hard crimping comes back last.\n\nVisible bowstringing, marked swelling or a finger that won't bend are worth getting assessed promptly.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#climbing",
+    "#bouldering",
+    "#climbinginjury",
+    "#fingerinjury",
+    "#handinjury",
+    "#chatswood",
+    "#sydneycbd",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka hurts a finger bouldering and physio Kay explains finger pulleys with movement, taping, strength and return-to-climbing tips.",
+  "story": {
+    "headline": "Felt a pop<br>while climbing?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-30",
+  "created": "2026-12-30-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,224 @@
+{
+  "id": "Q-089-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 89,
+  "service": "physio",
+  "topic": "Why pain flares when life gets hard",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/stress-pain-flares-nervous-system/",
+  "slides": [
+    {
+      "top": "Quinn's December<br>calendar: <em>full</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "surprised",
+          "say": "Three events tonight!"
+        }
+      ],
+      "bottom": "Sleep moved to 'next year'."
+    },
+    {
+      "top": "The old back pain?<br><em>Back</em> for the season.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "No new injury. Just… back."
+    },
+    {
+      "top": "Shoulders: up near<br>the <em>ears</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "sore",
+          "fx": [
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "Jaw clenched, too."
+    },
+    {
+      "top": "Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is it all in my head?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: the pain is real."
+    },
+    {
+      "top": "Stress can turn <mark>up</mark><br>pain sensitivity.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Less sleep and more tension add up"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "A flare often means a sensitive<br>system, not new damage."
+    },
+    {
+      "top": "Tip 1: Keep moving,<br>just <mark>less</mark>.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A 20-minute walk counts."
+    },
+    {
+      "top": "Tip 2: Protect<br>your <mark>sleep</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Steady hours, a wind-down,<br>easy on the caffeine."
+    },
+    {
+      "top": "Tip 3: <mark>Downshift</mark><br>on purpose.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "think": "Breathe in… and out…"
+        }
+      ],
+      "bottom": "Slow breathing or a short<br>relaxation break."
+    },
+    {
+      "top": "Tip 4: Combine a<br><mark>few</mark> things.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Exercise, sleep and stress care<br>work better together."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "New pain, night pain, numbness or fever"
+        }
+      ],
+      "bottom": "Stress or low mood weighing<br>heavy? Talk to your GP."
+    },
+    {
+      "top": "Be kind to you, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's December calendar is full, sleep has been pushed to next year, and the old back pain is back for the season, with shoulders up near the ears.\n\nStress can turn up pain sensitivity. Short sleep lowers pain tolerance, tension adds load to the neck and shoulders, A familiar flare in a hard season often reflects a sensitive system rather than new damage. The pain is real.\n\nWhat often helps: keep moving at a lighter level, protect your sleep, downshift on purpose with slow breathing or a short walk outside, and combine a few approaches.\n\nNew pain in new places, night pain, numbness, weakness or fever are worth getting assessed. If stress or low mood is weighing heavily, talk to your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#stressandpain",
+    "#chronicpain",
+    "#backpain",
+    "#sleep",
+    "#wellbeing",
+    "#sydneycbd",
+    "#chatswood",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's back pain flares in a busy December and physio Kay explains stress and pain with movement, sleep and downshifting tips.",
+  "story": {
+    "headline": "Pain flaring in<br>a busy season?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "plant"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-02",
+  "created": "2027-01-02-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

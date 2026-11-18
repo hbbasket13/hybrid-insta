@@ -1,0 +1,232 @@
+{
+  "id": "Q-100-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 100,
+  "service": "physio",
+  "topic": "Pain that moves around",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/pain-that-moves-around-body/",
+  "slides": [
+    {
+      "top": "Monday: <em>knee</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Quinn's pain diary, page one."
+    },
+    {
+      "top": "Wednesday: <em>shoulder</em>.<br>Friday: <em>neck</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck",
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "It's touring the whole body."
+    },
+    {
+      "top": "Quinn made a <em>map</em>.<br>With pins.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "blank",
+          "say": "Next stop: left elbow?",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "It looks like a crime show."
+    },
+    {
+      "top": "Quinn brought the map<br>to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "worried",
+          "say": "Is my pain on holiday?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked: sleep? Stress?"
+    },
+    {
+      "top": "A <mark>sensitive</mark> pain<br>system can roam.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Busy weeks and poor sleep turn it up"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Bursts of activity can move<br>it around, too."
+    },
+    {
+      "top": "Tip 1: Steady, <mark>regular</mark><br>exercise.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Start gentle, build gradually."
+    },
+    {
+      "top": "Tip 2: Protect your<br><mark>sleep</mark>.",
+      "props": [
+        "bed",
+        "moon"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Similar bed and wake times<br>most days."
+    },
+    {
+      "top": "Tip 3: <mark>Pace</mark> it — no<br>boom and bust.",
+      "props": [
+        "plant@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Garden for 30 minutes,<br>not the whole weekend."
+    },
+    {
+      "top": "Tip 4: Ease <mark>stress</mark><br>where you can.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup",
+          "fx": [
+            "heart"
+          ]
+        }
+      ],
+      "bottom": "A walk, a chat, slow breaths.<br>Small things add up."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Long morning stiffness or swollen joints"
+        }
+      ],
+      "bottom": "Fever, weight loss or a rash?<br>See your GP."
+    },
+    {
+      "top": "100 episodes. Thank you!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Monday it was Quinn's knee, Wednesday the shoulder, Friday the neck. Quinn made a pain map with pins, and it looked like a crime show.\n\nPain that moves around can be a sign of a more sensitive pain system, which poor sleep, stress and low activity can turn up. Uneven bursts of activity can also shift the load from one area to another.\n\nWhat often helps: steady, gradually increasing exercise, consistent sleep, pacing to avoid boom-and-bust days, and easing stress where you can.\n\nLong morning stiffness, swollen or red joints, fever, weight loss, a rash or pain that keeps worsening are worth a GP check.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#chronicpain",
+    "#painscience",
+    "#jointpain",
+    "#sleepandpain",
+    "#pacing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's pain moves from knee to shoulder to neck, and physio Kay explains a sensitive pain system with exercise, sleep, pacing and stress tips.",
+  "story": {
+    "headline": "Pain that keeps<br>moving around?",
+    "body": "4 tips from Quinn's 100th reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "blank"
+        }
+      ],
+      "props": [
+        "calendar@820"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-07",
+  "created": "2027-01-07-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

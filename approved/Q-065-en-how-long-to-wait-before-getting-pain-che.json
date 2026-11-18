@@ -1,0 +1,218 @@
+{
+  "id": "Q-065-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 65,
+  "service": "physio",
+  "topic": "How long to wait before getting pain checked",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/when-to-see-physio-pain-guide/",
+  "slides": [
+    {
+      "top": "Quinn's sore ankle<br>plan: <em>ignore it</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "wink",
+          "say": "It'll sort itself out."
+        }
+      ],
+      "bottom": "A classic Quinn strategy."
+    },
+    {
+      "top": "Week six.<br>Still <em>sore</em>.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "The calendar is judging Quinn."
+    },
+    {
+      "top": "Plus the shoulder<br>niggle is <em>back</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank",
+          "say": "Third time this year…"
+        }
+      ],
+      "bottom": "Same niggle, new month."
+    },
+    {
+      "top": "Quinn finally<br>asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "How long should I wait, though?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a simple guide."
+    },
+    {
+      "top": "Everyday strains: give it<br><mark>1–2 weeks</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Not clearly better? Book a check"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Earlier checks can keep<br>things simpler."
+    },
+    {
+      "top": "Tip 1: Keep moving,<br>just <mark>less</mark> of the trigger.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Ease off whatever flares it."
+    },
+    {
+      "top": "Tip 2: Protect<br>your <mark>sleep</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Rest helps sore bits settle."
+    },
+    {
+      "top": "Tip 3: Heat or ice —<br>whatever feels <mark>good</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "item": "icepack"
+        }
+      ],
+      "bottom": "It's for comfort, not magic."
+    },
+    {
+      "top": "Tip 4: Book in <mark>sooner</mark><br>if it…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "determined",
+          "say": "Booking it in!"
+        }
+      ],
+      "bottom": "Wakes you at night, keeps<br>coming back, or tingles."
+    },
+    {
+      "top": "Get help <em>same day</em> if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "You can't put any weight on it"
+        }
+      ],
+      "bottom": "Spreading numbness, or new<br>bladder or bowel changes."
+    },
+    {
+      "top": "No more wait and see.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's plan for a sore ankle: ignore it. Six weeks later, still sore, plus a shoulder niggle back for the third time this year.\n\nA rough guide: everyday strains and flare-ups without warning signs can get one to two weeks of sensible self-care. If it isn't clearly improving by then, book an assessment.\n\nSelf-care that often helps: keep moving but ease off the trigger, protect your sleep, and use heat or ice for comfort. Book sooner if pain wakes you, keeps returning, changes how you move, or comes with tingling.\n\nCan't bear weight, spreading numbness, or new bladder or bowel changes? Seek same-day medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#painrelief",
+    "#backpain",
+    "#sportsinjury",
+    "#selfcare",
+    "#injuryrecovery",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka ignores a sore ankle for weeks and learns from physio Kay how long to try self-care and when to get pain checked.",
+  "story": {
+    "headline": "How long should<br>you wait?",
+    "body": "Quinn's pain timeline guide",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "wink"
+        }
+      ],
+      "props": [
+        "calendar@840"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-21",
+  "scheduled_time": "09:00",
+  "created": "2026-12-21-1",
+  "status": "approved",
+  "review_warnings": []
+}

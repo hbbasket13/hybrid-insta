@@ -1,0 +1,219 @@
+{
+  "id": "Q-069-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 69,
+  "service": "physio",
+  "topic": "Rugby and footy: the contact checklist",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/rugby-football-injury-prevention/",
+  "slides": [
+    {
+      "top": "Quinn joined the<br>local <em>footy team</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "item": "ball",
+          "say": "Pass it to me!"
+        }
+      ],
+      "bottom": "Enthusiasm: 10/10."
+    },
+    {
+      "top": "Late in the game.<br><em>Sprint!</em> Then: ouch.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_bum",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Hamstring: tapping out."
+    },
+    {
+      "top": "And that old ankle<br>sprain <em>remembers</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Rehab never quite got finished."
+    },
+    {
+      "top": "Quinn brought Kay<br>the whole list.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Is this just part of footy?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a checklist ready."
+    },
+    {
+      "top": "Old injuries and big<br>load jumps <mark>add risk</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "A past injury is a big predictor"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Sprinting tired doesn't help."
+    },
+    {
+      "top": "Tip 1: Strong <mark>hamstrings</mark>,<br>all season.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Nordic curls — keep them going,<br>not just in preseason."
+    },
+    {
+      "top": "Tip 2: A real warm-up,<br>not <mark>lap-and-stretch</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Running, strength, balance<br>and landing drills."
+    },
+    {
+      "top": "Tip 3: Strong <mark>neck</mark><br>and shoulders.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Especially for forwards<br>and big tacklers."
+    },
+    {
+      "top": "Tip 4: <mark>Finish</mark> rehab<br>properly.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Strength and balance back,<br>then full-speed running."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Knock to the head? Off, and get assessed"
+        }
+      ],
+      "bottom": "Neck hurt or can't bear weight?<br>Get medical help right away."
+    },
+    {
+      "top": "See you at training.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined the local footy team: a sprint late in the game, a hamstring that tapped out, and an old ankle sprain that never quite got its rehab finished.\n\nA previous injury is one of the biggest predictors of the next one, and sudden load jumps or sprinting while tired can add to the risk.\n\nWhat can help: Nordic hamstring curls kept up all season, a structured warm-up with running, strength, balance and landing drills, neck and shoulder strength for tacklers, and finishing rehab properly before full-speed running.\n\nA suspected concussion needs immediate medical assessment, and so does a possible neck injury or not being able to bear weight. Follow your club's return-to-play protocols.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#rugby",
+    "#rugbyleague",
+    "#footy",
+    "#afl",
+    "#sportsinjury",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka joins a footy team, strains a hamstring, and learns hamstring, warm-up, neck strength and rehab tips from physio Kay.",
+  "story": {
+    "headline": "Footy season<br>checklist",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-23",
+  "scheduled_time": "09:00",
+  "created": "2026-12-23-1",
+  "status": "approved",
+  "review_warnings": []
+}

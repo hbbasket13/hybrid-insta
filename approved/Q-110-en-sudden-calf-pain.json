@@ -1,0 +1,222 @@
+{
+  "id": "Q-110-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 110,
+  "service": "physio",
+  "topic": "Sudden calf pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/sudden-calf-pain-what-it-means/",
+  "slides": [
+    {
+      "top": "Quinn's first game of<br><em>pickleball</em>.",
+      "props": [
+        "bat@820",
+        "ball@900"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "happy",
+          "say": "I'm basically a pro now."
+        }
+      ],
+      "bottom": "Three games in, going strong."
+    },
+    {
+      "top": "Then: a <em>thwack</em><br>in the calf.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "surprised",
+          "fx": [
+            "exclaim",
+            "pain_foot"
+          ],
+          "shout": "Who kicked me?!"
+        }
+      ],
+      "bottom": "Nobody. Nobody was there."
+    },
+    {
+      "top": "Quinn hobbled to<br>the bench.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Calf: tight, sore, dramatic."
+    },
+    {
+      "top": "Next day: Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Cramp? Tear? Something else?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked how it started."
+    },
+    {
+      "top": "A sudden 'kick' on<br>push-off is a <mark>clue</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Often a strain. Cramp eases in minutes."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Then Kay checked it properly."
+    },
+    {
+      "top": "Tip 1: <mark>Gentle</mark> first,<br>not aggressive.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "item": "icepack"
+        }
+      ],
+      "bottom": "Ice for comfort, elevate. Skip<br>hard stretching early."
+    },
+    {
+      "top": "Tip 2: Calf raises,<br><mark>step by step</mark>.",
+      "props": [
+        "stairs@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Two legs, then one. Slow,<br>then faster and heavier."
+    },
+    {
+      "top": "Tip 3: Pass the<br><mark>hop test</mark> first.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Around 20–25 single-leg raises<br>before sport."
+    },
+    {
+      "top": "Tip 4: Keep calves<br><mark>strong</mark> for good.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Regular strength may help<br>reduce repeat strains."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Calf pain with no injury, plus swelling"
+        }
+      ],
+      "bottom": "Needs prompt medical review.<br>Chest pain or breathless? 000."
+    },
+    {
+      "top": "Back on court, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first pickleball game was going brilliantly until a sudden thwack in the calf. Quinn turned around to find the culprit. Nobody was there.\n\nA sudden 'kick' feeling on push-off is often a calf strain, while a cramp tends to ease within minutes. A snap at the back of the ankle with weak push-off needs same-day assessment.\n\nWhat often helps: gentle movement, elevation and ice for comfort early, no hard stretching or deep massage at first, then calf raises progressed from two legs to one. Aim for about 20–25 single-leg raises and comfortable hopping before sport.\n\nCalf pain without an injury, especially with swelling, warmth or redness, needs prompt medical review. With chest pain or breathlessness, call 000.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#calfpain",
+    "#calfstrain",
+    "#pickleball",
+    "#sportsinjury",
+    "#running",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka feels a sudden thwack in the calf at pickleball and learns calf strain care and warning signs from physio Kay.",
+  "story": {
+    "headline": "Sudden 'kick'<br>in the calf?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-12",
+  "scheduled_time": "18:00",
+  "created": "2027-01-12-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,222 @@
+{
+  "id": "Q-072-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 72,
+  "service": "physio",
+  "topic": "The lump behind the knee",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/bakers-cyst-behind-knee-explained/",
+  "slides": [
+    {
+      "top": "Quinn found a<br><em>squishy lump</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "surprised",
+          "say": "Who are YOU?",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Right behind the knee."
+    },
+    {
+      "top": "Quinn named it<br><em>Gary</em>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "think": "Gary, we need to talk"
+        }
+      ],
+      "bottom": "Gary did not respond."
+    },
+    {
+      "top": "Full knee bend?<br>Gary says <em>no</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Tight, and achy after walks."
+    },
+    {
+      "top": "Quinn took Gary<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "What is this lump?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had met a Gary before."
+    },
+    {
+      "top": "Often a <mark>fluid pouch</mark><br>from a busy knee.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "The cyst is usually the messenger"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Look after the knee,<br>not just the lump."
+    },
+    {
+      "top": "Tip 1: Care for the<br><mark>knee itself</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "A guided exercise plan may<br>settle the swelling over time."
+    },
+    {
+      "top": "Tip 2: In a flare,<br><mark>dial it down</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Ease the load, try gentle<br>compression and elevation."
+    },
+    {
+      "top": "Tip 3: Keep it<br><mark>moving and strong</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Keep the bend, and keep the<br>thigh muscles working."
+    },
+    {
+      "top": "Tip 4: Deep bends sore?<br><mark>Shorten</mark> the range.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "wink",
+          "say": "Half squats still count!"
+        }
+      ],
+      "bottom": "Ease the range, don't<br>stop strengthening."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden calf pain, swelling or warmth"
+        }
+      ],
+      "bottom": "Get same-day medical care,<br>even with a known cyst."
+    },
+    {
+      "top": "Gary's in good hands.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn found a squishy lump behind the knee, named it Gary, and noticed full bends felt tight.\n\nA lump like this is often a Baker's cyst: extra fluid from an irritated knee pushing into a pouch at the back. It's usually a sign of what's happening inside the knee, so the knee is the main focus.\n\nWhat often helps: an exercise and load plan for the knee, easing load with gentle compression and elevation during flares, keeping range and thigh strength, and shortening the range if deep bends are sore.\n\nSudden calf pain, swelling, warmth or redness needs same-day medical assessment, even if you already know about a cyst. If a child has one, a GP check is a sensible start.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#bakerscyst",
+    "#kneepain",
+    "#kneehealth",
+    "#kneeswelling",
+    "#kneeosteoarthritis",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka finds a lump behind the knee and learns from physio Kay that it often reflects the knee itself, plus exercise, flare and range tips.",
+  "story": {
+    "headline": "A squishy lump<br>behind the knee?",
+    "body": "What Quinn learned from Kay",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-24",
+  "scheduled_time": "18:00",
+  "created": "2026-12-24-2",
+  "status": "approved",
+  "review_warnings": []
+}

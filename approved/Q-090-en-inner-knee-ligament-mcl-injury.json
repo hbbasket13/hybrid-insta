@@ -1,0 +1,218 @@
+{
+  "id": "Q-090-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 90,
+  "service": "physio",
+  "topic": "Inner knee ligament (MCL) injury",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/mcl-injury-inner-knee-ligament-recovery/",
+  "slides": [
+    {
+      "top": "Quinn's first <em>ski</em> trip.<br>Very confident.",
+      "props": [
+        "hill@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "say": "Pizza, French fry… easy"
+        }
+      ],
+      "bottom": "Confidence: high. Skill: TBC."
+    },
+    {
+      "top": "Knees went <em>in</em>.<br>Quinn went <em>down</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "surprised",
+          "fx": [
+            "motion",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "A slow, twisty tumble."
+    },
+    {
+      "top": "Inner knee:<br><em>very</em> unhappy.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Sore along the inside edge."
+    },
+    {
+      "top": "Back home, Quinn<br>saw Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried",
+          "say": "Is my knee done for?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked it over."
+    },
+    {
+      "top": "The <mark>MCL</mark> stops the<br>knee caving in.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Most MCL sprains heal well with rehab"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Mild ones may settle in weeks;<br>bigger ones take longer."
+    },
+    {
+      "top": "Tip 1: Keep moving,<br><mark>as tolerated</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Get range back first. A brace<br>may help, if advised."
+    },
+    {
+      "top": "Tip 2: <mark>Shield</mark> it from<br>inward pushes.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Train the rest of the leg<br>while it heals."
+    },
+    {
+      "top": "Tip 3: Strong <mark>hips</mark><br>and thighs.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Squats, step-ups, band side<br>walks, within comfort."
+    },
+    {
+      "top": "Tip 4: Return in<br><mark>stages</mark>.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Straight jogging first, then<br>cutting and sport drills."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Fast swelling, a deep pop or locking"
+        }
+      ],
+      "bottom": "Or the knee keeps giving way?<br>Get it checked."
+    },
+    {
+      "top": "Ski you later, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first ski trip: very confident, then the knees went in and Quinn went down. Now the inner knee is very unhappy.\n\nThe MCL runs along the inside of the knee and stops it caving inwards. It can be strained by a blow to the outer knee or a twisting fall. Most MCL sprains heal well with rehab; mild ones may settle in weeks, bigger ones take longer.\n\nWhat often helps: keep moving and weight-bearing as tolerated, restore range first, protect the knee from inward pushes, strengthen the hips and thighs with squats, step-ups and band side walks, and return to sport in stages.\n\nRapid swelling, a deep pop, locking or the knee giving way are worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#mclinjury",
+    "#kneeinjury",
+    "#skiing",
+    "#kneepain",
+    "#sportsinjury",
+    "#chatswood",
+    "#sydneycbd",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka hurts the inner knee skiing and physio Kay explains MCL injuries with movement, protection, strength and staged-return tips.",
+  "story": {
+    "headline": "Sore inner knee<br>after a fall?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "props": [
+        "hill"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-02",
+  "created": "2027-01-02-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

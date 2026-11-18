@@ -1,0 +1,225 @@
+{
+  "id": "Q-081-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 81,
+  "service": "physio",
+  "topic": "Walking hurts, cycling's fine: spinal stenosis",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/spinal-stenosis-walking-leg-pain/",
+  "slides": [
+    {
+      "top": "Quinn's new hobby:<br><em>long</em> grocery runs.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "say": "The trolley is my best friend"
+        }
+      ],
+      "bottom": "Leaning on it feels amazing."
+    },
+    {
+      "top": "A walk to the park?<br>Legs go <em>heavy</em>.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Both legs. Same spot. Always."
+    },
+    {
+      "top": "Sit for a minute…<br>and it <mark>eases</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "think": "Weird. Cycling is totally fine."
+        }
+      ],
+      "bottom": "Downhill? Somehow even worse."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Why walking but not sitting?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked a few questions first."
+    },
+    {
+      "top": "Standing tall can <mark>narrow</mark><br>the nerve space.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Bending forward opens it up"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "This may be spinal stenosis,<br>a narrowed spinal canal."
+    },
+    {
+      "top": "Tip 1: Walk, rest,<br><mark>walk again</mark>.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Legs getting heavy? Sit briefly,<br>then keep going."
+    },
+    {
+      "top": "Tip 2: Cardio with a<br>slight <mark>forward lean</mark>.",
+      "props": [
+        "water"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A bike, water walking or<br>an incline treadmill."
+    },
+    {
+      "top": "Tip 3: Strong <mark>hips</mark><br>and trunk.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Strength can help you walk<br>a little further."
+    },
+    {
+      "top": "Tip 4: Bring a <mark>pole</mark><br>or a trolley.",
+      "props": [
+        "hill@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Support can make longer outings<br>easier. Keep walking!"
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Bladder or bowel changes, saddle numbness"
+        }
+      ],
+      "bottom": "Legs weakening fast?<br>Seek urgent care."
+    },
+    {
+      "top": "Walk on, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn loves long grocery runs (the trolley helps), but a walk to the park turns both legs heavy. Sitting down eases it, and cycling feels fine.\n\nThat pattern can point to lumbar spinal stenosis: standing tall narrows the space around the lower back nerves, while bending forward opens it up.\n\nWhat often helps: walk-rest intervals instead of giving up walking, cardio with a slight forward lean (bike, water walking, incline treadmill), hip and trunk strength, and a walking pole or trolley for longer outings. Comfortable distance can improve over weeks.\n\nNew bladder or bowel changes, numbness in the saddle area or legs weakening quickly need urgent medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#spinalstenosis",
+    "#lowerbackpain",
+    "#legpain",
+    "#walking",
+    "#backpain",
+    "#sydneycbd",
+    "#chatswood",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka finds walking makes both legs heavy, and physio Kay explains stenosis and shares walking, cardio, strength and support tips.",
+  "story": {
+    "headline": "Walking hurts but<br>cycling's fine?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "hill"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-29",
+  "created": "2026-12-29-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

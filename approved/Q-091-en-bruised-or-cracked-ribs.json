@@ -1,0 +1,235 @@
+{
+  "id": "Q-091-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 91,
+  "service": "physio",
+  "topic": "Bruised or cracked ribs",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/rib-injury-recovery-guide/",
+  "slides": [
+    {
+      "top": "Quinn's first game of<br><em>touch footy</em>.",
+      "props": [
+        "ball@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "say": "Watch this dive!",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Touch footy. Not tackle footy."
+    },
+    {
+      "top": "Landed on the ball.<br><em>Ribs first</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "surprised",
+          "fx": [
+            "exclaim",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Oof. The ribs said hello."
+    },
+    {
+      "top": "Next day: a sneeze is<br>a <em>full event</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "sweat",
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "Laughing? Also off the menu."
+    },
+    {
+      "top": "Quinn went to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "Bruised or cracked?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the breathing first."
+    },
+    {
+      "top": "Either way, the plan is<br>often <mark>the same</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Keep breathing deep and moving"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Pain often eases in 2–4 weeks;<br>twinges can linger longer."
+    },
+    {
+      "top": "Tip 1: <mark>Deep breaths</mark>,<br>a few times an hour.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Slow breath in, short hold,<br>then a long breath out."
+    },
+    {
+      "top": "Tip 2: Hug a <mark>pillow</mark><br>when you cough.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "determined",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Skip tight rib belts — they<br>can keep breathing shallow."
+    },
+    {
+      "top": "Tip 3: Keep <mark>walking</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Gentle walks keep your lungs<br>and back moving."
+    },
+    {
+      "top": "Tip 4: Sleep <mark>propped up</mark>.",
+      "props": [
+        "bed",
+        "moon"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Or on the other side,<br>hugging a pillow."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "More breathless, or new chest pain"
+        }
+      ],
+      "bottom": "Coughing blood, fever or dizzy?<br>Seek urgent care."
+    },
+    {
+      "top": "Breathe easy, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's touch footy debut ended with a dive straight onto the ball, ribs first. By the next day, every sneeze was a full event.\n\nBruised or cracked, the plan is often the same: keep breathing deeply and keep gently moving. Pain often eases over a few weeks, with twinges that can hang around longer.\n\nWhat often helps: slow deep breaths a few times an hour, hugging a pillow to cough, regular gentle walks, and sleeping propped up. Tight rib belts can keep breathing shallow, and heavy lifting and contact sport are best left until pain has well settled. Chat with your GP about pain relief.\n\nIncreasing breathlessness, chest pain that feels different, coughing blood, fever or dizziness need urgent medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#ribinjury",
+    "#bruisedribs",
+    "#touchfooty",
+    "#sportsinjury",
+    "#breathing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka hurts its ribs at touch footy and learns breathing, coughing, walking and sleep tips from physio Kay.",
+  "story": {
+    "headline": "Sore ribs after<br>a fall?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore"
+        }
+      ],
+      "props": [
+        "ball@820"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-03",
+  "created": "2027-01-03-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

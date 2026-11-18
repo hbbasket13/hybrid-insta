@@ -1,0 +1,221 @@
+{
+  "id": "Q-086-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 86,
+  "service": "physio",
+  "topic": "Padel: the new racquet sport niggles",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/padel-injuries-prevention-guide/",
+  "slides": [
+    {
+      "top": "Quinn discovered <em>padel</em>.<br>Played 5 days straight.",
+      "props": [
+        "ball@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "proud",
+          "say": "I'm basically a pro now"
+        }
+      ],
+      "bottom": "Week one. Very committed."
+    },
+    {
+      "top": "Week two:<br>elbow <em>complaining</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Then the shoulder joined in."
+    },
+    {
+      "top": "Back-glass sprint.<br>Calf: <em>ouch</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "sore",
+          "fx": [
+            "exclaim",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Running shoes: not ideal here."
+    },
+    {
+      "top": "Quinn hobbled to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is padel out to get me?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: it's the ramp-up."
+    },
+    {
+      "top": "Too much, too soon<br><mark>adds up</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Grip, smashes and quick pushes add load"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Grip size and bat weight<br>matter too."
+    },
+    {
+      "top": "Tip 1: Build up<br><mark>gradually</mark>.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Start around two sessions<br>a week, then add slowly."
+    },
+    {
+      "top": "Tip 2: Check your<br><mark>gear</mark>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Right grip size and bat weight,<br>plus proper court shoes."
+    },
+    {
+      "top": "Tip 3: <mark>Strength</mark>,<br>twice a week.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Grip work, band rows, heavy<br>calf raises: about 15 mins."
+    },
+    {
+      "top": "Tip 4: Warm up<br><mark>before</mark> you smash.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Easy swings and gentle<br>smashes first."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden calf pain or pop, can't weight-bear"
+        }
+      ],
+      "bottom": "Or a fast-swelling joint?<br>Stop and get it checked."
+    },
+    {
+      "top": "See you on court, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn discovered padel and played five days straight. By week two the elbow was complaining, the shoulder joined in, and a back-glass sprint upset the calf.\n\nPadel niggles often come from ramping up too fast: repeated gripping, overhead smashes and quick stop-start pushes all add load. Grip size and bat weight can matter too.\n\nWhat often helps: build up gradually from around two sessions a week, check your grip size, bat and court shoes, do about 15 minutes of grip, shoulder and calf strength twice a week, and warm up with easy swings before smashing.\n\nSudden calf pain or a pop, not being able to bear weight, or a fast-swelling joint are reasons to stop and get it checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#padel",
+    "#padelaustralia",
+    "#racquetsports",
+    "#tenniselbow",
+    "#calfstrain",
+    "#chatswood",
+    "#sydneycbd",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka plays too much padel too fast and physio Kay shares pacing, gear, strength and warm-up tips.",
+  "story": {
+    "headline": "New to padel<br>and a bit sore?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "ball"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-31",
+  "created": "2026-12-31-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

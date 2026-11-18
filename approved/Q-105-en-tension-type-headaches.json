@@ -1,0 +1,226 @@
+{
+  "id": "Q-105-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 105,
+  "service": "physio",
+  "topic": "Tension-type headaches",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/tension-type-headache-explained/",
+  "slides": [
+    {
+      "top": "Deadline week.<br>Quinn's on <em>coffee #4</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "determined",
+          "fx": [
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "Shoulders: up near the ears."
+    },
+    {
+      "top": "3pm: a tight <em>band</em><br>around the head.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Like a hat two sizes too small."
+    },
+    {
+      "top": "Bedtime: <em>1am</em>.<br>Again.",
+      "props": [
+        "bed",
+        "moon"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Next day? The band is back."
+    },
+    {
+      "top": "Quinn finally<br>saw Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Why does my head feel squeezed?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about sleep first."
+    },
+    {
+      "top": "Posture, stress and<br>sleep <mark>stack up</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Sensitive pain pathways play a big part"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Clenching and eye strain too."
+    },
+    {
+      "top": "Tip 1: Build neck and<br><mark>shoulder</mark> endurance.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Small, steady strength work."
+    },
+    {
+      "top": "Tip 2: Sleep and stress<br>are <mark>treatment</mark> too.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "A regular bedtime can help."
+    },
+    {
+      "top": "Tip 3: Keep coffee and<br>water <mark>steady</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "bottle"
+        }
+      ],
+      "bottom": "Big swings or skipped coffee<br>can be a trigger."
+    },
+    {
+      "top": "Tip 4: Keep a<br><mark>headache diary</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "neutral",
+          "item": "book"
+        }
+      ],
+      "bottom": "Track sleep, caffeine, workload<br>and timing."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden, severe, or with fever or weakness"
+        }
+      ],
+      "bottom": "Those need urgent care.<br>15+ days a month? See a GP."
+    },
+    {
+      "top": "Loosen up, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Deadline week: coffee number four, shoulders up by the ears, bedtime at 1am. By 3pm Quinn's head felt squeezed by a hat two sizes too small.\n\nTension-type headaches often build from a stack of things: long fixed postures, stress, short sleep, jaw clenching, eye strain and swings in caffeine or fluids. Sensitive pain pathways can play a big part.\n\nWhat often helps: build neck and shoulder endurance, treat sleep and stress as part of the plan, keep coffee and water steady, and keep a simple diary to spot triggers.\n\nA sudden severe headache, or one with fever, vision changes or weakness, needs urgent care. Headaches on 15 or more days a month, or a new pattern, are worth a GP visit.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#headache",
+    "#tensionheadache",
+    "#neckpain",
+    "#deskjob",
+    "#stressrelief",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets tension headaches during deadline week and learns strength, sleep, hydration and diary tips from physio Kay.",
+  "story": {
+    "headline": "Head feel like it's<br>in a tight band?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-10",
+  "scheduled_time": "09:00",
+  "created": "2027-01-10-1",
+  "status": "approved",
+  "review_warnings": []
+}

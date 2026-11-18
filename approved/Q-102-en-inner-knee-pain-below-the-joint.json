@@ -1,0 +1,234 @@
+{
+  "id": "Q-102-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 102,
+  "service": "physio",
+  "topic": "Inner knee pain below the joint",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/inner-knee-pain-pes-anserine-guide/",
+  "slides": [
+    {
+      "top": "Quinn found a new<br><em>hill</em> to love.",
+      "props": [
+        "hill",
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "say": "Hills every day! Why not?"
+        }
+      ],
+      "bottom": "Three weeks of daily climbs."
+    },
+    {
+      "top": "Then: a tender spot<br><em>inside</em> the knee.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Just below the joint line."
+    },
+    {
+      "top": "Stairs became<br>a <em>negotiation</em>.",
+      "props": [
+        "stairs@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "blank",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Every step: 'Are you sure?'"
+    },
+    {
+      "top": "Quinn showed Kay<br>the spot.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "It's right HERE. Tiny spot."
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a few questions."
+    },
+    {
+      "top": "Tendons attach here,<br>over a small <mark>bursa</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Sudden load changes can irritate it"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Weak hips or quads can add load."
+    },
+    {
+      "top": "Tip 1: <mark>Calm</mark> it down<br>for a bit.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Ease off triggers. A pillow<br>between the knees at night."
+    },
+    {
+      "top": "Tip 2: Strengthen<br><mark>quads and hips</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Build it up over 6–12 weeks."
+    },
+    {
+      "top": "Tip 3: Rebuild load<br><mark>gradually</mark>.",
+      "props": [
+        "hill@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Easy on hills and sloped paths."
+    },
+    {
+      "top": "Tip 4: Running? Often OK,<br>just <mark>less</mark> of it.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "wink",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Mild, and settled by morning?<br>Usually a good sign."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Knee locks, gives way or swells fast"
+        }
+      ],
+      "bottom": "Or no change after a few<br>weeks of sensible care."
+    },
+    {
+      "top": "Happy hills, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn fell in love with a new hill and climbed it every day for three weeks. Then came a tender spot on the inner knee, just below the joint.\n\nA few tendons attach there over a small bursa, and a sudden jump in load (more hills, more kilometres, a new surface) can irritate the area. Weaker hips or quads may add to it.\n\nWhat often helps: ease off triggers for a while, sleep with a pillow between the knees, strengthen quads and hips over 6–12 weeks, and rebuild walking or running gradually. Many people can keep running at a lower volume if it settles by morning.\n\nGet it checked if the knee locks, gives way, swells quickly, or isn't improving after a few weeks.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneepain",
+    "#innerknee",
+    "#kneehealth",
+    "#runningtips",
+    "#kneestrength",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes the hills, gets a sore inner knee, and learns load, strength and recovery tips from physio Kay.",
+  "story": {
+    "headline": "Sore spot inside<br>the knee?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "props": [
+        "hill@820"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-08",
+  "scheduled_time": "18:00",
+  "created": "2027-01-08-2",
+  "status": "approved",
+  "review_warnings": []
+}

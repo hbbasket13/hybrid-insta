@@ -1,0 +1,223 @@
+{
+  "id": "Q-080-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 80,
+  "service": "physio",
+  "topic": "Side stitch when running",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/side-stitch-running-causes-prevention/",
+  "slides": [
+    {
+      "top": "Quinn ate a <em>giant</em><br>burrito…",
+      "props": [
+        "table"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Fuel for the run!"
+        }
+      ],
+      "bottom": "…then went straight to run club."
+    },
+    {
+      "top": "Minute four.<br>A <em>stab</em> under the ribs.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "sweat",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Quinn's side: absolutely not."
+    },
+    {
+      "top": "Quinn began drafting<br>a <em>dramatic will</em>.",
+      "props": [
+        "shoe@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "think": "Leave my shoes to the dog"
+        }
+      ],
+      "bottom": "It faded once Quinn walked."
+    },
+    {
+      "top": "Next day, Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "What even is a side stitch?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: very common,<br>very annoying."
+    },
+    {
+      "top": "Likely an irritated<br><mark>tummy lining</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "A full gut plus bouncing adds friction"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Big meals and drinks before<br>a run are common triggers."
+    },
+    {
+      "top": "Tip 1: Big meals<br><mark>2–4 hours</mark> before.",
+      "props": [
+        "clock@850"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Then small sips in the<br>last hour."
+    },
+    {
+      "top": "Tip 2: Skip <mark>sugary</mark><br>drinks pre-run.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "wink",
+          "item": "bottle",
+          "say": "Water's my go-to"
+        }
+      ],
+      "bottom": "Water or a diluted sports<br>drink sits easier."
+    },
+    {
+      "top": "Tip 3: <mark>Warm up</mark><br>gradually.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "No sprinting off the start.<br>Run tall."
+    },
+    {
+      "top": "Tip 4: Mid-run stitch?<br><mark>Slow belly breaths</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Press the spot, lean away,<br>or walk for a minute."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Belly or chest pain at rest, or fever"
+        }
+      ],
+      "bottom": "Chest pressure or pain to the<br>jaw? Prompt medical care."
+    },
+    {
+      "top": "Run club, round two.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn ate a giant burrito, went straight to run club, and got a stabbing pain under the ribs by minute four.\n\nA side stitch is very common. The leading idea is that the lining inside the tummy wall gets irritated, and a full gut plus bouncing adds friction. It often eases as fitness builds.\n\nWhat often helps: big meals two to four hours before, small sips in the last hour, water rather than sugary drinks, a gradual warm-up and running tall. Mid-run, slow belly breaths, pressing the spot, leaning away or walking can help it pass.\n\nBelly or chest pain at rest, fever, chest pressure, or pain spreading to the shoulder or jaw needs prompt medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#sidestitch",
+    "#running",
+    "#runclub",
+    "#sydneyrunners",
+    "#runningtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets a side stitch after a big burrito and learns meal timing, drink, warm-up and breathing tips from physio Kay.",
+  "story": {
+    "headline": "Side stitch<br>on every run?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-28",
+  "scheduled_time": "18:00",
+  "created": "2026-12-28-2",
+  "status": "approved",
+  "review_warnings": []
+}

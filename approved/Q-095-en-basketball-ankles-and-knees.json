@@ -1,0 +1,220 @@
+{
+  "id": "Q-095-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 95,
+  "service": "physio",
+  "topic": "Basketball: ankles and knees",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/basketball-injuries-ankle-knee/",
+  "slides": [
+    {
+      "top": "Quinn joined a<br><em>basketball</em> team.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "ball",
+          "say": "Height is a state of mind."
+        }
+      ],
+      "bottom": "Quinn is about 50 cm tall."
+    },
+    {
+      "top": "First rebound. Landed on<br>a <em>teammate's foot</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "A classic rolled ankle."
+    },
+    {
+      "top": "Two weeks later…<br><em>rolled it again</em>.",
+      "props": [
+        "ball@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Felt fine. Wasn't rehabbed."
+    },
+    {
+      "top": "Time to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Why does it keep rolling?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about the rehab."
+    },
+    {
+      "top": "Feeling fine isn't<br><mark>fully rehabbed</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Strength and balance come back slower"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "All that jumping loads<br>the knees, too."
+    },
+    {
+      "top": "Tip 1: Train <mark>balance</mark><br>and landings.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Soft knees, quiet landings,<br>plus agility drills."
+    },
+    {
+      "top": "Tip 2: <mark>Tape or brace</mark><br>after a sprain.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Better backed than relying<br>on high-tops alone."
+    },
+    {
+      "top": "Tip 3: Build <mark>calf</mark> and<br><mark>thigh</mark> strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Helps knees and Achilles<br>handle all that jumping."
+    },
+    {
+      "top": "Tip 4: Watch the<br>total <mark>load</mark>.",
+      "props": [
+        "calendar@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "bottle"
+        }
+      ],
+      "bottom": "Three teams a week? Teens<br>especially need rest days."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "You can't weight-bear or it swells a lot"
+        }
+      ],
+      "bottom": "Jammed finger still swollen?<br>Worth a check too."
+    },
+    {
+      "top": "See you on court.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "happy",
+          "item": "ball"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined a basketball team (height is a state of mind), landed on a teammate's foot and rolled an ankle. Two weeks later it felt fine, so Quinn played on and rolled it again.\n\nFeeling fine isn't the same as fully rehabbed: strength and balance often lag behind the pain, and all that jumping loads the knees too.\n\nWhat often helps: balance, landing and agility training, taping or bracing after a sprain, building calf and thigh strength, and keeping an eye on total load, especially for teens on several teams.\n\nNot being able to weight-bear, a lot of swelling, repeated rolling, or a jammed finger that stays swollen are worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#basketball",
+    "#anklesprain",
+    "#jumpersknee",
+    "#sportsinjury",
+    "#injuryprevention",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka rolls an ankle playing basketball and learns balance, taping, strength and load tips from physio Kay.",
+  "story": {
+    "headline": "Ankle keeps<br>rolling on court?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "ball"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-05",
+  "created": "2027-01-05-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

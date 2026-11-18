@@ -1,0 +1,222 @@
+{
+  "id": "Q-106-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 106,
+  "service": "physio",
+  "topic": "Bendy joints in adults",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/hypermobility-adults-management/",
+  "slides": [
+    {
+      "top": "Quinn's party trick:<br><em>extra bendy</em> joints.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ],
+          "say": "Ta-da! No bones, apparently."
+        }
+      ],
+      "bottom": "Friends: impressed. And alarmed."
+    },
+    {
+      "top": "But lately, joints<br>ache by <em>evening</em>.",
+      "props": [
+        "moon"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Knees, shoulders, a bit of all."
+    },
+    {
+      "top": "And ankles roll at<br>the <em>worst</em> times.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "blank",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Flat ground. No excuses."
+    },
+    {
+      "top": "Quinn showed Kay<br>the party trick.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is being bendy a problem?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: usually not, but…"
+    },
+    {
+      "top": "Loose ligaments mean<br>muscles <mark>work harder</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "It matters when it brings symptoms"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Bendy on its own is often fine."
+    },
+    {
+      "top": "Tip 1: Strength in a<br><mark>controlled</mark> range.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Strong and steady, no flopping<br>into the end range."
+    },
+    {
+      "top": "Tip 2: Train your<br><mark>balance</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "It helps joints sense<br>where they are."
+    },
+    {
+      "top": "Tip 3: <mark>Pace</mark> it.<br>No boom-bust.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Steady weeks beat big days<br>followed by crashes."
+    },
+    {
+      "top": "Tip 4: Skip the extreme<br><mark>stretches</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "wink",
+          "say": "Yoga's fine. I just stop short of max."
+        }
+      ],
+      "bottom": "Tell your instructor you're<br>bendy. Focus on control."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Frequent sprains or joints that slip out"
+        }
+      ],
+      "bottom": "Or pain in many joints, or<br>fatigue that seems too much."
+    },
+    {
+      "top": "Bendy <em>and</em> strong.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's party trick has always been extra-bendy joints. Lately, though, those joints ache by evening and the ankles roll on flat ground.\n\nBeing bendy is usually harmless. It matters when it brings symptoms: looser ligaments give less passive support, so muscles have to do more of the work.\n\nWhat often helps: strength training in a controlled range, balance work so joints sense where they are, pacing to avoid boom-bust weeks, and skipping extreme end-range stretches. Yoga and Pilates can still fit, with a focus on control. Progress tends to build over months.\n\nGet it checked if you have frequent sprains or joints that slip out, pain in many joints, or fatigue that seems out of proportion.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hypermobility",
+    "#bendyjoints",
+    "#jointpain",
+    "#strengthtraining",
+    "#balance",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka shows off bendy joints, starts to ache, and learns strength, balance and pacing tips from physio Kay.",
+  "story": {
+    "headline": "Extra bendy<br>and achy?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-10",
+  "scheduled_time": "18:00",
+  "created": "2027-01-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

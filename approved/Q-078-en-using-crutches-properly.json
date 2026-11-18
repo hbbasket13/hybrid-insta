@@ -1,0 +1,215 @@
+{
+  "id": "Q-078-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 78,
+  "service": "physio",
+  "topic": "Using crutches properly",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/how-to-use-crutches-properly-guide/",
+  "slides": [
+    {
+      "top": "Quinn's new accessory:<br><em>crutches</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "proud",
+          "say": "Fancy, right?"
+        }
+      ],
+      "bottom": "Day one confidence: sky-high."
+    },
+    {
+      "top": "Day two.<br><em>Armpits</em> are not happy.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Leaning on the tops. Oops."
+    },
+    {
+      "top": "Carrying a coffee on<br>crutches: <em>bold</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "blank",
+          "item": "cup",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "The coffee did not survive."
+    },
+    {
+      "top": "Quinn hobbled to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried",
+          "say": "Why do my armpits and hands ache?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay grabbed a tape measure."
+    },
+    {
+      "top": "Weight goes through<br>your <mark>hands</mark>, not armpits.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Tops sit 2–3 fingers below the armpit"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Grips at wrist height,<br>elbows a little bent."
+    },
+    {
+      "top": "Tip 1: Crutches and sore<br>leg move <mark>together</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Then step the good leg<br>through. Keep a rhythm."
+    },
+    {
+      "top": "Tip 2: Up with the good,<br><mark>down with the bad</mark>.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Use a rail if there is one,<br>and have someone nearby."
+    },
+    {
+      "top": "Tip 3: Hands free —<br>use a <mark>backpack</mark>.",
+      "props": [
+        "backpack@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Carrying things leaves you<br>with no support."
+    },
+    {
+      "top": "Tip 4: <mark>Clear</mark> the path.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink",
+          "say": "Rugs, cords, wet floors: out!"
+        }
+      ],
+      "bottom": "Rest before your arms are<br>completely worn out."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Tingling or numbness in your hands"
+        }
+      ],
+      "bottom": "Struggling at home, or leg pain<br>climbing? Ask your team."
+    },
+    {
+      "top": "One step at a time.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's new accessory: crutches. By day two the armpits were sore, and the coffee did not survive.\n\nYour weight should go through your hands, not your armpits. Crutch tops usually sit two to three finger-widths below the armpit, with grips at wrist height and elbows slightly bent.\n\nTips that often help: move the crutches and sore leg together, then step through with the good leg; on stairs, up with the good, down with the bad; carry things in a small backpack; clear rugs and cords; and rest before your arms tire. Always follow your team's weight-bearing advice.\n\nTingling or numbness in your hands, trouble coping at home, or increasing leg pain is worth raising with your team.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#crutches",
+    "#injuryrecovery",
+    "#anklesprain",
+    "#rehab",
+    "#mobilityaids",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka learns to use crutches properly from physio Kay, including fit, walking rhythm, stairs, backpacks and clearing the path.",
+  "story": {
+    "headline": "New to<br>crutches?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "proud"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-27",
+  "scheduled_time": "18:00",
+  "created": "2026-12-27-2",
+  "status": "approved",
+  "review_warnings": []
+}

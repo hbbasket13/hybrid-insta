@@ -1,0 +1,230 @@
+{
+  "id": "Q-071-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 71,
+  "service": "physio",
+  "topic": "Grip strength as a health marker",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/grip-strength-health-marker/",
+  "slides": [
+    {
+      "top": "Quinn vs. one<br><em>pickle jar</em>.",
+      "props": [
+        "table"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "bottle",
+          "shout": "Open, you coward!",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Round one: the jar wins."
+    },
+    {
+      "top": "Three grocery bags.<br>Grip gives up <em>first</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sore",
+          "item": "bag",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Quinn's fingers resigned."
+    },
+    {
+      "top": "Then Quinn read grip is<br>a <em>health marker</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Wait… my hands are<br>a vital sign?"
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is a weak grip actually a big deal?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay loves a strength question."
+    },
+    {
+      "top": "Grip often reflects<br><mark>whole-body</mark> strength.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "It's a window into muscle reserve"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Muscle reserve helps you<br>bounce back from setbacks."
+    },
+    {
+      "top": "Tip 1: Strength train<br><mark>twice a week</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Squats, pushes, pulls —<br>the whole body, not just hands."
+    },
+    {
+      "top": "Tip 2: Try farmer's<br><mark>carries</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "proud",
+          "item": "dumbbell",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A weight in each hand,<br>walk 20–40 metres."
+    },
+    {
+      "top": "Tip 3: Hand grippers<br>are a <mark>side dish</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "wink",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Whole-body strength is<br>the main meal."
+    },
+    {
+      "top": "Tip 4: Watch the <mark>trend</mark>,<br>not one number.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Norms vary with age and kit"
+        }
+      ],
+      "bottom": "Compare left and right<br>over the months."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Grip drops suddenly or on one side"
+        }
+      ],
+      "bottom": "Numbness or tingling too?<br>Get it looked at."
+    },
+    {
+      "top": "Jar rematch: pending.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn lost a fight to a pickle jar, then read that grip strength is a health marker. Is it a big deal?\n\nGrip is easy to measure and often reflects whole-body strength and muscle reserve, which can help you recover from illness, surgery or a fall. The good news: it can improve at any age.\n\nWhat often helps: whole-body strength training at least twice a week, farmer's carries, treating hand grippers as an extra rather than the main plan, and tracking your trend and left-right balance over time.\n\nA sudden or one-sided loss of grip, or weakness with numbness or tingling, is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#gripstrength",
+    "#strengthtraining",
+    "#healthyageing",
+    "#farmerscarry",
+    "#musclehealth",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka loses to a pickle jar and learns from physio Kay why grip strength matters and how whole-body strength training can build it.",
+  "story": {
+    "headline": "Losing to<br>pickle jars?",
+    "body": "4 grip tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "bottle",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "props": [
+        "table"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-24",
+  "scheduled_time": "09:00",
+  "created": "2026-12-24-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,217 @@
+{
+  "id": "Q-066-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 66,
+  "service": "physio",
+  "topic": "Do posture correctors work?",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/posture-correctors-do-they-work/",
+  "slides": [
+    {
+      "top": "Quinn bought a<br><em>posture strap</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Perfect posture, here I come."
+        }
+      ],
+      "bottom": "Ordered at 1am, obviously."
+    },
+    {
+      "top": "Strap on: <em>upright</em>.<br>Strap off: <em>noodle</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "blank",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Back to slouching in minutes."
+    },
+    {
+      "top": "Still all day at<br>the desk. <em>Ouch</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Neck and shoulders, unimpressed."
+    },
+    {
+      "top": "Quinn showed Kay<br>the strap.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Does this thing actually work?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay smiled. Kindly."
+    },
+    {
+      "top": "A strap is mostly<br>a <mark>reminder</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Staying still is the bigger issue"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "The effect tends to fade<br>once it comes off."
+    },
+    {
+      "top": "Tip 1: Your best posture<br>is the <mark>next one</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Change position every<br>30–45 minutes."
+    },
+    {
+      "top": "Tip 2: Strengthen your<br><mark>upper back</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Rows, band pull-aparts, carries<br>— two short sessions a week."
+    },
+    {
+      "top": "Tip 3: Screen at<br><mark>eye height</mark>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Rest your forearms<br>on the desk."
+    },
+    {
+      "top": "Tip 4: Want reminders?<br>Use your <mark>phone</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "wink"
+        }
+      ],
+      "bottom": "A gentle alert, no strap<br>required."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain that hangs around or one-sided changes"
+        }
+      ],
+      "bottom": "Brace for a condition? Use it<br>with professional guidance."
+    },
+    {
+      "top": "Move often. Sit happy.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought a posture strap at 1am. Strap on: upright. Strap off: straight back to slouching.\n\nPosture straps mostly work as a reminder, and that effect tends to fade once they come off. Aches are often linked more to staying still for too long, low strength, poor sleep and stress than to one \"perfect\" position.\n\nWhat can help: change position every 30–45 minutes, strengthen the upper back with rows, band pull-aparts and carries twice a week, set the screen at eye height with forearms supported, and use phone reminders instead of a strap.\n\nPain that hangs around or one-sided changes are worth getting checked. Braces for a medical condition are best used with professional guidance.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#posture",
+    "#posturecorrector",
+    "#deskjob",
+    "#neckpain",
+    "#officelife",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka tries a posture strap and learns from physio Kay that moving often, upper-back strength and a good desk setup matter more.",
+  "story": {
+    "headline": "Do posture straps<br>actually work?",
+    "body": "Quinn found out in the new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-21",
+  "scheduled_time": "18:00",
+  "created": "2026-12-21-2",
+  "status": "approved",
+  "review_warnings": []
+}

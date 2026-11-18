@@ -1,0 +1,217 @@
+{
+  "id": "Q-107-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 107,
+  "service": "physio",
+  "topic": "What remedial massage helps",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/remedial-massage-what-it-helps/",
+  "slides": [
+    {
+      "top": "Quinn booked a<br><em>remedial massage</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Maximum pressure, please."
+        }
+      ],
+      "bottom": "'No pain, no gain,' right?"
+    },
+    {
+      "top": "Five minutes in…",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ],
+          "shout": "Okay, maybe medium!"
+        }
+      ],
+      "bottom": "Quinn reconsidered everything."
+    },
+    {
+      "top": "After: Quinn felt<br><em>so</em> loose.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Was that the knots breaking?"
+    },
+    {
+      "top": "Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised",
+          "say": "Did it break up my knots?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Kay smiled. Not quite."
+    },
+    {
+      "top": "It can ease pain and<br>tension <mark>short term</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Calmer muscles, better sleep, easier moves"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It doesn't realign or rebuild."
+    },
+    {
+      "top": "Tip 1: Pair it with<br><mark>exercise</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Strength builds what massage<br>can't."
+    },
+    {
+      "top": "Tip 2: Speak up<br>about <mark>pressure</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "A bit lighter, please!"
+        }
+      ],
+      "bottom": "Harder isn't always better."
+    },
+    {
+      "top": "Tip 3: Time it<br><mark>well</mark>.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "After a big training block or<br>a stressful week."
+    },
+    {
+      "top": "Tip 4: Weekly just to<br>cope? <mark>Look deeper</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "The cause may be load,<br>strength or a joint."
+    },
+    {
+      "top": "Get it checked first if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Unexplained pain, fever or a recent injury"
+        }
+      ],
+      "bottom": "Blood clot risk? See your GP<br>before a massage."
+    },
+    {
+      "top": "Feel good, move well.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn asked for maximum pressure. Five minutes in: \"Okay, maybe medium!\" Afterwards Quinn felt loose and wondered if the knots had been broken up.\n\nRemedial massage can ease pain and muscle tension in the short term, help you relax and sleep, and make moving feel easier. It doesn't realign the pelvis, break down knots or build tissue strength.\n\nWhat often helps: pair it with exercise, speak up about pressure (harder isn't always better), and time sessions after a big training block or a stressful week. If you need it weekly just to cope, the cause may need a closer look.\n\nCheck with a doctor first if you have unexplained pain, fever, a recent significant injury or blood clot risk.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#remedialmassage",
+    "#massage",
+    "#muscletension",
+    "#recovery",
+    "#selfcare",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka asks for maximum massage pressure, regrets it, and learns from physio Kay what remedial massage can and can't do.",
+  "story": {
+    "headline": "Does massage really<br>break up knots?",
+    "body": "Quinn finds out in the new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "bed"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-11",
+  "scheduled_time": "09:00",
+  "created": "2027-01-11-1",
+  "status": "approved",
+  "review_warnings": []
+}

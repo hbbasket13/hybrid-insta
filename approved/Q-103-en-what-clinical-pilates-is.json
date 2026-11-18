@@ -1,0 +1,223 @@
+{
+  "id": "Q-103-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 103,
+  "service": "physio",
+  "topic": "What clinical Pilates is",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/clinical-pilates-what-it-is/",
+  "slides": [
+    {
+      "top": "Quinn met a <em>reformer</em><br>for the first time.",
+      "props": [
+        "bed@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "surprised",
+          "say": "Is that a… very fancy bed?"
+        }
+      ],
+      "bottom": "It has springs. And straps."
+    },
+    {
+      "top": "Online: <em>1,000</em> videos.<br>All different.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Core! Breath! Flow! Help."
+    },
+    {
+      "top": "Quinn tried one.<br>Got <em>very</em> tangled.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Old back niggle: not impressed."
+    },
+    {
+      "top": "Quinn booked a chat<br>with Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "What makes it 'clinical'?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Great question, said Kay."
+    },
+    {
+      "top": "It starts with<br>an <mark>assessment</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Then a program built just for you"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Not one routine for everyone."
+    },
+    {
+      "top": "Tip 1: Mat work<br><mark>counts</mark> too.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "happy"
+        }
+      ],
+      "bottom": "The reformer just adds<br>adjustable springs."
+    },
+    {
+      "top": "Tip 2: Load goes up<br>as <mark>you</mark> get stronger.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "band",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Progression is the point."
+    },
+    {
+      "top": "Tip 3: <mark>Consistency</mark><br>beats intensity.",
+      "props": [
+        "calendar@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Many notice changes in about<br>6–8 sessions."
+    },
+    {
+      "top": "Tip 4: Pick what<br>you'll <mark>stick with</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "wink",
+          "say": "Pilates or gym? Both can work."
+        }
+      ],
+      "bottom": "Well-designed exercise<br>of any kind can help."
+    },
+    {
+      "top": "Get it checked first if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Big pain, recent surgery or pregnancy"
+        }
+      ],
+      "bottom": "Or osteoporosis or a condition<br>that needs changes."
+    },
+    {
+      "top": "See you on the mat.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn met a reformer for the first time and wondered if it was a very fancy bed. A thousand online videos later, Quinn was more confused (and a bit tangled).\n\nClinical Pilates is Pilates delivered as part of physio care. The difference isn't the equipment, it's the process: an assessment first, then a program built for you that progresses as you get stronger.\n\nGood to know: mat work counts too, consistency matters more than intensity, and many people notice changes within about 6–8 sessions. Pilates and other well-designed exercise can both work, so pick what you'll stick with.\n\nCheck in first if you have significant pain, recent surgery, pregnancy, osteoporosis or a condition that needs exercise changes.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#clinicalpilates",
+    "#pilates",
+    "#reformerpilates",
+    "#backpain",
+    "#corestrength",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka is puzzled by a Pilates reformer and learns from physio Kay what makes Pilates clinical.",
+  "story": {
+    "headline": "What makes Pilates<br>'clinical'?",
+    "body": "Quinn finds out in the new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "mat"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-09",
+  "scheduled_time": "09:00",
+  "created": "2027-01-09-1",
+  "status": "approved",
+  "review_warnings": []
+}

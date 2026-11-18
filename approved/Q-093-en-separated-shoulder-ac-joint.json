@@ -1,0 +1,228 @@
+{
+  "id": "Q-093-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 93,
+  "service": "physio",
+  "topic": "Separated shoulder (AC joint)",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/ac-joint-injury-separated-shoulder/",
+  "slides": [
+    {
+      "top": "Quinn's first<br><em>trail run</em>.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "proud",
+          "say": "Unstoppable!",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Nothing could stop Quinn."
+    },
+    {
+      "top": "Except one <em>tree root</em>.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "surprised",
+          "fx": [
+            "exclaim",
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Landed right on the shoulder."
+    },
+    {
+      "top": "There's a little <em>bump</em><br>on top now.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "say": "Is my shoulder… lumpy?",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Quinn named it Gerald."
+    },
+    {
+      "top": "Quinn and Gerald<br>visited Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "Did I dislocate it?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked it carefully."
+    },
+    {
+      "top": "It's often the <mark>AC joint</mark>,<br>on top of the shoulder.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "This small joint got sprained"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "An X-ray may be needed to rule<br>out a broken collarbone."
+    },
+    {
+      "top": "Tip 1: Sling for <mark>comfort</mark>,<br>not for weeks.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "item": "icepack"
+        }
+      ],
+      "bottom": "Ice and gentle moves below<br>shoulder height early on."
+    },
+    {
+      "top": "Tip 2: Raise the arm<br><mark>bit by bit</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Range first. Big cross-body<br>moves can wait."
+    },
+    {
+      "top": "Tip 3: Build <mark>strength</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "band"
+        }
+      ],
+      "bottom": "Rows, shoulder blade control,<br>band rotations."
+    },
+    {
+      "top": "Tip 4: Press <mark>later</mark>,<br>and start small.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Floor presses, short range,<br>before the full barbell."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Big deformity, numbness or severe pain"
+        }
+      ],
+      "bottom": "Gerald may stay — that's often<br>just cosmetic."
+    },
+    {
+      "top": "Gerald says hi.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first trail run met one tree root, and Quinn landed right on the point of the shoulder. Now there's a little bump on top, which Quinn named Gerald.\n\nA fall onto the shoulder can sprain the AC joint, the small joint on top of the shoulder. It's not the same as a dislocation, and an X-ray may be needed to rule out a broken collarbone.\n\nWhat often helps: a sling for comfort only, ice and gentle movement early, gradually raising the arm, building strength with rows and band work, then easing into pressing. A small bump often stays and is usually cosmetic.\n\nMarked deformity, numbness, severe pain or ongoing pain on top of the shoulder are worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#acjoint",
+    "#shoulderinjury",
+    "#separatedshoulder",
+    "#trailrunning",
+    "#shoulderrehab",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka falls onto its shoulder on a trail run and learns sling, range, strength and pressing tips from physio Kay.",
+  "story": {
+    "headline": "Fell on your<br>shoulder?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-04",
+  "created": "2027-01-04-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

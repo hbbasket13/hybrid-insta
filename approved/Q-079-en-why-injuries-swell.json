@@ -1,0 +1,223 @@
+{
+  "id": "Q-079-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 79,
+  "service": "physio",
+  "topic": "Why injuries swell",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/why-injuries-swell-management-guide/",
+  "slides": [
+    {
+      "top": "Quinn rolled an ankle<br>on a <em>rogue kerb</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "The kerb showed no remorse."
+    },
+    {
+      "top": "By evening, the ankle<br>looked like a <em>bread roll</em>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Quinn declared war on swelling."
+    },
+    {
+      "top": "Plan A: sit very,<br>very <em>still</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sleepy",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Stiffer by the day."
+    },
+    {
+      "top": "Quinn hobbled to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "How do I get rid of the swelling?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: let's keep things moving."
+    },
+    {
+      "top": "Swelling is part of<br><mark>healing</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "It's pooling that stiffens joints"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Muscles help pump the<br>fluid back up."
+    },
+    {
+      "top": "Tip 1: Gentle<br><mark>movement</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "say": "Ankle pumps, ankle pumps!",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Within comfort and your<br>clinician's guidance."
+    },
+    {
+      "top": "Tip 2: Elevate <mark>above</mark><br>the heart.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A low footstool isn't<br>quite high enough."
+    },
+    {
+      "top": "Tip 3: A snug<br><mark>compression</mark> sleeve.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Loosen it if you notice tingling<br>or colour changes."
+    },
+    {
+      "top": "Tip 4: Ice for <mark>comfort</mark>,<br>in short bursts.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "icepack"
+        }
+      ],
+      "bottom": "So moving feels easier."
+    },
+    {
+      "top": "Get it checked today if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Tight, tender calf or spreading redness"
+        }
+      ],
+      "bottom": "Fast ballooning, fever or<br>numbness? Same-day care."
+    },
+    {
+      "top": "Keep it moving, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn rolled an ankle on a rogue kerb, watched it puff up like a bread roll, then tried sitting perfectly still.\n\nSwelling is part of healing. It brings repair materials to the area. What tends to slow things down is fluid pooling, and moving muscles help pump it back up.\n\nWhat often helps: gentle movement like ankle pumps within comfort, elevating above heart level, a snug compression sleeve (loosen it if you notice tingling or colour change), and short bursts of ice for comfort so moving feels easier.\n\nA tight, tender calf, spreading redness or heat, fever, a joint that balloons quickly, numbness or swelling that keeps getting worse needs same-day medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#swelling",
+    "#anklesprain",
+    "#injuryrecovery",
+    "#sportsinjury",
+    "#rehab",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka rolls an ankle and learns from physio Kay why injuries swell, plus movement, elevation, compression and ice tips.",
+  "story": {
+    "headline": "Swollen after<br>an injury?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-28",
+  "scheduled_time": "09:00",
+  "created": "2026-12-28-1",
+  "status": "approved",
+  "review_warnings": []
+}

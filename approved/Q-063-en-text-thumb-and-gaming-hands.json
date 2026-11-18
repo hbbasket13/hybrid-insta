@@ -1,0 +1,219 @@
+{
+  "id": "Q-063-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 63,
+  "service": "physio",
+  "topic": "Text thumb and gaming hands",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/text-thumb-gaming-hand-pain/",
+  "slides": [
+    {
+      "top": "Quinn hit level 99<br>in one <em>all-nighter</em>.",
+      "props": [
+        "moon"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "determined",
+          "say": "Just one more round."
+        }
+      ],
+      "bottom": "Nine hours. One thumb."
+    },
+    {
+      "top": "Next morning.<br>Thumb: <em>retired</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Aching at the base of the thumb."
+    },
+    {
+      "top": "Texting with the<br><em>other</em> thumb now.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank",
+          "say": "Autocorrect hates my left hand."
+        }
+      ],
+      "bottom": "Results: chaotic."
+    },
+    {
+      "top": "Quinn asked Kay,<br>very slowly.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is my phone breaking my hands?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: mostly a load issue."
+    },
+    {
+      "top": "Tendons got more than<br>they were <mark>ready for</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Lots of reps, held for a long time"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Usually load — not damage."
+    },
+    {
+      "top": "Tip 1: Let <mark>voice-to-text</mark><br>do long messages.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "happy",
+          "say": "Dear Kay, comma…"
+        }
+      ],
+      "bottom": "Two hands for typing helps too."
+    },
+    {
+      "top": "Tip 2: Break every<br><mark>20–30 minutes</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Gaming marathons need<br>pit stops."
+    },
+    {
+      "top": "Tip 3: <mark>Support</mark> your<br>forearms.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Prop the device, keep wrists<br>fairly straight."
+    },
+    {
+      "top": "Tip 4: Build grip and<br>thumb <mark>strength</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Light resistance often beats<br>total rest."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Numbness, tingling, or fingers that lock"
+        }
+      ],
+      "bottom": "Pain past a few weeks, or grip<br>getting weaker? Get it checked."
+    },
+    {
+      "top": "Game on — gently.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn reached level 99 in a single all-nighter. The next morning, the thumb had other ideas.\n\nHours of texting, swiping and gaming can give tendons more work than they're ready for. It's usually a load issue rather than damage.\n\nWhat can help: cut back your biggest thumb habit for a couple of weeks, let voice-to-text handle long messages, take a break every 20–30 minutes, prop your device and support your forearms, and build grip and thumb strength with light resistance.\n\nPain that lasts beyond a few weeks, numbness or tingling, fingers that click or lock, or grip that's getting weaker is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#textthumb",
+    "#gamer",
+    "#gaming",
+    "#thumbpain",
+    "#wristpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka games all night, ends up with a sore thumb, and learns voice-to-text, break, support and strength tips from physio Kay.",
+  "story": {
+    "headline": "Sore thumb from<br>your phone?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "sleepy"
+        }
+      ],
+      "props": [
+        "moon"
+      ]
+    }
+  },
+  "scheduled_date": "2026-12-20",
+  "scheduled_time": "09:00",
+  "created": "2026-12-20-1",
+  "status": "approved",
+  "review_warnings": []
+}

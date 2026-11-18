@@ -1,0 +1,220 @@
+{
+  "id": "Q-067-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 67,
+  "service": "physio",
+  "topic": "Heavy lifting: what actually goes wrong",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/powerlifting-heavy-lifting-injuries/",
+  "slides": [
+    {
+      "top": "Quinn copied a<br><em>pro lifter's</em> program.",
+      "props": [
+        "dumbbell@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Pro program, pro quokka."
+        }
+      ],
+      "bottom": "Week one: all the plates."
+    },
+    {
+      "top": "Week three.<br>Last set. <em>Twinge</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Classic final-set timing."
+    },
+    {
+      "top": "Quinn's theory:<br><em>faulty</em> barbell.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "wink",
+          "say": "Maybe the bar is just wrong?",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Spoiler: not the barbell."
+    },
+    {
+      "top": "Quinn shuffled<br>over to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried",
+          "say": "Was my technique terrible?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: probably not, actually."
+    },
+    {
+      "top": "Load went up<br><mark>too fast</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Most lifting aches are overload"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Recovery didn't keep up."
+    },
+    {
+      "top": "Tip 1: Add weight<br><mark>gradually</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Pick a program that suits<br>where you are now."
+    },
+    {
+      "top": "Tip 2: Respect<br><mark>fatigue</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Deloads and sleep are part<br>of the plan."
+    },
+    {
+      "top": "Tip 3: Niggle? <mark>Modify</mark>,<br>don't quit.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Less load, less range, or<br>a friendlier variation."
+    },
+    {
+      "top": "Tip 4: Ramp up with<br><mark>warm-up sets</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Train the helpers too: upper<br>back, hips and trunk."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A pop, or sudden severe pain"
+        }
+      ],
+      "bottom": "Radiating pain, numbness, or<br>pain past 2 weeks? Get checked."
+    },
+    {
+      "top": "Lift smart, lift long.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn copied a pro lifter's program, piled on the plates, and felt a twinge on the last set of week three.\n\nMost heavy-lifting aches are strains or overload rather than structural damage. The usual story is load, volume or frequency rising faster than recovery, not one bad rep.\n\nWhat can help: add weight gradually on a program that suits your level, respect fatigue with deloads and sleep, modify rather than stop when something niggles, ramp up with warm-up sets, and train the supporting muscles of the upper back, hips and trunk.\n\nA pop or sudden severe pain, radiating pain or numbness, pain lasting more than a couple of weeks, or pain that recurs with the same lift is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#powerlifting",
+    "#weightlifting",
+    "#gymlife",
+    "#strengthtraining",
+    "#backpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka copies a pro lifter's lifting program, tweaks a back, and learns load, fatigue, modify and warm-up tips from physio Kay.",
+  "story": {
+    "headline": "Lifting heavy and<br>feeling it?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "dumbbell"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-12-22",
+  "scheduled_time": "09:00",
+  "created": "2026-12-22-1",
+  "status": "approved",
+  "review_warnings": []
+}
