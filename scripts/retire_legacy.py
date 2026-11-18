@@ -19,10 +19,11 @@ def main() -> int:
         print("retire_legacy: nothing to do")
         return 0
     RETIRED.mkdir(exist_ok=True)
+    keep = tuple(load_json(cfg).get("keep_styles") or ("comic", "prerendered"))
     n = 0
     for p in list_drafts(APPROVED):
         d = load_json(p)
-        if d.get("style") not in ("comic", "prerendered"):
+        if d.get("style") not in keep:
             shutil.move(str(p), str(RETIRED / p.name))
             n += 1
     print(f"retire_legacy: moved {n} legacy post(s) to retired/")
