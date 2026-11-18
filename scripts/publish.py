@@ -78,6 +78,15 @@ class IG:
         pub = self._post(f"{self.user_id}/media_publish", creation_id=parent["id"])
         return pub["id"]
 
+    def reel(self, video_url: str, caption: str, cover_url: str | None = None) -> str:
+        params = dict(media_type="REELS", video_url=video_url, caption=caption, share_to_feed="true")
+        if cover_url:
+            params["cover_url"] = cover_url
+        c = self._post(f"{self.user_id}/media", **params)
+        self.wait_ready(c["id"], timeout_s=900)
+        pub = self._post(f"{self.user_id}/media_publish", creation_id=c["id"])
+        return pub["id"]
+
     def story(self, image_url: str) -> str:
         c = self._post(f"{self.user_id}/media", image_url=image_url, media_type="STORIES")
         self.wait_ready(c["id"])
@@ -89,12 +98,20 @@ class IG:
 
 
 def pick_next(today: dt.date) -> Path | None:
+    """Oldest due item. Due = scheduled_date (+ optional scheduled_time "HH:MM", Sydney time) is now or earlier."""
+    try:
+        from zoneinfo import ZoneInfo
+        now = dt.datetime.now(ZoneInfo("Australia/Sydney"))
+    except Exception:
+        now = dt.datetime.utcnow() + dt.timedelta(hours=10)
+    stamp = now.strftime("%Y-%m-%d %H:%M")
     due = []
     for p in list_drafts(APPROVED):
         d = load_json(p)
         sched = d.get("scheduled_date")
-        if not sched or dt.date.fromisoformat(sched) <= today:
-            due.append((sched or "0000-00-00", d.get("created", ""), p))
+        when = f"{sched} {d.get('scheduled_time', '00:00')}" if sched else "0000-00-00 00:00"
+        if when <= stamp:
+            due.append((when, d.get("created", ""), p))
     if not due:
         return None
     due.sort()
@@ -131,10 +148,15 @@ def main() -> int:
     urls = [f"{base}/assets/{d['id']}/{p.name}" for p in slides]
     story_png = ASSETS / d["id"] / "story.png"
     story_url = f"{base}/assets/{d['id']}/story.png" if story_png.exists() and not args.no_story else None
+    is_reel = d.get("style") == "reel"
+    video_url = f"{base}/assets/{d['id']}/reel.mp4" if is_reel else None
+    if is_reel and not (ASSETS / d["id"] / "reel.mp4").exists():
+        print(f"No reel.mp4 for {d['id']} — run render.py first.", file=sys.stderr)
+        return 1
     caption = build_caption(d)
 
     print(f"Publishing {path.name}  [{d['service']}]  {d['topic']}")
-    print(f"  {len(urls)} slides, story={'yes' if story_url else 'no'}, caption {len(caption)} chars")
+    print(f"  {'reel video, ' if is_reel else ''}{len(urls)} slides, story={'yes' if story_url else 'no'}, caption {len(caption)} chars")
     if args.dry_run:
         print("  URLs:\n   " + "\n   ".join(urls))
         print("  Caption:\n" + caption)
@@ -150,9 +172,31 @@ def main() -> int:
     api = env("IG_API", "instagram").lower()
     user_id = env("IG_USER_ID", "me" if api == "instagram" else None, required=(api == "facebook"))
     ig = IG(user_id, env("IG_ACCESS_TOKEN", required=True), env("GRAPH_VERSION", "v21.0"), api)
-    media_id = ig.carousel(urls, caption)
+    if is_reel:
+        # raw.githubusercontent serves .mp4 as application/octet-stream; jsDelivr mirrors the repo with video/mp4
+        import re as _re
+        m = _re.match(r"https://raw\.githubusercontent\.com/([^/]+)/([^/]+)/([^/]+)", base)
+        candidates = []
+        if env("REEL_BASE_URL", ""):
+            candidates.append(f"{env('REEL_BASE_URL').rstrip('/')}/assets/{d['id']}/reel.mp4")
+        if m:
+            candidates.append(f"https://cdn.jsdelivr.net/gh/{m.group(1)}/{m.group(2)}@{m.group(3)}/assets/{d['id']}/reel.mp4")
+        candidates.append(video_url)
+        media_id, last_err = None, None
+        for vu in candidates:
+            try:
+                print(f"  video: {vu}")
+                media_id = ig.reel(vu, caption, cover_url=urls[0])
+                break
+            except Exception as e:
+                last_err = e
+                print(f"  ⚠ reel attempt failed: {e}", file=sys.stderr)
+        if not media_id:
+            raise SystemExit(f"reel publish failed: {last_err}")
+    else:
+        media_id = ig.carousel(urls, caption)
     link = ig.permalink(media_id)
-    print(f"  ✓ carousel published: {media_id} {link}")
+    print(f"  ✓ {'reel' if is_reel else 'carousel'} published: {media_id} {link}")
 
     story_id = None
     if story_url:
