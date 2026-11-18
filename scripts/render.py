@@ -20,6 +20,7 @@ from common import APPROVED, ASSETS, DRAFTS, TEMPLATES, brand, list_drafts, load
 
 
 CHARACTERS = ASSETS.parent / "characters"
+ROOT_DIR = ASSETS.parent
 STRINGS = {
     "ko": {"book": "예약", "phone": "전화", "chatswood_hint": "(I-MED 영상의학 내)", "cbd_hint": "(QVB 근처)",
            "story_tag": "전체 내용은 피드에서 확인하세요", "disclaimer": "일반 건강 정보이며 개인 진료를 대신하지 않아요"},
@@ -50,6 +51,14 @@ def load_characters() -> tuple[dict, dict]:
 
 def render_html(draft: dict) -> str:
     env = Environment(loader=FileSystemLoader(str(TEMPLATES)), autoescape=select_autoescape(["html"]))
+    if draft.get("style") == "reel":
+        tpl = env.get_template("reel.html")
+        fonts = (ROOT_DIR / "style" / "reel-fonts.css")
+        meta = {"ep": draft.get("ep"), "series": draft.get("series"), "disclaimer": brand()["disclaimer"]}
+        return tpl.render(fonts_css=fonts.read_text(encoding="utf-8") if fonts.exists() else "",
+                          frames_json=json.dumps(draft["slides"], ensure_ascii=False),
+                          story_json=json.dumps(draft.get("story"), ensure_ascii=False),
+                          meta_json=json.dumps(meta, ensure_ascii=False))
     svc = services()[draft["service"]]
     if draft.get("style") == "comic":
         tpl = env.get_template("comic.html")
@@ -76,7 +85,8 @@ def render_draft(path: Path, html_only: bool = False) -> Path:
 
     with sync_playwright() as p:
         browser = p.chromium.launch()
-        page = browser.new_page(viewport={"width": 1080, "height": 1350}, device_scale_factor=1)
+        is_reel = draft.get("style") == "reel"
+        page = browser.new_page(viewport={"width": 1080, "height": 1920 if is_reel else 1350}, device_scale_factor=1)
         page.goto(preview.resolve().as_uri())
         try:
             page.wait_for_load_state("networkidle", timeout=8000)  # let Google Fonts arrive if network exists
@@ -93,12 +103,17 @@ def render_draft(path: Path, html_only: bool = False) -> Path:
             name = "story.png" if idx == "story" else f"slide-{int(idx):02d}.png"
             el.screenshot(path=str(out_dir / name), type="png")
         browser.close()
+    if draft.get("style") == "reel":
+        import make_reel
+        make_reel.build(out_dir, draft["id"])
     return out_dir
 
 
 def needs_render(path: Path) -> bool:
     draft = load_json(path)
     out_dir = ASSETS / draft["id"]
+    if draft.get("style") == "reel" and not (out_dir / "reel.mp4").exists():
+        return True
     return not (out_dir / "slide-01.png").exists() or (out_dir / "slide-01.png").stat().st_mtime < path.stat().st_mtime
 
 
