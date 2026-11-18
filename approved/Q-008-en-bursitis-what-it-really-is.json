@@ -1,0 +1,235 @@
+{
+  "id": "Q-008-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 8,
+  "service": "physio",
+  "topic": "Bursitis: what it really is",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/bursitis-explained-shoulder-hip-knee/",
+  "slides": [
+    {
+      "top": "Quinn googled hip pain.<br>Result: <em>bursitis</em>?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "shout": "Is that… bad?!"
+        }
+      ],
+      "bottom": "Cue full dramatic panic."
+    },
+    {
+      "top": "Hip aches lying on<br>that side at <em>night</em>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "Rolls over. Rolls back. Sighs."
+    },
+    {
+      "top": "Plus: legs crossed<br>at the desk <em>all day</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "blank",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "Comfy? Yes. Helpful? Maybe not."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "What even is a bursa?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay grabbed a pen."
+    },
+    {
+      "top": "A bursa is a tiny<br><mark>cushion</mark> near tendons.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Often the tendon is the real story"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It's why the name is<br>slowly changing."
+    },
+    {
+      "top": "Tip 1: Ease the<br><mark>squeeze</mark>.",
+      "props": [
+        "chair",
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Uncross your legs, and try not<br>to sleep on the sore side."
+    },
+    {
+      "top": "Tip 2: Build the tendon,<br>don't just <em>rest</em> it.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Gradual strength work,<br>step by step, with a plan."
+    },
+    {
+      "top": "Tip 3: Watch your<br><mark>total load</mark>.",
+      "props": [
+        "calendar",
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Steady weeks, no sudden<br>big jumps in activity."
+    },
+    {
+      "top": "Tip 4: Kneeling a lot?<br>Add a <mark>pad</mark>.",
+      "props": [
+        "mat",
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Padding and changing positions<br>take pressure off the knee."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Hot, red, swollen with fever? Same day"
+        }
+      ],
+      "bottom": "Pain lingering or getting worse?<br>Worth a proper assessment."
+    },
+    {
+      "top": "Bursa? Tendon?<br>We'll look at <mark>both</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn googled a sore hip, read \"bursitis\" and the panic was instant. Hip sore at night, legs crossed at the desk all day… sound familiar?\n\nA bursa is a small fluid-filled cushion that helps tendons glide. In the hip and shoulder the tendon is often the bigger part of the picture.\n\nWhat may help: ease the squeeze (uncross your legs, avoid sleeping on the sore side), build tendon strength gradually instead of only resting, keep weekly activity steady, and use padding if you kneel a lot.\n\nA hot, red, swollen area with fever needs same-day medical care. Pain that lingers or worsens is worth getting assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#bursitis",
+    "#hippain",
+    "#shoulderpain",
+    "#kneepain",
+    "#tendinopathy",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka panics after googling bursitis and learns from physio Kay what a bursa is and how to ease the load on it.",
+  "story": {
+    "headline": "Told it's bursitis?<br>Read this first.",
+    "body": "What it often means, in Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2026-11-22",
+  "scheduled_time": "18:00",
+  "created": "2026-11-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

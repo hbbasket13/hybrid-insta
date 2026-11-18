@@ -1,0 +1,232 @@
+{
+  "id": "Q-006-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "service": "physio",
+  "ep": 6,
+  "topic": "Coming back after a long injury",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/returning-after-long-injury-confidence/",
+  "slides": [
+    {
+      "top": "Six months out.<br>Quinn is <em>finally</em> back!",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud",
+          "say": "Did you miss me?!"
+        }
+      ],
+      "bottom": "Legs strong. Tests passed."
+    },
+    {
+      "top": "First training back.<br>One quick turn and…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "worried",
+          "think": "What if it goes again?",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Legs: ready.<br>Brain: absolutely not."
+    },
+    {
+      "top": "Now Quinn treats<br><em>everything</em> carefully.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sad",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Even the stairs look suspicious."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Strong but scared. Is that weird?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Not weird at all, said Kay."
+    },
+    {
+      "top": "Trust often returns<br><mark>after</mark> strength does.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Months of guarding teach caution"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Confidence grows from proof,<br>not just from waiting."
+    },
+    {
+      "top": "Tip 1: Get <mark>proof</mark>,<br>not just a feeling.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Strength and hop tests vs the<br>other leg show what it can do."
+    },
+    {
+      "top": "Tip 2: Slow first,<br>then <mark>faster</mark>.",
+      "props": [
+        "trees@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Then unplanned moves,<br>then game pressure."
+    },
+    {
+      "top": "Tip 3: Practise the<br>move that <em>scared</em> you.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Small, controlled versions first,<br>then build it up."
+    },
+    {
+      "top": "Tip 4: Come back<br>in <mark>stages</mark>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Shorter minutes, easier games.<br>Feels off? Step back a stage."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "New or worsening pain or swelling"
+        }
+      ],
+      "bottom": "Struggling with fear or mood?<br>Talk to your GP."
+    },
+    {
+      "top": "Welcome back, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn spent six months out injured, passed the tests, and still froze on the first quick turn at training. Legs ready, brain not so sure.\n\nThat's common. Trust often comes back after strength does, because months of protecting a limb can teach the brain to be cautious. Confidence tends to grow from evidence rather than time alone.\n\nWhat may help: strength and hop tests against the other side, reintroducing feared moves slow then fast then unplanned, practising the movement that caused the injury in small steps, and returning in stages. Your first game may feel harder than training, and that's normal.\n\nNew or worsening pain or swelling is worth checking. If fear or low mood is weighing on you, talk to your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#returntosport",
+    "#injuryrecovery",
+    "#confidence",
+    "#acl",
+    "#sportsrehab",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#movementmatters"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka returns after a long injury, feels hesitant despite being strong, and learns four confidence-building tips from physio Kay.",
+  "story": {
+    "headline": "Strong again<br>but still scared?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "worried",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "props": [
+        "shoe@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-21",
+  "scheduled_time": "18:00",
+  "created": "2026-11-21-2",
+  "status": "approved",
+  "review_warnings": []
+}

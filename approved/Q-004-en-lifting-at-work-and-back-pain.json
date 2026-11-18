@@ -1,0 +1,231 @@
+{
+  "id": "Q-004-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 4,
+  "service": "physio",
+  "topic": "Lifting at work and back pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/manual-handling-tradies-back/",
+  "slides": [
+    {
+      "top": "Quinn's new job: moving<br><em>boxes</em> all day.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "carry",
+          "face": "determined",
+          "say": "Box 1: easy peasy."
+        }
+      ],
+      "bottom": "Strong quokka. Long shift."
+    },
+    {
+      "top": "4:45pm. One <em>tiny</em> box.<br>The back says: nope.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It weighed less than a sandwich."
+    },
+    {
+      "top": "Quinn's theory: it was<br><em>terrible technique</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sad",
+          "think": "My lifting must be all wrong…",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Cue a night of dramatic sighing."
+    },
+    {
+      "top": "So Quinn went<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "One small box did all this?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a different theory."
+    },
+    {
+      "top": "It's often the <mark>dose</mark>,<br>not the last box.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Load adds up over a shift"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Tired muscles share load less,<br>so late lifts can feel the most."
+    },
+    {
+      "top": "Tip 1: Build <mark>strength</mark><br>over time.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Regular, progressive training<br>can grow your capacity."
+    },
+    {
+      "top": "Tip 2: Mix up tasks and<br><mark>spread</mark> the heavy ones.",
+      "props": [
+        "clock@860",
+        "boxes@200"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Not every big lift crammed<br>into the last hour."
+    },
+    {
+      "top": "Tip 3: Use the <mark>aids</mark><br>you've got.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink",
+          "say": "That trolley isn't decor!"
+        }
+      ],
+      "bottom": "Trolleys and lifting gear only<br>help if they leave the corner."
+    },
+    {
+      "top": "Tip 4: Stay <mark>active</mark>,<br>gently.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Sore doesn't always mean harm.<br>Many backs settle within weeks."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Leg weakness, numbness, or after a fall"
+        }
+      ],
+      "bottom": "Groin numbness, bladder or bowel<br>changes: seek care promptly."
+    },
+    {
+      "top": "Here for every shift.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn moved boxes all day, then a tiny box late in the shift set the back off. Quinn blamed bad technique.\n\nBack pain at work is often more about the total load across a shift than one lift. As muscles tire, they share the work less, so a light box at the end can be the last straw.\n\nBuilding strength over time, rotating tasks, spreading heavy jobs across the day, using trolleys and other aids, and staying gently active can all help. Most episodes ease within a few weeks.\n\nGroin numbness, bladder or bowel changes, worsening leg weakness, fever, unexplained weight loss, or pain after a big fall need urgent medical assessment.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#tradie",
+    "#manualhandling",
+    "#backpain",
+    "#liftingtips",
+    "#worksafe",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka hurts their back lifting a small box late in a shift and learns strength, task rotation, lifting aids and staying-active tips from physio Kay.",
+  "story": {
+    "headline": "Back went on<br>a tiny box?",
+    "body": "4 work tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "carry",
+          "face": "determined"
+        }
+      ],
+      "props": [
+        "boxes@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-20",
+  "created": "2026-11-20-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

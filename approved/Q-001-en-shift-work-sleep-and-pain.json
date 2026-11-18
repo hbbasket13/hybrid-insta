@@ -1,0 +1,228 @@
+{
+  "id": "Q-001-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 1,
+  "service": "physio",
+  "topic": "Shift work, sleep and pain",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/shift-work-sleep-pain-guide/",
+  "slides": [
+    {
+      "top": "Quinn just started<br><em>night shifts</em>.",
+      "props": [
+        "moon"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "How hard can it be?"
+        }
+      ],
+      "bottom": "Spoiler: harder than it looked."
+    },
+    {
+      "top": "Day 4.<br>Everything aches a bit <em>more</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Back, neck, feet… the whole set."
+    },
+    {
+      "top": "Bedtime: 9am.<br>The sun: <em>wide awake</em>.",
+      "props": [
+        "sun",
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Sleep? Never heard of her."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Why do nights make it hurt more?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a few answers."
+    },
+    {
+      "top": "Short sleep can turn<br>the <mark>pain volume</mark> up.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Less sleep, lower pain tolerance"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Tissues recover more slowly, too."
+    },
+    {
+      "top": "Tip 1: Protect your<br><mark>day sleep</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Blackout curtains, eye mask,<br>earplugs, a cool room."
+    },
+    {
+      "top": "Tip 2: Coffee early<br>in the shift — <em>not</em> before bed.",
+      "props": [
+        "clock"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Sunnies on the way home help too."
+    },
+    {
+      "top": "Tip 3: Keep strength training,<br>just make it <mark>smaller</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Two short sessions a week beats<br>a big plan that falls apart."
+    },
+    {
+      "top": "Tip 4: Move a little,<br><mark>often</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Shift position, take mini walks<br>in the long, quiet hours."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain sticks around or affects sleep or work"
+        }
+      ],
+      "bottom": "Sleepy at the wheel or can't sleep?<br>Talk to your GP."
+    },
+    {
+      "top": "Night owls welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn started night shifts and everything ached a bit more. Sound familiar?\n\nShort or broken sleep can lower pain tolerance and slow recovery, so aches can feel louder on a night roster.\n\nA few things that often help: protect your day sleep (dark, quiet, cool room), have caffeine early in the shift, keep short regular strength sessions, and move a little every hour on long shifts.\n\nIf pain hangs around or starts affecting your sleep or work, it's worth getting it looked at early. If sleepiness is affecting your driving, or sleep is a constant struggle, chat with your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#shiftwork",
+    "#nightshift",
+    "#sleepandpain",
+    "#backpain",
+    "#nurselife",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka starts night shifts, aches more, and learns sleep, caffeine, strength and movement tips from physio Kay.",
+  "story": {
+    "headline": "Night shifts making<br>everything ache?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "sleepy",
+          "item": "cup"
+        }
+      ],
+      "props": [
+        "moon"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-19",
+  "created": "2026-11-19-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

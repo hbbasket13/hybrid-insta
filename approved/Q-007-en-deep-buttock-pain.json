@@ -1,0 +1,233 @@
+{
+  "id": "Q-007-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "service": "physio",
+  "ep": 7,
+  "topic": "Deep buttock pain",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/deep-gluteal-piriformis-syndrome/",
+  "slides": [
+    {
+      "top": "Quinn's new hobby:<br><em>binge-watching</em>.",
+      "props": [
+        "clock@220"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "happy",
+          "say": "Just one more episode."
+        }
+      ],
+      "bottom": "Five episodes later…"
+    },
+    {
+      "top": "A deep ache<br>in the <em>bum</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_bum",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "It may drift down the leg too."
+    },
+    {
+      "top": "Long drives: <em>worse</em>.<br>Walking: oddly better.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "blank",
+          "fx": [
+            "pain_bum"
+          ]
+        }
+      ],
+      "bottom": "Quinn's bum had opinions."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "It's my piriformis, right? I read it online."
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay wasn't so sure yet."
+    },
+    {
+      "top": "Deep bum pain has<br><mark>many</mark> possible sources.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Nerve, hamstring, hip or back can all do it"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Often an irritated nerve that<br>doesn't love long sitting."
+    },
+    {
+      "top": "Tip 1: Break up<br>long <mark>sitting</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Cushion on hard seats, and<br>regular stops on long drives."
+    },
+    {
+      "top": "Tip 2: Go <em>easy</em> on<br>hard ball rolling.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "blank",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Squashing a cranky nerve can<br>stir it up. Gentle is fine."
+    },
+    {
+      "top": "Tip 3: Gentle<br><mark>nerve glides</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Easy, comfortable movement,<br>no forcing big stretches."
+    },
+    {
+      "top": "Tip 4: Build hip and<br>trunk <mark>strength</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Strong hips can share the load<br>so one area isn't overloaded."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain below the knee, numbness or weakness"
+        }
+      ],
+      "bottom": "Saddle numbness, bladder or<br>bowel changes: urgent care."
+    },
+    {
+      "top": "Your bum deserves better.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn binge-watched a whole season and stood up with a deep ache in the bum. Long drives made it worse; walking oddly helped.\n\nDeep buttock pain is often blamed on the piriformis, but an irritated nerve, the hamstring tendon, the hip or the lower back can all cause similar pain. That's why an assessment matters.\n\nThings that may help: break up long sitting, use a cushion on hard seats, go easy on hard ball rolling, try gentle nerve glides, and build hip and trunk strength.\n\nGet it checked if pain travels below the knee, gets worse with coughing or bending, or comes with numbness or weakness. Saddle numbness or bladder or bowel changes need urgent medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#buttpain",
+    "#piriformis",
+    "#sciatica",
+    "#deepgluteal",
+    "#sittingtoomuch",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#hippain"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets deep buttock pain from long sitting and learns from physio Kay about possible causes, four tips and when to get checked.",
+  "story": {
+    "headline": "Deep ache in<br>your bum?",
+    "body": "It's not always the piriformis",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_bum"
+          ]
+        }
+      ],
+      "props": [
+        "clock@840"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-22",
+  "scheduled_time": "09:00",
+  "created": "2026-11-22-1",
+  "status": "approved",
+  "review_warnings": []
+}

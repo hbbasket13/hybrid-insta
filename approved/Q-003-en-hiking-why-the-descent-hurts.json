@@ -1,0 +1,238 @@
+{
+  "id": "Q-003-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 3,
+  "service": "physio",
+  "topic": "Hiking: why the descent hurts",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/hiking-bushwalking-injuries/",
+  "slides": [
+    {
+      "top": "Quinn conquered<br>the <em>summit</em>!",
+      "props": [
+        "hill",
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "proud",
+          "say": "Uphill? Nailed it."
+        }
+      ],
+      "bottom": "Now just the easy bit: down."
+    },
+    {
+      "top": "The way down.<br>Knees: <em>not amused</em>.",
+      "props": [
+        "hill",
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Every step: slam the brakes."
+    },
+    {
+      "top": "Next morning.<br>Stairs = <em>boss level</em>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "blank",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Thighs sore, ankles a bit wobbly."
+    },
+    {
+      "top": "Quinn asked Kay<br>what went wrong.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Why does DOWN hurt more than UP?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Short answer: braking."
+    },
+    {
+      "top": "Going down, your thighs<br>work as <mark>brakes</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Thighs brake on every step down"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Kneecaps cop far more load<br>on steep steps than on the flat."
+    },
+    {
+      "top": "Tip 1: Train the <mark>down</mark>,<br>not just the distance.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Stairs, hills and slow, controlled<br>step-downs in the weeks before."
+    },
+    {
+      "top": "Tip 2: Practise<br><mark>balance</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Single-leg work can help ankles<br>handle roots and loose gravel."
+    },
+    {
+      "top": "Tip 3: Poles and a<br>well-fitted <mark>pack</mark>.",
+      "props": [
+        "backpack@820",
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Weight on the hip belt; poles can<br>ease the braking load on knees."
+    },
+    {
+      "top": "Tip 4: Tape hot spots<br><mark>before</mark> you start.",
+      "props": [
+        "shoe@760"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Sort socks and laces early, not<br>once the skin already stings."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Can't take 4 steps, or knee swells fast"
+        }
+      ],
+      "bottom": "Knee locking or giving way?<br>Numbness that won't settle?"
+    },
+    {
+      "top": "See you on the trail!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn conquered the summit, then the walk down had the knees complaining and the next morning's stairs felt like a boss level.\n\nOn the way down, your thigh muscles act like brakes on every step, and the kneecap takes much more load on steep steps than on flat ground. That braking work is often why soreness peaks a day or two later.\n\nTrain the descent with stairs and controlled step-downs, add some single-leg balance work, carry the pack weight on the hip belt (poles can help), and tape hot spots before you set off.\n\nAn ankle you can't walk four steps on, a knee that swells quickly, locks or gives way, or numbness that won't settle is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hiking",
+    "#bushwalking",
+    "#kneepain",
+    "#anklesprain",
+    "#trailtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka hikes a summit, gets sore knees on the way down, and learns descent training, balance, pack and blister tips from physio Kay.",
+  "story": {
+    "headline": "Why does the<br>way DOWN hurt?",
+    "body": "4 hiking tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "hill",
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-20",
+  "created": "2026-11-20-1",
+  "scheduled_time": "09:00",
+  "status": "approved",
+  "review_warnings": []
+}

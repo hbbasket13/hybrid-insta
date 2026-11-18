@@ -1,0 +1,232 @@
+{
+  "id": "Q-005-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "service": "physio",
+  "ep": 5,
+  "topic": "Jumper's knee: why rest alone fails",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/jumpers-knee-patellar-tendinopathy/",
+  "slides": [
+    {
+      "top": "Quinn joined a<br><em>basketball</em> comp.",
+      "props": [
+        "ball@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "proud",
+          "say": "Call me Air Quinn!"
+        }
+      ],
+      "bottom": "Three games a week. Easy."
+    },
+    {
+      "top": "Two weeks later…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Sore just below the kneecap.<br>Worse the next morning."
+    },
+    {
+      "top": "So Quinn <mark>rested</mark>.<br>Three whole weeks.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Back on court… and the pain<br>came straight back."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sad",
+          "say": "I rested! Why is it back?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a few answers."
+    },
+    {
+      "top": "Rest calms it down.<br>It doesn't <mark>build</mark> it up.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Tendons get stronger with load"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It often flares when load jumps<br>faster than the tendon adapts."
+    },
+    {
+      "top": "Tip 1: Settle it with<br><mark>holds</mark>, not the couch.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Wall-sit style holds, 30–45 sec,<br>a few sets."
+    },
+    {
+      "top": "Tip 2: Go <mark>slow</mark><br>and heavy.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Slow strength work, 3x a week:<br>the step people often skip."
+    },
+    {
+      "top": "Tip 3: Bring the bounce<br>back <em>gradually</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Small hops first, then higher,<br>faster and more."
+    },
+    {
+      "top": "Tip 4: Check in the<br><mark>next morning</mark>.",
+      "props": [
+        "sun@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Mild pain that settles within 24h<br>is often OK. Worse? Scale back."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Swelling, locking or giving way"
+        }
+      ],
+      "bottom": "Or no change after months<br>of steady, well-run rehab."
+    },
+    {
+      "top": "Tendons love a plan.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined a basketball comp, got a sore spot just below the kneecap, and rested for three weeks. Back on court, the pain came straight back.\n\nRest can calm an irritated tendon, but it doesn't make it stronger. Tendons often adapt to load, so a gradual plan tends to work better than waiting it out.\n\nThings that often help: calming holds like wall sits, slow heavy strength work a few times a week, bringing jumping back step by step, and checking how the knee feels the next morning. Meaningful change can take a few months, so consistency matters.\n\nIf the knee swells, locks or gives way, or nothing changes after months of steady rehab, get it assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#jumpersknee",
+    "#patellartendinopathy",
+    "#kneepain",
+    "#basketball",
+    "#tendonrehab",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sportsinjury"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets knee pain from basketball, learns from physio Kay why rest alone falls short, and tries four tendon-loading tips.",
+  "story": {
+    "headline": "Rested your knee<br>and it still hurts?",
+    "body": "Why tendons need load, not just rest",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "blank",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "props": [
+        "ball@820"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-21",
+  "scheduled_time": "09:00",
+  "created": "2026-11-21-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,250 @@
+{
+  "id": "Q-002-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 2,
+  "service": "physio",
+  "topic": "Long drives and long flights",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/long-travel-back-neck-leg-guide/",
+  "slides": [
+    {
+      "top": "Quinn planned a <em>road trip</em><br>AND a long flight.",
+      "props": [
+        "suitcase@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy",
+          "say": "Holiday mode: ON",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Hours of sitting. Easy, right?"
+    },
+    {
+      "top": "Hour three in the car.<br>The back <em>files a complaint</em>.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "And the neck co-signed it."
+    },
+    {
+      "top": "Then the flight.<br>Head <em>nodding</em> forward.",
+      "props": [
+        "planeseat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "sleepy",
+          "fx": [
+            "pain_neck",
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Neck now stiff as a plank."
+    },
+    {
+      "top": "Back home, Quinn<br>visited Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "worried",
+          "say": "Is travel just bad for backs?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a simpler answer."
+    },
+    {
+      "top": "It's not the seat.<br>It's the <mark>stillness</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Hours in one position = stiff"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Breaking up sitting beats<br>hunting for a perfect posture."
+    },
+    {
+      "top": "Tip 1: Set up the seat<br><mark>before</mark> you go.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Knees a little bent, slight<br>recline, towel behind low back."
+    },
+    {
+      "top": "Tip 2: Stop about<br>every <mark>2 hours</mark>.",
+      "props": [
+        "trees",
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A brisk few-minute walk and<br>some gentle back arches."
+    },
+    {
+      "top": "Tip 3: In the air, keep<br>the <mark>blood moving</mark>.",
+      "props": [
+        "planeseat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Aisle walks, ankle pumps and<br>shoulder rolls in your seat."
+    },
+    {
+      "top": "Tip 4: Respect the<br><em>luggage carousel</em>.",
+      "props": [
+        "suitcase@700"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Close, both hands, no twist.<br>Wheels whenever you can."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Calf pain or one swollen, warm leg"
+        }
+      ],
+      "bottom": "Chest pain or breathlessness?<br>Seek medical care promptly."
+    },
+    {
+      "top": "Comfy travels, Quinn!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "A road trip plus a long flight left Quinn with a grumpy back and a very stiff neck.\n\nOften it isn't the seat itself but the hours of staying still, so breaking up sitting tends to help more than chasing a perfect posture.\n\nSet up your car seat before you leave (knees slightly bent, a slight recline, a towel roll behind the lower back), stop about every two hours for a short walk, keep ankles and shoulders moving on flights, and lift luggage close with both hands and no twist.\n\nCalf pain, one swollen or warm leg, chest pain or breathlessness after travel need prompt medical care. Back pain that spreads below the knee with numbness or weakness is worth getting assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#roadtrip",
+    "#longhaulflight",
+    "#traveltips",
+    "#backpain",
+    "#neckpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#chatswood",
+    "#sydneycbd",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets stiff on a long drive and flight, then learns seat setup, regular breaks, in-flight movement and luggage tips from physio Kay.",
+  "story": {
+    "headline": "Long drive,<br>stiff back?",
+    "body": "4 travel tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-19",
+  "created": "2026-11-19-2",
+  "scheduled_time": "18:00",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,243 @@
+{
+  "id": "Q-010-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 10,
+  "service": "physio",
+  "topic": "The throwing shoulder",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/throwing-shoulder-overhead-athlete-guide/",
+  "slides": [
+    {
+      "top": "Quinn joined a<br><em>cricket team</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "item": "ball",
+          "shout": "Watch this arm!"
+        }
+      ],
+      "bottom": "Two teams, actually. Why not?"
+    },
+    {
+      "top": "Preseason week 1:<br>throws <em>everything</em>.",
+      "props": [
+        "bat@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Nets, games, more nets. Daily."
+    },
+    {
+      "top": "Week 3. The shoulder<br>says <em>no thanks</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder",
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Throws feel slow. The arm feels<br>a bit 'dead'."
+    },
+    {
+      "top": "So Quinn asked a physio.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sad",
+          "say": "Is my shoulder just weak?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about the whole week."
+    },
+    {
+      "top": "Often it's <mark>load</mark>,<br>not one weak muscle.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Throwing outran what it could handle"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Too much, too soon, too often<br>can add up fast."
+    },
+    {
+      "top": "Tip 1: Count throws,<br>plan <mark>rest days</mark>.",
+      "props": [
+        "calendar@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Watch for preseason spikes<br>and playing for two teams."
+    },
+    {
+      "top": "Tip 2: Strengthen the<br><mark>cuff and shoulder blade</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Back-of-shoulder work, and<br>control when you're tired."
+    },
+    {
+      "top": "Tip 3: Power starts in<br>the <mark>legs and trunk</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "When hips and trunk do their<br>share, the arm does less."
+    },
+    {
+      "top": "Tip 4: Free up your<br><mark>mid-back</mark>.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Mid-back rotation can take<br>some load off the shoulder."
+    },
+    {
+      "top": "Tip 5: After a break,<br>ease back in <mark>stages</mark>.",
+      "props": [
+        "trees@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "neutral",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Build distance and effort slowly.<br>No full-power 'test' throws."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Lost speed, dead arm, or sore past 2 days"
+        }
+      ],
+      "bottom": "Young thrower with elbow pain?<br>Stop throwing and get assessed."
+    },
+    {
+      "top": "Overhead athletes,<br>we've got your <mark>shoulder</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined two cricket teams, threw everything in preseason, and by week three the shoulder said no thanks.\n\nThrowing shoulders often get sore when load outpaces what the shoulder can handle, rather than from one weak muscle. Sudden preseason spikes and playing for several teams are common setups.\n\nWhat may help: track throws and plan rest days, strengthen the rotator cuff and shoulder blade, let the legs and trunk share the work, keep the mid-back mobile, and return after a break in stages.\n\nGet it checked if you notice lost speed or accuracy, a dead arm feeling, or soreness lasting beyond a day or two. Young throwers with elbow pain should stop throwing and get assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#throwingshoulder",
+    "#shoulderpain",
+    "#cricket",
+    "#overheadathlete",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sportsinjury"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes preseason cricket, gets a sore throwing shoulder, and learns load, strength and mobility tips from physio Kay.",
+  "story": {
+    "headline": "Throwing arm<br>feeling 'dead'?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "props": [
+        "bat@860"
+      ]
+    }
+  },
+  "scheduled_date": "2026-11-23",
+  "scheduled_time": "18:00",
+  "created": "2026-11-23-2",
+  "status": "approved",
+  "review_warnings": []
+}
