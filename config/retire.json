@@ -1,1 +1,1 @@
-{"retire_non_comic": true, "note": "Old-design posts are moved from approved/ to retired/ on each render run. Set false to stop."}
+{"retire_non_comic": true, "keep_styles": ["reel"], "note": "Posts whose style is not in keep_styles are moved from approved/ to retired/ on each render run (kept, not deleted). 2026-11-18: switched to Quinn the Quokka reels; all comic/prerendered posts retired."}
