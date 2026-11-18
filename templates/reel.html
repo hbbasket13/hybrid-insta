@@ -1,0 +1,417 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>{{ fonts_css | safe }}</style>
+<style>
+  :root { --paper:#FFFBF4; --ink:#5A3E2E; --soft:#8C7262; --hi:#D9674E; --mark:#FFE08A; --fur:#D9B48F; --furlt:#F6E7D3; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #ccc; color: var(--ink); -webkit-font-smoothing: antialiased; }
+  section.slide { width: 1080px; height: 1920px; background: var(--paper); position: relative; overflow: hidden; }
+  .top, .bottom { position: absolute; left: 70px; right: 70px; text-align: center; font-family: 'Gaegu', cursive; font-weight: 700;
+    font-size: 76px; line-height: 1.16; letter-spacing: .01em; color: var(--ink); }
+  .top { top: 300px; }
+  .bottom { top: 1395px; font-size: 64px; line-height: 1.2; }
+  .top.small { font-size: 66px; } .bottom.small { font-size: 56px; }
+  em { font-style: normal; color: var(--hi); }
+  mark { background: linear-gradient(transparent 55%, var(--mark) 55%); color: inherit; padding: 0 4px; }
+  b { font-weight: 700; color: var(--hi); }
+  .stage { position: absolute; left: 0; top: 520px; width: 1080px; height: 860px; }
+  .foot { position: absolute; left: 0; right: 0; top: 1640px; text-align: center; font-family: 'Gaegu', cursive; font-weight: 700; font-size: 34px; color: var(--soft); }
+  .disc { position: absolute; left: 60px; right: 60px; top: 1690px; text-align: center; font-family: 'Nunito', sans-serif; font-weight: 600; font-size: 24px; color: #A8968A; }
+  .tag { position: absolute; top: 230px; left: 0; right: 0; text-align: center; font-family: 'Nunito', sans-serif; font-weight: 800; font-size: 28px; letter-spacing: .12em; color: #B79E8C; }
+  .info { position: absolute; left: 110px; right: 110px; top: 1330px; border: 4px solid var(--ink); border-radius: 36px; background: #fff;
+    padding: 26px 36px; font-family: 'Gaegu', cursive; font-weight: 700; font-size: 38px; line-height: 1.45; color: var(--ink); }
+  .info span { color: var(--hi); }
+  svg text { font-family: 'Gaegu', cursive; font-weight: 700; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+const FRAMES = {{ frames_json | safe }};
+const STORY = {{ story_json | safe }};
+const META = {{ meta_json | safe }};
+
+/* ---------- palette ---------- */
+const INK = '#5A3E2E', FUR = '#D9B48F', FURLT = '#F6E7D3', EARIN = '#E9B9A6', BLUSH = '#F2A99A',
+      SKIN = '#F7DCC6', HAIR = '#3B2D27', POLO = '#2E5C8A', PANTS = '#4A4F63', SHOE = '#5A3E2E', WHITE = '#FFFFFF';
+const SW = 6;  // main outline width
+const R = Math.PI / 180;
+
+/* ---------- helpers ---------- */
+const P = (x, y, a, l) => [x + Math.sin(a * R) * l, y + Math.cos(a * R) * l];
+function noodle(pts, w, fill) {
+  const d = 'M' + pts.map(p => p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' L');
+  return `<path d="${d}" fill="none" stroke="${INK}" stroke-width="${w + SW * 2}" stroke-linecap="round" stroke-linejoin="round"/>` +
+         `<path d="${d}" fill="none" stroke="${fill}" stroke-width="${w}" stroke-linecap="round" stroke-linejoin="round"/>`;
+}
+const ell = (cx, cy, rx, ry, fill, sw = SW, extra = '') => `<ellipse cx="${cx}" cy="${cy}" rx="${rx}" ry="${ry}" fill="${fill}" stroke="${INK}" stroke-width="${sw}" ${extra}/>`;
+const circ = (cx, cy, r, fill, sw = SW) => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="${fill}" stroke="${INK}" stroke-width="${sw}"/>`;
+const line = (d, w = SW, col = INK) => `<path d="${d}" fill="none" stroke="${col}" stroke-width="${w}" stroke-linecap="round" stroke-linejoin="round"/>`;
+// limb: side -1 = character's right (viewer's left), +1 = viewer's right; a = outward angle from straight down; bend = extra outward angle at joint
+function limb(x, y, side, a, bend, l1, l2) {
+  const a1 = side * a, a2 = side * (a + bend);
+  const k = P(x, y, a1, l1), e = P(k[0], k[1], a2, l2);
+  return [[x, y], k, e];
+}
+
+/* ---------- faces ---------- */
+function face(kind, cx, cy, s, look = 0, human = false) {
+  // cx,cy = midpoint between eyes; s = eye spacing
+  const lx = cx - s, rx = cx + s, my = cy + (human ? 42 : 36), lk = look * 4;
+  const dot = (x) => `<circle cx="${x + lk}" cy="${cy}" r="8" fill="${INK}"/>`;
+  const smile = human ? line(`M${cx - 16} ${my} Q${cx} ${my + 14} ${cx + 16} ${my}`, 5)
+                      : line(`M${cx} ${my - 8} Q${cx - 6} ${my + 6} ${cx - 17} ${my} M${cx} ${my - 8} Q${cx + 6} ${my + 6} ${cx + 17} ${my}`, 5);
+  let s_ = '';
+  switch (kind) {
+    case 'happy':
+      s_ = line(`M${lx - 12} ${cy + 4} Q${lx} ${cy - 12} ${lx + 12} ${cy + 4}`, 6) + line(`M${rx - 12} ${cy + 4} Q${rx} ${cy - 12} ${rx + 12} ${cy + 4}`, 6) +
+           `<path d="M${cx - 20} ${my - 4} Q${cx} ${my + 26} ${cx + 20} ${my - 4} Z" fill="#B85B4B" stroke="${INK}" stroke-width="5" stroke-linejoin="round"/>`; break;
+    case 'sore':
+      s_ = line(`M${lx - 11} ${cy - 9} L${lx + 9} ${cy} L${lx - 11} ${cy + 9}`, 6) + line(`M${rx + 11} ${cy - 9} L${rx - 9} ${cy} L${rx + 11} ${cy + 9}`, 6) +
+           line(`M${cx - 18} ${my + 4} q6 -8 12 0 q6 8 12 0 q6 -8 12 0`, 5); break;
+    case 'surprised':
+      s_ = circ(lx + 0, cy, 15, WHITE, 5) + circ(rx, cy, 15, WHITE, 5) + `<circle cx="${lx + lk}" cy="${cy}" r="6" fill="${INK}"/><circle cx="${rx + lk}" cy="${cy}" r="6" fill="${INK}"/>` +
+           ell(cx, my + 4, 8, 10, '#B85B4B', 5); break;
+    case 'blank':
+      s_ = circ(lx, cy, 17, WHITE, 5) + circ(rx, cy, 17, WHITE, 5) + `<circle cx="${lx + 4 + lk}" cy="${cy + 2}" r="5" fill="${INK}"/><circle cx="${rx + 4 + lk}" cy="${cy + 2}" r="5" fill="${INK}"/>` +
+           line(`M${cx - 8} ${my + 2} L${cx + 8} ${my + 2}`, 5); break;
+    case 'sad':
+      s_ = dot(lx) + dot(rx) + line(`M${lx - 14} ${cy - 20} L${lx + 10} ${cy - 26}`, 5) + line(`M${rx + 14} ${cy - 20} L${rx - 10} ${cy - 26}`, 5) +
+           line(`M${cx - 14} ${my + 8} Q${cx} ${my - 4} ${cx + 14} ${my + 8}`, 5); break;
+    case 'worried':
+      s_ = dot(lx) + dot(rx) + line(`M${lx - 14} ${cy - 24} L${lx + 10} ${cy - 18}`, 5) + line(`M${rx + 14} ${cy - 24} L${rx - 10} ${cy - 18}`, 5) +
+           line(`M${cx - 14} ${my + 4} q7 -7 14 0 q7 7 14 0`, 5); break;
+    case 'sleepy':
+      s_ = line(`M${lx - 12} ${cy + 2} Q${lx} ${cy + 10} ${lx + 12} ${cy + 2}`, 6) + line(`M${rx - 12} ${cy + 2} Q${rx} ${cy + 10} ${rx + 12} ${cy + 2}`, 6) +
+           ell(cx, my + 4, 6, 7, '#B85B4B', 4); break;
+    case 'determined':
+      s_ = dot(lx) + dot(rx) + line(`M${lx - 14} ${cy - 26} L${lx + 12} ${cy - 18}`, 6) + line(`M${rx + 14} ${cy - 26} L${rx - 12} ${cy - 18}`, 6) +
+           line(`M${cx - 12} ${my + 2} L${cx + 12} ${my + 2}`, 5); break;
+    case 'wink':
+      s_ = line(`M${lx - 12} ${cy + 4} Q${lx} ${cy - 12} ${lx + 12} ${cy + 4}`, 6) + dot(rx) + smile; break;
+    case 'proud':
+      s_ = line(`M${lx - 12} ${cy + 2} Q${lx} ${cy - 10} ${lx + 12} ${cy + 2}`, 6) + line(`M${rx - 12} ${cy + 2} Q${rx} ${cy - 10} ${rx + 12} ${cy + 2}`, 6) + smile; break;
+    default: // neutral
+      s_ = dot(lx) + dot(rx) + smile;
+  }
+  return s_;
+}
+
+/* ---------- poses ----------
+   arm/leg: [outward angle, bend]; behind: arms drawn behind body
+   y: lift whole figure (negative = up); crouch: lower body; tilt: lean; ht: head tilt; rot: rotate whole figure */
+const QPOSE = {
+  stand:     { aL: [12, 0], aR: [12, 0], lL: [6, 0], lR: [6, 0] },
+  wave:      { aL: [12, 0], aR: [150, 25], lL: [6, 0], lR: [6, 0] },
+  cheer:     { aL: [150, 10], aR: [150, 10], lL: [18, 0], lR: [18, 0], y: -40 },
+  point:     { aL: [12, 0], aR: [92, 0], lL: [6, 0], lR: [6, 0] },
+  explain:   { aL: [12, 0], aR: [60, -40], lL: [6, 0], lR: [6, 0] },
+  think:     { aL: [30, -100], aR: [12, 0], lL: [6, 0], lR: [6, 0], ht: -8 },
+  shrug:     { aL: [70, -110], aR: [70, -110], lL: [6, 0], lR: [6, 0], ht: 6 },
+  facepalm:  { aL: [12, 0], aR: [35, -150], lL: [6, 0], lR: [6, 0], ht: 10 },
+  hunched:   { aL: [35, -60], aR: [35, -60], lL: [10, 0], lR: [10, 0], crouch: 18, ht: 8, behind: true },
+  hold_knee: { aL: [8, 0], aR: [8, 0], lL: [6, 0], lR: [14, 25], crouch: 30, tilt: 8 },
+  limp:      { aL: [40, 0], aR: [20, 0], lL: [4, 0], lR: [25, 35], tilt: -7 },
+  walk:      { aL: [-25, 0], aR: [30, 0], lL: [-14, 0], lR: [22, 10] },
+  run:       { aL: [-55, -60], aR: [55, -60], lL: [-35, 20], lR: [50, 40], y: -25, tilt: 5 },
+  slump:     { aL: [4, 0], aR: [4, 0], lL: [8, 0], lR: [8, 0], crouch: 14, ht: 14 },
+  stretch:   { aL: [168, 0], aR: [168, 0], lL: [6, 0], lR: [6, 0], y: -10 },
+  side_bend: { aL: [160, 20], aR: [20, 0], lL: [10, 0], lR: [10, 0], tilt: 16 },
+  squat:     { aL: [80, 0], aR: [80, 0], lL: [45, -85], lR: [45, -85], crouch: 70 },
+  lift:      { aL: [40, -50], aR: [40, -50], lL: [40, -80], lR: [40, -80], crouch: 62, hold: 'box_low' },
+  carry:     { aL: [55, -85], aR: [55, -85], lL: [6, 0], lR: [6, 0], hold: 'box' },
+  phone:     { aL: [25, -105], aR: [25, -105], lL: [6, 0], lR: [6, 0], ht: 12, hold: 'phone', look: 0 },
+  sit:       { aL: [25, -60], aR: [25, -60], lL: [30, -40], lR: [30, -40], crouch: 85, seat: true },
+  sit_relax: { aL: [10, 0], aR: [10, 0], lL: [30, -40], lR: [30, -40], crouch: 85, seat: true, ht: 6 },
+  type:      { aL: [40, -95], aR: [40, -95], lL: [30, -40], lR: [30, -40], crouch: 85, seat: true, ht: 10 },
+  drive:     { aL: [70, -70], aR: [70, -70], lL: [30, -40], lR: [30, -40], crouch: 85, seat: true },
+  throw:     { aL: [85, 0], aR: [160, -40], lL: [-20, 0], lR: [26, 8], tilt: -10 },
+  hike:      { aL: [-25, 0], aR: [35, -20], lL: [-16, 0], lR: [24, 12], hold: 'stick' },
+  tiptoe:    { aL: [20, 0], aR: [20, 0], lL: [4, 0], lR: [4, 0], y: -24, tiptoe: true },
+  lunge:     { aL: [15, 0], aR: [15, 0], lL: [-40, 60], lR: [40, -10], crouch: 40 },
+  lie:       { aL: [8, 0], aR: [8, 0], lL: [5, 0], lR: [5, 0], rot: -90 },
+  sleep:     { aL: [8, 0], aR: [8, 0], lL: [5, 0], lR: [5, 0], rot: -90 },
+  jump:      { aL: [140, 10], aR: [140, 10], lL: [30, -40], lR: [30, -40], y: -90 },
+  hug_self:  { aL: [55, -130], aR: [55, -130], lL: [6, 0], lR: [6, 0], ht: -6 },
+  sip:       { aL: [12, 0], aR: [30, -125], lL: [6, 0], lR: [6, 0], ht: -4 },
+  hold_up:   { aL: [12, 0], aR: [120, -20], lL: [6, 0], lR: [6, 0] },
+  rub_neck:  { aL: [12, 0], aR: [150, -150], lL: [6, 0], lR: [6, 0], ht: -10 },
+  hands_hips:{ aL: [40, -110], aR: [40, -110], lL: [10, 0], lR: [10, 0] },
+  bridge:    { aL: [20, 0], aR: [20, 0], lL: [60, -100], lR: [60, -100], rot: -90 },
+  march:     { aL: [-40, -60], aR: [40, 0], lL: [6, 0], lR: [60, -80], y: -6 },
+};
+const KPOSE = {
+  stand:    { aL: [10, 0], aR: [10, 0] },
+  wave:     { aL: [10, 0], aR: [150, 20] },
+  point:    { aL: [10, 0], aR: [95, 0] },
+  explain:  { aL: [10, 0], aR: [62, -45] },
+  thumbs:   { aL: [10, 0], aR: [45, -125], thumb: true },
+  clipboard:{ aL: [40, -100], aR: [12, 0], hold: 'clipboard' },
+  stretch:  { aL: [165, 0], aR: [165, 0] },
+  crouch:   { aL: [40, -40], aR: [60, -30], crouch: 70 },
+  think:    { aL: [30, -100], aR: [10, 0] },
+  cheer:    { aL: [150, 10], aR: [150, 10] },
+};
+
+/* ---------- quokka ---------- */
+function quokka(pname, fk, look = 0, item = null) {
+  const p = Object.assign({ aL: [12, 0], aR: [12, 0], lL: [6, 0], lR: [6, 0], y: 0, crouch: 0, tilt: 0, ht: 0, rot: 0 }, QPOSE[pname] || QPOSE.stand);
+  if (p.look !== undefined && look === 0) look = p.look;
+  const c = p.crouch, hipY = -78 + c;
+  const legLen = p.seat ? [34, 26] : [38, 34];
+  // legs
+  const legs = [[-1, p.lL], [1, p.lR]].map(([sd, a]) => {
+    const pts = limb(sd * 30, hipY, sd, a[0], a[1], legLen[0], legLen[1]);
+    const f = pts[2];
+    const foot = p.tiptoe ? ell(f[0] + sd * 4, f[1] + 2, 15, 13, FUR) : ell(f[0] + sd * 10, f[1] + 6, 26, 14, FUR);
+    return noodle(pts, 30, FUR) + foot;
+  }).join('');
+  // upper body (rotated by tilt around hips)
+  const bodyCY = -142 + c;
+  const shY = -176 + c;
+  const hands = [];
+  const arms = [[-1, p.aL], [1, p.aR]].map(([sd, a]) => {
+    const pts = limb(sd * 52, shY, sd, a[0], a[1], 40, 36);
+    const h = pts[2]; hands.push(h);
+    return noodle(pts, 24, FUR) + circ(h[0], h[1], 13, FUR, 5);
+  });
+  const tail = line(`M 60 ${-80 + c} q 34 6 40 -22`, 18) + line(`M 60 ${-80 + c} q 34 6 40 -22`, 8, FUR);
+  const body = `<path d="M -62 ${bodyCY - 40} C -80 ${bodyCY + 30} -78 ${bodyCY + 82} 0 ${bodyCY + 86} C 78 ${bodyCY + 82} 80 ${bodyCY + 30} 62 ${bodyCY - 40} C 46 ${bodyCY - 86} -46 ${bodyCY - 86} -62 ${bodyCY - 40} Z" fill="${FUR}" stroke="${INK}" stroke-width="${SW}"/>` +
+               `<ellipse cx="0" cy="${bodyCY + 18}" rx="40" ry="52" fill="${FURLT}"/>`;
+  const hy = -262 + c;
+  const head = `<g transform="rotate(${p.ht} 0 ${hy + 60})">` +
+    ell(-50, hy - 60, 17, 19, FUR) + ell(50, hy - 60, 17, 19, FUR) + `<ellipse cx="-50" cy="${hy - 58}" rx="7" ry="9" fill="${EARIN}"/><ellipse cx="50" cy="${hy - 58}" rx="7" ry="9" fill="${EARIN}"/>` +
+    `<path d="M -88 ${hy + 8} C -92 ${hy - 70} 92 ${hy - 70} 88 ${hy + 8} C 86 ${hy + 62} -86 ${hy + 62} -88 ${hy + 8} Z" fill="${FUR}" stroke="${INK}" stroke-width="${SW}"/>` +
+    `<ellipse cx="0" cy="${hy + 30}" rx="44" ry="28" fill="${FURLT}"/>` +
+    `<ellipse cx="-56" cy="${hy + 26}" rx="15" ry="9" fill="${BLUSH}" opacity=".7"/><ellipse cx="56" cy="${hy + 26}" rx="15" ry="9" fill="${BLUSH}" opacity=".7"/>` +
+    `<ellipse cx="0" cy="${hy + 14}" rx="12" ry="8" fill="${INK}"/>` +
+    face(fk, 0, hy - 10, 34, look) + `</g>`;
+  const hold = holdProp(p.hold, c, 'q') + (item ? handItem(item, hands[1][0], hands[1][1]) : '');
+  const upper = `<g transform="rotate(${p.tilt} 0 ${hipY})">` + (p.behind ? arms.join('') : '') + tail + body + head + (p.behind ? '' : arms.join('')) + hold + `</g>`;
+  let g = legs + upper;
+  if (p.rot) g = `<g transform="translate(0 50) rotate(${p.rot} 0 -150)">${g}</g>`;
+  return `<g transform="translate(0 ${p.y})">${g}</g>`;
+}
+
+/* ---------- Kay (physio) ---------- */
+function kay(pname, fk, look = 0, item = null) {
+  const p = Object.assign({ aL: [10, 0], aR: [10, 0], crouch: 0 }, KPOSE[pname] || KPOSE.stand);
+  const c = p.crouch;
+  const legs = [[-1], [1]].map(([sd]) => {
+    const pts = c ? limb(sd * 26, -150 + c, sd, 40, -80, 70, 64) : limb(sd * 26, -150, sd, 4, 0, 70, 64);
+    const f = pts[2];
+    return noodle(pts, 40, PANTS) + ell(f[0] + sd * 10, f[1] + 6, 28, 14, SHOE);
+  }).join('');
+  const t = -150 + c;
+  const torso = `<path d="M -70 ${t - 190} Q 0 ${t - 214} 70 ${t - 190} L 76 ${t + 6} Q 0 ${t + 20} -76 ${t + 6} Z" fill="${POLO}" stroke="${INK}" stroke-width="${SW}" stroke-linejoin="round"/>` +
+                `<path d="M -26 ${t - 202} L 0 ${t - 168} L 26 ${t - 202}" fill="none" stroke="${WHITE}" stroke-width="7" stroke-linecap="round"/>` +
+                `<circle cx="38" cy="${t - 140}" r="9" fill="#9FD3DD"/>`;
+  const shY = t - 182;
+  const khands = [];
+  const arms = [[-1, p.aL], [1, p.aR]].map(([sd, a]) => {
+    const pts = limb(sd * 66, shY, sd, a[0], a[1], 66, 62); khands.push(pts[2]);
+    const sleeve = limb(sd * 66, shY, sd, a[0], 0, 34, 0);
+    const h = pts[2];
+    let hand = circ(h[0], h[1], 16, SKIN, 5);
+    if (p.thumb && sd === 1) hand += line(`M ${h[0]} ${h[1] - 10} l 0 -22`, 12) + line(`M ${h[0]} ${h[1] - 10} l 0 -22`, 6, SKIN);
+    return noodle(pts, 26, SKIN) + noodle([sleeve[0], sleeve[1]], 40, POLO) + hand;
+  }).join('');
+  const hy = t - 300;
+  const head = `<rect x="-20" y="${hy + 60}" width="40" height="40" fill="${SKIN}" stroke="${INK}" stroke-width="${SW}"/>` +
+    `<ellipse cx="0" cy="${hy}" rx="86" ry="90" fill="${SKIN}" stroke="${INK}" stroke-width="${SW}"/>` +
+    circ(-86, hy + 10, 16, SKIN) + circ(86, hy + 10, 16, SKIN) +
+    `<path d="M -90 ${hy - 6} C -100 ${hy - 120} 100 ${hy - 120} 90 ${hy - 6} C 70 ${hy - 50} 20 ${hy - 70} -30 ${hy - 46} C -50 ${hy - 36} -76 ${hy - 30} -90 ${hy - 6} Z" fill="${HAIR}" stroke="${INK}" stroke-width="${SW}" stroke-linejoin="round"/>` +
+    `<ellipse cx="-50" cy="${hy + 34}" rx="15" ry="8" fill="${BLUSH}" opacity=".6"/><ellipse cx="50" cy="${hy + 34}" rx="15" ry="8" fill="${BLUSH}" opacity=".6"/>` +
+    face(fk, 0, hy + 6, 32, look, true);
+  const hold = holdProp(p.hold, c, 'k') + (item ? handItem(item, khands[1][0], khands[1][1]) : '');
+  return legs + torso + arms + head + hold;
+}
+
+/* ---------- items held in the right hand ---------- */
+function handItem(kind, x, y) {
+  switch (kind) {
+    case 'cup': return `<path d="M ${x - 22} ${y - 30} L ${x + 22} ${y - 30} L ${x + 18} ${y + 22} L ${x - 18} ${y + 22} Z" fill="#fff" stroke="${INK}" stroke-width="5" stroke-linejoin="round"/>` + line(`M ${x + 20} ${y - 18} q 20 4 0 22`, 5) + line(`M ${x - 6} ${y - 44} q -8 -12 0 -24 M ${x + 8} ${y - 44} q -8 -12 0 -24`, 4, '#B9A797');
+    case 'phone': return `<rect x="${x - 20}" y="${y - 34}" width="40" height="62" rx="9" fill="#fff" stroke="${INK}" stroke-width="5"/>`;
+    case 'bottle': return `<rect x="${x - 18}" y="${y - 60}" width="36" height="90" rx="12" fill="#BFE3F0" stroke="${INK}" stroke-width="5"/>`;
+    case 'ball': return circ(x, y - 18, 22, '#E35D4F', 5);
+    case 'book': return `<rect x="${x - 34}" y="${y - 40}" width="68" height="56" rx="6" fill="#9FC7A6" stroke="${INK}" stroke-width="5"/>`;
+    case 'dumbbell': return `<rect x="${x - 34}" y="${y - 6}" width="68" height="12" fill="#888" stroke="${INK}" stroke-width="4"/><rect x="${x - 44}" y="${y - 20}" width="18" height="40" rx="5" fill="#555" stroke="${INK}" stroke-width="4"/><rect x="${x + 26}" y="${y - 20}" width="18" height="40" rx="5" fill="#555" stroke="${INK}" stroke-width="4"/>`;
+    case 'band': return line(`M ${x} ${y} q 60 -40 120 0`, 10, '#E58E6B');
+    case 'icepack': return `<rect x="${x - 30}" y="${y - 24}" width="60" height="44" rx="12" fill="#CFE8F7" stroke="${INK}" stroke-width="5"/>`;
+    case 'bag': return `<rect x="${x - 36}" y="${y + 6}" width="72" height="70" rx="10" fill="#E3B97C" stroke="${INK}" stroke-width="5"/>` + line(`M ${x - 18} ${y + 8} q 18 -26 36 0`, 5);
+    case 'eyemask': return `<rect x="${x - 34}" y="${y - 16}" width="68" height="30" rx="14" fill="#B8A6D9" stroke="${INK}" stroke-width="5"/>`;
+  }
+  return '';
+}
+
+/* ---------- held props ---------- */
+function holdProp(kind, c, who) {
+  if (!kind) return '';
+  if (who === 'q') {
+    if (kind === 'box') return box(-62, -260 + c, 124, 90);
+    if (kind === 'box_low') return box(-70, -150 + c, 140, 100);
+    if (kind === 'phone') return `<rect x="-22" y="${-172 + c}" width="44" height="66" rx="9" fill="#fff" stroke="${INK}" stroke-width="5"/>`;
+    if (kind === 'stick') return line(`M 120 ${-170 + c} L 150 ${30}`, 9);
+  }
+  if (who === 'k' && kind === 'clipboard') return `<rect x="-110" y="${-430}" width="86" height="112" rx="8" fill="#F3E3C8" stroke="${INK}" stroke-width="5"/><rect x="-86" y="-440" width="38" height="18" rx="5" fill="#9AA" stroke="${INK}" stroke-width="4"/>` + line('M -96 -390 h56 M -96 -370 h56 M -96 -350 h40', 4);
+  return '';
+}
+const box = (x, y, w, h) => `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="6" fill="#E3B97C" stroke="${INK}" stroke-width="${SW}"/>` + line(`M ${x} ${y + 24} H ${x + w} M ${x + w / 2 - 14} ${y} v 24 M ${x + w / 2 + 14} ${y} v 24`, 5);
+
+/* ---------- scenery props (stage coords; ground y = 760) ---------- */
+const GY = 760;
+const PROPS = {
+  ground: () => line(`M 90 ${GY} Q 540 ${GY + 8} 990 ${GY}`, 5, '#CDBBA9'),
+  desk: (x = 540) => `<rect x="${x - 230}" y="${GY - 250}" width="460" height="26" rx="6" fill="#E8D2B4" stroke="${INK}" stroke-width="${SW}"/>` + line(`M ${x - 200} ${GY - 224} V ${GY} M ${x + 200} ${GY - 224} V ${GY}`, 8),
+  laptop: (x = 540) => `<path d="M ${x - 90} ${GY - 252} L ${x - 70} ${GY - 360} L ${x + 70} ${GY - 360} L ${x + 90} ${GY - 252} Z" fill="#DADDE3" stroke="${INK}" stroke-width="${SW}" stroke-linejoin="round"/>`,
+  chair: (x = 540) => `<rect x="${x - 90}" y="${GY - 200}" width="180" height="26" rx="10" fill="#C9A27A" stroke="${INK}" stroke-width="${SW}"/>` + line(`M ${x - 70} ${GY - 174} V ${GY} M ${x + 70} ${GY - 174} V ${GY}`, 8) + `<rect x="${x - 86}" y="${GY - 420}" width="172" height="200" rx="26" fill="#C9A27A" stroke="${INK}" stroke-width="${SW}"/>`,
+  bed: (x = 540) => `<rect x="${x - 360}" y="${GY - 120}" width="720" height="90" rx="30" fill="#FFFFFF" stroke="${INK}" stroke-width="${SW}"/>` + `<ellipse cx="${x - 270}" cy="${GY - 130}" rx="90" ry="36" fill="#F4F0FA" stroke="${INK}" stroke-width="${SW}"/>` + line(`M ${x - 340} ${GY - 30} V ${GY} M ${x + 340} ${GY - 30} V ${GY}`, 8),
+  blanket: (x = 540) => `<path d="M ${x - 140} ${GY - 160} Q ${x + 60} ${GY - 210} ${x + 330} ${GY - 150} L ${x + 340} ${GY - 40} L ${x - 150} ${GY - 40} Z" fill="#BFD7EA" stroke="${INK}" stroke-width="${SW}" stroke-linejoin="round"/>`,
+  mat: (x = 540) => `<rect x="${x - 330}" y="${GY - 18}" width="660" height="24" rx="12" fill="#A8D5BA" stroke="${INK}" stroke-width="${SW}"/>`,
+  moon: (x = 860) => `<path d="M ${x} 90 a 70 70 0 1 0 70 90 a 56 56 0 1 1 -70 -90 Z" fill="#FFE7A3" stroke="${INK}" stroke-width="${SW}"/>` + star(x - 160, 120) + star(x - 60, 230),
+  sun: (x = 860) => circ(x, 140, 56, '#FFD77A') + [0, 45, 90, 135, 180, 225, 270, 315].map(a => { const s = P(x, 140, a, 76), e = P(x, 140, a, 100); return line(`M ${s[0]} ${s[1]} L ${e[0]} ${e[1]}`, 6); }).join(''),
+  clock: (x = 860) => circ(x, 150, 70, '#fff') + line(`M ${x} 150 V 100 M ${x} 150 L ${x + 34} 170`, 7),
+  carseat: (x = 540) => `<rect x="${x - 130}" y="${GY - 520}" width="260" height="360" rx="60" fill="#8A9BB0" stroke="${INK}" stroke-width="${SW}"/>` + `<rect x="${x - 150}" y="${GY - 200}" width="300" height="70" rx="28" fill="#8A9BB0" stroke="${INK}" stroke-width="${SW}"/>` + `<path d="M 60 60 Q 540 0 1020 60" fill="none" stroke="${INK}" stroke-width="${SW}"/>`,
+  dash: (x = 540) => `<path d="M 0 ${GY - 60} Q 540 ${GY - 130} 1080 ${GY - 60} L 1080 ${GY + 100} L 0 ${GY + 100} Z" fill="#C9B8A6" stroke="${INK}" stroke-width="${SW}"/>`,
+  car: (x = 540) => `<path d="M ${x - 300} ${GY - 60} L ${x - 300} ${GY - 300} Q ${x - 300} ${GY - 360} ${x - 240} ${GY - 360} L ${x - 160} ${GY - 360} L ${x - 160} ${GY - 120} L ${x + 300} ${GY - 120} L ${x + 300} ${GY - 60} Z" fill="#E7C9A6" stroke="${INK}" stroke-width="${SW}" stroke-linejoin="round"/>`,
+  wheel: (x = 540) => `<ellipse cx="${x}" cy="${GY - 300}" rx="110" ry="38" fill="none" stroke="${INK}" stroke-width="22"/><ellipse cx="${x}" cy="${GY - 300}" rx="110" ry="38" fill="none" stroke="#6F7686" stroke-width="10"/>` + line(`M ${x} ${GY - 262} V ${GY - 110}`, 14),
+  planeseat: (x = 540) => `<rect x="${x - 120}" y="${GY - 460}" width="240" height="300" rx="50" fill="#7FA6C9" stroke="${INK}" stroke-width="${SW}"/>` + `<rect x="${x - 140}" y="${GY - 190}" width="280" height="60" rx="24" fill="#7FA6C9" stroke="${INK}" stroke-width="${SW}"/>` + line(`M ${x - 100} ${GY - 130} V ${GY} M ${x + 100} ${GY - 130} V ${GY}`, 8) + `<rect x="${x + 220}" y="${GY - 540}" width="140" height="170" rx="60" fill="#DCEBF5" stroke="${INK}" stroke-width="${SW}"/>`,
+  window: (x = 880) => `<rect x="${x - 70}" y="60" width="140" height="190" rx="60" fill="#DCEBF5" stroke="${INK}" stroke-width="${SW}"/>` + `<path d="M ${x - 30} 140 q 20 -20 40 0 q 20 -14 34 6" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round"/>`,
+  hill: () => `<path d="M 0 ${GY + 60} L 0 ${GY - 120} Q 300 ${GY - 330} 620 ${GY - 160} Q 860 ${GY - 40} 1080 ${GY - 10} L 1080 ${GY + 60} Z" fill="#DCEBC8" stroke="${INK}" stroke-width="${SW}"/>` + tree(150, GY - 230) + tree(940, GY - 60),
+  trees: () => tree(150, GY) + tree(930, GY) + tree(1010, GY - 20),
+  stairs: (x = 540) => `<path d="M ${x - 340} ${GY} V ${GY - 70} H ${x - 200} V ${GY - 140} H ${x - 60} V ${GY - 210} H ${x + 80} V ${GY - 280} H ${x + 340} V ${GY} Z" fill="#E8D2B4" stroke="${INK}" stroke-width="${SW}" stroke-linejoin="round"/>`,
+  boxes: (x = 800) => box(x - 80, GY - 120, 160, 120) + box(x - 60, GY - 220, 120, 100),
+  backpack: (x = 540) => `<rect x="${x + 60}" y="${GY - 300}" width="90" height="130" rx="28" fill="#E58E6B" stroke="${INK}" stroke-width="${SW}"/>`,
+  ball: (x = 820) => circ(x, GY - 380, 26, '#E35D4F') + line(`M ${x - 18} ${GY - 396} q 18 16 36 0`, 4, '#fff'),
+  bat: (x = 300) => `<rect x="${x - 20}" y="${GY - 300}" width="40" height="250" rx="16" fill="#E8C37A" stroke="${INK}" stroke-width="${SW}" transform="rotate(-12 ${x} ${GY - 175})"/>`,
+  shoe: (x = 800) => `<path d="M ${x - 90} ${GY - 10} L ${x - 90} ${GY - 70} Q ${x - 40} ${GY - 80} ${x - 10} ${GY - 50} L ${x + 80} ${GY - 40} Q ${x + 100} ${GY - 10} ${x + 70} ${GY - 4} Z" fill="#9AC5E0" stroke="${INK}" stroke-width="${SW}" stroke-linejoin="round"/>`,
+  suitcase: (x = 820) => `<rect x="${x - 80}" y="${GY - 230}" width="160" height="230" rx="22" fill="#D88C7A" stroke="${INK}" stroke-width="${SW}"/>` + line(`M ${x - 30} ${GY - 230} V ${GY - 280} H ${x + 30} V ${GY - 230}`, 8),
+  water: (x = 820) => `<rect x="${x - 34}" y="${GY - 170}" width="68" height="170" rx="18" fill="#BFE3F0" stroke="${INK}" stroke-width="${SW}"/>` + `<rect x="${x - 24}" y="${GY - 196}" width="48" height="30" rx="8" fill="#6FA7C2" stroke="${INK}" stroke-width="5"/>`,
+  plant: (x = 900) => `<path d="M ${x - 60} ${GY - 120} L ${x + 60} ${GY - 120} L ${x + 44} ${GY} L ${x - 44} ${GY} Z" fill="#D9906B" stroke="${INK}" stroke-width="${SW}" stroke-linejoin="round"/>` + line(`M ${x} ${GY - 120} q -40 -80 -70 -90 M ${x} ${GY - 120} q 10 -100 40 -130 M ${x} ${GY - 120} q 40 -60 80 -60`, 10, '#7FB77E'),
+  dumbbell: (x = 820) => `<rect x="${x - 70}" y="${GY - 24}" width="140" height="16" fill="#888" stroke="${INK}" stroke-width="5"/>` + `<rect x="${x - 90}" y="${GY - 50}" width="30" height="50" rx="6" fill="#555" stroke="${INK}" stroke-width="5"/><rect x="${x + 60}" y="${GY - 50}" width="30" height="50" rx="6" fill="#555" stroke="${INK}" stroke-width="5"/>`,
+  table: (x = 540) => `<rect x="${x - 300}" y="${GY - 180}" width="600" height="40" rx="18" fill="#FFFFFF" stroke="${INK}" stroke-width="${SW}"/>` + line(`M ${x - 260} ${GY - 140} V ${GY} M ${x + 260} ${GY - 140} V ${GY}`, 8),
+  calendar: (x = 860) => `<rect x="${x - 80}" y="70" width="160" height="170" rx="16" fill="#fff" stroke="${INK}" stroke-width="${SW}"/><rect x="${x - 80}" y="70" width="160" height="44" rx="14" fill="#E58E6B" stroke="${INK}" stroke-width="${SW}"/>` + line(`M ${x - 50} 150 l 30 30 l 60 -60`, 8, '#D9674E'),
+};
+function star(x, y) { return `<path d="M ${x} ${y - 18} L ${x + 6} ${y - 4} L ${x + 20} ${y} L ${x + 6} ${y + 6} L ${x} ${y + 20} L ${x - 6} ${y + 6} L ${x - 20} ${y} L ${x - 6} ${y - 4} Z" fill="#FFE7A3" stroke="${INK}" stroke-width="4" stroke-linejoin="round"/>`; }
+function tree(x, y) { return line(`M ${x} ${y} V ${y - 110}`, 14, INK) + line(`M ${x} ${y} V ${y - 110}`, 6, '#A57A55') + ell(x, y - 170, 70, 80, '#B7D69E'); }
+
+/* ---------- fx ---------- */
+function fx(kind, x, y) {
+  switch (kind) {
+    case 'sweat': return `<path d="M ${x + 100} ${y - 330} q -16 26 0 34 q 16 -8 0 -34 Z" fill="#AED8F0" stroke="${INK}" stroke-width="4"/>`;
+    case 'sparkle': return star(x - 130, y - 380) + star(x + 140, y - 330);
+    case 'zzz': return `<text x="${x + 120}" y="${y - 260}" font-size="70" fill="${INK}">z</text><text x="${x + 170}" y="${y - 320}" font-size="54" fill="${INK}">z</text><text x="${x + 210}" y="${y - 370}" font-size="40" fill="${INK}">z</text>`;
+    case 'pain_back': return zap(x + 96, y - 150);
+    case 'pain_knee': return zap(x + 70, y - 50);
+    case 'pain_hip': return zap(x + 90, y - 100);
+    case 'pain_shoulder': return zap(x + 90, y - 220);
+    case 'pain_neck': return zap(x + 70, y - 250);
+    case 'pain_foot': return zap(x + 70, y - 10);
+    case 'pain_bum': return zap(x - 100, y - 100);
+    case 'question': return `<text x="${x + 110}" y="${y - 360}" font-size="96" fill="${INK}">?</text>`;
+    case 'exclaim': return `<text x="${x + 110}" y="${y - 360}" font-size="96" fill="#D9674E">!</text>`;
+    case 'heart': return `<path d="M ${x + 140} ${y - 330} c -20 -30 -60 -6 -40 20 l 40 36 l 40 -36 c 20 -26 -20 -50 -40 -20 Z" fill="#F2A99A" stroke="${INK}" stroke-width="5"/>`;
+    case 'motion': return line(`M ${x - 170} ${y - 260} h -60 M ${x - 180} ${y - 200} h -80 M ${x - 170} ${y - 140} h -60`, 6, '#B9A797');
+    case 'gloom': return line(`M ${x - 60} ${y - 400} v 30 M ${x - 20} ${y - 410} v 36 M ${x + 20} ${y - 410} v 36 M ${x + 60} ${y - 400} v 30`, 6, '#8C93A8');
+    case 'steam': return line(`M ${x - 40} ${y - 380} q -20 -30 0 -60 M ${x + 40} ${y - 380} q 20 -30 0 -60`, 6, '#B9A797');
+    case 'dots': return `<text x="${x + 110}" y="${y - 330}" font-size="70" fill="${INK}">…</text>`;
+  }
+  return '';
+}
+function zap(x, y) { return `<path d="M ${x} ${y - 40} L ${x + 26} ${y - 6} L ${x + 8} ${y} L ${x + 34} ${y + 40}" fill="none" stroke="#D9674E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>` + line(`M ${x + 40} ${y - 30} l 22 -10 M ${x + 44} ${y} l 26 0`, 6, '#D9674E'); }
+
+/* ---------- speech bubbles ---------- */
+function wrapText(t, max) {
+  const words = t.split(' '); const lines = []; let cur = '';
+  for (const w of words) { if ((cur + ' ' + w).trim().length > max && cur) { lines.push(cur); cur = w; } else cur = (cur + ' ' + w).trim(); }
+  if (cur) lines.push(cur); return lines;
+}
+function bubble(text, bx, by, tx, ty, kind = 'say') {
+  // bx,by = bubble centre; tx,ty = tail tip
+  const lines = text.split('|').flatMap(s => wrapText(s.trim(), 17));
+  const fs = 54, lh = 58, w = Math.max(...lines.map(l => l.length)) * 25 + 76, h = lines.length * lh + 44;
+  const x = bx - w / 2, y = by - h / 2;
+  let shape;
+  if (kind === 'shout') {
+    const pts = []; const n = 18;
+    for (let i = 0; i < n; i++) { const a = i / n * 2 * Math.PI, r = i % 2 ? 1 : 1.16; pts.push([bx + Math.cos(a) * (w / 2 + 16) * r, by + Math.sin(a) * (h / 2 + 18) * r]); }
+    shape = `<path d="M ${pts.map(p => p.join(' ')).join(' L ')} Z" fill="#fff" stroke="${INK}" stroke-width="5" stroke-linejoin="round"/>`;
+  } else if (kind === 'think') {
+    shape = `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="${h / 2}" fill="#fff" stroke="${INK}" stroke-width="5"/>` +
+      circ(bx + (tx - bx) * 0.55, by + h / 2 + 26, 13, '#fff', 5) + circ(bx + (tx - bx) * 0.8, by + h / 2 + 56, 8, '#fff', 5);
+  } else {
+    const sx = Math.max(x + 40, Math.min(x + w - 40, tx));
+    shape = `<path d="M ${sx - 20} ${y + h - 4} L ${tx} ${ty} L ${sx + 22} ${y + h - 4}" fill="#fff" stroke="${INK}" stroke-width="5" stroke-linejoin="round"/>` +
+      `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="34" fill="#fff" stroke="${INK}" stroke-width="5"/>` +
+      `<path d="M ${sx - 16} ${y + h - 3} L ${sx + 18} ${y + h - 3}" stroke="#fff" stroke-width="8"/>`;
+  }
+  const txt = lines.map((l, i) => `<text x="${bx}" y="${y + 22 + lh * (i + 0.8)}" font-size="${fs}" text-anchor="middle" fill="${INK}">${esc(l)}</text>`).join('');
+  return shape + txt;
+}
+const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+
+/* ---------- scene ---------- */
+function scene(sc) {
+  const cast = sc.cast || [];
+  let back = '', mid = '', front = '';
+  const props = sc.props || [];
+  const backProps = ['hill', 'trees', 'moon', 'sun', 'clock', 'window', 'calendar', 'planeseat', 'car', 'chair', 'bed', 'stairs', 'desk', 'table', 'mat', 'plant', 'boxes', 'suitcase', 'water', 'dumbbell', 'shoe', 'bat'];
+  if (sc.ground !== false) back += PROPS.ground();
+  for (const pr of props) {
+    const [name, xs] = pr.split('@'); const fn = PROPS[name]; if (!fn) continue;
+    const s = fn(xs ? +xs : undefined);
+    if (['laptop', 'wheel', 'blanket', 'ball', 'backpack', 'desk', 'dash'].includes(name)) front += s; else back += s;
+  }
+  const n = cast.length;
+  const xs = n === 1 ? [540] : n === 2 ? [310, 780] : [200, 540, 880];
+  cast.forEach((a, i) => {
+    const x = a.x ?? xs[i];
+    const isK = a.who === 'kay';
+    const qp = isK ? (KPOSE[a.pose] || {}) : (QPOSE[a.pose] || {});
+    const sc_ = a.scale ?? (isK ? (n > 2 ? 1.0 : 1.22) : (n > 2 ? 1.2 : n === 2 ? 1.45 : 1.75));
+    const yb = a.y ?? (qp.seat ? GY - 196 : qp.rot ? GY - 110 : GY);
+    const body = isK ? kay(a.pose || 'stand', a.face || 'neutral', a.look || 0, a.item) : quokka(a.pose || 'stand', a.face || 'neutral', a.look || 0, a.item);
+    const flip = a.flip ? -1 : 1;
+    mid += `<g transform="translate(${x} ${yb}) scale(${sc_ * flip} ${sc_})">${body}</g>`;
+    (a.fx || []).forEach(f => { front += `<g transform="translate(${x} ${yb + ((qp.crouch || 0) + (qp.y || 0)) * sc_ * (qp.rot ? 0 : 0.8)}) scale(${sc_ * 0.8})">${fx(f, 0, 0)}</g>`; });
+    if (a.say || a.think || a.shout) {
+      const kind = a.say ? 'say' : a.think ? 'think' : 'shout';
+      const text = a.say || a.think || a.shout;
+      const headTop = qp.rot ? yb - 200 * sc_ : yb + ((isK ? -560 : -340) + (qp.crouch || 0) + (qp.y || 0)) * sc_;
+      const bx = a.bx ?? (n === 1 ? (x > 540 ? x - 200 : x + 200) : (i === 0 ? Math.max(260, x) : Math.min(820, x)));
+      const by = a.by ?? Math.max(90, headTop - 120);
+      front += bubble(text, bx, by, x + (bx < x ? -30 : 30), headTop - 10, kind);
+    }
+  });
+  return `<svg viewBox="0 0 1080 860" width="1080" height="860" xmlns="http://www.w3.org/2000/svg">
+    <defs><filter id="wob" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="3"/><feDisplacementMap in="SourceGraphic" scale="5"/></filter></defs>
+    <g filter="url(#wob)">${back}${mid}${front}</g></svg>`;
+}
+
+/* ---------- build frames ---------- */
+const root = document.getElementById('root');
+const tag = META.series || "QUINN'S BODY DIARY";
+FRAMES.forEach((f, i) => {
+  const s = document.createElement('section');
+  s.className = 'slide'; s.dataset.index = String(i + 1);
+  let html = `<div class="tag">${tag}${META.ep ? ' · EP.' + META.ep : ''}</div>`;
+  if (f.top) html += `<div class="top ${f.top_small ? 'small' : ''}">${f.top}</div>`;
+  html += `<div class="stage">${scene(f)}</div>`;
+  if (f.info) {
+    html += `<div class="info"><span>Sydney CBD</span> · Level 11, 99 York St (near QVB)<br><span>Chatswood</span> · Level 1, 38B Albert Ave<br><span>Book</span> · link in bio · 02 9419 5866</div>`;
+  } else if (f.bottom) html += `<div class="bottom ${f.bottom_small ? 'small' : ''}">${f.bottom}</div>`;
+  html += `<div class="foot">@hybrid_physio_sydney</div><div class="disc">${META.disclaimer}</div>`;
+  s.innerHTML = html;
+  root.appendChild(s);
+});
+if (STORY) {
+  const s = document.createElement('section');
+  s.className = 'slide'; s.dataset.index = 'story';
+  s.innerHTML = `<div class="tag">${tag}</div><div class="top">${STORY.headline}</div><div class="stage">${scene(STORY.scene || { cast: [{ who: 'quokka', pose: 'wave', face: 'happy' }] })}</div><div class="bottom small">${STORY.body}</div><div class="foot">New reel on our feed</div><div class="disc">${META.disclaimer}</div>`;
+  root.appendChild(s);
+}
+</script>
+</body>
+</html>
