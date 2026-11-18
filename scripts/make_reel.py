@@ -18,6 +18,7 @@ HOLD = 3.2      # seconds each frame is fully visible
 FADE = 0.5      # crossfade length
 FIRST = 3.6     # first frame stays a little longer (hook)
 LAST = 4.6      # last frame (CTA) stays longer
+MUSIC = False   # clinic asked for no background music (2026-11-18); a silent track keeps the file Instagram-friendly
 
 
 def build(out_dir: Path, seed_text: str) -> Path:
@@ -32,7 +33,11 @@ def build(out_dir: Path, seed_text: str) -> Path:
     clip = [d + (FADE if i < n - 1 else 0) for i, d in enumerate(durs)]
     total = sum(durs)
     wav = out_dir / "bgm.wav"
-    bgm.write_wav(str(wav), bgm.make(total, zlib.crc32(seed_text.encode()) % 1000))
+    if MUSIC:
+        bgm.write_wav(str(wav), bgm.make(total, zlib.crc32(seed_text.encode()) % 1000))
+    else:
+        import numpy as np
+        bgm.write_wav(str(wav), np.zeros(int(bgm.SR * total)))
 
     ff = imageio_ffmpeg.get_ffmpeg_exe()
     cmd = [ff, "-y", "-loglevel", "error"]
@@ -52,7 +57,7 @@ def build(out_dir: Path, seed_text: str) -> Path:
     out = out_dir / "reel.mp4"
     cmd += ["-filter_complex", filt, "-map", f"[{last}]", "-map", f"{n}:a",
             "-c:v", "libx264", "-profile:v", "high", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p", "-r", "30",
-            "-c:a", "aac", "-b:a", "128k", "-ar", "48000", "-shortest", "-movflags", "+faststart", str(out)]
+            "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-shortest", "-movflags", "+faststart", str(out)]
     subprocess.run(cmd, check=True)
     wav.unlink(missing_ok=True)
     return out
