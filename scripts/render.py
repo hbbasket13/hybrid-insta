@@ -153,6 +153,16 @@ def main() -> int:
             targets = [t for t in targets if needs_render(t)]
     # style "prerendered": slides were rendered outside this repo and imported as PNGs - never re-render them
     targets = [t for t in targets if load_json(t).get("style") != "prerendered"]
+    # reels whose frames are current but whose music set changed: rebuild only the video
+    import make_reel
+    remux = []
+    for t in list_drafts(DRAFTS) + list_drafts(APPROVED):
+        d = load_json(t)
+        if d.get("style") == "reel" and t not in targets and make_reel.is_stale(ASSETS / d["id"]):
+            remux.append(d["id"])
+    for rid in remux:
+        make_reel.build(ASSETS / rid, rid)
+        print(f"♪ {rid}: reel.mp4 rebuilt with current music")
     if not targets:
         print("Nothing to render.")
         return 0
