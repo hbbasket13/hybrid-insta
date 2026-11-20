@@ -1,0 +1,220 @@
+{
+  "id": "Q-140-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 140,
+  "service": "physio",
+  "topic": "Night-time hand numbness (carpal tunnel)",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/carpal-tunnel-night-numbness-hand/",
+  "slides": [
+    {
+      "top": "3am. Quinn's hand<br>has <em>fallen asleep</em>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "surprised"
+        }
+      ],
+      "bottom": "The rest of Quinn: wide awake."
+    },
+    {
+      "top": "Quinn's move: shake it<br>like a <em>maraca</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "blank",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "The tingles ease… for a while."
+    },
+    {
+      "top": "Thumb, index, middle:<br><em>pins and needles</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Night after night."
+    },
+    {
+      "top": "Bleary-eyed, Quinn<br>visited Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "sleepy",
+          "say": "Is my laptop to blame?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a few answers."
+    },
+    {
+      "top": "A bent wrist can<br><mark>squeeze</mark> a nerve.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Curled wrists in bed add pressure"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Typing often isn't<br>the main cause."
+    },
+    {
+      "top": "Tip 1: A <mark>neutral</mark> wrist<br>splint at night.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Try it for at least six weeks."
+    },
+    {
+      "top": "Tip 2: Gentle<br><mark>nerve glides</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Easy, smooth moves, not<br>aggressive stretching."
+    },
+    {
+      "top": "Tip 3: Go easy on<br><mark>vibrating</mark> tools.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink",
+          "say": "Breaks between drill jobs"
+        }
+      ],
+      "bottom": "Forceful gripping, too: give<br>your hands regular breaks."
+    },
+    {
+      "top": "Tip 4: Avoid long<br><mark>bent-wrist</mark> holds.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Swap hands and rest the phone.<br>Your GP can check other causes."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Numbness that's there all the time"
+        }
+      ],
+      "bottom": "Thumb muscle shrinking, or numb<br>little finger? Get it checked."
+    },
+    {
+      "top": "Sleep tight, hands too.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "3am, and Quinn's hand had fallen asleep again. Shake it like a maraca, the tingles fade, then they're back the next night.\n\nNight-time numbness in the thumb, index and middle fingers that eases with a shake is a classic carpal tunnel pattern. Keeping the wrist bent for long periods, like curled up in bed, can raise pressure on the median nerve. Typing often isn't the main cause.\n\nWhat often helps: a neutral wrist splint overnight for at least six weeks, gentle nerve glides, less vibrating-tool use and forceful gripping, and avoiding long bent-wrist positions. Your GP can check for other contributors.\n\nGet it checked if numbness is constant, the thumb muscle looks smaller, the little finger is numb, or symptoms spread up the arm.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#carpaltunnel",
+    "#handnumbness",
+    "#pinsandneedles",
+    "#wristpain",
+    "#handhealth",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka wakes with a numb hand at 3am and learns from physio Kay about carpal tunnel and night-time wrist tips.",
+  "story": {
+    "headline": "Numb hand at<br>3am?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "props": [
+        "bed",
+        "moon@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-27",
+  "scheduled_time": "18:00",
+  "created": "2027-01-27-2",
+  "status": "approved",
+  "review_warnings": []
+}

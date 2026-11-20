@@ -1,0 +1,226 @@
+{
+  "id": "Q-139-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 139,
+  "service": "physio",
+  "topic": "The wrist bump that appears from nowhere",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/ganglion-cyst-wrist-bump/",
+  "slides": [
+    {
+      "top": "Quinn woke up with<br>a <em>new friend</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "A small bump on the wrist."
+    },
+    {
+      "top": "Quinn named it<br><em>Gerald</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "blank",
+          "say": "Morning, Gerald."
+        }
+      ],
+      "bottom": "Gerald did not reply."
+    },
+    {
+      "top": "Internet advice:<br>hit it with a <em>book</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "blank",
+          "item": "book",
+          "think": "Hit it with a… book?"
+        }
+      ],
+      "bottom": "Please don't, Quinn."
+    },
+    {
+      "top": "Quinn showed Kay<br>instead.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Do I need to squash it?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Very good choice."
+    },
+    {
+      "top": "Usually a harmless,<br><mark>fluid-filled</mark> lump.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Many shrink over time"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Watching and waiting is<br>often reasonable."
+    },
+    {
+      "top": "Tip 1: Go easy on<br><mark>bent-back</mark> wrists.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink",
+          "say": "Fists or handles for push-ups"
+        }
+      ],
+      "bottom": "Heavy loads with the wrist<br>bent back can make it ache."
+    },
+    {
+      "top": "Tip 2: Achy? A short<br><mark>splint</mark> break.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "A brief rest in a splint<br>may settle things down."
+    },
+    {
+      "top": "Tip 3: Keep a <mark>neutral</mark><br>wrist when typing.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Flat-ish wrist, keyboard close."
+    },
+    {
+      "top": "Tip 4: First bump?<br>Get a <mark>GP check</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Good to confirm what it is."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Hard, fixed or growing lump"
+        }
+      ],
+      "bottom": "Night pain, numbness, weakness<br>or feeling unwell? Get seen."
+    },
+    {
+      "top": "Gerald says hi.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn woke up with a small bump on the wrist, named it Gerald, and nearly took the internet's advice to hit it with a book.\n\nA wrist bump like this is often a ganglion: a harmless, fluid-filled lump. Many shrink or disappear over months to years, so watching and waiting is often reasonable. Hitting it can cause injury, and it often comes back anyway.\n\nWhat often helps: go easy on heavy bent-back wrist positions (try fists or handles for push-ups), use a splint briefly if it's achy, keep a neutral wrist when typing, and get a GP check the first time.\n\nGet seen if the lump is hard, fixed or growing, or you have night pain, numbness, weakness or feel unwell.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#wristpain",
+    "#ganglion",
+    "#wristbump",
+    "#handhealth",
+    "#deskworker",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka finds a bump on the wrist, names it Gerald, and learns from physio Kay why gentle care beats the book method.",
+  "story": {
+    "headline": "A wrist bump out<br>of nowhere?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-27",
+  "scheduled_time": "09:00",
+  "created": "2027-01-27-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,229 @@
+{
+  "id": "Q-136-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 136,
+  "service": "physio",
+  "topic": "Hip arthritis and groin pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/hip-osteoarthritis-groin-pain/",
+  "slides": [
+    {
+      "top": "Putting on socks is<br>now a <em>workout</em>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Reaching the feet: a saga."
+    },
+    {
+      "top": "Plus a strange<br><em>groin</em> ache.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "Mostly after long walks."
+    },
+    {
+      "top": "Quinn's theory:<br>\"I'm <em>wearing it out</em>.\"",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "fx": [
+            "gloom"
+          ],
+          "think": "Better stop walking…"
+        }
+      ],
+      "bottom": "Out came the couch plan."
+    },
+    {
+      "top": "Quinn asked Kay<br>about it.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Why does my groin ache?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the hip."
+    },
+    {
+      "top": "Hip arthritis often<br>shows in the <mark>groin</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Movement is part of the plan"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Exercise, education and pacing<br>come first."
+    },
+    {
+      "top": "Tip 1: Strengthen<br><mark>glutes</mark>, thighs, trunk.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Steady sessions, a few<br>times a week."
+    },
+    {
+      "top": "Tip 2: Walk, cycle or<br>swim <mark>within comfort</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Mild aches can be OK.<br>Big flare-ups? Ease off."
+    },
+    {
+      "top": "Tip 3: Flaring up?<br><mark>Adjust</mark>, don't quit.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Shorter walks, lighter sets,<br>then build back up."
+    },
+    {
+      "top": "Tip 4: Give it<br><mark>6–12 weeks</mark>.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Strength changes take time.<br>Keep showing up."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Night ache that keeps you up"
+        }
+      ],
+      "bottom": "Steadily getting more limited?<br>See your GP for a review."
+    },
+    {
+      "top": "Keep those hips moving.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Putting on socks became a workout for Quinn, along with a strange groin ache after long walks. Quinn's theory: walking was wearing the hip out.\n\nHip arthritis often shows up as groin pain, and the first-line approach is usually exercise, education and pacing. Walking isn't the enemy.\n\nWhat often helps: strengthen your glutes, thighs and trunk, keep walking, cycling or swimming within comfort, adjust the dose during flare-ups instead of stopping, and give it 6–12 weeks to notice change.\n\nIf you have night ache, or things are steadily getting more limited, see your GP for a review.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hiparthritis",
+    "#hippain",
+    "#groinpain",
+    "#osteoarthritis",
+    "#exerciseismedicine",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthyageing"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka struggles with socks and groin ache, and physio Kay explains hip arthritis and shares exercise and pacing tips.",
+  "story": {
+    "headline": "Groin ache when<br>you walk?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-25",
+  "scheduled_time": "18:00",
+  "created": "2027-01-25-2",
+  "status": "approved",
+  "review_warnings": []
+}

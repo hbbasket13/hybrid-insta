@@ -1,0 +1,220 @@
+{
+  "id": "Q-112-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 112,
+  "service": "physio",
+  "topic": "Knee arthritis: exercise comes first",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/knee-osteoarthritis-exercise-first-line/",
+  "slides": [
+    {
+      "top": "Quinn's knee started<br><em>narrating</em> stairs.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "blank",
+          "say": "Creak. Creak. Creak."
+        }
+      ],
+      "bottom": "Every step, a little review."
+    },
+    {
+      "top": "So Quinn decided to<br>never move <em>again</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Floor mode: fully activated."
+    },
+    {
+      "top": "Plot twist: resting<br>made it <em>stiffer</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Getting up took three attempts."
+    },
+    {
+      "top": "Quinn hobbled<br>in to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried",
+          "say": "Should I rest my arthritic knee?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay's answer surprised Quinn."
+    },
+    {
+      "top": "Exercise comes <mark>first</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Cartilage likes sensible load"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "How a knee looks on X-ray often<br>says little about how it feels."
+    },
+    {
+      "top": "Tip 1: Strength is<br>the <mark>main act</mark>.",
+      "props": [
+        "chair@300"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Sit-to-stands, step-ups and<br>gradual squats, twice a week."
+    },
+    {
+      "top": "Tip 2: Low-impact<br><mark>cardio</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Cycling, water walking or<br>a brisk walk all count."
+    },
+    {
+      "top": "Tip 3: A mild ache<br>can be <mark>okay</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "think": "Settled within a day? Good sign."
+        }
+      ],
+      "bottom": "After a flare, dial back a bit<br>— don't quit altogether."
+    },
+    {
+      "top": "Tip 4: Sleep and<br><mark>pacing</mark> help too.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Spread out big days. A healthy<br>weight can ease knee load."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sharp pain, swelling or night pain"
+        }
+      ],
+      "bottom": "Dial back and get reassessed."
+    },
+    {
+      "top": "Keep those knees moving.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's knee started creaking on the stairs, so Quinn retired to the floor. The knee got stiffer.\n\nWith knee arthritis, exercise is a first-line treatment, not something to avoid. How a knee looks on an X-ray often says little about how it feels, and cartilage tends to respond well to sensible, gradual load.\n\nWhat often helps: strength work as the centrepiece (sit-to-stands, step-ups, gradual squats, about twice a week), low-impact cardio like cycling, water walking or brisk walking, and accepting a mild ache that settles within a day. After a flare, dial back rather than stop. Sleep, pacing and a healthy weight can help too.\n\nSharp pain, swelling or night pain are signs to ease off and get reassessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneearthritis",
+    "#kneepain",
+    "#osteoarthritis",
+    "#strengthtraining",
+    "#healthyageing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka tries resting a creaky arthritic knee, then learns from physio Kay that strength work and low-impact cardio come first.",
+  "story": {
+    "headline": "Knee arthritis?<br>Movement first.",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "props": [
+        "chair@300"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-13",
+  "scheduled_time": "18:00",
+  "created": "2027-01-13-2",
+  "status": "approved",
+  "review_warnings": []
+}

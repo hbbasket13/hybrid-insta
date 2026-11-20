@@ -1,0 +1,220 @@
+{
+  "id": "Q-158-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 158,
+  "service": "physio",
+  "topic": "Stiff between the shoulder blades",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/mid-back-pain-stiffness-desk-work/",
+  "slides": [
+    {
+      "top": "Quinn's deadline week.<br><em>Locked in</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Eight hours. One position."
+    },
+    {
+      "top": "Friday: the spot between<br>the blades <em>burned</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Right where you can't reach."
+    },
+    {
+      "top": "Quinn tried a <em>doorframe</em><br>back scratch.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "blank",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "The neighbours have questions."
+    },
+    {
+      "top": "Quinn asked Kay<br>about the burn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is my posture just terrible?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: it's not that simple."
+    },
+    {
+      "top": "Holding one shape<br>for <mark>hours</mark> adds up.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Your back loves variety"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "No perfect posture — just<br>the next one."
+    },
+    {
+      "top": "Tip 1: Twist and <mark>reach</mark><br>a few times a day.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Seated rotations, chair-back<br>extensions, overhead reaches."
+    },
+    {
+      "top": "Tip 2: <mark>Rows</mark> and band<br>pull-aparts.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Arm raises help too."
+    },
+    {
+      "top": "Tip 3: Slow, <mark>full</mark><br>breaths.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Let the ribs and<br>mid-back move."
+    },
+    {
+      "top": "Tip 4: <mark>Change</mark><br>positions often.",
+      "props": [
+        "plant@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Sit, stand, walk, repeat."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Constant, severe or night-waking pain"
+        }
+      ],
+      "bottom": "Chest pain, breathlessness or<br>fever? Seek medical care."
+    },
+    {
+      "top": "Wiggle often, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Deadline week: Quinn sat locked in one position for eight hours a day. By Friday, the spot between the shoulder blades was burning, right where you can't reach.\n\nMid-back stiffness often builds when we hold the upper back bent for hours with little rotation or extension. It's less about 'bad' posture and more about posture that never changes.\n\nWhat often helps: seated rotations, chair-back extensions and overhead reaches a few times a day, strength work like rows, band pull-aparts and arm raises, slow full breaths, and changing positions often. A gentle foam roller can feel nice too.\n\nConstant or severe pain, night waking, a fall, band-like chest pain, breathlessness, fever or unexplained weight change needs prompt medical attention.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#upperbackpain",
+    "#deskjob",
+    "#officelife",
+    "#posture",
+    "#workfromhome",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets stiff between the shoulder blades during deadline week, and physio Kay shares movement, strength and breathing tips.",
+  "story": {
+    "headline": "Stiff between the<br>shoulder blades?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-05",
+  "scheduled_time": "18:00",
+  "created": "2027-02-05-2",
+  "status": "approved",
+  "review_warnings": []
+}

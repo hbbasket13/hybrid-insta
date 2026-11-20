@@ -1,0 +1,216 @@
+{
+  "id": "Q-125-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 125,
+  "service": "physio",
+  "topic": "Pinched nerve in the neck",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/cervical-radiculopathy-pinched-nerve-arm-pain/",
+  "slides": [
+    {
+      "top": "Quinn's left arm:<br>pins and <em>needles</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "say": "Did my arm fall asleep without me?"
+        }
+      ],
+      "bottom": "Since Tuesday. Rude."
+    },
+    {
+      "top": "Plus a neck that<br>won't <em>cooperate</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "The ache travels down the arm."
+    },
+    {
+      "top": "Dr Internet's verdict:<br><em>doom</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone",
+          "fx": [
+            "gloom",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Quinn closed every tab."
+    },
+    {
+      "top": "Kay took a proper look.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is my neck broken?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Assessment checks the pattern."
+    },
+    {
+      "top": "Often it's an irritated<br><mark>nerve root</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Many people settle with time and rehab"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "A scan isn't always needed<br>to get started."
+    },
+    {
+      "top": "Tip 1: Find your <mark>easing</mark><br>positions.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Notice what calms the arm,<br>and use it often."
+    },
+    {
+      "top": "Tip 2: Keep the neck<br><mark>gently moving</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Small, comfortable movements,<br>little and often."
+    },
+    {
+      "top": "Tip 3: Train the<br><mark>shoulder blades</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Then build arm strength<br>step by step."
+    },
+    {
+      "top": "Tip 4: A plan, not<br><mark>random videos</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "blank",
+          "fx": [
+            "question"
+          ],
+          "think": "Video #47 says… do this?"
+        }
+      ],
+      "bottom": "Matched to you and progressed<br>over time."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Weakness getting worse, or clumsy hands"
+        }
+      ],
+      "bottom": "Sudden face or speech changes?<br>Call 000."
+    },
+    {
+      "top": "Neck and arm, both welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's arm started buzzing with pins and needles, the neck joined in, and the internet made it sound like doom.\n\nNeck pain with pain, tingling, numbness or weakness down the arm is often an irritated nerve root. Many people improve with time and active rehab, and a scan isn't automatically needed to get started. Understanding it can ease the worry.\n\nWhat often helps: finding positions that ease the arm, gentle neck movement, shoulder-blade control and gradual arm strengthening, progressed to suit you, not copied from random videos.\n\nGet assessed promptly for worsening weakness, clumsiness, balance changes, symptoms in both arms or legs, bladder or bowel changes or fever. Sudden face or speech changes or a severe unusual headache: call 000.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#neckpain",
+    "#pinchednerve",
+    "#armpain",
+    "#pinsandneedles",
+    "#radiculopathy",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets neck pain with pins and needles down the arm and learns calm, active rehab tips from physio Kay.",
+  "story": {
+    "headline": "Neck pain with<br>a tingly arm?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-20",
+  "scheduled_time": "09:00",
+  "created": "2027-01-20-1",
+  "status": "approved",
+  "review_warnings": []
+}

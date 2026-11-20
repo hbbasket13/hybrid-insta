@@ -1,0 +1,219 @@
+{
+  "id": "Q-135-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 135,
+  "service": "physio",
+  "topic": "Corked thigh",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/corked-thigh-quadriceps-contusion/",
+  "slides": [
+    {
+      "top": "Footy day. Quinn's<br>on the <em>wing</em>.",
+      "props": [
+        "ball@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "What could go wrong?"
+    },
+    {
+      "top": "Then: a knee.<br>Straight to the <em>thigh</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_hip",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Instant dead leg."
+    },
+    {
+      "top": "Quinn's plan:<br><em>run it off</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined",
+          "shout": "I'm fine! Totally fine!"
+        }
+      ],
+      "bottom": "Teammates winced."
+    },
+    {
+      "top": "Kay was on<br>the sideline.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "say": "Should I keep playing?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: not today, mate."
+    },
+    {
+      "top": "A <mark>bruised</mark> muscle<br>likes a calm start.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Most settle in 1–2 weeks"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Playing on can make<br>a cork worse."
+    },
+    {
+      "top": "Tip 1: Stop, then rest<br>with the <mark>knee bent</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Off the field for the day."
+    },
+    {
+      "top": "Tip 2: Early <mark>ice</mark><br>and compression.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "icepack"
+        }
+      ],
+      "bottom": "Short ice sessions and a firm<br>wrap in the first day or two."
+    },
+    {
+      "top": "Tip 3: Gentle,<br><mark>pain-free</mark> knee bends.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Skip deep massage and<br>hard stretching early on."
+    },
+    {
+      "top": "Tip 4: Range, strength,<br><mark>then</mark> sprints.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Build back in stages, and wear<br>a thigh guard on return."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Thigh gets harder after 2–3 weeks"
+        }
+      ],
+      "bottom": "Knee won't bend after 2 weeks,<br>or a night ache? Get it checked."
+    },
+    {
+      "top": "See you back on the wing.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Footy day: Quinn took a knee straight to the thigh and tried to run it off. Kay, on the sideline, had other ideas.\n\nA corked thigh is a bruised quadriceps muscle. Most settle in one to two weeks with a calm, sensible start.\n\nWhat often helps: stop playing, rest with the knee bent, use ice and compression early, then begin gentle, pain-free knee bending. Rebuild range, then strength, then sprinting before returning, and wear a thigh guard when you're back. Deep massage or hard stretching on a fresh cork isn't the shortcut it seems.\n\nGet it checked if the thigh gets harder or worse after two to three weeks, the knee still won't bend after two weeks, or it aches at night.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#corkedthigh",
+    "#deadleg",
+    "#thighinjury",
+    "#footy",
+    "#sportsinjury",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sportsphysio"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets a corked thigh at footy and learns from physio Kay how to rest, ice and rebuild before returning.",
+  "story": {
+    "headline": "Corked thigh?<br>Don't run it off.",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "icepack"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-25",
+  "scheduled_time": "09:00",
+  "created": "2027-01-25-1",
+  "status": "approved",
+  "review_warnings": []
+}

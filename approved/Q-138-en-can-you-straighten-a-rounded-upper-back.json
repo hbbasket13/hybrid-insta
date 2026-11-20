@@ -1,0 +1,218 @@
+{
+  "id": "Q-138-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 138,
+  "service": "physio",
+  "topic": "Can you straighten a rounded upper back?",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/rounded-upper-back-kyphosis/",
+  "slides": [
+    {
+      "top": "Quinn saw a <em>side-on</em><br>photo of themself.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Who is that question mark?"
+    },
+    {
+      "top": "Desk posture:<br><em>prawn mode</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Eight hours a day."
+    },
+    {
+      "top": "Quinn ordered a<br><em>posture brace</em> online.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Problem solved!"
+        }
+      ],
+      "bottom": "Narrator: it was not solved."
+    },
+    {
+      "top": "Quinn asked Kay,<br>straight up.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "Can my back straighten up?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: partly, yes."
+    },
+    {
+      "top": "Some rounding can<br><mark>improve</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Strength and mobility can help"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Bony shape won't change, and<br>braces don't reshape the curve."
+    },
+    {
+      "top": "Tip 1: Strengthen the<br><mark>back extensors</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Arm raises, rows and<br>gentle back extensions."
+    },
+    {
+      "top": "Tip 2: Gentle <mark>mid-back</mark><br>mobility.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A foam roller under the upper<br>back can help it open up."
+    },
+    {
+      "top": "Tip 3: Keep up<br><mark>strength training</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Whole-body resistance work,<br>a couple of times a week."
+    },
+    {
+      "top": "Tip 4: Little posture<br><mark>resets</mark>, often.",
+      "props": [
+        "clock@850"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Stand tall, shoulders easy,<br>then carry on."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden mid-back pain"
+        }
+      ],
+      "bottom": "Losing height, or at risk of<br>weak bones? See your GP first."
+    },
+    {
+      "top": "Stand tall, Sydney.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn saw a side-on photo, spotted a question-mark shape, and ordered a posture brace. Problem solved? Not quite.\n\nSome upper-back rounding can improve with strength and mobility work, but bony shape won't reverse, and braces don't reshape the curve.\n\nWhat often helps: strengthen your back extensors with arm raises, rows and gentle back extensions, mobilise your mid-back over a foam roller, keep up general resistance training, and do frequent, gentle posture resets through the day.\n\nIf you get sudden mid-back pain, notice you've lost more than a couple of centimetres in height, or have a risk of osteoporosis, see your GP first.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#posture",
+    "#roundedback",
+    "#upperback",
+    "#kyphosis",
+    "#deskposture",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#strengthtraining"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka notices a rounded upper back and learns from physio Kay which strength and mobility habits can help.",
+  "story": {
+    "headline": "Can a rounded upper<br>back straighten?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-26",
+  "scheduled_time": "18:00",
+  "created": "2027-01-26-2",
+  "status": "approved",
+  "review_warnings": []
+}

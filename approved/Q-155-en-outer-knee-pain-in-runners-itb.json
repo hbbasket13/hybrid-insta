@@ -1,0 +1,223 @@
+{
+  "id": "Q-155-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 155,
+  "service": "physio",
+  "topic": "Outer knee pain in runners (ITB)",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/it-band-syndrome-runners-outer-knee-pain/",
+  "slides": [
+    {
+      "top": "Quinn signed up for<br>a <em>hilly</em> half marathon.",
+      "props": [
+        "hill@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Training: very enthusiastic."
+    },
+    {
+      "top": "Week six. Outer knee:<br><em>nope</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Worst on the way downhill."
+    },
+    {
+      "top": "The internet said:<br>'<em>roll</em> that IT band!'",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sore",
+          "y": 752,
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Quinn rolled. Quinn wept."
+    },
+    {
+      "top": "Quinn limped in<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried",
+          "say": "Is my IT band just too tight?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a different view."
+    },
+    {
+      "top": "It's an <mark>overload</mark> issue,<br>not a tight band.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "The band barely changes length"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Stretching won't lengthen it."
+    },
+    {
+      "top": "Tip 1: <mark>Ease off</mark> what<br>flares it.",
+      "props": [
+        "hill@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Fewer long downhills and<br>shorter runs, for now."
+    },
+    {
+      "top": "Tip 2: Strengthen hips,<br>knees and <mark>calves</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Side steps, squats and<br>calf raises are a start."
+    },
+    {
+      "top": "Tip 3: Build back<br><mark>gradually</mark>.",
+      "props": [
+        "calendar@850"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Distance first, then hills<br>and uneven ground."
+    },
+    {
+      "top": "Tip 4: Roller? Fine for<br><mark>comfort</mark> only.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Cadence tweaks are best<br>after an assessment."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain that hangs around, or big swelling"
+        }
+      ],
+      "bottom": "After a fall, or can't walk<br>normally? Get checked."
+    },
+    {
+      "top": "See you at the finish!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn signed up for a hilly half marathon. By week six, the outside of the knee said nope, especially on the downhills. The internet's advice: roll that IT band. Ouch.\n\nOuter knee pain in runners is usually a load issue rather than a 'tight' band. The band barely changes length, so stretching or releasing it isn't the key.\n\nWhat often helps: temporarily cut long downhills and the distance that flares it, strengthen your hips, knees and calves, then rebuild distance, hills and uneven ground gradually. Foam rolling is fine for comfort, and cadence changes are best made after an assessment.\n\nPain that hangs around, big swelling, a fall or trouble walking normally is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#runningpain",
+    "#itband",
+    "#kneepain",
+    "#runners",
+    "#halfmarathon",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka trains for a hilly half marathon, gets outer knee pain, and learns load, strength and return-to-run tips from physio Kay.",
+  "story": {
+    "headline": "Outer knee pain<br>on your runs?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "hill@830"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-04",
+  "scheduled_time": "09:00",
+  "created": "2027-02-04-1",
+  "status": "approved",
+  "review_warnings": []
+}

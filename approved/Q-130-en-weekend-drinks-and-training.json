@@ -1,0 +1,226 @@
+{
+  "id": "Q-130-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 130,
+  "service": "physio",
+  "topic": "Weekend drinks and training",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/alcohol-training-recovery/",
+  "slides": [
+    {
+      "top": "Saturday: a mate's<br><em>birthday</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup",
+          "fx": [
+            "heart"
+          ],
+          "say": "Happy birthday, Sam!"
+        }
+      ],
+      "bottom": "Sunday: a long run. Allegedly."
+    },
+    {
+      "top": "Sunday, 7am.<br>The alarm: <em>loud</em>.",
+      "props": [
+        "bed",
+        "clock"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Quinn slept, but not well."
+    },
+    {
+      "top": "The long run felt<br><em>extra long</em>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Legs heavy. Head foggy."
+    },
+    {
+      "top": "Quinn asked Kay,<br>a bit sheepishly.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Do drinks wreck my training?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: less dramatic than memes."
+    },
+    {
+      "top": "Dose and <mark>timing</mark><br>matter most.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "It can disrupt sleep and fluids"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Dozing off faster is sedation,<br>not better sleep."
+    },
+    {
+      "top": "Tip 1: <mark>Refuel</mark> first.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "determined",
+          "item": "bottle"
+        }
+      ],
+      "bottom": "Protein and fluid after<br>training, before the party."
+    },
+    {
+      "top": "Tip 2: Finish <mark>earlier</mark>.",
+      "props": [
+        "moon"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "An earlier last drink can<br>help protect your sleep."
+    },
+    {
+      "top": "Tip 3: Try a <mark>zero-alc</mark><br>option.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "cup",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Low or zero-alcohol drinks can<br>rehydrate about like water."
+    },
+    {
+      "top": "Tip 4: Mind the<br><mark>guidelines</mark>.",
+      "props": [
+        "calendar"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Aus guide: max 10 standard<br>drinks a week, 4 on any day."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "An injury isn't improving after 2 weeks"
+        }
+      ],
+      "bottom": "Worried about your drinking?<br>Your GP is a good first chat."
+    },
+    {
+      "top": "Cheers to recovery.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "A Saturday birthday, then a very long Sunday run for Quinn.\n\nAlcohol can affect sleep, fluid balance and some recovery processes, though usually less dramatically than social media suggests; dose and timing matter most. Falling asleep faster after drinks is sedation, not better-quality sleep.\n\nWhat often helps: getting protein and fluid in after training first, finishing earlier to protect sleep, choosing low or zero-alcohol options, staying within the Australian guidelines of no more than 10 standard drinks a week and 4 on any day, and going easy in the days after an acute injury.\n\nAn injury that isn't improving after about two weeks, big swelling, locking or not being able to bear weight is worth assessing. Concerned about drinking? Chat with your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#recovery",
+    "#training",
+    "#sleep",
+    "#runninglife",
+    "#weekendwarrior",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has a slow Sunday run after a birthday party and learns practical recovery tips from physio Kay.",
+  "story": {
+    "headline": "Weekend drinks,<br>Sunday training?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-22",
+  "scheduled_time": "18:00",
+  "created": "2027-01-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

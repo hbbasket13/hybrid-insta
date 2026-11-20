@@ -1,0 +1,219 @@
+{
+  "id": "Q-113-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 113,
+  "service": "physio",
+  "topic": "Outer ankle tendon pain",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/peroneal-tendinopathy-outer-ankle-pain/",
+  "slides": [
+    {
+      "top": "Quinn signed up for<br>a <em>trail</em> challenge.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "proud",
+          "say": "Rocks, roots, let's go!"
+        }
+      ],
+      "bottom": "Ten big weekends in a row."
+    },
+    {
+      "top": "Week three.<br>Outer ankle: <em>grumpy</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Worse on bumpy, sloping paths."
+    },
+    {
+      "top": "Quinn suddenly recalled<br>every old <em>sprain</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad",
+          "think": "That netball game in 2019…"
+        }
+      ],
+      "bottom": "They all 'healed'… right?"
+    },
+    {
+      "top": "Quinn showed Kay<br>the sore spot.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "Why the outside of my ankle?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay knew the usual culprit."
+    },
+    {
+      "top": "The <mark>peroneal tendons</mark><br>work overtime.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Old sprains dull your balance sense"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Then a sudden jump in load can<br>tip them over the edge."
+    },
+    {
+      "top": "Tip 1: Ease the<br><mark>terrain</mark> for now.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Flatter routes, shorter runs.<br>Not a full stop."
+    },
+    {
+      "top": "Tip 2: Band work and<br><mark>calf raises</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Ankle pushes against a band,<br>plus slow, even calf raises."
+    },
+    {
+      "top": "Tip 3: Retrain<br>your <mark>balance</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        }
+      ],
+      "bottom": "One leg, then wobbly ground,<br>then eyes closed."
+    },
+    {
+      "top": "Tip 4: Bumpy trails<br><mark>come last</mark>.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Build strength first, then<br>bring the rocks back."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A tendon flicking over the ankle bone"
+        }
+      ],
+      "bottom": "Sudden pain, big swelling or<br>stuck after 6 weeks of rehab."
+    },
+    {
+      "top": "Happy trails, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "By week three of a trail challenge, the outside of Quinn's ankle was grumbling on bumpy ground.\n\nOuter-ankle ache like this often involves the peroneal tendons. After old sprains, balance sense can dull, so these stabilisers work overtime, and a sudden jump in load can tip them over the edge. Resting or bracing forever usually isn't the answer.\n\nWhat often helps: easing terrain for a while, band work pushing the foot outwards, slow even calf raises, balance retraining (one leg, then wobbly ground, then eyes closed), and bringing uneven trails back last.\n\nA tendon flicking over the ankle bone, sudden sharp pain after an injury, big swelling, or no change after about six weeks of rehab is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#anklepain",
+    "#trailrunning",
+    "#anklesprain",
+    "#tendonpain",
+    "#balancetraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets outer-ankle pain on a trail challenge and learns terrain, strength and balance tips from physio Kay.",
+  "story": {
+    "headline": "Outer ankle sore<br>on the trails?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "hill"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-14",
+  "scheduled_time": "09:00",
+  "created": "2027-01-14-1",
+  "status": "approved",
+  "review_warnings": []
+}

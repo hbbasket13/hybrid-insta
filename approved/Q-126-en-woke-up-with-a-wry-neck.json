@@ -1,0 +1,230 @@
+{
+  "id": "Q-126-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 126,
+  "service": "physio",
+  "topic": "Woke up with a wry neck",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/wry-neck-acute-torticollis/",
+  "slides": [
+    {
+      "top": "Quinn woke up<br>looking <em>left</em>.",
+      "props": [
+        "window@200"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "blank",
+          "look": -1,
+          "say": "Left is my life now."
+        }
+      ],
+      "bottom": "Turning right: not available."
+    },
+    {
+      "top": "Shoulder check?<br><em>Whole-body</em> turn.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Like a very stiff robot."
+    },
+    {
+      "top": "At work, Quinn chatted<br>to everyone <em>sideways</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Colleagues assumed a new vibe."
+    },
+    {
+      "top": "Quinn came to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "Should I wear a neck brace?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: let's keep it moving."
+    },
+    {
+      "top": "Usually an irritated joint<br>and <mark>guarding</mark> muscles.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "It often settles within days"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Dramatic, but usually harmless."
+    },
+    {
+      "top": "Tip 1: <mark>Move gently</mark>,<br>a few times an hour.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Within comfort. No forcing,<br>no cracking it yourself."
+    },
+    {
+      "top": "Tip 2: <mark>Heat</mark> for comfort.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "A warm shower or heat pack<br>can ease the guarding."
+    },
+    {
+      "top": "Tip 3: Skip the <mark>collar</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "wink",
+          "say": "Bye bye, neck brace!"
+        }
+      ],
+      "bottom": "Soft collars can make it<br>hang around longer."
+    },
+    {
+      "top": "Tip 4: <mark>Break up</mark> long,<br>still positions.",
+      "props": [
+        "clock"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Get up, walk, shift position.<br>Heavy overhead jobs can wait."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Fever, a recent knock, or arm tingling"
+        }
+      ],
+      "bottom": "Not clearly better by day 3–4,<br>or keeps coming back? Check in."
+    },
+    {
+      "top": "Look both ways soon.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn woke up stuck looking left, and shoulder checks became whole-body turns.\n\nA wry neck usually comes from an irritated neck joint plus protective muscle guarding. It can feel dramatic, but it's usually harmless and often settles within days.\n\nWhat often helps: gentle movement within comfort a few times an hour, heat for comfort, turning your whole body for a couple of days, breaking up long still positions and leaving heavy overhead jobs for later. Soft collars can make it linger, and forcing or cracking it yourself can stir it up.\n\nGet it assessed with fever, a recent knock, arm pins and needles or weakness, severe unrelenting pain, or if it's not clearly better by day three or four or keeps coming back.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#wryneck",
+    "#stiffneck",
+    "#neckpain",
+    "#torticollis",
+    "#wokeuplikethis",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka wakes up with a stiff neck stuck to one side and learns gentle movement and heat tips from physio Kay.",
+  "story": {
+    "headline": "Woke up with<br>a stuck neck?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "props": [
+        "window"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-20",
+  "scheduled_time": "18:00",
+  "created": "2027-01-20-2",
+  "status": "approved",
+  "review_warnings": []
+}

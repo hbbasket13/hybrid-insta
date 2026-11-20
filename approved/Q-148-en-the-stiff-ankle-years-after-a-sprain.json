@@ -1,0 +1,232 @@
+{
+  "id": "Q-148-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 148,
+  "service": "physio",
+  "topic": "The stiff ankle years after a sprain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/ankle-osteoarthritis-stiff-ankle-guide/",
+  "slides": [
+    {
+      "top": "Quinn's ankle comes with<br>a <em>weather forecast</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink",
+          "say": "Stiff today. Rain tomorrow."
+        }
+      ],
+      "bottom": "Ever since that sprain in 2015."
+    },
+    {
+      "top": "Mornings: the first<br>steps are <em>creaky</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Like a rusty gate, but furry."
+    },
+    {
+      "top": "Stairs? The ankle<br><em>negotiates</em>.",
+      "props": [
+        "stairs@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Squatting down? Not today."
+    },
+    {
+      "top": "Quinn mentioned it<br>to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Should I just stop walking?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a better idea."
+    },
+    {
+      "top": "Old sprains can lead to<br>ankle <mark>arthritis</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Managed a lot like knee arthritis"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "And walking doesn't wear it<br>out faster."
+    },
+    {
+      "top": "Tip 1: Strengthen calf,<br>hip and <mark>knee</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Strong neighbours can take<br>load off the ankle."
+    },
+    {
+      "top": "Tip 2: Fitness the<br><mark>gentle</mark> way.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Cycling, swimming or<br>water walking all count."
+    },
+    {
+      "top": "Tip 3: Firm, slightly<br><mark>rockered</mark> soles.",
+      "props": [
+        "shoe@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "It helps the foot roll through"
+        }
+      ],
+      "bottom": "Less bending needed from<br>a stiff ankle."
+    },
+    {
+      "top": "Tip 4: Keep the <mark>range</mark><br>you have.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Gentle ankle bending daily<br>helps keep it moving."
+    },
+    {
+      "top": "Flare day? Poles and<br>a <mark>lighter</mark> plan.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Shorter outings, more breaks,<br>then build back up."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Hot, red, swollen, no injury"
+        }
+      ],
+      "bottom": "That needs a prompt GP review."
+    },
+    {
+      "top": "Keep that ankle exploring.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's ankle has had its own weather forecast ever since an old sprain: creaky first steps, grumpy stairs, no deep squats.\n\nAnkle arthritis often follows an old injury, and it's managed much like knee arthritis. Walking doesn't wear it out faster.\n\nWhat can help: strengthening the calf, hip and knee, keeping fit with cycling, swimming or water walking, firm, slightly rockered soles so the foot rolls through, and gentle daily movement to keep the range you have. On flare days, walking poles and a lighter plan can help before building back up.\n\nIf the ankle becomes hot, red and swollen without an injury, see your GP promptly.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#anklepain",
+    "#anklearthritis",
+    "#anklesprain",
+    "#osteoarthritis",
+    "#stiffankle",
+    "#walking",
+    "#healthyageing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has a stiff ankle years after a sprain and learns strength, fitness, footwear and flare tips from physio Kay.",
+  "story": {
+    "headline": "Stiff ankle years<br>after a sprain?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "hill"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-31",
+  "scheduled_time": "18:00",
+  "created": "2027-01-31-2",
+  "status": "approved",
+  "review_warnings": []
+}

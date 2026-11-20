@@ -1,0 +1,212 @@
+{
+  "id": "Q-153-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 153,
+  "service": "physio",
+  "topic": "Meniscus tears in middle-aged knees",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/meniscus-tear-exercise-vs-surgery/",
+  "slides": [
+    {
+      "top": "Quinn's knee <em>scan</em><br>report came back.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "surprised",
+          "item": "book",
+          "say": "A meniscus TEAR?!"
+        }
+      ],
+      "bottom": "Quinn read it three times."
+    },
+    {
+      "top": "Then Googled it.<br><em>Big mistake</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Forums. Worst cases. Panic."
+    },
+    {
+      "top": "The knee, meanwhile:<br>a bit <em>grumpy</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Achy on stairs. Fine on flat."
+    },
+    {
+      "top": "Quinn brought the<br>report to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is my knee falling apart?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay read it calmly."
+    },
+    {
+      "top": "These tears are common,<br><mark>even in pain-free knees</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Exercise is usually the first step"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "A scan isn't the whole story."
+    },
+    {
+      "top": "Tip 1: Build quads,<br>hips and <mark>calves</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Give it around three months<br>of steady work."
+    },
+    {
+      "top": "Tip 2: Get <mark>comfortable</mark><br>movement back.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Gentle bending and<br>straightening, little and often."
+    },
+    {
+      "top": "Tip 3: Step back up<br><mark>gradually</mark>.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Walking, then stairs,<br>then sport."
+    },
+    {
+      "top": "Tip 4: Flare-up? <mark>Adjust</mark>,<br>don't stop.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "wink",
+          "say": "Less today, more next week"
+        }
+      ],
+      "bottom": "Trim the dose for a few days,<br>then build again."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Your knee truly locks or gets stuck"
+        }
+      ],
+      "bottom": "Sudden twist with swelling?<br>Get it checked early."
+    },
+    {
+      "top": "Here's to happy knees.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn got a knee scan report with the words 'meniscus tear' and spent the evening reading worst-case forum posts.\n\nIn middle age, meniscus changes are really common, including in knees that don't hurt at all. A scan is only part of the story, and for these wear-related tears, exercise is usually the first step.\n\nWhat often helps: steady strength work for the quads, hips and calves over about three months, getting comfortable bending and straightening back, and a gradual return to walking, stairs and sport. In a flare-up, trim the dose rather than stopping completely.\n\nIf your knee truly locks or gets stuck, or a sudden twist brings swelling, get it checked early.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#meniscus",
+    "#kneepain",
+    "#kneehealth",
+    "#strengthtraining",
+    "#activeageing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka panics over a meniscus tear on a scan report, and physio Kay shares calm, exercise-based knee tips.",
+  "story": {
+    "headline": "'Meniscus tear'<br>on your scan?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-03",
+  "scheduled_time": "09:00",
+  "created": "2027-02-03-1",
+  "status": "approved",
+  "review_warnings": []
+}

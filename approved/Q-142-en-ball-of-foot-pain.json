@@ -1,0 +1,233 @@
+{
+  "id": "Q-142-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 142,
+  "service": "physio",
+  "topic": "Ball-of-foot pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/mortons-neuroma-ball-of-foot-pain/",
+  "slides": [
+    {
+      "top": "Quinn bought <em>very</em><br>fancy shoes.",
+      "props": [
+        "shoe@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Pointy. Tall. Iconic."
+        }
+      ],
+      "bottom": "Feet were not consulted."
+    },
+    {
+      "top": "Two hours later:<br>a <em>pebble</em> in the shoe?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "There was no pebble."
+    },
+    {
+      "top": "Shoes off.<br>Pebble feeling <em>stays</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "fx": [
+            "question"
+          ],
+          "think": "A… ghost pebble?"
+        }
+      ],
+      "bottom": "Burning, tingly, under the toes."
+    },
+    {
+      "top": "Quinn limped in to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried",
+          "say": "There's a stone in my foot. Allegedly."
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had seen this before."
+    },
+    {
+      "top": "Narrow, high shoes<br><mark>squeeze</mark> the toes.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Shoes are the first thing to change"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "That can irritate a nerve and<br>overload the ball of the foot."
+    },
+    {
+      "top": "Tip 1: Wide toe box,<br><mark>lower</mark> heel.",
+      "props": [
+        "shoe@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A cushioned sole helps too."
+    },
+    {
+      "top": "Tip 2: A <mark>metatarsal</mark><br>pad.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Just behind the sore spot"
+        }
+      ],
+      "bottom": "Placement matters — we can<br>help you position it."
+    },
+    {
+      "top": "Tip 3: Calf stretches,<br>foot <mark>strength</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calf and toe work can help<br>share the load."
+    },
+    {
+      "top": "Tip 4: Trim walking,<br>then <mark>build back</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Ease off while it settles,<br>then add it back gradually."
+    },
+    {
+      "top": "Myth: thin, flat shoes<br>are <em>always</em> fine.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Minimal soles can add forefoot<br>load while it's sore."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sharp pain under one bone"
+        }
+      ],
+      "bottom": "Even at rest, or after a jump<br>in walking or running."
+    },
+    {
+      "top": "Comfy shoes are iconic too.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought very fancy, very pointy shoes. Two hours later: a pebble feeling under the toes that stayed even with the shoes off.\n\nNarrow, raised shoes can squeeze the forefoot, irritating a nerve between the toes and overloading the ball of the foot. Footwear is usually the first thing to change.\n\nWhat often helps: a wide toe box, lower heel and cushioned sole, a metatarsal pad placed just behind the sore spot, calf stretches and foot strength, and trimming walking while it settles before building back gradually. Very thin minimal shoes aren't always harmless here.\n\nGet it checked if pain sits under one bone, especially at rest or after a jump in walking or running.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#footpain",
+    "#forefootpain",
+    "#mortonsneuroma",
+    "#metatarsalgia",
+    "#footwear",
+    "#walking",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets a mystery pebble feeling from fancy shoes and learns footwear, padding and loading tips from physio Kay.",
+  "story": {
+    "headline": "That pebble-in-<br>your-shoe feeling?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "props": [
+        "shoe@830"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-28",
+  "scheduled_time": "18:00",
+  "created": "2027-01-28-2",
+  "status": "approved",
+  "review_warnings": []
+}

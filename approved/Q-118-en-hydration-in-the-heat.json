@@ -1,0 +1,236 @@
+{
+  "id": "Q-118-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 118,
+  "service": "physio",
+  "topic": "Hydration in the heat",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/hydration-exercise-heat-guide/",
+  "slides": [
+    {
+      "top": "Hot day. Quinn packed<br><em>six</em> water bottles.",
+      "props": [
+        "sun@220"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "bottle",
+          "say": "Hydration: maximum!"
+        }
+      ],
+      "bottom": "For a 30-minute walk."
+    },
+    {
+      "top": "Drank them all.<br>On <em>schedule</em>.",
+      "props": [
+        "sun"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "determined",
+          "item": "bottle",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Thirsty or not."
+    },
+    {
+      "top": "Result:<br><em>slosh</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "blank",
+          "fx": [
+            "dots"
+          ],
+          "think": "I am mostly water now."
+        }
+      ],
+      "bottom": "Bloated and a bit queasy."
+    },
+    {
+      "top": "Quinn asked Kay<br>what went wrong.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried",
+          "say": "Isn't more water always better?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: more isn't always better."
+    },
+    {
+      "top": "<mark>Thirst</mark> is a good guide.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Over-drinking is the riskier mistake"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Sweat rates vary a lot<br>from person to person."
+    },
+    {
+      "top": "Tip 1: Start hydrated,<br><mark>drink to thirst</mark>.",
+      "props": [
+        "sun",
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "item": "bottle"
+        }
+      ],
+      "bottom": "Cool drinks often go<br>down easier in the heat."
+    },
+    {
+      "top": "Tip 2: <mark>Electrolytes</mark><br>for long, hot sessions.",
+      "props": [
+        "sun"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "sweat",
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Sports drinks can help past<br>an hour, or if you sweat salty."
+    },
+    {
+      "top": "Tip 3: Salt your<br>food <mark>normally</mark>.",
+      "props": [
+        "table"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "No need to cut salt out if<br>you train hard in the heat."
+    },
+    {
+      "top": "Tip 4: Let your body<br><mark>acclimatise</mark>.",
+      "props": [
+        "sun"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Ease into hot-weather<br>training over several sessions."
+    },
+    {
+      "top": "Get help if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Headache, nausea or bloating mid-event"
+        }
+      ],
+      "bottom": "Confusion or collapse in heat?<br>Call 000 straight away."
+    },
+    {
+      "top": "Drink smart, Sydney.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Hot day, 30-minute walk, six water bottles. Quinn drank them all on schedule and ended up bloated and queasy.\n\nFor most people, thirst is a good guide, and over-drinking is the riskier mistake. Sweat rates vary a lot between people, and bodies adapt to the heat with time.\n\nWhat often helps: starting well hydrated and drinking when thirsty, choosing cool drinks, adding electrolytes or a sports drink for long, hot sessions beyond about an hour or if you sweat salty, salting food normally, and easing into hot-weather training.\n\nHeadache, nausea, bloating or weight gain during a long event can point to over-drinking, so get checked. Confusion, repeated vomiting, collapse or very hot skin is an emergency: call 000.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hydration",
+    "#summertraining",
+    "#exerciseintheheat",
+    "#runningtips",
+    "#sydneysummer",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka over-drinks water on a hot walk and learns from physio Kay to drink to thirst, use electrolytes for long sessions and acclimatise.",
+  "story": {
+    "headline": "Training in<br>the heat?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "bottle"
+        }
+      ],
+      "props": [
+        "sun"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-16",
+  "scheduled_time": "18:00",
+  "created": "2027-01-16-2",
+  "status": "approved",
+  "review_warnings": []
+}

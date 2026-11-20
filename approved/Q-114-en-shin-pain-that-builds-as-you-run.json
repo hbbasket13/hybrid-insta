@@ -1,0 +1,224 @@
+{
+  "id": "Q-114-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 114,
+  "service": "physio",
+  "topic": "Shin pain that builds as you run",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/exertional-compartment-syndrome-shin-pain/",
+  "slides": [
+    {
+      "top": "Quinn's new running<br>route has a <em>curse</em>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "It strikes at the same spot."
+    },
+    {
+      "top": "Same spot, every run:<br>shins go <em>tight</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "sweat",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Full, tight, even a bit numb."
+    },
+    {
+      "top": "Five minutes' rest…<br>totally <em>fine</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "blank",
+          "fx": [
+            "question"
+          ],
+          "say": "Did I imagine it?"
+        }
+      ],
+      "bottom": "Restart. Same spot. Again."
+    },
+    {
+      "top": "Quinn asked Kay<br>about the curse.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is this just shin splints?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked a few questions."
+    },
+    {
+      "top": "Muscles <mark>swell</mark><br>inside a tight sleeve.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Pressure builds until you stop"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Easing fast at rest can hint<br>it's not classic shin splints."
+    },
+    {
+      "top": "Tip 1: Run in<br><mark>intervals</mark>.",
+      "props": [
+        "clock"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Run-walk, staying below the<br>point where symptoms start."
+    },
+    {
+      "top": "Tip 2: Try <mark>gait</mark><br>retraining.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Quicker, shorter steps and a<br>softer landing may ease load."
+    },
+    {
+      "top": "Tip 3: Check shoes<br>and <mark>training load</mark>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Worn shoes? A big jump<br>in kilometres?"
+    },
+    {
+      "top": "Tip 4: Build <mark>calf</mark><br>capacity.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Steady calf raises, slowly<br>progressed over weeks."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Don't push through numbness or weakness"
+        }
+      ],
+      "bottom": "Severe pain after a knock?<br>Emergency care — call 000."
+    },
+    {
+      "top": "Curse lifted. Run happy.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's new running route seemed cursed: at the same spot every run, the shins went tight, full and a little numb, then felt fine after a few minutes' rest.\n\nPain that builds predictably with running and settles quickly at rest may not be classic shin splints. In some people the muscles swell inside a snug compartment and pressure rises until they stop.\n\nWhat often helps: interval-style running below the point where symptoms start, gait retraining such as quicker, shorter steps and a softer landing, reviewing shoes and recent training load, and building calf capacity.\n\nDon't push through numbness or weakness, and get it checked. Sudden severe pain after a knock is an emergency, so call 000.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#shinpain",
+    "#shinsplints",
+    "#running",
+    "#runningtips",
+    "#sydneyrunners",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's shins tighten at the same spot on every run and physio Kay shares interval, gait, footwear and calf tips.",
+  "story": {
+    "headline": "Shins tighten at the<br>same spot every run?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-14",
+  "scheduled_time": "18:00",
+  "created": "2027-01-14-2",
+  "status": "approved",
+  "review_warnings": []
+}

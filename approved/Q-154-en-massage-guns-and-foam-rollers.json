@@ -1,0 +1,220 @@
+{
+  "id": "Q-154-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 154,
+  "service": "physio",
+  "topic": "Massage guns and foam rollers",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/massage-gun-foam-roller-evidence/",
+  "slides": [
+    {
+      "top": "Quinn bought a<br><em>massage gun</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud",
+          "shout": "It has NINE speeds!",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Very serious equipment."
+    },
+    {
+      "top": "Then a <em>foam roller</em>.<br>Then another one.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sore",
+          "y": 752,
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "The lounge room is now a gym."
+    },
+    {
+      "top": "Quinn's mission: <em>break</em><br>every knot.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined",
+          "say": "Knots, you've been warned"
+        }
+      ],
+      "bottom": "And 'flush out the toxins'."
+    },
+    {
+      "top": "Quinn asked Kay<br>for gun tips.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "happy",
+          "say": "How long to melt a knot?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay smiled kindly."
+    },
+    {
+      "top": "They mostly calm the<br><mark>nervous system</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Feels looser, for a while"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "No knot-breaking or<br>toxin flushing involved."
+    },
+    {
+      "top": "Tip 1: Use them as<br><mark>comfort tools</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "heart"
+          ]
+        }
+      ],
+      "bottom": "Feels nice? Great.<br>It's a bonus, not a must."
+    },
+    {
+      "top": "Tip 2: A quick roll in<br>your <mark>warm-up</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A minute or two, then move."
+    },
+    {
+      "top": "Tip 3: Don't skip<br><mark>strength work</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Rolling can't replace<br>building capacity."
+    },
+    {
+      "top": "Tip 4: Skip <mark>bony spots</mark><br>and sore skin.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Avoid swollen, bruised or<br>broken skin, too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "You need it daily on the same spot"
+        }
+      ],
+      "bottom": "Circulation or clotting issues?<br>Ask before using one."
+    },
+    {
+      "top": "Brrr responsibly.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought a massage gun with nine speeds, then a foam roller, then another one. The mission: break up every knot and flush out the toxins.\n\nThe reality: these tools can make muscles feel looser and less sore for a while, mostly by calming the nervous system. They don't really break knots, release fascia or flush anything, and they don't speed recovery much.\n\nWhat often helps: use them as comfort tools, add a brief roll to your warm-up, keep strength work in the plan, and avoid bony areas and swollen or broken skin. Sleep, food and sensible training load matter more.\n\nIf one spot needs the gun every single day, pain persists, or you have a circulation or clotting condition, ask first.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#massagegun",
+    "#foamrolling",
+    "#recovery",
+    "#sorenessrelief",
+    "#strengthtraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka buys a massage gun and foam rollers, and physio Kay explains what they can and can't do, with four tips.",
+  "story": {
+    "headline": "Massage gun:<br>magic or myth?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "heart"
+          ]
+        }
+      ],
+      "props": [
+        "mat"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-03",
+  "scheduled_time": "18:00",
+  "created": "2027-02-03-2",
+  "status": "approved",
+  "review_warnings": []
+}

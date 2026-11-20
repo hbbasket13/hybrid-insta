@@ -1,0 +1,221 @@
+{
+  "id": "Q-143-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 143,
+  "service": "physio",
+  "topic": "On your feet all day",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/standing-all-day-leg-foot-pain/",
+  "slides": [
+    {
+      "top": "Quinn's new job:<br><em>retail</em>, all day.",
+      "props": [
+        "table"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy",
+          "say": "Welcome in! Let me know if…"
+        }
+      ],
+      "bottom": "Standing is healthy, right?"
+    },
+    {
+      "top": "Hour seven.<br>Legs: <em>concrete</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "blank",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Feet throbbing, ankles puffy."
+    },
+    {
+      "top": "Home. Feet up.<br>Socks left <em>dents</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Even the socks look tired."
+    },
+    {
+      "top": "Quinn asked Kay on<br>a lunch break.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "I barely moved. Why so sore?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: that's exactly why."
+    },
+    {
+      "top": "Standing <mark>still</mark> is harder<br>than moving.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Muscles stay on and fluid pools"
+        },
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Ten still hours is its own load."
+    },
+    {
+      "top": "Tip 1: Shift your<br><mark>weight</mark> often.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A low rail or box to rest<br>one foot on helps too."
+    },
+    {
+      "top": "Tip 2: Calf raises<br>every <mark>hour</mark>.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "The calf pump helps move<br>pooled fluid back up."
+    },
+    {
+      "top": "Tip 3: Supportive shoes,<br><mark>replaced</mark> often.",
+      "props": [
+        "shoe@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Worn-out cushioning<br>stops helping."
+    },
+    {
+      "top": "Tip 4: Mats and<br><mark>compression</mark> socks.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Squishy mat, snug socks"
+        }
+      ],
+      "bottom": "Diabetes or circulation issues?<br>Check with your GP first."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "One calf swollen, warm or sore"
+        }
+      ],
+      "bottom": "Also heel pain, numbness, or<br>back pain down a leg."
+    },
+    {
+      "top": "Keep those legs moving.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn started a retail job: on the feet all day. By hour seven the legs felt like concrete.\n\nStanding still can be harder on the body than moving. Muscles stay switched on and fluid can pool in the lower legs, so ten static hours is its own kind of overload.\n\nWhat can help: shifting weight often and resting one foot on a low rail, calf raises every hour, supportive shoes replaced regularly, plus anti-fatigue mats and compression socks (check with your GP first if you have circulation issues or diabetes).\n\nGet it checked if one calf is swollen, warm or sore, the skin over veins changes, or you notice morning heel pain, numbness or back pain down a leg.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#standingallday",
+    "#retaillife",
+    "#legpain",
+    "#footpain",
+    "#workhealth",
+    "#calfraises",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka stands all day at a retail job and learns weight-shifting, calf raise, footwear and mat tips from physio Kay.",
+  "story": {
+    "headline": "On your feet<br>all day?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "clock@840"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-29",
+  "scheduled_time": "09:00",
+  "created": "2027-01-29-1",
+  "status": "approved",
+  "review_warnings": []
+}

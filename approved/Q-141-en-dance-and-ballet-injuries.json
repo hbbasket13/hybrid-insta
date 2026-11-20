@@ -1,0 +1,234 @@
+{
+  "id": "Q-141-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 141,
+  "service": "physio",
+  "topic": "Dance and ballet injuries",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/dance-ballet-injuries-guide/",
+  "slides": [
+    {
+      "top": "Quinn joined an<br>adult <em>ballet</em> class.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "proud",
+          "say": "I am a swan."
+        }
+      ],
+      "bottom": "A slightly wobbly swan."
+    },
+    {
+      "top": "Week 3: class, rehearsal,<br>and <em>extra</em> practice.",
+      "props": [
+        "clock@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sleepy",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Nobody was counting the hours."
+    },
+    {
+      "top": "Ankle grumbling.<br>Quinn: <em>says nothing</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ],
+          "think": "Swans don't complain."
+        }
+      ],
+      "bottom": "Classic dancer move: hide it."
+    },
+    {
+      "top": "Kay spotted the limp.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "It's just a tiny niggle…"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: tiny niggles are clues."
+    },
+    {
+      "top": "Most dance injuries<br><mark>build slowly</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Total load adds up quietly"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Feet, ankles, hips, low back."
+    },
+    {
+      "top": "Tip 1: Strength work<br><mark>off the floor</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Strong calves, hips and trunk<br>carry the pretty moves."
+    },
+    {
+      "top": "Tip 2: Track your<br><mark>total</mark> load.",
+      "props": [
+        "calendar@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Classes, rehearsals, extras —<br>add them all up."
+    },
+    {
+      "top": "Tip 3: <mark>Fuel</mark> the work.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "bottle"
+        }
+      ],
+      "bottom": "Eating too little can leave<br>bones and tendons short."
+    },
+    {
+      "top": "Tip 4: Report niggles<br><mark>early</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy",
+          "say": "Kay, my ankle feels a bit off"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Early chats usually mean<br>smaller changes."
+    },
+    {
+      "top": "Myth: anyone can force<br><em>180°</em> turnout.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "blank",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Hip shape varies. Work with<br>yours — don't force it."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "You can't put weight on it"
+        }
+      ],
+      "bottom": "Night foot or shin pain, or<br>back pain worse when arching."
+    },
+    {
+      "top": "Dance smart, little swan.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined an adult ballet class, added rehearsals and extra practice, and kept a grumbling ankle quiet. Very dancer of Quinn.\n\nMost dance injuries build slowly, often in the feet, ankles, hips and low back, as total load quietly adds up across classes.\n\nWhat can help: strength work off the floor for calves, hips and trunk, tracking all your dance hours, eating enough to fuel training, and mentioning niggles early. Readiness for pointe is best judged by an assessment, not age alone. And no one should force 180° turnout — hip shape varies.\n\nGet it checked if you can't put weight through it, have foot or shin pain at night, or one-sided low back pain that's worse arching back.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#dancer",
+    "#ballet",
+    "#danceinjury",
+    "#pointe",
+    "#dancelife",
+    "#footpain",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka takes up ballet, hides an ankle niggle, and learns load, strength and fuelling tips from physio Kay.",
+  "story": {
+    "headline": "Dancing through<br>a niggle?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "proud"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-28",
+  "scheduled_time": "09:00",
+  "created": "2027-01-28-1",
+  "status": "approved",
+  "review_warnings": []
+}

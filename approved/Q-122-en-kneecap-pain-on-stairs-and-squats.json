@@ -1,0 +1,232 @@
+{
+  "id": "Q-122-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 122,
+  "service": "physio",
+  "topic": "Kneecap pain on stairs and squats",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/patellofemoral-kneecap-pain-stairs-squats/",
+  "slides": [
+    {
+      "top": "Quinn's 3-movie<br><em>marathon</em> night.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "item": "cup",
+          "say": "Snacks: ready."
+        }
+      ],
+      "bottom": "Nine hours. Zero stretching."
+    },
+    {
+      "top": "Credits roll.<br>Knees: <em>creaky</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "An ache around the kneecap."
+    },
+    {
+      "top": "Then came<br>the <em>stairs</em>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Going down was worse than up."
+    },
+    {
+      "top": "Quinn's theory:<br>a <em>wonky</em> kneecap.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "Has my kneecap slipped out?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a calmer take."
+    },
+    {
+      "top": "Load got ahead of<br>what the knee <mark>can handle</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Usually not out of place, just overloaded"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Clicks and cracks aren't<br>damage on their own."
+    },
+    {
+      "top": "Tip 1: Shrink the load,<br><mark>for now</mark>.",
+      "props": [
+        "stairs@600"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Smaller, not zero!"
+        }
+      ],
+      "bottom": "Shallower squats, fewer hills,<br>split up stair-heavy jobs."
+    },
+    {
+      "top": "Tip 2: Build the <mark>quads</mark>.",
+      "props": [
+        "chair@760"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Sit-to-stands, step-ups,<br>split squats."
+    },
+    {
+      "top": "Tip 3: Don't forget<br>the <mark>hips</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "bridge",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Strong hips help steer the<br>knee on stairs and squats."
+    },
+    {
+      "top": "Tip 4: Progress <mark>slowly</mark>.",
+      "props": [
+        "calendar"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Add depth, reps or speed<br>a little at a time."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Big swelling, locking or giving way"
+        }
+      ],
+      "bottom": "Worse despite changes, a fever,<br>or a big knock? Get it seen."
+    },
+    {
+      "top": "Stairs: friends again.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn sat through a three-movie marathon, then met the stairs. Cue an ache right around the kneecap.\n\nPain around or behind the kneecap on stairs, squats or long sitting is often about load: the knee has been asked to do more than it's currently ready for. The kneecap usually isn't \"out of place\", and clicks alone aren't damage.\n\nWhat often helps: trimming the load for a while (shallower squats, fewer hills, splitting up stair-heavy tasks), building quad and hip strength, and progressing depth, reps and speed gradually. Taping can help some people short term, and squats don't need to be banned forever.\n\nGet it checked after a big knock, or with large swelling, locking, repeated giving way, fever, or pain that keeps worsening.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneepain",
+    "#kneecappain",
+    "#patellofemoral",
+    "#runnersknee",
+    "#squats",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets kneecap pain after a movie marathon and stairs, and learns load and strength tips from physio Kay.",
+  "story": {
+    "headline": "Kneecap grumbling<br>on the stairs?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "props": [
+        "stairs"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-18",
+  "scheduled_time": "18:00",
+  "created": "2027-01-18-2",
+  "status": "approved",
+  "review_warnings": []
+}

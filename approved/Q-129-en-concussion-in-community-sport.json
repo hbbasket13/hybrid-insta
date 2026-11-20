@@ -1,0 +1,223 @@
+{
+  "id": "Q-129-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 129,
+  "service": "physio",
+  "topic": "Concussion in community sport",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/concussion-community-sport-guide/",
+  "slides": [
+    {
+      "top": "Saturday footy.<br>Quinn: <em>ready</em>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Local league. Big game energy."
+    },
+    {
+      "top": "One clash of heads<br>later…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Quinn felt foggy and a bit off."
+    },
+    {
+      "top": "Ten minutes later.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined",
+          "say": "I'm fine! Put me back on!"
+        }
+      ],
+      "bottom": "The coach said: not today."
+    },
+    {
+      "top": "Kay, on the sideline,<br><em>agreed</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "If in doubt, sit them out"
+        }
+      ],
+      "bottom": "Off for the day, then a doctor."
+    },
+    {
+      "top": "Concussion doesn't need<br>a <mark>knockout</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Most don't lose consciousness"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Feeling fine fast doesn't mean<br>it's safe to play."
+    },
+    {
+      "top": "Tip 1: <mark>Rest</mark> for a day<br>or two.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Relative rest — not weeks<br>in a dark room."
+    },
+    {
+      "top": "Tip 2: Then <mark>light</mark><br>activity.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Keep it below the level that<br>stirs up symptoms."
+    },
+    {
+      "top": "Tip 3: Step up<br><mark>one stage</mark> at a time.",
+      "props": [
+        "calendar"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Light cardio → drills →<br>non-contact training."
+    },
+    {
+      "top": "Tip 4: Contact only after<br><mark>medical clearance</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Cleared first, then tackles"
+        }
+      ],
+      "bottom": "Symptoms flare? Drop back<br>a step."
+    },
+    {
+      "top": "Call an ambulance if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Worsening headache, repeated vomiting"
+        }
+      ],
+      "bottom": "Also: seizure, drowsiness,<br>confusion or neck pain."
+    },
+    {
+      "top": "Play on — step by step.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn clashed heads at Saturday footy, felt foggy, and soon begged to go back on. The answer was no.\n\nWith a suspected concussion, the player comes off, doesn't return that day, and gets a medical assessment. Most concussions don't involve being knocked out, and feeling fine soon after doesn't mean it's safe to play.\n\nWhat often helps: a day or two of relative rest, then light activity below the level that stirs up symptoms, stepping through a graded return (daily activity, light cardio, sport drills, non-contact training) and only returning to contact after medical clearance. Weeks in a dark room is outdated.\n\nCall an ambulance for worsening drowsiness, repeated vomiting, a seizure, a worsening headache, neck pain after impact or increasing confusion.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#concussion",
+    "#communitysport",
+    "#footy",
+    "#sportsinjury",
+    "#ifindoubtsitthemout",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has a head knock at community footy and learns the step-by-step return-to-sport path from physio Kay.",
+  "story": {
+    "headline": "Head knock<br>at footy?",
+    "body": "If in doubt, sit them out",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-22",
+  "scheduled_time": "09:00",
+  "created": "2027-01-22-1",
+  "status": "approved",
+  "review_warnings": []
+}

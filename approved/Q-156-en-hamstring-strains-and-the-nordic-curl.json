@@ -1,0 +1,221 @@
+{
+  "id": "Q-156-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 156,
+  "service": "physio",
+  "topic": "Hamstring strains and the Nordic curl",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/hamstring-strain-nordic-curl-prevention/",
+  "slides": [
+    {
+      "top": "Quinn joined the<br><em>work footy</em> match.",
+      "props": [
+        "ball@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "First sprint in ten years."
+    },
+    {
+      "top": "Sprint two:<br>a <em>twang</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "shout": "OW!",
+          "fx": [
+            "pain_bum"
+          ]
+        }
+      ],
+      "bottom": "The back of the thigh grabbed."
+    },
+    {
+      "top": "A week later, Quinn<br>felt <em>totally fine</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Back to sprinting!"
+        }
+      ],
+      "bottom": "Narrator: it was too soon."
+    },
+    {
+      "top": "Twang number two.<br>Quinn called Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad",
+          "say": "Why does it keep happening?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had seen this before."
+    },
+    {
+      "top": "Re-strains often follow<br>a <mark>rushed return</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "There's a strength gap at speed"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Stretching alone won't close it."
+    },
+    {
+      "top": "Tip 1: Start with gentle<br><mark>holds</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "determined",
+          "y": 752
+        }
+      ],
+      "bottom": "Easy isometrics in<br>the first days."
+    },
+    {
+      "top": "Tip 2: Build <mark>strength</mark><br>step by step.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Slow lowering, hip and<br>trunk work, over weeks."
+    },
+    {
+      "top": "Tip 3: Run again<br><mark>gradually</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Jog, then stride out.<br>Sprints come last."
+    },
+    {
+      "top": "Tip 4: Meet the<br><mark>Nordic curl</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Small range, few reps to start"
+        }
+      ],
+      "bottom": "Then add range and reps<br>slowly over weeks."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Severe pain or lots of bruising"
+        }
+      ],
+      "bottom": "A gap you can feel, or pain<br>high near the sitting bone?"
+    },
+    {
+      "top": "Sprint smart, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined the work footy match, sprinted for the first time in ten years, and felt a twang. A week later it felt fine, so back to sprinting. Twang number two.\n\nHamstring strains often come back when people return too early, while there's still a strength gap at long, fast lengths. Stretching alone won't close that gap.\n\nWhat often helps: gentle holds early on, then gradually building slow-lowering, hip and trunk strength. Return to running in steps, with sprints last. Nordic curls can be a great addition: start with a small range and a few reps, and build over weeks.\n\nSevere pain, lots of bruising, a gap you can feel, or pain high near the sitting bone is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hamstring",
+    "#hamstringstrain",
+    "#nordiccurl",
+    "#sportsinjury",
+    "#footy",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka strains a hamstring twice at work footy, and physio Kay shares a gradual strength and return-to-run plan.",
+  "story": {
+    "headline": "Hamstring twanged<br>again?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-04",
+  "scheduled_time": "18:00",
+  "created": "2027-02-04-2",
+  "status": "approved",
+  "review_warnings": []
+}

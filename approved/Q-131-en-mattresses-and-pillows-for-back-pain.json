@@ -1,0 +1,231 @@
+{
+  "id": "Q-131-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 131,
+  "service": "physio",
+  "topic": "Mattresses and pillows for back pain",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/mattress-pillow-choice-guide/",
+  "slides": [
+    {
+      "top": "Quinn bought the <em>firmest</em><br>bed in the shop.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Firmer is better for backs!"
+        }
+      ],
+      "bottom": "The tag said \"orthopaedic\"."
+    },
+    {
+      "top": "Night one.<br>Like sleeping on a <em>door</em>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Quinn counted ceiling cracks."
+    },
+    {
+      "top": "Morning.<br>Back: <em>not impressed</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Stiff, creaky and grumpy."
+    },
+    {
+      "top": "Quinn asked Kay before<br>buying a second plank.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Isn't firmer always better?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay smiled. Common myth."
+    },
+    {
+      "top": "<mark>Medium-firm</mark> suits<br>most people.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Comfort matters more than labels"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "\"Orthopaedic\" has no official<br>meaning on a mattress tag."
+    },
+    {
+      "top": "Tip 1: <mark>Trial</mark> it<br>at home.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "A few nights tells you more<br>than five minutes in-store."
+    },
+    {
+      "top": "Tip 2: Match pillow<br>height to <mark>your sleep</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Side sleeper? Fill the shoulder gap"
+        }
+      ],
+      "bottom": "Back sleepers often suit<br>a lower pillow."
+    },
+    {
+      "top": "Tip 3: Replace a bed<br>that <mark>sags</mark>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "blank"
+        }
+      ],
+      "bottom": "A dip in the middle is<br>a sign it's time."
+    },
+    {
+      "top": "Tip 4: Too firm? Try<br>a <mark>topper</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "A softer layer can make<br>a firm bed kinder."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain wakes you late in the night"
+        }
+      ],
+      "bottom": "Morning stiffness over 30 min,<br>or back pain starting before 45."
+    },
+    {
+      "top": "Sweet dreams, Sydney.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought the firmest \"orthopaedic\" mattress in the shop and woke up stiff and grumpy. Sound familiar?\n\nThe firmest bed isn't automatically the best one. A medium-firm mattress often suits most people, and comfort tends to matter more than a label, since \"orthopaedic\" has no official meaning.\n\nA few ideas: trial a bed at home if you can, match pillow height to how you sleep, replace a mattress that sags, and try a topper if your bed feels a bit too firm.\n\nIf back pain wakes you in the second half of the night, morning stiffness lasts more than 30 minutes, or it started before 45, get it checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#backpain",
+    "#mattress",
+    "#pillow",
+    "#sleepbetter",
+    "#sleepposture",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka sleeps badly on a rock-hard mattress and learns mattress and pillow tips from physio Kay.",
+  "story": {
+    "headline": "Is the firmest bed<br>really the best?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "props": [
+        "bed"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-23",
+  "scheduled_time": "09:00",
+  "created": "2027-01-23-1",
+  "status": "approved",
+  "review_warnings": []
+}

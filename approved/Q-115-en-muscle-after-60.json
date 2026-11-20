@@ -1,0 +1,223 @@
+{
+  "id": "Q-115-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 115,
+  "service": "physio",
+  "topic": "Muscle after 60",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/muscle-after-60-sarcopenia/",
+  "slides": [
+    {
+      "top": "Quinn just<br>turned <em>60</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud",
+          "say": "Sixty and fabulous!"
+        }
+      ],
+      "bottom": "The cake had a lot of candles."
+    },
+    {
+      "top": "Then came the<br>low <em>armchair</em>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "say": "I live here now."
+        }
+      ],
+      "bottom": "Getting up: a three-act play."
+    },
+    {
+      "top": "Shopping got<br><em>heavier</em> somehow.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sore",
+          "item": "bag",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Suspicious. Same groceries."
+    },
+    {
+      "top": "Quinn asked Kay<br>at the clinic.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is losing muscle just ageing?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had good news."
+    },
+    {
+      "top": "Muscle <mark>responds</mark><br>at any age.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Even in your 70s, 80s and 90s"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Strength and power dip from<br>our 50s–60s, but can rebuild."
+    },
+    {
+      "top": "Tip 1: Lift things<br><mark>2–3 times</mark> a week.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Walking is great, but muscles<br>need a bit more challenge."
+    },
+    {
+      "top": "Tip 2: Train <mark>power</mark>.",
+      "props": [
+        "chair@300"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Stand up briskly from a chair,<br>sit down with control."
+    },
+    {
+      "top": "Tip 3: Practise<br><mark>balance</mark>.",
+      "props": [
+        "table@800"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Heel raises, or standing on<br>one leg near a bench."
+    },
+    {
+      "top": "Tip 4: Protein and<br><mark>consistency</mark>.",
+      "props": [
+        "table"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Little and often beats heroics"
+        }
+      ],
+      "bottom": "Ask your GP or a dietitian<br>about protein needs."
+    },
+    {
+      "top": "Worth a check if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Five chair stands without hands is hard"
+        }
+      ],
+      "bottom": "Slow walking or a weak grip?<br>See your GP and a physio."
+    },
+    {
+      "top": "Strong at every age.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn turned 60, and the low armchair suddenly felt like an opponent.\n\nMuscle strength, and especially power, tends to dip from our 50s and 60s, and that is linked with falls. The good news: muscle responds to training at any age, even in our 70s to 90s. Walking is great, but on its own it may not be enough challenge.\n\nWhat often helps: progressive resistance training two to three times a week, power work like standing up briskly from a chair, regular balance practice, and enough protein (your GP or a dietitian can advise).\n\nIf five chair stands without hands is hard, or walking or grip feels weak, a check with your GP and a physio is a good idea.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#healthyageing",
+    "#strengthtraining",
+    "#over60",
+    "#fallsprevention",
+    "#balance",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka turns 60, struggles with a low armchair and heavy shopping, and learns strength, power and balance tips from physio Kay.",
+  "story": {
+    "headline": "Over 60? Muscle<br>still listens.",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "dumbbell"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-15",
+  "scheduled_time": "09:00",
+  "created": "2027-01-15-1",
+  "status": "approved",
+  "review_warnings": []
+}

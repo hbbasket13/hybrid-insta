@@ -1,0 +1,224 @@
+{
+  "id": "Q-128-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 128,
+  "service": "physio",
+  "topic": "Numb little finger: the funny bone nerve",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/cubital-tunnel-ulnar-nerve/",
+  "slides": [
+    {
+      "top": "Quinn's nightly ritual:<br><em>one more</em> episode.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy",
+          "item": "phone",
+          "say": "Just one more…"
+        }
+      ],
+      "bottom": "Elbow bent. Phone up. 2am."
+    },
+    {
+      "top": "Morning. Little finger:<br><em>asleep</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "blank",
+          "fx": [
+            "question"
+          ],
+          "say": "Pinky? Hello?"
+        }
+      ],
+      "bottom": "Half the ring finger, too."
+    },
+    {
+      "top": "Then Quinn bumped<br>the <em>funny bone</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "shout": "OW! Not funny!"
+        }
+      ],
+      "bottom": "Spoiler: it's not a bone."
+    },
+    {
+      "top": "Kay explained the joke.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "That's your ulnar nerve"
+        }
+      ],
+      "bottom": "It runs behind the elbow."
+    },
+    {
+      "top": "Bent elbows can <mark>squeeze</mark><br>the nerve.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Phones, folded arms, curled-up sleep"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Leaning on elbows adds up, too."
+    },
+    {
+      "top": "Tip 1: Straighter elbow<br>at <mark>night</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "A towel loosely wrapped around<br>the elbow can remind you."
+    },
+    {
+      "top": "Tip 2: <mark>Headset</mark> on,<br>phone down.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "say": "Hands-free, elbows free!"
+        }
+      ],
+      "bottom": "Unfold your arms and skip<br>leaning on your elbows."
+    },
+    {
+      "top": "Tip 3: Gentle <mark>nerve glides</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Within comfort — no pressing<br>or aggressive stretching."
+    },
+    {
+      "top": "Tip 4: Build arm and<br>shoulder <mark>strength</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Plus micro-breaks from long<br>bent-elbow tasks."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Constant numbness or a weaker grip"
+        }
+      ],
+      "bottom": "Clumsy hands or thinning hand<br>muscles? See your GP."
+    },
+    {
+      "top": "Funny bone, serious care.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's late-night \"one more episode\" habit came with a sleepy little finger, and then a very unfunny bump to the funny bone.\n\nTingling in the little finger and half the ring finger often comes from the ulnar nerve being squeezed or stretched at the elbow. Long periods with the elbow bent, like phone calls, folded arms, leaning on elbows, cycling or sleeping curled up, can add up.\n\nWhat often helps: keeping the elbow straighter at night (a loosely wrapped towel or soft splint), using a headset, unfolding your arms, taking micro-breaks, gentle nerve glides within comfort, and general arm and shoulder strength. Pressing on it or aggressive stretching tends to backfire.\n\nConstant numbness, grip weakness, clumsiness or thinning hand muscles are worth a GP assessment.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#funnybone",
+    "#ulnarnerve",
+    "#cubitaltunnel",
+    "#numbfingers",
+    "#elbowpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka wakes with a tingly little finger and learns elbow-friendly habits from physio Kay.",
+  "story": {
+    "headline": "Tingly little<br>finger?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "blank",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-21",
+  "scheduled_time": "18:00",
+  "created": "2027-01-21-2",
+  "status": "approved",
+  "review_warnings": []
+}

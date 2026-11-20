@@ -1,0 +1,220 @@
+{
+  "id": "Q-160-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 160,
+  "service": "physio",
+  "topic": "When more exercise makes you worse",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/overtraining-symptoms-everyday-athletes/",
+  "slides": [
+    {
+      "top": "Quinn's new motto:<br><em>more</em> is more.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "shout": "Rest days? Never!",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Seven days a week. Plus extras."
+    },
+    {
+      "top": "Week five: slower,<br><em>grumpier</em>, wired.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Times dropping. Mood too."
+    },
+    {
+      "top": "Bedtime: <em>wide awake</em>.<br>3am: still awake.",
+      "props": [
+        "bed",
+        "moon@850"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank"
+        }
+      ],
+      "bottom": "So Quinn… trained harder."
+    },
+    {
+      "top": "Finally, Quinn<br>asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sad",
+          "say": "Why am I getting worse?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about sleep first."
+    },
+    {
+      "top": "Fitness builds during<br><mark>rest</mark>, not just effort.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Life stress uses the same budget"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Work, family, training —<br>it all adds up."
+    },
+    {
+      "top": "Tip 1: Go <mark>easy</mark> for<br>1–3 weeks.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Gentle walks, easy rides,<br>nothing heroic."
+    },
+    {
+      "top": "Tip 2: Protect sleep and<br><mark>eat enough</mark>.",
+      "props": [
+        "table"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Under-fuelling slows recovery.<br>So does short sleep."
+    },
+    {
+      "top": "Tip 3: Easy days, plus<br>a <mark>lighter week</mark>.",
+      "props": [
+        "calendar@850"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Try one every third<br>or fourth week."
+    },
+    {
+      "top": "Tip 4: Track sleep, mood<br>and <mark>resting heart rate</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "determined",
+          "item": "phone"
+        }
+      ],
+      "bottom": "Trends can flag trouble early."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Tired for weeks, even with rest"
+        }
+      ],
+      "bottom": "Cycle, appetite or weight<br>changes? See your GP."
+    },
+    {
+      "top": "Rest is training, too.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's new motto: more is more. By week five, Quinn was slower, grumpier and lying awake at 3am, so naturally… trained harder.\n\nYour body adapts during recovery, not just during effort. And work, family and life stress draw from the same recovery budget as training.\n\nWhat often helps: drop to easy activity for one to three weeks, protect your sleep and eat enough, then return with easy days and a lighter week every third or fourth week. Count life stress as training stress, and track resting heart rate, sleep and mood.\n\nIf fatigue lasts for weeks even with rest, or you notice changes in your cycle, appetite or weight, see your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#overtraining",
+    "#recovery",
+    "#restday",
+    "#fitnessjourney",
+    "#runners",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka trains every day and gets worse, then learns from physio Kay how rest, sleep, fuel and lighter weeks help.",
+  "story": {
+    "headline": "Training more,<br>feeling worse?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "calendar@850"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-06",
+  "scheduled_time": "18:00",
+  "created": "2027-02-06-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,225 @@
+{
+  "id": "Q-150-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 150,
+  "service": "physio",
+  "topic": "Turf toe",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/turf-toe-big-toe-sprain-guide/",
+  "slides": [
+    {
+      "top": "Quinn joined a<br>Sunday <em>footy</em> team.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Watch this sprint."
+        }
+      ],
+      "bottom": "Artificial turf. Big dreams."
+    },
+    {
+      "top": "Push-off. <em>Crunch</em>.<br>Big toe bends way back.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "That was not a toe's job."
+    },
+    {
+      "top": "Teammate: “Just tape it<br>and <em>play on</em>!”",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried",
+          "think": "That… sounds wrong?"
+        }
+      ],
+      "bottom": "Quinn wasn't so sure."
+    },
+    {
+      "top": "Monday:<br>Quinn saw Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sore",
+          "say": "My toe is swollen and grumpy"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: sounds like turf toe."
+    },
+    {
+      "top": "A <mark>sprain</mark> under the<br>big toe joint.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Forced upward bend at push-off"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Playing through can make it<br>linger much longer."
+    },
+    {
+      "top": "Tip 1: <mark>Tape</mark> to limit<br>upward bending.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Early tape protects the joint<br>— it's not a pass to play."
+    },
+    {
+      "top": "Tip 2: A <mark>stiff-soled</mark><br>shoe.",
+      "props": [
+        "shoe@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Or a stiff insert to stop<br>the toe bending back."
+    },
+    {
+      "top": "Tip 3: Stay fit the<br><mark>toe-friendly</mark> way.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Cycling and swimming. Toe on holiday."
+        }
+      ],
+      "bottom": "Keeps fitness up while<br>the toe settles."
+    },
+    {
+      "top": "Tip 4: Rebuild calf<br>and toe <mark>strength</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calf raises and toe work,<br>progressed gradually."
+    },
+    {
+      "top": "Back to footy when<br>push-off is <mark>pain-free</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Running, cutting, sprinting —<br>then game time."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Big swelling or bruising"
+        }
+      ],
+      "bottom": "Can't bear weight, or the<br>toe feels unstable."
+    },
+    {
+      "top": "See you on the field.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined a Sunday footy team, pushed off hard on artificial turf, and the big toe bent way back. A teammate said to tape it and play on.\n\nTurf toe is a sprain under the big toe joint, usually from forced upward bending at push-off. Playing through it can make it linger much longer.\n\nWhat can help: tape early on to limit upward bending (to protect it, not to play through pain), a stiff-soled shoe or stiff insert, keeping fit with cycling or swimming, and rebuilding calf and toe strength gradually. Return to sport once push-off feels pain-free.\n\nGet it checked if there's big swelling or bruising, you can't bear weight, or the toe feels unstable.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#turftoe",
+    "#toepain",
+    "#footy",
+    "#football",
+    "#sportsinjury",
+    "#footpain",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka sprains a big toe playing footy and learns taping, footwear, fitness and strength tips from physio Kay.",
+  "story": {
+    "headline": "Big toe bent<br>way back?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-01",
+  "scheduled_time": "18:00",
+  "created": "2027-02-01-2",
+  "status": "approved",
+  "review_warnings": []
+}

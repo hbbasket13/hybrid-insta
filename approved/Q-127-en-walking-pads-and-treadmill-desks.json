@@ -1,0 +1,227 @@
+{
+  "id": "Q-127-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 127,
+  "service": "physio",
+  "topic": "Walking pads and treadmill desks",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/walking-pad-treadmill-desk/",
+  "slides": [
+    {
+      "top": "Quinn bought a<br><em>walking pad</em>.",
+      "props": [
+        "boxes@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Goodbye, chair. Forever!"
+        }
+      ],
+      "bottom": "Big plans. Very big plans."
+    },
+    {
+      "top": "Day 1: typing while<br><em>walking</em>.",
+      "props": [
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "blank",
+          "say": "Dear Bsos, re: the reprot"
+        }
+      ],
+      "bottom": "Spelling: going downhill fast."
+    },
+    {
+      "top": "Day 3: 10,000 steps<br>and a <em>sore back</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Wasn't this meant to help?"
+    },
+    {
+      "top": "Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Isn't walking all day good?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: helpful, but not magic."
+    },
+    {
+      "top": "It <mark>replaces sitting</mark>,<br>not exercise.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Less sitting: yes. Magic fix: no."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Desk steps aren't a workout,<br>or a back pain treatment."
+    },
+    {
+      "top": "Tip 1: Walk for <mark>calls</mark><br>and reading.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "happy",
+          "item": "phone"
+        }
+      ],
+      "bottom": "Sit or stand still for<br>fiddly, precise typing."
+    },
+    {
+      "top": "Tip 2: Set it up at<br><mark>standing height</mark>.",
+      "props": [
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Elbows near 90°, screen at<br>eye level, separate keyboard."
+    },
+    {
+      "top": "Tip 3: Keep your<br><mark>strength</mark> sessions.",
+      "props": [
+        "dumbbell@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "For back pain, pair position<br>changes with strength work."
+    },
+    {
+      "top": "Tip 4: <mark>Mix it up</mark>.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Walk, stand, sit — the best<br>position is the next one."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Chest pain, or one swollen calf"
+        }
+      ],
+      "bottom": "Vertigo, balance trouble or a<br>leg injury? Ask before using."
+    },
+    {
+      "top": "Desk walkers welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought a walking pad, waved goodbye to the chair, and by day three had typo-filled emails and a sore back.\n\nA walking pad can modestly cut down sitting time, but it replaces sitting, not exercise, and it isn't a treatment for back or neck pain on its own.\n\nWhat often helps: walking during calls, reading and email, and sitting or standing still for precise typing; setting the desk at standing height with elbows near 90 degrees, the screen at eye level and a separate keyboard; keeping regular strength sessions; and mixing walking, standing and sitting.\n\nVertigo, balance problems or a recent leg injury? Check before using one. Chest pain, one-sided calf swelling or new leg weakness needs prompt assessment.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#walkingpad",
+    "#treadmilldesk",
+    "#deskjob",
+    "#wfh",
+    "#backpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka buys a walking pad, overdoes it, and learns set-up and mix-it-up tips from physio Kay.",
+  "story": {
+    "headline": "Got a<br>walking pad?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "desk",
+        "laptop"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-21",
+  "scheduled_time": "09:00",
+  "created": "2027-01-21-1",
+  "status": "approved",
+  "review_warnings": []
+}

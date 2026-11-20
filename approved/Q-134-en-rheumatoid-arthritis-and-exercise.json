@@ -1,0 +1,223 @@
+{
+  "id": "Q-134-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 134,
+  "service": "physio",
+  "topic": "Rheumatoid arthritis and exercise",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/rheumatoid-arthritis-exercise-guide/",
+  "slides": [
+    {
+      "top": "Quinn's RA plan:<br>protect joints by <em>resting</em>.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "say": "Staying still keeps them safe!"
+        }
+      ],
+      "bottom": "Couch mode, all month."
+    },
+    {
+      "top": "Week three.<br>The stairs feel <em>taller</em>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Less puff, less strength."
+    },
+    {
+      "top": "Quinn's worry:<br>\"Am I <em>wearing</em> them out?\"",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried",
+          "think": "Does exercise cause damage?"
+        }
+      ],
+      "bottom": "A very common fear."
+    },
+    {
+      "top": "Quinn asked Kay<br>at the clinic.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Is exercise OK with RA?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: great question."
+    },
+    {
+      "top": "RA is an <mark>immune</mark><br>condition.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "It's not wear and tear"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Sitting still can cost muscle,<br>fitness and heart health."
+    },
+    {
+      "top": "Tip 1: Mix <mark>cardio</mark><br>and strength.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Brisk walks plus light weights,<br>built up over time."
+    },
+    {
+      "top": "Tip 2: In a flare,<br><mark>turn it down</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Lower the intensity rather<br>than stopping completely."
+    },
+    {
+      "top": "Tip 3: A <mark>hand plan</mark><br>with your therapist.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Gentle hand exercises,<br>tailored to you."
+    },
+    {
+      "top": "Tip 4: Protect joints<br>with <mark>easy-grip</mark> tools.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Chunky handles can go<br>easier on sore hands."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "New joint swelling lasting weeks"
+        }
+      ],
+      "bottom": "Fever, weight loss, or neck pain<br>with numb hands? See your GP."
+    },
+    {
+      "top": "Move well, Sydney.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn decided the safest plan for rheumatoid arthritis was to rest all month. By week three, the stairs felt taller and Quinn felt weaker.\n\nRA is an immune condition, not wear and tear. Supervised exercise is generally safe and helpful, while staying inactive can cost muscle, fitness and heart health.\n\nWhat often helps: combine aerobic and strength exercise, lower the intensity during flares rather than stopping, build a hand plan with your therapist, use easy-grip tools, and keep up your rheumatology reviews.\n\nGet checked if small joints swell for around six weeks, morning stiffness lasts over an hour, or you notice fever, weight loss, or neck pain with hand numbness.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#rheumatoidarthritis",
+    "#arthritis",
+    "#exerciseismedicine",
+    "#jointhealth",
+    "#strengthtraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka tries resting through rheumatoid arthritis, gets weaker, and learns safe exercise tips from physio Kay.",
+  "story": {
+    "headline": "RA and exercise:<br>friends, not foes",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-24",
+  "scheduled_time": "18:00",
+  "created": "2027-01-24-2",
+  "status": "approved",
+  "review_warnings": []
+}

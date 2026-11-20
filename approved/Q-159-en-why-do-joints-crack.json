@@ -1,0 +1,202 @@
+{
+  "id": "Q-159-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 159,
+  "service": "physio",
+  "topic": "Why do joints crack?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/why-joints-crack-clicking-popping/",
+  "slides": [
+    {
+      "top": "Quinn's knees:<br>a full <em>drum kit</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "surprised",
+          "shout": "CRACK! POP!"
+        }
+      ],
+      "bottom": "Every squat, a solo."
+    },
+    {
+      "top": "Quinn's knuckles:<br>the <em>encore</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "wink",
+          "say": "Ahh, so satisfying"
+        }
+      ],
+      "bottom": "The family covered their ears."
+    },
+    {
+      "top": "Then someone said:<br>'that causes <em>arthritis</em>!'",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "worried",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Cue a week of silent worry."
+    },
+    {
+      "top": "Quinn asked Kay,<br>very quietly.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Are my joints wearing out?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay laughed (kindly)."
+    },
+    {
+      "top": "Most clicks are<br><mark>harmless</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Gas bubbles, tendons, normal friction"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Painless noise doesn't predict<br>damage. Knuckles included."
+    },
+    {
+      "top": "Tip 1: Pain-free clicks?<br><mark>Keep training</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "happy"
+        }
+      ],
+      "bottom": "No need to dodge squats<br>just because they're noisy."
+    },
+    {
+      "top": "Tip 2: Build <mark>strength</mark><br>around noisy joints.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Strong muscles, happy joints."
+    },
+    {
+      "top": "Tip 3: Snapping tendon?<br><mark>Tweak the load</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Small changes to range or<br>volume can calm it."
+    },
+    {
+      "top": "Tip 4: Go <mark>easy</mark> on<br>neck self-cracking.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Skip the forceful twists.<br>And don't chase silence."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Noise plus pain, swelling or locking"
+        }
+      ],
+      "bottom": "Giving way, or a loud pop with<br>an injury? Get checked."
+    },
+    {
+      "top": "Noisy joints welcome.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's knees sound like a drum kit on every squat, and the knuckles do the encore. Then someone said cracking causes arthritis. Cue a week of quiet worry.\n\nGood news: most joint noises are harmless. Gas bubbles, tendons flicking over bone and normal friction can all make sounds, and painless noise doesn't predict damage. Knuckle cracking included.\n\nWhat often helps: keep training if clicky knees are pain-free, build strength around noisy joints, tweak the load if a tendon keeps snapping, and go easy on forceful neck self-cracking. No need to chase silence.\n\nNoise that comes with pain, swelling, locking or giving way, or a loud pop during an injury, is worth getting checked.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#jointhealth",
+    "#crackingknuckles",
+    "#kneehealth",
+    "#mythbusting",
+    "#strengthtraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka worries about cracking knees and knuckles, and physio Kay explains why most joint noises are harmless, with four tips.",
+  "story": {
+    "headline": "Clicky, poppy,<br>crackly joints?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "surprised"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-06",
+  "scheduled_time": "09:00",
+  "created": "2027-02-06-1",
+  "status": "approved",
+  "review_warnings": []
+}

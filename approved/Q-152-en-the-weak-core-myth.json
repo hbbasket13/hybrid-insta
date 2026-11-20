@@ -1,0 +1,228 @@
+{
+  "id": "Q-152-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 152,
+  "service": "physio",
+  "topic": "The weak core myth",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/weak-core-myth-back-pain/",
+  "slides": [
+    {
+      "top": "Quinn's new plan:<br>a <em>10-minute</em> plank.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "determined",
+          "y": 752,
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Minute two: regret."
+    },
+    {
+      "top": "Plus bracing all day.<br><em>Every</em> step.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined",
+          "say": "Core: ON. Always.",
+          "fx": [
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "Walking like a nervous robot."
+    },
+    {
+      "top": "The back still ached.<br><em>Rude</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "All that clenching, no prize."
+    },
+    {
+      "top": "Quinn asked Kay<br>what went wrong.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Isn't my weak core the problem?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had some news."
+    },
+    {
+      "top": "Core-only training isn't<br>a <mark>magic key</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "General exercise works about as well"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Spines are sturdy, not fragile."
+    },
+    {
+      "top": "Tip 1: Pick exercise<br>you'll <mark>keep doing</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Walk, swim, lift, dance —<br>and progress it bit by bit."
+    },
+    {
+      "top": "Tip 2: Trunk work hides<br>in <mark>squats and carries</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Deadlifts and farmer's carries<br>train it too."
+    },
+    {
+      "top": "Tip 3: Relax. No need to<br><mark>brace</mark> all day.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Everyday moves don't need<br>a clenched belly."
+    },
+    {
+      "top": "Tip 4: Sleep and stress<br><mark>count</mark> too.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "So does staying active overall."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Leg pain, numbness or weakness"
+        }
+      ],
+      "bottom": "Those deserve a proper<br>assessment."
+    },
+    {
+      "top": "Planks: now optional.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn started a 10-minute plank plan and braced the belly all day long. The back still ached. Rude.\n\nHere's the twist: back pain usually isn't caused by a 'weak core'. Studies suggest dedicated core programs work about as well as general exercise, and your spine is sturdier than it gets credit for.\n\nWhat often helps: choose progressive exercise you'll actually keep doing, let squats, deadlifts and loaded carries train your trunk, and skip constant bracing in daily life. Sleep, stress and overall activity matter too. Planks are welcome if you enjoy them.\n\nBack pain with leg pain, numbness or weakness is worth a proper assessment.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#backpain",
+    "#coretraining",
+    "#lowbackpain",
+    "#exerciseismedicine",
+    "#strengthtraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka over-planks and braces all day, then physio Kay explains the weak core myth with four practical tips.",
+  "story": {
+    "headline": "Is a weak core<br>really to blame?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "props": [
+        "mat"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-02",
+  "scheduled_time": "18:00",
+  "created": "2027-02-02-2",
+  "status": "approved",
+  "review_warnings": []
+}

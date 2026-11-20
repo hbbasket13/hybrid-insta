@@ -1,0 +1,217 @@
+{
+  "id": "Q-137-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 137,
+  "service": "physio",
+  "topic": "Hip pinch in young gym-goers",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/hip-impingement-fai-gym/",
+  "slides": [
+    {
+      "top": "Quinn just discovered<br><em>leg day</em>.",
+      "props": [
+        "dumbbell@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Deeper is always better!"
+        }
+      ],
+      "bottom": "Deepest squats in the gym."
+    },
+    {
+      "top": "Bottom of the squat:<br>a <em>pinch</em> in the hip.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "Front of the hip. Every rep."
+    },
+    {
+      "top": "Then Quinn googled it.<br><em>Big mistake</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "One scan word. Full panic."
+    },
+    {
+      "top": "Quinn rushed to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is my hip ruined?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay stayed calm."
+    },
+    {
+      "top": "It's often <mark>shape + load</mark>,<br>not damage.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Many hips like this feel fine"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It usually responds well<br>to rehab."
+    },
+    {
+      "top": "Tip 1: <mark>Tweak</mark> the<br>squat for now.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "A bit shallower, a bit wider"
+        }
+      ],
+      "bottom": "Less depth, wider stance,<br>fewer long sits."
+    },
+    {
+      "top": "Tip 2: Build <mark>glutes</mark>,<br>deep hip and trunk.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Strong support muscles can<br>help share the load."
+    },
+    {
+      "top": "Tip 3: Bring depth<br>back in <mark>stages</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "A little deeper, as long<br>as it stays comfy."
+    },
+    {
+      "top": "Tip 4: <mark>Track</mark> your load.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "book"
+        }
+      ],
+      "bottom": "Expect 3+ months.<br>Steady beats speedy."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Catching or locking that persists"
+        }
+      ],
+      "bottom": "Still locking after rehab?<br>Time for a further review."
+    },
+    {
+      "top": "Leg day, the smart way.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn discovered leg day, went for the deepest squats in the gym, and got a pinch at the front of the hip. Then came the googling, and the panic.\n\nHip pinch in young gym-goers is often a mix of hip shape and load, not damage. Plenty of people with this hip shape have no pain at all, and it usually responds to rehab.\n\nWhat often helps: adjust squat depth, stance and long sitting for now, strengthen your glutes, deep hip and trunk, bring depth back in stages, and track your training load. Expect three months or more.\n\nIf catching or locking persists after proper rehab, a further review is worth it.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hippain",
+    "#hipimpingement",
+    "#legday",
+    "#squats",
+    "#gymlife",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#strengthtraining"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka feels a hip pinch during deep squats and learns from physio Kay how to adjust and rebuild training.",
+  "story": {
+    "headline": "Hip pinch at the<br>bottom of a squat?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-26",
+  "scheduled_time": "09:00",
+  "created": "2027-01-26-1",
+  "status": "approved",
+  "review_warnings": []
+}

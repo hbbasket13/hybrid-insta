@@ -1,0 +1,218 @@
+{
+  "id": "Q-133-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 133,
+  "service": "physio",
+  "topic": "A finger that clicks or locks",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/trigger-finger-explained/",
+  "slides": [
+    {
+      "top": "Quinn's finger learned<br>a new <em>trick</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "shout": "*CLICK*"
+        }
+      ],
+      "bottom": "Every text. Every time."
+    },
+    {
+      "top": "Mornings: stuck<br><em>bent</em>, like a hook.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Quinn had to coax it straight."
+    },
+    {
+      "top": "Quinn's idea: snap it<br>through on <em>purpose</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "think": "Practice makes perfect?"
+        }
+      ],
+      "bottom": "Please don't, Quinn."
+    },
+    {
+      "top": "Quinn showed Kay<br>the trick.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Is this arthritis?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had seen it before."
+    },
+    {
+      "top": "The tendon <mark>catches</mark><br>in its tunnel.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "An irritated tendon in a snug pulley"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Common over 40.<br>It isn't arthritis."
+    },
+    {
+      "top": "Tip 1: Ease off<br><mark>tight gripping</mark>.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Spread out heavy carrying,<br>tool use and tight grips."
+    },
+    {
+      "top": "Tip 2: A <mark>night splint</mark><br>keeps it straight.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Give splinting several weeks<br>before judging it."
+    },
+    {
+      "top": "Tip 3: Move gently,<br><mark>don't force</mark> the click.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Easy range, within comfort."
+    },
+    {
+      "top": "Tip 4: Have <mark>diabetes</mark>?<br>Tell your GP.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "think": "Note for my GP…"
+        }
+      ],
+      "bottom": "The two can be linked, so<br>it's useful for them to know."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Clicking or locking keeps going"
+        }
+      ],
+      "bottom": "Finger stuck bent and won't<br>straighten? Get it checked."
+    },
+    {
+      "top": "No more surprise clicks.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's finger started clicking with every text, and some mornings it was stuck bent like a hook. Quinn's plan was to keep snapping it through. Not a great plan.\n\nA finger that clicks or locks often comes from an irritated tendon catching in its pulley. It's common over 40 and it isn't arthritis.\n\nWhat often helps: cut back repetitive or tight gripping, wear a night splint that keeps the finger straight, move it gently without forcing the click, and give splinting several weeks. If you have diabetes, let your GP know.\n\nGet it checked if the locking keeps happening or the finger gets stuck bent.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#triggerfinger",
+    "#fingerpain",
+    "#handpain",
+    "#handhealth",
+    "#handtherapy",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's finger keeps clicking and locking, and physio Kay explains why and shares gentle tips.",
+  "story": {
+    "headline": "Finger clicking<br>or locking?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-24",
+  "scheduled_time": "09:00",
+  "created": "2027-01-24-1",
+  "status": "approved",
+  "review_warnings": []
+}

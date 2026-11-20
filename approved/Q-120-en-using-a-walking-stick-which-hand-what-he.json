@@ -1,0 +1,222 @@
+{
+  "id": "Q-120-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 120,
+  "service": "physio",
+  "topic": "Using a walking stick: which hand, what height",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/walking-stick-cane-how-to-use/",
+  "slides": [
+    {
+      "top": "Quinn borrowed<br>a <em>walking stick</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "proud",
+          "say": "I feel like a wizard."
+        }
+      ],
+      "bottom": "Sore right knee, new accessory."
+    },
+    {
+      "top": "Same side as the<br>sore leg. <em>Obviously</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Walking felt… weirder."
+    },
+    {
+      "top": "And the stick was<br>set <em>very</em> tall.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "blank",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "More ski pole than stick."
+    },
+    {
+      "top": "Quinn hobbled<br>over to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Am I doing this wrong?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay smiled. Very common."
+    },
+    {
+      "top": "Use the <mark>opposite</mark> hand.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Stick goes away from the sore leg"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "That leverage takes over some<br>of the hip muscles' work."
+    },
+    {
+      "top": "Tip 1: Stick moves<br>with the <mark>sore leg</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Opposite hand, same step<br>as the sore leg."
+    },
+    {
+      "top": "Tip 2: Check the<br><mark>height</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "crouch",
+          "face": "neutral",
+          "say": "Handle at your wrist crease"
+        }
+      ],
+      "bottom": "Arms by your side, a slight<br>bend in the elbow."
+    },
+    {
+      "top": "Tip 3: Stairs: up with<br>the <mark>good</mark> leg.",
+      "props": [
+        "stairs@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Down with the sore leg and<br>stick. Use the rail too."
+    },
+    {
+      "top": "Tip 4: Look after<br>the <mark>tip</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "think": "When did I last check that?"
+        }
+      ],
+      "bottom": "Worn rubber tips and grips<br>slip. Swap them out early."
+    },
+    {
+      "top": "Get it checked if…",
+      "props": [
+        "chair@300"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Leg giving way or new numbness"
+        }
+      ],
+      "bottom": "A fall with a head knock?<br>Get assessed promptly."
+    },
+    {
+      "top": "Walk on, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn borrowed a walking stick for a sore right knee and held it on the same side, set ski-pole tall.\n\nA stick usually works best in the hand opposite the sore leg. That gives leverage that takes over some of the hip muscles' work.\n\nWhat often helps: moving the stick together with the sore leg, setting the handle at wrist-crease height with a slight elbow bend, going up stairs with the good leg first and down with the sore leg and stick, using the rail, and replacing worn tips and grips. If balance is a real problem, a wheeled frame may suit better.\n\nA leg giving way, new numbness or weakness, a sudden decline, or a fall with a head knock needs prompt assessment.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#walkingstick",
+    "#walkingaid",
+    "#kneepain",
+    "#hippain",
+    "#healthyageing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka uses a walking stick on the wrong side and too tall, and physio Kay shows the right hand, height and stair technique.",
+  "story": {
+    "headline": "Using a walking<br>stick?",
+    "body": "Which hand, what height — new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-17",
+  "scheduled_time": "18:00",
+  "created": "2027-01-17-2",
+  "status": "approved",
+  "review_warnings": []
+}

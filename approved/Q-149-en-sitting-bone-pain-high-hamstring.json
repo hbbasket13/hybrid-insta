@@ -1,0 +1,228 @@
+{
+  "id": "Q-149-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 149,
+  "service": "physio",
+  "topic": "Sitting-bone pain (high hamstring)",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/proximal-hamstring-tendinopathy-sitting-bone-pain/",
+  "slides": [
+    {
+      "top": "Quinn's road trip.<br>Hour three: <em>the seat</em>.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "sore",
+          "fx": [
+            "pain_bum"
+          ]
+        }
+      ],
+      "bottom": "Deep ache, right under the bum."
+    },
+    {
+      "top": "Weekend hill run.<br><em>Same</em> spot.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sore",
+          "fx": [
+            "pain_bum",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Uphill made it louder."
+    },
+    {
+      "top": "Quinn's plan:<br>stretch it <em>harder</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ],
+          "think": "Just stretch more!"
+        }
+      ],
+      "bottom": "It got crankier. Rude."
+    },
+    {
+      "top": "Quinn asked Kay why.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "Stretching made it worse?!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: it's not about tightness."
+    },
+    {
+      "top": "It's an <mark>overloaded</mark><br>hamstring tendon.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Stretching can squash it"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It needs strength, not<br>more stretching."
+    },
+    {
+      "top": "Tip 1: Cushion the<br><mark>sitting</mark> for now.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A cushion or wedge for a few<br>weeks may ease pressure."
+    },
+    {
+      "top": "Tip 2: Gentle <mark>holds</mark><br>to calm it.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Steady muscle holds can help<br>settle the pain."
+    },
+    {
+      "top": "Tip 3: Build strength<br><mark>step by step</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Bridges, curls, then Romanian<br>deadlifts, as tolerated."
+    },
+    {
+      "top": "Tip 4: Hills and speed<br>come <mark>last</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Expect around 3–6 months.<br>Slow and steady."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A sudden pull while sprinting"
+        }
+      ],
+      "bottom": "Or tingling down the leg —<br>get it assessed."
+    },
+    {
+      "top": "Happy sitting, happy Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's road trip came with a deep ache right under the sitting bone. A hill run poked the same spot, and stretching it harder only made it crankier.\n\nThis kind of pain is often an overloaded high hamstring tendon. It's usually about capacity, not tightness, and deep stretches can compress the tendon further.\n\nWhat can help: a cushion or wedge for sitting for a few weeks, gentle isometric holds to calm it, then progressive strength such as bridges, hamstring curls and Romanian deadlifts. Hills and speed come last, and 3–6 months is a common timeframe.\n\nGet it assessed after a sudden pull while sprinting, or if you notice tingling down the leg.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hamstring",
+    "#hamstringtendinopathy",
+    "#buttpain",
+    "#runningpain",
+    "#runner",
+    "#strengthtraining",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets sitting-bone pain on a road trip and learns cushioning, isometric and strength tips from physio Kay.",
+  "story": {
+    "headline": "Pain under your<br>sitting bone?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "sore",
+          "fx": [
+            "pain_bum"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-01",
+  "scheduled_time": "09:00",
+  "created": "2027-02-01-1",
+  "status": "approved",
+  "review_warnings": []
+}

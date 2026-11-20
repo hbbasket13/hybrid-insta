@@ -1,0 +1,223 @@
+{
+  "id": "Q-117-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 117,
+  "service": "physio",
+  "topic": "Caffeine and exercise",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/caffeine-exercise-performance/",
+  "slides": [
+    {
+      "top": "Quinn's pre-gym plan:<br><em>coffee</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "proud",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Then more coffee."
+    },
+    {
+      "top": "Cup four. Quinn can<br>now <em>hear colours</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "surprised",
+          "fx": [
+            "motion",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Heart racing. Paws shaky."
+    },
+    {
+      "top": "11pm.<br>Still <em>buzzing</em>.",
+      "props": [
+        "bed",
+        "moon"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank"
+        }
+      ],
+      "bottom": "The ceiling was fascinating."
+    },
+    {
+      "top": "Next day, Quinn<br>asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sleepy",
+          "say": "Does caffeine even help workouts?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay gave the honest answer."
+    },
+    {
+      "top": "Real, but <mark>modest</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Mostly, effort just feels easier"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "More isn't better. Jitters<br>don't lift extra weight."
+    },
+    {
+      "top": "Tip 1: Use it when<br>it <mark>matters</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "A small edge for a big<br>session, not every session."
+    },
+    {
+      "top": "Tip 2: Mind the<br><mark>clock</mark>.",
+      "props": [
+        "clock@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "A coffee about 9 hours<br>before bed protects sleep."
+    },
+    {
+      "top": "Tip 3: Read the<br><mark>label</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ],
+          "think": "How much is in this one?"
+        }
+      ],
+      "bottom": "Pre-workouts can pack a lot.<br>Adults: about 400 mg a day."
+    },
+    {
+      "top": "Tip 4: Take the odd<br><mark>caffeine break</mark>.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "A break can bring back the<br>kick — and better sleep."
+    },
+    {
+      "top": "Talk to your GP if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Palpitations, tremor, anxiety or poor sleep"
+        }
+      ],
+      "bottom": "Heart rhythm or blood pressure<br>issues? Ask your GP first."
+    },
+    {
+      "top": "Sip smart, train well.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's pre-gym plan was coffee, then more coffee. By cup four, Quinn was buzzing until 11pm.\n\nCaffeine can give a real but modest boost, mostly by making effort feel a bit easier. More is not better, and dropping off quickly doesn't mean your sleep wasn't affected.\n\nWhat often helps: saving it for sessions where a small edge matters, having it early enough to protect sleep (roughly nine hours before bed for a coffee-sized dose), checking pre-workout labels, staying within general adult guidance of about 400 mg a day, and taking the odd break so it keeps its kick.\n\nPalpitations, tremor, anxiety or poor sleep are signs to cut back. If you have heart rhythm or blood pressure concerns, talk to your GP first.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#caffeine",
+    "#coffee",
+    "#gymlife",
+    "#workouttips",
+    "#sleephealth",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has too much coffee before the gym and learns from physio Kay how to use caffeine sensibly around exercise and sleep.",
+  "story": {
+    "headline": "Coffee before<br>the gym?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "props": [
+        "sun"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-16",
+  "scheduled_time": "09:00",
+  "created": "2027-01-16-1",
+  "status": "approved",
+  "review_warnings": []
+}

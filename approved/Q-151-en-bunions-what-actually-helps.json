@@ -1,0 +1,225 @@
+{
+  "id": "Q-151-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 151,
+  "service": "physio",
+  "topic": "Bunions: what actually helps",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/bunion-treatment-without-surgery/",
+  "slides": [
+    {
+      "top": "Quinn bought <em>gorgeous</em><br>pointy shoes.",
+      "props": [
+        "shoe@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Fashion first!"
+        }
+      ],
+      "bottom": "The big toe disagreed."
+    },
+    {
+      "top": "By lunch, the big toe<br>was <em>shouting</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "The bump: old. The ache: new."
+    },
+    {
+      "top": "Quinn searched<br>'bunion <em>emergency</em>'.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Seven tabs. Zero calm."
+    },
+    {
+      "top": "Quinn showed Kay<br>the famous bump.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Is it a growth? Is it getting worse?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a calmer take."
+    },
+    {
+      "top": "A bunion is an <mark>alignment</mark><br>change, not a growth.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Genes play the biggest part"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Size often doesn't match pain."
+    },
+    {
+      "top": "Tip 1: Shoes with a<br><mark>roomy toe box</mark>.",
+      "props": [
+        "shoe@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Wide, deep fronts and<br>modest heels."
+    },
+    {
+      "top": "Tip 2: Spacers or pads<br>for <mark>comfort</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Comfort helpers — they won't<br>reshape the toe."
+    },
+    {
+      "top": "Tip 3: Strengthen toes,<br>arch and <mark>calves</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Calf raises and toe presses<br>can build foot support."
+    },
+    {
+      "top": "Tip 4: Keep moving in<br><mark>comfy</mark> shoes.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Running can often continue<br>in a wide, comfy shoe."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain that changes how you walk"
+        }
+      ],
+      "bottom": "Sore under the other toes?<br>That's worth a look too."
+    },
+    {
+      "top": "Pointy shoes: retired.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought gorgeous pointy shoes, and by lunch the big toe was shouting. Cue a very dramatic search for 'bunion emergency'.\n\nA bunion is a gradual change in how the big toe joint lines up, not a growth. Genes play the biggest part, and the size of the bump often doesn't match how much it hurts.\n\nWhat often helps: shoes with a wide, deep toe box and modest heels, toe spacers or pads for comfort, and strength work for the big toe, arch and calves. Many people can keep running in a comfortable, roomy shoe. Night splints may feel nice, but they won't reshape the toe.\n\nIf foot pain is changing the way you walk, or the toes next door are getting sore, it's worth an assessment.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#bunions",
+    "#footpain",
+    "#halluxvalgus",
+    "#footcare",
+    "#shoes",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's pointy shoes upset a bunion, and physio Kay shares shoe, comfort, strength and activity tips.",
+  "story": {
+    "headline": "Bunion giving you<br>grief?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "shoe@830"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-02",
+  "scheduled_time": "09:00",
+  "created": "2027-02-02-1",
+  "status": "approved",
+  "review_warnings": []
+}

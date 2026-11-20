@@ -1,0 +1,231 @@
+{
+  "id": "Q-147-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 147,
+  "service": "physio",
+  "topic": "Why does my shoulder hurt at night?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/shoulder-pain-at-night/",
+  "slides": [
+    {
+      "top": "3am. Quinn rolls over.<br>The shoulder: <em>NOPE</em>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "surprised",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Wide awake. Again."
+    },
+    {
+      "top": "Other side?<br>The arm <em>drags</em> across.",
+      "props": [
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Also nope."
+    },
+    {
+      "top": "Quinn's plan:<br>a <em>new mattress</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "determined",
+          "item": "phone",
+          "think": "Cloud-like. Pricey. Perfect."
+        }
+      ],
+      "bottom": "Spoiler: still sore at 3am."
+    },
+    {
+      "top": "Then Quinn tried Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sleepy",
+          "say": "Why does it only hurt at night?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: it's mostly position."
+    },
+    {
+      "top": "Lying on it <mark>squeezes</mark><br>cranky tissue.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Cuff or bursa are often involved"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "On the good side, the sore arm<br>can drag forward."
+    },
+    {
+      "top": "Tip 1: Good side +<br>a <mark>pillow hug</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "happy",
+          "fx": [
+            "heart"
+          ]
+        }
+      ],
+      "bottom": "The sore arm rests on the pillow<br>instead of hanging."
+    },
+    {
+      "top": "Tip 2: On your back?<br><mark>Prop</mark> the arm.",
+      "props": [
+        "bed",
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "A pillow under the sore arm<br>can ease the pull."
+    },
+    {
+      "top": "Tip 3: A little <mark>heat</mark><br>before bed.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "A warm pack on the shoulder<br>may help it relax."
+    },
+    {
+      "top": "Tip 4: Daytime strength<br>helps the <mark>nights</mark>.",
+      "props": [
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Building the cuff works on the<br>cause, not just 3am."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Fever or weight loss with it"
+        }
+      ],
+      "bottom": "Constant pain, cancer history,<br>big injury, or chest symptoms."
+    },
+    {
+      "top": "Sweet dreams, shoulder.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "3am: Quinn rolls onto the sore shoulder. Nope. The other side? Also nope. A new mattress didn't help either.\n\nNight shoulder pain is mostly about position. Lying on the sore side compresses irritated tissue, and lying on the good side can let the arm drag forward. The rotator cuff or bursa is often involved.\n\nWhat can help: lie on your good side hugging a pillow, or on your back with the sore arm propped on a pillow, try a little heat before bed, stay off the sore side for now, and keep up daytime strengthening, which works on the cause.\n\nGet it checked if night pain comes with fever, weight loss, constant pain, a cancer history, a big injury or chest symptoms.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#shoulderpain",
+    "#nightpain",
+    "#sleep",
+    "#rotatorcuff",
+    "#sleeppositions",
+    "#shoulderrehab",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka is woken by shoulder pain at 3am and learns sleep position, pillow, heat and strength tips from physio Kay.",
+  "story": {
+    "headline": "Shoulder waking<br>you at 3am?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sleepy"
+        }
+      ],
+      "props": [
+        "bed",
+        "moon@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-31",
+  "scheduled_time": "09:00",
+  "created": "2027-01-31-1",
+  "status": "approved",
+  "review_warnings": []
+}

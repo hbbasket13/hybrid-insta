@@ -1,0 +1,229 @@
+{
+  "id": "Q-121-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 121,
+  "service": "physio",
+  "topic": "Exercising in water",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/hydrotherapy-water-exercise/",
+  "slides": [
+    {
+      "top": "Quinn's knees vs.<br>the <em>footpath</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Every step: a small protest."
+    },
+    {
+      "top": "Even the stairs have<br>an <em>opinion</em>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Gym? The knees said no thanks."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Any exercise my knees won't hate?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay suggested… the pool."
+    },
+    {
+      "top": "Water <mark>takes the weight</mark><br>off sore joints.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Buoyancy means less load"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It also pushes back in every<br>direction — gentle resistance."
+    },
+    {
+      "top": "Quinn's one tiny worry.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "say": "But I swim like a brick."
+        }
+      ],
+      "bottom": "Good news: no swimming needed."
+    },
+    {
+      "top": "Tip 1: Walk, march,<br>squat — <mark>in the water</mark>.",
+      "props": [
+        "sun"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Waist-to-chest depth is<br>a common place to start."
+    },
+    {
+      "top": "Tip 2: Warm water can<br>feel <mark>easier</mark> to move in.",
+      "props": [
+        "sun"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Handy for stiff, achy joints<br>and persistent pain."
+    },
+    {
+      "top": "Tip 3: Check in with<br>your <mark>treating team</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "neutral",
+          "item": "phone"
+        }
+      ],
+      "bottom": "After surgery or injury,<br>they set the timing."
+    },
+    {
+      "top": "Tip 4: Then <mark>graduate</mark><br>to land.",
+      "props": [
+        "mat",
+        "dumbbell@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Land strength work builds<br>bone and tendon capacity."
+    },
+    {
+      "top": "Ask your GP first if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Open wounds, or some heart or skin issues"
+        }
+      ],
+      "bottom": "Not sure the pool suits you?<br>Ask before you dive in."
+    },
+    {
+      "top": "See you poolside.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's knees were grumbling on every footpath and staircase, so Kay suggested something unexpected: the pool.\n\nWater exercise is genuine rehab. Buoyancy takes some of the load off sore joints, so they can often move earlier and more comfortably, while the water gives gentle resistance in every direction.\n\nWhat often helps: walking, marching and squatting in waist-to-chest water (no swimming needed), using warm water for stiff joints, checking timing with your treating team after an injury or surgery, and then building up to land-based strength, which water alone doesn't fully provide.\n\nOpen wounds or some heart or skin conditions? Check with your GP before getting in.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hydrotherapy",
+    "#waterexercise",
+    "#kneepain",
+    "#arthritis",
+    "#poolexercise",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's sore knees lead physio Kay to suggest water exercise, with tips on getting started and moving back to land.",
+  "story": {
+    "headline": "Sore joints?<br>Try the pool.",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "props": [
+        "sun"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-18",
+  "scheduled_time": "09:00",
+  "created": "2027-01-18-1",
+  "status": "approved",
+  "review_warnings": []
+}

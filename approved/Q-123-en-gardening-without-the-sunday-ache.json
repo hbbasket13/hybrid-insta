@@ -1,0 +1,227 @@
+{
+  "id": "Q-123-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 123,
+  "service": "physio",
+  "topic": "Gardening without the Sunday ache",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/gardening-injuries-guide/",
+  "slides": [
+    {
+      "top": "Spring. Quinn bought<br><em>40 seedlings</em>.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "How hard can planting be?"
+        }
+      ],
+      "bottom": "The plan: one day. All of it."
+    },
+    {
+      "top": "Six hours later.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Back: done. Thumbs: also done."
+    },
+    {
+      "top": "Monday morning.<br>Getting up: <em>slow</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Even the shoulders had notes."
+    },
+    {
+      "top": "Quinn told Kay<br>the whole saga.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Did I bend the wrong way?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: probably not the bending."
+    },
+    {
+      "top": "It's mostly <mark>load</mark>,<br>not damage.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Smaller loads beat a perfectly straight back"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "A whole season of jobs<br>squeezed into one day."
+    },
+    {
+      "top": "Tip 1: Swap tasks and<br><mark>pace</mark> the day.",
+      "props": [
+        "clock"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Dig, then prune, then water —<br>with breaks in between."
+    },
+    {
+      "top": "Tip 2: <mark>Kinder</mark> tools.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Ratchet secateurs! Padded handles!"
+        }
+      ],
+      "bottom": "Two hands on the loppers can<br>spare thumbs and wrists."
+    },
+    {
+      "top": "Tip 3: Kneel on a<br><mark>thick pad</mark>.",
+      "props": [
+        "mat",
+        "plant@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Switch between kneeling,<br>a low stool and standing."
+    },
+    {
+      "top": "Tip 4: Sore back? Keep<br><mark>gently moving</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Short walks often beat<br>lying still all day."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Leg pain with numbness or weakness"
+        }
+      ],
+      "bottom": "Bladder changes, fever or<br>night pain? See your GP soon."
+    },
+    {
+      "top": "Happy gardening, Sydney.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought 40 seedlings and planted them all in one day. Monday was slow.\n\nGarden aches in the back, thumbs, wrists, shoulders and knees are usually about load rather than damage: a season's worth of jobs squeezed into one weekend. Making the load smaller tends to matter more than keeping a perfectly straight back.\n\nWhat often helps: rotating tasks and pacing the day, ratchet secateurs, padded handles and two-handed loppers, a thick kneeling pad (switching between kneeling, a stool and standing), keeping gently active with a sore back, and saving big overhead jobs until your shoulders are ready.\n\nGet checked for leg pain with numbness or weakness, bladder or bowel changes, fever, night pain, or a shoulder ache lasting around six weeks.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#gardening",
+    "#gardeninglife",
+    "#backpain",
+    "#springgarden",
+    "#thumbpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes a spring gardening day and learns pacing, tool and kneeling tips from physio Kay.",
+  "story": {
+    "headline": "Garden day =<br>Monday ache?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "plant@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-01-19",
+  "scheduled_time": "09:00",
+  "created": "2027-01-19-1",
+  "status": "approved",
+  "review_warnings": []
+}

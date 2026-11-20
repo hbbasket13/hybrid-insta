@@ -1,0 +1,227 @@
+{
+  "id": "Q-124-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 124,
+  "service": "physio",
+  "topic": "After the marathon",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/marathon-recovery-after-race/",
+  "slides": [
+    {
+      "top": "Quinn finished<br>a <em>marathon</em>!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ],
+          "say": "42.2 km, baby!"
+        }
+      ],
+      "bottom": "Medal on. Legs: questionable."
+    },
+    {
+      "top": "Next morning.<br>Stairs: <em>terrifying</em>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Down the stairs, crab-style."
+    },
+    {
+      "top": "Day 4. Quinn feels<br><em>totally normal</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined",
+          "say": "Speed session tomorrow?"
+        }
+      ],
+      "bottom": "Kay overheard. Kay had thoughts."
+    },
+    {
+      "top": "Kay stepped in.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "say": "But nothing hurts anymore!"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Feeling normal isn't the same<br>as being recovered."
+    },
+    {
+      "top": "Muscles settle first.<br>Tendons and bone <mark>lag</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Soreness fades before tissues catch up"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "So recovery takes longer<br>than it feels."
+    },
+    {
+      "top": "Tip 1: Gentle jogs<br>from about <mark>48 hours</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Often kinder than total rest."
+    },
+    {
+      "top": "Tip 2: Easy means<br><mark>chatty</mark> easy.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "say": "So anyway, about my medal…"
+        }
+      ],
+      "bottom": "Can't hold a conversation?<br>Slow it down."
+    },
+    {
+      "top": "Tip 3: Park the<br><mark>speed work</mark> for now.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Hills and long runs can<br>wait a little longer too."
+    },
+    {
+      "top": "Tip 4: Your body,<br>your <mark>timeline</mark>.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "First marathon, age, niggles —<br>recovery varies a lot."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pinpoint bone pain, or pain when hopping"
+        }
+      ],
+      "bottom": "Swollen, warm calf or short of<br>breath? Get urgent care."
+    },
+    {
+      "top": "Medal still on.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn finished a marathon, crab-walked down the stairs the next day, and by day four was planning a speed session.\n\nRecovery usually takes longer than the soreness suggests. Muscles tend to settle first, while tendons and bone can lag behind, so feeling normal isn't quite the same as being recovered.\n\nWhat often helps: gentle running from about 48 hours rather than total rest, keeping easy runs truly conversational, delaying speed, hills and long runs, and letting your own body set the timeline.\n\nGet assessed for pinpoint bone tenderness, pain on hopping or night pain. A swollen, warm calf or breathlessness (especially after a long flight), or dark tea-coloured urine with severe muscle pain, needs urgent medical care.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#marathon",
+    "#marathonrecovery",
+    "#running",
+    "#sydneyrunners",
+    "#runrecovery",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#sydneycbd",
+    "#chatswood",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#healthtips"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka finishes a marathon, feels fine too soon, and learns a gentle return-to-running plan from physio Kay.",
+  "story": {
+    "headline": "Just ran<br>a marathon?",
+    "body": "4 recovery tips from Quinn",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-01-19",
+  "scheduled_time": "18:00",
+  "created": "2027-01-19-2",
+  "status": "approved",
+  "review_warnings": []
+}
