@@ -1,0 +1,210 @@
+{
+  "id": "Q-183-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 183,
+  "service": "physio",
+  "topic": "Bouldering at the climbing gym",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/bouldering-climbing-injuries-guide/",
+  "slides": [
+    {
+      "top": "Quinn discovered<br><em>bouldering</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "proud",
+          "say": "V3 today. V7 by Friday."
+        }
+      ],
+      "bottom": "Three sessions in. Already<br>a legend (self-declared)."
+    },
+    {
+      "top": "Week 2: fingers felt like<br><em>overcooked</em> noodles.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "And the shoulder joined in."
+    },
+    {
+      "top": "Next morning: no ache.<br>So… climb <em>harder</em>?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "say": "Fingers fine. Send it!",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Hmm. Feeling fine isn't the<br>same as fully recovered."
+    },
+    {
+      "top": "Quinn asked Kay<br>between climbs.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "Why do my fingers hate me?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a pretty good guess."
+    },
+    {
+      "top": "Skill grows <mark>fast</mark>.<br>Finger pulleys? <em>Slow</em>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Fingers adapt slower than skill"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Fingers, shoulders and elbows<br>take most of the strain."
+    },
+    {
+      "top": "Tip 1: Go up grades<br><mark>slowly</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Easy grades. Open hands."
+        }
+      ],
+      "bottom": "Favour open-hand grips over<br>tight crimps."
+    },
+    {
+      "top": "Tip 2: <mark>Warm up</mark> fingers<br>10–15 minutes.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Easy climbs and gentle grip<br>work before the hard stuff."
+    },
+    {
+      "top": "Tip 3: <mark>Limit</mark> max attempts<br>when tired.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "wink",
+          "item": "bottle",
+          "think": "One more go? Nah. Tomorrow."
+        }
+      ],
+      "bottom": "Late-session projects are when<br>fingers often complain."
+    },
+    {
+      "top": "Tip 4: Train <mark>pushing</mark><br>and shoulder control.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "And take rest days between<br>hard sessions."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A pop or sharp pain crimping"
+        }
+      ],
+      "bottom": "Ongoing finger pain gripping,<br>or a night-time shoulder ache."
+    },
+    {
+      "top": "Climb smart.<br>Climb for <em>years</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn discovered bouldering and was a self-declared legend by session three. By week two, the fingers felt like overcooked noodles and the shoulder had joined in.\n\nClimbing injuries tend to gather in the finger pulleys, shoulders and elbows, because fingers adapt more slowly than skill improves. Feeling fine the next morning doesn't always mean fully recovered.\n\nWhat can help: progress grades slowly and favour open-hand grips, warm up the fingers for 10–15 minutes, limit max attempts late in a session, train pushing and shoulder control, and take rest days between hard sessions.\n\nGet it checked if you feel a pop or sharp pain while crimping, finger pain keeps showing up when gripping, or your shoulder aches at night.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#bouldering",
+    "#climbing",
+    "#rockclimbing",
+    "#climbinginjury",
+    "#fingerpain",
+    "#sportsphysio",
+    "#shoulderpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes bouldering, gets sore fingers and shoulder, and learns safer climbing habits from physio Kay.",
+  "story": {
+    "headline": "Bouldering<br>fingers sore?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "proud"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-18",
+  "scheduled_time": "09:00",
+  "created": "2027-02-18-1",
+  "status": "approved",
+  "review_warnings": []
+}

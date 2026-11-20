@@ -1,0 +1,220 @@
+{
+  "id": "Q-202-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 202,
+  "service": "physio",
+  "topic": "Bow legs in adults",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/bow-legs-in-adults-what-exercise-can-change-and-what-it-cant/",
+  "slides": [
+    {
+      "top": "Quinn found an old<br>beach <em>photo</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "surprised",
+          "item": "phone",
+          "think": "Wait… are my legs bowed?"
+        }
+      ],
+      "bottom": "Cue a deep internet dive."
+    },
+    {
+      "top": "Quinn tried <em>stretching</em><br>them straight.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ],
+          "say": "Straighten up, you two!"
+        }
+      ],
+      "bottom": "Day 3: legs still curved."
+    },
+    {
+      "top": "Meanwhile, the knees<br>started to <em>grumble</em>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Long walks felt achy."
+    },
+    {
+      "top": "Quinn visited Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "Can exercise make my legs straight?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay gave an honest answer."
+    },
+    {
+      "top": "Adult bone shape is<br><mark>set</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "But pain, balance and strength can change"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Exercise works on how legs<br>feel and function, not shape."
+    },
+    {
+      "top": "Tip 1: Wake up your<br><mark>side glutes</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy",
+          "y": 752
+        }
+      ],
+      "bottom": "Clamshells and side-lying<br>leg lifts."
+    },
+    {
+      "top": "Tip 2: Strong <mark>thighs</mark>,<br>within comfort.",
+      "props": [
+        "dumbbell@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Quads and hamstrings,<br>built up gradually."
+    },
+    {
+      "top": "Tip 3: Practise<br>one-leg <mark>balance</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "say": "Behold: the flamingo quokka."
+        }
+      ],
+      "bottom": "Start near a wall, then<br>make it trickier."
+    },
+    {
+      "top": "Tip 4: Mind your<br><mark>load</mark> and shoes.",
+      "props": [
+        "shoe@850"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Supportive shoes, and managing<br>weight if needed, can help."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "The bowing changes quickly"
+        }
+      ],
+      "bottom": "One leg much worse, night pain,<br>giving way, or after an injury."
+    },
+    {
+      "top": "Curvy legs, <em>strong</em> legs.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn spotted bowed legs in an old beach photo and spent three days trying to stretch them straight. The legs stayed curved, and the knees started to grumble.\n\nKay gave an honest answer: adult bone shape is set, and stretches can't reshape it. But exercise can work on how the legs feel and function, including pain, balance and strength.\n\nWhat can help: side-glute work like clamshells and side-lying leg lifts, quad and hamstring strength within comfort, progressive one-leg balance, and supportive shoes plus managing load.\n\nGet it checked if the bowing changes quickly, one leg is much worse, there's pain at rest or night, the knee gives way, or bowing appears after an injury.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#bowlegs",
+    "#kneepain",
+    "#kneehealth",
+    "#legstrength",
+    "#balancetraining",
+    "#glutes",
+    "#strengthtraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka notices bowed legs and learns from physio Kay what exercise can and can't change, with glute, strength, balance and footwear tips.",
+  "story": {
+    "headline": "Can exercise<br>straighten legs?",
+    "body": "Quinn's honest answer from Kay",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "surprised",
+          "item": "phone"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-27",
+  "scheduled_time": "18:00",
+  "created": "2027-02-27-2",
+  "status": "approved",
+  "review_warnings": []
+}

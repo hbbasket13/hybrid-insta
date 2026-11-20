@@ -1,0 +1,226 @@
+{
+  "id": "Q-200-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 200,
+  "service": "physio",
+  "topic": "Knees caving in when you squat",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/your-knee-collapses-inward-when-you-squat-heres-what-the-research-says-about-fixing-it/",
+  "slides": [
+    {
+      "top": "Leg day. Quinn filmed<br>a <em>perfect</em> squat.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "proud",
+          "say": "Nailed it."
+        }
+      ],
+      "bottom": "Or so Quinn thought."
+    },
+    {
+      "top": "Replay: knees caving<br>in like <em>shy flowers</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Knock-knock, said the knees."
+    },
+    {
+      "top": "Gym buddy: “Just do<br>more <em>quads</em>!”",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "blank",
+          "think": "Leg extensions… forever?"
+        }
+      ],
+      "bottom": "Quinn wasn't convinced."
+    },
+    {
+      "top": "Quinn showed Kay<br>the video.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Why do my knees cave in?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay looked at the hips."
+    },
+    {
+      "top": "It's often about<br><mark>hip control</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Weak side-hip muscles let the thigh roll in"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Good news: it's trainable,<br>often over about 6 weeks."
+    },
+    {
+      "top": "Tip 1: <mark>Mirror</mark> squats<br>and clamshells.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "determined",
+          "y": 752
+        }
+      ],
+      "bottom": "Relearn the feel of knees<br>tracking over toes."
+    },
+    {
+      "top": "Tip 2: Add <mark>banded</mark><br>side walks.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Plus side-lying leg lifts<br>to build the glutes."
+    },
+    {
+      "top": "Tip 3: Step-ups with<br><mark>knee control</mark>.",
+      "props": [
+        "stairs@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Slow and steady, knee in line<br>with the second toe."
+    },
+    {
+      "top": "Tip 4: Check your<br><mark>ankle mobility</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Stiff ankles can push<br>the knees inward."
+    },
+    {
+      "top": "Tip 5: Film yourself<br><mark>monthly</mark>.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Compare videos to see<br>how your squat changes."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Swelling that lasts over 4 weeks"
+        }
+      ],
+      "bottom": "Giving way, locking, pain after<br>an injury, or rest/night pain."
+    },
+    {
+      "top": "Happy knees,<br>strong hips.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Leg day: Quinn filmed a \"perfect\" squat, then watched the replay — knees caving in like shy flowers. A gym buddy said to just do more quads.\n\nKnees collapsing inward in a squat is often more about hip control: when the side-hip muscles aren't doing enough, the thigh can roll in. It's usually trainable, often over around six weeks.\n\nWhat can help: relearning the pattern with mirror squats and clamshells, progressing to side-lying leg lifts and banded side walks, adding controlled step-ups, checking ankle mobility, and filming your squat monthly.\n\nGet it checked if swelling lasts more than four weeks, the knee gives way or locks, pain follows an injury, or you have pain at rest or at night.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneepain",
+    "#squat",
+    "#squatform",
+    "#kneevalgus",
+    "#glutes",
+    "#hipstrength",
+    "#gymtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka spots knees caving in on a squat video and learns hip-control exercises from physio Kay.",
+  "story": {
+    "headline": "Knees caving in<br>when you squat?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "mat"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-26",
+  "scheduled_time": "18:00",
+  "created": "2027-02-26-2",
+  "status": "approved",
+  "review_warnings": []
+}

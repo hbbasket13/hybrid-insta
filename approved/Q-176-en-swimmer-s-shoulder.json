@@ -1,0 +1,209 @@
+{
+  "id": "Q-176-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 176,
+  "service": "physio",
+  "topic": "Swimmer's shoulder",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/swimmers-shoulder-pain-guide/",
+  "slides": [
+    {
+      "top": "Quinn signed up for<br>an <em>ocean swim</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined",
+          "say": "Paddles on. Laps times three!"
+        }
+      ],
+      "bottom": "Training plan: double it.<br>Then double it again."
+    },
+    {
+      "top": "Week three: the<br>shoulder <em>pinches</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Every stroke. Pinch. Pinch."
+    },
+    {
+      "top": "Quinn's verdict: quit<br>swimming <em>forever</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "think": "Goodbye, goggles.",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "A little dramatic."
+    },
+    {
+      "top": "Kay asked about<br>the training plan.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sore",
+          "say": "My shoulder hates freestyle."
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Quinn's answer: “Lots.”"
+    },
+    {
+      "top": "Often <mark>gradual</mark><br>cuff overload.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Training spikes and a stiff upper back"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Technique and weak outward<br>rotators can add to it."
+    },
+    {
+      "top": "Tip 1: Trim distance,<br><mark>park the paddles</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "think": "Fewer laps. Not zero laps."
+        }
+      ],
+      "bottom": "Keep the volume your<br>shoulder tolerates."
+    },
+    {
+      "top": "Tip 2: Strengthen the<br><mark>outward rotators</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Plus rows and work for<br>the shoulder blade."
+    },
+    {
+      "top": "Tip 3: Free up your<br><mark>upper back</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A stiff mid-back can<br>load the shoulder more."
+    },
+    {
+      "top": "Tip 4: Polish your<br><mark>stroke</mark>, ease back in.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "say": "Coach says: longer reach!"
+        }
+      ],
+      "bottom": "Work with a coach, then<br>build volume gradually."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Night pain that wakes you up"
+        }
+      ],
+      "bottom": "Arm weakness, or no change<br>after several weeks?"
+    },
+    {
+      "top": "See you at<br>the beach.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn signed up for an ocean swim and doubled the training, then doubled it again, paddles and all. By week three the shoulder pinched with every stroke, and Quinn decided to quit swimming forever.\n\nSwimmer's shoulder is often a gradual rotator cuff overload, linked to training spikes, technique faults, a stiff upper back and weak outward rotators. You usually don't need to stop swimming completely.\n\nWhat can help: trimming distance and parking the paddles while keeping tolerable volume, strengthening outward rotators, rows and shoulder-blade muscles, improving upper-back mobility, and refining your stroke with a coach before building volume gradually.\n\nGet it checked if night pain wakes you, pain started suddenly, lifting the arm feels weak, or nothing changes after several weeks.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#swimmersshoulder",
+    "#swimming",
+    "#oceanswim",
+    "#shoulderpain",
+    "#rotatorcuff",
+    "#swimtraining",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overloads a shoulder training for an ocean swim and learns volume, strength, mobility and technique tips from physio Kay.",
+  "story": {
+    "headline": "Shoulder pinching<br>every stroke?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined"
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-14",
+  "scheduled_time": "18:00",
+  "created": "2027-02-14-2",
+  "status": "approved",
+  "review_warnings": []
+}

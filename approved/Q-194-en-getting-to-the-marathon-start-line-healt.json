@@ -1,0 +1,235 @@
+{
+  "id": "Q-194-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 194,
+  "service": "physio",
+  "topic": "Getting to the marathon start line healthy",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/sydney-marathon-training-injuries/",
+  "slides": [
+    {
+      "top": "Quinn signed up<br>for a <em>marathon</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy",
+          "shout": "42.2 km, here I come!"
+        }
+      ],
+      "bottom": "16 weeks to go. Easy, right?"
+    },
+    {
+      "top": "Week 3: distance<br><em>doubled</em>. Why not?",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Enthusiasm: 10/10.<br>Planning: 2/10."
+    },
+    {
+      "top": "Week 5: the shins<br>started <em>complaining</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Plus a grumpy Achilles."
+    },
+    {
+      "top": "Quinn asked Kay for<br>a <em>magic</em> answer.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "New shoes? More stretching?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay looked at the training log."
+    },
+    {
+      "top": "Load rose <mark>faster</mark><br>than tissues adapted.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Bone and tendon need time to catch up"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Many training injuries are<br>fairly predictable."
+    },
+    {
+      "top": "Tip 1: Weekly distance<br>up <mark>10% or less</mark>.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Small steps up,<br>week after week."
+    },
+    {
+      "top": "Tip 2: Every 4th week,<br>go <mark>lighter</mark>.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Three build weeks,<br>then one easier week."
+    },
+    {
+      "top": "Tip 3: Don't raise<br>distance <em>and</em> pace together.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "think": "Long run OR speed. Not both."
+        }
+      ],
+      "bottom": "Change one thing at a time."
+    },
+    {
+      "top": "Tip 4: Strengthen<br><mark>calves and hips</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Twice a week keeps legs<br>ready for the kilometres."
+    },
+    {
+      "top": "Tip 5: Niggle over<br><mark>2 weeks</mark>? Check it.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        }
+      ],
+      "bottom": "Earlier tweaks usually mean<br>smaller changes to training."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "One spot on the bone is very tender"
+        }
+      ],
+      "bottom": "Pain builds during runs, or<br>morning stiffness over 30 min."
+    },
+    {
+      "top": "See you at the<br>start line!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn signed up for a marathon, doubled the weekly distance by week 3, and by week 5 the shins and Achilles were complaining.\n\nCommon marathon-block injuries — shins, kneecap, ITB, Achilles — are often predictable: load rises faster than bone and tendon can adapt. Shoes and stretching usually aren't the main answer.\n\nWhat can help: raise weekly distance by 10% or less, add a lighter week after every three build weeks, avoid increasing distance and intensity together, strengthen calves and hips twice a week, and get any niggle lasting more than two weeks checked.\n\nGet it checked if one spot on the bone is very tender, pain builds during runs, or morning stiffness lasts more than 30 minutes.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#marathon",
+    "#marathontraining",
+    "#running",
+    "#runninginjury",
+    "#shinsplints",
+    "#achilles",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka ramps up marathon training too fast and learns load-planning tips from physio Kay.",
+  "story": {
+    "headline": "Marathon training<br>ramping up?",
+    "body": "5 tips to reach the start line",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-23",
+  "scheduled_time": "18:00",
+  "created": "2027-02-23-2",
+  "status": "approved",
+  "review_warnings": []
+}

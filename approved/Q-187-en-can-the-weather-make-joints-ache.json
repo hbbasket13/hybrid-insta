@@ -1,0 +1,212 @@
+{
+  "id": "Q-187-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 187,
+  "service": "physio",
+  "topic": "Can the weather make joints ache?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/weather-and-joint-pain/",
+  "slides": [
+    {
+      "top": "Meet Quinn: amateur<br><em>weather</em> forecaster.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "proud",
+          "say": "My knee says rain by 3pm."
+        }
+      ],
+      "bottom": "Method: one grumpy knee."
+    },
+    {
+      "top": "Cold morning: the knee<br>sent an <em>official</em> memo.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Subject line: “Ow.”"
+    },
+    {
+      "top": "So Quinn stayed on the<br>couch. All <em>winter</em>.",
+      "props": [
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "sad",
+          "think": "Too cold to move."
+        }
+      ],
+      "bottom": "The knee did not improve."
+    },
+    {
+      "top": "Quinn asked Kay<br>the big question.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Can my joints predict rain?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Kay tried very hard<br>not to laugh."
+    },
+    {
+      "top": "Big studies show only a<br><mark>weak</mark> weather link.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Cold can feel stiffer, though"
+        },
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Winter inactivity, mood and<br>sleep often matter more."
+    },
+    {
+      "top": "Tip 1: Keep <mark>moving</mark><br>all winter.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Indoor walks or a heated pool<br>session both count."
+    },
+    {
+      "top": "Tip 2: <mark>Longer</mark> warm-ups<br>on cold days.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Cold tissues may feel stiffer<br>at first."
+    },
+    {
+      "top": "Tip 3: Dress your<br>joints <mark>warmly</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Layers, leggings, cosy socks.<br>Fashion optional."
+    },
+    {
+      "top": "Tip 4: Look after <mark>sleep</mark>,<br>mood and routine.",
+      "props": [
+        "bed",
+        "moon@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "y": 752,
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "They can shape how your<br>joints feel too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain persists or worsens"
+        }
+      ],
+      "bottom": "Any season — it's worth<br>an assessment."
+    },
+    {
+      "top": "Rain or shine,<br>keep <em>moving</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn has a side gig as a weather forecaster, using one grumpy knee. On cold mornings the knee complained, so Quinn stayed on the couch all winter — and it didn't improve.\n\nLarge studies find only a weak link between weather and joint pain. Memory bias, winter inactivity, mood and sleep often explain much of it, though cold can make tissues feel stiffer.\n\nWhat can help: keep moving through winter with indoor walks or heated-pool sessions, take longer warm-ups on cold days, dress your joints warmly, and look after sleep, mood and routine.\n\nIf pain persists or keeps getting worse, get it assessed — whatever the season.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#jointpain",
+    "#arthritis",
+    "#winterhealth",
+    "#kneepain",
+    "#stiffjoints",
+    "#keepmoving",
+    "#healthyageing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka forecasts rain with an achy knee and learns from physio Kay how weather, activity and sleep affect joint pain.",
+  "story": {
+    "headline": "Can your knee<br>predict rain?",
+    "body": "Quinn's new reel explains",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "proud"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-20",
+  "scheduled_time": "09:00",
+  "created": "2027-02-20-1",
+  "status": "approved",
+  "review_warnings": []
+}

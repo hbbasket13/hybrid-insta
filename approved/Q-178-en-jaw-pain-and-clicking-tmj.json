@@ -1,0 +1,225 @@
+{
+  "id": "Q-178-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 178,
+  "service": "physio",
+  "topic": "Jaw pain and clicking (TMJ)",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/tmj-jaw-pain-physiotherapy/",
+  "slides": [
+    {
+      "top": "Quinn bit into a<br><em>giant</em> burger.",
+      "props": [
+        "table@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "shout": "CLICK!",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "The jaw made a noise.<br>A loud one."
+    },
+    {
+      "top": "Now it clicks when<br>Quinn <em>yawns</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "sleepy",
+          "say": "*yawn* …click."
+        }
+      ],
+      "bottom": "And aches by the afternoon."
+    },
+    {
+      "top": "Plus headaches after<br>long <em>laptop</em> days.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Teeth clenched. Shoulders up."
+    },
+    {
+      "top": "Quinn showed Kay<br>the click.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "say": "My jaw has a soundtrack."
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the jaw<br>and the neck."
+    },
+    {
+      "top": "Often <mark>overworked</mark><br>muscles or the joint disc.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Clenching at night or at screens adds up"
+        },
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "The neck is often part<br>of the story, too."
+    },
+    {
+      "top": "Tip 1: <mark>Teeth apart</mark>,<br>tongue on the palate.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "say": "Lips together, teeth apart."
+        }
+      ],
+      "bottom": "That's the jaw's relaxed<br>resting spot."
+    },
+    {
+      "top": "Tip 2: Catch daytime<br><mark>clenching</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "determined"
+        }
+      ],
+      "bottom": "A sticky note or phone<br>reminder can help."
+    },
+    {
+      "top": "Tip 3: Gentle, controlled<br><mark>opening</mark> exercises.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "neutral"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Paired with hands-on care<br>from your physio."
+    },
+    {
+      "top": "Tip 4: Sleep, stress,<br>and your <mark>dentist</mark>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "y": 752,
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Team up with your dentist<br>on night-time grinding."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Jaw locking, or opening less and less"
+        }
+      ],
+      "bottom": "Swelling, fever, a knock,<br>or unexplained tooth pain?"
+    },
+    {
+      "top": "Relax that jaw.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bit into a giant burger and the jaw went CLICK. Now it clicks on every yawn, aches by the afternoon, and long laptop days bring headaches.\n\nJaw pain, clicking and tension headaches often come from overworked jaw muscles or the joint disc, usually with the neck involved. Clenching or grinding at night or during screen work can amplify it. Painless clicking on its own doesn't always need treatment.\n\nWhat can help: a relaxed resting position (teeth apart, tongue on the palate), catching daytime clenching, gentle controlled opening exercises with hands-on care, and looking at sleep, stress and screen habits, working with your dentist.\n\nGet it checked if the jaw locks, opening keeps reducing, or there's trauma, swelling, fever or unexplained tooth pain.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#tmj",
+    "#jawpain",
+    "#tmjrelief",
+    "#jawclicking",
+    "#teethgrinding",
+    "#tensionheadache",
+    "#neckpain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka develops a clicking, aching jaw and learns resting position, clenching, exercise and sleep tips from physio Kay.",
+  "story": {
+    "headline": "Jaw clicking<br>and aching?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised"
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-15",
+  "scheduled_time": "18:00",
+  "created": "2027-02-15-2",
+  "status": "approved",
+  "review_warnings": []
+}

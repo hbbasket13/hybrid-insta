@@ -1,0 +1,240 @@
+{
+  "id": "Q-195-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 195,
+  "service": "physio",
+  "topic": "Hyrox training without the injuries",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/hyrox-training-injuries-physio-guide/",
+  "slides": [
+    {
+      "top": "Quinn discovered<br><em>Hyrox</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Running AND sled pushes? Yes!"
+        }
+      ],
+      "bottom": "8 runs, 8 stations, 1 quokka."
+    },
+    {
+      "top": "Training plan: everything,<br><em>every day</em>.",
+      "props": [
+        "boxes@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Burpees, lunges, wall balls…"
+    },
+    {
+      "top": "By station 6, form<br>went <em>missing</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sleepy",
+          "fx": [
+            "sweat",
+            "gloom"
+          ],
+          "think": "Where did my technique go?"
+        }
+      ],
+      "bottom": "Then knees and back filed<br>a complaint."
+    },
+    {
+      "top": "Quinn wobbled in<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ],
+          "say": "Is Hyrox just bad for knees?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a different answer."
+    },
+    {
+      "top": "It's <mark>unprepared load</mark>,<br>not Hyrox itself.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Fatigue slowly wears down technique"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Knees, low back, Achilles and<br>shoulders feel it most."
+    },
+    {
+      "top": "Tip 1: Build running<br><mark>gradually</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Half the race is running —<br>grow the volume slowly."
+    },
+    {
+      "top": "Tip 2: Practise stations<br><mark>tired</mark>, in stages.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "A few stations at a time,<br>then link more together."
+    },
+    {
+      "top": "Tip 3: Strength-train<br>the <mark>race positions</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Lunges, carries, pushing —<br>loaded with good form."
+    },
+    {
+      "top": "Tip 4: Sort niggles<br><mark>early</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried",
+          "say": "Little knee ache… noted!"
+        }
+      ],
+      "bottom": "Small issues are easier<br>to settle than big ones."
+    },
+    {
+      "top": "Tip 5: <mark>Taper</mark> 7–10 days<br>before race day.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Less volume so you arrive<br>fresh, not frazzled."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sharp pain on just one side"
+        }
+      ],
+      "bottom": "Night pain, or pain lasting<br>more than 4–5 days."
+    },
+    {
+      "top": "Race day, here<br>Quinn comes.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn discovered Hyrox and trained everything, every day. By station 6 the technique had gone missing, and the knees and back filed a complaint.\n\nHyrox mixes running with tiring loaded stations, and fatigue can wear down technique — so knees, low back, Achilles, shoulders and hip flexors take extra strain. Hyrox itself isn't the problem; unprepared load often is.\n\nWhat can help: build running volume gradually, rehearse stations under fatigue in stages, strength-train the race positions, deal with niggles early, and taper for 7–10 days before race day.\n\nGet it checked if you have sharp pain on one side, pain at night, or pain lasting more than 4–5 days.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hyrox",
+    "#hyroxtraining",
+    "#functionalfitness",
+    "#fitnessrace",
+    "#trainingtips",
+    "#sportsinjury",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes Hyrox training and learns from physio Kay how to build up load and technique safely.",
+  "story": {
+    "headline": "Training for<br>Hyrox?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-24",
+  "scheduled_time": "09:00",
+  "created": "2027-02-24-1",
+  "status": "approved",
+  "review_warnings": []
+}

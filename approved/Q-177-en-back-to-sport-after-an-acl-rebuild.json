@@ -1,0 +1,219 @@
+{
+  "id": "Q-177-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 177,
+  "service": "physio",
+  "topic": "Back to sport after an ACL rebuild",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/return-to-sport-after-acl-surgery-tests/",
+  "slides": [
+    {
+      "top": "Nine months after<br>Quinn's <em>knee rebuild</em>…",
+      "props": [
+        "calendar@200"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "flip": true,
+          "say": "Game day is THIS Saturday!"
+        }
+      ],
+      "bottom": "The calendar says go."
+    },
+    {
+      "top": "“I'm cleared. So I'm<br><em>ready</em>, right?”",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Quinn's knee: “Er…”"
+    },
+    {
+      "top": "One hop test<br>later…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "surprised",
+          "fx": [
+            "sweat",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Landing: wobbly.<br>Ego: wobblier."
+    },
+    {
+      "top": "Kay pulled out<br>the clipboard.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "But the calendar said ready!"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: calendars don't<br>play sport."
+    },
+    {
+      "top": "<mark>Readiness</mark>, not<br>the calendar.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Re-injury risk is highest in year one"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Clearance is a step —<br>not the finish line."
+    },
+    {
+      "top": "Tip 1: Respect a <mark>minimum</mark><br>time frame.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Often around 9 months, as<br>guided by your team."
+    },
+    {
+      "top": "Tip 2: Quad strength near<br><mark>90%</mark> of the other side.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Measured, not guessed."
+    },
+    {
+      "top": "Tip 3: <mark>Hop tests</mark><br>side vs side.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Aim for close to<br>90% symmetry."
+    },
+    {
+      "top": "Tip 4: Control landings<br>when <mark>tired</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "And check you feel<br>mentally ready, too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Swelling after hard sessions"
+        }
+      ],
+      "bottom": "Or the knee feels like<br>it's giving way."
+    },
+    {
+      "top": "Ready when the<br>tests say so.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Nine months after a knee reconstruction, Quinn circled game day on the calendar. Cleared, so ready, right? One wobbly hop test later, Kay pulled out the clipboard.\n\nReturning to sport after an ACL reconstruction should depend on objective readiness, not just the calendar or clearance alone. Re-injury risk tends to be highest in the first year back.\n\nWhat can help: respecting a minimum time frame (often around 9 months, as guided by your team), building quad strength to near 90% of the other side, hop tests close to 90% symmetry, good landing control when tired, and checking you feel mentally ready.\n\nGet it checked if the knee swells after hard sessions or feels like it's giving way.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#aclrehab",
+    "#aclrecovery",
+    "#acl",
+    "#kneerehab",
+    "#returntosport",
+    "#sportsinjury",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka wants to return to sport after an ACL rebuild and learns about time, strength, hop tests and landing control from physio Kay.",
+  "story": {
+    "headline": "Back to sport<br>after an ACL?",
+    "body": "Readiness, not the calendar",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "calendar@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-15",
+  "scheduled_time": "09:00",
+  "created": "2027-02-15-1",
+  "status": "approved",
+  "review_warnings": []
+}

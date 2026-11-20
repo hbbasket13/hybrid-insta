@@ -1,0 +1,215 @@
+{
+  "id": "Q-210-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 210,
+  "service": "physio",
+  "topic": "Golf and lower back pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/golf-lower-back-pain-guide/",
+  "slides": [
+    {
+      "top": "Quinn's first golf trip<br>in <em>a year</em>.",
+      "props": [
+        "hill",
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "proud",
+          "say": "The fairway is calling!"
+        }
+      ],
+      "bottom": "36 holes in two days. Easy?"
+    },
+    {
+      "top": "Day 2, hole 14:<br>the back said <em>no</em>.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "Swing… twist… ouch."
+    },
+    {
+      "top": "Quinn considered<br><em>quitting golf</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "say": "Goodbye, clubs. It was fun."
+        }
+      ],
+      "bottom": "Dramatic? Slightly."
+    },
+    {
+      "top": "Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Do I have to give up golf?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Kay: usually not."
+    },
+    {
+      "top": "Twist + side-bend +<br>a <mark>sudden jump</mark> in rounds.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Lots of golf after a break adds up"
+        },
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised"
+        }
+      ],
+      "bottom": "Conditioning and pacing<br>often help a lot."
+    },
+    {
+      "top": "Tip 1: Loosen up<br>your <mark>hips</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "More hip turn can mean less<br>twist through the back."
+    },
+    {
+      "top": "Tip 2: Train trunk<br><mark>rotation</mark> control.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Rotation and anti-rotation<br>work, like band holds."
+    },
+    {
+      "top": "Tip 3: A 10-minute<br><mark>warm-up</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Start gentle, build up<br>to full swings."
+    },
+    {
+      "top": "Tip 4: Build rounds<br><mark>gradually</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "say": "9 holes first, then 18."
+        }
+      ],
+      "bottom": "And ask a golf pro about<br>side-bend in your swing."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain or numbness down the leg"
+        }
+      ],
+      "bottom": "Leg weakness, marked night pain,<br>or sudden severe pain."
+    },
+    {
+      "top": "Fore! But <em>gently</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first golf trip in a year meant 36 holes in two days. On hole 14 the back said no, and Quinn briefly considered quitting golf.\n\nKay explained that golf back pain often comes from repeated twisting and side-bending under load, especially after a sudden jump in rounds following a break. You usually don't need to stop golf completely.\n\nWhat can help: improving hip rotation, training trunk rotation and anti-rotation control, a 10-minute progressive warm-up, building rounds gradually, and asking a golf pro about side-bend in your swing.\n\nGet it checked if there's pain or numbness down the leg, leg weakness, marked night pain, or sudden severe pain, especially in older golfers.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#golf",
+    "#golfback",
+    "#lowerbackpain",
+    "#backpain",
+    "#golffitness",
+    "#golfer",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka hurts their back on a golf trip and learns from physio Kay about hip mobility, trunk control, warm-ups and building rounds gradually.",
+  "story": {
+    "headline": "Golf trip,<br>sore back?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "props": [
+        "hill"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-03",
+  "scheduled_time": "18:00",
+  "created": "2027-03-03-2",
+  "status": "approved",
+  "review_warnings": []
+}

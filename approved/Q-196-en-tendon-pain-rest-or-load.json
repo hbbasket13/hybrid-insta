@@ -1,0 +1,233 @@
+{
+  "id": "Q-196-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 196,
+  "service": "physio",
+  "topic": "Tendon pain: rest or load?",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/tendinopathy-continuum-model-rest-or-load/",
+  "slides": [
+    {
+      "top": "Quinn's Achilles hurt.<br>Plan: <em>never move</em>.",
+      "props": [
+        "bed",
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "think": "I live here now.",
+          "y": 752
+        }
+      ],
+      "bottom": "Two weeks of total rest."
+    },
+    {
+      "top": "Back to running…<br>and it <em>still</em> hurt.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sad",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Rest alone didn't do it."
+    },
+    {
+      "top": "So Quinn tried the<br><em>opposite</em>: go hard!",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Hill sprints. Bold choice."
+    },
+    {
+      "top": "Confused, Quinn<br>asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sore",
+          "say": "Rest or load?! Which one?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: “It depends on the stage.”"
+    },
+    {
+      "top": "Tendon pain sits on<br>a <mark>spectrum</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Freshly irritated, or long-standing?"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "The stage guides how much<br>load the tendon needs."
+    },
+    {
+      "top": "Tip 1: Flared up?<br><mark>Ease</mark> the trigger.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Cut back what provokes it —<br>don't stop everything."
+    },
+    {
+      "top": "Tip 2: Irritable? Try<br><mark>isometric holds</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Holding still under load is<br>often easier on a cranky tendon."
+    },
+    {
+      "top": "Tip 3: Then go <mark>slow</mark><br>and <mark>heavy</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Slow, heavier lifts,<br>built up over weeks."
+    },
+    {
+      "top": "Tip 4: Stay in the<br><mark>tolerable</mark> window.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Small ache, gone by morning? OK!"
+        }
+      ],
+      "bottom": "Mild pain that settles by the<br>next day is often a fair guide."
+    },
+    {
+      "top": "Tip 5: Don't let a scan<br><mark>decide</mark> alone.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "think": "Pictures aren't the whole story."
+        }
+      ],
+      "bottom": "How it feels and works<br>matters just as much."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden pain or a visible gap"
+        }
+      ],
+      "bottom": "Losing function, feeling unwell,<br>or no change in 8–12 weeks."
+    },
+    {
+      "top": "Right load,<br>right time.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's Achilles hurt, so Quinn rested for two weeks straight. It still hurt. So Quinn tried the opposite — hill sprints.\n\nTendon pain sits on a spectrum, from freshly irritated to long-standing, and the stage helps decide how much load the tendon needs. It's often not simply inflammation that rest will settle.\n\nWhat can help: ease off what provokes it during a flare (without stopping everything), try isometric holds when it's irritable, progress to slow heavier loading, stay within a tolerable pain window, and remember a scan is only part of the picture.\n\nGet it checked if pain came on suddenly after an injury, there's a visible gap, you're losing function, you feel unwell, or there's no change after 8–12 weeks.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#tendonpain",
+    "#tendinopathy",
+    "#achilles",
+    "#achillespain",
+    "#loading",
+    "#exercisetherapy",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka swings between total rest and hill sprints for a sore Achilles, and physio Kay explains loading tendons by stage.",
+  "story": {
+    "headline": "Tendon pain:<br>rest or load?",
+    "body": "Quinn's reel has the answer",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sore"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-24",
+  "scheduled_time": "18:00",
+  "created": "2027-02-24-2",
+  "status": "approved",
+  "review_warnings": []
+}

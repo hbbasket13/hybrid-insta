@@ -1,0 +1,234 @@
+{
+  "id": "Q-161-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 161,
+  "service": "physio",
+  "topic": "Restarting exercise after a long break",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/returning-to-exercise-after-long-break/",
+  "slides": [
+    {
+      "top": "Quinn found the old<br>gym bag.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "bag",
+          "say": "We're BACK, baby."
+        }
+      ],
+      "bottom": "Last used: two winters ago."
+    },
+    {
+      "top": "Week 1: Quinn felt<br><em>amazing</em>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Lungs remembered. Legs too."
+    },
+    {
+      "top": "Week 4: everything<br>started to <em>complain</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ],
+          "think": "Who signed me up for this?"
+        }
+      ],
+      "bottom": "Knees, shins… and the ego."
+    },
+    {
+      "top": "Quinn limped in<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "say": "But I felt so fit!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: classic week-four story."
+    },
+    {
+      "top": "Fitness comes back<br><mark>faster</mark> than tendons.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Feeling fit ≠ body ready"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Bone and cartilage need<br>more weeks to catch up."
+    },
+    {
+      "top": "Tip 1: Start at about<br><mark>half</mark> your plan.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Yes, half. Your ego will<br>recover."
+    },
+    {
+      "top": "Tip 2: Add roughly<br><mark>10%</mark> a week.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined",
+          "x": 420
+        }
+      ],
+      "bottom": "Small steps up, not<br>a giant leap."
+    },
+    {
+      "top": "Tip 3: Two short <mark>strength</mark><br>sessions a week.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Tendons like steady,<br>progressive load."
+    },
+    {
+      "top": "Tip 4: <mark>Regular</mark> beats<br>heroic bursts.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Little and often, week<br>after week."
+    },
+    {
+      "top": "Niggle hanging around?<br>That's a <mark>load signal</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "think": "Too much, too soon?"
+        }
+      ],
+      "bottom": "Ease back a notch, then<br>build up again."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Chest pain, dizziness or breathlessness"
+        }
+      ],
+      "bottom": "Or tiredness way out of<br>proportion to the effort."
+    },
+    {
+      "top": "Welcome back, Quinn!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn dusted off the old gym bag after two winters off. Week one felt amazing. By week four, knees and shins were complaining.\n\nFitness tends to come back faster than tendons, bone and cartilage adapt, so the body can feel ready before it really is. That is why aches often show up around week four.\n\nWhat can help: start at about half what you think you can do, add roughly 10% a week, do two short strength sessions weekly, and keep sessions regular rather than in big bursts. Treat a lingering niggle as a sign to ease back a little.\n\nGet checked (and see your GP) if you have chest symptoms, dizziness, breathlessness, or tiredness way out of proportion to the effort.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#backtoexercise",
+    "#returntotraining",
+    "#fitnessjourney",
+    "#strengthtraining",
+    "#injuryprevention",
+    "#exercisetips",
+    "#gymlife",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka returns to exercise after a long break, gets sore in week four, and learns from physio Kay how to build back gradually.",
+  "story": {
+    "headline": "Back at the gym<br>after a long break?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "bag"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-07",
+  "scheduled_time": "09:00",
+  "created": "2027-02-07-1",
+  "status": "approved",
+  "review_warnings": []
+}

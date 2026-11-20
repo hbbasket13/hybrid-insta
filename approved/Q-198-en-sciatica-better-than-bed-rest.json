@@ -1,0 +1,224 @@
+{
+  "id": "Q-198-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 198,
+  "service": "physio",
+  "topic": "Sciatica: better than bed rest",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/sciatica-treatment-neural-mobilization/",
+  "slides": [
+    {
+      "top": "Quinn's leg felt like<br>a <em>zappy cable</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_bum",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "From bum to calf. Rude."
+    },
+    {
+      "top": "Plan: stay in bed<br>until it <em>leaves</em>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "y": 752
+        }
+      ],
+      "bottom": "Day 4: stiffer and crankier."
+    },
+    {
+      "top": "Getting up now felt<br>like a <em>big project</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Back like concrete."
+    },
+    {
+      "top": "Quinn shuffled in<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Shouldn't I just rest it?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: gentle movement usually<br>helps more."
+    },
+    {
+      "top": "Lots of rest can make<br>it <mark>stiffer</mark> and touchier.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Calm, controlled movement often helps"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Bed rest can stiffen tissue<br>and sensitise the nerve."
+    },
+    {
+      "top": "Tip 1: Gentle nerve<br><mark>sliders</mark> first.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "neutral",
+          "say": "Knee out, chin up. Smooth!"
+        }
+      ],
+      "bottom": "Small, easy glides —<br>not a big stretch."
+    },
+    {
+      "top": "Tip 2: Find your<br><mark>helpful direction</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Movements that pull leg pain<br>back up toward the back."
+    },
+    {
+      "top": "Tip 3: Deep <mark>trunk</mark><br>work.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Gentle core control to<br>support the spine."
+    },
+    {
+      "top": "Tip 4: Keep your day<br><mark>moving</mark>, gently.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Everyday activity at a<br>pace you can tolerate."
+    },
+    {
+      "top": "Get help <em>straight away</em><br>if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Numbness or weakness in both legs"
+        }
+      ],
+      "bottom": "Bladder or bowel changes, or<br>numbness in the saddle area."
+    },
+    {
+      "top": "Moving beats<br>waiting it out.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's leg felt like a zappy cable from bum to calf, so the plan was to stay in bed until it left. By day 4, everything felt stiffer and crankier.\n\nSciatica often responds better to calm, controlled movement than to bed rest. Lots of rest can stiffen tissues and make the nerve more sensitive.\n\nWhat can help: gentle nerve \"sliders\" first (tensioners come later), finding the spinal movement direction that draws leg pain back toward the back, deep trunk work, and keeping everyday activity going at a pace you can tolerate.\n\nGet help straight away for numbness or weakness in both legs, bladder or bowel changes, numbness in the saddle area, or weakness that is quickly getting worse.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#sciatica",
+    "#legpain",
+    "#backpain",
+    "#nervepain",
+    "#keepmoving",
+    "#lowbackpain",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka tries bed rest for sciatica and learns gentle nerve and movement tips from physio Kay.",
+  "story": {
+    "headline": "Sciatica? Bed rest<br>may not help",
+    "body": "4 gentle tips from Quinn's reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_bum"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-25",
+  "scheduled_time": "18:00",
+  "created": "2027-02-25-2",
+  "status": "approved",
+  "review_warnings": []
+}

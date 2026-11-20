@@ -1,0 +1,232 @@
+{
+  "id": "Q-169-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 169,
+  "service": "physio",
+  "topic": "Tennis elbow that won't go away",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/tennis-elbow-treatment-guide/",
+  "slides": [
+    {
+      "top": "Quinn has <em>never</em> held<br>a tennis racquet.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "say": "So why 'tennis' elbow?"
+        }
+      ],
+      "bottom": "Rude, honestly."
+    },
+    {
+      "top": "But Quinn <em>did</em> just<br>move house.",
+      "props": [
+        "boxes"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Gripping, lifting, repeat."
+    },
+    {
+      "top": "Now even a <em>mug</em><br>makes it zing.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "sore",
+          "item": "cup",
+          "fx": [
+            "exclaim"
+          ],
+          "think": "My coffee betrayed me."
+        }
+      ],
+      "bottom": "Outer elbow. Sharp grip pain."
+    },
+    {
+      "top": "Quinn visited Kay,<br>quite <em>fed up</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "say": "I rested it for months!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Three months of rest.<br>Still sore."
+    },
+    {
+      "top": "An <mark>overloaded</mark> tendon<br>at the outer elbow.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Tendons like the right load"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Pure rest rarely makes<br>it strong again."
+    },
+    {
+      "top": "Tip 1: <mark>Trim</mark> the biggest<br>grip loads, for now.",
+      "props": [
+        "boxes@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "x": 380
+        }
+      ],
+      "bottom": "Smaller loads, palms-up<br>lifting where you can."
+    },
+    {
+      "top": "Tip 2: A <mark>strap</mark> for<br>heavy tasks.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Elbow accessory: on."
+        }
+      ],
+      "bottom": "A counterforce brace may<br>ease load short-term."
+    },
+    {
+      "top": "Tip 3: Build <mark>wrist</mark><br>and grip strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Slow, steady progress<br>over weeks."
+    },
+    {
+      "top": "Tip 4: Check the <mark>shoulder</mark><br>and neck too.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "item": "band"
+        }
+      ],
+      "bottom": "They can share the work<br>with the elbow."
+    },
+    {
+      "top": "Think in <mark>8–12 week</mark><br>blocks.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "determined",
+          "x": 400
+        }
+      ],
+      "bottom": "Tendons change slowly.<br>Patience helps."
+    },
+    {
+      "top": "Still stuck after months<br>of a good program?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Time to reassess, with your GP too"
+        }
+      ],
+      "bottom": "A fresh look can help<br>adjust the plan."
+    },
+    {
+      "top": "Get a grip, Quinn!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn has never held a tennis racquet, yet after moving house even lifting a mug made the outer elbow zing. Three months of rest later, still sore.\n\nTennis elbow is an overloaded wrist-extensor tendon at the outer elbow, and it isn't just for tennis players. It can linger with pure rest or with repeated irritation, because tendons respond to the right kind of load.\n\nWhat can help: trim the biggest grip loads for now, try a counterforce strap for heavy tasks, build wrist-extensor and grip strength over weeks, strengthen the shoulder and have the neck checked, and plan in 8–12 week blocks.\n\nIf there's no improvement after months of a good program, get reassessed and talk with your GP.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#tenniselbow",
+    "#elbowpain",
+    "#lateralelbow",
+    "#gripstrength",
+    "#tendonpain",
+    "#armpain",
+    "#tendinopathy",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets tennis elbow from moving house and learns from physio Kay why tendons need the right load, not just rest.",
+  "story": {
+    "headline": "Tennis elbow<br>without tennis?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank"
+        }
+      ],
+      "props": [
+        "boxes@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-11",
+  "scheduled_time": "09:00",
+  "created": "2027-02-11-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,240 @@
+{
+  "id": "Q-168-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 168,
+  "service": "physio",
+  "topic": "Cramps during exercise",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/exercise-muscle-cramps-causes-prevention/",
+  "slides": [
+    {
+      "top": "Quinn's first <em>half</em><br>marathon.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ],
+          "say": "Kilometre 16. Easy!"
+        }
+      ],
+      "bottom": "Feeling unstoppable."
+    },
+    {
+      "top": "Km 18: the hamstring<br><em>locked</em> up.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "exclaim",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Mid-stride. Very dramatic."
+    },
+    {
+      "top": "Quinn chugged three<br>bottles of water.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "blank",
+          "item": "bottle",
+          "think": "Why isn't this working?"
+        }
+      ],
+      "bottom": "Sloshing. Still cramping."
+    },
+    {
+      "top": "Quinn asked Kay<br>after the race.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sad",
+          "say": "But I drank SO much water!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay nodded. Common story."
+    },
+    {
+      "top": "Often it's muscle<br><mark>fatigue</mark>, not just fluid.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Tired muscles misfire more"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Working past what those<br>muscles are trained for."
+    },
+    {
+      "top": "Tip 1: Train for the<br><mark>distance</mark> you'll race.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Build long runs so muscles<br>are ready on the day."
+    },
+    {
+      "top": "Tip 2: <mark>Strengthen</mark> the<br>muscles that cramp.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Hamstrings, calves —<br>whichever ones it is."
+    },
+    {
+      "top": "Tip 3: <mark>Pace</mark> the early<br>kilometres.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "think": "Slow is smooth."
+        }
+      ],
+      "bottom": "Going out too fast often<br>backfires later."
+    },
+    {
+      "top": "Tip 4: Heavy sweater<br>in the <mark>heat</mark>?",
+      "props": [
+        "sun@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup",
+          "x": 420,
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Fluids plus electrolytes<br>can be part of the plan."
+    },
+    {
+      "top": "If it hits: <mark>ease off</mark><br>and stretch gently.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Let the muscle settle<br>before you go again."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Cramps at rest, or with numbness"
+        }
+      ],
+      "bottom": "Also: weakness, swelling, or<br>a calf that stays painful."
+    },
+    {
+      "top": "See you at the finish!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Kilometre 18 of Quinn's first half marathon: the hamstring locked mid-stride. Three bottles of water later, still cramping.\n\nExercise cramps are often driven by muscle fatigue, working beyond what those muscles are trained for, rather than dehydration alone. Salt or bananas alone are unlikely to prevent them.\n\nWhat can help: train for the distance and intensity that brings on cramps, strengthen the muscles that tend to cramp, pace the early part of a session, and for heavy sweaters in the heat, fluids plus electrolytes can be part of the plan. If a cramp hits, ease off and stretch gently.\n\nGet it checked if cramps happen at rest, come with weakness, numbness or swelling, or a calf stays painful.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#musclecramps",
+    "#cramps",
+    "#halfmarathon",
+    "#running",
+    "#endurance",
+    "#hamstring",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka cramps up during a half marathon and learns from physio Kay that fatigue, training and pacing matter more than water alone.",
+  "story": {
+    "headline": "Cramping up<br>mid-race?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-10",
+  "scheduled_time": "18:00",
+  "created": "2027-02-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

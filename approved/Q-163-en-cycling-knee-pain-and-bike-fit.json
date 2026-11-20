@@ -1,0 +1,235 @@
+{
+  "id": "Q-163-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 163,
+  "service": "physio",
+  "topic": "Cycling knee pain and bike fit",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/cycling-knee-pain-bike-fit/",
+  "slides": [
+    {
+      "top": "Quinn bought <em>full</em><br>lycra. Very aero.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Call me Tour de Quinn."
+        }
+      ],
+      "bottom": "Bike: borrowed. Fit: guessed."
+    },
+    {
+      "top": "60 km on day one.<br>What could go wrong?",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Thousands of pedal strokes<br>later…"
+    },
+    {
+      "top": "Next day, the knees<br>filed a <em>complaint</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ],
+          "think": "Ow. Formally."
+        }
+      ],
+      "bottom": "Front of the knee, mostly."
+    },
+    {
+      "top": "Quinn wobbled<br>in to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried",
+          "say": "Do I have to quit cycling?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: good news — often<br>very fixable."
+    },
+    {
+      "top": "Small fit errors get<br><mark>multiplied</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Thousands of strokes an hour"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Add a sudden jump in<br>distance, and knees notice."
+    },
+    {
+      "top": "Tip 1: Check your<br><mark>saddle height</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Not too high, not too low."
+        }
+      ],
+      "bottom": "Knee moderately bent at<br>the bottom of the stroke."
+    },
+    {
+      "top": "Tip 2: Saddle position<br>and <mark>cleats</mark>.",
+      "props": [
+        "shoe@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "x": 420,
+          "think": "Toes pointing… where?"
+        }
+      ],
+      "bottom": "Fore-aft and cleat angle can<br>change how the knee loads."
+    },
+    {
+      "top": "Tip 3: Spin <mark>lighter</mark><br>gears, faster.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A higher cadence is often<br>kinder to knees."
+    },
+    {
+      "top": "And build distance<br><mark>gradually</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Not 60 km on day one.<br>Noted."
+    },
+    {
+      "top": "Tip 4: <mark>Single-leg</mark><br>strength work.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Step-ups and split squats<br>support every pedal stroke."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Swelling, catching or locking"
+        }
+      ],
+      "bottom": "Or pain that hasn't changed<br>after a few weeks."
+    },
+    {
+      "top": "Keep pedalling, Quinn!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought full lycra, borrowed a bike, guessed the setup and rode 60 km on day one. Next morning, the knees filed a formal complaint.\n\nCycling knee pain is common and often very fixable. Thousands of pedal strokes an hour magnify small bike-fit errors, especially with a sudden jump in distance.\n\nWhat can help: set saddle height so the knee is moderately bent at the bottom of the stroke, check saddle fore-aft position and cleat alignment, spin lighter gears at a higher cadence, build distance gradually, and add single-leg strength work. Knee pain doesn't automatically mean you must stop riding.\n\nGet it checked if pain persists, the knee swells or catches, or nothing changes after a few weeks.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#cycling",
+    "#kneepain",
+    "#bikefit",
+    "#cyclinglife",
+    "#roadcycling",
+    "#sportsphysio",
+    "#cyclist",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka rides too far on a badly fitted bike, gets sore knees, and learns bike-fit and training tips from physio Kay.",
+  "story": {
+    "headline": "Sore knees after<br>a big ride?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "hill"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-08",
+  "scheduled_time": "09:00",
+  "created": "2027-02-08-1",
+  "status": "approved",
+  "review_warnings": []
+}

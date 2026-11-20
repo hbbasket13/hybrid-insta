@@ -1,0 +1,241 @@
+{
+  "id": "Q-170-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 170,
+  "service": "physio",
+  "topic": "Do you really need 10,000 steps?",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/10000-steps-myth-walking-research/",
+  "slides": [
+    {
+      "top": "10pm. Quinn's watch<br>said <em>4,212 steps</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone"
+        }
+      ],
+      "bottom": "Panic level: high."
+    },
+    {
+      "top": "Quinn marched laps<br>of the <em>lounge room</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined",
+          "fx": [
+            "sweat",
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Must. Hit. Ten. Thousand."
+    },
+    {
+      "top": "Midnight. 9,987.<br>Quinn <em>collapsed</em>.",
+      "props": [
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sleepy",
+          "y": 752,
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "So close. So tired."
+    },
+    {
+      "top": "Quinn asked Kay<br>the big question.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Do steps under 10k count?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay laughed kindly."
+    },
+    {
+      "top": "10,000 began as a 1960s<br><mark>marketing</mark> number.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Every extra step counts"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Much of the benefit comes<br>from moving up to 6–8k."
+    },
+    {
+      "top": "Tip 1: Any <mark>steady</mark><br>increase counts.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A bit more than last week<br>is a win."
+    },
+    {
+      "top": "Tip 2: Like targets?<br>Try <mark>7–8 thousand</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "say": "Midnight laps: cancelled."
+        }
+      ],
+      "bottom": "A friendly, realistic goal."
+    },
+    {
+      "top": "Tip 3: Add some<br><mark>brisk</mark> minutes.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A pace where chatting gets<br>a little puffy."
+    },
+    {
+      "top": "Tip 4: Two <mark>strength</mark><br>sessions a week.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Walking plus strength makes<br>a great team."
+    },
+    {
+      "top": "Back from an <em>injury</em>?<br>Build steps gradually.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Small increases each week."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "worried",
+          "fx": [
+            "pain_knee"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Knee or hip pain rising with steps?"
+        }
+      ],
+      "bottom": "An assessment can help you<br>keep walking."
+    },
+    {
+      "top": "Every step counts, Quinn!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "10pm: Quinn's watch said 4,212 steps, so Quinn marched laps of the lounge room and collapsed at 9,987.\n\nThe 10,000 figure began as a 1960s marketing number. Research suggests much of the benefit comes from moving from very low step counts up to around 6–8 thousand, so steps under 10,000 absolutely count.\n\nWhat can help: aim for any steady increase, try 7–8 thousand if you like a target, include some brisk minutes, add two strength sessions a week, and build walking gradually if you're coming back from an injury.\n\nGet it checked if knee or hip pain rises as your walking volume goes up.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#10000steps",
+    "#walking",
+    "#dailysteps",
+    "#stepcount",
+    "#walkingforhealth",
+    "#activeliving",
+    "#healthyhabits",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka chases 10,000 steps at midnight and learns from physio Kay that steady increases and strength work matter more.",
+  "story": {
+    "headline": "Chasing 10,000<br>steps at midnight?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "props": [
+        "moon@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-11",
+  "scheduled_time": "18:00",
+  "created": "2027-02-11-2",
+  "status": "approved",
+  "review_warnings": []
+}

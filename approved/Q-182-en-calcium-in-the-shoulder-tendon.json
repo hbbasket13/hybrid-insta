@@ -1,0 +1,231 @@
+{
+  "id": "Q-182-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 182,
+  "service": "physio",
+  "topic": "Calcium in the shoulder tendon",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/calcific-rotator-cuff-tendinopathy-shoulder/",
+  "slides": [
+    {
+      "top": "Quinn reached for<br>the top-shelf <em>biscuits</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "bag"
+        }
+      ],
+      "bottom": "A simple mission.<br>Or so it seemed."
+    },
+    {
+      "top": "Then: a <em>sharp</em> shoulder<br>pain out of nowhere.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "shout": "OUCH!",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Quinn could barely lift<br>the arm."
+    },
+    {
+      "top": "Night time was even<br><em>grumpier</em>.",
+      "props": [
+        "bed",
+        "moon@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sore",
+          "y": 752,
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "No comfy side. At all."
+    },
+    {
+      "top": "Kay went through the<br>shoulder <mark>X-ray</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "surprised",
+          "say": "There's a white spot in there!"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Quinn: “Is that… a pebble?”"
+    },
+    {
+      "top": "Calcium can build up<br>in a <mark>cuff tendon</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Can be silent, or quite sore"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Pain often peaks while the body<br>is breaking it down."
+    },
+    {
+      "top": "Myth: it comes from<br>calcium in your <em>diet</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "blank",
+          "item": "cup",
+          "think": "So… no more milk?"
+        }
+      ],
+      "bottom": "Nope. Food isn't the cause.<br>Your latte is innocent."
+    },
+    {
+      "top": "Tip 1: Keep it <mark>gently</mark><br>moving in a flare.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Small, easy movements within<br>comfort — no forcing."
+    },
+    {
+      "top": "Tip 2: Rebuild <mark>strength</mark><br>step by step.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Light cuff exercises you can<br>tolerate, slowly progressed."
+    },
+    {
+      "top": "Tip 3: Ease back into<br><mark>daily tasks</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "item": "bag"
+        }
+      ],
+      "bottom": "Washing, shopping, top shelves<br>— a bit more each week."
+    },
+    {
+      "top": "Tip 4: Still stuck?<br>Discuss a <mark>review</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Let's talk next steps together"
+        }
+      ],
+      "bottom": "Your GP or a specialist can<br>weigh in if it persists."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden pain after a fall or knock"
+        }
+      ],
+      "bottom": "Fever, odd weakness, a change<br>in shape, or chest symptoms."
+    },
+    {
+      "top": "Biscuits: reachable<br>again, bit by bit.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn reached for the top-shelf biscuits and got a sharp shoulder pain out of nowhere — and nights were even grumpier. The X-ray showed a calcium deposit in a rotator cuff tendon.\n\nThese deposits can be completely silent or quite painful, often during the phase when the body is breaking them down. And no, calcium in your diet isn't the cause.\n\nWhat can help: gentle movement within comfort during a flare, rebuilding cuff strength with tolerable loading, and easing back into daily tasks gradually. If it persists, discuss a specialist review with your GP.\n\nGet it checked if pain follows a fall or knock, or there's fever, unexplained weakness, a change in shape, or chest symptoms.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#shoulderpain",
+    "#rotatorcuff",
+    "#calcifictendinopathy",
+    "#shoulderhealth",
+    "#tendonpain",
+    "#nightpain",
+    "#shoulderrehab",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets sudden shoulder pain reaching for biscuits and learns from physio Kay about calcium deposits in a shoulder tendon.",
+  "story": {
+    "headline": "Calcium in<br>your shoulder?",
+    "body": "Quinn's new reel explains",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "bag"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-17",
+  "scheduled_time": "18:00",
+  "created": "2027-02-17-2",
+  "status": "approved",
+  "review_warnings": []
+}

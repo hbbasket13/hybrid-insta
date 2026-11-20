@@ -1,0 +1,219 @@
+{
+  "id": "Q-179-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 179,
+  "service": "physio",
+  "topic": "Headaches that start in the neck",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/cervicogenic-headache-neck-explained/",
+  "slides": [
+    {
+      "top": "3pm. Quinn's head<br>starts to <em>throb</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Starts at the back. Creeps<br>up behind the eyes."
+    },
+    {
+      "top": "Quinn's theory:<br>brain is <em>too big</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank",
+          "think": "Too many great ideas."
+        }
+      ],
+      "bottom": "Generous self-assessment."
+    },
+    {
+      "top": "Coffee, a nap,<br>more <em>coffee</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "sleepy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Headache: unimpressed."
+    },
+    {
+      "top": "So Quinn<br>asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "say": "It starts right here. Daily."
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the upper neck."
+    },
+    {
+      "top": "An irritated <mark>upper neck</mark><br>can refer pain to the head.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "The neck can send pain upstairs"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It's called a cervicogenic<br>headache."
+    },
+    {
+      "top": "Tip 1: Hands-on care<br>plus <mark>exercise</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "determined",
+          "y": 752
+        }
+      ],
+      "bottom": "Chin nods for deep neck<br>muscles, plus shoulder blades."
+    },
+    {
+      "top": "Tip 2: Break up<br><mark>long postures</mark>.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Short movement breaks<br>through the day."
+    },
+    {
+      "top": "Tip 3: Review your<br><mark>sleep setup</mark>.",
+      "props": [
+        "bed@760"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "say": "Is my pillow a mountain?"
+        }
+      ],
+      "bottom": "Pillow height and position<br>can play a part."
+    },
+    {
+      "top": "Tip 4: Expect <mark>gradual</mark><br>change.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Improvement often builds<br>over weeks, not days."
+    },
+    {
+      "top": "Get it checked <em>promptly</em> if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden, severe headache or a head knock"
+        }
+      ],
+      "bottom": "Fever and stiff neck, numbness,<br>or a new headache after 50."
+    },
+    {
+      "top": "Less throb,<br>more thinking.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Every afternoon at 3pm, Quinn's head started to throb, starting at the back and creeping up behind the eyes. Quinn's theory: brain too big. Coffee didn't help.\n\nSome headaches start in the neck. Irritated upper-neck structures can refer pain into the head, which is known as a cervicogenic headache.\n\nWhat can help: hands-on care combined with deep neck flexor and shoulder-blade exercises, breaking up long postures, reviewing your pillow and sleep setup, and expecting gradual change over weeks rather than overnight.\n\nGet it checked promptly if you have a sudden severe headache, fever with a stiff neck, a recent head knock, numbness or other neurological changes, or a new headache pattern after 50.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#headache",
+    "#neckpain",
+    "#cervicogenicheadache",
+    "#tensionheadache",
+    "#deskjob",
+    "#officeworker",
+    "#posture",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets afternoon headaches from the neck and learns exercise, posture breaks, sleep setup and patience tips from physio Kay.",
+  "story": {
+    "headline": "Headache that starts<br>in your neck?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore"
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-16",
+  "scheduled_time": "09:00",
+  "created": "2027-02-16-1",
+  "status": "approved",
+  "review_warnings": []
+}

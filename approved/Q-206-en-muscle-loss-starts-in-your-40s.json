@@ -1,0 +1,221 @@
+{
+  "id": "Q-206-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 206,
+  "service": "physio",
+  "topic": "Muscle loss starts in your 40s",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/sarcopenia-the-silent-muscle-loss-that-begins-in-your-40s/",
+  "slides": [
+    {
+      "top": "Quinn turned <em>40</em>.<br>Cake: yes.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy",
+          "say": "Forty and fabulous!"
+        }
+      ],
+      "bottom": "Then came the shopping bags."
+    },
+    {
+      "top": "Same groceries.<br>Somehow <em>heavier</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "item": "bag",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Did the shop add rocks?"
+    },
+    {
+      "top": "The stairs started<br>to feel <em>taller</em>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ],
+          "think": "When did they add floors?"
+        }
+      ],
+      "bottom": "Quinn suspected sabotage."
+    },
+    {
+      "top": "Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Isn't muscle loss a 60s thing?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: it starts earlier."
+    },
+    {
+      "top": "After 40, muscle can dip<br>a few <mark>% per decade</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Strength often drops even faster"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Good news: muscle responds<br>to training at any age."
+    },
+    {
+      "top": "Tip 1: <mark>Resistance</mark><br>training ~3× a week.",
+      "props": [
+        "dumbbell@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Keep it going long-term,<br>a bit heavier over time."
+    },
+    {
+      "top": "Tip 2: <mark>Sit-to-stands</mark><br>and squats.",
+      "props": [
+        "chair@760"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Simple, and no gym needed."
+    },
+    {
+      "top": "Tip 3: Daily one-leg<br><mark>balance</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "say": "Toothbrush time = balance time."
+        }
+      ],
+      "bottom": "Try it while you brush<br>your teeth."
+    },
+    {
+      "top": "Tip 4: <mark>Protein</mark> with<br>each meal.",
+      "props": [
+        "table@780"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Eggs, beans, fish, yoghurt!"
+        }
+      ],
+      "bottom": "Ask your GP or a dietitian<br>what suits you."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Weight loss you can't explain"
+        }
+      ],
+      "bottom": "Poor appetite, sudden weakness,<br>repeated falls, or fever."
+    },
+    {
+      "top": "Forty and getting<br><em>stronger</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn turned 40, and suddenly the same groceries felt heavier and the stairs felt taller. Sabotage? Not quite.\n\nKay explained that muscle mass can dip a few percent per decade from around 40, and strength often drops even faster. The good news: muscle responds to training at any age.\n\nWhat can help: resistance training about three times a week and kept up long-term, sit-to-stands and squats, daily one-leg balance practice, and protein with each meal (ask your GP or a dietitian what suits you).\n\nGet it checked if you notice unexplained weight loss, poor appetite, sudden or worsening weakness, repeated falls, or fever.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#sarcopenia",
+    "#muscleloss",
+    "#strengthtraining",
+    "#healthyageing",
+    "#over40",
+    "#resistancetraining",
+    "#balance",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka turns 40, finds groceries and stairs harder, and learns from physio Kay how resistance training, balance and protein can help keep muscle.",
+  "story": {
+    "headline": "Groceries feel<br>heavier at 40?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "item": "bag"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-01",
+  "scheduled_time": "18:00",
+  "created": "2027-03-01-2",
+  "status": "approved",
+  "review_warnings": []
+}

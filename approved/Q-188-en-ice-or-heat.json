@@ -1,0 +1,219 @@
+{
+  "id": "Q-188-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 188,
+  "service": "physio",
+  "topic": "Ice or heat?",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/ice-or-heat-for-injury-guide/",
+  "slides": [
+    {
+      "top": "Quinn tweaked a knee<br>chasing the <em>bus</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sore",
+          "fx": [
+            "pain_knee",
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "The bus did not wait."
+    },
+    {
+      "top": "Home. Freezer open.<br>Big <em>dilemma</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "blank",
+          "item": "icepack",
+          "think": "Ice? Heat? Both? Neither?"
+        }
+      ],
+      "bottom": "The group chat had<br>17 different opinions."
+    },
+    {
+      "top": "Quinn iced it for an<br>hour. Then <em>another</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "sad",
+          "item": "icepack",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Surely more ice means<br>faster healing?"
+    },
+    {
+      "top": "Next day, Quinn<br>asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried",
+          "say": "Ice or heat? I'm desperate."
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a simple answer."
+    },
+    {
+      "top": "Ice: short-term <mark>relief</mark>.<br>Heat: <mark>comfort</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Ice: relief, not faster healing"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Neither one speeds up<br>healing by itself."
+    },
+    {
+      "top": "Tip 1: Ice <mark>10–15 min</mark>,<br>wrapped in a cloth.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "item": "icepack"
+        }
+      ],
+      "bottom": "Handy in the first few days.<br>Always protect your skin."
+    },
+    {
+      "top": "Tip 2: <mark>Heat</mark> for stiffness<br>or before exercise.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "happy",
+          "fx": [
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "Mostly for comfort and<br>loosening up."
+    },
+    {
+      "top": "Tip 3: Gentle <mark>movement</mark><br>early on.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Staying gently active<br>usually helps."
+    },
+    {
+      "top": "Tip 4: Put effort into<br><mark>graded loading</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "happy"
+        }
+      ],
+      "bottom": "That's where recovery<br>really builds."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "You can't put weight on it"
+        }
+      ],
+      "bottom": "Rapid swelling, numbness, odd<br>shape, or a hot, swollen calf."
+    },
+    {
+      "top": "Ice or heat — then<br>get <em>moving</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn tweaked a knee chasing the bus, then stood at the open freezer while the group chat offered 17 opinions. So Quinn iced it for an hour, then another.\n\nIce can give short-term pain relief but doesn't speed up healing, and heat is mainly for comfort with stiffness.\n\nWhat can help: ice for 10–15 minutes wrapped in a cloth in the first few days, heat for stiffness or before exercise, gentle movement early on, protecting your skin, and putting most of your effort into graded loading.\n\nGet it checked if you can't put weight on it, swelling increases quickly, the area looks deformed, there's numbness, or your calf is painful, warm and swollen.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#iceorheat",
+    "#sportsinjury",
+    "#icepack",
+    "#heatpack",
+    "#injuryrecovery",
+    "#kneepain",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka tweaks a knee, can't decide between ice and heat, and learns from physio Kay when each can help.",
+  "story": {
+    "headline": "Ice or heat?<br>Quinn asks",
+    "body": "The answer is in Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "blank",
+          "item": "icepack"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-20",
+  "scheduled_time": "18:00",
+  "created": "2027-02-20-2",
+  "status": "approved",
+  "review_warnings": []
+}

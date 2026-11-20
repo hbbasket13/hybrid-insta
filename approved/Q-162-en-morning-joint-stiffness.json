@@ -1,0 +1,234 @@
+{
+  "id": "Q-162-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 162,
+  "service": "physio",
+  "topic": "Morning joint stiffness",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/morning-joint-stiffness-what-it-means/",
+  "slides": [
+    {
+      "top": "6:30am. Quinn tried<br>to get out of bed.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "y": 752,
+          "think": "System loading… please wait"
+        }
+      ],
+      "bottom": "Boot-up time: slow."
+    },
+    {
+      "top": "Every joint creaked<br>like an <em>old door</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Takes a while to warm up."
+    },
+    {
+      "top": "Quinn tried to <em>crack</em><br>everything loose.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "determined",
+          "shout": "CRACK! …nope."
+        }
+      ],
+      "bottom": "Twisting. Popping. Nothing."
+    },
+    {
+      "top": "Quinn asked Kay<br>at the clinic.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Am I a rusty robot now?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked: how long does<br>it last?"
+    },
+    {
+      "top": "Stiffness after rest is<br>often <mark>pretty normal</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "How long it lasts matters most"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Joints 'gel' when still,<br>then loosen as you move."
+    },
+    {
+      "top": "Tip 1: <mark>Gentle moves</mark><br>early in the morning.",
+      "props": [
+        "sun@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "x": 440
+        }
+      ],
+      "bottom": "Easy reaches, knee bends,<br>ankle circles."
+    },
+    {
+      "top": "Tip 2: A bit of<br><mark>warmth</mark> can help.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup",
+          "fx": [
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "A warm shower first, then<br>ease into the day."
+    },
+    {
+      "top": "Tip 3: Break up long<br>spells of <mark>sitting</mark>.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "x": 420
+        }
+      ],
+      "bottom": "Stand and move every<br>30–60 minutes."
+    },
+    {
+      "top": "Tip 4: Build <mark>strength</mark><br>around your joints.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Strong muscles help joints<br>feel supported."
+    },
+    {
+      "top": "No need to <em>force</em><br>or crack joints.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "wink"
+        }
+      ],
+      "bottom": "Easy movement does the<br>loosening for you."
+    },
+    {
+      "top": "See your GP soon if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Stiff for over an hour most days"
+        }
+      ],
+      "bottom": "Or swollen joints, unusual<br>tiredness, both hands."
+    },
+    {
+      "top": "Smoother mornings ahead!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's mornings start like a rusty robot booting up: every joint creaks, and twisting to crack things loose does nothing.\n\nStiffness after rest is often ordinary, or linked to everyday arthritis. Joints tend to \"gel\" when still and loosen as you move. What matters most is how long it lasts.\n\nWhat can help: gentle movement early in the morning, a bit of warmth like a warm shower, breaking up long spells of sitting, and building strength around the joints. There's no need to force or crack joints to loosen them.\n\nSee your GP promptly if stiffness lasts more than an hour most days, joints look swollen, you feel unusually tired, or the small joints of both hands are affected.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#morningstiffness",
+    "#jointpain",
+    "#stiffjoints",
+    "#arthritis",
+    "#healthyjoints",
+    "#movementismedicine",
+    "#mobility",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka wakes up stiff as a rusty robot and learns from physio Kay what morning stiffness can mean and how to ease it.",
+  "story": {
+    "headline": "Stiff as a robot<br>every morning?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore"
+        }
+      ],
+      "props": [
+        "sun@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-07",
+  "scheduled_time": "18:00",
+  "created": "2027-02-07-2",
+  "status": "approved",
+  "review_warnings": []
+}

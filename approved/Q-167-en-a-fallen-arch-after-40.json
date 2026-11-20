@@ -1,0 +1,234 @@
+{
+  "id": "Q-167-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 167,
+  "service": "physio",
+  "topic": "A fallen arch after 40",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/tibialis-posterior-dysfunction-fallen-arch/",
+  "slides": [
+    {
+      "top": "Quinn noticed one foot<br>looked <em>flatter</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised",
+          "think": "Has my arch moved out?"
+        }
+      ],
+      "bottom": "Like a pancake. A sad one."
+    },
+    {
+      "top": "The inner ankle ached<br>after long <em>walks</em>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Weekend walks felt longer."
+    },
+    {
+      "top": "Even the shoes looked<br><em>tired</em>.",
+      "props": [
+        "shoe@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank",
+          "x": 400
+        }
+      ],
+      "bottom": "Worn down on the inside edge."
+    },
+    {
+      "top": "Quinn hobbled in<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "My arch is giving up on me!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked a few questions."
+    },
+    {
+      "top": "Often an <mark>overloaded</mark><br>tendon inside the ankle.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "It helps hold up your arch"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Tibialis posterior — common<br>in the 40s to 60s."
+    },
+    {
+      "top": "Tip 1: Try a <mark>single-leg</mark><br>heel raise.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "crouch",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Finding it hard is<br>a useful clue."
+    },
+    {
+      "top": "Tip 2: <mark>Supportive</mark><br>shoes early on.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "x": 400
+        }
+      ],
+      "bottom": "Can ease the tendon's load<br>while it settles."
+    },
+    {
+      "top": "Tip 3: Progressive<br>calf and tendon <mark>strength</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Built up gradually<br>over weeks."
+    },
+    {
+      "top": "Tip 4: Avoid big <mark>spikes</mark><br>in standing or walking.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Build up long walks<br>step by step."
+    },
+    {
+      "top": "Flat feet you've always<br>had? Often <mark>fine</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "wink"
+        }
+      ],
+      "bottom": "It's the change that<br>is worth checking."
+    },
+    {
+      "top": "Get it checked <em>early</em> if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Arch flattening, inner ankle sore"
+        }
+      ],
+      "bottom": "Or you can't do a single-leg<br>heel raise."
+    },
+    {
+      "top": "Arch support crew!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn noticed one foot looking flatter, the inner ankle aching after long walks, and shoes worn down on the inside edge.\n\nA flattening arch in adults is often linked to an overloaded tibialis posterior tendon on the inside of the ankle. It's most common in people in their 40s to 60s, and early review tends to help.\n\nWhat can help: try a single-leg heel raise as a quick check, wear supportive shoes early on, build calf and tendon strength progressively over weeks, and avoid big spikes in standing or walking. Lifelong flexible flat feet often don't need treatment.\n\nGet it checked early if you have inner-ankle pain with a flattening arch, can't do a single-leg heel raise, or the foot keeps flattening.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#flatfeet",
+    "#fallenarch",
+    "#footpain",
+    "#anklepain",
+    "#feethealth",
+    "#tibialisposterior",
+    "#walking",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka notices a flattening arch and learns from physio Kay about the tibialis posterior tendon and simple ways to support it.",
+  "story": {
+    "headline": "Arch looking<br>flatter lately?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised",
+          "x": 420
+        }
+      ],
+      "props": [
+        "shoe@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-10",
+  "scheduled_time": "09:00",
+  "created": "2027-02-10-1",
+  "status": "approved",
+  "review_warnings": []
+}

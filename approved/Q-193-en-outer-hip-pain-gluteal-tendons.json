@@ -1,0 +1,244 @@
+{
+  "id": "Q-193-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 193,
+  "service": "physio",
+  "topic": "Outer hip pain (gluteal tendons)",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/gluteal-tendinopathy-outer-hip-pain/",
+  "slides": [
+    {
+      "top": "Quinn's signature move:<br>the <em>hip hang</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "happy",
+          "item": "phone",
+          "think": "So comfy. So relaxed."
+        }
+      ],
+      "bottom": "Weight on one leg. Every queue."
+    },
+    {
+      "top": "Then the outer hip<br>started to <em>ache</em>.",
+      "props": [
+        "stairs@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "Stairs. Long walks. Ouch."
+    },
+    {
+      "top": "Night: lying on that<br>side = <em>nope</em>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ],
+          "y": 752
+        }
+      ],
+      "bottom": "Quinn flipped like a pancake."
+    },
+    {
+      "top": "Quinn limped in<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "sore",
+          "say": "Bursitis, right? The internet says so!"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a closer look."
+    },
+    {
+      "top": "It's often a <mark>tendon</mark><br>issue, not just bursitis.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Compression plus load spikes irritate it"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Gluteal tendons on the outer<br>hip dislike being squashed."
+    },
+    {
+      "top": "Tip 1: Stop the daily<br><mark>squish</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "say": "Legs uncrossed. Both feet down."
+        }
+      ],
+      "bottom": "No leg crossing, no hanging<br>on one hip."
+    },
+    {
+      "top": "Tip 2: <mark>Pillow</mark> between<br>the knees in bed.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ],
+          "y": 752
+        }
+      ],
+      "bottom": "Keeps the top hip from<br>dropping and squashing."
+    },
+    {
+      "top": "Tip 3: Build glute<br><mark>strength</mark> gradually.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Step by step, working toward<br>single-leg exercises."
+    },
+    {
+      "top": "Tip 4: Go easy on<br><mark>outer-hip stretches</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "think": "Cross-leg stretch? Not now."
+        }
+      ],
+      "bottom": "Aggressive stretching can add<br>more compression."
+    },
+    {
+      "top": "Tip 5: Pace <mark>walks</mark><br>and stairs for now.",
+      "props": [
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Shorter walks, more often,<br>while it settles."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain below the knee or in the groin"
+        }
+      ],
+      "bottom": "Severe constant night pain,<br>or pain after a fall."
+    },
+    {
+      "top": "Hips that rest<br>easy at night.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's signature move is the hip hang — weight on one leg in every queue. Then the outer hip started aching, and lying on that side at night was a no.\n\nOuter hip pain is often a gluteal tendon problem rather than simply bursitis. Compression — lying on it, crossing legs, hanging on one hip — plus sudden jumps in load can irritate it.\n\nWhat can help: cut down daily compression, sleep with a pillow between the knees, build glute strength gradually toward single-leg work, go easy on aggressive outer-hip stretches, and pace long walks and stairs for now.\n\nGet it checked if pain spreads below the knee, is mainly in the groin, is severe and constant at night, or follows a fall.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hippain",
+    "#outerhippain",
+    "#glutealtendinopathy",
+    "#tendonpain",
+    "#hipstrength",
+    "#sleepposition",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets outer hip pain from hanging on one hip and learns tendon-friendly habits from physio Kay.",
+  "story": {
+    "headline": "Outer hip aching<br>at night?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "props": [
+        "stairs@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-23",
+  "scheduled_time": "09:00",
+  "created": "2027-02-23-1",
+  "status": "approved",
+  "review_warnings": []
+}

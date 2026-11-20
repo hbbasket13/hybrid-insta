@@ -1,0 +1,218 @@
+{
+  "id": "Q-184-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 184,
+  "service": "physio",
+  "topic": "Lifting weights for stronger bones",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/osteoporosis-exercise-bone-density/",
+  "slides": [
+    {
+      "top": "Quinn's plan for<br>strong <em>bones</em>: walking.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "proud",
+          "say": "Bones? Sorted. I walk daily."
+        }
+      ],
+      "bottom": "Great habit.<br>But is it enough?"
+    },
+    {
+      "top": "Then the GP brought up<br><mark>bone health</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Quinn considered bubble wrap.<br>Just in case."
+    },
+    {
+      "top": "New rule: no lifting<br><em>anything</em>. Ever.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "blank",
+          "think": "Too risky. I'll stay still."
+        }
+      ],
+      "bottom": "Not even the shopping bags."
+    },
+    {
+      "top": "Quinn checked<br>with Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Should I avoid weights now?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Kay: “Actually… the opposite.”"
+    },
+    {
+      "top": "Bones get stronger with<br>the right <mark>load</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Bone responds to being loaded"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Walking alone is usually<br>too light to do much."
+    },
+    {
+      "top": "Tip 1: <mark>Progressive</mark><br>strength training.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Supervised, and built up<br>step by step."
+    },
+    {
+      "top": "Tip 2: Add some<br>controlled <mark>impact</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Small hops or step-downs,<br>scaled to you."
+    },
+    {
+      "top": "Tip 3: Practise<br><mark>balance</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Fewer wobbles can mean<br>fewer falls."
+    },
+    {
+      "top": "Tip 4: Be <mark>patient</mark>.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Strength can build in weeks;<br>bone changes take months."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A past spine fracture"
+        }
+      ],
+      "bottom": "Or several risk factors — your<br>loading needs a tailored plan."
+    },
+    {
+      "top": "Strong bones like<br>a bit of <em>weight</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn thought daily walks had bone health sorted. Then the GP brought up bone health, and Quinn decided to never lift anything again — not even the shopping.\n\nKay explained it's usually the opposite: bone responds to load. Progressive resistance training plus some impact and balance work can help build bone and lower the risk of falls, while walking alone is usually too light.\n\nWhat can help: supervised, progressive strength training, controlled impact scaled to you, and regular balance practice. Strength can improve within weeks, while bone changes take months.\n\nIf you've had a spinal fracture or have several risk factors, loading should be carefully planned and tailored to you.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#bonehealth",
+    "#osteoporosis",
+    "#strengthtraining",
+    "#bonedensity",
+    "#healthyageing",
+    "#fallsprevention",
+    "#exercisephysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka learns from physio Kay that progressive strength, impact and balance training can help build stronger bones.",
+  "story": {
+    "headline": "Walking enough<br>for your bones?",
+    "body": "Quinn's new reel explains",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-18",
+  "scheduled_time": "18:00",
+  "created": "2027-02-18-2",
+  "status": "approved",
+  "review_warnings": []
+}

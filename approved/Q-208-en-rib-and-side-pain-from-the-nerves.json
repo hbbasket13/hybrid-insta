@@ -1,0 +1,210 @@
+{
+  "id": "Q-208-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 208,
+  "service": "physio",
+  "topic": "Rib and side pain from the nerves",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/rib-pain-and-intercostal-neuralgia-the-real-source-of-flank-pain/",
+  "slides": [
+    {
+      "top": "Quinn sneezed.<br>The side went <em>zing</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "sore",
+          "fx": [
+            "exclaim"
+          ],
+          "shout": "ACHOO— OW!"
+        }
+      ],
+      "bottom": "Right along the ribs."
+    },
+    {
+      "top": "Twisting? <em>Zing</em>.<br>Deep breaths? <em>Zing</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Quinn's ribs had opinions."
+    },
+    {
+      "top": "The internet said:<br>“just a <em>pulled muscle</em>.”",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone",
+          "think": "Then why is it still here?"
+        }
+      ],
+      "bottom": "Week three. Still zinging."
+    },
+    {
+      "top": "So Quinn saw Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "It wraps round my side like a belt"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked lots of questions."
+    },
+    {
+      "top": "Rib pain has <mark>many</mark><br>possible sources.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Joints, rib cartilage or a nerve"
+        },
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised"
+        }
+      ],
+      "bottom": "Serious causes get ruled out<br>first — then the plan."
+    },
+    {
+      "top": "Tip 1: Free up the<br><mark>mid-back</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Gentle arching and turning<br>through the upper back."
+    },
+    {
+      "top": "Tip 2: Slow <mark>belly</mark><br>breathing.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy",
+          "y": 752
+        }
+      ],
+      "bottom": "Breathe low and slow —<br>often kinder on sore ribs."
+    },
+    {
+      "top": "Tip 3: <mark>Hug a pillow</mark><br>to cough.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Bracing can make coughs<br>and sneezes more bearable."
+    },
+    {
+      "top": "Tip 4: Check progress<br>at <mark>4–8 weeks</mark>.",
+      "props": [
+        "calendar@180"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "determined",
+          "say": "No progress? Time to recheck."
+        }
+      ],
+      "bottom": "Not improving by then?<br>Get it reassessed."
+    },
+    {
+      "top": "Get checked <em>promptly</em> if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Chest pressure, breathlessness"
+        }
+      ],
+      "bottom": "Blood in urine, yellow skin,<br>a fall, fever or blistery rash."
+    },
+    {
+      "top": "Breathe easy, <em>Quinn</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn sneezed and the side went zing. Twisting and deep breaths did too, and three weeks later the internet's “pulled muscle” theory wasn't holding up.\n\nKay explained that rib and side pain has many possible sources, including the mid-back joints, rib cartilage and the nerves between the ribs. Serious causes get ruled out first, then the plan.\n\nWhat can help: restoring mid-back extension and rotation, slow belly breathing, hugging a pillow when you cough or sneeze, and getting reassessed if there's no progress in four to eight weeks.\n\nGet checked promptly for chest pressure, breathlessness, one-sided chest pain, blood in urine, yellow skin, a fall or injury, fever, night pain, or a blistery rash.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#ribpain",
+    "#sidepain",
+    "#intercostal",
+    "#backpain",
+    "#thoracicspine",
+    "#breathing",
+    "#nervepain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets zinging rib pain after a sneeze and learns from physio Kay about its possible sources, with mobility, breathing and pillow tips.",
+  "story": {
+    "headline": "Side goes zing<br>when you sneeze?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "sore"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-02",
+  "scheduled_time": "18:00",
+  "created": "2027-03-02-2",
+  "status": "approved",
+  "review_warnings": []
+}

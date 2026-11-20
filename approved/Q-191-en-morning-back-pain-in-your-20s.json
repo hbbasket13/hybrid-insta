@@ -1,0 +1,244 @@
+{
+  "id": "Q-191-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 191,
+  "service": "physio",
+  "topic": "Morning back pain in your 20s",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/inflammatory-back-pain-young-adults/",
+  "slides": [
+    {
+      "top": "Quinn, 24, wakes up<br>like a rusty <em>robot</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "say": "Why do I creak like an old gate?",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "Every. Single. Morning."
+    },
+    {
+      "top": "It takes about an<br><em>hour</em> to loosen up.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sleepy",
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Then a walk… and it eases?"
+    },
+    {
+      "top": "Weirder still: resting<br>makes it <em>worse</em>.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "blank",
+          "think": "Is the couch… the enemy?"
+        }
+      ],
+      "bottom": "And it wakes Quinn at night."
+    },
+    {
+      "top": "Quinn told Kay<br>the whole saga.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Isn't back pain an older-person thing?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay listened to the pattern."
+    },
+    {
+      "top": "Some back pain is<br><mark>inflammatory</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Better with movement, worse with rest"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It can start in your 20s<br>and is often picked up late."
+    },
+    {
+      "top": "Tip 1: Time your<br><mark>morning stiffness</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "determined",
+          "item": "phone",
+          "say": "Day 3: stiff for 50 minutes."
+        }
+      ],
+      "bottom": "Note if it often lasts longer<br>than 30–60 minutes."
+    },
+    {
+      "top": "Tip 2: Track what<br><mark>helps</mark> and what hurts.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Does moving ease it?<br>Does rest make it worse?"
+    },
+    {
+      "top": "Tip 3: Tell your GP<br>the <mark>whole picture</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "neutral"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Night pain? Eyes, skin, gut?"
+        }
+      ],
+      "bottom": "Night pain plus eye, skin or<br>bowel symptoms all matter."
+    },
+    {
+      "top": "Tip 4: Keep <mark>moving</mark><br>every day.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Regular exercise often helps<br>this type of back pain."
+    },
+    {
+      "top": "Pattern sticking around?<br>Ask about a <mark>specialist</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "think": "Worth asking the question."
+        }
+      ],
+      "bottom": "Your GP can talk with you<br>about a rheumatology review."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A painful red eye that keeps returning"
+        }
+      ],
+      "bottom": "Also psoriasis, bowel changes<br>or other swollen joints."
+    },
+    {
+      "top": "Young backs deserve<br>answers too.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn is 24 and wakes up stiff as a rusty robot every morning. It takes about an hour to loosen up, a walk helps, and resting on the couch somehow makes it worse.\n\nBack pain in young adults that eases with movement and worsens with rest may be inflammatory rather than mechanical, and it is often picked up late.\n\nWhat can help: note how long morning stiffness lasts, track whether exercise helps and rest hurts, tell your GP about night pain and any eye, skin or bowel symptoms, keep exercising, and ask about a rheumatology review if the pattern persists.\n\nGet it checked if you have a painful red eye that keeps returning, psoriasis, bowel changes or swelling in other joints.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#backpain",
+    "#lowbackpain",
+    "#morningstiffness",
+    "#youngadults",
+    "#spinehealth",
+    "#keepmoving",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has stiff mornings and back pain at 24, and physio Kay explains inflammatory back pain and what to track.",
+  "story": {
+    "headline": "Stiff every morning<br>in your 20s?",
+    "body": "What Quinn learned from Kay",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "props": [
+        "bed"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-22",
+  "scheduled_time": "09:00",
+  "created": "2027-02-22-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,226 @@
+{
+  "id": "Q-201-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 201,
+  "service": "physio",
+  "topic": "Runner's knee that keeps coming back",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/runners-knee-keeps-coming-back-because-youre-treating-the-wrong-joint/",
+  "slides": [
+    {
+      "top": "Quinn's knee pain is<br><em>back</em>. Again.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ],
+          "say": "Oh no. Not you again."
+        }
+      ],
+      "bottom": "Third comeback this year."
+    },
+    {
+      "top": "So Quinn did <em>500</em><br>quad exercises.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "The knee was unimpressed."
+    },
+    {
+      "top": "Rest. Run. <em>Ouch</em>.<br>Repeat.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sad",
+          "fx": [
+            "pain_knee"
+          ],
+          "think": "Is this a subscription?"
+        }
+      ],
+      "bottom": "The loop that never ends."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "I train my knee. Why won't it quit?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay looked a little higher up."
+    },
+    {
+      "top": "The knee is often the<br><mark>victim</mark>, not the culprit.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Weak hip control lets the knee drift in"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Hip work plus knee work tends<br>to help more than knee alone."
+    },
+    {
+      "top": "Tip 1: Train your<br><mark>glutes</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "About 3 times a week,<br>for at least 6 weeks."
+    },
+    {
+      "top": "Tip 2: <mark>Step-downs</mark>,<br>slow and steady.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined",
+          "say": "Knee over toes. No wobbling."
+        }
+      ],
+      "bottom": "Keep the knee lined up<br>over your toes."
+    },
+    {
+      "top": "Tip 3: Build running<br><mark>slowly</mark>.",
+      "props": [
+        "calendar@180"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Small steps up each week."
+        }
+      ],
+      "bottom": "Add no more than about 10%<br>to your weekly running."
+    },
+    {
+      "top": "Myth: strong quads<br>are <em>all</em> you need.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Quads help, but the hips<br>steer the knee too."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Your knee gives way or locks"
+        }
+      ],
+      "bottom": "Swelling over 4 weeks, pain at<br>rest or night, or after a fall."
+    },
+    {
+      "top": "Happy, steady <em>kms</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's runner's knee came back again, even after hundreds of quad exercises. Rest, run, ouch, repeat.\n\nKay explained that the knee is often the victim, not the culprit: when hip control is weak, the knee can drift inward on every stride. Adding hip work to knee work tends to help more than knee work alone.\n\nWhat can help: glute training about three times a week for at least six weeks, slow step-downs with the knee over the toes, and building weekly running by no more than about 10%.\n\nGet it checked if your knee gives way or locks, pain follows a fall or knock, swelling lasts more than four weeks, or there's pain at rest, at night or with a fever.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#runnersknee",
+    "#kneepain",
+    "#running",
+    "#runninginjury",
+    "#gluteactivation",
+    "#sportsphysio",
+    "#runnerslife",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka keeps getting knee pain from running and learns from physio Kay why the hips matter, with glute, step-down and running-load tips.",
+  "story": {
+    "headline": "Knee pain keeps<br>coming back?",
+    "body": "3 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-27",
+  "scheduled_time": "09:00",
+  "created": "2027-02-27-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,220 @@
+{
+  "id": "Q-173-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 173,
+  "service": "physio",
+  "topic": "First-step heel pain",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/plantar-fasciitis-first-step-heel-pain/",
+  "slides": [
+    {
+      "top": "6am. Quinn's first<br>step out of bed…",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "shout": "OW! Lego?!",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "There was no Lego."
+    },
+    {
+      "top": "Ten steps later:<br>weirdly <em>fine</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "blank",
+          "think": "Did I imagine that?"
+        }
+      ],
+      "bottom": "Then evening came. Ouch again."
+    },
+    {
+      "top": "Quinn's plan:<br><em>never walk again</em>.",
+      "props": [
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "proud",
+          "say": "Total rest. Forever."
+        }
+      ],
+      "bottom": "Bold. Not ideal."
+    },
+    {
+      "top": "Kay had a<br>different plan.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sore",
+          "say": "My heel hates mornings."
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: that sounds like<br>plantar heel pain."
+    },
+    {
+      "top": "Tissue <mark>overloaded</mark>,<br>not broken.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "It needs load managed, not endless rest"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "More load than it was<br>ready for, too soon."
+    },
+    {
+      "top": "Tip 1: <mark>Ease off</mark> the<br>worst activity.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined",
+          "say": "Short walks yes. Long runs later."
+        }
+      ],
+      "bottom": "Briefly — not everything."
+    },
+    {
+      "top": "Tip 2: <mark>Supportive</mark><br>shoes in flares.",
+      "props": [
+        "shoe@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Cushion and support can<br>take the edge off."
+    },
+    {
+      "top": "Tip 3: Calf and sole<br><mark>stretch</mark> for relief.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Handy before those<br>first morning steps."
+    },
+    {
+      "top": "Tip 4: Progressive<br><mark>calf raises</mark>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Then rebuild walking<br>and running in steps."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Big swelling, or bruising after a knock"
+        }
+      ],
+      "bottom": "Numbness, night pain, or<br>can't bear weight? Get checked."
+    },
+    {
+      "top": "Good mornings, one<br>step at a time.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Every morning, Quinn's first step out of bed felt like stepping on Lego. Ten steps later it eased, then came back in the evening. Quinn's plan: never walk again.\n\nFirst-step heel pain is often plantar heel pain, where the tissue has been loaded beyond what it's ready for. It usually needs load managed, not endless complete rest.\n\nWhat can help: briefly easing off the most provoking activity, supportive shoes during flares, calf and sole stretches for relief, and progressive calf raises before rebuilding walking and running in steps.\n\nGet it checked if there's big swelling, bruising after a knock, numbness, constant night pain, you can't bear weight, or it keeps worsening despite changes.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#heelpain",
+    "#plantarfasciitis",
+    "#footpain",
+    "#plantarheelpain",
+    "#calfraises",
+    "#runners",
+    "#footcare",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has painful first steps in the morning and learns load, footwear, stretching and calf strength tips from physio Kay.",
+  "story": {
+    "headline": "Ouch on the<br>first step?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore"
+        }
+      ],
+      "props": [
+        "bed"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-13",
+  "scheduled_time": "09:00",
+  "created": "2027-02-13-1",
+  "status": "approved",
+  "review_warnings": []
+}

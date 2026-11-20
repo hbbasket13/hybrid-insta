@@ -1,0 +1,236 @@
+{
+  "id": "Q-192-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 192,
+  "service": "physio",
+  "topic": "Strength training for runners",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/strength-training-for-runners-guide/",
+  "slides": [
+    {
+      "top": "Quinn runs 5 days a<br>week. <em>Lifting</em>? Never.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ],
+          "say": "Weights make you slow!"
+        }
+      ],
+      "bottom": "A classic runner's belief."
+    },
+    {
+      "top": "Then the niggles<br>started <em>queuing up</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Knee one week, calf the next."
+    },
+    {
+      "top": "Quinn's solution:<br>run <em>even more</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad",
+          "say": "Not you again, calf."
+        }
+      ],
+      "bottom": "Spoiler: it didn't help."
+    },
+    {
+      "top": "Quinn visited Kay<br>in Chatswood.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "But won't weights make me bulky?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay smiled. Big myth."
+    },
+    {
+      "top": "Strength work can<br>mean <mark>fewer niggles</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Stronger tissues handle the kilometres"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It may also make running more<br>efficient, with little bulk."
+    },
+    {
+      "top": "Tip 1: <mark>Two sessions</mark><br>a week.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "30–40 minutes each is<br>plenty to start."
+    },
+    {
+      "top": "Tip 2: Go <mark>heavy-ish</mark>,<br>4–8 reps.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Challenging sets, good form,<br>built up gradually."
+    },
+    {
+      "top": "Tip 3: Train <mark>single-leg</mark><br>and trunk.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Knees, hips and core — running<br>is one leg at a time."
+    },
+    {
+      "top": "Tip 4: Heavy<br><mark>calf raises</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calves do a huge share<br>of the work in every stride."
+    },
+    {
+      "top": "Tip 5: Lift <mark>after</mark><br>easy runs.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Keep hard runs and heavy leg<br>sessions apart."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A niggle that just won't settle"
+        }
+      ],
+      "bottom": "Or pain is changing the<br>way you run."
+    },
+    {
+      "top": "Strong legs,<br>happy kilometres.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn runs five days a week and never lifts, convinced weights make runners slow. Then the niggles started queuing up — knee one week, calf the next.\n\nHeavier strength training can reduce overuse injuries and may make running more efficient, usually without much bulk.\n\nWhat can help: two 30–40 minute sessions a week, working knees, hips, calves, single-leg strength and trunk with challenging 4–8 rep sets built up gradually. Lift after easy runs, and give heavy calf raises priority.\n\nGet it checked if a niggle keeps hanging around or pain is changing the way you run — a physio can help adjust your plan.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#running",
+    "#runners",
+    "#strengthtraining",
+    "#runninginjury",
+    "#calfraises",
+    "#runningtips",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka, a runner who never lifts, learns from physio Kay how strength training can help keep niggles away.",
+  "story": {
+    "headline": "Runner who<br>never lifts?",
+    "body": "5 strength tips from Quinn's reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-22",
+  "scheduled_time": "18:00",
+  "created": "2027-02-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

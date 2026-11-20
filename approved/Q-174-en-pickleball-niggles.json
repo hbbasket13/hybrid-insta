@@ -1,0 +1,216 @@
+{
+  "id": "Q-174-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 174,
+  "service": "physio",
+  "topic": "Pickleball niggles",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/pickleball-injuries-prevention-guide/",
+  "slides": [
+    {
+      "top": "Quinn discovered<br><em>pickleball</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "item": "ball",
+          "say": "It's basically gentle tennis."
+        }
+      ],
+      "bottom": "Famous last words."
+    },
+    {
+      "top": "Week one: <em>every</em> day.<br>Twice on Sunday.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Tissues: not consulted."
+    },
+    {
+      "top": "Then a lob. Quinn<br><em>backpedalled</em>…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "surprised",
+          "shout": "Whoa—!",
+          "fx": [
+            "pain_foot",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "…and the calf said NOPE."
+    },
+    {
+      "top": "Quinn limped in<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "say": "Pickleball attacked me."
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: a common story lately."
+    },
+    {
+      "top": "Enthusiasm outran<br>tissue <mark>capacity</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Lunges and pivots add up fast"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Calves, Achilles, elbows<br>and wrists take the hit."
+    },
+    {
+      "top": "Tip 1: Warm up with<br><mark>calf raises</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Start easy, then build<br>them up before you play."
+    },
+    {
+      "top": "Tip 2: Build single-leg<br><mark>calf strength</mark> off court.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Gym or home — a few<br>times a week."
+    },
+    {
+      "top": "Tip 3: Lob coming?<br><mark>Turn and run</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Never backpedal. Your<br>Achilles will thank you."
+    },
+    {
+      "top": "Tip 4: Start with<br><mark>two sessions</mark> a week.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Build up over<br>6–8 weeks."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Felt like a kick in the ankle?"
+        }
+      ],
+      "bottom": "Calf or elbow pain that<br>lingers? Get it checked."
+    },
+    {
+      "top": "See you on<br>the court.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn discovered pickleball, called it \"basically gentle tennis\", and played every day. Then came a lob, a backpedal and a very unhappy calf.\n\nPickleball injuries are rising as returning players ramp up faster than their tissues can adapt. Lunges, pivots and backpedalling load the calves, Achilles, elbows and wrists.\n\nWhat can help: warming up with progressive calf raises, building single-leg calf strength off court, turning and running for lobs instead of backpedalling, and starting with two sessions a week, building up over 6 to 8 weeks. Get niggles checked early.\n\nGet it checked if you feel a sudden \"kicked in the ankle\" sensation, or calf or elbow pain lingers.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#pickleball",
+    "#pickleballlife",
+    "#calfstrain",
+    "#achilles",
+    "#tenniselbow",
+    "#sportsinjury",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes pickleball and learns warm-up, calf strength, footwork and training load tips from physio Kay.",
+  "story": {
+    "headline": "Pickleball<br>niggles?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "item": "ball"
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-13",
+  "scheduled_time": "18:00",
+  "created": "2027-02-13-2",
+  "status": "approved",
+  "review_warnings": []
+}

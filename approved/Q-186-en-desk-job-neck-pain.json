@@ -1,0 +1,224 @@
+{
+  "id": "Q-186-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 186,
+  "service": "physio",
+  "topic": "Desk-job neck pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/tech-neck-desk-neck-pain-fix/",
+  "slides": [
+    {
+      "top": "Deadline day. Quinn<br>became a <em>turtle</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Head forward. Shoulders up.<br>Five hours straight."
+    },
+    {
+      "top": "By 4pm: a neck like<br>a <em>rusty</em> gate.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Every head turn came with<br>a dramatic sigh."
+    },
+    {
+      "top": "Quinn searched:<br>“text neck <em>damage</em>”.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone",
+          "think": "Is my spine bent for good?"
+        }
+      ],
+      "bottom": "The internet was<br>not calming."
+    },
+    {
+      "top": "Quinn booked in<br>with Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "Did my phone wreck my neck?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: “Let's take a look.”"
+    },
+    {
+      "top": "Usually it's <mark>stillness</mark>,<br>not damage.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Long, still positions tire it"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Stress and poor sleep can<br>turn the volume up."
+    },
+    {
+      "top": "Tip 1: <mark>Move</mark> every<br>30–45 minutes.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Stand, stretch, refill your<br>bottle. Tiny breaks add up."
+    },
+    {
+      "top": "Tip 2: Chin nods and<br><mark>band rows</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "determined",
+          "item": "band",
+          "say": "Nod… and row!"
+        }
+      ],
+      "bottom": "Wake up the deep neck and<br>upper back muscles."
+    },
+    {
+      "top": "Tip 3: Screen at <mark>eye level</mark>,<br>forearms supported.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "A laptop stand and armrests<br>can help."
+    },
+    {
+      "top": "Tip 4: <mark>Strengthen</mark>,<br>don't just stretch.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Stronger muscles can cope<br>better with long desk days."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain spreads below the elbow"
+        }
+      ],
+      "bottom": "Hand tingles, new headaches,<br>or no better after 2–3 weeks."
+    },
+    {
+      "top": "Less turtle.<br>More <em>quokka</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Deadline day: Quinn sat head-forward, shoulders up, for five hours straight — and by 4pm the neck felt like a rusty gate. A quick search about text neck did not help.\n\nDesk-job neck pain is mostly about long, still positions and tired deep neck muscles rather than damage. Stress and poor sleep can turn the volume up.\n\nWhat can help: movement breaks every 30–45 minutes, chin nods and band rows, a screen at eye level with forearms supported, and building strength rather than only stretching.\n\nGet it checked if pain spreads below the elbow, you get pins and needles in the hand, new or changing headaches appear, or there's no improvement after 2–3 weeks.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#neckpain",
+    "#techneck",
+    "#deskjob",
+    "#officeergonomics",
+    "#workfromhome",
+    "#posture",
+    "#neckstiffness",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets a stiff neck from a long deadline day and learns desk-friendly neck tips from physio Kay.",
+  "story": {
+    "headline": "Neck stiff after<br>a long desk day?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "determined"
+        }
+      ],
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-19",
+  "scheduled_time": "18:00",
+  "created": "2027-02-19-2",
+  "status": "approved",
+  "review_warnings": []
+}

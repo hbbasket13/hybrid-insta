@@ -1,0 +1,220 @@
+{
+  "id": "Q-204-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 204,
+  "service": "physio",
+  "topic": "The stiff upper back behind other pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/thoracic-mobility-the-hidden-variable-behind-shoulder-neck-and-back-pain/",
+  "slides": [
+    {
+      "top": "Quinn tried to check<br>a <em>blind spot</em>.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "surprised",
+          "think": "Why does my whole body turn?"
+        }
+      ],
+      "bottom": "Rotation level: fridge."
+    },
+    {
+      "top": "Also: sore neck. Sore<br>shoulder. Achy <em>back</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck",
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Three problems? Or one?"
+    },
+    {
+      "top": "Quinn treated each<br>one <em>separately</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank",
+          "say": "This is whack-a-mole."
+        }
+      ],
+      "bottom": "One eases, another pops up."
+    },
+    {
+      "top": "Quinn showed Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "Neck, shoulder AND back. Full set."
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the middle bit."
+    },
+    {
+      "top": "A stiff <mark>upper back</mark><br>makes neighbours overwork.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Neck and shoulders pick up the slack"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Often worth loosening the<br>middle, not just the sore bits."
+    },
+    {
+      "top": "Tip 1: <mark>Test</mark> your<br>rotation.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "say": "Turn… turn… is that 45°?"
+        }
+      ],
+      "bottom": "Sit, arms crossed, turn: under<br>about 45° hints at stiffness."
+    },
+    {
+      "top": "Tip 2: <mark>Foam roller</mark><br>extensions.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy",
+          "y": 752
+        }
+      ],
+      "bottom": "Roller across the upper back,<br>gently arch over it."
+    },
+    {
+      "top": "Tip 3: Thread<br>the <mark>needle</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "bottom": "On hands and knees, reach one<br>arm under and rotate."
+    },
+    {
+      "top": "Tip 4: Strengthen the<br><mark>shoulder blades</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "determined",
+          "item": "band",
+          "say": "Squeeze, hold, relax."
+        }
+      ],
+      "bottom": "5–10 minutes a day of mobility<br>plus this adds up."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Chest pain or breathlessness"
+        }
+      ],
+      "bottom": "After a fall, both arms or legs,<br>fever, weight loss, night pain."
+    },
+    {
+      "top": "Turn, twist, <em>look</em>!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn couldn't check a blind spot without turning the whole body like a fridge. Add a sore neck, a cranky shoulder and an achy back, each treated separately, and it felt like whack-a-mole.\n\nKay explained that a stiff upper back can make its neighbours overwork, so the neck, shoulders and lower back pick up the slack. It's often worth loosening the middle, not just the sore bits.\n\nWhat can help: testing seated rotation, foam roller extensions, thread-the-needle, and shoulder-blade strengthening, with 5–10 minutes most days.\n\nGet it checked after a fall or knock, if symptoms affect both arms or legs, with fever, weight loss or severe night pain, or with chest pain or breathlessness.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#upperbackpain",
+    "#thoracicspine",
+    "#neckpain",
+    "#shoulderpain",
+    "#backpain",
+    "#mobility",
+    "#posture",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has a sore neck, shoulder and back and learns from physio Kay how a stiff upper back can link them, with rotation and mobility tips.",
+  "story": {
+    "headline": "Neck, shoulder<br>AND back?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-28",
+  "scheduled_time": "18:00",
+  "created": "2027-02-28-2",
+  "status": "approved",
+  "review_warnings": []
+}

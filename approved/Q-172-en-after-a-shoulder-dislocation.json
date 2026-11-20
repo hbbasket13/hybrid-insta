@@ -1,0 +1,222 @@
+{
+  "id": "Q-172-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 172,
+  "service": "physio",
+  "topic": "After a shoulder dislocation",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/shoulder-dislocation-recovery-athletes/",
+  "slides": [
+    {
+      "top": "Quinn's footy debut:<br>a <em>heroic</em> dive.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "surprised",
+          "fx": [
+            "pain_shoulder",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Arm went one way. Shoulder<br>went the other."
+    },
+    {
+      "top": "It <em>popped back in</em>.<br>So… all good?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Sorted! Back on the field."
+        }
+      ],
+      "bottom": "Teammates: stunned silence."
+    },
+    {
+      "top": "Next day: sore,<br>wobbly, <em>nervous</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Every reach felt risky."
+    },
+    {
+      "top": "Quinn finally<br>saw Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sore",
+          "say": "It went back in, so it's fine?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: popped back in still<br>needs a proper check."
+    },
+    {
+      "top": "A first dislocation<br>can <mark>happen again</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Young athletes have a higher chance"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Age at the first one is<br>a big predictor of repeats."
+    },
+    {
+      "top": "Tip 1: Get a proper<br><mark>medical review</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "neutral"
+        },
+        {
+          "who": "kay",
+          "pose": "crouch",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Even if it went back<br>in on its own."
+    },
+    {
+      "top": "Tip 2: <mark>Gentle</mark> movement<br>in safe ranges.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy",
+          "say": "Small, comfy circles."
+        }
+      ],
+      "bottom": "Early, easy movement within<br>the ranges your physio sets."
+    },
+    {
+      "top": "Tip 3: Build cuff and<br><mark>shoulder-blade</mark> strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Progress the load<br>step by step."
+    },
+    {
+      "top": "Tip 4: <mark>Test</mark> before<br>you return.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "item": "ball"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Strength and confidence<br>both need to pass."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Numbness or weakness in the arm"
+        }
+      ],
+      "bottom": "Won't go back in cleanly?<br>Seek urgent care."
+    },
+    {
+      "top": "Back in the game,<br>one step at a time.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn dived for a mark at footy, the shoulder popped out and then popped back in. Sorted? The next day it felt sore, wobbly and untrustworthy.\n\nA first dislocation can happen again, especially in younger athletes, and age at the first dislocation is one of the strongest predictors of repeats. \"It went back in\" doesn't mean it doesn't need checking.\n\nWhat can help: a proper medical review, early gentle movement in safe ranges, progressive rotator cuff and shoulder-blade strength, and testing strength and confidence before returning to sport.\n\nSeek urgent care if you notice numbness or weakness in the arm, or the shoulder won't go back in cleanly.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#shoulderdislocation",
+    "#shoulderinjury",
+    "#sportsinjury",
+    "#footy",
+    "#sportsphysio",
+    "#rotatorcuff",
+    "#shoulderrehab",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka dislocates a shoulder at footy and learns review, movement, strength and return-to-sport testing tips from physio Kay.",
+  "story": {
+    "headline": "Shoulder popped<br>back in?",
+    "body": "Why it still needs a check",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-12",
+  "scheduled_time": "18:00",
+  "created": "2027-02-12-2",
+  "status": "approved",
+  "review_warnings": []
+}

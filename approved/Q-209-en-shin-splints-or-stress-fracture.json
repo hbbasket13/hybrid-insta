@@ -1,0 +1,221 @@
+{
+  "id": "Q-209-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 209,
+  "service": "physio",
+  "topic": "Shin splints or stress fracture?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/shin-splints-vs-stress-fracture/",
+  "slides": [
+    {
+      "top": "Quinn signed up for<br>a <em>half marathon</em>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Training starts… now!"
+        }
+      ],
+      "bottom": "Mileage: doubled overnight."
+    },
+    {
+      "top": "Week 2: the shins<br>start to <em>burn</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Ouch on every footstrike."
+    },
+    {
+      "top": "A mate: “Just run<br>through it!”",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried",
+          "think": "Hmm. Should I?"
+        }
+      ],
+      "bottom": "Quinn's shins voted no."
+    },
+    {
+      "top": "Quinn visited Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Shin splints, or something more?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay pressed along the shin."
+    },
+    {
+      "top": "<mark>Spread-out</mark> ache vs<br>one <mark>sore spot</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "One sharp spot can mean bone stress"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "That difference decides if<br>running can carry on."
+    },
+    {
+      "top": "Tip 1: Run <mark>less</mark>,<br>for now.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Ease back to a level where<br>symptoms stay low."
+    },
+    {
+      "top": "Tip 2: Find the<br><mark>load spike</mark>.",
+      "props": [
+        "calendar@180"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank",
+          "say": "Oh. I doubled everything."
+        }
+      ],
+      "bottom": "Sudden jumps in distance are<br>a common trigger."
+    },
+    {
+      "top": "Tip 3: Build <mark>calf</mark><br>strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calf raises, progressed<br>a little at a time."
+    },
+    {
+      "top": "Tip 4: Slightly <mark>quicker</mark><br>steps.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ],
+          "say": "Tiny steps. Tap tap tap."
+        }
+      ],
+      "bottom": "A 5–7% cadence bump may ease<br>the load — then rebuild slowly."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "One spot that's sore to press"
+        }
+      ],
+      "bottom": "Pain building mid-run, at rest,<br>at night or when hopping."
+    },
+    {
+      "top": "Happy <em>shins</em>,<br>happy kms.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn signed up for a half marathon and doubled the mileage overnight. By week two the shins were burning, and a mate said to just run through it.\n\nKay explained that a spread-out ache along the shin is different from one focal sore spot, which can point to bone stress. That difference decides whether running can carry on.\n\nWhat can help: cutting running back to a level where symptoms stay low, finding the load spike, building calf strength, trying slightly quicker steps (a 5–7% cadence increase), then rebuilding gradually.\n\nGet it checked if there's one spot that's sore to press, pain that builds during runs, or pain at rest, at night or when hopping.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#shinsplints",
+    "#shinpain",
+    "#running",
+    "#runninginjury",
+    "#stressfracture",
+    "#marathontraining",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets sore shins training for a half marathon and learns from physio Kay how to tell a spread-out ache from a focal sore spot, with running tips.",
+  "story": {
+    "headline": "Sore shins<br>on your runs?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-03",
+  "scheduled_time": "09:00",
+  "created": "2027-03-03-1",
+  "status": "approved",
+  "review_warnings": []
+}

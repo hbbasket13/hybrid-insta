@@ -1,0 +1,236 @@
+{
+  "id": "Q-190-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 190,
+  "service": "physio",
+  "topic": "Frozen shoulder: what actually helps",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/frozen-shoulder-treatment-guide/",
+  "slides": [
+    {
+      "top": "Quinn reached for<br>the <em>seatbelt</em>.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "The shoulder said: “No.”"
+    },
+    {
+      "top": "Weeks later: arm stuck<br>at <em>half-mast</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "blank",
+          "say": "This is as high as I go now."
+        }
+      ],
+      "bottom": "Putting on jumpers became<br>a team sport."
+    },
+    {
+      "top": "Nights: <em>ache</em> o'clock.",
+      "props": [
+        "bed",
+        "moon@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sore",
+          "y": 752,
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Rolling over? Ambitious."
+    },
+    {
+      "top": "Quinn saw Kay for<br>an assessment.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sad",
+          "say": "Is my shoulder stuck for good?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked how the<br>joint moved."
+    },
+    {
+      "top": "Frozen shoulder moves<br>through <mark>stages</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "The joint capsule gets tight"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Painful, then stiff, then<br>slowly thawing."
+    },
+    {
+      "top": "Myth: total <em>rest</em><br>makes it go away.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "blank",
+          "think": "So… I'll just nap it off?"
+        }
+      ],
+      "bottom": "Well-timed, gentle movement<br>is usually the better bet."
+    },
+    {
+      "top": "Tip 1: Match the plan<br>to the <mark>stage</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Gentle now. More later."
+        }
+      ],
+      "bottom": "No aggressive stretching while<br>it's in the painful phase."
+    },
+    {
+      "top": "Tip 2: <mark>Tailored</mark> hands-on<br>care and exercises.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Progressed as the shoulder<br>allows."
+    },
+    {
+      "top": "Tip 3: Keep the <mark>rest</mark><br>of you training.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Legs, cardio, the other arm —<br>all still on duty."
+    },
+    {
+      "top": "Tip 4: Ask your GP about<br>a <mark>blood sugar</mark> check.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "neutral",
+          "item": "phone",
+          "think": "Booking my GP…"
+        }
+      ],
+      "bottom": "More common with diabetes —<br>worth a check if never done."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Severe, constant pain at night"
+        }
+      ],
+      "bottom": "Or pain after a sudden injury<br>— get it properly assessed."
+    },
+    {
+      "top": "Thawing takes time —<br>we can <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn reached for the seatbelt and the shoulder said no. Weeks later the arm was stuck at half-mast, jumpers were a team sport, and nights were achy.\n\nFrozen shoulder is an irritated, tightened joint capsule that moves through painful, stiff and thawing stages. It's more common with diabetes and after the arm has been kept still. Complete rest isn't the answer.\n\nWhat can help: matching care to the stage, avoiding aggressive stretching in the painful phase, tailored hands-on care and staged exercise, keeping the rest of your body training, and asking your GP about a blood sugar check if you've never had one.\n\nGet it properly assessed if there's severe, constant night pain or pain after a sudden injury.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#frozenshoulder",
+    "#shoulderpain",
+    "#adhesivecapsulitis",
+    "#shoulderstiffness",
+    "#shoulderrehab",
+    "#nightpain",
+    "#shoulderhealth",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka develops a stiff, painful frozen shoulder and learns from physio Kay what tends to help at each stage.",
+  "story": {
+    "headline": "Shoulder stuck<br>at half-mast?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "blank"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-21",
+  "scheduled_time": "18:00",
+  "created": "2027-02-21-2",
+  "status": "approved",
+  "review_warnings": []
+}

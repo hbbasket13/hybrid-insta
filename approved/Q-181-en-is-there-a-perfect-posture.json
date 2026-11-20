@@ -1,0 +1,233 @@
+{
+  "id": "Q-181-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 181,
+  "service": "physio",
+  "topic": "Is there a perfect posture?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/perfect-posture-myth-research/",
+  "slides": [
+    {
+      "top": "Quinn read: “Sit up<br><em>straight</em> or else!”",
+      "props": [
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "think": "Spine: perfect. Do not move."
+        }
+      ],
+      "bottom": "So Quinn sat like a statue.<br>For four hours."
+    },
+    {
+      "top": "Result: a back that felt<br>like <em>cardboard</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "Perfect posture.<br>Very imperfect afternoon."
+    },
+    {
+      "top": "Next idea: a pricey<br>posture <em>gadget</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone",
+          "think": "Add to cart…?"
+        }
+      ],
+      "bottom": "Cart: full. Wallet: nervous."
+    },
+    {
+      "top": "Quinn asked Kay<br>for the answer.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "worried",
+          "say": "What's the RIGHT way to sit?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Kay smiled. Then shrugged."
+    },
+    {
+      "top": "Research: posture alone<br>rarely <mark>predicts pain</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy",
+          "say": "No single perfect posture"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "There's no single “correct”<br>posture. Spines are tough."
+    },
+    {
+      "top": "Tip 1: <mark>Change positions</mark><br>often.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Lean, perch, slouch — your best<br>posture is your next one."
+    },
+    {
+      "top": "Tip 2: <mark>Move</mark> every<br>30–45 minutes.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "A walk to the kettle counts."
+    },
+    {
+      "top": "Tip 3: Build <mark>strength</mark><br>and capacity.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Stronger bodies can handle<br>more positions, for longer."
+    },
+    {
+      "top": "Tip 4: In a flare, pick<br>what feels <mark>comfy</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy",
+          "y": 752
+        }
+      ],
+      "bottom": "No strict rules — just what<br>eases things for now."
+    },
+    {
+      "top": "And that posture<br><em>gadget</em>?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank",
+          "think": "Returned. Wallet relieved."
+        }
+      ],
+      "bottom": "Often not needed. Regular<br>movement tends to do more."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain keeps hanging around"
+        }
+      ],
+      "bottom": "A diagnosed spine condition,<br>or it's worsening anyway."
+    },
+    {
+      "top": "Sit however you like.<br>Just keep <em>moving</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn read that you must sit up straight or else, so Quinn sat like a statue for four hours — and ended up with a back like cardboard. Next stop: a pricey posture gadget.\n\nResearch suggests there's no single perfect posture, and posture alone is a poor predictor of pain. Your spine is strong and built to move.\n\nWhat can help: change positions often, get up every 30–45 minutes, build strength and capacity, and during a flare simply use whatever positions feel comfy. Posture correctors often aren't needed.\n\nGet it checked if pain keeps hanging around, you have a diagnosed spinal condition, or symptoms get worse despite changes.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#posture",
+    "#backpain",
+    "#deskjob",
+    "#officehealth",
+    "#movemore",
+    "#spinehealth",
+    "#workfromhome",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka sits rigidly straight, gets a stiff back, and learns from physio Kay that varied movement matters more than one perfect posture.",
+  "story": {
+    "headline": "Is there a<br>perfect posture?",
+    "body": "Quinn's new reel has the answer",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined"
+        }
+      ],
+      "props": [
+        "desk",
+        "laptop"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-17",
+  "scheduled_time": "09:00",
+  "created": "2027-02-17-1",
+  "status": "approved",
+  "review_warnings": []
+}

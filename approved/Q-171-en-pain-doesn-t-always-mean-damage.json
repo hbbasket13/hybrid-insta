@@ -1,0 +1,222 @@
+{
+  "id": "Q-171-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 171,
+  "service": "physio",
+  "topic": "Pain doesn't always mean damage",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/pain-does-not-mean-damage-explained/",
+  "slides": [
+    {
+      "top": "Quinn stubbed a toe<br>on the coffee table.",
+      "props": [
+        "table@840"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "shout": "I'm DYING!",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Pain level: Shakespearean."
+    },
+    {
+      "top": "Five minutes later:<br>totally <em>fine</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "think": "So why did it hurt SO much?"
+        }
+      ],
+      "bottom": "Zero damage. Lots of drama."
+    },
+    {
+      "top": "Then Quinn read a<br>scan report <em>online</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "“Disc bulge.” Cue spiral."
+    },
+    {
+      "top": "Quinn took it<br>to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "worried",
+          "say": "Is my back ruined?!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay stayed very calm."
+    },
+    {
+      "top": "Pain is an <mark>alarm</mark>,<br>not a damage meter.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Many pain-free backs show bulges too"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Your nervous system can turn<br>it up to protect you."
+    },
+    {
+      "top": "Tip 1: Learn how<br><mark>pain works</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "item": "book"
+        }
+      ],
+      "bottom": "Understanding it can help<br>turn the alarm down."
+    },
+    {
+      "top": "Tip 2: Return to activity<br><mark>gradually</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Small steps, a little<br>more each week."
+    },
+    {
+      "top": "Tip 3: Guard your<br><mark>sleep</mark>.",
+      "props": [
+        "bed",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "y": 752,
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Short sleep can make<br>the alarm more sensitive."
+    },
+    {
+      "top": "Tip 4: Mind your<br><mark>stress</mark>, too.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Worry and stress can<br>turn the volume up."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "New, severe or worsening pain"
+        }
+      ],
+      "bottom": "Or pain with no clear<br>cause? Get assessed."
+    },
+    {
+      "top": "Hurt doesn't always<br>mean harm.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn stubbed a toe and was sure it was the end. Five minutes later: fine. Then a scan report mentioning a \"disc bulge\" sent Quinn into an online spiral.\n\nPain is your nervous system's protective alarm, not a damage meter. Plenty of people with disc bulges on scans have no pain at all, and pain can be turned up by many things besides tissue damage.\n\nWhat can help: learning how pain works, returning to activity gradually, protecting your sleep, and looking after stress, since the whole person matters.\n\nGet it checked if pain is new, severe, worsening or has no clear cause.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#painscience",
+    "#backpain",
+    "#chronicpain",
+    "#discbulge",
+    "#painrelief",
+    "#movementismedicine",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka learns from physio Kay that pain is a protective alarm rather than a damage meter, with four tips for calming it.",
+  "story": {
+    "headline": "Does pain always<br>mean damage?",
+    "body": "Quinn's new reel explains",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank"
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-12",
+  "scheduled_time": "09:00",
+  "created": "2027-02-12-1",
+  "status": "approved",
+  "review_warnings": []
+}

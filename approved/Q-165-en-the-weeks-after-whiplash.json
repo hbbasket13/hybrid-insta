@@ -1,0 +1,232 @@
+{
+  "id": "Q-165-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 165,
+  "service": "physio",
+  "topic": "The weeks after whiplash",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/whiplash-recovery-after-car-accident/",
+  "slides": [
+    {
+      "top": "Bump. A low-speed<br>nudge at the lights.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Everyone okay. Phew."
+    },
+    {
+      "top": "Next day, Quinn's neck<br>felt <em>stiff</em> and sore.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Turning to look? Not today."
+    },
+    {
+      "top": "Quinn's plan: hold<br>perfectly <em>still</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "blank",
+          "think": "I am a statue now."
+        }
+      ],
+      "bottom": "Whole-body turns only."
+    },
+    {
+      "top": "Quinn checked in<br>with Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Should I wear a neck collar?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a gentler plan."
+    },
+    {
+      "top": "Most whiplash <mark>recovers</mark><br>well.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Moving within comfort helps"
+        },
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Gentle early movement often<br>beats resting it still."
+    },
+    {
+      "top": "Tip 1: Move your neck<br>within <mark>comfort</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Look left… look right…"
+        }
+      ],
+      "bottom": "Small turns and nods,<br>several times a day."
+    },
+    {
+      "top": "Tip 2: Short <mark>walks</mark> and<br>normal activity.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Keeping life fairly normal<br>can help recovery."
+    },
+    {
+      "top": "Tip 3: Build <mark>strength</mark><br>step by step.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Deep neck and shoulder-blade<br>muscles, guided by a physio."
+    },
+    {
+      "top": "Tip 4: Back to work<br><mark>as you're able</mark>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Short breaks, gentle ramp-up."
+    },
+    {
+      "top": "Worry about moving can<br><em>slow</em> things down.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Confidence is part of<br>the plan."
+    },
+    {
+      "top": "Get checked promptly if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Arm numbness or weakness"
+        }
+      ],
+      "bottom": "Severe headache, double<br>vision, or trouble walking."
+    },
+    {
+      "top": "Easy does it, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "A low-speed nudge at the lights, everyone okay, but the next day Quinn's neck was stiff and sore. Quinn's plan: hold perfectly still.\n\nMost whiplash is a soft-tissue strain that tends to recover well. Gentle early movement often helps more than resting in a collar, and worry about moving can slow things down.\n\nWhat can help: move your neck within comfort several times a day, keep up short walks and normal activity, build range and then deep neck and shoulder-blade strength step by step, and return to work as you're able.\n\nGet checked promptly for arm numbness or weakness, trouble walking or with coordination, a severe unusual headache, dizziness with double vision, or if you lost consciousness.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#whiplash",
+    "#neckpain",
+    "#stiffneck",
+    "#caraccident",
+    "#neckhealth",
+    "#recovery",
+    "#movementmatters",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has a stiff neck after a minor car bump and learns from physio Kay why gentle movement helps whiplash recovery.",
+  "story": {
+    "headline": "Stiff neck after<br>a car bump?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-09",
+  "scheduled_time": "09:00",
+  "created": "2027-02-09-1",
+  "status": "approved",
+  "review_warnings": []
+}

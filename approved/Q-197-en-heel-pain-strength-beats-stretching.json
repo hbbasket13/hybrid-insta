@@ -1,0 +1,241 @@
+{
+  "id": "Q-197-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 197,
+  "service": "physio",
+  "topic": "Heel pain: strength beats stretching",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/plantar-fasciitis-high-load-strength-training/",
+  "slides": [
+    {
+      "top": "Quinn's first step<br>each morning: <em>OW</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Like stepping on a Lego brick."
+    },
+    {
+      "top": "So Quinn stretched<br><em>everything</em>. Daily.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Calves, toes, the lot.<br>Heel: still grumpy."
+    },
+    {
+      "top": "Then came the foot<br>ball <em>rolling era</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "blank",
+          "item": "ball",
+          "think": "Day 40 of rolling."
+        }
+      ],
+      "bottom": "The heel was not impressed."
+    },
+    {
+      "top": "Quinn hobbled<br>in to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sad",
+          "say": "I've stretched for months!"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about strength work."
+    },
+    {
+      "top": "Heel pain often acts<br>like a <mark>load</mark> problem.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Strong calves help the heel cope"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Adding calf strength can help<br>recovery in the early months."
+    },
+    {
+      "top": "Tip 1: Single-leg<br><mark>heel raises</mark>.",
+      "props": [
+        "stairs@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Towel rolled under the toes,<br>holding on for balance."
+    },
+    {
+      "top": "Tip 2: Go <mark>slow</mark>: 3 up,<br>2 hold, 3 down.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Slow tempo makes every<br>rep count."
+    },
+    {
+      "top": "Tip 3: Every <mark>second</mark><br>day.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "3 sets of 12, dropping to 8<br>reps as the load goes up."
+    },
+    {
+      "top": "Tip 4: Add load with<br>a <mark>backpack</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "bag"
+        }
+      ],
+      "bottom": "Heavier backpack, fewer reps,<br>more strength."
+    },
+    {
+      "top": "Tip 5: Keep <mark>stretching</mark><br>too.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Strength plus stretching —<br>not one or the other."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Heel pain after a fall or knock"
+        }
+      ],
+      "bottom": "Swelling, numbness, tingling,<br>severe night pain or unwell."
+    },
+    {
+      "top": "Happier heels, one<br>rep at a time.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's first step every morning felt like stepping on a Lego brick. Months of stretching and foot rolling later, the heel was still grumpy.\n\nPlantar heel pain often behaves like a load problem, and adding high-load calf strengthening can help recovery in the first few months.\n\nWhat can help: single-leg heel raises with a rolled towel under the toes, done slowly (3 seconds up, 2 hold, 3 down), every second day. Start with 3 sets of 12 and drop toward 8 reps as you add load with a backpack — and keep stretching too.\n\nGet it checked if heel pain followed a fall or knock, or comes with swelling, numbness or tingling, severe night pain, or feeling unwell.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#heelpain",
+    "#plantarfasciitis",
+    "#footpain",
+    "#calfraises",
+    "#strengthtraining",
+    "#morningpain",
+    "#footcare",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has first-step heel pain and learns a slow, heavy calf-raise routine from physio Kay.",
+  "story": {
+    "headline": "First-step heel<br>pain?",
+    "body": "Quinn's 5-step heel routine",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "props": [
+        "bed"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-25",
+  "scheduled_time": "09:00",
+  "created": "2027-02-25-1",
+  "status": "approved",
+  "review_warnings": []
+}

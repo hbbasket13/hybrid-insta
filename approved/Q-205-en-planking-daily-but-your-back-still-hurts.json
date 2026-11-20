@@ -1,0 +1,228 @@
+{
+  "id": "Q-205-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 205,
+  "service": "physio",
+  "topic": "Planking daily but your back still hurts?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/you-plank-every-day-so-why-does-your-back-still-hurt/",
+  "slides": [
+    {
+      "top": "Quinn's daily habit:<br>a <em>5-minute</em> plank.",
+      "props": [
+        "clock@180"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Day 90. Unstoppable."
+        }
+      ],
+      "bottom": "Core of steel. Allegedly."
+    },
+    {
+      "top": "Yet the back still<br><em>aches</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ],
+          "think": "But… my abs?!"
+        }
+      ],
+      "bottom": "Every. Single. Morning."
+    },
+    {
+      "top": "New plan: plank<br><em>even longer</em>.",
+      "props": [
+        "clock@180"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "blank",
+          "fx": [
+            "sweat"
+          ],
+          "say": "Ten minutes. Shaking. Fine."
+        }
+      ],
+      "bottom": "The back: still not convinced."
+    },
+    {
+      "top": "Quinn visited Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "My core is strong. Why the pain?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about timing."
+    },
+    {
+      "top": "It's often <mark>timing</mark>,<br>not weak abs.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Deep muscles switching on a bit late"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Long planks train endurance,<br>not that quick timing."
+    },
+    {
+      "top": "Tip 1: Learn a gentle<br><mark>deep switch-on</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy",
+          "y": 752
+        }
+      ],
+      "bottom": "Lying down, breathing easy —<br>a light hold, not a brace."
+    },
+    {
+      "top": "Tip 2: Take it into<br><mark>sitting</mark>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Same gentle switch-on<br>while you work."
+    },
+    {
+      "top": "Tip 3: Then <mark>stand</mark><br>and step.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Standing, stepping, reaching —<br>everyday moves."
+    },
+    {
+      "top": "Tip 4: Add <mark>load</mark> once<br>it's reliable.",
+      "props": [
+        "boxes@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Then vary your exercises,<br>not one forever plank."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Leg numbness or tingling"
+        }
+      ],
+      "bottom": "Foot weakness, bladder or bowel<br>changes, or worsening pain."
+    },
+    {
+      "top": "Smarter core,<br>happier <em>back</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn planked for five minutes every day for 90 days. The back still ached every morning, so the next plan was to plank even longer.\n\nKay explained that persistent back pain is often about timing, not weak abs: the deep stabilising muscles may switch on a little late. Long planks build endurance but may not retrain that quick timing.\n\nWhat can help: learning a gentle deep switch-on lying down, then carrying it into sitting, standing and stepping, adding load once it feels reliable, and varying your exercises.\n\nGet it checked if you have leg pain with numbness or tingling, foot weakness, bladder or bowel changes, or pain that is severe or getting worse.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#backpain",
+    "#lowerbackpain",
+    "#plank",
+    "#corestrength",
+    "#coretraining",
+    "#pilates",
+    "#exercisetips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka planks daily but still has back pain and learns from physio Kay about deep muscle timing, with step-by-step core tips.",
+  "story": {
+    "headline": "Planking daily,<br>still sore?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "props": [
+        "clock@180"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-01",
+  "scheduled_time": "09:00",
+  "created": "2027-03-01-1",
+  "status": "approved",
+  "review_warnings": []
+}

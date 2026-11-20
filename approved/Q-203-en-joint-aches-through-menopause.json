@@ -1,0 +1,226 @@
+{
+  "id": "Q-203-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 203,
+  "service": "physio",
+  "topic": "Joint aches through menopause",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/menopause-joint-pain-musculoskeletal/",
+  "slides": [
+    {
+      "top": "Quinn's new morning<br>soundtrack: <em>creak</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "sleepy",
+          "think": "Was that me or the floor?"
+        }
+      ],
+      "bottom": "Every joint, a tiny door hinge."
+    },
+    {
+      "top": "Knees, hands, heels…<br>all a bit <em>moody</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Nothing happened. It just did."
+    },
+    {
+      "top": "Quinn's plan: <em>rest</em><br>everything. Forever.",
+      "props": [
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "blank",
+          "say": "Moving is cancelled."
+        }
+      ],
+      "bottom": "The aches stayed anyway."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is my body just… retiring?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Kay: not even close."
+    },
+    {
+      "top": "Falling <mark>oestrogen</mark><br>can make joints achy.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Muscle and bone can dip faster too"
+        },
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised"
+        }
+      ],
+      "bottom": "Common, and it often responds<br>well to the right approach."
+    },
+    {
+      "top": "Tip 1: <mark>Strength</mark><br>train 2–3× a week.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Add a little more load<br>as it gets easier."
+    },
+    {
+      "top": "Tip 2: Load sore tendons,<br>don't <mark>bench</mark> them.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Gentle, steady loading tends<br>to suit tendons more than rest."
+    },
+    {
+      "top": "Tip 3: A bit of <mark>impact</mark><br>for your bones.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Small hops and balance work,<br>built up gradually."
+    },
+    {
+      "top": "Tip 4: Plan around<br><mark>recovery</mark>.",
+      "props": [
+        "calendar@180"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "flip": true
+        }
+      ],
+      "bottom": "Rest days and good sleep let<br>the training sink in."
+    },
+    {
+      "top": "Myth: it's too late<br>to start at <em>50-ish</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Watch me, then."
+        }
+      ],
+      "bottom": "Strength training can help<br>at any age."
+    },
+    {
+      "top": "See your GP if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "New aches in many joints at once"
+        }
+      ],
+      "bottom": "Or morning stiffness in several<br>joints — other causes exist."
+    },
+    {
+      "top": "Creaky? Still <em>strong</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's mornings came with a new soundtrack: creak. Knees, hands and heels all felt moody, so the plan was to rest everything forever. The aches stayed anyway.\n\nKay explained that through menopause, falling oestrogen can make joints, tendons and muscles achy, and muscle and bone can dip faster. It's common and often responds well to the right approach.\n\nWhat can help: strength training two to three times a week, loading sore tendons rather than resting them, a little impact and balance work for bones, and planning sessions around recovery. It's not too late to start in your 50s.\n\nSee your GP if new pain appears in many joints at once or several joints feel stiff in the mornings, as other conditions can look similar.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#menopause",
+    "#perimenopause",
+    "#jointpain",
+    "#strengthtraining",
+    "#womenshealth",
+    "#bonehealth",
+    "#healthyageing",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka wakes up with creaky, achy joints and learns from physio Kay how strength, tendon loading, impact work and recovery can help through menopause.",
+  "story": {
+    "headline": "Creaky joints<br>lately?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "sleepy"
+        }
+      ],
+      "props": [
+        "bed"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-28",
+  "scheduled_time": "09:00",
+  "created": "2027-02-28-1",
+  "status": "approved",
+  "review_warnings": []
+}

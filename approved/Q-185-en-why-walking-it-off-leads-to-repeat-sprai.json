@@ -1,0 +1,209 @@
+{
+  "id": "Q-185-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 185,
+  "service": "physio",
+  "topic": "Why 'walking it off' leads to repeat sprains",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/ankle-sprain-recovery-chronic-instability/",
+  "slides": [
+    {
+      "top": "Quinn texted and walked.<br>Then: a <em>kerb</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "fx": [
+            "pain_foot",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Ankle went sideways.<br>Dignity went too."
+    },
+    {
+      "top": "Quinn's plan:<br><em>walk it off</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "determined",
+          "say": "I'll just walk it off."
+        }
+      ],
+      "bottom": "It settled in a week. Done!"
+    },
+    {
+      "top": "Two months later:<br>rolled it <em>again</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "sad",
+          "fx": [
+            "pain_foot",
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Then again in May. The ankle<br>now had a hobby."
+    },
+    {
+      "top": "Quinn finally<br>saw Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Why does it keep rolling?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about that<br>first sprain."
+    },
+    {
+      "top": "Pain fades <mark>before</mark><br>the ankle is ready.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Pain settles before balance"
+        },
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Balance and outer-ankle strength<br>can stay low without rehab."
+    },
+    {
+      "top": "Tip 1: Move <mark>early</mark>,<br>with some protection.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Gentle walking within comfort<br>— no heroics."
+    },
+    {
+      "top": "Tip 2: Restore range<br>and <mark>calf strength</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Calf raises, built up<br>gradually."
+    },
+    {
+      "top": "Tip 3: <mark>Balance</mark><br>training.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Firm floor first, then<br>wobbly surfaces."
+    },
+    {
+      "top": "Tip 4: <mark>Earn</mark> your<br>return to sport.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Pass hopping and side-step<br>tests first."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "You can't take four steps"
+        }
+      ],
+      "bottom": "Bony tenderness, a high sprain,<br>or swelling at six weeks."
+    },
+    {
+      "top": "Rehab it once.<br>Thank yourself <em>later</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn texted while walking, met a kerb, and rolled an ankle. The plan: walk it off. It felt fine in a week — then rolled again two months later, and again after that.\n\nPain often settles before the ankle is truly ready. Balance and outer-ankle strength can stay low, and skipping rehab after the first sprain is linked with ongoing instability.\n\nWhat can help: move early with some protection, restore range and calf strength, train balance from a firm floor to wobbly surfaces, and earn your return to sport with hopping and side-step tests.\n\nGet it checked if you can't take four steps, there's bony tenderness, it may be a high sprain, or swelling is still there at six weeks.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#anklesprain",
+    "#rolledankle",
+    "#anklerehab",
+    "#balancetraining",
+    "#sportsinjury",
+    "#sportsphysio",
+    "#ankleinstability",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka keeps re-spraining an ankle after walking it off and learns proper sprain rehab from physio Kay.",
+  "story": {
+    "headline": "Rolled that<br>ankle again?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "determined"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-02-19",
+  "scheduled_time": "09:00",
+  "created": "2027-02-19-1",
+  "status": "approved",
+  "review_warnings": []
+}

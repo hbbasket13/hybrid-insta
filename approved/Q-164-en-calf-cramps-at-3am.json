@@ -1,0 +1,245 @@
+{
+  "id": "Q-164-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 164,
+  "service": "physio",
+  "topic": "Calf cramps at 3am",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/night-leg-cramps-causes-help/",
+  "slides": [
+    {
+      "top": "3:07am. Quinn was<br>fast asleep.",
+      "props": [
+        "bed",
+        "blanket",
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "y": 752,
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Dreaming about snacks."
+    },
+    {
+      "top": "Then the calf turned<br>into a <em>rock</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sore",
+          "y": 752,
+          "fx": [
+            "sweat"
+          ],
+          "shout": "CALF! CALF! CALF!"
+        }
+      ],
+      "bottom": "Toes pointed. Muscle locked."
+    },
+    {
+      "top": "Quinn hopped around<br>the room in the dark.",
+      "props": [
+        "moon@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "x": 420,
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "The neighbours heard it all."
+    },
+    {
+      "top": "Next day, a very<br>sleepy Quinn saw Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sleepy",
+          "say": "My calf attacks me at 3am!"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had heard this one before."
+    },
+    {
+      "top": "Night cramps are <mark>common</mark><br>and usually harmless.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "neutral",
+          "say": "Annoying, but often manageable"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "More likely with age, and<br>after big, busy days."
+    },
+    {
+      "top": "Tip 1: A wall calf<br><mark>stretch</mark> before bed.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Hold gently, both sides."
+    },
+    {
+      "top": "Tip 2: Build calf<br><mark>strength</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Slow calf raises, most<br>days of the week."
+    },
+    {
+      "top": "Tip 3: <mark>Loosen</mark> tight<br>bedding.",
+      "props": [
+        "bed@690"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "x": 190
+        }
+      ],
+      "bottom": "Tucked sheets can keep your<br>toes pointed all night."
+    },
+    {
+      "top": "Tip 4: Drink water and<br><mark>pace</mark> big days.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Long day on your feet?<br>Wind down gently."
+    },
+    {
+      "top": "When it hits: <mark>stretch</mark><br>it firmly.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined",
+          "say": "Toes up. Breathe. Walk."
+        }
+      ],
+      "bottom": "Pull the toes towards you,<br>then walk it out."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "One calf swollen or red: same day"
+        }
+      ],
+      "bottom": "Also: frequent cramps,<br>weakness or numbness."
+    },
+    {
+      "top": "Sweet dreams, Quinn.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "3:07am: Quinn was fast asleep until a calf turned to rock and the hopping began.\n\nNight calf cramps are very common, become more frequent with age, and are usually harmless, even if they feel dramatic.\n\nWhat can help: a gentle wall calf stretch before bed, building calf strength with slow calf raises, loosening tight bedding that keeps your toes pointed, drinking enough water and pacing big days. When a cramp hits, pull your toes towards you and stretch it firmly, then walk it out. Bananas alone aren't a reliable shield.\n\nGet checked if cramps are frequent or worsening, or come with weakness or numbness. A calf that is swollen or red on one side needs a same-day medical check.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#legcramps",
+    "#nightcramps",
+    "#calfcramp",
+    "#calfpain",
+    "#sleepbetter",
+    "#calfstretch",
+    "#healthtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka is woken by a 3am calf cramp and learns from physio Kay how to stretch, strengthen and settle night cramps.",
+  "story": {
+    "headline": "Woken by a calf<br>cramp at 3am?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "y": 752,
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "props": [
+        "bed",
+        "blanket",
+        "moon@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-08",
+  "scheduled_time": "18:00",
+  "created": "2027-02-08-2",
+  "status": "approved",
+  "review_warnings": []
+}

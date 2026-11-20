@@ -1,0 +1,245 @@
+{
+  "id": "Q-189-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 189,
+  "service": "physio",
+  "topic": "Sciatica at your desk",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/sciatica-desk-workers-guide/",
+  "slides": [
+    {
+      "top": "Quinn's calendar:<br>meetings. <em>Back-to-back</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Bum in chair since 8am."
+    },
+    {
+      "top": "Then a <em>zing</em> shot from<br>bum to calf.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_bum",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Like the leg had its own<br>spicy opinion."
+    },
+    {
+      "top": "Sitting made it <em>worse</em>.<br>Standing? A bit better.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "Quinn's leg: very particular."
+    },
+    {
+      "top": "Quinn told Kay<br>everything.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "My leg is being so dramatic"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: sounds like sciatica."
+    },
+    {
+      "top": "Leg pain from an<br><mark>irritated nerve</mark> root.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy",
+          "say": "It often starts in the lower back"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Good news: most people improve<br>with conservative care."
+    },
+    {
+      "top": "Tip 1: Walk <mark>1–2 min</mark><br>every 30 minutes.",
+      "props": [
+        "clock@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Set a reminder. Meetings can<br>survive without you."
+    },
+    {
+      "top": "Tip 2: Find the <mark>direction</mark><br>that eases the leg.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "neutral",
+          "fx": [
+            "question"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Your physio can help you work<br>out which movement helps."
+    },
+    {
+      "top": "Tip 3: Keep <mark>walking</mark><br>most days.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hike",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Short, regular walks — legs<br>usually like them."
+    },
+    {
+      "top": "Tip 4: Add hip and trunk<br><mark>strength</mark> as it settles.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Not much better by 4–6 weeks?<br>Get it reviewed."
+    },
+    {
+      "top": "Myth: a disc bulge always<br>means <em>sciatica</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone",
+          "think": "My scan says “bulge”…?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Very common — and often painless"
+        }
+      ],
+      "bottom": "Many people without any pain<br>have bulges on scans."
+    },
+    {
+      "top": "Get it checked <mark>soon</mark> if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Numbness around the saddle area"
+        }
+      ],
+      "bottom": "Bladder or bowel changes, worse<br>leg weakness, or both legs."
+    },
+    {
+      "top": "Fewer marathon sits.<br>More <em>mini</em> walks.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's calendar was back-to-back meetings, and by mid-afternoon a zing shot from bum to calf. Sitting made it worse; standing helped a little.\n\nSciatica is radiating leg pain, usually from an irritated nerve root in the lower back, and most people improve with conservative care. Long sitting often stirs it up, and scan bulges are common even in people without pain.\n\nWhat can help: 1–2 minute walking breaks every 30 minutes, finding the movement direction that eases your leg, regular walks, and graded hip and trunk strength as it settles. Review it if it's not improving by 4–6 weeks.\n\nGet it checked promptly if you notice saddle numbness, bladder or bowel changes, worsening leg weakness, or symptoms in both legs.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#sciatica",
+    "#backpain",
+    "#legpain",
+    "#deskjob",
+    "#officehealth",
+    "#lowerbackpain",
+    "#nervepain",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets sciatica during back-to-back meetings and learns desk-friendly tips from physio Kay.",
+  "story": {
+    "headline": "Leg zings after<br>long meetings?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "blank"
+        }
+      ],
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-21",
+  "scheduled_time": "09:00",
+  "created": "2027-02-21-1",
+  "status": "approved",
+  "review_warnings": []
+}

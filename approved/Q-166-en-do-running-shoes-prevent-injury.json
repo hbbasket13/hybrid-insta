@@ -1,0 +1,234 @@
+{
+  "id": "Q-166-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 166,
+  "service": "physio",
+  "topic": "Do running shoes prevent injury?",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/running-shoes-injury-prevention-research/",
+  "slides": [
+    {
+      "top": "Quinn spent an hour<br>in the shoe shop.",
+      "props": [
+        "shoe@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "blank",
+          "x": 420,
+          "think": "Neutral? Stability? Carbon?!"
+        }
+      ],
+      "bottom": "So. Many. Foam. Options."
+    },
+    {
+      "top": "The shop filmed<br>Quinn's <em>feet</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "surprised",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Verdict: 'You over-pronate.'"
+    },
+    {
+      "top": "Quinn bought the<br><em>chunkiest</em> pair.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Injury-proof now!"
+        }
+      ],
+      "bottom": "The wallet got injured instead."
+    },
+    {
+      "top": "Quinn showed them<br>off to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "say": "These stop injuries, right?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay smiled. Then explained."
+    },
+    {
+      "top": "No shoe type clearly<br><mark>prevents</mark> injury.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Load matters more than foam"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "How you build training<br>matters much more."
+    },
+    {
+      "top": "Tip 1: Pick what feels<br><mark>comfortable</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Comfort is a sensible<br>starting point."
+    },
+    {
+      "top": "Tip 2: Change shoe<br>types <mark>gradually</mark>.",
+      "props": [
+        "shoe@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "x": 420
+        }
+      ],
+      "bottom": "New style? Mix it in over<br>a few weeks."
+    },
+    {
+      "top": "Tip 3: Save <mark>carbon</mark><br>racers for key days.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "And retire pairs that are<br>worn out."
+    },
+    {
+      "top": "Tip 4: Build load slowly<br>+ <mark>strength</mark> twice a week.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "This often matters most."
+    },
+    {
+      "top": "Rolling in doesn't always<br>need <em>correcting</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank",
+          "think": "The chunky shoes…"
+        }
+      ],
+      "bottom": "Plenty of feet pronate<br>and do just fine."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "New aches after a shoe change"
+        }
+      ],
+      "bottom": "Or pain that sticks around<br>despite easing training."
+    },
+    {
+      "top": "Happy running, Quinn!",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn spent an hour in the shoe shop, got told \"you over-pronate\", and bought the chunkiest pair available, certain they were injury-proof.\n\nResearch hasn't shown that any one shoe type clearly prevents running injuries. Training load errors, like doing too much too soon, tend to matter far more. Pronation doesn't always need to be \"corrected\".\n\nWhat can help: choose shoes that feel comfortable, change shoe types gradually, consider rotating two pairs, save carbon racers for key sessions, replace worn-out shoes, and build running load sensibly with strength work twice a week.\n\nGet it checked if new aches appear after a shoe change, or pain persists even after easing your training.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#runningshoes",
+    "#running",
+    "#runners",
+    "#runninginjury",
+    "#sydneyrunners",
+    "#runningtips",
+    "#sportsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka buys the chunkiest running shoes and learns from physio Kay that training load matters more than shoe type.",
+  "story": {
+    "headline": "Can shoes stop<br>running injuries?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "x": 420
+        }
+      ],
+      "props": [
+        "shoe@860"
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-09",
+  "scheduled_time": "18:00",
+  "created": "2027-02-09-2",
+  "status": "approved",
+  "review_warnings": []
+}

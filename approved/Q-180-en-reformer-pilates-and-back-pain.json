@@ -1,0 +1,219 @@
+{
+  "id": "Q-180-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 180,
+  "service": "physio",
+  "topic": "Reformer Pilates and back pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/reformer-pilates-back-pain-evidence/",
+  "slides": [
+    {
+      "top": "Quinn's friend called<br>reformer <em>magic</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "think": "Magic? For my back?"
+        }
+      ],
+      "bottom": "Quinn's back: intrigued."
+    },
+    {
+      "top": "First class: the<br><em>pro-level</em> group.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "sore",
+          "say": "Is this a spaceship?",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Springs, straps, panic."
+    },
+    {
+      "top": "Next morning: back<br><em>grumpier</em> than ever.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "Not quite the magic."
+    },
+    {
+      "top": "Quinn asked Kay:<br>is Pilates a <em>scam</em>?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sad",
+          "say": "Did Pilates betray me?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay: not a scam. Not magic."
+    },
+    {
+      "top": "It <mark>can</mark> help ongoing<br>back pain…",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "…as other structured exercise can"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "The best exercise is often<br>the one you'll keep doing."
+    },
+    {
+      "top": "Tip 1: Pick a class<br>you <mark>enjoy</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "item": "bag"
+        }
+      ],
+      "bottom": "Showing up regularly<br>matters most."
+    },
+    {
+      "top": "Tip 2: <mark>Tell</mark> the instructor<br>about your back.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Heads up: my back is a diva."
+        }
+      ],
+      "bottom": "Then they can adjust<br>exercises for you."
+    },
+    {
+      "top": "Tip 3: Start with a<br><mark>small beginner</mark> class.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "happy",
+          "y": 752
+        }
+      ],
+      "bottom": "More guidance, less chaos."
+    },
+    {
+      "top": "Tip 4: Judge it by<br><mark>next morning</mark>.",
+      "props": [
+        "sun@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Add strength work if you've<br>been inactive for a while."
+    },
+    {
+      "top": "Get assessed first if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Symptoms mostly down the leg"
+        }
+      ],
+      "bottom": "A recent flare, or pain worse<br>in certain positions?"
+    },
+    {
+      "top": "Find the exercise<br>you'll stick with.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's friend called reformer Pilates \"magic\" for back pain. Quinn's first class was a pro-level group, and the next morning the back was grumpier than ever.\n\nReformer Pilates can help ongoing low back pain, but the evidence suggests it isn't clearly better than other structured exercise. It's not a magic fix, and the best option is often the one you'll keep doing.\n\nWhat can help: picking a class you enjoy, telling the instructor about your back, starting with smaller beginner groups, judging each session by how you feel the next morning, and adding strength work if you've been inactive.\n\nGet an individual assessment first if symptoms are mostly in the leg, you're in a recent flare, or certain positions make the pain worse.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#reformerpilates",
+    "#pilates",
+    "#backpain",
+    "#lowbackpain",
+    "#clinicalpilates",
+    "#exercise",
+    "#pilatesbeginner",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka tries reformer Pilates for back pain and learns from physio Kay how to choose and start a class sensibly.",
+  "story": {
+    "headline": "Is reformer Pilates<br>magic for backs?",
+    "body": "Quinn's new reel explains",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sad"
+        }
+      ]
+    }
+  },
+  "scheduled_date": "2027-02-16",
+  "scheduled_time": "18:00",
+  "created": "2027-02-16-2",
+  "status": "approved",
+  "review_warnings": []
+}
