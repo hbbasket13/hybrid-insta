@@ -1,0 +1,224 @@
+{
+  "id": "Q-235-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 235,
+  "service": "physio",
+  "topic": "When can I drive again?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/returning-to-driving-after-injury-surgery/",
+  "slides": [
+    {
+      "top": "Quinn missed the car<br><em>very</em> much.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sad",
+          "think": "I miss you, little hatchback."
+        }
+      ],
+      "bottom": "Weeks of lifts from mates.<br>Their playlists: awful."
+    },
+    {
+      "top": "'I can walk now,'<br>Quinn reasoned.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined",
+          "say": "So… I can drive, right?"
+        }
+      ],
+      "bottom": "Bold logic. Let's test it."
+    },
+    {
+      "top": "Quinn hopped in the<br>driver's seat.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "worried",
+          "think": "Wait… could I brake hard?",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Parked, luckily. The doubts<br>arrived immediately."
+    },
+    {
+      "top": "Quinn asked Kay<br>at the next session.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "neutral",
+          "say": "When can I drive again?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Spoiler: it's not just<br>about the date."
+    },
+    {
+      "top": "It's about <mark>braking hard</mark><br>and swerving.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Your treating doctor gives the OK"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "And not being drowsy or<br>impaired — not just time."
+    },
+    {
+      "top": "Tip 1: Try the<br><mark>parked-car</mark> test.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Firm brake stamps and quick<br>turns — all pain-free?"
+    },
+    {
+      "top": "Tip 2: <mark>Which</mark> leg<br>matters.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "neutral",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Left leg in an automatic may<br>be earlier than the right."
+    },
+    {
+      "top": "Tip 3: No <mark>sling</mark>, no<br>boot on the driving leg.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Not without your doctor's<br>advice."
+    },
+    {
+      "top": "Tip 4: Start <mark>short</mark><br>and local.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "happy",
+          "item": "phone",
+          "think": "Quiet route, off-peak…"
+        }
+      ],
+      "bottom": "Off-peak first drives — and ask<br>what you're cleared for."
+    },
+    {
+      "top": "Hold off driving if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "You hesitate on an emergency stop"
+        }
+      ],
+      "bottom": "Or can't steer with both hands,<br>or feel drowsy or foggy."
+    },
+    {
+      "top": "Safe roads ahead —<br>we can <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn missed the car badly. The logic: \"I can walk, so I can drive.\" Then, in the parked car, doubts arrived.\n\nKay explains that returning to driving is about being able to brake hard, swerve and stay alert, not just the number of weeks. Clearance comes from your treating doctor.\n\nWhat can help: try a parked-car test with firm brake stamps and quick steering turns, pain-free; know that a left-leg injury in an automatic may be ready earlier than the right leg; don't drive in a sling or a boot on the driving leg without medical advice; keep first drives short, local and off-peak.\n\nHold off if you hesitate on an emergency stop, can't steer with both hands, or anything affects alertness.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#drivingafterinjury",
+    "#returntodriving",
+    "#injuryrecovery",
+    "#rehab",
+    "#kneerehab",
+    "#roadsafety",
+    "#recoveryjourney",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka is eager to drive again after an injury and learns from physio Kay what to check first, with clearance from the treating doctor.",
+  "story": {
+    "headline": "Itching to<br>drive again?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "determined"
+        }
+      ],
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-16",
+  "scheduled_time": "09:00",
+  "created": "2027-03-16-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,233 @@
+{
+  "id": "Q-251-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 251,
+  "service": "physio",
+  "topic": "Skate park falls and wrists",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/skateboarding-skate-park-injuries/",
+  "slides": [
+    {
+      "top": "Quinn, 38, bought<br>a <em>skateboard</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud",
+          "say": "Midlife crisis? No. Midlife CRUISE."
+        }
+      ],
+      "bottom": "The neighbours started<br>filming. Just in case."
+    },
+    {
+      "top": "First ramp. First go.<br>First <em>fall</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sore",
+          "fx": [
+            "motion",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Arms out straight.<br>Wrists took the hit."
+    },
+    {
+      "top": "Next day: wrist still<br><em>tender</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried",
+          "think": "It moves, so it's fine… right?"
+        }
+      ],
+      "bottom": "Spoiler: moving doesn't<br>rule out a break."
+    },
+    {
+      "top": "Quinn showed Kay<br>the <em>wrist</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sad",
+          "say": "I'm a skater now. Mostly on my back."
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked it and asked<br>about the fall."
+    },
+    {
+      "top": "Falls on <mark>straight arms</mark><br>load the wrist.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Wrists and ankles cop it most"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "And heads are the<br>serious risk."
+    },
+    {
+      "top": "Tip 1: <mark>Helmet</mark>, every<br>single time.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined",
+          "say": "Helmets aren't just for kids!"
+        }
+      ],
+      "bottom": "Grown-up skulls bump too."
+    },
+    {
+      "top": "Tip 2: Wrist guards<br>and <mark>pads</mark> at the park.",
+      "props": [
+        "backpack@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Knees and elbows<br>will thank you."
+    },
+    {
+      "top": "Tip 3: Learn to <mark>fall</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "blank",
+          "y": 752,
+          "say": "Roll. Don't brace. Let the board go."
+        }
+      ],
+      "bottom": "Tuck and roll beats<br>locked straight arms."
+    },
+    {
+      "top": "Tip 4: Adults: build<br>your <mark>legs</mark> first.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Ankle, knee and hip strength<br>before big tricks."
+    },
+    {
+      "top": "Tip 5: Finish <mark>rehab</mark><br>before the next session.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "bottom": "A graded return can help<br>avoid a repeat fall."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Any head knock or a possible break"
+        }
+      ],
+      "bottom": "Or a wrist still tender after<br>a couple of days — X-ray it."
+    },
+    {
+      "top": "Skate smart. We can<br><em>help</em> you roll on.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn, 38, bought a skateboard, met the first ramp, and landed on straight arms. The next day the wrist was still tender — but it moved, so it was fine… right?\n\nFalls at the skate park often load the wrists, elbows, ankles and shoulders, and head injuries are the serious risk. A wrist that moves can still be broken.\n\nWhat can help: a helmet every time (they're not just for kids), wrist guards and pads at the park, learning to roll rather than brace on straight arms, building leg strength first if you're returning as an adult, and finishing rehab before the next session.\n\nGet checked after any head knock, a suspected fracture, or a wrist still tender after a couple of days.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#skateboarding",
+    "#skatepark",
+    "#wristinjury",
+    "#helmetsave",
+    "#falls",
+    "#sportsinjury",
+    "#injuryprevention",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka takes up skateboarding, falls on a wrist, and learns from physio Kay how to skate and fall more safely.",
+  "story": {
+    "headline": "Took up skating<br>at 38?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-24",
+  "scheduled_time": "09:00",
+  "created": "2027-03-24-1",
+  "status": "approved",
+  "review_warnings": []
+}

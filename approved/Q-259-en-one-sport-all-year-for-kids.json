@@ -1,0 +1,232 @@
+{
+  "id": "Q-259-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 259,
+  "service": "physio",
+  "topic": "One sport all year for kids?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/youth-sport-specialisation-injury-risk/",
+  "slides": [
+    {
+      "top": "Nephew Ollie, 10:<br><em>tennis</em>. Only tennis.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "blank",
+          "item": "ball",
+          "say": "Tennis Monday. Tennis Tuesday…"
+        }
+      ],
+      "bottom": "Every day. All year."
+    },
+    {
+      "top": "Quinn checked Ollie's<br><em>calendar</em>.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank",
+          "fx": [
+            "sweat"
+          ],
+          "x": 380
+        }
+      ],
+      "bottom": "School, club, rep, private.<br>Free time: not found."
+    },
+    {
+      "top": "Then the <em>niggles</em><br>started.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Sore heel. Sore elbow.<br>Less fun on court."
+    },
+    {
+      "top": "Quinn asked Kay for<br>a reality check.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Doesn't he need one sport to go pro?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay looked at Ollie's whole<br>week of training."
+    },
+    {
+      "top": "One sport all year can<br>mean more <mark>overuse</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Plus burnout, not better results"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Early specialisation isn't<br>needed to reach the top."
+    },
+    {
+      "top": "Tip 1: Mix <mark>sports</mark><br>till mid-teens.",
+      "props": [
+        "ball@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Different moves can share<br>the load around."
+    },
+    {
+      "top": "Tip 2: Build in<br><mark>breaks</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Several weeks off each sport<br>a year. 1–2 rest days a week."
+    },
+    {
+      "top": "Tip 3: Count the<br><mark>total</mark> load.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "determined",
+          "think": "School + club + rep + private = ?"
+        }
+      ],
+      "bottom": "Every session counts,<br>not just one team's."
+    },
+    {
+      "top": "Tip 4: A rough <mark>guide</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "proud",
+          "say": "Weekly hours ≤ their age."
+        }
+      ],
+      "bottom": "Organised hours per week no<br>more than the child's age."
+    },
+    {
+      "top": "Tip 5: Add <mark>supervised</mark><br>strength work.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Age-appropriate and<br>well coached."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pain beyond a couple of weeks"
+        }
+      ],
+      "bottom": "Or limping, night pain, lost<br>enjoyment, or lots of niggles."
+    },
+    {
+      "top": "Let kids be <em>kids</em> —<br>we can help.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Nephew Ollie, 10, plays tennis. Only tennis. Every day, all year. Then the niggles started and the fun faded.\n\nPlaying one sport all year in childhood is linked to more overuse injuries and burnout, and it doesn't reliably make better athletes. Early specialisation isn't needed to reach the top.\n\nWhat can help: playing more than one sport until the mid-teens, several weeks off each sport a year plus 1–2 rest days a week, counting total load across every team and coach, a rough guide of weekly organised hours no more than the child's age, and supervised strength training.\n\nGet it checked for pain beyond a couple of weeks, limping, night pain, lost enjoyment, sleep or mood changes, or frequent minor injuries.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#youthsport",
+    "#kidssport",
+    "#juniorathlete",
+    "#overuseinjury",
+    "#multisport",
+    "#parenting",
+    "#kidshealth",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka's nephew plays tennis all year and physio Kay explains why mixing sports and resting can help young athletes.",
+  "story": {
+    "headline": "One sport,<br>all year?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "blank",
+          "item": "ball"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-28",
+  "scheduled_time": "09:00",
+  "created": "2027-03-28-1",
+  "status": "approved",
+  "review_warnings": []
+}

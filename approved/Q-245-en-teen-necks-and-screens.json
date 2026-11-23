@@ -1,0 +1,241 @@
+{
+  "id": "Q-245-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 245,
+  "service": "physio",
+  "topic": "Teen necks and screens",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/teenage-neck-pain-screens-guide/",
+  "slides": [
+    {
+      "top": "Quinn's niece Juno, 15,<br>has a <em>sore neck</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "blank",
+          "item": "phone",
+          "think": "Juno blames her phone. Fair?"
+        }
+      ],
+      "bottom": "So Quinn tried a day<br>of Juno's routine."
+    },
+    {
+      "top": "Hour 4 of scrolling.<br>Quinn's neck: <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "bottom": "Same position. No breaks.<br>Snacks within arm's reach."
+    },
+    {
+      "top": "Then homework on<br>the <em>bed</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "sleepy",
+          "item": "book",
+          "y": 752
+        }
+      ],
+      "bottom": "Then a late-night video…<br>or six."
+    },
+    {
+      "top": "Quinn asked Kay for<br>the teen verdict.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "worried",
+          "say": "Are phones wrecking teen spines?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had good news."
+    },
+    {
+      "top": "Screens aren't harming<br>spines <mark>for good</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Stillness, sleep and stress matter."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Long static positions, low<br>activity, weak neck stamina."
+    },
+    {
+      "top": "Tip 1: Break it up every<br>~<mark>30 minutes</mark>.",
+      "props": [
+        "clock@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Stand, move, look around,<br>then carry on."
+    },
+    {
+      "top": "Tip 2: Do something<br>they <mark>enjoy</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "happy",
+          "item": "ball",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Sport, dance, walks with<br>friends — any movement counts."
+    },
+    {
+      "top": "Tip 3: Build neck and<br>upper-back <mark>stamina</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "band"
+        }
+      ],
+      "bottom": "Simple endurance exercises<br>a physio can tailor."
+    },
+    {
+      "top": "Tip 4: Devices <mark>out</mark><br>of the bedroom.",
+      "props": [
+        "bed",
+        "moon@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "happy",
+          "fx": [
+            "zzz"
+          ],
+          "y": 752
+        }
+      ],
+      "bottom": "Better sleep can mean<br>a happier neck."
+    },
+    {
+      "top": "Tip 5: Raise the screen<br>for <mark>study</mark>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Laptop up, plus a separate<br>keyboard."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Arm pain, numbness or weakness?"
+        }
+      ],
+      "bottom": "Night pain, injury, severe<br>headaches, fever or weight loss."
+    },
+    {
+      "top": "Happy necks,<br>at <em>every</em> age.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's niece Juno, 15, blamed her phone for a sore neck, so Quinn tried her routine: hours of scrolling, homework on the bed and late-night videos. Quinn's neck asked for help.\n\nScreens aren't harming teen spines for good. Neck pain is linked to screen time, but long still positions, low activity, poor sleep, stress and low neck endurance often matter more.\n\nWhat can help: breaks about every 30 minutes, regular activity they enjoy, neck and upper-back endurance exercises, devices out of the bedroom, and a raised screen with a separate keyboard for study.\n\nGet it checked for night pain, arm pain, numbness or weakness, pain after an injury, severe or changing headaches, fever or weight loss, or pain that's limiting school.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#neckpain",
+    "#teenhealth",
+    "#screentime",
+    "#textneck",
+    "#studyposture",
+    "#sleephygiene",
+    "#neckexercises",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka tries his teenage niece's screen-heavy routine and learns from physio Kay what really helps teen necks.",
+  "story": {
+    "headline": "Teen neck<br>vs screens?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sore",
+          "fx": [
+            "pain_neck"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-21",
+  "scheduled_time": "09:00",
+  "created": "2027-03-21-1",
+  "status": "approved",
+  "review_warnings": []
+}

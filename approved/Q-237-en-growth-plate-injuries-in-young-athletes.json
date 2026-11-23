@@ -1,0 +1,212 @@
+{
+  "id": "Q-237-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 237,
+  "service": "physio",
+  "topic": "Growth plate injuries in young athletes",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/growth-plate-injuries-young-athletes/",
+  "slides": [
+    {
+      "top": "Coach Quinn's under-12s<br>had a <em>huge</em> season.",
+      "props": [
+        "ball@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Three teams, every weekend.<br>Coach was thrilled."
+    },
+    {
+      "top": "Little Pip mentioned a<br><em>sore</em> spot near the knee.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "say": "Just growing pains, mate!"
+        }
+      ],
+      "bottom": "Pip had mentioned it for<br>three weeks."
+    },
+    {
+      "top": "Then Quinn had a<br><em>second</em> thought.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "worried",
+          "think": "Three weeks is… a while."
+        }
+      ],
+      "bottom": "Coach brain finally<br>clocked in."
+    },
+    {
+      "top": "Quinn asked Kay<br>for advice.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "worried",
+          "say": "Pip's knee pain won't settle"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay suggested getting<br>Pip assessed."
+    },
+    {
+      "top": "Kids have<br><mark>growth plates</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "They're weaker than nearby bone"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Ongoing bone pain near a<br>joint is worth checking."
+    },
+    {
+      "top": "Tip 1: <mark>Reduce</mark> load —<br>don't just stop.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Trim the volume and keep<br>strength work going."
+    },
+    {
+      "top": "Tip 2: Watch the<br><mark>schedule</mark>.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "worried",
+          "item": "book",
+          "x": 420
+        }
+      ],
+      "bottom": "Year-round single sport and<br>multiple teams add up."
+    },
+    {
+      "top": "Tip 3: <mark>Growth spurt</mark>?<br>Adjust training.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "surprised"
+        }
+      ],
+      "bottom": "Fast-growing bodies need<br>time to catch up."
+    },
+    {
+      "top": "Tip 4: Supervised strength<br>work is <mark>safe</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "determined"
+        }
+      ],
+      "bottom": "And never play through<br>bone pain."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Bone pain after a fall"
+        }
+      ],
+      "bottom": "Or pain lasting over 1–2 weeks,<br>getting worse, or a limp."
+    },
+    {
+      "top": "Happy, <em>healthy</em><br>young athletes.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Coach Quinn's under-12s played three teams every weekend. When Pip had a sore spot near the knee for three weeks, Quinn said \"just growing pains\".\n\nKay explains that kids have growth plates near their joints, which are weaker than the nearby bone and tendon. Ongoing bone pain near a joint is worth checking.\n\nWhat can help: reduce training volume rather than stopping completely, keep strength work going, watch year-round single-sport schedules and multiple teams, adjust load during growth spurts, and remember supervised strength training is safe for kids. Don't play through bone pain.\n\nGet it checked after bone pain following a fall, pain lasting more than one to two weeks or getting worse, or a limp.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#growthplate",
+    "#youngathletes",
+    "#juniorsport",
+    "#kidsports",
+    "#sportsinjury",
+    "#kidsphysio",
+    "#parentingtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Coach Quinn the quokka learns from physio Kay why a young player's ongoing bone pain near the knee should be checked and how to manage training load.",
+  "story": {
+    "headline": "Just growing<br>pains?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-17",
+  "scheduled_time": "09:00",
+  "created": "2027-03-17-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,218 @@
+{
+  "id": "Q-222-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 222,
+  "service": "physio",
+  "topic": "Volleyball: jumping knees and shoulders",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/volleyball-injuries-prevention/",
+  "slides": [
+    {
+      "top": "Quinn joined the social<br><em>volleyball</em> team.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "item": "ball",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Jumped for every ball.<br>Even the ones going out."
+    },
+    {
+      "top": "Landed on a teammate's<br>foot. Ankle: <em>rolled</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "A classic landing at<br>the net."
+    },
+    {
+      "top": "Meanwhile, knees and<br>shoulder <em>grumbled</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ],
+          "think": "Was it the 400 jumps this week?"
+        }
+      ],
+      "bottom": "Overuse creeps in from<br>all that jumping and swinging."
+    },
+    {
+      "top": "Quinn brought it all<br>to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sad",
+          "say": "Do I have to give up spiking?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the ankle,<br>knees and shoulder."
+    },
+    {
+      "top": "Two kinds of trouble:<br><mark>sudden</mark> and <mark>slow</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Landings sprain. Volume overloads."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Sprains at the net, plus load<br>building up week to week."
+    },
+    {
+      "top": "Tip 1: Train your<br><mark>balance</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Extra important after<br>a past ankle sprain."
+    },
+    {
+      "top": "Tip 2: A <mark>brace</mark> can help<br>— on top of rehab.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "say": "Myth: braces weaken ankles. Nope!"
+        }
+      ],
+      "bottom": "Braces add support; they<br>don't replace the exercises."
+    },
+    {
+      "top": "Tip 3: <mark>Count</mark> your<br>jumps in preseason.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "book",
+          "say": "Jump log: 120 this week"
+        }
+      ],
+      "bottom": "Build weekly jump numbers<br>up gradually."
+    },
+    {
+      "top": "Tip 4: Serving and spiking<br>count as <mark>load</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "item": "ball",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Plan shoulder volume, and<br>coach spacing at the net."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Can't take a few steps on it?"
+        }
+      ],
+      "bottom": "Also: a dislocated shoulder or<br>a finger that won't straighten."
+    },
+    {
+      "top": "Jump smart — we're<br>here to <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined the social volleyball team, jumped for every ball, then landed on a teammate's foot and rolled an ankle. Knees and shoulder were grumbling too.\n\nVolleyball tends to cause two kinds of trouble: sudden ankle sprains when landing near the net, and slower overuse of knees and shoulders from lots of jumping and swinging.\n\nWhat can help: balance training (especially after a past sprain), a brace on top of rehab — braces don't weaken the ankle — counting weekly jumps in preseason and building gradually, and treating serving and spiking as shoulder load, with good net spacing.\n\nGet it checked if you can't take a few steps, a shoulder dislocates, muscle wastes around the shoulder blade, or a finger won't straighten.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#volleyball",
+    "#beachvolleyball",
+    "#anklesprain",
+    "#jumpersknee",
+    "#shoulderpain",
+    "#sportsinjury",
+    "#injuryprevention",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka sprains an ankle playing volleyball and learns from physio Kay how balance, braces and jump counts can help.",
+  "story": {
+    "headline": "Volleyball ankles<br>and shoulders?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "item": "ball",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-09",
+  "scheduled_time": "18:00",
+  "created": "2027-03-09-2",
+  "status": "approved",
+  "review_warnings": []
+}

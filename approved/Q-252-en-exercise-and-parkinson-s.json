@@ -1,0 +1,228 @@
+{
+  "id": "Q-252-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 252,
+  "service": "physio",
+  "topic": "Exercise and Parkinson's",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/parkinsons-disease-exercise-guide/",
+  "slides": [
+    {
+      "top": "Uncle Ray had news:<br><mark>Parkinson's</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "think": "How can I help?"
+        }
+      ],
+      "bottom": "Ray had a plan:<br>“We move. Together.”"
+    },
+    {
+      "top": "Ray's rule: exercise<br>is <em>not optional</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "blank",
+          "think": "I was hoping it was optional."
+        }
+      ],
+      "bottom": "Quinn, the new training<br>buddy, was not ready."
+    },
+    {
+      "top": "Day one: Ray out-walked<br><em>Quinn</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ],
+          "say": "Ray! Wait for me!"
+        }
+      ],
+      "bottom": "Training buddy status:<br>under review."
+    },
+    {
+      "top": "They asked Kay what<br><mark>actually</mark> helps.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "neutral",
+          "say": "What should Ray's plan include?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked Ray's walking<br>and balance."
+    },
+    {
+      "top": "Structured exercise<br>can <mark>help</mark> movement.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "And the benefits fade if you stop"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Best as a lifelong habit —<br>ideally started early."
+    },
+    {
+      "top": "Tip 1: Go <mark>big</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "say": "Big steps! Big reaches!"
+        }
+      ],
+      "bottom": "Big moves can help counter<br>small, shuffly steps."
+    },
+    {
+      "top": "Tip 2: Use a <mark>cue</mark><br>at doorways.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "say": "One, two, one, two…"
+        }
+      ],
+      "bottom": "Counting, a beat or a line<br>to step over can help freezing."
+    },
+    {
+      "top": "Tip 3: Practise<br><mark>walk + talk</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "say": "So anyway, the footy last night…"
+        },
+        {
+          "who": "kay",
+          "pose": "stand",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Supervised dual-task practice<br>builds real-life skills."
+    },
+    {
+      "top": "Tip 4: Strong <mark>legs</mark>,<br>steady balance.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Train for stairs and chairs —<br>ideally before any fall."
+    },
+    {
+      "top": "Tip 5: <mark>Dance</mark> and water<br>classes count too.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "sparkle",
+            "heart"
+          ]
+        }
+      ],
+      "bottom": "Mixed programs have good<br>evidence. Pick what you enjoy."
+    },
+    {
+      "top": "See the GP or<br>neurologist if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden worsening or a head knock"
+        }
+      ],
+      "bottom": "Or new confusion, fainting on<br>standing, rapid walking loss."
+    },
+    {
+      "top": "Keep moving, Ray —<br>we're in your <em>corner</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "When Uncle Ray was told he had Parkinson's, his plan was simple: we move, together. Quinn signed up as training buddy and was promptly out-walked on day one.\n\nStructured exercise can help movement and quality of life with Parkinson's, and the benefits tend to fade if you stop — so it works best as a lifelong habit, started early.\n\nWhat can help: big-amplitude movement, external cues like counting or a line to step over at doorways, supervised walk-and-talk practice, leg strength and balance work, and dance or water classes you enjoy.\n\nSee your GP or neurologist for sudden worsening, a fall with a head knock, new confusion, fainting on standing or a rapid loss of walking.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#parkinsons",
+    "#parkinsonsexercise",
+    "#neurophysio",
+    "#balancetraining",
+    "#fallsprevention",
+    "#healthyageing",
+    "#keepmoving",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka becomes a training buddy for Uncle Ray, who has Parkinson's, and physio Kay shares exercise ideas that can help.",
+  "story": {
+    "headline": "Parkinson's?<br>Let's move.",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-24",
+  "scheduled_time": "18:00",
+  "created": "2027-03-24-2",
+  "status": "approved",
+  "review_warnings": []
+}

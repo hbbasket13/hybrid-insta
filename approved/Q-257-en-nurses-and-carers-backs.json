@@ -1,0 +1,241 @@
+{
+  "id": "Q-257-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 257,
+  "service": "physio",
+  "topic": "Nurses' and carers' backs",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/healthcare-workers-injury-prevention/",
+  "slides": [
+    {
+      "top": "Nurse Quinn's shift:<br><em>12 hours</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "blank",
+          "fx": [
+            "motion"
+          ],
+          "say": "Step count: yes."
+        }
+      ],
+      "bottom": "Coffee count: also yes."
+    },
+    {
+      "top": "A patient slipped.<br>Quinn <em>grabbed</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "pain_back",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "No hoist. No second person.<br>One cranky back."
+    },
+    {
+      "top": "Then home. Then<br>day-sleep. <em>Sort of</em>.",
+      "props": [
+        "bed",
+        "sun@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "y": 752,
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Shift work: sleep's<br>arch-nemesis."
+    },
+    {
+      "top": "Quinn saw Kay on<br>a day off.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sad",
+          "say": "Is a sore back just part of nursing?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about Quinn's<br>ward and shifts."
+    },
+    {
+      "top": "Patient handling is<br><mark>unpredictable</mark> load.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Shifts and short sleep add up"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "And standing all day doesn't<br>build lifting strength."
+    },
+    {
+      "top": "Tip 1: Hoists and slide<br>sheets — <mark>every time</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined",
+          "say": "Even when we're rushed."
+        }
+      ],
+      "bottom": "The extra minute is<br>worth it."
+    },
+    {
+      "top": "Tip 2: Get a <mark>second</mark><br>pair of hands.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Can you give me a hand?"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Especially for unplanned<br>transfers."
+    },
+    {
+      "top": "Tip 3: Two short<br><mark>strength</mark> sessions a week.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Legs, hips and trunk. Short<br>is fine. Regular matters."
+    },
+    {
+      "top": "Tip 4: Good <mark>shoes</mark>,<br>keep shifting.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Change position during<br>long stretches of standing."
+    },
+    {
+      "top": "Tip 5: Protect <mark>sleep</mark><br>between shifts.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "eyemask",
+          "say": "Blackout blinds: activated."
+        }
+      ],
+      "bottom": "Dark, cool and quiet —<br>even at 10am."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Your back is sore most shifts"
+        }
+      ],
+      "bottom": "Or the same flare keeps<br>coming back."
+    },
+    {
+      "top": "Caring for others? Let<br>us <em>help</em> you, too.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Nurse Quinn's 12-hour shift: plenty of steps, plenty of coffee. Then a patient slipped, Quinn grabbed without a hoist or a second person, and the back filed a complaint. Day-sleep didn't help.\n\nPatient handling is unpredictable load, and long shifts, prolonged standing and broken sleep add up. Standing all day doesn't build the strength that lifting needs.\n\nWhat can help: using hoists and slide sheets every time, even when rushed, getting a second pair of hands for unplanned transfers, two short strength sessions a week, good footwear and changing position during long standing, and protecting sleep between shifts.\n\nIf your back is sore most shifts or the same flare keeps returning, get it assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#nurses",
+    "#nurselife",
+    "#carers",
+    "#healthcareworkers",
+    "#backpain",
+    "#shiftwork",
+    "#manualhandling",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka, a nurse, hurts their back on a long shift and learns from physio Kay how to protect it at work.",
+  "story": {
+    "headline": "Nurse back<br>after a shift?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-27",
+  "scheduled_time": "09:00",
+  "created": "2027-03-27-1",
+  "status": "approved",
+  "review_warnings": []
+}

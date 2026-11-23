@@ -1,0 +1,227 @@
+{
+  "id": "Q-212-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 212,
+  "service": "physio",
+  "topic": "Dizziness that comes with migraines",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/vestibular-migraine-dizziness-guide/",
+  "slides": [
+    {
+      "top": "Quinn was just sitting<br>there. Then: <em>spin</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "surprised",
+          "fx": [
+            "motion"
+          ],
+          "think": "Why is the room doing laps?"
+        }
+      ],
+      "bottom": "No headache. Just the room<br>going on a joyride."
+    },
+    {
+      "top": "Busy shops became a<br><em>rollercoaster</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "sad",
+          "item": "phone",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "So Quinn started ordering<br>groceries online. Only."
+    },
+    {
+      "top": "The spells came back.<br>And <em>back</em> again.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "On and off for weeks, with<br>a heavy, foggy head."
+    },
+    {
+      "top": "After the GP, Quinn<br>came to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "My GP said vestibular rehab?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about triggers<br>and tested balance."
+    },
+    {
+      "top": "It may be <mark>vestibular</mark><br><mark>migraine</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Dizziness can be the migraine itself"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Often no headache — and not<br>the same as ear-crystal BPPV."
+    },
+    {
+      "top": "Tip 1: Keep a <mark>trigger</mark><br><mark>diary</mark> for 2 months.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "item": "book",
+          "think": "Tuesday: no lunch. Spin."
+        }
+      ],
+      "bottom": "Sleep, meals, stress, screens —<br>look for the patterns."
+    },
+    {
+      "top": "Tip 2: Wake at the <mark>same</mark><br>time — weekends too.",
+      "props": [
+        "clock@120"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "sleepy",
+          "say": "Yes, even Sunday. Sigh.",
+          "x": 420
+        }
+      ],
+      "bottom": "A steady rhythm can help a<br>sensitive brain settle."
+    },
+    {
+      "top": "Tip 3: <mark>Graded</mark> practice<br>with head movement.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Vestibular rehab builds up to<br>busy places, bit by bit."
+    },
+    {
+      "top": "Tip 4: Don't let it<br><mark>shrink</mark> your world.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "bag",
+          "say": "Supermarket, I'm back!"
+        }
+      ],
+      "bottom": "Avoiding everything can keep<br>the system on high alert."
+    },
+    {
+      "top": "Get checked <em>urgently</em> if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "It's your first-ever severe vertigo"
+        }
+      ],
+      "bottom": "Or hearing loss, double vision,<br>slurred speech or weakness."
+    },
+    {
+      "top": "Steadier days can<br>start <em>here</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn was sitting on the couch when the room started spinning. No headache, just dizzy spells that kept coming back, until busy shops felt like a rollercoaster and the groceries went online.\n\nRecurring vertigo can be vestibular migraine, even without any headache. It's different from ear-crystal dizziness (BPPV) and is often missed.\n\nWhat can help: seeing your GP or a neurologist first, keeping a trigger diary for about two months, waking at the same time every day, graded vestibular rehab with head movement and busy visual places, and not letting the dizziness shrink your life.\n\nGet urgent help for a first severe vertigo attack, or dizziness with hearing loss, double vision, slurred speech, weakness or numbness, trouble walking, or after a head injury.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#vestibularmigraine",
+    "#dizziness",
+    "#vertigo",
+    "#vestibularrehab",
+    "#migraine",
+    "#balance",
+    "#chatswood",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka has recurring dizzy spells without headaches and learns from physio Kay about vestibular migraine and graded rehab.",
+  "story": {
+    "headline": "Dizzy, but<br>no headache?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-04",
+  "scheduled_time": "18:00",
+  "created": "2027-03-04-2",
+  "status": "approved",
+  "review_warnings": []
+}

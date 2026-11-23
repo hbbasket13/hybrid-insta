@@ -1,0 +1,239 @@
+{
+  "id": "Q-244-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 244,
+  "service": "physio",
+  "topic": "Weight loss and knee pain",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/weight-loss-joint-pain-evidence/",
+  "slides": [
+    {
+      "top": "Quinn's knees had<br><em>opinions</em> about stairs.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Every step: a small<br>complaint."
+    },
+    {
+      "top": "Online advice was<br><em>very loud</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone",
+          "think": "Lose weight first, then move?"
+        }
+      ],
+      "bottom": "Quinn felt stuck before<br>even starting."
+    },
+    {
+      "top": "And a little <em>guilty</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "fx": [
+            "gloom"
+          ],
+          "think": "Is this all my fault?"
+        }
+      ],
+      "bottom": "Plot twist: it isn't<br>a matter of fault."
+    },
+    {
+      "top": "Quinn talked it<br>through with Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Where do I even start?"
+        },
+        {
+          "who": "kay",
+          "pose": "stand",
+          "face": "happy",
+          "say": "With movement you enjoy."
+        }
+      ],
+      "bottom": "No lectures. Just a plan."
+    },
+    {
+      "top": "Exercise can help knees<br>all on its <mark>own</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Exercise alone can ease knee pain."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "If weight changes too, the<br>benefits can add up."
+    },
+    {
+      "top": "Myth: you must lose<br>weight <em>before</em> exercising.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy",
+          "say": "Starting today, as I am!"
+        }
+      ],
+      "bottom": "Start where you are, at a<br>pace that suits you."
+    },
+    {
+      "top": "Tip 1: Walking hurts?<br>Try <mark>low-impact</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Water exercise, cycling or<br>seated strength all count."
+    },
+    {
+      "top": "Tip 2: Build <mark>strength</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Strong muscles help support<br>the knee."
+    },
+    {
+      "top": "Tip 3: Bring in<br>your <mark>team</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Dietitian for food, GP for health."
+        }
+      ],
+      "bottom": "A dietitian for nutrition,<br>your GP for medical advice."
+    },
+    {
+      "top": "Tip 4: <mark>Small</mark> steps count.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Even modest changes can be<br>worthwhile for knees."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Hot, very swollen, or giving way?"
+        }
+      ],
+      "bottom": "Or pain that keeps building<br>despite a sensible plan."
+    },
+    {
+      "top": "Kind steps,<br><em>happier</em> knees.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's knees had opinions about stairs, the internet said to lose weight before moving, and Quinn started to feel guilty. It isn't a matter of fault.\n\nExercise can ease knee arthritis pain and help function even without any change in weight. When weight does change, the benefits can add up, especially alongside exercise.\n\nWhat can help: start with movement you enjoy, choose low-impact options like water exercise, cycling or seated strength if walking hurts, build strength to support the knee, bring in a dietitian for nutrition and your GP for medical advice, and remember even modest changes can be worthwhile.\n\nGet it checked if the knee is hot, very swollen, giving way, or pain keeps building.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#kneepain",
+    "#kneearthritis",
+    "#osteoarthritis",
+    "#exerciseismedicine",
+    "#lowimpactexercise",
+    "#strengthtraining",
+    "#jointhealth",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka worries about knee pain and weight, and learns from physio Kay that kind, gradual exercise can help.",
+  "story": {
+    "headline": "Sore knees,<br>loud advice?",
+    "body": "A kinder way to start",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "props": [
+        "stairs"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-20",
+  "scheduled_time": "18:00",
+  "created": "2027-03-20-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,228 @@
+{
+  "id": "Q-247-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 247,
+  "service": "physio",
+  "topic": "Skin, nails and sore joints",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/psoriatic-arthritis-joint-pain/",
+  "slides": [
+    {
+      "top": "Quinn's <em>heel</em> has been<br>grumpy for weeks.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "No new shoes. No new sport.<br>Just… grumpy."
+    },
+    {
+      "top": "Mornings: <em>stiff</em><br>as a plank.",
+      "props": [
+        "clock@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sleepy"
+        }
+      ],
+      "bottom": "It took ages to loosen up —<br>then eased with moving."
+    },
+    {
+      "top": "Then a toe turned into<br>a little <em>sausage</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ],
+          "shout": "My toe is a chipolata!"
+        }
+      ],
+      "bottom": "Quinn also has psoriasis<br>and odd-looking nails."
+    },
+    {
+      "top": "Quinn showed Kay<br>the whole list.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Heel, toe, nails, skin… linked?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay listened carefully."
+    },
+    {
+      "top": "Skin and joints can be<br><mark>connected</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Psoriatic arthritis is one possibility."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It can appear years after<br>psoriasis starts."
+    },
+    {
+      "top": "Myth: it's <em>just</em><br>overuse.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "blank",
+          "think": "Stiff after rest, better moving?"
+        }
+      ],
+      "bottom": "That pattern can hint at<br>inflammation, not wear."
+    },
+    {
+      "top": "Tip 1: Note your <mark>pattern</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "neutral",
+          "item": "book"
+        }
+      ],
+      "bottom": "Morning stiffness over<br>30 minutes is worth noting."
+    },
+    {
+      "top": "Tip 2: Ask your GP about<br>a <mark>rheumatologist</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "determined",
+          "item": "phone",
+          "say": "Booking a chat with my GP."
+        }
+      ],
+      "bottom": "Especially with skin or nail<br>changes + pain in many spots."
+    },
+    {
+      "top": "Tip 3: <mark>Photograph</mark><br>the swelling.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "wink",
+          "item": "phone"
+        }
+      ],
+      "bottom": "Swollen fingers and toes<br>don't always show on the day."
+    },
+    {
+      "top": "Tip 4: Keep moving,<br><mark>gently</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Graded strength work. Flare<br>day? Lighter, not zero."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Painful red eye: same-day check"
+        }
+      ],
+      "bottom": "Also a hot swollen joint with<br>fever, or fast-growing swelling."
+    },
+    {
+      "top": "Skin and joints —<br>we're here to <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn had a grumpy heel, stiff mornings and a toe like a little sausage — plus psoriasis and changing nails.\n\nSkin and joints can be connected. Psoriatic arthritis can appear years after psoriasis. Stiffness that's worst after rest and eases with movement is a clue that it may not be just overuse.\n\nWhat can help: note your pattern, including morning stiffness over 30 minutes, ask your GP about a rheumatology opinion, photograph swollen fingers or toes, and keep up graded strength work, doing a lighter routine on flare days rather than stopping.\n\nGet same-day care for a painful red eye, and get checked for a hot swollen joint with fever or rapidly worsening swelling.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#psoriaticarthritis",
+    "#psoriasis",
+    "#jointpain",
+    "#morningstiffness",
+    "#heelpain",
+    "#inflammatoryarthritis",
+    "#movementmatters",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka notices heel pain, morning stiffness and a swollen toe alongside psoriasis, and learns from physio Kay what the pattern can mean.",
+  "story": {
+    "headline": "Skin, nails<br>and sore joints?",
+    "body": "They can be connected",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-22",
+  "scheduled_time": "09:00",
+  "created": "2027-03-22-1",
+  "status": "approved",
+  "review_warnings": []
+}

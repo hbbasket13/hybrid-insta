@@ -1,0 +1,216 @@
+{
+  "id": "Q-239-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 239,
+  "service": "physio",
+  "topic": "Boxing: wrists, shoulders and necks",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/boxing-martial-arts-injuries/",
+  "slides": [
+    {
+      "top": "Quinn joined a<br><em>boxing</em> class.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined",
+          "shout": "Float like a quokka!",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Sting like… a slightly<br>sleepy quokka."
+    },
+    {
+      "top": "Week 1: Quinn hit the bag<br>like it owed <em>rent</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "determined",
+          "fx": [
+            "motion",
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "No wraps. Maximum<br>enthusiasm."
+    },
+    {
+      "top": "Week 2: wrists and<br>knuckles <em>complained</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "say": "My knuckles filed a report.",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "The shoulders grumbled, too."
+    },
+    {
+      "top": "Quinn showed Kay<br>those knuckles.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "sad",
+          "say": "It's just bruising, right?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay took a careful look."
+    },
+    {
+      "top": "Hands, wrists and<br>shoulders take <mark>load</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Head knocks are the big concern"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Fitness boxing without sparring<br>is much lower risk."
+    },
+    {
+      "top": "Tip 1: <mark>Technique</mark><br>before power.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Learn the form first, then<br>hit harder."
+    },
+    {
+      "top": "Tip 2: <mark>Wrap</mark> your hands<br>every session.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "band"
+        }
+      ],
+      "bottom": "Every. Single. Session."
+    },
+    {
+      "top": "Tip 3: Grip, wrist,<br>shoulder and <mark>neck</mark> strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Stronger links in the<br>punching chain."
+    },
+    {
+      "top": "Tip 4: Limit <mark>head</mark><br>contact.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "determined",
+          "say": "Pad work first, slowly more"
+        }
+      ],
+      "bottom": "Keep sparring limited and<br>build bag work gradually."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Possible concussion: stop, get checked"
+        }
+      ],
+      "bottom": "Lasting knuckle pain or swelling<br>may need an X-ray."
+    },
+    {
+      "top": "Guard up — and look<br>after your <em>body</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn hit the boxing bag like it owed rent — no wraps. By week two, wrists, knuckles and shoulders complained.\n\nKay explains that hands, wrists and shoulders take a lot of load in boxing, while head knocks are the serious concern. Fitness boxing without sparring is much lower risk. And a sore knuckle isn't always just bruising.\n\nWhat can help: learn technique before hitting hard, wrap your hands every session, build grip, wrist, shoulder and neck strength, limit sparring and head contact, and increase bag and pad volume gradually.\n\nGet it checked if a concussion is suspected (stop and get assessed), knuckle pain or hand swelling lingers — it may need an X-ray — or wrist pain won't settle.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#boxing",
+    "#boxingtraining",
+    "#martialarts",
+    "#wristpain",
+    "#handinjury",
+    "#fitnessboxing",
+    "#concussionawareness",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka starts boxing without hand wraps and learns from physio Kay how to protect wrists, shoulders and neck.",
+  "story": {
+    "headline": "Boxing<br>knuckles sore?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "determined"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-18",
+  "scheduled_time": "09:00",
+  "created": "2027-03-18-1",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,219 @@
+{
+  "id": "Q-240-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 240,
+  "service": "physio",
+  "topic": "Scoliosis in adults",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/adult-scoliosis-management/",
+  "slides": [
+    {
+      "top": "Two hours in a concert<br><em>queue</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "bottom": "Tickets: worth it. Lower back:<br>unconvinced."
+    },
+    {
+      "top": "An old X-ray report<br>mentioned a <em>curve</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "think": "Scoli-what-now?"
+        }
+      ],
+      "bottom": "Quinn had questions.<br>So many questions."
+    },
+    {
+      "top": "Quinn planned to<br><em>straighten</em> it by Friday.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Ambitious. Very ambitious."
+    },
+    {
+      "top": "Quinn booked in<br>with Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "neutral",
+          "say": "Can exercise straighten my spine?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay was honest and kind."
+    },
+    {
+      "top": "In adults, it's about how<br>you <mark>feel and move</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Curve size often doesn't match pain"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Exercise can help comfort and<br>function — not the curve."
+    },
+    {
+      "top": "Tip 1: Strengthen trunk<br>and <mark>hips</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Plus general fitness you<br>actually enjoy."
+    },
+    {
+      "top": "Tip 2: Move into the<br><mark>stiff</mark> directions.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Gentle mobility where your<br>spine feels restricted."
+    },
+    {
+      "top": "Tip 3: <mark>Pace</mark> standing<br>and walking.",
+      "props": [
+        "chair",
+        "clock@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Short breaks before the<br>ache builds."
+    },
+    {
+      "top": "Tip 4: Ask about tailored<br><mark>scoliosis</mark> exercises.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "And chat to your GP about<br>managing pain."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Leg symptoms that keep spreading"
+        }
+      ],
+      "bottom": "Or weakness, bladder or bowel<br>change, or a worsening curve."
+    },
+    {
+      "top": "Curves and all —<br>we can <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "A long queue left Quinn's back unconvinced, and an old X-ray mentioned a curve. The plan: straighten it by Friday.\n\nKay was honest and kind: in adults, scoliosis care is about pain, endurance and how you move. Curve size often doesn't match symptoms, and exercise is the first step — it can help comfort and function, though it won't straighten an adult curve.\n\nWhat can help: trunk and hip strength plus general fitness, gentle mobility into the directions that feel restricted, pacing standing and walking with short breaks, scoliosis-specific exercise where available, and a chat with your GP about managing pain.\n\nGet it checked if leg symptoms keep progressing, there's weakness, a bladder or bowel change, or the curve looks noticeably worse.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#scoliosis",
+    "#adultscoliosis",
+    "#backpain",
+    "#spinehealth",
+    "#corestrength",
+    "#mobility",
+    "#exerciseismedicine",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka learns about a spinal curve and finds out from physio Kay how exercise can help adults with scoliosis feel and move better.",
+  "story": {
+    "headline": "Adult with<br>scoliosis?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-18",
+  "scheduled_time": "18:00",
+  "created": "2027-03-18-2",
+  "status": "approved",
+  "review_warnings": []
+}

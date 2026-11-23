@@ -1,0 +1,212 @@
+{
+  "id": "Q-238-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 238,
+  "service": "physio",
+  "topic": "Your cycle and your training",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/menstrual-cycle-injury-risk/",
+  "slides": [
+    {
+      "top": "Quinn's new app had a<br><em>training</em> plan.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "say": "Today: 'no heavy lifting'?"
+        }
+      ],
+      "bottom": "Based on cycle phase.<br>Very confident app."
+    },
+    {
+      "top": "Quinn skipped squats.<br>Then skipped <em>again</em>.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Training became a<br>scheduling puzzle."
+    },
+    {
+      "top": "Progress? <em>Paused</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "think": "Did my app just bench me?",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Quinn wondered if it<br>was all worth it."
+    },
+    {
+      "top": "Quinn asked Kay<br>about it.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "neutral",
+          "say": "Should I train around my cycle?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay went through<br>the evidence."
+    },
+    {
+      "top": "The link to injury is<br>actually <mark>weak</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Consistency and fuel matter more"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "No need to avoid heavy<br>training in set phases."
+    },
+    {
+      "top": "Tip 1: Train<br><mark>consistently</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Steady training usually beats<br>planning by app phase."
+    },
+    {
+      "top": "Tip 2: <mark>Track</mark> how<br>you feel.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "book"
+        }
+      ],
+      "bottom": "Clear pattern? Adjust that<br>week, not the whole month."
+    },
+    {
+      "top": "Tip 3: <mark>Eat enough</mark><br>for your training.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Enough energy supports<br>bone health."
+    },
+    {
+      "top": "Tip 4: Practise landing<br>and <mark>changing direction</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Good technique can support<br>your knees."
+    },
+    {
+      "top": "Chat to your GP if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Periods stop while training hard"
+        }
+      ],
+      "bottom": "Heavy bleeding, bone pain when<br>standing, a knee giving way."
+    },
+    {
+      "top": "Train <em>consistently</em>,<br>feel supported.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's app planned training by cycle phase, so squats kept getting skipped.\n\nKay explains that the link between cycle phase and injury risk is weak. Consistent training and eating enough for your training tend to matter more, and there's no need to avoid heavy sessions in set phases. Missed periods in athletes are a warning sign.\n\nWhat can help: train consistently rather than by app phase, track symptoms and adjust a single week if you notice a clear pattern, eat enough to support bone health, and practise landing and change-of-direction technique.\n\nTalk to your GP or physio if periods stop while training hard, bleeding is heavy, there's bone pain with weight bearing, or a knee gives way.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#womenshealth",
+    "#menstrualcycle",
+    "#femaleathlete",
+    "#strengthtraining",
+    "#sportsscience",
+    "#bonehealth",
+    "#trainingtips",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka stops skipping workouts based on a cycle-phase app and learns from physio Kay that consistent training and enough fuel matter more.",
+  "story": {
+    "headline": "Training by<br>cycle phase?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-17",
+  "scheduled_time": "18:00",
+  "created": "2027-03-17-2",
+  "status": "approved",
+  "review_warnings": []
+}

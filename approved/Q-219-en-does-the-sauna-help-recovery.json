@@ -1,0 +1,222 @@
+{
+  "id": "Q-219-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 219,
+  "service": "physio",
+  "topic": "Does the sauna help recovery?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/sauna-heat-recovery-evidence/",
+  "slides": [
+    {
+      "top": "Quinn discovered<br>the <em>sauna</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "steam",
+            "sweat"
+          ],
+          "think": "I am a dumpling now."
+        }
+      ],
+      "bottom": "Hot, steamy, and very<br>pleased with itself."
+    },
+    {
+      "top": "Minute 40: Quinn<br>became <em>soup</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sleepy",
+          "fx": [
+            "sweat",
+            "dots"
+          ]
+        }
+      ],
+      "bottom": "Woozy, thirsty, slightly<br>regretting things."
+    },
+    {
+      "top": "Next idea: swap the gym<br>for the <em>sauna</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "wink",
+          "item": "phone",
+          "think": "Sauna counts as leg day, right?"
+        }
+      ],
+      "bottom": "Quinn called it<br>“high-level recovery”."
+    },
+    {
+      "top": "Quinn asked Kay for<br>the facts.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Is the sauna my new recovery?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay went through what the<br>research shows."
+    },
+    {
+      "top": "Sauna: some <mark>promising</mark><br>links.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Regular use is linked to heart health"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Heat may ease soreness, but<br>studies can't prove cause."
+    },
+    {
+      "top": "Myth: the sauna<br><em>replaces</em> training.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank",
+          "think": "So no leg-day loophole?"
+        }
+      ],
+      "bottom": "It's an add-on, not a swap."
+    },
+    {
+      "top": "Tip 1: Keep it to<br><mark>10–20 minutes</mark>.",
+      "props": [
+        "clock@120"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "say": "Timer on. 15 minutes.",
+          "x": 420
+        }
+      ],
+      "bottom": "Longer isn't better."
+    },
+    {
+      "top": "Tip 2: <mark>Hydrate</mark> before<br>and after.",
+      "props": [
+        "water@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "bottle",
+          "say": "Water before, water after.",
+          "x": 420
+        }
+      ],
+      "bottom": "Go in rested, not<br>dehydrated. Skip the alcohol."
+    },
+    {
+      "top": "Tip 3: Dizzy or queasy?<br><mark>Step out</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sleepy"
+        }
+      ],
+      "bottom": "And stand up slowly when<br>you finish."
+    },
+    {
+      "top": "Check with your doctor<br><em>first</em> if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "You have a heart or blood pressure issue"
+        }
+      ],
+      "bottom": "Or you're pregnant. Skip heat on<br>a fresh injury for 1–2 days."
+    },
+    {
+      "top": "Recover <em>smarter</em> —<br>we can help.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn discovered the sauna, stayed 40 minutes, became soup, and then wondered if it could replace leg day.\n\nRegular sauna use is linked with heart-health benefits in large studies, and heat may ease muscle soreness, but research can't yet prove cause and effect. It's an add-on to training, not a swap.\n\nWhat can help: keeping sessions to 10–20 minutes, hydrating before and after, going in rested rather than dehydrated, skipping alcohol, leaving if you feel dizzy or queasy, and standing up slowly.\n\nCheck with your doctor first if you have a heart or blood pressure condition or are pregnant, and avoid heat on a fresh injury for the first day or two.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#sauna",
+    "#heattherapy",
+    "#recovery",
+    "#musclesoreness",
+    "#hearthealth",
+    "#trainingrecovery",
+    "#sydneycbd",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka overdoes a sauna session and learns from physio Kay what the research says and how to use heat sensibly.",
+  "story": {
+    "headline": "Can the sauna<br>replace leg day?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "steam"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-08",
+  "scheduled_time": "09:00",
+  "created": "2027-03-08-1",
+  "status": "approved",
+  "review_warnings": []
+}

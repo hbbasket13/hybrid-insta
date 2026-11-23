@@ -1,0 +1,230 @@
+{
+  "id": "Q-254-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 254,
+  "service": "physio",
+  "topic": "Sailing and boating bodies",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/sailing-boating-injuries-guide/",
+  "slides": [
+    {
+      "top": "Captain Quinn set<br><em>sail</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "I was born for the sea."
+        }
+      ],
+      "bottom": "The sea had other ideas."
+    },
+    {
+      "top": "Hiking out over<br>the side: <em>burn</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "sore",
+          "fx": [
+            "sweat",
+            "pain_knee"
+          ]
+        }
+      ],
+      "bottom": "Thighs on fire.<br>Back not far behind."
+    },
+    {
+      "top": "Then the winch<br>fought <em>back</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ],
+          "say": "That rope pulled harder than me."
+        }
+      ],
+      "bottom": "Sudden loads hit backs,<br>shoulders and elbows."
+    },
+    {
+      "top": "Back on land, Quinn<br>saw Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sad",
+          "say": "Is sore just part of sailing?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about the boat<br>and Quinn's job on deck."
+    },
+    {
+      "top": "A moving deck asks<br>a <mark>lot</mark> of you.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Hiking, winching, balancing…"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Pain isn't a given —<br>you can train for it."
+    },
+    {
+      "top": "Tip 1: Trunk and hip<br><mark>endurance</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Side planks and holds<br>build staying power."
+    },
+    {
+      "top": "Tip 2: <mark>Quad</mark> endurance<br>for hiking.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Lunges and wall sits on land<br>can pay off at sea."
+    },
+    {
+      "top": "Tip 3: Pulling and<br><mark>rotator cuff</mark> work.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "band"
+        }
+      ],
+      "bottom": "Stronger shoulders can handle<br>winching better."
+    },
+    {
+      "top": "Tip 4: Train <mark>grip</mark><br>and balance on land.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Steadier feet on<br>a moving deck."
+    },
+    {
+      "top": "Tip 5: Gloves, good<br>technique, <mark>hydrate</mark>.",
+      "props": [
+        "sun@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Sunny days dry you out<br>faster than you think."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A head knock from boom or fall"
+        }
+      ],
+      "bottom": "Get that checked promptly —<br>and elbow pain that lingers."
+    },
+    {
+      "top": "Fair winds — we can<br><em>help</em> you stay on deck.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Captain Quinn set sail, born for the sea. Then came hiking out over the side (thighs on fire) and a winch that pulled harder than Quinn did.\n\nHiking postures, sudden sheet and winch loads, a moving deck and the odd boom can strain backs, knees, shoulders, elbows, hands and necks. Sore isn't simply part of sailing — your body can be trained for it.\n\nWhat can help: trunk and hip endurance like side planks, quad endurance for hiking, pulling and rotator cuff strength for winching, grip and balance work on land, plus gloves, good winch technique and plenty of water on sunny days.\n\nGet a head knock from the boom or a fall checked promptly, and get lingering elbow pain assessed.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#sailing",
+    "#sailinglife",
+    "#boating",
+    "#sydneyharbour",
+    "#sportsinjury",
+    "#backpain",
+    "#strengthtraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka goes sailing, gets sore from hiking and winching, and learns from physio Kay how to train for life on deck.",
+  "story": {
+    "headline": "Sore after<br>a day sailing?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-25",
+  "scheduled_time": "18:00",
+  "created": "2027-03-25-2",
+  "status": "approved",
+  "review_warnings": []
+}

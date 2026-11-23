@@ -1,0 +1,220 @@
+{
+  "id": "Q-231-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 231,
+  "service": "physio",
+  "topic": "Scoliosis in teens: a parent's guide",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/scoliosis-teens-parents-guide/",
+  "slides": [
+    {
+      "top": "Uncle Quinn got a text<br>from his <em>sister</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "say": "Pip's doctor said scoliosis?"
+        }
+      ],
+      "bottom": "Nephew Pip, 13, has a small<br>curve in his spine."
+    },
+    {
+      "top": "Quinn did what uncles do:<br><em>panic-googled</em>.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "worried",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Tab 47. Still spiralling."
+    },
+    {
+      "top": "Was it the <em>heavy bag</em>?<br>The slouching?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad",
+          "think": "Too much gaming? Bad pillows?"
+        }
+      ],
+      "bottom": "Guilt arrived uninvited."
+    },
+    {
+      "top": "Quinn called Kay<br>for a chat.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "say": "Should Pip quit footy?"
+        },
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Kay had a calmer take."
+    },
+    {
+      "top": "Most teen curves are<br><mark>small</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Bags, posture and sport don't cause it"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "The time to watch closely is<br>while kids are growing."
+    },
+    {
+      "top": "Tip 1: Keep <mark>playing</mark><br>sport.",
+      "props": [
+        "ball@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Most kids with small curves<br>can stay fully active."
+    },
+    {
+      "top": "Tip 2: Stick to the<br><mark>check-up</mark> schedule.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined",
+          "say": "Next check: on the calendar!",
+          "x": 420
+        }
+      ],
+      "bottom": "Your GP or specialist sets<br>how often to re-check."
+    },
+    {
+      "top": "Tip 3: If a <mark>brace</mark> is<br>prescribed…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "proud",
+          "think": "Comfy and consistent."
+        }
+      ],
+      "bottom": "Comfort and consistent wear<br>both matter."
+    },
+    {
+      "top": "Tip 4: A lighter<br><mark>school bag</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "bag"
+        }
+      ],
+      "bottom": "Helps comfort — it won't<br>change the curve itself."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "The curve looks clearly worse"
+        }
+      ],
+      "bottom": "Also: night pain, weak or numb<br>legs, bladder/bowel changes."
+    },
+    {
+      "top": "Small curves, <em>big</em> lives —<br>we're here to help.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Uncle Quinn got a text: nephew Pip has a small curve in his spine. Cue panic-googling, and guilt about heavy bags and slouching.\n\nKay's calmer take: most teen curves are small and mainly need monitoring, and bags, posture or sport don't cause them. The key time to watch is while kids are still growing.\n\nWhat can help: keep playing sport, stick to the check-up schedule from the GP or specialist, focus on comfort and consistent wear if a brace is prescribed, and keep expectations realistic. A lighter bag may help comfort but won't change the curve.\n\nGet it checked if the curve looks clearly worse, or there's significant or night pain, leg weakness or numbness, or bladder or bowel changes.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#scoliosis",
+    "#teenhealth",
+    "#spinehealth",
+    "#parentingtips",
+    "#teensport",
+    "#backhealth",
+    "#kidsphysio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Uncle Quinn the quokka worries about a nephew's teen scoliosis and learns from physio Kay that most small curves are monitored while kids stay active.",
+  "story": {
+    "headline": "Teen with a<br>curvy spine?",
+    "body": "4 calm tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-14",
+  "scheduled_time": "09:00",
+  "created": "2027-03-14-1",
+  "status": "approved",
+  "review_warnings": []
+}

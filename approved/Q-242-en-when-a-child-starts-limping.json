@@ -1,0 +1,232 @@
+{
+  "id": "Q-242-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 242,
+  "service": "physio",
+  "topic": "When a child starts limping",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/limping-child-hip-guide/",
+  "slides": [
+    {
+      "top": "Uncle Quinn's nephew<br>Pip was <em>limping</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "surprised",
+          "think": "Pip's walking like a pirate…"
+        }
+      ],
+      "bottom": "Pip says nothing hurts.<br>Pip also says he's a pirate."
+    },
+    {
+      "top": "Quinn's first guess:<br>a <em>sprain</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "say": "Probably nothing. Wait it out?"
+        }
+      ],
+      "bottom": "Spoiler: a limp is worth<br>a proper look."
+    },
+    {
+      "top": "Then Pip pointed at<br>his <em>knee</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "Knee? Hip? Pirate leg?<br>Quinn wasn't sure."
+    },
+    {
+      "top": "Quinn asked Kay<br>for advice.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone",
+          "say": "Little guy's limping. Help?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked a few calm<br>questions first."
+    },
+    {
+      "top": "Most limps are <mark>mild</mark> —<br>some need care fast.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Often an irritable hip after a virus."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "That's why a limp gets<br>checked, not ignored."
+    },
+    {
+      "top": "Tip 1: <mark>Age</mark> matters.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Toddler, kid or teen? Tell the GP."
+        }
+      ],
+      "bottom": "Different ages point to<br>different causes."
+    },
+    {
+      "top": "Tip 2: Knee pain? Check<br>the <mark>hip</mark> too.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "neutral",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "In kids, hip problems can<br>show up as knee pain."
+    },
+    {
+      "top": "Tip 3: Socks <mark>off</mark>.",
+      "props": [
+        "shoe@780"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "think": "Splinter? Glass? Pebble?"
+        }
+      ],
+      "bottom": "Check the soles of the feet<br>for something sharp."
+    },
+    {
+      "top": "Tip 4: No red flags?<br>Watch — and <mark>book</mark>.",
+      "props": [
+        "calendar@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "neutral",
+          "item": "phone"
+        }
+      ],
+      "bottom": "Book the GP; if it's still<br>there after a week, investigate."
+    },
+    {
+      "top": "Tip 5: Teens with a limp<br>and hip or knee pain…",
+      "props": [
+        "ball@830"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined",
+          "say": "Assessment first, then sport."
+        }
+      ],
+      "bottom": "Get it assessed before<br>going back to sport."
+    },
+    {
+      "top": "Get it checked <em>today</em> if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Fever, or won't put weight on it"
+        }
+      ],
+      "bottom": "Unwell, night pain, or severe<br>pain moving the hip."
+    },
+    {
+      "top": "Little legs, <em>big</em><br>care.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Uncle Quinn noticed nephew Pip limping. Pip said nothing hurt (and that he was a pirate).\n\nA limp in a child is a finding worth checking. Most are mild, like an irritable hip after a virus, but some are urgent.\n\nWhat can help: note the child's age, check the hip even if the knee hurts, take the socks off and check the soles for splinters or glass. With no red flags, watch a few days while booking the GP; a limp lasting about a week needs investigating. Teens with hip or knee pain and a limp should be assessed before sport.\n\nSeek care the same day for fever, refusing to put weight on the leg, being unwell, night pain or severe pain moving the hip.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#childlimp",
+    "#kidshealth",
+    "#paediatricphysio",
+    "#hippain",
+    "#parentingtips",
+    "#kidsknees",
+    "#childhealth",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Uncle Quinn the quokka notices his nephew limping and learns from physio Kay what to check and when to seek care.",
+  "story": {
+    "headline": "Little one<br>limping?",
+    "body": "What to check, and when",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-19",
+  "scheduled_time": "18:00",
+  "created": "2027-03-19-2",
+  "status": "approved",
+  "review_warnings": []
+}

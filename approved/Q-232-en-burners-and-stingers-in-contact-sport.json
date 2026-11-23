@@ -1,0 +1,223 @@
+{
+  "id": "Q-232-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 232,
+  "service": "physio",
+  "topic": "Burners and stingers in contact sport",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/burner-stinger-contact-sport/",
+  "slides": [
+    {
+      "top": "Saturday footy. Quinn<br>went in for the <em>tackle</em>.",
+      "props": [
+        "ball@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Bold. Brave. Slightly too<br>shoulder-first."
+    },
+    {
+      "top": "ZAP. Hot <em>electric</em> pain<br>down one arm.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sore",
+          "shout": "My arm is a lightning rod!",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Then, a minute later… gone?"
+    },
+    {
+      "top": "Quinn's plan: get<br><em>straight</em> back on.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "determined",
+          "say": "I'm fine! Sub me back in!"
+        }
+      ],
+      "bottom": "The classic footy myth."
+    },
+    {
+      "top": "Kay, on the sideline,<br>had <mark>questions</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "blank"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Any tingling or weakness left?"
+        }
+      ],
+      "bottom": "Feeling fine in a minute isn't<br>the same as fine to play."
+    },
+    {
+      "top": "A burner is a quick nerve<br><mark>stretch or squeeze</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Weakness can linger or show up later"
+        },
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "surprised",
+          "fx": [
+            "question"
+          ]
+        }
+      ],
+      "bottom": "The burning often fades fast —<br>strength still needs checking."
+    },
+    {
+      "top": "Tip 1: <mark>Recheck</mark> arm<br>strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "After the game and again<br>the next morning."
+    },
+    {
+      "top": "Tip 2: Symptoms left?<br>Sit the <mark>rest</mark> out.",
+      "props": [
+        "chair"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "neutral",
+          "item": "bottle"
+        }
+      ],
+      "bottom": "Weakness, tingling or neck<br>pain = no return that match."
+    },
+    {
+      "top": "Tip 3: Had a <mark>few</mark>?<br>Get the neck assessed.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "neutral",
+          "item": "phone",
+          "think": "Booking that neck check…"
+        }
+      ],
+      "bottom": "Repeat burners deserve<br>a proper look."
+    },
+    {
+      "top": "Tip 4: Neck strength +<br><mark>tackle</mark> technique.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "item": "band"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Strong shoulder blades and<br>safer tackling can help."
+    },
+    {
+      "top": "Get <em>urgent</em> help if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Both arms, or a leg, are affected"
+        }
+      ],
+      "bottom": "Or midline neck pain, can't move<br>the neck, or knocked out."
+    },
+    {
+      "top": "Back on the field,<br><em>wisely</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Saturday footy: Quinn tackled shoulder-first, felt an electric zap down one arm, and a minute later wanted back on.\n\nKay explains that a burner or stinger is a brief stretch or squeeze of the arm nerves. The burning often fades fast, but weakness can linger or appear later.\n\nWhat can help: recheck arm strength after the game and the next morning, sit out the rest of the match if weakness, tingling or neck pain remain, get the neck assessed after repeat episodes, and build neck and shoulder-blade strength alongside safer tackling technique.\n\nGet emergency help if both arms or a leg are affected, there's midline neck tenderness, the neck can't move, or someone was knocked out.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#stinger",
+    "#burner",
+    "#rugby",
+    "#footy",
+    "#contactsport",
+    "#sportsinjury",
+    "#neckhealth",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka feels a burning zap down one arm after a footy tackle and learns from physio Kay why strength needs rechecking before playing on.",
+  "story": {
+    "headline": "Arm zap after<br>a tackle?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-14",
+  "scheduled_time": "18:00",
+  "created": "2027-03-14-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,224 @@
+{
+  "id": "Q-225-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 225,
+  "service": "physio",
+  "topic": "Running cadence and overstriding",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/running-cadence-stride-injury/",
+  "slides": [
+    {
+      "top": "Quinn's new running watch<br>had <em>opinions</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "surprised",
+          "fx": [
+            "motion"
+          ],
+          "shout": "It keeps yelling 180 at me!"
+        }
+      ],
+      "bottom": "Beep. Beep. BEEP."
+    },
+    {
+      "top": "So Quinn ran with tiny,<br><em>frantic</em> steps.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "blank",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Like a quokka late<br>for a train."
+    },
+    {
+      "top": "Two weeks later:<br><em>calves</em> on fire.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "The Achilles lodged a<br>formal complaint."
+    },
+    {
+      "top": "Quinn asked Kay what<br>went wrong.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Isn't 180 the magic number?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay watched Quinn run<br>at an easy pace."
+    },
+    {
+      "top": "180 came from watching<br><mark>elite</mark> racers.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Cadence follows your speed and stride"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "There's no one number<br>for everyone."
+    },
+    {
+      "top": "Tip 1: Start from<br><mark>your</mark> own rate.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "neutral",
+          "item": "phone",
+          "think": "Mine: 162. Huh."
+        }
+      ],
+      "bottom": "Count steps per minute at<br>your usual easy pace."
+    },
+    {
+      "top": "Tip 2: Nudge it up<br>a <mark>little</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A few percent may ease some<br>knees — no giant leaps."
+    },
+    {
+      "top": "Tip 3: Get <mark>guidance</mark>,<br>not just watch alerts.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Expect it to feel harder<br>for a few weeks."
+    },
+    {
+      "top": "Tip 4: Mind the <mark>calves</mark><br>and Achilles.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Quicker steps shift load<br>there — build calf strength."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden calf pain or a tender bone spot"
+        }
+      ],
+      "bottom": "Or night pain, swelling, or knee<br>pain lasting two months."
+    },
+    {
+      "top": "Your stride, your<br><em>rhythm</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's watch kept beeping \"180!\", so Quinn ran with tiny steps — and soon the calves were on fire.\n\nKay's take: 180 steps a minute came from watching elite racers. Cadence follows your speed and stride, so there's no universal number. A small increase from your own baseline may ease some knee pain, but it shifts load to the calf and Achilles. \n\nWhat can help: measure your own rate, nudge it up only a few percent, get guidance rather than relying on watch alerts, and build calf strength — it may feel harder for a few weeks.\n\nGet it checked for sudden calf or Achilles pain, a tender spot on a bone, night pain, swelling, or knee pain lasting around two months.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#running",
+    "#runningcadence",
+    "#overstriding",
+    "#runningform",
+    "#runnersknee",
+    "#achilles",
+    "#sydneyrunners",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka chases a 180 cadence, gets sore calves, and learns from physio Kay to adjust stride from a personal baseline.",
+  "story": {
+    "headline": "Is 180 the<br>magic number?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "surprised",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-11",
+  "scheduled_time": "09:00",
+  "created": "2027-03-11-1",
+  "status": "approved",
+  "review_warnings": []
+}

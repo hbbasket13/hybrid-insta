@@ -1,0 +1,250 @@
+{
+  "id": "Q-241-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 241,
+  "service": "physio",
+  "topic": "Do vibration plates work?",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/vibration-plates-do-they-work/",
+  "slides": [
+    {
+      "top": "Quinn bought a <em>vibration</em><br>plate online.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ],
+          "say": "Brrrr! Getting fit by buzzing!"
+        }
+      ],
+      "bottom": "Ten minutes of jiggling.<br>Zero effort. Perfect?"
+    },
+    {
+      "top": "Day 3: legs feel <mark>shaky</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Shaky legs means it's working!"
+        }
+      ],
+      "bottom": "Quinn checked the mirror<br>for new muscles."
+    },
+    {
+      "top": "Day 10: still <em>waiting</em><br>for abs.",
+      "props": [
+        "calendar@180"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "blank",
+          "think": "Where are my abs though…"
+        }
+      ],
+      "bottom": "The plate kept buzzing.<br>The abs stayed shy."
+    },
+    {
+      "top": "Quinn brought the<br>question to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is my plate a gym in a box?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Kay smiled. Fair question."
+    },
+    {
+      "top": "Plates do switch muscles<br>on — a <mark>little</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Small effect. Best for balance."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Strongest evidence: balance<br>in frail older adults."
+    },
+    {
+      "top": "Myth: plates build bone<br>and <em>burn fat</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad",
+          "think": "So the buzzing isn't burning?"
+        }
+      ],
+      "bottom": "Evidence for bone, fat and<br>cellulite is weak."
+    },
+    {
+      "top": "Tip 1: A <mark>bridge</mark>, not<br>the destination.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Handy if you can't load up<br>yet — then build from there."
+    },
+    {
+      "top": "Tip 2: Keep <mark>walking</mark>.",
+      "props": [
+        "trees",
+        "hill"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "The plate is an add-on,<br>not a swap for your walks."
+    },
+    {
+      "top": "Tip 3: For strong legs,<br><mark>lift</mark> things.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined",
+          "item": "dumbbell",
+          "fx": [
+            "sweat"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Strength work builds legs —<br>supervised, it helps bone too."
+    },
+    {
+      "top": "Tip 4: Check first if<br>this sounds like you.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "fx": [
+            "question"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Pregnant? Pacemaker? Epilepsy?"
+        }
+      ],
+      "bottom": "Also recent fracture, joint<br>replacement or clot history."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "New calf pain or swelling"
+        }
+      ],
+      "bottom": "Chest pain, sudden vision<br>change or dizziness too."
+    },
+    {
+      "top": "Good vibes, <em>real</em><br>strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn bought a vibration plate, enjoyed ten minutes of effortless jiggling, and waited for abs. The abs stayed shy.\n\nVibration plates do switch muscles on a little, and the strongest evidence is for balance and function in frail older adults. Evidence for building bone, burning fat or shifting cellulite is weak, and shaky legs don't prove much.\n\nWhat can help: use a plate as a bridge if you can't load up yet, keep it as an add-on to walking, choose resistance training for leg strength, and get clearance first if you're pregnant or have a pacemaker, epilepsy, a recent fracture, joint replacement or clot history.\n\nGet checked promptly for new calf pain or swelling, chest pain, sudden vision change or dizziness.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#vibrationplate",
+    "#strengthtraining",
+    "#balancetraining",
+    "#fitnessmyths",
+    "#healthyageing",
+    "#legstrength",
+    "#exerciseevidence",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka buys a vibration plate and learns from physio Kay what the evidence says and why strength training still matters.",
+  "story": {
+    "headline": "Buzzing your<br>way to fit?",
+    "body": "What vibration plates really do",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "mat"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-19",
+  "scheduled_time": "09:00",
+  "created": "2027-03-19-1",
+  "status": "approved",
+  "review_warnings": []
+}

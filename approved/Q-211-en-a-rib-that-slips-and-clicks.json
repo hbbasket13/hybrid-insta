@@ -1,0 +1,248 @@
+{
+  "id": "Q-211-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 211,
+  "service": "physio",
+  "topic": "A rib that slips and clicks",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/slipping-rib-syndrome/",
+  "slides": [
+    {
+      "top": "Quinn reached for the<br>top-shelf <em>biscuits</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "surprised",
+          "shout": "CLICK! Ow!",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Something under the ribs<br>went “click”."
+    },
+    {
+      "top": "Then every <em>twist</em><br>joined in.",
+      "props": [
+        "carseat",
+        "dash",
+        "wheel"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "drive",
+          "face": "sore",
+          "think": "Did my rib just… move?"
+        }
+      ],
+      "bottom": "Checking the blind spot:<br>sharp jab. Every time."
+    },
+    {
+      "top": "Quinn consulted<br>Dr <em>Internet</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone",
+          "think": "Search: “rib falling out??”"
+        }
+      ],
+      "bottom": "The internet was not<br>calming."
+    },
+    {
+      "top": "Quinn saw Kay for<br>an assessment.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "say": "My rib clicks. Is it loose?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the lower ribs<br>and asked what set it off."
+    },
+    {
+      "top": "It may be a<br><mark>slipping rib</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Lower rib cartilage can shift a bit"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It can irritate a nearby nerve.<br>Scans are often normal."
+    },
+    {
+      "top": "Myth: the click causes<br><em>lasting</em> damage.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "think": "So the click is breaking stuff?"
+        }
+      ],
+      "bottom": "Usually it doesn't. Sore,<br>yes — but not destructive."
+    },
+    {
+      "top": "Tip 1: Ease off the<br><mark>triggers</mark> for a while.",
+      "props": [
+        "boxes@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "determined",
+          "say": "Fewer twists. Fewer big reaches."
+        }
+      ],
+      "bottom": "Twisting, bending and big<br>overhead reaches — dial down."
+    },
+    {
+      "top": "Tip 2: Sleep on the<br><mark>other</mark> side.",
+      "props": [
+        "bed",
+        "moon@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "y": 752,
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Or hug a pillow to keep<br>the ribs comfy."
+    },
+    {
+      "top": "Tip 3: Build trunk<br><mark>strength</mark> — click-free.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Exercises chosen so they<br>don't set off the click."
+    },
+    {
+      "top": "Tip 4: Gentle <mark>hands-on</mark><br>care during flares.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Rib and upper-back mobilisation<br>or taping may ease things."
+    },
+    {
+      "top": "Get other causes<br><em>checked</em> first if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Chest pain + breathless? Call 000"
+        }
+      ],
+      "bottom": "Fever, coughing blood, a rash<br>band, or after a big fall."
+    },
+    {
+      "top": "Click less, twist<br>smarter — we can <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn reached for the top-shelf biscuits and something under the ribs went click. After that, every twist in the car brought a sharp jab.\n\nA slipping rib happens when lower-rib cartilage shifts a little and irritates a nearby nerve. Scans are often normal, and the click usually isn't doing lasting damage.\n\nWhat can help: easing off twisting, bending and overhead triggers for a while, sleeping on the other side or hugging a pillow, trunk strength chosen to avoid the click, and gentle mobilisation or taping during flares.\n\nOther causes should be checked first. Chest pain with breathlessness, sweating or nausea needs 000. See a GP for fever, coughing blood, yellow skin, a swollen tender tummy, weight loss, a rash band, or pain after big trauma.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#slippingrib",
+    "#ribpain",
+    "#lowerribpain",
+    "#ribclicking",
+    "#trunkstrength",
+    "#upperback",
+    "#sydneycbd",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets a clicking, sharp pain under the lower ribs and learns from physio Kay what a slipping rib is and what may help.",
+  "story": {
+    "headline": "Rib went<br>“click”?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "surprised"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-04",
+  "scheduled_time": "09:00",
+  "created": "2027-03-04-1",
+  "status": "approved",
+  "review_warnings": []
+}

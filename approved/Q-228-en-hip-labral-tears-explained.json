@@ -1,0 +1,221 @@
+{
+  "id": "Q-228-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 228,
+  "service": "physio",
+  "topic": "Hip labral tears explained",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/hip-labral-tear-explained/",
+  "slides": [
+    {
+      "top": "Quinn's hip scan report<br>said '<em>labral tear</em>'.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "surprised",
+          "item": "book",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Quinn read it four times.<br>Then searched online."
+    },
+    {
+      "top": "The internet was<br>not <em>calming</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "sad",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Quinn began planning a<br>farewell party for squats."
+    },
+    {
+      "top": "Deep squats did give<br>a little <em>pinch</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "The front of the hip said:<br>“That's deep enough.”"
+    },
+    {
+      "top": "Quinn brought the report<br>to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Is my hip falling apart?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked how the hip<br>moved, not just the scan."
+    },
+    {
+      "top": "Labral tears show up in<br>many <mark>pain-free</mark> hips.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Many people improve with rehab first"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "The scan doesn't always<br>explain the pain."
+    },
+    {
+      "top": "Tip 1: Build hip and<br><mark>trunk</mark> strength.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Glutes and deep hip<br>muscles do a lot."
+    },
+    {
+      "top": "Tip 2: Trim <mark>deep</mark> bends<br>— don't quit them.",
+      "props": [
+        "boxes@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Squats to a box. Still squatting!"
+        }
+      ],
+      "bottom": "Less depth and twisting for<br>now, not zero."
+    },
+    {
+      "top": "Tip 3: Retrain squats<br>and lunges <mark>slowly</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Add depth and load bit by<br>bit as the hip allows."
+    },
+    {
+      "top": "Tip 4: Give rehab about<br><mark>3 months</mark>.",
+      "props": [
+        "calendar@200"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "neutral",
+          "think": "Patience, hip. Patience."
+        }
+      ],
+      "bottom": "And skip stretches that<br>pinch the front of the hip."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Locking, or the hip giving way"
+        }
+      ],
+      "bottom": "Or pain that keeps going<br>despite steady rehab."
+    },
+    {
+      "top": "A scan word isn't the<br>whole <em>story</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's hip scan said \"labral tear\", the internet was not calming, and Quinn started planning a farewell party for squats.\n\nKay's take: labral tears show up on scans of many pain-free hips, so the scan doesn't always explain the pain. Many people improve with a long, progressive rehab program first.\n\nWhat can help: building hip and trunk strength (glutes and deep hip muscles), trimming deep bending and twisting rather than stopping, retraining squats and lunges gradually, skipping stretches that pinch the front of the hip, and giving rehab around three months.\n\nGet it checked if pain keeps going despite steady rehab, or the hip locks or gives way.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hippain",
+    "#labraltear",
+    "#hiplabrum",
+    "#hipstrength",
+    "#gluteworkout",
+    "#squats",
+    "#hiprehab",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka worries about a hip scan report and learns from physio Kay that strength-based rehab often helps labral tears.",
+  "story": {
+    "headline": "Scan says<br>'labral tear'?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "surprised",
+          "item": "book"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-12",
+  "scheduled_time": "18:00",
+  "created": "2027-03-12-2",
+  "status": "approved",
+  "review_warnings": []
+}

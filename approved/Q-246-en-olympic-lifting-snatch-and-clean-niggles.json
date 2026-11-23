@@ -1,0 +1,232 @@
+{
+  "id": "Q-246-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 246,
+  "service": "physio",
+  "topic": "Olympic lifting: snatch and clean niggles",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/olympic-weightlifting-injuries/",
+  "slides": [
+    {
+      "top": "Quinn joined a<br><em>weightlifting</em> club.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Future Olympian, reporting in!"
+        }
+      ],
+      "bottom": "Goal: the Olympics.<br>Current level: broomstick."
+    },
+    {
+      "top": "First snatch attempt:<br>a bit <em>wobbly</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "worried",
+          "item": "dumbbell",
+          "fx": [
+            "sweat",
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "The bar went up. The elbows<br>went sideways."
+    },
+    {
+      "top": "Next day: <em>wrists</em> and<br>shoulder grumbling.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "The low back joined<br>the choir."
+    },
+    {
+      "top": "Quinn asked Kay:<br>quit or keep going?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is this sport bad for backs?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay's answer: not by itself."
+    },
+    {
+      "top": "Often it's <mark>mobility</mark>,<br>not the lift.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Tight spots force tricky shortcuts."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Speed + load expose any<br>stiff link in the chain."
+    },
+    {
+      "top": "Tip 1: Lift-specific<br><mark>mobility</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Upper back, shoulders, hips<br>and ankles."
+    },
+    {
+      "top": "Tip 2: Be <mark>strong</mark><br>overhead.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Not just reaching it —<br>holding it there with control."
+    },
+    {
+      "top": "Tip 3: Get <mark>coaching</mark><br>early.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "neutral"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Good habits are easier to<br>build than to rebuild."
+    },
+    {
+      "top": "Tip 4: Frequent, <mark>moderate</mark><br>technique work.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Not heavy singles every<br>single session."
+    },
+    {
+      "top": "Tip 5: <mark>Scale</mark> grip<br>or stance.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "wink",
+          "say": "Wider grip for now. Pride later."
+        }
+      ],
+      "bottom": "Adjust while your mobility<br>catches up."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Sudden severe pain? Pain down a limb?"
+        }
+      ],
+      "bottom": "Or overhead pain that<br>won't settle with rest."
+    },
+    {
+      "top": "Lift <em>smart</em>,<br>lift long.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn joined a weightlifting club with Olympic dreams. The first snatch was wobbly, and the next day wrists, shoulder and low back were all grumbling.\n\nOlympic lifting isn't bad for your back by itself. Niggles in shoulders, wrists, low back, knees and elbows often come from limited mobility forcing shortcuts under speed and load.\n\nWhat can help: lift-specific mobility for the upper back, shoulders, hips and ankles, building strength to hold positions overhead rather than just reach them, coaching early, frequent moderate technique work instead of constant heavy singles, and scaling grip or stance while mobility improves.\n\nGet it checked for sudden severe pain, pain that travels down a limb, or overhead pain that won't settle.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#olympicweightlifting",
+    "#snatch",
+    "#cleanandjerk",
+    "#weightlifting",
+    "#mobility",
+    "#sportsphysio",
+    "#liftingtechnique",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka takes up Olympic weightlifting, gets a few niggles, and learns from physio Kay how mobility and technique work can help.",
+  "story": {
+    "headline": "Snatch or<br>shoulder twinge?",
+    "body": "5 lifting tips from Quinn",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "worried",
+          "item": "dumbbell",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-21",
+  "scheduled_time": "18:00",
+  "created": "2027-03-21-2",
+  "status": "approved",
+  "review_warnings": []
+}

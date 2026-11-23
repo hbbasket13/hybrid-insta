@@ -1,0 +1,234 @@
+{
+  "id": "Q-234-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 234,
+  "service": "physio",
+  "topic": "A sudden hot, swollen big toe",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/gout-sudden-hot-toe-guide/",
+  "slides": [
+    {
+      "top": "3am. Quinn woke to a<br><em>hot</em> big toe.",
+      "props": [
+        "bed",
+        "moon@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sore",
+          "y": 752,
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Even the sheet touching it<br>felt rude."
+    },
+    {
+      "top": "By morning: red, swollen,<br><em>angry</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "say": "I didn't even stub it!",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "No injury. Just… betrayal."
+    },
+    {
+      "top": "Quinn's own diagnosis:<br>'Probably a sprain.'",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "think": "I'll just stretch it out."
+        }
+      ],
+      "bottom": "Narrator: it was not<br>a sprain."
+    },
+    {
+      "top": "Quinn showed Kay<br>the toe.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "sad",
+          "say": "Why is my toe on fire?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay suggested a prompt<br>GP visit."
+    },
+    {
+      "top": "It may be <mark>gout</mark> —<br>a GP diagnosis.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Tiny crystals can inflame a joint"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "It builds over hours and often<br>settles over 1–2 weeks."
+    },
+    {
+      "top": "Tip 1: First attack, no<br>injury? See your <mark>GP</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "determined",
+          "item": "phone"
+        }
+      ],
+      "bottom": "A proper diagnosis<br>really matters."
+    },
+    {
+      "top": "Tip 2: Don't <mark>massage</mark><br>the hot joint.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "neutral",
+          "y": 752
+        }
+      ],
+      "bottom": "Rest, elevate and offload<br>it instead."
+    },
+    {
+      "top": "Tip 3: Easy on <mark>beer</mark>,<br>spirits and sugary drinks.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup",
+          "say": "Water for me, thanks!"
+        }
+      ],
+      "bottom": "And skip crash diets<br>or fasting."
+    },
+    {
+      "top": "Tip 4: Settled doesn't<br>mean <mark>gone</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "determined",
+          "say": "GP review: booked!"
+        }
+      ],
+      "bottom": "Ask your GP for a review once<br>it calms down."
+    },
+    {
+      "top": "Tip 5: Rebuild <mark>walking</mark><br>gradually.",
+      "props": [
+        "shoe@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Roomy, cushioned shoes<br>can help."
+    },
+    {
+      "top": "Same-day help if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A hot joint comes with fever or chills"
+        }
+      ],
+      "bottom": "Or spreading redness, or you<br>feel generally unwell."
+    },
+    {
+      "top": "Back on your feet,<br><em>step by step</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "3am: Quinn woke to a hot, swollen big toe. No injury, so Quinn guessed a sprain.\n\nIt may be gout, where crystals inflame a joint — often the big toe. It builds over hours, often settles over one to two weeks, and needs a medical diagnosis.\n\nWhat can help: see your GP for a first attack with no injury, don't massage or stretch the hot joint (rest, elevate and offload it), go easy on beer, spirits and sugary drinks, avoid crash diets, get a GP review even once it settles, and rebuild walking in roomy, cushioned shoes.\n\nGet same-day help if a hot, swollen joint comes with fever, chills, spreading redness or feeling unwell.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#gout",
+    "#bigtoe",
+    "#footpain",
+    "#jointpain",
+    "#foothealth",
+    "#swollenjoint",
+    "#healthyfeet",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka wakes with a hot, swollen big toe and learns from physio Kay why a GP check matters and how to look after the joint.",
+  "story": {
+    "headline": "Hot, swollen<br>big toe?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-15",
+  "scheduled_time": "18:00",
+  "created": "2027-03-15-2",
+  "status": "approved",
+  "review_warnings": []
+}

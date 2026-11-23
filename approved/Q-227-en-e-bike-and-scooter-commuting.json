@@ -1,0 +1,218 @@
+{
+  "id": "Q-227-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 227,
+  "service": "physio",
+  "topic": "E-bike and scooter commuting",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/ebike-scooter-commuting-injuries/",
+  "slides": [
+    {
+      "top": "Quinn got a shiny new<br><em>e-scooter</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Commute time: halved.<br>Confidence: doubled."
+    },
+    {
+      "top": "First wet morning.<br>A sneaky <em>tram track</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "surprised",
+          "fx": [
+            "motion",
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "The wheel caught. Quinn<br>briefly learned to fly."
+    },
+    {
+      "top": "Quinn put a hand out<br>to <em>land</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ],
+          "think": "It still moves, so it's fine… right?"
+        }
+      ],
+      "bottom": "The wrist puffed up over<br>the next few days."
+    },
+    {
+      "top": "Quinn got the wrist<br>checked by Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "If it moves, it's not broken?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay pressed gently along<br>the wrist bones."
+    },
+    {
+      "top": "Moving it doesn't rule<br>out a <em>fracture</em>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Bony tenderness? An X-ray can check"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Small wheels and speed mean<br>wrists often take the hit."
+    },
+    {
+      "top": "Tip 1: <mark>Helmet</mark>.<br>Every. Single. Ride.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "determined",
+          "say": "Helmet on. Then we go."
+        }
+      ],
+      "bottom": "Head and face injuries are<br>common on scooters."
+    },
+    {
+      "top": "Tip 2: Match speed to<br>the <mark>surface</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "worried",
+          "think": "Wet leaves. Slow down."
+        }
+      ],
+      "bottom": "Wet roads, gutters and tram<br>tracks need extra care."
+    },
+    {
+      "top": "Tip 3: Go easy on the<br><mark>first rides</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "A new ride takes time<br>to get used to."
+    },
+    {
+      "top": "Tip 4: After an injury,<br>return <mark>gradually</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Rebuild strength, balance<br>and grip as you go."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Head knock plus headache or dizziness?"
+        }
+      ],
+      "bottom": "Or swelling lasting days, or a<br>joint that's popped out."
+    },
+    {
+      "top": "Ride safe — we're<br>here to <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's new e-scooter met a tram track on a wet morning, and Quinn landed on a hand. The wrist still moved, so it must be fine… right?\n\nKay's take: being able to move your wrist doesn't rule out a fracture. Speed and small wheels mean wrists and heads often take the hit.\n\nWhat can help: a helmet on every ride, speed that suits the surface, extra care on wet roads, gutters and tram tracks, taking it easy on the first rides of a new vehicle, and a graded return after injury with strength, balance and grip work.\n\nGet it checked after a head knock with headache, dizziness or poor focus, bony tenderness or swelling lasting more than a couple of days, or a dislocation.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#ebike",
+    "#escooter",
+    "#commuting",
+    "#wristinjury",
+    "#helmet",
+    "#ridesafe",
+    "#sydneycommute",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka falls off a new e-scooter onto a wrist and learns from physio Kay about helmets, surfaces and getting injuries checked.",
+  "story": {
+    "headline": "New e-scooter?<br>Read this first.",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-12",
+  "scheduled_time": "09:00",
+  "created": "2027-03-12-1",
+  "status": "approved",
+  "review_warnings": []
+}

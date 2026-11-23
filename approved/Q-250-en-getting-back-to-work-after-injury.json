@@ -1,0 +1,232 @@
+{
+  "id": "Q-250-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 250,
+  "service": "physio",
+  "topic": "Getting back to work after injury",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/return-to-work-after-injury-guide/",
+  "slides": [
+    {
+      "top": "Quinn hurt a shoulder<br>moving <em>house</em>.",
+      "props": [
+        "boxes@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "Now the big question:<br>when to go back to work?"
+    },
+    {
+      "top": "Plan A: stay home until<br><em>totally perfect</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "blank",
+          "item": "cup",
+          "think": "I'll go back when I'm perfect."
+        }
+      ],
+      "bottom": "Weeks passed. The couch<br>was winning."
+    },
+    {
+      "top": "Then the <em>worry</em><br>crept in.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "slump",
+          "face": "worried",
+          "fx": [
+            "gloom"
+          ],
+          "think": "What if I can't do my job?"
+        }
+      ],
+      "bottom": "The longer away, the bigger<br>the mountain looked."
+    },
+    {
+      "top": "Quinn asked Kay<br>for a plan.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is staying off the safest bet?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a gentler idea."
+    },
+    {
+      "top": "Staying <mark>connected</mark><br>often helps recovery.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Graded, modified duties often help."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Linked to better recovery than<br>waiting to be “fully healed”."
+    },
+    {
+      "top": "Tip 1: <mark>Modified</mark> duties,<br>building hours.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined",
+          "item": "bag"
+        }
+      ],
+      "bottom": "Start small, add hours<br>over a few weeks."
+    },
+    {
+      "top": "Tip 2: Put it in <mark>writing</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "proud",
+          "item": "book",
+          "say": "Tasks, hours, review dates!"
+        }
+      ],
+      "bottom": "A written plan keeps<br>everyone on the same page."
+    },
+    {
+      "top": "Tip 3: Bring your <mark>real</mark><br>job to physio.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "happy",
+          "think": "Real tasks, real desk."
+        }
+      ],
+      "bottom": "Your physio can look at<br>actual tasks and your setup."
+    },
+    {
+      "top": "Tip 4: Agree on a<br><mark>flare-up</mark> plan.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "neutral",
+          "item": "phone",
+          "say": "Flare-up? I'll tell my manager."
+        }
+      ],
+      "bottom": "Know who to tell — and what<br>changes — if it flares."
+    },
+    {
+      "top": "Tip 5: Focus on what<br>you <mark>can</mark> do.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Here's what I CAN do!"
+        }
+      ],
+      "bottom": "Ask your doctor to describe<br>your capacity, not just limits."
+    },
+    {
+      "top": "Pain <em>spiking</em>?",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Big pain rise? Adjust the plan."
+        }
+      ],
+      "bottom": "Talk with your doctor and<br>tweak it — that's normal."
+    },
+    {
+      "top": "Back to work,<br><em>step</em> by step.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn hurt a shoulder moving house and planned to stay home until totally perfect. Weeks passed, the couch was winning, and worry about going back grew.\n\nStaying connected to work with modified, graded duties is often linked to better recovery than staying off completely until fully healed.\n\nWhat can help: modified duties with hours built up over a few weeks, a written plan with tasks, hours and review dates, having your physio look at your real job tasks and workstation, agreeing who to tell if it flares, and asking your doctor to describe what you can do, not just what to avoid.\n\nIf pain rises a lot, talk with your doctor and adjust the plan.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#returntowork",
+    "#injuryrecovery",
+    "#gradedreturn",
+    "#workplacehealth",
+    "#shoulderinjury",
+    "#rehab",
+    "#workhealth",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka hurts a shoulder and learns from physio Kay how a graded, planned return to work can support recovery.",
+  "story": {
+    "headline": "Ready to go<br>back to work?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "determined",
+          "item": "bag"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-23",
+  "scheduled_time": "18:00",
+  "created": "2027-03-23-2",
+  "status": "approved",
+  "review_warnings": []
+}

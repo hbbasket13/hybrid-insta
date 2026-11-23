@@ -1,0 +1,234 @@
+{
+  "id": "Q-220-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 220,
+  "service": "physio",
+  "topic": "A deep clunky shoulder (SLAP tear)",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/slap-tear-shoulder-labrum/",
+  "slides": [
+    {
+      "top": "Quinn: weekend cricket<br><em>legend</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "happy",
+          "item": "ball",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "At least in Quinn's head."
+    },
+    {
+      "top": "Lately: a deep <em>clunk</em><br>in the shoulder.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ],
+          "say": "That noise felt… deep."
+        }
+      ],
+      "bottom": "Throwing hurt. Reaching up<br>did too."
+    },
+    {
+      "top": "The scan report said<br>“<em>SLAP tear</em>”.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "think": "Slap?! Who slapped my shoulder?"
+        }
+      ],
+      "bottom": "Quinn read it 40 times."
+    },
+    {
+      "top": "Quinn brought the<br>report to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried",
+          "say": "Does this mean it's wrecked?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay assessed how the<br>shoulder moved."
+    },
+    {
+      "top": "Scan findings like this<br>are <mark>common</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Many pain-free shoulders show it too"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Especially over 40. A scan<br>isn't the whole story."
+    },
+    {
+      "top": "Myth: the MRI explains<br>your <em>pain</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "blank",
+          "think": "So the picture isn't the boss?"
+        }
+      ],
+      "bottom": "Rehab is usually the first<br>step, over a few months."
+    },
+    {
+      "top": "Tip 1: Build <mark>rotator</mark><br><mark>cuff</mark> strength.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined",
+          "item": "band"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Steady, progressive band<br>and weight work."
+    },
+    {
+      "top": "Tip 2: Train <mark>shoulder</mark><br><mark>blade</mark> control.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Shoulder blades: on duty."
+        }
+      ],
+      "bottom": "So it moves well as the<br>arm rises."
+    },
+    {
+      "top": "Tip 3: Throwers — use<br>your <mark>hips</mark> and trunk.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Hip mobility and trunk rotation<br>share the load."
+    },
+    {
+      "top": "Tip 4: Ease <mark>overhead</mark><br>volume for now.",
+      "props": [
+        "calendar@120"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "determined",
+          "think": "Patience mode: on.",
+          "x": 440
+        }
+      ],
+      "bottom": "And give it months,<br>not weeks."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "It locks, or gets suddenly weak"
+        }
+      ],
+      "bottom": "After a fall or dislocation,<br>or constant night pain."
+    },
+    {
+      "top": "Clunky shoulder?<br>We can <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Weekend cricket legend Quinn noticed a deep clunk in the shoulder, and the scan report said \"SLAP tear\". Cue reading it 40 times.\n\nSLAP tears show up on scans of many pain-free shoulders, especially after 40, so the finding doesn't always explain the pain. Rehab is usually the first step, over a few months.\n\nWhat can help: building rotator cuff strength, training shoulder-blade control as the arm rises, using hip mobility and trunk rotation if you throw, easing overhead volume for now, and giving it months rather than weeks.\n\nGet it checked if the shoulder locks, becomes suddenly weak after a fall or dislocation, you have constant night pain, fever or weight loss, or you're a young thrower losing speed with a deep ache.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#slaptear",
+    "#shoulderpain",
+    "#labrum",
+    "#rotatorcuff",
+    "#throwingshoulder",
+    "#cricket",
+    "#chatswood",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets a SLAP tear on a shoulder scan and learns from physio Kay that rehab is usually the first step.",
+  "story": {
+    "headline": "Scan said<br>“SLAP tear”?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "happy",
+          "item": "ball"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-08",
+  "scheduled_time": "18:00",
+  "created": "2027-03-08-2",
+  "status": "approved",
+  "review_warnings": []
+}

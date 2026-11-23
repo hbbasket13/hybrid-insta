@@ -1,0 +1,242 @@
+{
+  "id": "Q-218-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 218,
+  "service": "physio",
+  "topic": "Growing pains at night",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/growing-pains-children/",
+  "slides": [
+    {
+      "top": "2 am. Uncle Quinn's<br>first <em>babysitting</em> shift.",
+      "props": [
+        "bed",
+        "moon@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "surprised",
+          "y": 752,
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "From down the hall:<br>“My legs hurt!”"
+    },
+    {
+      "top": "Quinn raced in like<br>a <em>superhero</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "worried",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "In slippers. Tripped once."
+    },
+    {
+      "top": "Little Pip's <em>both</em><br>legs ached.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "worried",
+          "say": "Both legs? Behind the knees?"
+        }
+      ],
+      "bottom": "By breakfast, Pip was running<br>laps again."
+    },
+    {
+      "top": "Next day, Quinn asked<br>Kay about it.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Pip's legs ache every night!"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked about the pattern."
+    },
+    {
+      "top": "Often: <mark>growing pains</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Common in kids around 3 to 10"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Both legs, at night, gone by<br>morning — usually harmless."
+    },
+    {
+      "top": "Myth: they come with<br>growth <em>spurts</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "think": "So Pip grows a metre a night?"
+        }
+      ],
+      "bottom": "They don't line up with<br>measurable growth."
+    },
+    {
+      "top": "Tip 1: Rubs, <mark>warmth</mark><br>and comfort.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "happy",
+          "fx": [
+            "heart"
+          ]
+        }
+      ],
+      "bottom": "A gentle leg rub and some<br>warmth can soothe."
+    },
+    {
+      "top": "Tip 2: Gentle <mark>stretches</mark><br>after big days.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Calves and thighs,<br>before bed."
+    },
+    {
+      "top": "Tip 3: Keep them<br><mark>playing</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "No need to ban the trampoline —<br>activity is usually fine."
+    },
+    {
+      "top": "Tip 4: Calm <mark>reassurance</mark><br>(and good shoes).",
+      "props": [
+        "shoe@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "wink",
+          "say": "These ones, Pip.",
+          "x": 420
+        }
+      ],
+      "bottom": "Supportive shoes seem to help<br>some kids."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "It's one leg, one spot, or a limp"
+        }
+      ],
+      "bottom": "Swelling, redness, fever, or<br>daytime pain limiting play."
+    },
+    {
+      "top": "Unsure about little<br>legs? We can <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Uncle Quinn's first babysitting shift: 2 am, and little Pip's legs were aching. By breakfast Pip was running laps again.\n\nNight-time aches in both legs, usually in kids around 3 to 10 and gone by morning, are often growing pains. They're generally harmless and, despite the name, don't line up with measurable growth spurts.\n\nWhat can help: gentle rubs, warmth and comfort, light calf and thigh stretches on big days, calm reassurance, keeping kids active, and supportive shoes for some.\n\nGet it checked if the pain is in one leg or one spot, there's a limp (especially in the morning), swelling or redness, daytime pain that limits play, fever, feeling unwell or weight loss, or pain that keeps getting worse.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#growingpains",
+    "#kidshealth",
+    "#legpain",
+    "#parenting",
+    "#paediatricphysio",
+    "#activekids",
+    "#chatswood",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Uncle Quinn the quokka comforts a young relative with night-time leg aches and learns from physio Kay about growing pains.",
+  "story": {
+    "headline": "Little legs<br>aching at night?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "happy",
+          "fx": [
+            "heart"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-07",
+  "scheduled_time": "18:00",
+  "created": "2027-03-07-2",
+  "status": "approved",
+  "review_warnings": []
+}

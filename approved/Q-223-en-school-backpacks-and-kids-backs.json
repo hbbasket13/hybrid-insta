@@ -1,0 +1,220 @@
+{
+  "id": "Q-223-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 223,
+  "service": "physio",
+  "topic": "School backpacks and kids' backs",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/school-backpack-kids-back-pain/",
+  "slides": [
+    {
+      "top": "Uncle Quinn's job today:<br>school <em>drop-off</em>.",
+      "props": [
+        "backpack"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "bottom": "His nephew's bag looked bigger<br>than his nephew."
+    },
+    {
+      "top": "Quinn tried lifting it.<br>It weighed a <em>tonne</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "sore",
+          "fx": [
+            "sweat"
+          ],
+          "shout": "What's IN here? Bricks?"
+        }
+      ],
+      "bottom": "Three library books and<br>one very old banana."
+    },
+    {
+      "top": "Quinn began to<br><em>worry</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "worried",
+          "think": "His poor little spine!"
+        }
+      ],
+      "bottom": "Was this bag wrecking<br>little backs?"
+    },
+    {
+      "top": "Quinn asked Kay for<br>a reality check.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Should he get a wheelie bag?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a reassuring<br>answer."
+    },
+    {
+      "top": "Heavy bags aren't clearly<br>linked to back <mark>pain</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Sleep, screens and play matter more"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Comfort matters — but the bag<br>isn't usually the villain."
+    },
+    {
+      "top": "Tip 1: <mark>Both</mark> straps,<br>worn snug.",
+      "props": [
+        "backpack"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Wide padded straps, bag sitting<br>between the shoulder blades."
+    },
+    {
+      "top": "Tip 2: Heavy stuff<br><mark>close</mark> to the back.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "happy",
+          "item": "book",
+          "say": "Only today's books go in!"
+        }
+      ],
+      "bottom": "Pack for today, not<br>the whole term."
+    },
+    {
+      "top": "Tip 3: Skip <mark>one-shoulder</mark><br>slinging on long walks.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "blank",
+          "think": "Stylish, yes. For 2 km, no."
+        }
+      ],
+      "bottom": "Fine for a quick dash, not<br>the whole walk home."
+    },
+    {
+      "top": "Tip 4: Look at the<br><mark>bigger picture</mark>.",
+      "props": [
+        "bed",
+        "moon@880"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "y": 752,
+          "fx": [
+            "zzz"
+          ]
+        }
+      ],
+      "bottom": "Sleep, screen time and<br>active play all count."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Night pain, fever or weight loss"
+        }
+      ],
+      "bottom": "Or pain under ~10, long morning<br>stiffness, or leg numbness."
+    },
+    {
+      "top": "Happy backs, happy<br><em>school runs</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Uncle Quinn did school drop-off, lifted his nephew's very heavy bag and started to worry about little spines.\n\nKay's take: research hasn't clearly shown heavy bags cause kids' back pain. Sleep, screens, activity and mood seem to matter more.\n\nWhat can help: two wide padded straps worn snug, heaviest items close to the back, packing only today's books, avoiding one-shoulder carrying on long walks, and looking at sleep, screens and active play. The 10% rule is a rough guide, not a firm injury line.\n\nGet it checked if there's night pain, fever or weight loss, back pain in a child under about 10, long morning stiffness, leg weakness or numbness, or pain getting worse over weeks.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#schoolbag",
+    "#backpack",
+    "#kidshealth",
+    "#backtoschool",
+    "#kidsbackpain",
+    "#parentingtips",
+    "#posture",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Uncle Quinn the quokka worries about his nephew's heavy school bag and learns from physio Kay what really matters for kids' backs.",
+  "story": {
+    "headline": "Is the school bag<br>the villain?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "props": [
+        "backpack"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-10",
+  "scheduled_time": "09:00",
+  "created": "2027-03-10-1",
+  "status": "approved",
+  "review_warnings": []
+}

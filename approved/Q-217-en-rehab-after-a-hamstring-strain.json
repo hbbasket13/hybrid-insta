@@ -1,0 +1,224 @@
+{
+  "id": "Q-217-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 217,
+  "service": "physio",
+  "topic": "Rehab after a hamstring strain",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/hamstring-strain-recovery-protocol/",
+  "slides": [
+    {
+      "top": "Quinn sprinted for<br>the <em>bus</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "surprised",
+          "fx": [
+            "motion"
+          ],
+          "shout": "WAIT FOR MEEE!"
+        }
+      ],
+      "bottom": "Then — a sharp twang in the<br>back of the thigh."
+    },
+    {
+      "top": "Missed the bus.<br>Gained a <em>limp</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "The hamstring was not<br>impressed."
+    },
+    {
+      "top": "Two weeks later, jogging<br>felt <mark>fine</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Sprints tomorrow! Quinn was<br>ready… right?"
+    },
+    {
+      "top": "Kay had a few<br>questions first.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "proud",
+          "say": "No pain jogging. I'm ready!"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay tested strength on<br>both sides."
+    },
+    {
+      "top": "Myth: pain-free jog<br>= <em>ready</em>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Jogging is a step, not the finish"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "The right rehab can lower the<br>chance of it happening again."
+    },
+    {
+      "top": "Tip 1: <mark>Trunk</mark> and<br><mark>agility</mark> work early.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Side steps, control drills<br>and core work."
+    },
+    {
+      "top": "Tip 2: Later, load it<br>in <mark>long</mark> positions.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Slow lowering exercises with<br>the muscle lengthened."
+    },
+    {
+      "top": "Tip 3: Use <mark>markers</mark>,<br>not just pain.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "say": "Left vs right: nearly equal!"
+        }
+      ],
+      "bottom": "Similar strength both sides,<br>pain-free single-leg hinges."
+    },
+    {
+      "top": "Tip 4: Build <mark>sprints</mark><br>up step by step.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Time alone doesn't tell you<br>it's ready."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A pop, and you can't put weight on it"
+        }
+      ],
+      "bottom": "Big bruising, numbness, or<br>no improvement in 2–3 weeks."
+    },
+    {
+      "top": "Back to sprinting —<br>the <em>smart</em> way.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn sprinted for the bus and felt a sharp twang in the back of the thigh. Two weeks on, jogging felt fine.\n\nPain-free jogging is a step, not the finish line. Rehab that includes trunk control, agility and loading the hamstring in lengthened positions tends to lower re-injury risk more than stretching alone.\n\nWhat can help: trunk and agility work early, slow lengthened loading later, return markers beyond pain (strength close to the other side and a pain-free single-leg hinge), and building sprints up gradually rather than relying on time alone.\n\nGet it checked if there was a pop with severe pain and you can't weight bear, bruising spreading towards the buttock, numbness or weakness, strong sitting-bone pain, or no change in 2–3 weeks.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#hamstringstrain",
+    "#hamstringinjury",
+    "#sportsinjury",
+    "#returntosport",
+    "#runninginjury",
+    "#sprinting",
+    "#sydneycbd",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka strains a hamstring chasing a bus and learns from physio Kay why pain-free jogging isn't the finish line.",
+  "story": {
+    "headline": "Pain-free jog<br>= ready?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-07",
+  "scheduled_time": "09:00",
+  "created": "2027-03-07-1",
+  "status": "approved",
+  "review_warnings": []
+}

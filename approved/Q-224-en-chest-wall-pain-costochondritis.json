@@ -1,0 +1,229 @@
+{
+  "id": "Q-224-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 224,
+  "service": "physio",
+  "topic": "Chest wall pain (costochondritis)",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/costochondritis-chest-wall-pain/",
+  "slides": [
+    {
+      "top": "Quinn reached for the<br>top shelf. <em>Ouch</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "sore",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "A sharp jab, right beside<br>the breastbone."
+    },
+    {
+      "top": "Twisting? <em>Ouch</em>.<br>Deep breath? <em>Ouch</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore"
+        }
+      ],
+      "bottom": "Even a friendly hug<br>felt like a bad idea."
+    },
+    {
+      "top": "Step one: Quinn saw<br>the <mark>GP</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "worried",
+          "item": "phone",
+          "say": "Booking a GP check today."
+        }
+      ],
+      "bottom": "Chest pain needs the heart<br>checked first — always."
+    },
+    {
+      "top": "Heart all clear. Next<br>stop: Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "It hurts when I press here."
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the ribs<br>and the mid-back."
+    },
+    {
+      "top": "Likely irritated rib<br><mark>cartilage</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Where the ribs meet the breastbone"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised"
+        }
+      ],
+      "bottom": "Sharp, and easy to set off<br>by pressing or twisting."
+    },
+    {
+      "top": "Myth: if pressing hurts,<br>it <em>can't</em> be the heart.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "blank",
+          "think": "So poking it isn't a heart test?"
+        }
+      ],
+      "bottom": "Not a reliable test —<br>a doctor checks first."
+    },
+    {
+      "top": "Tip 1: Ease off, but<br>keep <mark>moving</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Less pressing and big twists —<br>walks still welcome."
+    },
+    {
+      "top": "Tip 2: <mark>Mobilise</mark> a<br>stiff mid-back.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Gentle upper-back movement<br>can help."
+    },
+    {
+      "top": "Tip 3: <mark>Warmth</mark> and<br>slow breaths.",
+      "props": [
+        "blanket"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup",
+          "fx": [
+            "steam"
+          ]
+        }
+      ],
+      "bottom": "Heat for comfort, and calmer<br>days help too."
+    },
+    {
+      "top": "Tip 4: Give it<br><mark>time</mark>.",
+      "props": [
+        "calendar@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud"
+        }
+      ],
+      "bottom": "Often settles over weeks to<br>a couple of months."
+    },
+    {
+      "top": "Get <em>urgent</em> help if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Crushing pain, or pain to arm or jaw"
+        }
+      ],
+      "bottom": "Sweating, nausea or breathless?<br>Call 000 straight away."
+    },
+    {
+      "top": "Heart cleared? We can<br>help with the <em>rest</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn reached for the top shelf and felt a sharp jab beside the breastbone. Twisting hurt, deep breaths hurt, even hugs felt risky.\n\nFirst stop was the GP, because chest pain always needs the heart checked first. With that cleared, Kay found irritated cartilage where the ribs meet the breastbone. Note: pain on pressing doesn't rule out the heart.\n\nWhat can help: easing off pressing and big twists while staying active, gentle mid-back mobility, warmth and relaxed breathing for comfort, and patience — it often settles over weeks to a couple of months.\n\nCall 000 for crushing chest pain, pain spreading to the arm or jaw, sweating, nausea, breathlessness, pain on exertion, or a first-ever episode.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#costochondritis",
+    "#chestwallpain",
+    "#ribpain",
+    "#upperback",
+    "#breathing",
+    "#midback",
+    "#mobility",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka gets chest pain checked by a GP first, then learns from physio Kay how irritated rib cartilage can be eased.",
+  "story": {
+    "headline": "Sharp pain beside<br>the breastbone?",
+    "body": "Heart checked first — then 4 tips",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "sore"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-10",
+  "scheduled_time": "18:00",
+  "created": "2027-03-10-2",
+  "status": "approved",
+  "review_warnings": []
+}

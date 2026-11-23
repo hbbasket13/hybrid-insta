@@ -1,0 +1,216 @@
+{
+  "id": "Q-229-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 229,
+  "service": "physio",
+  "topic": "Diabetes and stiff joints",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/diabetes-musculoskeletal-health/",
+  "slides": [
+    {
+      "top": "Quinn versus the<br><em>pickle jar</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "bottle",
+          "fx": [
+            "sweat"
+          ],
+          "say": "Come ON, little jar."
+        }
+      ],
+      "bottom": "The jar won.<br>Again."
+    },
+    {
+      "top": "Then a finger started<br><em>catching</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "blank",
+          "fx": [
+            "question"
+          ],
+          "say": "Click. Stuck. Click."
+        }
+      ],
+      "bottom": "Like a tiny, stubborn<br>light switch."
+    },
+    {
+      "top": "And the shoulder got<br><em>stiffer</em> each week.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "rub_neck",
+          "face": "sore",
+          "fx": [
+            "pain_shoulder"
+          ]
+        }
+      ],
+      "bottom": "The top shelf became<br>a distant dream."
+    },
+    {
+      "top": "Quinn mentioned it<br>all to Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "I have diabetes. Is it related?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the shoulder,<br>hands and feet."
+    },
+    {
+      "top": "Diabetes can make joints<br>and tendons <mark>stiffer</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Tendons may also heal more slowly"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Trigger finger, frozen shoulder<br>and carpal tunnel: more common."
+    },
+    {
+      "top": "Tip 1: Team up with<br>your <mark>GP</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "happy",
+          "item": "phone",
+          "think": "Diabetes team check-in: booked"
+        }
+      ],
+      "bottom": "Steady blood sugar helps<br>joints and tendons too."
+    },
+    {
+      "top": "Tip 2: Act <mark>early</mark> on stiff<br>shoulders and hands.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Early movement work beats<br>waiting it out."
+    },
+    {
+      "top": "Tip 3: Lift <em>and</em><br>get <mark>puffed</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Strength plus aerobic work<br>helps joints and glucose."
+    },
+    {
+      "top": "Tip 4: Check your <mark>feet</mark><br>every day.",
+      "props": [
+        "shoe@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "neutral",
+          "think": "Ten toes. No cuts. Nice."
+        }
+      ],
+      "bottom": "Look for cuts, blisters or<br>spots that heal slowly."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "A finger that locks, or numb feet"
+        }
+      ],
+      "bottom": "Or a stiffening shoulder, or a<br>foot wound that won't heal."
+    },
+    {
+      "top": "Not 'just age' — we<br>can <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn lost to a pickle jar, a finger started catching like a stubborn light switch, and the shoulder got stiffer every week.\n\nKay's take: diabetes can make joints and tendons stiffer and raise the chance of frozen shoulder, trigger finger, carpal tunnel and tendon problems. Tendons may also heal more slowly — it's not just ageing, and there's plenty you can do.\n\nWhat can help: working with your GP or diabetes team on blood sugar, addressing stiff shoulders and hands early, expecting tendon rehab to take a bit longer, combining strength and aerobic exercise, and checking your feet every day.\n\nGet it checked if a shoulder keeps stiffening, a finger locks, your feet feel numb, or a foot wound is slow to heal.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#diabetes",
+    "#type2diabetes",
+    "#stiffjoints",
+    "#triggerfinger",
+    "#frozenshoulder",
+    "#footcare",
+    "#exerciseismedicine",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka notices stiff hands and shoulders with diabetes and learns from physio Kay how early movement and daily foot checks can help.",
+  "story": {
+    "headline": "Diabetes and<br>stiff joints?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_up",
+          "face": "determined",
+          "item": "bottle"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-13",
+  "scheduled_time": "09:00",
+  "created": "2027-03-13-1",
+  "status": "approved",
+  "review_warnings": []
+}

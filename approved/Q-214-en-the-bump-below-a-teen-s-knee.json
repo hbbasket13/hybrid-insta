@@ -1,0 +1,245 @@
+{
+  "id": "Q-214-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 214,
+  "service": "physio",
+  "topic": "The bump below a teen's knee",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/osgood-schlatter-teen-knee/",
+  "slides": [
+    {
+      "top": "Flashback: Quinn, age<br>13, <em>sport-obsessed</em>.",
+      "props": [
+        "ball@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Soccer Mon, Wed, Sat.<br>Basketball the rest."
+    },
+    {
+      "top": "Then: a sore <em>bump</em><br>below the knee.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "sore",
+          "fx": [
+            "pain_knee"
+          ],
+          "say": "Is my knee growing a horn?"
+        }
+      ],
+      "bottom": "Worse with running,<br>jumping and kneeling."
+    },
+    {
+      "top": "Stairs after training?<br><em>Ouch</em>.",
+      "props": [
+        "stairs"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sad"
+        }
+      ],
+      "bottom": "Teen Quinn: very dramatic<br>about it."
+    },
+    {
+      "top": "Teen Quinn and Mum<br>visited Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "worried",
+          "say": "Do I have to quit sport?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked the knee, hips<br>and the training load."
+    },
+    {
+      "top": "It's often <mark>Osgood-</mark><br><mark>Schlatter</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "The tendon tugs on a growing spot"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Repeated pull on a growth<br>area — often eases with growth."
+    },
+    {
+      "top": "Myth: rest alone<br>sorts it <em>out</em>.",
+      "props": [
+        "bed"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sleep",
+          "face": "sleepy",
+          "y": 752,
+          "think": "Bed rest… forever?"
+        }
+      ],
+      "bottom": "Full rest can calm it briefly —<br>then it flares on return."
+    },
+    {
+      "top": "Tip 1: <mark>Less</mark> sport,<br>not <em>no</em> sport.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "throw",
+          "face": "happy",
+          "item": "ball"
+        }
+      ],
+      "bottom": "Trim the dose so the knee<br>can keep up."
+    },
+    {
+      "top": "Tip 2: The<br><mark>next-morning</mark> rule.",
+      "props": [
+        "sun@120"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "stretch",
+          "face": "happy",
+          "say": "Settled by breakfast? OK!",
+          "x": 420
+        }
+      ],
+      "bottom": "Mild soreness is OK if it<br>settles and isn't building."
+    },
+    {
+      "top": "Tip 3: Build knee and<br>hip <mark>strength</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined"
+        },
+        {
+          "who": "kay",
+          "pose": "point",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Progressed gradually<br>over weeks."
+    },
+    {
+      "top": "Tip 4: <mark>Audit</mark> the<br>sports calendar.",
+      "props": [
+        "calendar@120"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "blank",
+          "say": "Four teams? Maybe three.",
+          "x": 440,
+          "flip": true
+        }
+      ],
+      "bottom": "Drop one overlapping<br>commitment if you can."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "There's night pain or fever"
+        }
+      ],
+      "bottom": "A hot swollen joint, locking,<br>or pain away from the bump."
+    },
+    {
+      "top": "Growing knees need<br>a <em>plan</em> — we can help.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Flashback to teen Quinn: soccer three days a week, basketball the rest, and then a sore bump just below the knee that hated running, jumping, kneeling and stairs.\n\nThat's often Osgood-Schlatter, where repeated pull from the tendon irritates a growing area below the knee. It often settles with growth, though it can linger, and the bump usually stays. Rest alone tends not to sort it out.\n\nWhat can help: reducing the sport dose rather than stopping, the next-morning rule (soreness settled by the next day and not building week to week), progressive knee and hip strength, and dropping one overlapping commitment.\n\nGet it checked if there's night pain, fever, a hot swollen joint, locking, or pain away from the bump.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#osgoodschlatter",
+    "#teenknee",
+    "#kneepain",
+    "#youthsport",
+    "#growingathletes",
+    "#kneestrength",
+    "#chatswood",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where teen Quinn the quokka gets a sore bump below the knee and learns from physio Kay how to manage sport load while growing.",
+  "story": {
+    "headline": "A sore bump<br>below the knee?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hold_knee",
+          "face": "surprised",
+          "fx": [
+            "pain_knee"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-05",
+  "scheduled_time": "18:00",
+  "created": "2027-03-05-2",
+  "status": "approved",
+  "review_warnings": []
+}

@@ -1,0 +1,247 @@
+{
+  "id": "Q-243-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 243,
+  "service": "physio",
+  "topic": "Soccer: warm up like the pros",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/soccer-injuries-prevention-guide/",
+  "slides": [
+    {
+      "top": "Sunday league: kick-off<br>in <em>2 minutes</em>.",
+      "props": [
+        "ball@820"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ],
+          "say": "Warm-up? I'll warm up IN the game."
+        }
+      ],
+      "bottom": "Famous last words."
+    },
+    {
+      "top": "Minute 12: a <em>sprint</em>…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "exclaim"
+          ],
+          "shout": "Ow! Back of my thigh!"
+        }
+      ],
+      "bottom": "Hamstring: “We need to talk.”"
+    },
+    {
+      "top": "Quinn blamed<br><em>bad luck</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "sad",
+          "item": "icepack",
+          "think": "The universe hates my legs."
+        }
+      ],
+      "bottom": "Hamstrings, ankles, knees and<br>groins: soccer's usual list."
+    },
+    {
+      "top": "Quinn limped in<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "sad",
+          "say": "Was it just bad luck?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had a different theory."
+    },
+    {
+      "top": "Many soccer injuries<br>are <mark>preventable</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Structured warm-ups cut injury rates."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Prevention programs work —<br>if you actually do them."
+    },
+    {
+      "top": "Tip 1: A <mark>structured</mark><br>warm-up.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Programs like FIFA 11+,<br>2–3 times a week."
+    },
+    {
+      "top": "Tip 2: <mark>Nordic</mark> hamstring<br>curls.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Done regularly, they help<br>protect the hamstrings."
+    },
+    {
+      "top": "Tip 3: <mark>Sprint</mark> at training.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "determined",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "So match-day speed isn't<br>a shock to the system."
+    },
+    {
+      "top": "Tip 4: Copenhagens for<br>the <mark>groin</mark>.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "side_bend",
+          "face": "determined"
+        }
+      ],
+      "bottom": "A side-plank adductor drill<br>to build groin strength."
+    },
+    {
+      "top": "Tip 5: Watch the <mark>load</mark>.",
+      "props": [
+        "calendar@180"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Three teams this weekend?!"
+        }
+      ],
+      "bottom": "Avoid sudden spikes and<br>playing for several teams."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Can't weight bear? Big swelling?"
+        }
+      ],
+      "bottom": "Suspected concussion: off the<br>field and get checked."
+    },
+    {
+      "top": "Warm up, then<br><em>play on</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn skipped the warm-up, sprinted in minute 12, and the hamstring complained. Quinn blamed bad luck.\n\nHamstrings, ankles, knees and groins are soccer's usual injuries, and structured prevention programs can reduce them. A hamstring strain that keeps coming back often points to unfinished rehab rather than luck.\n\nWhat can help: a structured warm-up such as FIFA 11+ two to three times a week, consistent Nordic hamstring curls, sprinting at training, Copenhagen adductor work for the groin, and managing load spikes rather than playing for several teams at once.\n\nGet checked if you can't put weight on the leg or there's big swelling, and leave the field for any suspected concussion.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#soccer",
+    "#football",
+    "#hamstring",
+    "#fifa11",
+    "#injuryprevention",
+    "#sportsphysio",
+    "#warmup",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka strains a hamstring at Sunday soccer and learns from physio Kay how warm-ups and strength work can reduce injury risk.",
+  "story": {
+    "headline": "Skipping the<br>warm-up?",
+    "body": "5 soccer tips from Quinn",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "ball@820"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-20",
+  "scheduled_time": "09:00",
+  "created": "2027-03-20-1",
+  "status": "approved",
+  "review_warnings": []
+}

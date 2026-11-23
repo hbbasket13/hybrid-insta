@@ -1,0 +1,228 @@
+{
+  "id": "Q-260-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 260,
+  "service": "physio",
+  "topic": "Heel spurs: the scan myth",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/heel-spurs-myth-explained/",
+  "slides": [
+    {
+      "top": "Quinn's scan showed<br>a heel <em>spur</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "say": "I have a SPUR? Like a cowboy?"
+        }
+      ],
+      "bottom": "Quinn bought a hat.<br>Just in case."
+    },
+    {
+      "top": "First steps each<br>morning: <em>ouch</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "limp",
+          "face": "sore",
+          "fx": [
+            "pain_foot"
+          ]
+        }
+      ],
+      "bottom": "Like stepping on a Lego.<br>Every single day."
+    },
+    {
+      "top": "Quinn assumed the<br>spur had to <em>go</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried",
+          "think": "Does it need to come out?"
+        }
+      ],
+      "bottom": "Dr Google was very<br>dramatic about it."
+    },
+    {
+      "top": "So Quinn asked Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "point",
+          "face": "sad",
+          "say": "Is my spur causing all this?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay asked what had changed<br>in Quinn's routine."
+    },
+    {
+      "top": "Spurs show up in plenty<br>of <mark>pain-free</mark> feet.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "It's usually overloaded tissue"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Heels often settle while<br>the spur stays put."
+    },
+    {
+      "top": "Tip 1: Ask what<br><mark>changed</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "neutral",
+          "think": "New shoes? More standing? Big walks?"
+        }
+      ],
+      "bottom": "A spike in load is<br>a common trigger."
+    },
+    {
+      "top": "Tip 2: Progressive<br><mark>calf raises</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "tiptoe",
+          "face": "determined",
+          "fx": [
+            "sweat"
+          ]
+        }
+      ],
+      "bottom": "Try toes on a rolled towel<br>as it gets easier."
+    },
+    {
+      "top": "Tip 3: Trim the <mark>spikes</mark>,<br>then rebuild.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "item": "cup"
+        }
+      ],
+      "bottom": "Ease back on long standing,<br>then build back up."
+    },
+    {
+      "top": "Tip 4: Comfy <mark>shoes</mark>,<br>gentle first steps.",
+      "props": [
+        "shoe@720"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Supportive shoes and a gentle<br>stretch before getting up."
+    },
+    {
+      "top": "Tip 5: Give it<br><mark>6–12 weeks</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Steady effort often pays<br>off over time."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Numbness, tingling or rest pain"
+        }
+      ],
+      "bottom": "Or heel pain in a child, after a<br>fall, or a hot, swollen heel."
+    },
+    {
+      "top": "Spur or not, we can<br><em>help</em> your heels.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "wave",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's scan showed a heel spur. Quinn bought a cowboy hat, then limped through every first morning step, wondering if it had to come out.\n\nSpurs are common in pain-free feet. Heel pain usually comes from overloaded tissue on the sole of the foot, and it often settles with load-based rehab while the spur simply stays put.\n\nWhat can help: asking what changed in your standing, walking or shoes, progressive calf raises, trimming load spikes then rebuilding, supportive shoes and a gentle stretch before your first morning steps, and giving it 6–12 weeks.\n\nGet it checked for numbness or tingling, pain at rest or night, pain after a fall or pop, heel pain in a child, or a hot, swollen heel.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#heelspur",
+    "#heelpain",
+    "#plantarheelpain",
+    "#footpain",
+    "#plantarfasciitis",
+    "#calfraises",
+    "#runninginjury",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka finds a heel spur on a scan and learns from physio Kay that heel pain often settles with load-based rehab.",
+  "story": {
+    "headline": "Heel spur on<br>your scan?",
+    "body": "5 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone"
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-28",
+  "scheduled_time": "18:00",
+  "created": "2027-03-28-2",
+  "status": "approved",
+  "review_warnings": []
+}

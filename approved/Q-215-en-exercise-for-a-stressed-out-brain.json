@@ -1,0 +1,241 @@
+{
+  "id": "Q-215-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 215,
+  "service": "physio",
+  "topic": "Exercise for a stressed-out brain",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/exercise-mental-health-evidence/",
+  "slides": [
+    {
+      "top": "Quinn's brain had<br><em>too many tabs</em> open.",
+      "props": [
+        "chair",
+        "desk",
+        "laptop"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "type",
+          "face": "blank",
+          "fx": [
+            "steam"
+          ],
+          "think": "Inbox: 312. Brain: full."
+        }
+      ],
+      "bottom": "Work, bills, group chats…<br>all at once."
+    },
+    {
+      "top": "Evenings: <em>doom-scroll</em><br>o'clock.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "sad",
+          "item": "phone",
+          "fx": [
+            "gloom"
+          ]
+        }
+      ],
+      "bottom": "Tired, but somehow<br>wired."
+    },
+    {
+      "top": "Everyone said:<br>“Just <em>exercise</em>!”",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "facepalm",
+          "face": "blank"
+        }
+      ],
+      "bottom": "Quinn: “With what energy?”"
+    },
+    {
+      "top": "Quinn asked Kay<br>at a check-up.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Does moving actually help my head?"
+        },
+        {
+          "who": "kay",
+          "pose": "think",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay had some good news."
+    },
+    {
+      "top": "The research is<br>pretty <mark>encouraging</mark>.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Movement can lift mood and ease worry"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "sparkle"
+          ]
+        }
+      ],
+      "bottom": "Consistency matters more<br>than type or intensity."
+    },
+    {
+      "top": "Myth: exercise <em>replaces</em><br>other support.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "blank",
+          "think": "So I can skip my GP?"
+        }
+      ],
+      "bottom": "It works alongside your GP<br>and other care."
+    },
+    {
+      "top": "Tip 1: Start <mark>tiny</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "say": "10 minutes? I can do that."
+        }
+      ],
+      "bottom": "A 10-minute walk counts."
+    },
+    {
+      "top": "Tip 2: <mark>Attach</mark> it to<br>a habit.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sip",
+          "face": "happy",
+          "item": "cup",
+          "think": "Coffee first. Then walk."
+        }
+      ],
+      "bottom": "Walk after your morning<br>coffee, every day."
+    },
+    {
+      "top": "Tip 3: Bring a <mark>buddy</mark>,<br>go <mark>outdoors</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        },
+        {
+          "who": "kay",
+          "pose": "cheer",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Group classes and fresh air<br>can help it stick."
+    },
+    {
+      "top": "Tip 4: Missed a day?<br>That's <mark>normal</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "happy",
+          "say": "Skipped Tuesday. Back tomorrow."
+        }
+      ],
+      "bottom": "Mood benefits often arrive<br>before fitness does."
+    },
+    {
+      "top": "Get support if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Distress hangs around: talk to your GP"
+        }
+      ],
+      "bottom": "Pain keeps stopping you<br>moving? A physio can help."
+    },
+    {
+      "top": "Small moves,<br><em>better</em> days.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "jump",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "wave",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's brain had too many tabs open, evenings were for doom-scrolling, and \"just exercise\" sounded exhausting.\n\nThe research on exercise for low mood and anxiety is encouraging. Consistency tends to matter more than the type or intensity, and benefits can show up within weeks. It works alongside professional care rather than replacing it.\n\nWhat can help: starting tiny with a 10-minute walk, attaching it to a habit like your morning coffee, bringing a buddy or joining a group, getting outdoors where you can, and treating missed days as normal. Mood often lifts before fitness does.\n\nIf distress hangs around, talk to your GP. If pain keeps stopping you from moving, a physio can help you find a way in.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#exerciseformentalhealth",
+    "#mentalhealth",
+    "#movementmatters",
+    "#walking",
+    "#stressrelief",
+    "#wellbeing",
+    "#sydneycbd",
+    "#physio",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka"
+  ],
+  "alt_text": "An illustrated reel where a stressed Quinn the quokka learns from physio Kay how small, regular movement can support mood alongside other care.",
+  "story": {
+    "headline": "Too many<br>tabs open?",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy"
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-06",
+  "scheduled_time": "09:00",
+  "created": "2027-03-06-1",
+  "status": "approved",
+  "review_warnings": []
+}

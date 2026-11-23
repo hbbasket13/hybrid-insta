@@ -1,0 +1,232 @@
+{
+  "id": "Q-248-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 248,
+  "service": "physio",
+  "topic": "Horse riders' backs and hips",
+  "location_tag": "Chatswood",
+  "source_url": "https://physio-kayju.com/horse-riding-injuries-riders/",
+  "slides": [
+    {
+      "top": "Quinn took up<br><em>horse riding</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit",
+          "face": "happy",
+          "say": "Giddy-up! (Horse not pictured.)"
+        }
+      ],
+      "bottom": "The horse was too shy<br>for the camera."
+    },
+    {
+      "top": "After the lesson:<br>walking like a <em>cowboy</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "bottom": "Sitting bones, hips and<br>groin all filed complaints."
+    },
+    {
+      "top": "And the <em>low back</em><br>joined in.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hunched",
+          "face": "sore",
+          "fx": [
+            "pain_back"
+          ],
+          "think": "Is my spine broken?!"
+        }
+      ],
+      "bottom": "Quinn was being a little<br>dramatic."
+    },
+    {
+      "top": "Quinn trotted in<br>to see Kay.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Back ache = spine problem?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked Quinn over."
+    },
+    {
+      "top": "Riding means <mark>absorbing</mark><br>every bump.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Often it's load and lopsided habits."
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Back ache after riding often<br>isn't a spine problem."
+    },
+    {
+      "top": "Tip 1: Train your <mark>trunk</mark><br>off the horse.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lie",
+          "face": "determined",
+          "y": 752
+        }
+      ],
+      "bottom": "Back and core endurance<br>help soak up the bumps."
+    },
+    {
+      "top": "Tip 2: Keep your <mark>hips</mark><br>mobile.",
+      "props": [
+        "mat"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lunge",
+          "face": "happy"
+        }
+      ],
+      "bottom": "Riders spend a lot of time<br>in one hip position."
+    },
+    {
+      "top": "Tip 3: <mark>Single-leg</mark> and<br>glute work.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "march",
+          "face": "determined"
+        }
+      ],
+      "bottom": "Helps even out left-right<br>differences."
+    },
+    {
+      "top": "Tip 4: Build general<br><mark>fitness</mark>.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "run",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "A fitter rider can stay<br>steadier in the saddle."
+    },
+    {
+      "top": "Tip 5: <mark>Helmet</mark>, every<br>ride.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hands_hips",
+          "face": "proud",
+          "say": "Helmet on. Safety first!"
+        }
+      ],
+      "bottom": "Consider a body protector<br>too — falls are the big risk."
+    },
+    {
+      "top": "After a fall, get<br>checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Hit your head? No riding again today."
+        }
+      ],
+      "bottom": "Also neck or back concerns,<br>or a limb you can't move."
+    },
+    {
+      "top": "Saddle up — <em>steady</em><br>and strong.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn took up horse riding, walked out like a cowboy, and then the low back joined in.\n\nRiding means absorbing every bump, often in a slightly lopsided position, so low back, hips, groin, sitting bones and neck can ache. Back ache after riding often isn't a spine problem. Falls are the bigger risk.\n\nWhat can help: trunk and back endurance work off the horse, hip mobility, single-leg and glute exercises to even out asymmetry, general fitness, and a helmet on every ride, plus considering a body protector.\n\nAfter any fall with a head knock, don't ride again that day. Get checked for neck or back concerns after a fall or a limb you can't move.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#horseriding",
+    "#equestrian",
+    "#riderfitness",
+    "#lowbackpain",
+    "#hipmobility",
+    "#ridersafety",
+    "#coretraining",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#chatswood"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka takes up horse riding, gets a sore back and hips, and learns from physio Kay how riders can train and stay safe.",
+  "story": {
+    "headline": "Saddle sore<br>back?",
+    "body": "5 tips for riders from Quinn",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "sore",
+          "fx": [
+            "pain_hip"
+          ]
+        }
+      ],
+      "props": []
+    }
+  },
+  "scheduled_date": "2027-03-22",
+  "scheduled_time": "18:00",
+  "created": "2027-03-22-2",
+  "status": "approved",
+  "review_warnings": []
+}

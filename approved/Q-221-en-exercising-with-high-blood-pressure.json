@@ -1,0 +1,222 @@
+{
+  "id": "Q-221-en",
+  "lang": "en",
+  "style": "reel",
+  "format": "reel",
+  "series": "QUINN'S BODY DIARY",
+  "ep": 221,
+  "service": "physio",
+  "topic": "Exercising with high blood pressure",
+  "location_tag": "Sydney CBD",
+  "source_url": "https://physio-kayju.com/exercise-with-high-blood-pressure-guide/",
+  "slides": [
+    {
+      "top": "Quinn's check-up: blood<br>pressure a bit <em>high</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "phone",
+          "face": "surprised",
+          "item": "phone",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "Not the kind of high score<br>Quinn was hoping for."
+    },
+    {
+      "top": "New plan: avoid all<br><em>effort</em>. Forever.",
+      "props": [
+        "plant@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "sit_relax",
+          "face": "blank",
+          "think": "If I never move, I'm safe… right?"
+        }
+      ],
+      "bottom": "Even the stairs looked<br>suspicious."
+    },
+    {
+      "top": "Especially the<br><em>weights</em>.",
+      "props": [
+        "dumbbell@860"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "hug_self",
+          "face": "worried",
+          "think": "Lifting = pressure = boom?"
+        }
+      ],
+      "bottom": "Quinn gave the dumbbell<br>a very wide berth."
+    },
+    {
+      "top": "Quinn asked Kay before<br>giving up on the gym.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "shrug",
+          "face": "worried",
+          "say": "Is exercise off the menu now?"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral"
+        }
+      ],
+      "bottom": "Kay checked Quinn had seen<br>the GP first."
+    },
+    {
+      "top": "Exercise is a <mark>helpful</mark><br>blood pressure habit.",
+      "cast": [
+        {
+          "who": "kay",
+          "pose": "explain",
+          "face": "neutral",
+          "say": "Regular exercise can help lower it"
+        },
+        {
+          "who": "quokka",
+          "pose": "stand",
+          "face": "surprised",
+          "fx": [
+            "exclaim"
+          ]
+        }
+      ],
+      "bottom": "And sensible weights are<br>usually fine, too."
+    },
+    {
+      "top": "Tip 1: About <mark>150 min</mark><br>of cardio a week.",
+      "props": [
+        "trees"
+      ],
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "bottom": "Brisk walks, cycling or<br>swimming all count."
+    },
+    {
+      "top": "Tip 2: Strength work<br><mark>2–3 times</mark> a week.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "squat",
+          "face": "determined",
+          "item": "dumbbell"
+        }
+      ],
+      "bottom": "Moderate weights, done<br>with good control."
+    },
+    {
+      "top": "Tip 3: <mark>Breathe</mark> through<br>every lift.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "lift",
+          "face": "determined",
+          "say": "Breathe out as I lift!"
+        }
+      ],
+      "bottom": "Long breath-holds push the<br>pressure up — skip them."
+    },
+    {
+      "top": "Tip 4: Build up slowly,<br>go by <mark>feel</mark>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "explain",
+          "face": "happy",
+          "say": "Effort 5 out of 10: I can still chat"
+        }
+      ],
+      "bottom": "Effort ratings help when<br>heart-rate zones don't."
+    },
+    {
+      "top": "Get it checked if…",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "think",
+          "face": "worried"
+        },
+        {
+          "who": "kay",
+          "pose": "clipboard",
+          "face": "neutral",
+          "say": "Chest pain or dizziness? Stop & get help"
+        }
+      ],
+      "bottom": "Very high BP or heart issues?<br>See your GP before starting."
+    },
+    {
+      "top": "Move more, gently —<br>we can <em>help</em>.",
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "cheer",
+          "face": "happy"
+        },
+        {
+          "who": "kay",
+          "pose": "thumbs",
+          "face": "happy"
+        }
+      ],
+      "info": true
+    }
+  ],
+  "caption": "Quinn's check-up showed blood pressure on the high side, so Quinn planned to never move again — especially not with weights.\n\nKay's take: regular exercise is one of the most helpful habits for blood pressure, and sensible strength training is usually fine too.\n\nWhat can help: around 150 minutes of moderate cardio a week (walking, cycling, swimming), strength work two to three times a week, breathing through each lift instead of holding your breath, and building up gradually using how hard it feels.\n\nIf your blood pressure is very high or newly found, or you have heart or kidney conditions, check in with your GP first. Chest pain, palpitations, unusual breathlessness, dizziness or fainting during exercise mean stop and get help.\n\nOur Sydney CBD and Chatswood physios can help. Book via the link in bio.\n\nGeneral information only — not a substitute for an individual assessment.",
+  "hashtags": [
+    "#bloodpressure",
+    "#hypertension",
+    "#exerciseforhealth",
+    "#hearthealth",
+    "#strengthtraining",
+    "#walking",
+    "#activeliving",
+    "#physiotherapy",
+    "#sydneyphysio",
+    "#hybridphysiotherapy",
+    "#quokka",
+    "#sydneycbd"
+  ],
+  "alt_text": "An illustrated reel where Quinn the quokka learns from physio Kay that regular cardio and sensible strength training can suit people with high blood pressure.",
+  "story": {
+    "headline": "High blood pressure?<br>Keep moving.",
+    "body": "4 tips from Quinn's new reel",
+    "scene": {
+      "cast": [
+        {
+          "who": "quokka",
+          "pose": "walk",
+          "face": "happy",
+          "fx": [
+            "motion"
+          ]
+        }
+      ],
+      "props": [
+        "trees"
+      ]
+    }
+  },
+  "scheduled_date": "2027-03-09",
+  "scheduled_time": "09:00",
+  "created": "2027-03-09-1",
+  "status": "approved",
+  "review_warnings": []
+}
