@@ -226,6 +226,12 @@
   "scheduled_date": "2026-11-25",
   "created": "2026-11-25-2",
   "scheduled_time": "18:00",
-  "status": "approved",
-  "review_warnings": []
+  "status": "posted",
+  "review_warnings": [],
+  "posted": {
+    "date": "2026-11-25",
+    "media_id": "18018388379973063",
+    "permalink": "https://www.instagram.com/reel/DgKPHeohipu/",
+    "story_id": null
+  }
 }
