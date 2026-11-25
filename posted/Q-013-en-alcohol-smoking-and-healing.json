@@ -229,6 +229,12 @@
   "scheduled_date": "2026-11-25",
   "created": "2026-11-25-1",
   "scheduled_time": "09:00",
-  "status": "approved",
-  "review_warnings": []
+  "status": "posted",
+  "review_warnings": [],
+  "posted": {
+    "date": "2026-11-25",
+    "media_id": "18435452995144167",
+    "permalink": "https://www.instagram.com/reel/DgJlV02szDw/",
+    "story_id": "17943762765124141"
+  }
 }
